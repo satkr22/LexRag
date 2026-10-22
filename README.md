@@ -99,7 +99,7 @@ Authentication:
 
 ## Project Structure
 ```
-Legal-AI-Assistant---RAG-based-Conversational-System/
+LexRag/
 │
 └── v*/
     ├── frontend/
@@ -130,8 +130,8 @@ Legal-AI-Assistant---RAG-based-Conversational-System/
 
 Clone repository:
 ```
-git clone https://github.com/satkr22/Legal-AI-Assistant---RAG-based-Conversational-System.git  
-cd Legal-AI-Assistant---RAG-based-Conversational-System  
+git clone https://github.com/satkr22/LexRag.git  
+cd LexRag  
 ```
 
 Frontend setup:
