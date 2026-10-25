@@ -394,6 +394,7 @@ def parse_act(
                     "heading_source": heading.source,
                     "article_number": article_number,
                     "article_title": article_title,
+                    "id": f'{act}_{stem}',
                 },
                 "id": f'{act}_{stem}',
                 "heading": heading.as_dict(),

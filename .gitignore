@@ -1,8 +1,10 @@
 .vscode
-
+__pycache__
+*.pyc
 
 # my list
 
 *.json
 *.html
 *.htm
+*.txt

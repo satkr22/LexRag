@@ -161,7 +161,7 @@ def main(argv: list[str] | None = None) -> int:
     link_lists = fetch_block_section_links(PAGE_URL)
     
     
-    link_lists = [
+    # link_lists = [
         # "https://www.merasamvidhaan.in/contract.html",
         # "https://www.merasamvidhaan.in/limitation.html",
         # "https://www.merasamvidhaan.in/technology.html",
@@ -200,7 +200,7 @@ def main(argv: list[str] | None = None) -> int:
         # "https://www.merasamvidhaan.in/income-tax-2025.html",
         # "https://www.merasamvidhaan.in/income-tax-1961.html",
 
-    ]
+    # ]
     
     
     for link in link_lists:
@@ -264,21 +264,6 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
