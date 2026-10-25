@@ -1,0 +1,146 @@
+{
+  "act": "family-courts",
+  "source_directory": "src/lexrag/scrapped/family-courts_sections",
+  "output_directory": "src/lexrag/parsed/family-courts_sections",
+  "count": 23,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Establishment of Family Courts.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Appointment of Judges.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Association of social welfare agencies, etc.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Counsellors, officers and other employees of Family Courts.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Jurisdiction.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Exclusion of jurisdiction and pending proceedings.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Duty of Family Court to make efforts for settlement.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Procedure generally.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Proceedings to be held in camera.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Assistance of medical and welfare experts.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Right to legal representation.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Application of Indian Evidence Act, 1872.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Record of oral evidence.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Evidence of formal character on affidavit.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "17",
+      "article_title": "Judgment.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 18,
+      "article_number": "18",
+      "article_title": "Execution of decrees and orders.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 19,
+      "article_number": "19",
+      "article_title": "Appeal.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 20,
+      "article_number": "20",
+      "article_title": "Act to have overriding effect.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 21,
+      "article_number": "21",
+      "article_title": "Power of High Court to make rules.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 22,
+      "article_number": "22",
+      "article_title": "Power of the Central Government to make rules.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 23,
+      "article_number": "23",
+      "article_title": "Power of the State Government to make rules.",
+      "file": "section_23.json"
+    }
+  ]
+}

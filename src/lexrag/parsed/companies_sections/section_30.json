@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-03.html",
+    "source_order": 3,
+    "article_order": 8,
+    "order": 32,
+    "stem": "section_30",
+    "heading_number": "Chapter III",
+    "heading_title": "Prospectus and Allotment of Securities",
+    "heading_range": "ss. 23–42",
+    "heading_source": "group-head",
+    "article_number": "30",
+    "article_title": "Advertisement of prospectus."
+  },
+  "id": "companies_section_30",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Prospectus and Allotment of Securities",
+    "range": "ss. 23–42"
+  },
+  "article": {
+    "number": "30",
+    "title": "Advertisement of prospectus.",
+    "content": "30Advertisement of prospectus.\n\nSection 30  ·  Chapter III  ·  Part I  ·  page 41 of the Act\nWhere an advertisement of any prospectus of a company is published in any manner, it shall be necessary to specify therein the contents of its memorandum as regards the objects, the liability of members and the amount of share capital of the company, and the names of the signatories to the memorandum and the number of shares subscribed for by them, and its capital structure.\n\n",
+    "html": "<article class=\"provision\" data-n=\"30\" data-report=\"Section 30 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>Advertisement of prospectus.</h3></div><p class=\"prov-cite\">Section 30  ·  Chapter III  ·  Part I  ·  page 41 of the Act</p><div class=\"prov-body\"><p>Where an advertisement of any prospectus of a company is published in any manner, it shall be necessary to specify therein the contents of its memorandum as regards the objects, the liability of members and the amount of share capital of the company, and the names of the signatories to the memorandum and the number of shares subscribed for by them, and its capital structure.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>Advertisement of prospectus.</h3></div><p class=\"prov-cite\">Section 30  ·  Chapter III  ·  Part I  ·  page 41 of the Act</p><div class=\"prov-body\"><p>Where an advertisement of any prospectus of a company is published in any manner, it shall be necessary to specify therein the contents of its memorandum as regards the objects, the liability of members and the amount of share capital of the company, and the names of the signatories to the memorandum and the number of shares subscribed for by them, and its capital structure.</p></div>"
+  }
+}

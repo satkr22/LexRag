@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "document_title": null,
+    "source_file": "bsa_sections/section-73.html",
+    "source_order": 73,
+    "article_order": 1,
+    "order": 73,
+    "stem": "section_73",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "73",
+    "article_title": "Proof as to verification of digital signature"
+  },
+  "id": "bsa_section_73",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "73",
+    "title": "Proof as to verification of digital signature",
+    "content": "73Proof as to verification of digital signature\n\nSection 73 · Part III · Chapter V\nIn order to ascertain whether a digital signature is that of the person by whom it purports to have been affixed, the Court may direct—\n(a)that person or the Controller or the Certifying Authority to produce the Digital Signature Certificate;\n(b)any other person to apply the public key listed in the Digital Signature Certificate and verify the digital signature purported to have been affixed by that person.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Proof as to verification of digital signature</h3></div><p class=\"prov-cite\">Section 73 · Part III · Chapter V</p><div class=\"prov-body\"><p>In order to ascertain whether a digital signature is that of the person by whom it purports to have been affixed, the Court may direct—</p><p><span class=\"lbl\">(a)</span>that person or the Controller or the Certifying Authority to produce the Digital Signature Certificate;</p><p><span class=\"lbl\">(b)</span>any other person to apply the public key listed in the Digital Signature Certificate and verify the digital signature purported to have been affixed by that person.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Proof as to verification of digital signature</h3></div><p class=\"prov-cite\">Section 73 · Part III · Chapter V</p><div class=\"prov-body\"><p>In order to ascertain whether a digital signature is that of the person by whom it purports to have been affixed, the Court may direct—</p><p><span class=\"lbl\">(a)</span>that person or the Controller or the Certifying Authority to produce the Digital Signature Certificate;</p><p><span class=\"lbl\">(b)</span>any other person to apply the public key listed in the Digital Signature Certificate and verify the digital signature purported to have been affixed by that person.</p></div>"
+  }
+}

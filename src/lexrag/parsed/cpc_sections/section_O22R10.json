@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-39.html",
+    "source_order": 39,
+    "article_order": 11,
+    "order": 607,
+    "stem": "section_O22R10",
+    "heading_number": "Order XXII",
+    "heading_title": "Death, Marriage and Insolvency or Parties",
+    "heading_range": "14 rules",
+    "heading_source": "group-head",
+    "article_number": "O22R10",
+    "article_title": "Procedure in case of assignment before final order in suit."
+  },
+  "id": "cpc_section_O22R10",
+  "heading": {
+    "number": "Order XXII",
+    "title": "Death, Marriage and Insolvency or Parties",
+    "range": "14 rules"
+  },
+  "article": {
+    "number": "O22R10",
+    "title": "Procedure in case of assignment before final order in suit.",
+    "content": "10Procedure in case of assignment before final order in suit.\n\nOrder 22, Rule 10\n(1) In other cases of an assignment, creation or devolution of any interest during the pendency of a suit, the suit may, by leave of the Court, be continued by or against the person to or upon whom such interest has come or devolved.\n(2) The attachment of a decree pending an appeal therefrom shall be deemed to be an interest entitling the person who procured such attachment to the benefit of sub-rule (1).\n\n",
+    "html": "<article class=\"provision\" data-n=\"O22R10\" data-report=\"Order 22, Rule 10 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Procedure in case of assignment before final order in suit.</h3></div><p class=\"prov-cite\">Order 22, Rule 10</p><div class=\"prov-body\"><p class=\"lvl\">(1) In other cases of an assignment, creation or devolution of any interest during the pendency of a suit, the suit may, by leave of the Court, be continued by or against the person to or upon whom such interest has come or devolved.</p><p class=\"lvl\">(2) The attachment of a decree pending an appeal therefrom shall be deemed to be an interest entitling the person who procured such attachment to the benefit of sub-rule (1).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Procedure in case of assignment before final order in suit.</h3></div><p class=\"prov-cite\">Order 22, Rule 10</p><div class=\"prov-body\"><p class=\"lvl\">(1) In other cases of an assignment, creation or devolution of any interest during the pendency of a suit, the suit may, by leave of the Court, be continued by or against the person to or upon whom such interest has come or devolved.</p><p class=\"lvl\">(2) The attachment of a decree pending an appeal therefrom shall be deemed to be an interest entitling the person who procured such attachment to the benefit of sub-rule (1).</p></div>"
+  }
+}

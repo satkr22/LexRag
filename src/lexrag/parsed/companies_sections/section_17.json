@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-02.html",
+    "source_order": 2,
+    "article_order": 17,
+    "order": 19,
+    "stem": "section_17",
+    "heading_number": "Chapter II",
+    "heading_title": "Incorporation of Company and Matters Incidental Thereto",
+    "heading_range": "ss. 3–22",
+    "heading_source": "group-head",
+    "article_number": "17",
+    "article_title": "Copies of memorandum, articles, etc., to be given to members."
+  },
+  "id": "companies_section_17",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Incorporation of Company and Matters Incidental Thereto",
+    "range": "ss. 3–22"
+  },
+  "article": {
+    "number": "17",
+    "title": "Copies of memorandum, articles, etc., to be given to members.",
+    "content": "17Copies of memorandum, articles, etc., to be given to members.\n\nSection 17  ·  Chapter II  ·  pages 36–37 of the Act\n(1) A company shall, on being so requested by a member, send to him within seven days of the request and subject to the payment of such fees as may be prescribed, a copy of each of the following documents, namely:—\n(a) the memorandum;\n(b) the articles; and\n(c) every agreement and every resolution referred to in sub-section (1) of section117, if and in so far as they have not been embodied in the memorandum or articles.\n(2) If a company makes any default in complying with the provisions of this section, the company and every officer of the company who is in default shall be liable for each default, to a penalty of one thousand rupees for each day during which such default continues or one lakh rupees, whichever is less.\n\n",
+    "html": "<article class=\"provision\" data-n=\"17\" data-report=\"Section 17 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Copies of memorandum, articles, etc., to be given to members.</h3></div><p class=\"prov-cite\">Section 17  ·  Chapter II  ·  pages 36–37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A company shall, on being so requested by a member, send to him within seven days of the request and subject to the payment of such fees as may be prescribed, a copy of each of the following documents, namely:—</p><p class=\"lvl\">(a) the memorandum;</p><p class=\"lvl\">(b) the articles; and</p><p class=\"lvl\">(c) every agreement and every resolution referred to in sub-section (1) of section117, if and in so far as they have not been embodied in the memorandum or articles.</p><p class=\"lvl\">(2) If a company makes any default in complying with the provisions of this section, the company and every officer of the company who is in default shall be liable for each default, to a penalty of one thousand rupees for each day during which such default continues or one lakh rupees, whichever is less.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Copies of memorandum, articles, etc., to be given to members.</h3></div><p class=\"prov-cite\">Section 17  ·  Chapter II  ·  pages 36–37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A company shall, on being so requested by a member, send to him within seven days of the request and subject to the payment of such fees as may be prescribed, a copy of each of the following documents, namely:—</p><p class=\"lvl\">(a) the memorandum;</p><p class=\"lvl\">(b) the articles; and</p><p class=\"lvl\">(c) every agreement and every resolution referred to in sub-section (1) of section117, if and in so far as they have not been embodied in the memorandum or articles.</p><p class=\"lvl\">(2) If a company makes any default in complying with the provisions of this section, the company and every officer of the company who is in default shall be liable for each default, to a penalty of one thousand rupees for each day during which such default continues or one lakh rupees, whichever is less.</p></div>"
+  }
+}

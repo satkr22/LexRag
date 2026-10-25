@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "document_title": null,
+    "source_file": "partnership_sections/section-49.html",
+    "source_order": 51,
+    "article_order": 1,
+    "order": 51,
+    "stem": "section_49",
+    "heading_number": "Chapter VI",
+    "heading_title": "Dissolution of a Firm",
+    "heading_range": "ss. 39–55",
+    "heading_source": "manifest",
+    "article_number": "49",
+    "article_title": "Payment of firm debts and of separate debts."
+  },
+  "id": "partnership_section_49",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Dissolution of a Firm",
+    "range": "ss. 39–55"
+  },
+  "article": {
+    "number": "49",
+    "title": "Payment of firm debts and of separate debts.",
+    "content": "49Payment of firm debts and of separate debts.\n\nSection 49  ·  Chapter VI  ·  page 12 of the Act\nWhere there are joint debts due from the firm, and also separate debts due from any partner, the property of the firm shall be applied in the first instance in payment of the debts of the firm, and, if there is any surplus, then the share of each partner shall be applied in payment of his separate debts or paid to him. The separate property of any partner shall be applied first, in the payment of his separate debts, and the surplus (if any) in the payment of the debts of the firm.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">49</span>Payment of firm debts and of separate debts.</h3></div><p class=\"prov-cite\">Section 49  ·  Chapter VI  ·  page 12 of the Act</p><div class=\"prov-body\"><p>Where there are joint debts due from the firm, and also separate debts due from any partner, the property of the firm shall be applied in the first instance in payment of the debts of the firm, and, if there is any surplus, then the share of each partner shall be applied in payment of his separate debts or paid to him. The separate property of any partner shall be applied first, in the payment of his separate debts, and the surplus (if any) in the payment of the debts of the firm.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">49</span>Payment of firm debts and of separate debts.</h3></div><p class=\"prov-cite\">Section 49  ·  Chapter VI  ·  page 12 of the Act</p><div class=\"prov-body\"><p>Where there are joint debts due from the firm, and also separate debts due from any partner, the property of the firm shall be applied in the first instance in payment of the debts of the firm, and, if there is any surplus, then the share of each partner shall be applied in payment of his separate debts or paid to him. The separate property of any partner shall be applied first, in the payment of his separate debts, and the surplus (if any) in the payment of the debts of the firm.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-23.html",
+    "source_order": 23,
+    "article_order": 22,
+    "order": 337,
+    "stem": "section_O11R22",
+    "heading_number": "Order XI",
+    "heading_title": "Discovery and Inspection",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O11R22",
+    "article_title": "Using answer to interrogatories at trial."
+  },
+  "id": "cpc_section_O11R22",
+  "heading": {
+    "number": "Order XI",
+    "title": "Discovery and Inspection",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O11R22",
+    "title": "Using answer to interrogatories at trial.",
+    "content": "22Using answer to interrogatories at trial.\n\nOrder 11, Rule 22\nAny party may, at the trial of a suit, use in evidence any one or more of the answers or any part of an answer of the opposite party to interrogatories without putting in the others or the whole of such answer :\nProvided always that in such case the Court may look at the whole of the answers, and if it shall be of opinion that any others of them are so connected with those put in that the last-mentioned answer ought not to be used without them, it may direct them to be put in.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O11R22\" data-report=\"Order 11, Rule 22 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Using answer to interrogatories at trial.</h3></div><p class=\"prov-cite\">Order 11, Rule 22</p><div class=\"prov-body\"><p>Any party may, at the trial of a suit, use in evidence any one or more of the answers or any part of an answer of the opposite party to interrogatories without putting in the others or the whole of such answer :</p><p class=\"prvso\">Provided always that in such case the Court may look at the whole of the answers, and if it shall be of opinion that any others of them are so connected with those put in that the last-mentioned answer ought not to be used without them, it may direct them to be put in.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Using answer to interrogatories at trial.</h3></div><p class=\"prov-cite\">Order 11, Rule 22</p><div class=\"prov-body\"><p>Any party may, at the trial of a suit, use in evidence any one or more of the answers or any part of an answer of the opposite party to interrogatories without putting in the others or the whole of such answer :</p><p class=\"prvso\">Provided always that in such case the Court may look at the whole of the answers, and if it shall be of opinion that any others of them are so connected with those put in that the last-mentioned answer ought not to be used without them, it may direct them to be put in.</p></div>"
+  }
+}

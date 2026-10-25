@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "document_title": null,
+    "source_file": "bsa_sections/section-86.html",
+    "source_order": 86,
+    "article_order": 1,
+    "order": 86,
+    "stem": "section_86",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "86",
+    "article_title": "Presumption as to electronic records and electronic signatures"
+  },
+  "id": "bsa_section_86",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "86",
+    "title": "Presumption as to electronic records and electronic signatures",
+    "content": "86Presumption as to electronic records and electronic signatures\n\nSection 86 · Part III · Chapter V · Presumptions as to documents\n(1)In any proceeding involving a secure electronic record, the Court shall presume unless contrary is proved, that the secure electronic record has not been altered since the specific point of time to which the secure status relates.\n(2)In any proceeding, involving secure electronic signature, the Court shall presume unless the contrary is proved that—\n(a)the secure electronic signature is affixed by subscriber with the intention of signing or approving the electronic record;\n(b)except in the case of a secure electronic record or a secure electronic signature, nothing in this section shall create any presumption, relating to authenticity and integrity of the electronic record or any electronic signature.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Presumption as to electronic records and electronic signatures</h3></div><p class=\"prov-cite\">Section 86 · Part III · Chapter V · Presumptions as to documents</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In any proceeding involving a secure electronic record, the Court shall presume unless contrary is proved, that the secure electronic record has not been altered since the specific point of time to which the secure status relates.</p><p><span class=\"lbl\">(2)</span>In any proceeding, involving secure electronic signature, the Court shall presume unless the contrary is proved that—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the secure electronic signature is affixed by subscriber with the intention of signing or approving the electronic record;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>except in the case of a secure electronic record or a secure electronic signature, nothing in this section shall create any presumption, relating to authenticity and integrity of the electronic record or any electronic signature.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Presumption as to electronic records and electronic signatures</h3></div><p class=\"prov-cite\">Section 86 · Part III · Chapter V · Presumptions as to documents</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In any proceeding involving a secure electronic record, the Court shall presume unless contrary is proved, that the secure electronic record has not been altered since the specific point of time to which the secure status relates.</p><p><span class=\"lbl\">(2)</span>In any proceeding, involving secure electronic signature, the Court shall presume unless the contrary is proved that—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the secure electronic signature is affixed by subscriber with the intention of signing or approving the electronic record;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>except in the case of a secure electronic record or a secure electronic signature, nothing in this section shall create any presumption, relating to authenticity and integrity of the electronic record or any electronic signature.</p></div>"
+  }
+}

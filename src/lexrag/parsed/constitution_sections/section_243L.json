@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-10.html",
+    "source_order": 10,
+    "article_order": 13,
+    "order": 282,
+    "stem": "section_243L",
+    "heading_number": "Part IX",
+    "heading_title": "The Panchayats",
+    "heading_range": "243 – 243O",
+    "heading_source": "group-head",
+    "article_number": "243L",
+    "article_title": "Application to Union territories"
+  },
+  "id": "constitution_section_243L",
+  "heading": {
+    "number": "Part IX",
+    "title": "The Panchayats",
+    "range": "243 – 243O"
+  },
+  "article": {
+    "number": "243L",
+    "title": "Application to Union territories",
+    "content": "243LApplication to Union territories\n\nArticle 243L · Part IX\nThe provisions of this Part shall apply to the Union territories and shall, in their application to a Union territory, have effect as if the references to the Governor of a State were references to the Administrator of the Union territory appointed under article 239 and references to the Legislature or the legislative Assembly of a State were references, in relation to a Union territory having a Legislative Assembly, to that Legislative Assembly:\nProvisoProvided that the President may, by public notification, direct that the provisions of this Part shall apply to any Union territory or part thereof subject to such exceptions and modifications as he may specify in the notification.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243L\" data-report=\"Article 243L · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243L</span>Application to Union territories</h3></div><p class=\"prov-cite\">Article 243L · Part IX</p><div class=\"prov-body\"><p>The provisions of this Part shall apply to the Union territories and shall, in their application to a Union territory, have effect as if the references to the Governor of a State were references to the Administrator of the Union territory appointed under article 239 and references to the Legislature or the legislative Assembly of a State were references, in relation to a Union territory having a Legislative Assembly, to that Legislative Assembly:</p><p><span class=\"named\">Proviso</span>Provided that the President may, by public notification, direct that the provisions of this Part shall apply to any Union territory or part thereof subject to such exceptions and modifications as he may specify in the notification.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243L</span>Application to Union territories</h3></div><p class=\"prov-cite\">Article 243L · Part IX</p><div class=\"prov-body\"><p>The provisions of this Part shall apply to the Union territories and shall, in their application to a Union territory, have effect as if the references to the Governor of a State were references to the Administrator of the Union territory appointed under article 239 and references to the Legislature or the legislative Assembly of a State were references, in relation to a Union territory having a Legislative Assembly, to that Legislative Assembly:</p><p><span class=\"named\">Proviso</span>Provided that the President may, by public notification, direct that the provisions of this Part shall apply to any Union territory or part thereof subject to such exceptions and modifications as he may specify in the notification.</p></div>"
+  }
+}

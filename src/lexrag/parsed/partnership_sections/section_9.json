@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "document_title": null,
+    "source_file": "partnership_sections/section-9.html",
+    "source_order": 11,
+    "article_order": 1,
+    "order": 11,
+    "stem": "section_9",
+    "heading_number": "Chapter III",
+    "heading_title": "Relations of Partners to One Another",
+    "heading_range": "ss. 9–17",
+    "heading_source": "manifest",
+    "article_number": "9",
+    "article_title": "General duties of partners."
+  },
+  "id": "partnership_section_9",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Relations of Partners to One Another",
+    "range": "ss. 9–17"
+  },
+  "article": {
+    "number": "9",
+    "title": "General duties of partners.",
+    "content": "9General duties of partners.\n\nSection 9  ·  Chapter III  ·  page 5 of the Act\nPartners are bound to carry on the business of the firm to the greatest common advantage, to be just and faithful to each other, and to render true accounts and full information of all things affecting the firm to any partner or his legal representative.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>General duties of partners.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter III  ·  page 5 of the Act</p><div class=\"prov-body\"><p>Partners are bound to carry on the business of the firm to the greatest common advantage, to be just and faithful to each other, and to render true accounts and full information of all things affecting the firm to any partner or his legal representative.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>General duties of partners.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter III  ·  page 5 of the Act</p><div class=\"prov-body\"><p>Partners are bound to carry on the business of the firm to the greatest common advantage, to be just and faithful to each other, and to render true accounts and full information of all things affecting the firm to any partner or his legal representative.</p></div>"
+  }
+}

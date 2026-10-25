@@ -1,0 +1,944 @@
+{
+  "act": "negotiable-instruments",
+  "source_directory": "src/lexrag/scrapped/negotiable-instruments_sections",
+  "output_directory": "src/lexrag/parsed/negotiable-instruments_sections",
+  "count": 156,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "schedule-schedule",
+      "article_title": "Schedule",
+      "file": "section_schedule-schedule.json"
+    },
+    {
+      "order": 2,
+      "article_number": "1",
+      "article_title": "Short title.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 3,
+      "article_number": "2",
+      "article_title": "Repeal of enactments",
+      "file": "section_2.json"
+    },
+    {
+      "order": 4,
+      "article_number": "3",
+      "article_title": "Interpretation-clause.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 5,
+      "article_number": "4",
+      "article_title": "“Promissory note.”",
+      "file": "section_4.json"
+    },
+    {
+      "order": 6,
+      "article_number": "5",
+      "article_title": "“Bill of exchange.”",
+      "file": "section_5.json"
+    },
+    {
+      "order": 7,
+      "article_number": "6",
+      "article_title": "1 [“Cheque.”",
+      "file": "section_6.json"
+    },
+    {
+      "order": 8,
+      "article_number": "7",
+      "article_title": "“Drawer” “Drawee”.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 9,
+      "article_number": "8",
+      "article_title": "“Holder”.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 10,
+      "article_number": "9",
+      "article_title": "“Holder in due course”.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 11,
+      "article_number": "10",
+      "article_title": "“Payment in due course”.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 12,
+      "article_number": "11",
+      "article_title": "Inland instrument.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 13,
+      "article_number": "12",
+      "article_title": "Foreign instrument.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 14,
+      "article_number": "13",
+      "article_title": "“Negotiable instrument”.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 15,
+      "article_number": "14",
+      "article_title": "Negotiation.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 16,
+      "article_number": "15",
+      "article_title": "Indorsement.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 17,
+      "article_number": "16",
+      "article_title": "Indorsement “in blank” and “in full”.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 18,
+      "article_number": "17",
+      "article_title": "Ambiguous instruments.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 19,
+      "article_number": "18",
+      "article_title": "Where amount is stated differently in figures and words.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 20,
+      "article_number": "19",
+      "article_title": "Instruments payable on demand.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 21,
+      "article_number": "20",
+      "article_title": "Inchoate stamped instruments.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 22,
+      "article_number": "21",
+      "article_title": "“At sight”.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 23,
+      "article_number": "22",
+      "article_title": "“Maturity”.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 24,
+      "article_number": "23",
+      "article_title": "Calculating maturity of bill or note payable so many months after date or sight.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 25,
+      "article_number": "24",
+      "article_title": "Calculating maturity of bill or note payable so many days after date or sight.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 26,
+      "article_number": "25",
+      "article_title": "When day of maturity is a holiday.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 27,
+      "article_number": "26",
+      "article_title": "Capacity to make, etc., promissory notes, etc.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 28,
+      "article_number": "27",
+      "article_title": "Agency.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 29,
+      "article_number": "28",
+      "article_title": "Liability of agent signing.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 30,
+      "article_number": "29",
+      "article_title": "Liability of legal representative signing.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 31,
+      "article_number": "30",
+      "article_title": "Liability of drawer.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 32,
+      "article_number": "31",
+      "article_title": "Liability of drawee of cheque.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 33,
+      "article_number": "32",
+      "article_title": "Liability of maker of note and acceptor of bill.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 34,
+      "article_number": "33",
+      "article_title": "Only drawee can be acceptor except in need or for honour.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 35,
+      "article_number": "34",
+      "article_title": "Acceptance by several drawees not partners.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 36,
+      "article_number": "35",
+      "article_title": "Liability of indorser.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 37,
+      "article_number": "36",
+      "article_title": "Liability of prior parties to holder in due course.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 38,
+      "article_number": "37",
+      "article_title": "Maker, drawer and acceptor principals.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 39,
+      "article_number": "38",
+      "article_title": "Prior party a principal in respect of each subsequent party.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 40,
+      "article_number": "39",
+      "article_title": "Suretyship.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 41,
+      "article_number": "40",
+      "article_title": "Discharge of indorser's liability.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 42,
+      "article_number": "41",
+      "article_title": "Acceptor bound, although, indorsement forged.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 43,
+      "article_number": "42",
+      "article_title": "Acceptance of bill drawn in fictitious name.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 44,
+      "article_number": "43",
+      "article_title": "Negotiable instrument made, etc., without consideration.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 45,
+      "article_number": "44",
+      "article_title": "Partial absence or failure of money-consideration.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 46,
+      "article_number": "45",
+      "article_title": "Partial failure of consideration not consisting of money.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 47,
+      "article_number": "45A",
+      "article_title": "1 [Holder's right to duplicate of lost bill.",
+      "file": "section_45A.json"
+    },
+    {
+      "order": 48,
+      "article_number": "46",
+      "article_title": "Delivery.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 49,
+      "article_number": "47",
+      "article_title": "Negotiation by delivery.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 50,
+      "article_number": "48",
+      "article_title": "Negotiation by indorsement.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 51,
+      "article_number": "49",
+      "article_title": "Conversion of indorsement in blank into indorsement in full.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 52,
+      "article_number": "50",
+      "article_title": "Effect of indorsement.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 53,
+      "article_number": "51",
+      "article_title": "Who may negotiate.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 54,
+      "article_number": "52",
+      "article_title": "Indorser who excludes his own liability or makes it conditional.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 55,
+      "article_number": "53",
+      "article_title": "Holder deriving title from holder in due course.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 56,
+      "article_number": "54",
+      "article_title": "Instrument indorsed in blank.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 57,
+      "article_number": "55",
+      "article_title": "Conversion of indorsement in blank into indorsement in full.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 58,
+      "article_number": "56",
+      "article_title": "Indorsement for part of sum due.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 59,
+      "article_number": "57",
+      "article_title": "Legal representative cannot by delivery only negotiate instrument indorsed by deceased.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 60,
+      "article_number": "58",
+      "article_title": "Instrument obtained by unlawful means or for unlawful consideration.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 61,
+      "article_number": "59",
+      "article_title": "Instrument acquired after dishonour or when overdue.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 62,
+      "article_number": "60",
+      "article_title": "Instrument negotiable till payment or satisfaction.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 63,
+      "article_number": "61",
+      "article_title": "Presentment for acceptance.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 64,
+      "article_number": "62",
+      "article_title": "Presentment of promissory note for sight.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 65,
+      "article_number": "63",
+      "article_title": "Drawee’s time for deliberation.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 66,
+      "article_number": "64",
+      "article_title": "Presentment for payment.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 67,
+      "article_number": "65",
+      "article_title": "Hours for presentment",
+      "file": "section_65.json"
+    },
+    {
+      "order": 68,
+      "article_number": "66",
+      "article_title": "Presentment for payment of instrument payable after date or sight",
+      "file": "section_66.json"
+    },
+    {
+      "order": 69,
+      "article_number": "67",
+      "article_title": "Presentment for payment of promissory note payable by instalments.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 70,
+      "article_number": "68",
+      "article_title": "Presentment for payment of instrument payable at specified place and not elsewhere.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 71,
+      "article_number": "69",
+      "article_title": "Instrument payable at specified place.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 72,
+      "article_number": "70",
+      "article_title": "Presentment where no exclusive place specified.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 73,
+      "article_number": "71",
+      "article_title": "Presentment when maker, etc., has no known place of business or residence.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 74,
+      "article_number": "72",
+      "article_title": "Presentment of cheque to charge drawer.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 75,
+      "article_number": "73",
+      "article_title": "Presentment of cheque to charge any other person.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 76,
+      "article_number": "74",
+      "article_title": "Presentment of instrument payable on demand.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 77,
+      "article_number": "75",
+      "article_title": "Presentment by or to agent, representative of deceased, or assignee of insolvent.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 78,
+      "article_number": "75A",
+      "article_title": "2 [Excuse for delay in presentment for acceptance or payment",
+      "file": "section_75A.json"
+    },
+    {
+      "order": 79,
+      "article_number": "76",
+      "article_title": "When presentment unnecessary.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 80,
+      "article_number": "77",
+      "article_title": "Liability of banker for negligently dealing with bill presented for payment.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 81,
+      "article_number": "78",
+      "article_title": "To whom payment should be made.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 82,
+      "article_number": "79",
+      "article_title": "Interest when rate specified.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 83,
+      "article_number": "80",
+      "article_title": "Interest when no rate specified.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 84,
+      "article_number": "81",
+      "article_title": "Delivery of instrument on payment or indemnity in case of loss.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 85,
+      "article_number": "82",
+      "article_title": "Discharge from liability.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 86,
+      "article_number": "83",
+      "article_title": "Discharge by allowing drawee more than forty-eight hours to accept.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 87,
+      "article_number": "84",
+      "article_title": "2 [When cheque not duly presented and drawer damaged thereby.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 88,
+      "article_number": "85",
+      "article_title": "Cheque payable to order.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 89,
+      "article_number": "85A",
+      "article_title": "5 [Drafts drawn by one branch of a bank on another payable to order.",
+      "file": "section_85A.json"
+    },
+    {
+      "order": 90,
+      "article_number": "86",
+      "article_title": "Parties not consenting discharged by qualified or limited acceptance.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 91,
+      "article_number": "87",
+      "article_title": "Effect of material alteration.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 92,
+      "article_number": "88",
+      "article_title": "Acceptor or indorser bound notwithstanding previous alteration.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 93,
+      "article_number": "89",
+      "article_title": "Payment of instrument on which alteration is not apparent.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 94,
+      "article_number": "90",
+      "article_title": "Extinguishment of rights of action on bill in acceptor's hands.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 95,
+      "article_number": "91",
+      "article_title": "Dishonour by non-acceptance.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 96,
+      "article_number": "92",
+      "article_title": "Dishonour by non-payment.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 97,
+      "article_number": "93",
+      "article_title": "By and to whom notice should be given.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 98,
+      "article_number": "94",
+      "article_title": "Mode in which notice may be given.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 99,
+      "article_number": "95",
+      "article_title": "Party receiving must transmit notice of dishonour.",
+      "file": "section_95.json"
+    },
+    {
+      "order": 100,
+      "article_number": "96",
+      "article_title": "Agent for presentment.",
+      "file": "section_96.json"
+    },
+    {
+      "order": 101,
+      "article_number": "97",
+      "article_title": "When party to whom notice given is dead.",
+      "file": "section_97.json"
+    },
+    {
+      "order": 102,
+      "article_number": "98",
+      "article_title": "When notice of dishonour is unnecessary.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 103,
+      "article_number": "99",
+      "article_title": "Noting.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 104,
+      "article_number": "100",
+      "article_title": "Protest.",
+      "file": "section_100.json"
+    },
+    {
+      "order": 105,
+      "article_number": "101",
+      "article_title": "Contents of protest.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 106,
+      "article_number": "102",
+      "article_title": "Notice of protest.",
+      "file": "section_102.json"
+    },
+    {
+      "order": 107,
+      "article_number": "103",
+      "article_title": "Protest for non-payment after dishonour by non-acceptance.",
+      "file": "section_103.json"
+    },
+    {
+      "order": 108,
+      "article_number": "104",
+      "article_title": "Protest of foreign bills.",
+      "file": "section_104.json"
+    },
+    {
+      "order": 109,
+      "article_number": "104A",
+      "article_title": "2 [When noting equivalent to protest.",
+      "file": "section_104A.json"
+    },
+    {
+      "order": 110,
+      "article_number": "105",
+      "article_title": "Reasonable time.",
+      "file": "section_105.json"
+    },
+    {
+      "order": 111,
+      "article_number": "106",
+      "article_title": "Reasonable time of giving notice of dishonour.",
+      "file": "section_106.json"
+    },
+    {
+      "order": 112,
+      "article_number": "107",
+      "article_title": "Reasonable time for transmitting such notice.",
+      "file": "section_107.json"
+    },
+    {
+      "order": 113,
+      "article_number": "108",
+      "article_title": "Acceptance for honour.",
+      "file": "section_108.json"
+    },
+    {
+      "order": 114,
+      "article_number": "109",
+      "article_title": "How acceptance for honour must be made.",
+      "file": "section_109.json"
+    },
+    {
+      "order": 115,
+      "article_number": "110",
+      "article_title": "Acceptance not specifying for whose honour it is made.",
+      "file": "section_110.json"
+    },
+    {
+      "order": 116,
+      "article_number": "111",
+      "article_title": "Liability of acceptor for honour.",
+      "file": "section_111.json"
+    },
+    {
+      "order": 117,
+      "article_number": "112",
+      "article_title": "When acceptor for honour may be charged.",
+      "file": "section_112.json"
+    },
+    {
+      "order": 118,
+      "article_number": "113",
+      "article_title": "Payment for honour.",
+      "file": "section_113.json"
+    },
+    {
+      "order": 119,
+      "article_number": "114",
+      "article_title": "Right of payer for honour.",
+      "file": "section_114.json"
+    },
+    {
+      "order": 120,
+      "article_number": "115",
+      "article_title": "Drawee in case of need.",
+      "file": "section_115.json"
+    },
+    {
+      "order": 121,
+      "article_number": "116",
+      "article_title": "Acceptance and payment without protest.",
+      "file": "section_116.json"
+    },
+    {
+      "order": 122,
+      "article_number": "117",
+      "article_title": "Rules as to compensation.",
+      "file": "section_117.json"
+    },
+    {
+      "order": 123,
+      "article_number": "118",
+      "article_title": "Presumptions as to negotiable instruments.",
+      "file": "section_118.json"
+    },
+    {
+      "order": 124,
+      "article_number": "119",
+      "article_title": "Presumption on proof of protest.",
+      "file": "section_119.json"
+    },
+    {
+      "order": 125,
+      "article_number": "120",
+      "article_title": "Estoppel against denying original validity of instrument.",
+      "file": "section_120.json"
+    },
+    {
+      "order": 126,
+      "article_number": "121",
+      "article_title": "Estoppel against denying capacity of payee to indorse.",
+      "file": "section_121.json"
+    },
+    {
+      "order": 127,
+      "article_number": "122",
+      "article_title": "Estoppel against denying signature or capacity of prior party.",
+      "file": "section_122.json"
+    },
+    {
+      "order": 128,
+      "article_number": "123",
+      "article_title": "Cheque crossed generally.",
+      "file": "section_123.json"
+    },
+    {
+      "order": 129,
+      "article_number": "124",
+      "article_title": "Cheque crossed specially.",
+      "file": "section_124.json"
+    },
+    {
+      "order": 130,
+      "article_number": "125",
+      "article_title": "Crossing after issue.",
+      "file": "section_125.json"
+    },
+    {
+      "order": 131,
+      "article_number": "126",
+      "article_title": "Payment of cheque crossed generally.",
+      "file": "section_126.json"
+    },
+    {
+      "order": 132,
+      "article_number": "127",
+      "article_title": "Payment of cheque crossed specially more than once.",
+      "file": "section_127.json"
+    },
+    {
+      "order": 133,
+      "article_number": "128",
+      "article_title": "Payment in due course of crossed cheque.",
+      "file": "section_128.json"
+    },
+    {
+      "order": 134,
+      "article_number": "129",
+      "article_title": "Payment of crossed cheque out of due course.",
+      "file": "section_129.json"
+    },
+    {
+      "order": 135,
+      "article_number": "130",
+      "article_title": "Cheque bearing “not negotiable”.",
+      "file": "section_130.json"
+    },
+    {
+      "order": 136,
+      "article_number": "131",
+      "article_title": "Non-liability of banker receiving payment of cheque.",
+      "file": "section_131.json"
+    },
+    {
+      "order": 137,
+      "article_number": "131A",
+      "article_title": "2 [Application of Chapter to drafts.",
+      "file": "section_131A.json"
+    },
+    {
+      "order": 138,
+      "article_number": "132",
+      "article_title": "Set of bills.",
+      "file": "section_132.json"
+    },
+    {
+      "order": 139,
+      "article_number": "133",
+      "article_title": "Holder of first acquired part entitled to all",
+      "file": "section_133.json"
+    },
+    {
+      "order": 140,
+      "article_number": "134",
+      "article_title": "Law governing liability of maker, acceptor or indorser of foreign instrument.",
+      "file": "section_134.json"
+    },
+    {
+      "order": 141,
+      "article_number": "135",
+      "article_title": "Law of place of payment governs dishonour.",
+      "file": "section_135.json"
+    },
+    {
+      "order": 142,
+      "article_number": "136",
+      "article_title": "Instrument made, etc., out of India, but in accordance with the law of India.",
+      "file": "section_136.json"
+    },
+    {
+      "order": 143,
+      "article_number": "137",
+      "article_title": "Presumption as to foreign law.",
+      "file": "section_137.json"
+    },
+    {
+      "order": 144,
+      "article_number": "138",
+      "article_title": "Dishonour of cheque for insufficiency, etc., of funds in the account.",
+      "file": "section_138.json"
+    },
+    {
+      "order": 145,
+      "article_number": "139",
+      "article_title": "Presumption in favour of holder.",
+      "file": "section_139.json"
+    },
+    {
+      "order": 146,
+      "article_number": "140",
+      "article_title": "Defence which may not be allowed in any prosecution under section 138.",
+      "file": "section_140.json"
+    },
+    {
+      "order": 147,
+      "article_number": "141",
+      "article_title": "Offences by companies.",
+      "file": "section_141.json"
+    },
+    {
+      "order": 148,
+      "article_number": "142",
+      "article_title": "Cognizance of offences.",
+      "file": "section_142.json"
+    },
+    {
+      "order": 149,
+      "article_number": "142A",
+      "article_title": "4 [Validation for transfer of pending cases.",
+      "file": "section_142A.json"
+    },
+    {
+      "order": 150,
+      "article_number": "143",
+      "article_title": "1 [Power of Court to try cases summarily.",
+      "file": "section_143.json"
+    },
+    {
+      "order": 151,
+      "article_number": "143A",
+      "article_title": "2 [Power to direct interim compensation.",
+      "file": "section_143A.json"
+    },
+    {
+      "order": 152,
+      "article_number": "144",
+      "article_title": "Mode of service of summons.",
+      "file": "section_144.json"
+    },
+    {
+      "order": 153,
+      "article_number": "145",
+      "article_title": "Evidence on affidavit.",
+      "file": "section_145.json"
+    },
+    {
+      "order": 154,
+      "article_number": "146",
+      "article_title": "Bank’s slip prima facie evidence of certain facts.",
+      "file": "section_146.json"
+    },
+    {
+      "order": 155,
+      "article_number": "147",
+      "article_title": "Offences to be compoundable.",
+      "file": "section_147.json"
+    },
+    {
+      "order": 156,
+      "article_number": "148",
+      "article_title": "1 [Power of Appellate Court to order payment pending appeal against conviction.",
+      "file": "section_148.json"
+    }
+  ]
+}

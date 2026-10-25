@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-10.html",
+    "source_order": 10,
+    "article_order": 4,
+    "order": 146,
+    "stem": "section_142",
+    "heading_number": "Chapter X",
+    "heading_title": "Audit and Auditors",
+    "heading_range": "ss. 139–148",
+    "heading_source": "group-head",
+    "article_number": "142",
+    "article_title": "Remuneration of auditors."
+  },
+  "id": "companies_section_142",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Audit and Auditors",
+    "range": "ss. 139–148"
+  },
+  "article": {
+    "number": "142",
+    "title": "Remuneration of auditors.",
+    "content": "142Remuneration of auditors.\n\nSection 142  ·  Chapter X  ·  page 100 of the Act\n(1) The remuneration of the auditor of a company shall be fixed in its general meeting or in such manner as may be determined therein:\nProvided that the Board may fix remuneration of the first auditor appointed by it.\n(2) The remuneration under sub-section (1) shall, in addition to the fee payable to an auditor, include the expenses, if any, incurred by the auditor in connection with the audit of the company and any facility extended to him but does not include any remuneration paid to him for any other service rendered by him at the request of the company.\n\n",
+    "html": "<article class=\"provision\" data-n=\"142\" data-report=\"Section 142 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Remuneration of auditors.</h3></div><p class=\"prov-cite\">Section 142  ·  Chapter X  ·  page 100 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The remuneration of the auditor of a company shall be fixed in its general meeting or in such manner as may be determined therein:</p><p class=\"prvso\">Provided that the Board may fix remuneration of the first auditor appointed by it.</p><p class=\"lvl\">(2) The remuneration under sub-section (1) shall, in addition to the fee payable to an auditor, include the expenses, if any, incurred by the auditor in connection with the audit of the company and any facility extended to him but does not include any remuneration paid to him for any other service rendered by him at the request of the company.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Remuneration of auditors.</h3></div><p class=\"prov-cite\">Section 142  ·  Chapter X  ·  page 100 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The remuneration of the auditor of a company shall be fixed in its general meeting or in such manner as may be determined therein:</p><p class=\"prvso\">Provided that the Board may fix remuneration of the first auditor appointed by it.</p><p class=\"lvl\">(2) The remuneration under sub-section (1) shall, in addition to the fee payable to an auditor, include the expenses, if any, incurred by the auditor in connection with the audit of the company and any facility extended to him but does not include any remuneration paid to him for any other service rendered by him at the request of the company.</p></div>"
+  }
+}

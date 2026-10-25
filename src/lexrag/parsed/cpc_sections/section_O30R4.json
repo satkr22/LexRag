@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-48.html",
+    "source_order": 48,
+    "article_order": 4,
+    "order": 680,
+    "stem": "section_O30R4",
+    "heading_number": "Order XXX",
+    "heading_title": "Suits by or against firms and persons carrying on business in names other than their own",
+    "heading_range": "10 rules",
+    "heading_source": "group-head",
+    "article_number": "O30R4",
+    "article_title": "Rights of suit on death of partner."
+  },
+  "id": "cpc_section_O30R4",
+  "heading": {
+    "number": "Order XXX",
+    "title": "Suits by or against firms and persons carrying on business in names other than their own",
+    "range": "10 rules"
+  },
+  "article": {
+    "number": "O30R4",
+    "title": "Rights of suit on death of partner.",
+    "content": "4Rights of suit on death of partner.\n\nOrder 30, Rule 4\n(1) Notwithstanding anything contained in section 45 of the Indian Contract Act, 1872 (9 of 1872), where two or more persons may sue or be sued in the name of a firm under the foregoing provisions and any of such persons dies, whether before the institution or during the pendency of any suit, it shall not be necessary to join the legal representative of the deceased as a party to the suit.\n(2) Nothing in sub-rule (1) shall limit or otherwise effect any right which the legal representative of the deceased may have—\n(a) to apply to be made a party to the suit, or (b) to enforce any claim against the survivor or survivors.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O30R4\" data-report=\"Order 30, Rule 4 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Rights of suit on death of partner.</h3></div><p class=\"prov-cite\">Order 30, Rule 4</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in section 45 of the Indian Contract Act, 1872 (9 of 1872), where two or more persons may sue or be sued in the name of a firm under the foregoing provisions and any of such persons dies, whether before the institution or during the pendency of any suit, it shall not be necessary to join the legal representative of the deceased as a party to the suit.</p><p class=\"lvl\">(2) Nothing in sub-rule (1) shall limit or otherwise effect any right which the legal representative of the deceased may have—</p><p class=\"lvl\">(a) to apply to be made a party to the suit, or (b) to enforce any claim against the survivor or survivors.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Rights of suit on death of partner.</h3></div><p class=\"prov-cite\">Order 30, Rule 4</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in section 45 of the Indian Contract Act, 1872 (9 of 1872), where two or more persons may sue or be sued in the name of a firm under the foregoing provisions and any of such persons dies, whether before the institution or during the pendency of any suit, it shall not be necessary to join the legal representative of the deceased as a party to the suit.</p><p class=\"lvl\">(2) Nothing in sub-rule (1) shall limit or otherwise effect any right which the legal representative of the deceased may have—</p><p class=\"lvl\">(a) to apply to be made a party to the suit, or (b) to enforce any claim against the survivor or survivors.</p></div>"
+  }
+}

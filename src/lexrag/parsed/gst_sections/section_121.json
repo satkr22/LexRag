@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "gst",
+    "document_title": "The Central Goods and Services Tax Act, 2017",
+    "source_file": "gst_sections/gst-18.html",
+    "source_order": 18,
+    "article_order": 15,
+    "order": 131,
+    "stem": "section_121",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Appeals and Revision",
+    "heading_range": "ss. 107–121",
+    "heading_source": "group-head",
+    "article_number": "121",
+    "article_title": "Non-appealable decisions and orders."
+  },
+  "id": "gst_section_121",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Appeals and Revision",
+    "range": "ss. 107–121"
+  },
+  "article": {
+    "number": "121",
+    "title": "Non-appealable decisions and orders.",
+    "content": "121Non-appealable decisions and orders.\n\nSection 121  ·  Chapter XVIII  ·  page 97 of the Act\nNotwithstanding anything to the contrary in any provisions of this Act, no appeal shall lie against any decision taken or order passed by an officer of central tax if such decision taken or order passed relates to any one or more of the following matters, namely:—\n(a) an order of the Commissioner or other authority empowered to direct transfer of proceedings from one officer to another officer; or\n(b) an order pertaining to the seizure or retention of books of account, register and other documents; or\n(c) an order sanctioning prosecution under this Act; or\n(d) an order passed under section 80.\n\n",
+    "html": "<article class=\"provision\" data-n=\"121\" data-report=\"Section 121 · The Central Goods and Services Tax Act, 2017\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">121</span>Non-appealable decisions and orders.</h3></div><p class=\"prov-cite\">Section 121  ·  Chapter XVIII  ·  page 97 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything to the contrary in any provisions of this Act, no appeal shall lie against any decision taken or order passed by an officer of central tax if such decision taken or order passed relates to any one or more of the following matters, namely:—</p><p class=\"lvl\">(a) an order of the Commissioner or other authority empowered to direct transfer of proceedings from one officer to another officer; or</p><p class=\"lvl\">(b) an order pertaining to the seizure or retention of books of account, register and other documents; or</p><p class=\"lvl\">(c) an order sanctioning prosecution under this Act; or</p><p class=\"lvl\">(d) an order passed under section 80.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">121</span>Non-appealable decisions and orders.</h3></div><p class=\"prov-cite\">Section 121  ·  Chapter XVIII  ·  page 97 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything to the contrary in any provisions of this Act, no appeal shall lie against any decision taken or order passed by an officer of central tax if such decision taken or order passed relates to any one or more of the following matters, namely:—</p><p class=\"lvl\">(a) an order of the Commissioner or other authority empowered to direct transfer of proceedings from one officer to another officer; or</p><p class=\"lvl\">(b) an order pertaining to the seizure or retention of books of account, register and other documents; or</p><p class=\"lvl\">(c) an order sanctioning prosecution under this Act; or</p><p class=\"lvl\">(d) an order passed under section 80.</p></div>"
+  }
+}

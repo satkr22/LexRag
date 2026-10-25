@@ -1,0 +1,4831 @@
+{
+  "index": "https://www.merasamvidhaan.in/companies.html",
+  "groups": [
+    {
+      "id": "g0",
+      "chapter": "Chapter I",
+      "title": "Preliminary",
+      "range": "ss. 1â2",
+      "chips": [
+        {
+          "section": "1",
+          "href": "companies-01.html#s1",
+          "url": "https://www.merasamvidhaan.in/companies-01.html",
+          "anchor": "s1",
+          "title": "Short title, extent, commencement and application."
+        },
+        {
+          "section": "2",
+          "href": "companies-01.html#s2",
+          "url": "https://www.merasamvidhaan.in/companies-01.html",
+          "anchor": "s2",
+          "title": "Definitions."
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "chapter": "Chapter II",
+      "title": "Incorporation of Company and Matters Incidental Thereto",
+      "range": "ss. 3â22",
+      "chips": [
+        {
+          "section": "3",
+          "href": "companies-02.html#s3",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s3",
+          "title": "Formation of company."
+        },
+        {
+          "section": "3A",
+          "href": "companies-02.html#s3A",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s3A",
+          "title": "Members severally liable in certain cases."
+        },
+        {
+          "section": "4",
+          "href": "companies-02.html#s4",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s4",
+          "title": "Memorandum."
+        },
+        {
+          "section": "5",
+          "href": "companies-02.html#s5",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s5",
+          "title": "Articles."
+        },
+        {
+          "section": "6",
+          "href": "companies-02.html#s6",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s6",
+          "title": "Act to override memorandum, articles, etc."
+        },
+        {
+          "section": "7",
+          "href": "companies-02.html#s7",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s7",
+          "title": "Incorporation of company."
+        },
+        {
+          "section": "8",
+          "href": "companies-02.html#s8",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s8",
+          "title": "Formation of companies with charitable objects, etc."
+        },
+        {
+          "section": "9",
+          "href": "companies-02.html#s9",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s9",
+          "title": "Effect of registration."
+        },
+        {
+          "section": "10",
+          "href": "companies-02.html#s10",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s10",
+          "title": "Effect of memorandum and articles."
+        },
+        {
+          "section": "10A",
+          "href": "companies-02.html#s10A",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s10A",
+          "title": "Commencement of business, etc."
+        },
+        {
+          "section": "11",
+          "href": "companies-02.html#s11",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s11",
+          "title": "Commencement of business, etc."
+        },
+        {
+          "section": "12",
+          "href": "companies-02.html#s12",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s12",
+          "title": "Registered office of company."
+        },
+        {
+          "section": "13",
+          "href": "companies-02.html#s13",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s13",
+          "title": "Alteration of memorandum."
+        },
+        {
+          "section": "14",
+          "href": "companies-02.html#s14",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s14",
+          "title": "Alteration of articles."
+        },
+        {
+          "section": "15",
+          "href": "companies-02.html#s15",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s15",
+          "title": "Alteration of memorandum or articles to be noted in every copy."
+        },
+        {
+          "section": "16",
+          "href": "companies-02.html#s16",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s16",
+          "title": "Rectification of name of company."
+        },
+        {
+          "section": "17",
+          "href": "companies-02.html#s17",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s17",
+          "title": "Copies of memorandum, articles, etc., to be given to members."
+        },
+        {
+          "section": "18",
+          "href": "companies-02.html#s18",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s18",
+          "title": "Conversion of companies already registered."
+        },
+        {
+          "section": "19",
+          "href": "companies-02.html#s19",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s19",
+          "title": "Subsidiary company not to hold shares in its holding company."
+        },
+        {
+          "section": "20",
+          "href": "companies-02.html#s20",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s20",
+          "title": "Service of documents."
+        },
+        {
+          "section": "21",
+          "href": "companies-02.html#s21",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s21",
+          "title": "Authentication of documents, proceedings and contracts."
+        },
+        {
+          "section": "22",
+          "href": "companies-02.html#s22",
+          "url": "https://www.merasamvidhaan.in/companies-02.html",
+          "anchor": "s22",
+          "title": "Execution of bills of exchange, etc."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "chapter": "Chapter III",
+      "title": "Prospectus and Allotment of Securities",
+      "range": "ss. 23â42",
+      "chips": [
+        {
+          "section": "23",
+          "href": "companies-03.html#s23",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s23",
+          "title": "Public offer and private placement."
+        },
+        {
+          "section": "24",
+          "href": "companies-03.html#s24",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s24",
+          "title": "Power of Securities and Exchange Board to regulate issue and transfer of securities, etc."
+        },
+        {
+          "section": "25",
+          "href": "companies-03.html#s25",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s25",
+          "title": "Document containing offer of securities for sale to be deemed prospectus."
+        },
+        {
+          "section": "26",
+          "href": "companies-03.html#s26",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s26",
+          "title": "Matters to be stated in prospectus."
+        },
+        {
+          "section": "27",
+          "href": "companies-03.html#s27",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s27",
+          "title": "Variation in terms of contract or objects in prospectus."
+        },
+        {
+          "section": "28",
+          "href": "companies-03.html#s28",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s28",
+          "title": "Offer of sale of shares by certain members of company."
+        },
+        {
+          "section": "29",
+          "href": "companies-03.html#s29",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s29",
+          "title": "Public offer of securities to be in dematerialised form."
+        },
+        {
+          "section": "30",
+          "href": "companies-03.html#s30",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s30",
+          "title": "Advertisement of prospectus."
+        },
+        {
+          "section": "31",
+          "href": "companies-03.html#s31",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s31",
+          "title": "Shelf prospectus."
+        },
+        {
+          "section": "32",
+          "href": "companies-03.html#s32",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s32",
+          "title": "Red herring prospectus."
+        },
+        {
+          "section": "33",
+          "href": "companies-03.html#s33",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s33",
+          "title": "Issue of application forms for securities."
+        },
+        {
+          "section": "34",
+          "href": "companies-03.html#s34",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s34",
+          "title": "Criminal liability for mis-statements in prospectus."
+        },
+        {
+          "section": "35",
+          "href": "companies-03.html#s35",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s35",
+          "title": "Civil liability for mis-statements in prospectus."
+        },
+        {
+          "section": "36",
+          "href": "companies-03.html#s36",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s36",
+          "title": "Punishment for fraudulently inducing persons to invest money."
+        },
+        {
+          "section": "37",
+          "href": "companies-03.html#s37",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s37",
+          "title": "Action by affected persons."
+        },
+        {
+          "section": "38",
+          "href": "companies-03.html#s38",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s38",
+          "title": "Punishment for personation for acquisition, etc., of securities."
+        },
+        {
+          "section": "39",
+          "href": "companies-03.html#s39",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s39",
+          "title": "Allotment of securities by company."
+        },
+        {
+          "section": "40",
+          "href": "companies-03.html#s40",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s40",
+          "title": "Securities to be dealt with in stock exchanges."
+        },
+        {
+          "section": "41",
+          "href": "companies-03.html#s41",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s41",
+          "title": "Global depository receipt."
+        },
+        {
+          "section": "42",
+          "href": "companies-03.html#s42",
+          "url": "https://www.merasamvidhaan.in/companies-03.html",
+          "anchor": "s42",
+          "title": "Issue of shares on private placement basis."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "chapter": "Chapter IV",
+      "title": "Share Capital and Debentures",
+      "range": "ss. 43â72",
+      "chips": [
+        {
+          "section": "43",
+          "href": "companies-04.html#s43",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s43",
+          "title": "Kinds of share capital."
+        },
+        {
+          "section": "44",
+          "href": "companies-04.html#s44",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s44",
+          "title": "Nature of shares or debentures."
+        },
+        {
+          "section": "45",
+          "href": "companies-04.html#s45",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s45",
+          "title": "Numbering of shares."
+        },
+        {
+          "section": "46",
+          "href": "companies-04.html#s46",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s46",
+          "title": "Certificate of shares."
+        },
+        {
+          "section": "47",
+          "href": "companies-04.html#s47",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s47",
+          "title": "Voting rights."
+        },
+        {
+          "section": "48",
+          "href": "companies-04.html#s48",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s48",
+          "title": "Variations of shareholdersâ rights."
+        },
+        {
+          "section": "49",
+          "href": "companies-04.html#s49",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s49",
+          "title": "Calls on shares of same class to be made on uniform basis."
+        },
+        {
+          "section": "50",
+          "href": "companies-04.html#s50",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s50",
+          "title": "Company to accept unpaid share capital, although not called up."
+        },
+        {
+          "section": "51",
+          "href": "companies-04.html#s51",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s51",
+          "title": "Payment of dividend in proportion to amount paid-up."
+        },
+        {
+          "section": "52",
+          "href": "companies-04.html#s52",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s52",
+          "title": "Application of premiums received on issue of shares."
+        },
+        {
+          "section": "53",
+          "href": "companies-04.html#s53",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s53",
+          "title": "Prohibition on issue of shares at discount."
+        },
+        {
+          "section": "54",
+          "href": "companies-04.html#s54",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s54",
+          "title": "Issue of sweat equity shares."
+        },
+        {
+          "section": "55",
+          "href": "companies-04.html#s55",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s55",
+          "title": "Issue and redemption of preference shares."
+        },
+        {
+          "section": "56",
+          "href": "companies-04.html#s56",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s56",
+          "title": "Transfer and transmission of securities."
+        },
+        {
+          "section": "57",
+          "href": "companies-04.html#s57",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s57",
+          "title": "Punishment for personation of shareholder."
+        },
+        {
+          "section": "58",
+          "href": "companies-04.html#s58",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s58",
+          "title": "Refusal of registration and appeal against refusal."
+        },
+        {
+          "section": "59",
+          "href": "companies-04.html#s59",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s59",
+          "title": "Rectification of register of members."
+        },
+        {
+          "section": "60",
+          "href": "companies-04.html#s60",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s60",
+          "title": "Publication of authorised, subscribed and paid-up capital."
+        },
+        {
+          "section": "61",
+          "href": "companies-04.html#s61",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s61",
+          "title": "Power of limited company to alter its share capital."
+        },
+        {
+          "section": "62",
+          "href": "companies-04.html#s62",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s62",
+          "title": "Further issue of share capital."
+        },
+        {
+          "section": "63",
+          "href": "companies-04.html#s63",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s63",
+          "title": "Issue of bonus shares."
+        },
+        {
+          "section": "64",
+          "href": "companies-04.html#s64",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s64",
+          "title": "Notice to be given to Registrar for alteration of share capital."
+        },
+        {
+          "section": "65",
+          "href": "companies-04.html#s65",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s65",
+          "title": "Unlimited company to provide for reserve share capital on conversion into limited company."
+        },
+        {
+          "section": "66",
+          "href": "companies-04.html#s66",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s66",
+          "title": "Reduction of share capital."
+        },
+        {
+          "section": "67",
+          "href": "companies-04.html#s67",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s67",
+          "title": "Restriction on purchase by company or giving of loans by it for purchase of its shares."
+        },
+        {
+          "section": "68",
+          "href": "companies-04.html#s68",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s68",
+          "title": "Power of company to purchase its own securities."
+        },
+        {
+          "section": "69",
+          "href": "companies-04.html#s69",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s69",
+          "title": "Transfer of certain sums to capital redemption reserve account."
+        },
+        {
+          "section": "70",
+          "href": "companies-04.html#s70",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s70",
+          "title": "Prohibition for buy-back in certain circumstances."
+        },
+        {
+          "section": "71",
+          "href": "companies-04.html#s71",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s71",
+          "title": "Debentures."
+        },
+        {
+          "section": "72",
+          "href": "companies-04.html#s72",
+          "url": "https://www.merasamvidhaan.in/companies-04.html",
+          "anchor": "s72",
+          "title": "Power to nominate."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "chapter": "Chapter V",
+      "title": "Acceptance of Deposits by Companies",
+      "range": "ss. 73â76A",
+      "chips": [
+        {
+          "section": "73",
+          "href": "companies-05.html#s73",
+          "url": "https://www.merasamvidhaan.in/companies-05.html",
+          "anchor": "s73",
+          "title": "Prohibition on acceptance of deposits from public."
+        },
+        {
+          "section": "74",
+          "href": "companies-05.html#s74",
+          "url": "https://www.merasamvidhaan.in/companies-05.html",
+          "anchor": "s74",
+          "title": "Repayment of deposits, etc., accepted before commencement of this Act."
+        },
+        {
+          "section": "75",
+          "href": "companies-05.html#s75",
+          "url": "https://www.merasamvidhaan.in/companies-05.html",
+          "anchor": "s75",
+          "title": "Damages for fraud."
+        },
+        {
+          "section": "76",
+          "href": "companies-05.html#s76",
+          "url": "https://www.merasamvidhaan.in/companies-05.html",
+          "anchor": "s76",
+          "title": "Acceptance of deposits from public by certain companies."
+        },
+        {
+          "section": "76A",
+          "href": "companies-05.html#s76A",
+          "url": "https://www.merasamvidhaan.in/companies-05.html",
+          "anchor": "s76A",
+          "title": "Punishment for contravention of section 73 or section 76."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "chapter": "Chapter VI",
+      "title": "Registration of Charges",
+      "range": "ss. 77â87",
+      "chips": [
+        {
+          "section": "77",
+          "href": "companies-06.html#s77",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s77",
+          "title": "Duty to register charges, etc."
+        },
+        {
+          "section": "78",
+          "href": "companies-06.html#s78",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s78",
+          "title": "Application for registration of charge."
+        },
+        {
+          "section": "79",
+          "href": "companies-06.html#s79",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s79",
+          "title": "Section 77 to apply in certain matters."
+        },
+        {
+          "section": "80",
+          "href": "companies-06.html#s80",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s80",
+          "title": "Date of notice of charge."
+        },
+        {
+          "section": "81",
+          "href": "companies-06.html#s81",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s81",
+          "title": "Register of charges to be kept by Registrar."
+        },
+        {
+          "section": "82",
+          "href": "companies-06.html#s82",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s82",
+          "title": "Company to report satisfaction of charge."
+        },
+        {
+          "section": "83",
+          "href": "companies-06.html#s83",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s83",
+          "title": "Power of Registrar to make entries of satisfaction and release in absence of intimation from company."
+        },
+        {
+          "section": "84",
+          "href": "companies-06.html#s84",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s84",
+          "title": "Intimation of appointment of receiver or manager."
+        },
+        {
+          "section": "85",
+          "href": "companies-06.html#s85",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s85",
+          "title": "Companyâs register of charges."
+        },
+        {
+          "section": "86",
+          "href": "companies-06.html#s86",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s86",
+          "title": "Punishment for contravention."
+        },
+        {
+          "section": "87",
+          "href": "companies-06.html#s87",
+          "url": "https://www.merasamvidhaan.in/companies-06.html",
+          "anchor": "s87",
+          "title": "Rectification by Central Government in Register of charges."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "chapter": "Chapter VII",
+      "title": "Management and Administration",
+      "range": "ss. 88â122",
+      "chips": [
+        {
+          "section": "88",
+          "href": "companies-07.html#s88",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s88",
+          "title": "Register of members, etc."
+        },
+        {
+          "section": "89",
+          "href": "companies-07.html#s89",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s89",
+          "title": "Declaration in respect of beneficial interest in any share."
+        },
+        {
+          "section": "90",
+          "href": "companies-07.html#s90",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s90",
+          "title": "Register of significant beneficial owners in a company."
+        },
+        {
+          "section": "91",
+          "href": "companies-07.html#s91",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s91",
+          "title": "Power to close register of members or debenture-holders or other security holders."
+        },
+        {
+          "section": "92",
+          "href": "companies-07.html#s92",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s92",
+          "title": "Annual return."
+        },
+        {
+          "section": "93",
+          "href": "companies-07.html#s93",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s93",
+          "title": "Return to be filed with Registrar in case promoterâs stake changes."
+        },
+        {
+          "section": "94",
+          "href": "companies-07.html#s94",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s94",
+          "title": "Place of keeping and inspection of registers, returns, etc."
+        },
+        {
+          "section": "95",
+          "href": "companies-07.html#s95",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s95",
+          "title": "Registers, etc., to be evidence."
+        },
+        {
+          "section": "96",
+          "href": "companies-07.html#s96",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s96",
+          "title": "Annual general meeting."
+        },
+        {
+          "section": "97",
+          "href": "companies-07.html#s97",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s97",
+          "title": "Power of Tribunal to call annual general meeting."
+        },
+        {
+          "section": "98",
+          "href": "companies-07.html#s98",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s98",
+          "title": "Power of Tribunal to call meetings of members, etc."
+        },
+        {
+          "section": "99",
+          "href": "companies-07.html#s99",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s99",
+          "title": "Punishment for default in complying with provisions of sections 96 to 98."
+        },
+        {
+          "section": "100",
+          "href": "companies-07.html#s100",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s100",
+          "title": "Calling of extraordinary general meeting."
+        },
+        {
+          "section": "101",
+          "href": "companies-07.html#s101",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s101",
+          "title": "Notice of meeting."
+        },
+        {
+          "section": "102",
+          "href": "companies-07.html#s102",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s102",
+          "title": "Statement to be annexed to notice."
+        },
+        {
+          "section": "103",
+          "href": "companies-07.html#s103",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s103",
+          "title": "Quorum for meetings."
+        },
+        {
+          "section": "104",
+          "href": "companies-07.html#s104",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s104",
+          "title": "Chairman of meetings."
+        },
+        {
+          "section": "105",
+          "href": "companies-07.html#s105",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s105",
+          "title": "Proxies."
+        },
+        {
+          "section": "106",
+          "href": "companies-07.html#s106",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s106",
+          "title": "Restriction on voting rights."
+        },
+        {
+          "section": "107",
+          "href": "companies-07.html#s107",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s107",
+          "title": "Voting by show of hands."
+        },
+        {
+          "section": "108",
+          "href": "companies-07.html#s108",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s108",
+          "title": "Voting through electronic means."
+        },
+        {
+          "section": "109",
+          "href": "companies-07.html#s109",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s109",
+          "title": "Demand for poll."
+        },
+        {
+          "section": "110",
+          "href": "companies-07.html#s110",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s110",
+          "title": "Postal ballot."
+        },
+        {
+          "section": "111",
+          "href": "companies-07.html#s111",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s111",
+          "title": "Circulation of membersâ resolution."
+        },
+        {
+          "section": "112",
+          "href": "companies-07.html#s112",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s112",
+          "title": "Representation of President and Governors in meetings."
+        },
+        {
+          "section": "113",
+          "href": "companies-07.html#s113",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s113",
+          "title": "Representation of corporations at meeting of companies and of creditors."
+        },
+        {
+          "section": "114",
+          "href": "companies-07.html#s114",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s114",
+          "title": "Ordinary and special resolutions."
+        },
+        {
+          "section": "115",
+          "href": "companies-07.html#s115",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s115",
+          "title": "Resolutions requiring special notice."
+        },
+        {
+          "section": "116",
+          "href": "companies-07.html#s116",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s116",
+          "title": "Resolutions passed at adjourned meeting."
+        },
+        {
+          "section": "117",
+          "href": "companies-07.html#s117",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s117",
+          "title": "Resolutions and agreements to be filed."
+        },
+        {
+          "section": "118",
+          "href": "companies-07.html#s118",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s118",
+          "title": "Minutes of proceedings of general meeting, meeting of Board of Directors and other meeting and resolutions passed by postal ballot."
+        },
+        {
+          "section": "119",
+          "href": "companies-07.html#s119",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s119",
+          "title": "Inspection of minute-books of general meeting."
+        },
+        {
+          "section": "120",
+          "href": "companies-07.html#s120",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s120",
+          "title": "Maintenance and inspection of documents in electronic form."
+        },
+        {
+          "section": "121",
+          "href": "companies-07.html#s121",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s121",
+          "title": "Report on annual general meeting."
+        },
+        {
+          "section": "122",
+          "href": "companies-07.html#s122",
+          "url": "https://www.merasamvidhaan.in/companies-07.html",
+          "anchor": "s122",
+          "title": "Applicability of this Chapter to One Person Company."
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "chapter": "Chapter VIII",
+      "title": "Declaration and Payment of Dividend",
+      "range": "ss. 123â127",
+      "chips": [
+        {
+          "section": "123",
+          "href": "companies-08.html#s123",
+          "url": "https://www.merasamvidhaan.in/companies-08.html",
+          "anchor": "s123",
+          "title": "Declaration of dividend."
+        },
+        {
+          "section": "124",
+          "href": "companies-08.html#s124",
+          "url": "https://www.merasamvidhaan.in/companies-08.html",
+          "anchor": "s124",
+          "title": "Unpaid Dividend Account."
+        },
+        {
+          "section": "125",
+          "href": "companies-08.html#s125",
+          "url": "https://www.merasamvidhaan.in/companies-08.html",
+          "anchor": "s125",
+          "title": "Investor Education and Protection Fund."
+        },
+        {
+          "section": "126",
+          "href": "companies-08.html#s126",
+          "url": "https://www.merasamvidhaan.in/companies-08.html",
+          "anchor": "s126",
+          "title": "Right to dividend, rights shares and bonus shares to be held in abeyance pending registration of transfer of shares."
+        },
+        {
+          "section": "127",
+          "href": "companies-08.html#s127",
+          "url": "https://www.merasamvidhaan.in/companies-08.html",
+          "anchor": "s127",
+          "title": "Punishment for failure to distribute dividends."
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "chapter": "Chapter IX",
+      "title": "Accounts of Companies",
+      "range": "ss. 128â138",
+      "chips": [
+        {
+          "section": "128",
+          "href": "companies-09.html#s128",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s128",
+          "title": "Books of account, etc., to be kept by company."
+        },
+        {
+          "section": "129",
+          "href": "companies-09.html#s129",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s129",
+          "title": "Financial statement."
+        },
+        {
+          "section": "129A",
+          "href": "companies-09.html#s129A",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s129A",
+          "title": "Periodical financial results."
+        },
+        {
+          "section": "130",
+          "href": "companies-09.html#s130",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s130",
+          "title": "Re-opening of accounts on courtâs or Tribunalâs orders."
+        },
+        {
+          "section": "131",
+          "href": "companies-09.html#s131",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s131",
+          "title": "Voluntary revision of financial statements or Boardâs report."
+        },
+        {
+          "section": "132",
+          "href": "companies-09.html#s132",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s132",
+          "title": "Constitution of National Financial Reporting Authority."
+        },
+        {
+          "section": "133",
+          "href": "companies-09.html#s133",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s133",
+          "title": "Central Government to prescribe accounting standards."
+        },
+        {
+          "section": "134",
+          "href": "companies-09.html#s134",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s134",
+          "title": "Financial statement, Boardâs report, etc."
+        },
+        {
+          "section": "135",
+          "href": "companies-09.html#s135",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s135",
+          "title": "Corporate Social Responsibility."
+        },
+        {
+          "section": "136",
+          "href": "companies-09.html#s136",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s136",
+          "title": "Right of member to copies of audited financial statement."
+        },
+        {
+          "section": "137",
+          "href": "companies-09.html#s137",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s137",
+          "title": "Copy of financial statement to be filed with Registrar."
+        },
+        {
+          "section": "138",
+          "href": "companies-09.html#s138",
+          "url": "https://www.merasamvidhaan.in/companies-09.html",
+          "anchor": "s138",
+          "title": "Internal audit."
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "chapter": "Chapter X",
+      "title": "Audit and Auditors",
+      "range": "ss. 139â148",
+      "chips": [
+        {
+          "section": "139",
+          "href": "companies-10.html#s139",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s139",
+          "title": "Appointment of auditors."
+        },
+        {
+          "section": "140",
+          "href": "companies-10.html#s140",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s140",
+          "title": "Removal, resignation of auditor and giving of special notice."
+        },
+        {
+          "section": "141",
+          "href": "companies-10.html#s141",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s141",
+          "title": "Eligibility, qualifications and disqualifications of auditors."
+        },
+        {
+          "section": "142",
+          "href": "companies-10.html#s142",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s142",
+          "title": "Remuneration of auditors."
+        },
+        {
+          "section": "143",
+          "href": "companies-10.html#s143",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s143",
+          "title": "Powers and duties of auditors and auditing standards."
+        },
+        {
+          "section": "144",
+          "href": "companies-10.html#s144",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s144",
+          "title": "Auditor not to render certain services."
+        },
+        {
+          "section": "145",
+          "href": "companies-10.html#s145",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s145",
+          "title": "Auditor to sign audit reports, etc."
+        },
+        {
+          "section": "146",
+          "href": "companies-10.html#s146",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s146",
+          "title": "Auditors to attend general meeting."
+        },
+        {
+          "section": "147",
+          "href": "companies-10.html#s147",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s147",
+          "title": "Punishment for contravention."
+        },
+        {
+          "section": "148",
+          "href": "companies-10.html#s148",
+          "url": "https://www.merasamvidhaan.in/companies-10.html",
+          "anchor": "s148",
+          "title": "Central Government to specify audit of items of cost in respect of certain companies."
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "chapter": "Chapter XI",
+      "title": "Appointment and Qualifications of Directors",
+      "range": "ss. 149â172",
+      "chips": [
+        {
+          "section": "149",
+          "href": "companies-11.html#s149",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s149",
+          "title": "Company to have Board of Directors."
+        },
+        {
+          "section": "150",
+          "href": "companies-11.html#s150",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s150",
+          "title": "Manner of selection of independent directors and maintenance of databank of independent directors."
+        },
+        {
+          "section": "151",
+          "href": "companies-11.html#s151",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s151",
+          "title": "Appointment of director elected by small shareholders."
+        },
+        {
+          "section": "152",
+          "href": "companies-11.html#s152",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s152",
+          "title": "Appointment of directors."
+        },
+        {
+          "section": "153",
+          "href": "companies-11.html#s153",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s153",
+          "title": "Application for allotment of Director Identification Number."
+        },
+        {
+          "section": "154",
+          "href": "companies-11.html#s154",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s154",
+          "title": "Allotment of Director Identification Number."
+        },
+        {
+          "section": "155",
+          "href": "companies-11.html#s155",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s155",
+          "title": "Prohibition to obtain more than one Director Identification Number."
+        },
+        {
+          "section": "156",
+          "href": "companies-11.html#s156",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s156",
+          "title": "Director to intimate Director Identification Number."
+        },
+        {
+          "section": "157",
+          "href": "companies-11.html#s157",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s157",
+          "title": "Company to inform Director Identification Number to Registrar."
+        },
+        {
+          "section": "158",
+          "href": "companies-11.html#s158",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s158",
+          "title": "Obligation to indicate Director Identification Number."
+        },
+        {
+          "section": "159",
+          "href": "companies-11.html#s159",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s159",
+          "title": "Penalty for default of certain provisions."
+        },
+        {
+          "section": "160",
+          "href": "companies-11.html#s160",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s160",
+          "title": "Right of persons other than retiring directors to stand for directorship."
+        },
+        {
+          "section": "161",
+          "href": "companies-11.html#s161",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s161",
+          "title": "Appointment of additional director, alternate director and nominee director."
+        },
+        {
+          "section": "162",
+          "href": "companies-11.html#s162",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s162",
+          "title": "Appointment of directors to be voted individually."
+        },
+        {
+          "section": "163",
+          "href": "companies-11.html#s163",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s163",
+          "title": "Option to adopt principle of proportional representation for appointment of directors."
+        },
+        {
+          "section": "164",
+          "href": "companies-11.html#s164",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s164",
+          "title": "Disqualifications for appointment of director."
+        },
+        {
+          "section": "165",
+          "href": "companies-11.html#s165",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s165",
+          "title": "Number of directorships."
+        },
+        {
+          "section": "166",
+          "href": "companies-11.html#s166",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s166",
+          "title": "Duties of directors."
+        },
+        {
+          "section": "167",
+          "href": "companies-11.html#s167",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s167",
+          "title": "Vacation of office of director."
+        },
+        {
+          "section": "168",
+          "href": "companies-11.html#s168",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s168",
+          "title": "Resignation of director."
+        },
+        {
+          "section": "169",
+          "href": "companies-11.html#s169",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s169",
+          "title": "Removal of directors."
+        },
+        {
+          "section": "170",
+          "href": "companies-11.html#s170",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s170",
+          "title": "Register of directors and key managerial personnel and their shareholding."
+        },
+        {
+          "section": "171",
+          "href": "companies-11.html#s171",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s171",
+          "title": "Membersâ right to inspect."
+        },
+        {
+          "section": "172",
+          "href": "companies-11.html#s172",
+          "url": "https://www.merasamvidhaan.in/companies-11.html",
+          "anchor": "s172",
+          "title": "Penalty."
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "chapter": "Chapter XII",
+      "title": "Meetings of Board and Its Powers",
+      "range": "ss. 173â195",
+      "chips": [
+        {
+          "section": "173",
+          "href": "companies-12.html#s173",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s173",
+          "title": "Meetings of Board."
+        },
+        {
+          "section": "174",
+          "href": "companies-12.html#s174",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s174",
+          "title": "Quorum for meetings of Board."
+        },
+        {
+          "section": "175",
+          "href": "companies-12.html#s175",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s175",
+          "title": "Passing of resolution by circulation."
+        },
+        {
+          "section": "176",
+          "href": "companies-12.html#s176",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s176",
+          "title": "Defects in appointment of directors not to invalidate actions taken."
+        },
+        {
+          "section": "177",
+          "href": "companies-12.html#s177",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s177",
+          "title": "Audit Committee."
+        },
+        {
+          "section": "178",
+          "href": "companies-12.html#s178",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s178",
+          "title": "Nomination and Remuneration Committee and Stakeholders Relationship Committee."
+        },
+        {
+          "section": "179",
+          "href": "companies-12.html#s179",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s179",
+          "title": "Powers of Board."
+        },
+        {
+          "section": "180",
+          "href": "companies-12.html#s180",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s180",
+          "title": "Restrictions on powers of Board."
+        },
+        {
+          "section": "181",
+          "href": "companies-12.html#s181",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s181",
+          "title": "Company to contribute to bona fide and charitable funds, etc."
+        },
+        {
+          "section": "182",
+          "href": "companies-12.html#s182",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s182",
+          "title": "Prohibitions and restrictions regarding political contributions."
+        },
+        {
+          "section": "183",
+          "href": "companies-12.html#s183",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s183",
+          "title": "Power of Board and other persons to make contributions to national defence fund, etc."
+        },
+        {
+          "section": "184",
+          "href": "companies-12.html#s184",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s184",
+          "title": "Disclosure of interest by director."
+        },
+        {
+          "section": "185",
+          "href": "companies-12.html#s185",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s185",
+          "title": "Loans to directors, etc."
+        },
+        {
+          "section": "186",
+          "href": "companies-12.html#s186",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s186",
+          "title": "Loan and investment by company."
+        },
+        {
+          "section": "187",
+          "href": "companies-12.html#s187",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s187",
+          "title": "Investments of company to be held in its own name."
+        },
+        {
+          "section": "188",
+          "href": "companies-12.html#s188",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s188",
+          "title": "Related party transactions."
+        },
+        {
+          "section": "189",
+          "href": "companies-12.html#s189",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s189",
+          "title": "Register of contracts or arrangements in which directors are interested."
+        },
+        {
+          "section": "190",
+          "href": "companies-12.html#s190",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s190",
+          "title": "Contract of employment with managing or whole-time director."
+        },
+        {
+          "section": "191",
+          "href": "companies-12.html#s191",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s191",
+          "title": "Payment to director for loss of office, etc., in connection with transfer of undertaking, property or shares."
+        },
+        {
+          "section": "192",
+          "href": "companies-12.html#s192",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s192",
+          "title": "Restriction on non-cash transactions involving directors."
+        },
+        {
+          "section": "193",
+          "href": "companies-12.html#s193",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s193",
+          "title": "Contract by One Person Company."
+        },
+        {
+          "section": "194",
+          "href": "companies-12.html#s194",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s194",
+          "title": "Prohibition on forward dealings in securities of company by director or key managerial personnel."
+        },
+        {
+          "section": "195",
+          "href": "companies-12.html#s195",
+          "url": "https://www.merasamvidhaan.in/companies-12.html",
+          "anchor": "s195",
+          "title": "Prohibition on insider trading of securities."
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "chapter": "Chapter XIII",
+      "title": "Appointment and Remuneration of Managerial Personnel",
+      "range": "ss. 196â205",
+      "chips": [
+        {
+          "section": "196",
+          "href": "companies-13.html#s196",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s196",
+          "title": "Appointment of managing director, whole-time director or manager."
+        },
+        {
+          "section": "197",
+          "href": "companies-13.html#s197",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s197",
+          "title": "Overall maximum managerial remuneration and managerial remuneration in case of absence or inadequacy of profits."
+        },
+        {
+          "section": "198",
+          "href": "companies-13.html#s198",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s198",
+          "title": "Calculation of profits."
+        },
+        {
+          "section": "199",
+          "href": "companies-13.html#s199",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s199",
+          "title": "Recovery of remuneration in certain cases."
+        },
+        {
+          "section": "200",
+          "href": "companies-13.html#s200",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s200",
+          "title": "Central Government or company to fix limit with regard to remuneration."
+        },
+        {
+          "section": "201",
+          "href": "companies-13.html#s201",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s201",
+          "title": "Forms of, and procedure in relation to, certain applications."
+        },
+        {
+          "section": "202",
+          "href": "companies-13.html#s202",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s202",
+          "title": "Compensation for loss of office of managing or whole-time director or manager."
+        },
+        {
+          "section": "203",
+          "href": "companies-13.html#s203",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s203",
+          "title": "Appointment of key managerial personnel."
+        },
+        {
+          "section": "204",
+          "href": "companies-13.html#s204",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s204",
+          "title": "Secretarial audit for bigger companies."
+        },
+        {
+          "section": "205",
+          "href": "companies-13.html#s205",
+          "url": "https://www.merasamvidhaan.in/companies-13.html",
+          "anchor": "s205",
+          "title": "Functions of company secretary."
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "chapter": "Chapter XIV",
+      "title": "Inspection, Inquiry and Investigation",
+      "range": "ss. 206â229",
+      "chips": [
+        {
+          "section": "206",
+          "href": "companies-14.html#s206",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s206",
+          "title": "Power to call for information, inspect books and conduct inquiries."
+        },
+        {
+          "section": "207",
+          "href": "companies-14.html#s207",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s207",
+          "title": "Conduct of inspection and inquiry."
+        },
+        {
+          "section": "208",
+          "href": "companies-14.html#s208",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s208",
+          "title": "Report on inspection made."
+        },
+        {
+          "section": "209",
+          "href": "companies-14.html#s209",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s209",
+          "title": "Search and seizure."
+        },
+        {
+          "section": "210",
+          "href": "companies-14.html#s210",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s210",
+          "title": "Investigation into affairs of company."
+        },
+        {
+          "section": "211",
+          "href": "companies-14.html#s211",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s211",
+          "title": "Establishment of Serious Fraud Investigation Office."
+        },
+        {
+          "section": "212",
+          "href": "companies-14.html#s212",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s212",
+          "title": "Investigation into affairs of Company by Serious Fraud Investigation Office."
+        },
+        {
+          "section": "213",
+          "href": "companies-14.html#s213",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s213",
+          "title": "Investigation into companyâs affairs in other cases."
+        },
+        {
+          "section": "214",
+          "href": "companies-14.html#s214",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s214",
+          "title": "Security for payment of costs and expenses of investigation."
+        },
+        {
+          "section": "215",
+          "href": "companies-14.html#s215",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s215",
+          "title": "Firm, body corporate or association not to be appointed as inspector."
+        },
+        {
+          "section": "216",
+          "href": "companies-14.html#s216",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s216",
+          "title": "Investigation of ownership of company."
+        },
+        {
+          "section": "217",
+          "href": "companies-14.html#s217",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s217",
+          "title": "Procedure, powers, etc., of inspectors."
+        },
+        {
+          "section": "218",
+          "href": "companies-14.html#s218",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s218",
+          "title": "Protection of employees during investigation."
+        },
+        {
+          "section": "219",
+          "href": "companies-14.html#s219",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s219",
+          "title": "Power of inspector to conduct investigation into affairs of related companies, etc."
+        },
+        {
+          "section": "220",
+          "href": "companies-14.html#s220",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s220",
+          "title": "Seizure of documents by inspector."
+        },
+        {
+          "section": "221",
+          "href": "companies-14.html#s221",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s221",
+          "title": "Freezing of assets of company on inquiry and investigation."
+        },
+        {
+          "section": "222",
+          "href": "companies-14.html#s222",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s222",
+          "title": "Imposition of restrictions upon securities."
+        },
+        {
+          "section": "223",
+          "href": "companies-14.html#s223",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s223",
+          "title": "Inspectorâs report."
+        },
+        {
+          "section": "224",
+          "href": "companies-14.html#s224",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s224",
+          "title": "Actions to be taken in pursuance of inspectorâs report."
+        },
+        {
+          "section": "225",
+          "href": "companies-14.html#s225",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s225",
+          "title": "Expenses of investigation."
+        },
+        {
+          "section": "226",
+          "href": "companies-14.html#s226",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s226",
+          "title": "Voluntary winding up of company, etc., not to stop investigation proceedings."
+        },
+        {
+          "section": "227",
+          "href": "companies-14.html#s227",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s227",
+          "title": "Legal advisors and bankers not to disclose certain information."
+        },
+        {
+          "section": "228",
+          "href": "companies-14.html#s228",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s228",
+          "title": "Investigation, etc., of foreign companies."
+        },
+        {
+          "section": "229",
+          "href": "companies-14.html#s229",
+          "url": "https://www.merasamvidhaan.in/companies-14.html",
+          "anchor": "s229",
+          "title": "Penalty for furnishing false statement, mutilation, destruction of documents."
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "chapter": "Chapter XV",
+      "title": "Compromises, Arrangements and Amalgamations",
+      "range": "ss. 230â240",
+      "chips": [
+        {
+          "section": "230",
+          "href": "companies-15.html#s230",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s230",
+          "title": "Power to compromise or make arrangements with creditors and members."
+        },
+        {
+          "section": "231",
+          "href": "companies-15.html#s231",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s231",
+          "title": "Power of Tribunal to enforce compromise or arrangement."
+        },
+        {
+          "section": "232",
+          "href": "companies-15.html#s232",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s232",
+          "title": "Merger and amalgamation of companies."
+        },
+        {
+          "section": "233",
+          "href": "companies-15.html#s233",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s233",
+          "title": "Merger or amalgamation of certain companies."
+        },
+        {
+          "section": "234",
+          "href": "companies-15.html#s234",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s234",
+          "title": "Merger or amalgamation of company with foreign company."
+        },
+        {
+          "section": "235",
+          "href": "companies-15.html#s235",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s235",
+          "title": "Power to acquire shares of shareholders dissenting from scheme or contract approved by majority."
+        },
+        {
+          "section": "236",
+          "href": "companies-15.html#s236",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s236",
+          "title": "Purchase of minority shareholding."
+        },
+        {
+          "section": "237",
+          "href": "companies-15.html#s237",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s237",
+          "title": "Power of Central Government to provide for amalgamation of companies in public interest."
+        },
+        {
+          "section": "238",
+          "href": "companies-15.html#s238",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s238",
+          "title": "Registration of offer of schemes involving transfer of shares."
+        },
+        {
+          "section": "239",
+          "href": "companies-15.html#s239",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s239",
+          "title": "Preservation of books and papers of amalgamated companies."
+        },
+        {
+          "section": "240",
+          "href": "companies-15.html#s240",
+          "url": "https://www.merasamvidhaan.in/companies-15.html",
+          "anchor": "s240",
+          "title": "Liability of officers in respect of offences committed prior to merger, amalgamation, etc."
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "chapter": "Chapter XVI",
+      "title": "Prevention of Oppression and Mismanagement",
+      "range": "ss. 241â246",
+      "chips": [
+        {
+          "section": "241",
+          "href": "companies-16.html#s241",
+          "url": "https://www.merasamvidhaan.in/companies-16.html",
+          "anchor": "s241",
+          "title": "Application to Tribunal for relief in cases of oppression, etc."
+        },
+        {
+          "section": "242",
+          "href": "companies-16.html#s242",
+          "url": "https://www.merasamvidhaan.in/companies-16.html",
+          "anchor": "s242",
+          "title": "Powers of Tribunal."
+        },
+        {
+          "section": "243",
+          "href": "companies-16.html#s243",
+          "url": "https://www.merasamvidhaan.in/companies-16.html",
+          "anchor": "s243",
+          "title": "Consequence of termination or modification of certain agreements."
+        },
+        {
+          "section": "244",
+          "href": "companies-16.html#s244",
+          "url": "https://www.merasamvidhaan.in/companies-16.html",
+          "anchor": "s244",
+          "title": "Right to apply under section 241."
+        },
+        {
+          "section": "245",
+          "href": "companies-16.html#s245",
+          "url": "https://www.merasamvidhaan.in/companies-16.html",
+          "anchor": "s245",
+          "title": "Class action."
+        },
+        {
+          "section": "246",
+          "href": "companies-16.html#s246",
+          "url": "https://www.merasamvidhaan.in/companies-16.html",
+          "anchor": "s246",
+          "title": "Application of certain provisions to proceedings under section 241 or section 245."
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "chapter": "Chapter XVII",
+      "title": "Registered Valuers",
+      "range": "s. 247",
+      "chips": [
+        {
+          "section": "247",
+          "href": "companies-17.html#s247",
+          "url": "https://www.merasamvidhaan.in/companies-17.html",
+          "anchor": "s247",
+          "title": "Valuation by registered valuers."
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "chapter": "Chapter XVIII",
+      "title": "Removal of Names of Companies from the Register of Companies",
+      "range": "ss. 248â252",
+      "chips": [
+        {
+          "section": "248",
+          "href": "companies-18.html#s248",
+          "url": "https://www.merasamvidhaan.in/companies-18.html",
+          "anchor": "s248",
+          "title": "Power of Registrar to remove name of company from register of companies."
+        },
+        {
+          "section": "249",
+          "href": "companies-18.html#s249",
+          "url": "https://www.merasamvidhaan.in/companies-18.html",
+          "anchor": "s249",
+          "title": "Restrictions on making application under section 248 in certain situations."
+        },
+        {
+          "section": "250",
+          "href": "companies-18.html#s250",
+          "url": "https://www.merasamvidhaan.in/companies-18.html",
+          "anchor": "s250",
+          "title": "Effect of company notified as dissolved."
+        },
+        {
+          "section": "251",
+          "href": "companies-18.html#s251",
+          "url": "https://www.merasamvidhaan.in/companies-18.html",
+          "anchor": "s251",
+          "title": "Fraudulent application for removal of name."
+        },
+        {
+          "section": "252",
+          "href": "companies-18.html#s252",
+          "url": "https://www.merasamvidhaan.in/companies-18.html",
+          "anchor": "s252",
+          "title": "Appeal to Tribunal."
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "chapter": "Chapter XIX",
+      "title": "Revival and Rehabilitation of Sick Companies",
+      "range": "ss. 253â269",
+      "chips": [
+        {
+          "section": "253",
+          "href": "companies-19.html#s253",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s253",
+          "title": "Determination of sickness."
+        },
+        {
+          "section": "254",
+          "href": "companies-19.html#s254",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s254",
+          "title": "Application for revival and rehabilitation."
+        },
+        {
+          "section": "255",
+          "href": "companies-19.html#s255",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s255",
+          "title": "Exclusion of certain time in computing period of limitation."
+        },
+        {
+          "section": "256",
+          "href": "companies-19.html#s256",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s256",
+          "title": "Appointment of interim administrator."
+        },
+        {
+          "section": "257",
+          "href": "companies-19.html#s257",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s257",
+          "title": "Committee of creditors."
+        },
+        {
+          "section": "258",
+          "href": "companies-19.html#s258",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s258",
+          "title": "Order of Tribunal."
+        },
+        {
+          "section": "259",
+          "href": "companies-19.html#s259",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s259",
+          "title": "Appointment of administrator."
+        },
+        {
+          "section": "260",
+          "href": "companies-19.html#s260",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s260",
+          "title": "Powers and duties of company administrator."
+        },
+        {
+          "section": "261",
+          "href": "companies-19.html#s261",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s261",
+          "title": "Scheme of revival and rehabilitation."
+        },
+        {
+          "section": "262",
+          "href": "companies-19.html#s262",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s262",
+          "title": "Sanction of scheme."
+        },
+        {
+          "section": "263",
+          "href": "companies-19.html#s263",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s263",
+          "title": "Scheme to be binding."
+        },
+        {
+          "section": "264",
+          "href": "companies-19.html#s264",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s264",
+          "title": "Implementation of scheme."
+        },
+        {
+          "section": "265",
+          "href": "companies-19.html#s265",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s265",
+          "title": "Winding up of company on report of company administrator."
+        },
+        {
+          "section": "266",
+          "href": "companies-19.html#s266",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s266",
+          "title": "Power of Tribunal to assess damages against delinquent directors, etc."
+        },
+        {
+          "section": "267",
+          "href": "companies-19.html#s267",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s267",
+          "title": "Punishment for certain offences."
+        },
+        {
+          "section": "268",
+          "href": "companies-19.html#s268",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s268",
+          "title": "Bar of jurisdiction."
+        },
+        {
+          "section": "269",
+          "href": "companies-19.html#s269",
+          "url": "https://www.merasamvidhaan.in/companies-19.html",
+          "anchor": "s269",
+          "title": "Rehabilitation and insolvency fund."
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "chapter": "Chapter XX",
+      "title": "Winding Up",
+      "range": "ss. 270â365",
+      "chips": [
+        {
+          "section": "270",
+          "href": "companies-20.html#s270",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s270",
+          "title": "Winding up by Tribunal."
+        },
+        {
+          "section": "271",
+          "href": "companies-20.html#s271",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s271",
+          "title": "Circumstances in which company may be wound up by Tribunal."
+        },
+        {
+          "section": "272",
+          "href": "companies-20.html#s272",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s272",
+          "title": "Petition for winding up."
+        },
+        {
+          "section": "273",
+          "href": "companies-20.html#s273",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s273",
+          "title": "Powers of Tribunal."
+        },
+        {
+          "section": "274",
+          "href": "companies-20.html#s274",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s274",
+          "title": "Directions for filing statement of affairs."
+        },
+        {
+          "section": "275",
+          "href": "companies-20.html#s275",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s275",
+          "title": "Company Liquidators and their appointments."
+        },
+        {
+          "section": "276",
+          "href": "companies-20.html#s276",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s276",
+          "title": "Removal and replacement of liquidator."
+        },
+        {
+          "section": "277",
+          "href": "companies-20.html#s277",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s277",
+          "title": "Intimation to Company Liquidator, provisional liquidator and Registrar."
+        },
+        {
+          "section": "278",
+          "href": "companies-20.html#s278",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s278",
+          "title": "Effect of winding up order."
+        },
+        {
+          "section": "279",
+          "href": "companies-20.html#s279",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s279",
+          "title": "Stay of suits, etc., on winding up order."
+        },
+        {
+          "section": "280",
+          "href": "companies-20.html#s280",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s280",
+          "title": "Jurisdiction of Tribunal."
+        },
+        {
+          "section": "281",
+          "href": "companies-20.html#s281",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s281",
+          "title": "Submission of report by Company Liquidator."
+        },
+        {
+          "section": "282",
+          "href": "companies-20.html#s282",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s282",
+          "title": "Directions of Tribunal on report of Company Liquidator."
+        },
+        {
+          "section": "283",
+          "href": "companies-20.html#s283",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s283",
+          "title": "Custody of companyâs properties."
+        },
+        {
+          "section": "284",
+          "href": "companies-20.html#s284",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s284",
+          "title": "Promoters, directors, etc., to cooperate with Company Liquidator."
+        },
+        {
+          "section": "285",
+          "href": "companies-20.html#s285",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s285",
+          "title": "Settlement of list of contributories and application of assets."
+        },
+        {
+          "section": "286",
+          "href": "companies-20.html#s286",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s286",
+          "title": "Obligations of directors and managers."
+        },
+        {
+          "section": "287",
+          "href": "companies-20.html#s287",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s287",
+          "title": "Advisory committee."
+        },
+        {
+          "section": "288",
+          "href": "companies-20.html#s288",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s288",
+          "title": "Submission of periodical reports to Tribunal."
+        },
+        {
+          "section": "289",
+          "href": "companies-20.html#s289",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s289",
+          "title": "Power of Tribunal on application for stay of winding up."
+        },
+        {
+          "section": "290",
+          "href": "companies-20.html#s290",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s290",
+          "title": "Powers and duties of Company Liquidator."
+        },
+        {
+          "section": "291",
+          "href": "companies-20.html#s291",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s291",
+          "title": "Provision for professional assistance to Company Liquidator."
+        },
+        {
+          "section": "292",
+          "href": "companies-20.html#s292",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s292",
+          "title": "Exercise and control of Company Liquidatorâs powers."
+        },
+        {
+          "section": "293",
+          "href": "companies-20.html#s293",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s293",
+          "title": "Books to be kept by Company Liquidator."
+        },
+        {
+          "section": "294",
+          "href": "companies-20.html#s294",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s294",
+          "title": "Audit of Company Liquidatorâs accounts."
+        },
+        {
+          "section": "295",
+          "href": "companies-20.html#s295",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s295",
+          "title": "Payment of debts by contributory and extent of set-off."
+        },
+        {
+          "section": "296",
+          "href": "companies-20.html#s296",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s296",
+          "title": "Power of Tribunal to make calls."
+        },
+        {
+          "section": "297",
+          "href": "companies-20.html#s297",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s297",
+          "title": "Adjustment of rights of contributories."
+        },
+        {
+          "section": "298",
+          "href": "companies-20.html#s298",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s298",
+          "title": "Power to order costs."
+        },
+        {
+          "section": "299",
+          "href": "companies-20.html#s299",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s299",
+          "title": "Power to summon persons suspected of having property of company, etc."
+        },
+        {
+          "section": "300",
+          "href": "companies-20.html#s300",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s300",
+          "title": "Power to order examination of promoters, directors, etc."
+        },
+        {
+          "section": "301",
+          "href": "companies-20.html#s301",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s301",
+          "title": "Arrest of person trying to leave India or abscond."
+        },
+        {
+          "section": "302",
+          "href": "companies-20.html#s302",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s302",
+          "title": "Dissolution of company by Tribunal."
+        },
+        {
+          "section": "303",
+          "href": "companies-20.html#s303",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s303",
+          "title": "Appeals from orders made before commencement of Act."
+        },
+        {
+          "section": "304",
+          "href": "companies-20.html#s304",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s304",
+          "title": "Circumstances in which company may be wound up voluntarily."
+        },
+        {
+          "section": "305",
+          "href": "companies-20.html#s305",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s305",
+          "title": "Declaration of solvency in case of proposal to wind up voluntarily."
+        },
+        {
+          "section": "306",
+          "href": "companies-20.html#s306",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s306",
+          "title": "Meeting of creditors."
+        },
+        {
+          "section": "307",
+          "href": "companies-20.html#s307",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s307",
+          "title": "Publication of resolution to wind up voluntarily."
+        },
+        {
+          "section": "308",
+          "href": "companies-20.html#s308",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s308",
+          "title": "Commencement of voluntary winding up."
+        },
+        {
+          "section": "309",
+          "href": "companies-20.html#s309",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s309",
+          "title": "Effect of voluntary winding up."
+        },
+        {
+          "section": "310",
+          "href": "companies-20.html#s310",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s310",
+          "title": "Appointment of Company Liquidator."
+        },
+        {
+          "section": "311",
+          "href": "companies-20.html#s311",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s311",
+          "title": "Power to remove and fill vacancy of Company Liquidator."
+        },
+        {
+          "section": "312",
+          "href": "companies-20.html#s312",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s312",
+          "title": "Notice of appointment of Company Liquidator to be given to Registrar."
+        },
+        {
+          "section": "313",
+          "href": "companies-20.html#s313",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s313",
+          "title": "Cesser of Boardâs powers on appointment of Company Liquidator."
+        },
+        {
+          "section": "314",
+          "href": "companies-20.html#s314",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s314",
+          "title": "Powers and duties of Company Liquidator in voluntary winding up."
+        },
+        {
+          "section": "315",
+          "href": "companies-20.html#s315",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s315",
+          "title": "Appointment of committees."
+        },
+        {
+          "section": "316",
+          "href": "companies-20.html#s316",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s316",
+          "title": "Company Liquidator to submit report on progress of winding up."
+        },
+        {
+          "section": "317",
+          "href": "companies-20.html#s317",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s317",
+          "title": "Report of Company Liquidator to Tribunal for examination of persons."
+        },
+        {
+          "section": "318",
+          "href": "companies-20.html#s318",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s318",
+          "title": "Final meeting and dissolution of company."
+        },
+        {
+          "section": "319",
+          "href": "companies-20.html#s319",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s319",
+          "title": "Power of Company Liquidator to accept shares, etc., as consideration for sale of property of company."
+        },
+        {
+          "section": "320",
+          "href": "companies-20.html#s320",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s320",
+          "title": "Distribution of property of company."
+        },
+        {
+          "section": "321",
+          "href": "companies-20.html#s321",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s321",
+          "title": "Arrangement when binding on company and creditors."
+        },
+        {
+          "section": "322",
+          "href": "companies-20.html#s322",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s322",
+          "title": "Power to apply to Tribunal to have questions determined, etc."
+        },
+        {
+          "section": "323",
+          "href": "companies-20.html#s323",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s323",
+          "title": "Costs of voluntary winding up."
+        },
+        {
+          "section": "324",
+          "href": "companies-20.html#s324",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s324",
+          "title": "Debts of all descriptions to be admitted to proof."
+        },
+        {
+          "section": "325",
+          "href": "companies-20.html#s325",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s325",
+          "title": "Application of insolvency rules in winding up of insolvent companies."
+        },
+        {
+          "section": "326",
+          "href": "companies-20.html#s326",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s326",
+          "title": "Overriding preferential payments."
+        },
+        {
+          "section": "327",
+          "href": "companies-20.html#s327",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s327",
+          "title": "Preferential payments."
+        },
+        {
+          "section": "328",
+          "href": "companies-20.html#s328",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s328",
+          "title": "Fraudulent preference."
+        },
+        {
+          "section": "329",
+          "href": "companies-20.html#s329",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s329",
+          "title": "Transfers not in good faith to be void."
+        },
+        {
+          "section": "330",
+          "href": "companies-20.html#s330",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s330",
+          "title": "Certain transfers to be void."
+        },
+        {
+          "section": "331",
+          "href": "companies-20.html#s331",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s331",
+          "title": "Liabilities and rights of certain persons fraudulently preferred."
+        },
+        {
+          "section": "332",
+          "href": "companies-20.html#s332",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s332",
+          "title": "Effect of floating charge."
+        },
+        {
+          "section": "333",
+          "href": "companies-20.html#s333",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s333",
+          "title": "Disclaimer of onerous property."
+        },
+        {
+          "section": "334",
+          "href": "companies-20.html#s334",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s334",
+          "title": "Transfers, etc., after commencement of winding up to be void."
+        },
+        {
+          "section": "335",
+          "href": "companies-20.html#s335",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s335",
+          "title": "Certain attachments, executions, etc., in winding up by Tribunal to be void."
+        },
+        {
+          "section": "336",
+          "href": "companies-20.html#s336",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s336",
+          "title": "Offences by officers of companies in liquidation."
+        },
+        {
+          "section": "337",
+          "href": "companies-20.html#s337",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s337",
+          "title": "Penalty for frauds by officers."
+        },
+        {
+          "section": "338",
+          "href": "companies-20.html#s338",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s338",
+          "title": "Liability where proper accounts not kept."
+        },
+        {
+          "section": "339",
+          "href": "companies-20.html#s339",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s339",
+          "title": "Liability for fraudulent conduct of business."
+        },
+        {
+          "section": "340",
+          "href": "companies-20.html#s340",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s340",
+          "title": "Power of Tribunal to assess damages against delinquent directors, etc."
+        },
+        {
+          "section": "341",
+          "href": "companies-20.html#s341",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s341",
+          "title": "Liability under sections 339 and 340 to extend to partners or directors in firms or companies."
+        },
+        {
+          "section": "342",
+          "href": "companies-20.html#s342",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s342",
+          "title": "Prosecution of delinquent officers and members of company."
+        },
+        {
+          "section": "343",
+          "href": "companies-20.html#s343",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s343",
+          "title": "Company Liquidator to exercise certain powers subject to sanction."
+        },
+        {
+          "section": "344",
+          "href": "companies-20.html#s344",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s344",
+          "title": "Statement that company is in liquidation."
+        },
+        {
+          "section": "345",
+          "href": "companies-20.html#s345",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s345",
+          "title": "Books and papers of company to be evidence."
+        },
+        {
+          "section": "346",
+          "href": "companies-20.html#s346",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s346",
+          "title": "Inspection of books and papers by creditors and contributories."
+        },
+        {
+          "section": "347",
+          "href": "companies-20.html#s347",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s347",
+          "title": "Disposal of books and papers of company."
+        },
+        {
+          "section": "348",
+          "href": "companies-20.html#s348",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s348",
+          "title": "Information as to pending liquidations."
+        },
+        {
+          "section": "349",
+          "href": "companies-20.html#s349",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s349",
+          "title": "Official Liquidator to make payments into public account of India."
+        },
+        {
+          "section": "350",
+          "href": "companies-20.html#s350",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s350",
+          "title": "Company Liquidator to deposit monies into scheduled bank."
+        },
+        {
+          "section": "351",
+          "href": "companies-20.html#s351",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s351",
+          "title": "Liquidator not to deposit monies into private banking account."
+        },
+        {
+          "section": "352",
+          "href": "companies-20.html#s352",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s352",
+          "title": "Company Liquidation Dividend and Undistributed Assets Account."
+        },
+        {
+          "section": "353",
+          "href": "companies-20.html#s353",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s353",
+          "title": "Liquidator to make returns, etc."
+        },
+        {
+          "section": "354",
+          "href": "companies-20.html#s354",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s354",
+          "title": "Meetings to ascertain wishes of creditors or contributories."
+        },
+        {
+          "section": "355",
+          "href": "companies-20.html#s355",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s355",
+          "title": "Court, tribunal or person, etc., before whom affidavit may be sworn."
+        },
+        {
+          "section": "356",
+          "href": "companies-20.html#s356",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s356",
+          "title": "Powers of Tribunal to declare dissolution of company void."
+        },
+        {
+          "section": "357",
+          "href": "companies-20.html#s357",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s357",
+          "title": "Commencement of winding up by Tribunal."
+        },
+        {
+          "section": "358",
+          "href": "companies-20.html#s358",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s358",
+          "title": "Exclusion of certain time in computing period of limitation."
+        },
+        {
+          "section": "359",
+          "href": "companies-20.html#s359",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s359",
+          "title": "Appointment of Official Liquidator."
+        },
+        {
+          "section": "360",
+          "href": "companies-20.html#s360",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s360",
+          "title": "Powers and functions of Official Liquidator."
+        },
+        {
+          "section": "361",
+          "href": "companies-20.html#s361",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s361",
+          "title": "Summary procedure for liquidation."
+        },
+        {
+          "section": "362",
+          "href": "companies-20.html#s362",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s362",
+          "title": "Sale of assets and recovery of debts due to company."
+        },
+        {
+          "section": "363",
+          "href": "companies-20.html#s363",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s363",
+          "title": "Settlement of claims of creditors by Official Liquidator."
+        },
+        {
+          "section": "364",
+          "href": "companies-20.html#s364",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s364",
+          "title": "Appeal by creditor."
+        },
+        {
+          "section": "365",
+          "href": "companies-20.html#s365",
+          "url": "https://www.merasamvidhaan.in/companies-20.html",
+          "anchor": "s365",
+          "title": "Order of dissolution of company."
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "chapter": "Chapter XXI",
+      "title": "Companies authorised to register, and unregistered companies",
+      "range": "ss. 366â378",
+      "chips": [
+        {
+          "section": "366",
+          "href": "companies-21.html#s366",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s366",
+          "title": "Companies capable of being registered."
+        },
+        {
+          "section": "367",
+          "href": "companies-21.html#s367",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s367",
+          "title": "Certificate of registration of existing companies."
+        },
+        {
+          "section": "368",
+          "href": "companies-21.html#s368",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s368",
+          "title": "Vesting of property on registration."
+        },
+        {
+          "section": "369",
+          "href": "companies-21.html#s369",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s369",
+          "title": "Saving of existing liabilities."
+        },
+        {
+          "section": "370",
+          "href": "companies-21.html#s370",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s370",
+          "title": "Continuation of pending legal proceedings."
+        },
+        {
+          "section": "371",
+          "href": "companies-21.html#s371",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s371",
+          "title": "Effect of registration under this Part."
+        },
+        {
+          "section": "372",
+          "href": "companies-21.html#s372",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s372",
+          "title": "Power of Court to stay or restrain proceedings."
+        },
+        {
+          "section": "373",
+          "href": "companies-21.html#s373",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s373",
+          "title": "Suits stayed on winding up order."
+        },
+        {
+          "section": "374",
+          "href": "companies-21.html#s374",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s374",
+          "title": "Obligations of companies registering under this Part."
+        },
+        {
+          "section": "375",
+          "href": "companies-21.html#s375",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s375",
+          "title": "Winding up of unregistered companies."
+        },
+        {
+          "section": "376",
+          "href": "companies-21.html#s376",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s376",
+          "title": "Power to wind up foreign companies, although dissolved."
+        },
+        {
+          "section": "377",
+          "href": "companies-21.html#s377",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s377",
+          "title": "Provisions of Chapter cumulative."
+        },
+        {
+          "section": "378",
+          "href": "companies-21.html#s378",
+          "url": "https://www.merasamvidhaan.in/companies-21.html",
+          "anchor": "s378",
+          "title": "Saving and construction of enactments conferring power to wind up partnership firm, association or company, etc., in certain cases."
+        }
+      ]
+    },
+    {
+      "id": "g21",
+      "chapter": "Chapter XXIA",
+      "title": "Producer Companies1",
+      "range": "ss. 378Aâ378ZU",
+      "chips": [
+        {
+          "section": "378A",
+          "href": "companies-22.html#s378A",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378A",
+          "title": "Definitions."
+        },
+        {
+          "section": "378B",
+          "href": "companies-22.html#s378B",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378B",
+          "title": "Objects of Producer Company."
+        },
+        {
+          "section": "378C",
+          "href": "companies-22.html#s378C",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378C",
+          "title": "Formation of Producer Company and its registration."
+        },
+        {
+          "section": "378D",
+          "href": "companies-22.html#s378D",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378D",
+          "title": "Membership and voting rights of Members of Producer Company."
+        },
+        {
+          "section": "378E",
+          "href": "companies-22.html#s378E",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378E",
+          "title": "Benefits to Members."
+        },
+        {
+          "section": "378F",
+          "href": "companies-22.html#s378F",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378F",
+          "title": "Memorandum of Producer Company."
+        },
+        {
+          "section": "378G",
+          "href": "companies-22.html#s378G",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378G",
+          "title": "Articles of association."
+        },
+        {
+          "section": "378H",
+          "href": "companies-22.html#s378H",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378H",
+          "title": "Amendment of memorandum."
+        },
+        {
+          "section": "378-I",
+          "href": "companies-22.html#s378-I",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378-I",
+          "title": "Amendment of articles."
+        },
+        {
+          "section": "378J",
+          "href": "companies-22.html#s378J",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378J",
+          "title": "Option to inter-State co-operative societies to become Producer Companies."
+        },
+        {
+          "section": "378K",
+          "href": "companies-22.html#s378K",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378K",
+          "title": "Effect of incorporation of Producer Company."
+        },
+        {
+          "section": "378L",
+          "href": "companies-22.html#s378L",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378L",
+          "title": "Vesting of undertaking in Producer Company."
+        },
+        {
+          "section": "378M",
+          "href": "companies-22.html#s378M",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378M",
+          "title": "Concession etc., to be deemed to have been granted to Producer Company."
+        },
+        {
+          "section": "378N",
+          "href": "companies-22.html#s378N",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378N",
+          "title": "Provisions in respect of officers and other employees of inter-State co-operative society."
+        },
+        {
+          "section": "378-O",
+          "href": "companies-22.html#s378-O",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378-O",
+          "title": "Number of directors."
+        },
+        {
+          "section": "378P",
+          "href": "companies-22.html#s378P",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378P",
+          "title": "Appointment of directors."
+        },
+        {
+          "section": "378Q",
+          "href": "companies-22.html#s378Q",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378Q",
+          "title": "Vacation of office by directors."
+        },
+        {
+          "section": "378R",
+          "href": "companies-22.html#s378R",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378R",
+          "title": "Powers and functions of Board."
+        },
+        {
+          "section": "378S",
+          "href": "companies-22.html#s378S",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378S",
+          "title": "Matters to be transacted at general meeting."
+        },
+        {
+          "section": "378T",
+          "href": "companies-22.html#s378T",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378T",
+          "title": "Liability of directors."
+        },
+        {
+          "section": "378U",
+          "href": "companies-22.html#s378U",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378U",
+          "title": "Committee of directors."
+        },
+        {
+          "section": "378V",
+          "href": "companies-22.html#s378V",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378V",
+          "title": "Meetings of Board and quorum."
+        },
+        {
+          "section": "378W",
+          "href": "companies-22.html#s378W",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378W",
+          "title": "Chief Executive and his functions."
+        },
+        {
+          "section": "378X",
+          "href": "companies-22.html#s378X",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378X",
+          "title": "Secretary of Producer Company."
+        },
+        {
+          "section": "378Y",
+          "href": "companies-22.html#s378Y",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378Y",
+          "title": "Quorum."
+        },
+        {
+          "section": "378Z",
+          "href": "companies-22.html#s378Z",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378Z",
+          "title": "Voting rights."
+        },
+        {
+          "section": "378ZA",
+          "href": "companies-22.html#s378ZA",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZA",
+          "title": "Annual general meetings."
+        },
+        {
+          "section": "378ZB",
+          "href": "companies-22.html#s378ZB",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZB",
+          "title": "Share capital."
+        },
+        {
+          "section": "378ZC",
+          "href": "companies-22.html#s378ZC",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZC",
+          "title": "Special user rights."
+        },
+        {
+          "section": "378ZD",
+          "href": "companies-22.html#s378ZD",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZD",
+          "title": "Transferability of shares and attendant rights."
+        },
+        {
+          "section": "378ZE",
+          "href": "companies-22.html#s378ZE",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZE",
+          "title": "Books of account."
+        },
+        {
+          "section": "378ZF",
+          "href": "companies-22.html#s378ZF",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZF",
+          "title": "Internal audit."
+        },
+        {
+          "section": "378ZG",
+          "href": "companies-22.html#s378ZG",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZG",
+          "title": "Duties of auditor under this Chapter."
+        },
+        {
+          "section": "378ZH",
+          "href": "companies-22.html#s378ZH",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZH",
+          "title": "Donation or subscription by Producer Company."
+        },
+        {
+          "section": "378Z-I",
+          "href": "companies-22.html#s378Z-I",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378Z-I",
+          "title": "General and other reserves."
+        },
+        {
+          "section": "378ZJ",
+          "href": "companies-22.html#s378ZJ",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZJ",
+          "title": "Issue of bonus Shares."
+        },
+        {
+          "section": "378ZK",
+          "href": "companies-22.html#s378ZK",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZK",
+          "title": "Loan, etc., to Members."
+        },
+        {
+          "section": "378ZL",
+          "href": "companies-22.html#s378ZL",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZL",
+          "title": "Investment in other companies, formation of subsidiaries etc."
+        },
+        {
+          "section": "378ZM",
+          "href": "companies-22.html#s378ZM",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZM",
+          "title": "Penalty for contravention."
+        },
+        {
+          "section": "378ZN",
+          "href": "companies-22.html#s378ZN",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZN",
+          "title": "Amalgamation merger or division, etc. to form new Producer Companies."
+        },
+        {
+          "section": "378Z-O",
+          "href": "companies-22.html#s378Z-O",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378Z-O",
+          "title": "Disputes."
+        },
+        {
+          "section": "378ZP",
+          "href": "companies-22.html#s378ZP",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZP",
+          "title": "Strike off name of Producer Company."
+        },
+        {
+          "section": "378ZQ",
+          "href": "companies-22.html#s378ZQ",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZQ",
+          "title": "Provisions of this Chapter to override other laws."
+        },
+        {
+          "section": "378ZR",
+          "href": "companies-22.html#s378ZR",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZR",
+          "title": "Application of provisions relating to private companies."
+        },
+        {
+          "section": "378ZS",
+          "href": "companies-22.html#s378ZS",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZS",
+          "title": "Re-conversion of Producer Company to inter-State co-operative society."
+        },
+        {
+          "section": "378ZT",
+          "href": "companies-22.html#s378ZT",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZT",
+          "title": "Power to modify Act in its application to Producer Companies."
+        },
+        {
+          "section": "378ZU",
+          "href": "companies-22.html#s378ZU",
+          "url": "https://www.merasamvidhaan.in/companies-22.html",
+          "anchor": "s378ZU",
+          "title": "Power to make rules."
+        }
+      ]
+    },
+    {
+      "id": "g22",
+      "chapter": "Chapter XXII",
+      "title": "Companies Incorporated Outside India",
+      "range": "ss. 379â393",
+      "chips": [
+        {
+          "section": "379",
+          "href": "companies-23.html#s379",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s379",
+          "title": "Application of Act to foreign companies."
+        },
+        {
+          "section": "380",
+          "href": "companies-23.html#s380",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s380",
+          "title": "Documents, etc., to be delivered to Registrar by foreign companies."
+        },
+        {
+          "section": "381",
+          "href": "companies-23.html#s381",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s381",
+          "title": "Accounts of foreign company."
+        },
+        {
+          "section": "382",
+          "href": "companies-23.html#s382",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s382",
+          "title": "Display of name, etc., of foreign company."
+        },
+        {
+          "section": "383",
+          "href": "companies-23.html#s383",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s383",
+          "title": "Service on foreign company."
+        },
+        {
+          "section": "384",
+          "href": "companies-23.html#s384",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s384",
+          "title": "Debentures, annual return, registration of charges, books of account and their inspection."
+        },
+        {
+          "section": "385",
+          "href": "companies-23.html#s385",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s385",
+          "title": "Fee for registration of documents."
+        },
+        {
+          "section": "386",
+          "href": "companies-23.html#s386",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s386",
+          "title": "Interpretation."
+        },
+        {
+          "section": "387",
+          "href": "companies-23.html#s387",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s387",
+          "title": "Dating of prospectus and particulars to be contained therein."
+        },
+        {
+          "section": "388",
+          "href": "companies-23.html#s388",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s388",
+          "title": "Provisions as to expertâs consent and allotment."
+        },
+        {
+          "section": "389",
+          "href": "companies-23.html#s389",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s389",
+          "title": "Registration of prospectus."
+        },
+        {
+          "section": "390",
+          "href": "companies-23.html#s390",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s390",
+          "title": "Offer of Indian Depository Receipts."
+        },
+        {
+          "section": "391",
+          "href": "companies-23.html#s391",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s391",
+          "title": "Application of sections 34 to 36 and Chapter XX."
+        },
+        {
+          "section": "392",
+          "href": "companies-23.html#s392",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s392",
+          "title": "Punishment for contravention."
+        },
+        {
+          "section": "393",
+          "href": "companies-23.html#s393",
+          "url": "https://www.merasamvidhaan.in/companies-23.html",
+          "anchor": "s393",
+          "title": "Companyâs failure to comply with provisions of this Chapter not to affect validity of contracts, etc."
+        }
+      ]
+    },
+    {
+      "id": "g23",
+      "chapter": "Chapter XXIII",
+      "title": "Government Companies",
+      "range": "ss. 394â395",
+      "chips": [
+        {
+          "section": "394",
+          "href": "companies-24.html#s394",
+          "url": "https://www.merasamvidhaan.in/companies-24.html",
+          "anchor": "s394",
+          "title": "Annual reports on Government companies."
+        },
+        {
+          "section": "395",
+          "href": "companies-24.html#s395",
+          "url": "https://www.merasamvidhaan.in/companies-24.html",
+          "anchor": "s395",
+          "title": "Annual reports where one or more State Governments are members of companies."
+        }
+      ]
+    },
+    {
+      "id": "g24",
+      "chapter": "Chapter XXIV",
+      "title": "Registration Offices and Fees",
+      "range": "ss. 396â404",
+      "chips": [
+        {
+          "section": "396",
+          "href": "companies-25.html#s396",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s396",
+          "title": "Registration offices."
+        },
+        {
+          "section": "397",
+          "href": "companies-25.html#s397",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s397",
+          "title": "Admissibility of certain documents as evidence."
+        },
+        {
+          "section": "398",
+          "href": "companies-25.html#s398",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s398",
+          "title": "Provisions relating to filing of applications, documents, inspection, etc., in electronic form."
+        },
+        {
+          "section": "399",
+          "href": "companies-25.html#s399",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s399",
+          "title": "Inspection, production and evidence of documents kept by Registrar."
+        },
+        {
+          "section": "400",
+          "href": "companies-25.html#s400",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s400",
+          "title": "Electronic form to be exclusive, alternative or in addition to physical form."
+        },
+        {
+          "section": "401",
+          "href": "companies-25.html#s401",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s401",
+          "title": "Provision of value added services through electronic form."
+        },
+        {
+          "section": "402",
+          "href": "companies-25.html#s402",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s402",
+          "title": "Application of provisions of Information Technology Act, 2000."
+        },
+        {
+          "section": "403",
+          "href": "companies-25.html#s403",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s403",
+          "title": "Fee for filing, etc."
+        },
+        {
+          "section": "404",
+          "href": "companies-25.html#s404",
+          "url": "https://www.merasamvidhaan.in/companies-25.html",
+          "anchor": "s404",
+          "title": "Fees, etc., to be credited into public account."
+        }
+      ]
+    },
+    {
+      "id": "g25",
+      "chapter": "Chapter XXV",
+      "title": "Companies to Furnish Information or Statistics",
+      "range": "s. 405",
+      "chips": [
+        {
+          "section": "405",
+          "href": "companies-26.html#s405",
+          "url": "https://www.merasamvidhaan.in/companies-26.html",
+          "anchor": "s405",
+          "title": "Power of Central Government to direct companies to furnish information or statistics."
+        }
+      ]
+    },
+    {
+      "id": "g26",
+      "chapter": "Chapter XXVI",
+      "title": "Nidhis",
+      "range": "s. 406",
+      "chips": [
+        {
+          "section": "406",
+          "href": "companies-27.html#s406",
+          "url": "https://www.merasamvidhaan.in/companies-27.html",
+          "anchor": "s406",
+          "title": "Provision relating to Nidhis and its application, etc."
+        }
+      ]
+    },
+    {
+      "id": "g27",
+      "chapter": "Chapter XXVII",
+      "title": "National Company Law Tribunal and Appellate Tribunal",
+      "range": "ss. 407â434",
+      "chips": [
+        {
+          "section": "407",
+          "href": "companies-28.html#s407",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s407",
+          "title": "Definitions."
+        },
+        {
+          "section": "408",
+          "href": "companies-28.html#s408",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s408",
+          "title": "Constitution of National Company Law Tribunal."
+        },
+        {
+          "section": "409",
+          "href": "companies-28.html#s409",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s409",
+          "title": "Qualification of President and Members of Tribunal."
+        },
+        {
+          "section": "410",
+          "href": "companies-28.html#s410",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s410",
+          "title": "Constitution of Appellate Tribunal."
+        },
+        {
+          "section": "411",
+          "href": "companies-28.html#s411",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s411",
+          "title": "Qualifications of chairperson and Members of Appellate Tribunal."
+        },
+        {
+          "section": "412",
+          "href": "companies-28.html#s412",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s412",
+          "title": "Selection of Members of Tribunal and Appellate Tribunal."
+        },
+        {
+          "section": "413",
+          "href": "companies-28.html#s413",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s413",
+          "title": "Term of office of President, chairperson and other Members."
+        },
+        {
+          "section": "414",
+          "href": "companies-28.html#s414",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s414",
+          "title": "Salary, allowances and other terms and conditions of service of Members."
+        },
+        {
+          "section": "415",
+          "href": "companies-28.html#s415",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s415",
+          "title": "Acting President and Chairperson of Tribunal or Appellate Tribunal."
+        },
+        {
+          "section": "416",
+          "href": "companies-28.html#s416",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s416",
+          "title": "Resignation of Members."
+        },
+        {
+          "section": "417",
+          "href": "companies-28.html#s417",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s417",
+          "title": "Removal of Members."
+        },
+        {
+          "section": "417A",
+          "href": "companies-28.html#s417A",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s417A",
+          "title": "Qualifications, terms and conditions of service of Chairperson and Member."
+        },
+        {
+          "section": "418",
+          "href": "companies-28.html#s418",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s418",
+          "title": "Staff of Tribunal and Appellate Tribunal."
+        },
+        {
+          "section": "419",
+          "href": "companies-28.html#s419",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s419",
+          "title": "Benches of Tribunal."
+        },
+        {
+          "section": "420",
+          "href": "companies-28.html#s420",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s420",
+          "title": "Orders of Tribunal."
+        },
+        {
+          "section": "421",
+          "href": "companies-28.html#s421",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s421",
+          "title": "Appeal from orders of Tribunal."
+        },
+        {
+          "section": "422",
+          "href": "companies-28.html#s422",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s422",
+          "title": "Expeditious disposal by Tribunal and Appellate Tribunal."
+        },
+        {
+          "section": "423",
+          "href": "companies-28.html#s423",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s423",
+          "title": "Appeal to Supreme Court."
+        },
+        {
+          "section": "424",
+          "href": "companies-28.html#s424",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s424",
+          "title": "Procedure before Tribunal and Appellate Tribunal."
+        },
+        {
+          "section": "425",
+          "href": "companies-28.html#s425",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s425",
+          "title": "Power to punish for contempt."
+        },
+        {
+          "section": "426",
+          "href": "companies-28.html#s426",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s426",
+          "title": "Delegation of powers."
+        },
+        {
+          "section": "427",
+          "href": "companies-28.html#s427",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s427",
+          "title": "President, Members, officers, etc., to be public servants."
+        },
+        {
+          "section": "428",
+          "href": "companies-28.html#s428",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s428",
+          "title": "Protection of action taken in good faith."
+        },
+        {
+          "section": "429",
+          "href": "companies-28.html#s429",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s429",
+          "title": "Power to seek assistance of Chief Metropolitan Magistrate, etc."
+        },
+        {
+          "section": "430",
+          "href": "companies-28.html#s430",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s430",
+          "title": "Civil court not to have jurisdiction."
+        },
+        {
+          "section": "431",
+          "href": "companies-28.html#s431",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s431",
+          "title": "Vacancy in Tribunal or Appellate Tribunal not to invalidate acts or proceedings."
+        },
+        {
+          "section": "432",
+          "href": "companies-28.html#s432",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s432",
+          "title": "Right to legal representation."
+        },
+        {
+          "section": "433",
+          "href": "companies-28.html#s433",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s433",
+          "title": "Limitation."
+        },
+        {
+          "section": "434",
+          "href": "companies-28.html#s434",
+          "url": "https://www.merasamvidhaan.in/companies-28.html",
+          "anchor": "s434",
+          "title": "Transfer of certain pending proceedings."
+        }
+      ]
+    },
+    {
+      "id": "g28",
+      "chapter": "Chapter XXVIII",
+      "title": "Special Courts",
+      "range": "ss. 435â446B",
+      "chips": [
+        {
+          "section": "435",
+          "href": "companies-29.html#s435",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s435",
+          "title": "Establishment of Special Courts."
+        },
+        {
+          "section": "436",
+          "href": "companies-29.html#s436",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s436",
+          "title": "Offences triable by Special Courts."
+        },
+        {
+          "section": "437",
+          "href": "companies-29.html#s437",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s437",
+          "title": "Appeal and revision."
+        },
+        {
+          "section": "438",
+          "href": "companies-29.html#s438",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s438",
+          "title": "Application of Code to proceedings before Special Court."
+        },
+        {
+          "section": "439",
+          "href": "companies-29.html#s439",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s439",
+          "title": "Offences to be non-cognizable."
+        },
+        {
+          "section": "440",
+          "href": "companies-29.html#s440",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s440",
+          "title": "Transitional provisions."
+        },
+        {
+          "section": "441",
+          "href": "companies-29.html#s441",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s441",
+          "title": "Compounding of certain offences."
+        },
+        {
+          "section": "442",
+          "href": "companies-29.html#s442",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s442",
+          "title": "Mediation and Conciliation Panel."
+        },
+        {
+          "section": "443",
+          "href": "companies-29.html#s443",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s443",
+          "title": "Power of Central Government to appoint company prosecutors."
+        },
+        {
+          "section": "444",
+          "href": "companies-29.html#s444",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s444",
+          "title": "Appeal against acquittal."
+        },
+        {
+          "section": "445",
+          "href": "companies-29.html#s445",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s445",
+          "title": "Compensation for accusation without reasonable cause."
+        },
+        {
+          "section": "446",
+          "href": "companies-29.html#s446",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s446",
+          "title": "Application of fines."
+        },
+        {
+          "section": "446A",
+          "href": "companies-29.html#s446A",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s446A",
+          "title": "Factors for determining level of punishment."
+        },
+        {
+          "section": "446B",
+          "href": "companies-29.html#s446B",
+          "url": "https://www.merasamvidhaan.in/companies-29.html",
+          "anchor": "s446B",
+          "title": "Lesser penalties for certain companies."
+        }
+      ]
+    },
+    {
+      "id": "g29",
+      "chapter": "Chapter XXIX",
+      "title": "Miscellaneous",
+      "range": "ss. 447â470",
+      "chips": [
+        {
+          "section": "447",
+          "href": "companies-30.html#s447",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s447",
+          "title": "Punishment for fraud."
+        },
+        {
+          "section": "448",
+          "href": "companies-30.html#s448",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s448",
+          "title": "Punishment for false statement."
+        },
+        {
+          "section": "449",
+          "href": "companies-30.html#s449",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s449",
+          "title": "Punishment for false evidence."
+        },
+        {
+          "section": "450",
+          "href": "companies-30.html#s450",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s450",
+          "title": "Punishment where no specific penalty or punishment is provided."
+        },
+        {
+          "section": "451",
+          "href": "companies-30.html#s451",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s451",
+          "title": "Punishment in case of repeated default."
+        },
+        {
+          "section": "452",
+          "href": "companies-30.html#s452",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s452",
+          "title": "Punishment for wrongful withholding of property."
+        },
+        {
+          "section": "453",
+          "href": "companies-30.html#s453",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s453",
+          "title": "Punishment for improper use of âLimitedâ or âPrivate Limitedâ."
+        },
+        {
+          "section": "454",
+          "href": "companies-30.html#s454",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s454",
+          "title": "Adjudication of penalties."
+        },
+        {
+          "section": "454A",
+          "href": "companies-30.html#s454A",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s454A",
+          "title": "Penalty for repeated default."
+        },
+        {
+          "section": "455",
+          "href": "companies-30.html#s455",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s455",
+          "title": "Dormant company."
+        },
+        {
+          "section": "456",
+          "href": "companies-30.html#s456",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s456",
+          "title": "Protection of action taken in good faith."
+        },
+        {
+          "section": "457",
+          "href": "companies-30.html#s457",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s457",
+          "title": "Non-disclosure of information in certain cases."
+        },
+        {
+          "section": "458",
+          "href": "companies-30.html#s458",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s458",
+          "title": "Delegation by Central Government of its powers and functions."
+        },
+        {
+          "section": "459",
+          "href": "companies-30.html#s459",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s459",
+          "title": "Powers of Central Government of Tribunal to accord approval, etc., subject to conditions and to prescribe fees on applications."
+        },
+        {
+          "section": "460",
+          "href": "companies-30.html#s460",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s460",
+          "title": "Condonation of delay in certain cases."
+        },
+        {
+          "section": "461",
+          "href": "companies-30.html#s461",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s461",
+          "title": "Annual report by Central Government."
+        },
+        {
+          "section": "462",
+          "href": "companies-30.html#s462",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s462",
+          "title": "Power to exempt class or classes of companies from provisions of this Act."
+        },
+        {
+          "section": "463",
+          "href": "companies-30.html#s463",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s463",
+          "title": "Power of court to grant relief in certain cases."
+        },
+        {
+          "section": "464",
+          "href": "companies-30.html#s464",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s464",
+          "title": "Prohibition of association or partnership of persons exceeding certain number."
+        },
+        {
+          "section": "465",
+          "href": "companies-30.html#s465",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s465",
+          "title": "Repeal of certain enactments and savings."
+        },
+        {
+          "section": "466",
+          "href": "companies-30.html#s466",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s466",
+          "title": "Dissolution of Company Law Board and consequential provisions."
+        },
+        {
+          "section": "467",
+          "href": "companies-30.html#s467",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s467",
+          "title": "Power of Central Government to amend Schedules."
+        },
+        {
+          "section": "468",
+          "href": "companies-30.html#s468",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s468",
+          "title": "Powers of Central Government to make rules relating to winding up."
+        },
+        {
+          "section": "469",
+          "href": "companies-30.html#s469",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s469",
+          "title": "Power of Central Government to make rules."
+        },
+        {
+          "section": "470",
+          "href": "companies-30.html#s470",
+          "url": "https://www.merasamvidhaan.in/companies-30.html",
+          "anchor": "s470",
+          "title": "Power to remove difficulties."
+        }
+      ]
+    },
+    {
+      "id": "g30",
+      "chapter": "Schedules",
+      "title": "The Schedules",
+      "range": "7 in all",
+      "chips": [
+        {
+          "section": "I",
+          "href": "companies-31a.html#sI",
+          "url": "https://www.merasamvidhaan.in/companies-31a.html",
+          "anchor": "sI",
+          "title": "SCHEDULE I"
+        },
+        {
+          "section": "II",
+          "href": "companies-31a.html#sII",
+          "url": "https://www.merasamvidhaan.in/companies-31a.html",
+          "anchor": "sII",
+          "title": "SCHEDULE II"
+        },
+        {
+          "section": "III",
+          "href": "companies-31b.html#sIII",
+          "url": "https://www.merasamvidhaan.in/companies-31b.html",
+          "anchor": "sIII",
+          "title": "SCHEDULE III"
+        },
+        {
+          "section": "IV",
+          "href": "companies-31b.html#sIV",
+          "url": "https://www.merasamvidhaan.in/companies-31b.html",
+          "anchor": "sIV",
+          "title": "SCHEDULE IV"
+        },
+        {
+          "section": "V",
+          "href": "companies-31b.html#sV",
+          "url": "https://www.merasamvidhaan.in/companies-31b.html",
+          "anchor": "sV",
+          "title": "SCHEDULE V"
+        },
+        {
+          "section": "VI",
+          "href": "companies-31b.html#sVI",
+          "url": "https://www.merasamvidhaan.in/companies-31b.html",
+          "anchor": "sVI",
+          "title": "SCHEDULE VI"
+        },
+        {
+          "section": "VII",
+          "href": "companies-31b.html#sVII",
+          "url": "https://www.merasamvidhaan.in/companies-31b.html",
+          "anchor": "sVII",
+          "title": "SCHEDULE VII"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.merasamvidhaan.in/companies-01.html",
+      "chapters": [
+        "Chapter I"
+      ],
+      "sections": [
+        "1",
+        "2"
+      ],
+      "file": "companies-01.html",
+      "bytes": 61840
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-02.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "3",
+        "3A",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "10A",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "file": "companies-02.html",
+      "bytes": 68874
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-03.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "file": "companies-03.html",
+      "bytes": 56075
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-04.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72"
+      ],
+      "file": "companies-04.html",
+      "bytes": 86918
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-05.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "73",
+        "74",
+        "75",
+        "76",
+        "76A"
+      ],
+      "file": "companies-05.html",
+      "bytes": 23162
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-06.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "77",
+        "78",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87"
+      ],
+      "file": "companies-06.html",
+      "bytes": 28004
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-07.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "88",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98",
+        "99",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "109",
+        "110",
+        "111",
+        "112",
+        "113",
+        "114",
+        "115",
+        "116",
+        "117",
+        "118",
+        "119",
+        "120",
+        "121",
+        "122"
+      ],
+      "file": "companies-07.html",
+      "bytes": 93439
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-08.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "123",
+        "124",
+        "125",
+        "126",
+        "127"
+      ],
+      "file": "companies-08.html",
+      "bytes": 30016
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-09.html",
+      "chapters": [
+        "Chapter IX"
+      ],
+      "sections": [
+        "128",
+        "129",
+        "129A",
+        "130",
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "137",
+        "138"
+      ],
+      "file": "companies-09.html",
+      "bytes": 66934
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-10.html",
+      "chapters": [
+        "Chapter X"
+      ],
+      "sections": [
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148"
+      ],
+      "file": "companies-10.html",
+      "bytes": 57121
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-11.html",
+      "chapters": [
+        "Chapter XI"
+      ],
+      "sections": [
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155",
+        "156",
+        "157",
+        "158",
+        "159",
+        "160",
+        "161",
+        "162",
+        "163",
+        "164",
+        "165",
+        "166",
+        "167",
+        "168",
+        "169",
+        "170",
+        "171",
+        "172"
+      ],
+      "file": "companies-11.html",
+      "bytes": 68689
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-12.html",
+      "chapters": [
+        "Chapter XII"
+      ],
+      "sections": [
+        "173",
+        "174",
+        "175",
+        "176",
+        "177",
+        "178",
+        "179",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188",
+        "189",
+        "190",
+        "191",
+        "192",
+        "193",
+        "194",
+        "195"
+      ],
+      "file": "companies-12.html",
+      "bytes": 84766
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-13.html",
+      "chapters": [
+        "Chapter XIII"
+      ],
+      "sections": [
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204",
+        "205"
+      ],
+      "file": "companies-13.html",
+      "bytes": 46073
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-14.html",
+      "chapters": [
+        "Chapter XIV"
+      ],
+      "sections": [
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228",
+        "229"
+      ],
+      "file": "companies-14.html",
+      "bytes": 74791
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-15.html",
+      "chapters": [
+        "Chapter XV"
+      ],
+      "sections": [
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238",
+        "239",
+        "240"
+      ],
+      "file": "companies-15.html",
+      "bytes": 59067
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-16.html",
+      "chapters": [
+        "Chapter XVI"
+      ],
+      "sections": [
+        "241",
+        "242",
+        "243",
+        "244",
+        "245",
+        "246"
+      ],
+      "file": "companies-16.html",
+      "bytes": 35245
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-17.html",
+      "chapters": [
+        "Chapter XVII"
+      ],
+      "sections": [
+        "247"
+      ],
+      "file": "companies-17.html",
+      "bytes": 13121
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-18.html",
+      "chapters": [
+        "Chapter XVIII"
+      ],
+      "sections": [
+        "248",
+        "249",
+        "250",
+        "251",
+        "252"
+      ],
+      "file": "companies-18.html",
+      "bytes": 23099
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-19.html",
+      "chapters": [
+        "Chapter XIX"
+      ],
+      "sections": [
+        "253",
+        "254",
+        "255",
+        "256",
+        "257",
+        "258",
+        "259",
+        "260",
+        "261",
+        "262",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268",
+        "269"
+      ],
+      "file": "companies-19.html",
+      "bytes": 18539
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-20.html",
+      "chapters": [
+        "Chapter XX"
+      ],
+      "sections": [
+        "270",
+        "271",
+        "272",
+        "273",
+        "274",
+        "275",
+        "276",
+        "277",
+        "278",
+        "279",
+        "280",
+        "281",
+        "282",
+        "283",
+        "284",
+        "285",
+        "286",
+        "287",
+        "288",
+        "289",
+        "290",
+        "291",
+        "292",
+        "293",
+        "294",
+        "295",
+        "296",
+        "297",
+        "298",
+        "299",
+        "300",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "306",
+        "307",
+        "308",
+        "309",
+        "310",
+        "311",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316",
+        "317",
+        "318",
+        "319",
+        "320",
+        "321",
+        "322",
+        "323",
+        "324",
+        "325",
+        "326",
+        "327",
+        "328",
+        "329",
+        "330",
+        "331",
+        "332",
+        "333",
+        "334",
+        "335",
+        "336",
+        "337",
+        "338",
+        "339",
+        "340",
+        "341",
+        "342",
+        "343",
+        "344",
+        "345",
+        "346",
+        "347",
+        "348",
+        "349",
+        "350",
+        "351",
+        "352",
+        "353",
+        "354",
+        "355",
+        "356",
+        "357",
+        "358",
+        "359",
+        "360",
+        "361",
+        "362",
+        "363",
+        "364",
+        "365"
+      ],
+      "file": "companies-20.html",
+      "bytes": 169984
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-21.html",
+      "chapters": [
+        "Chapter XXI"
+      ],
+      "sections": [
+        "366",
+        "367",
+        "368",
+        "369",
+        "370",
+        "371",
+        "372",
+        "373",
+        "374",
+        "375",
+        "376",
+        "377",
+        "378"
+      ],
+      "file": "companies-21.html",
+      "bytes": 35749
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-22.html",
+      "chapters": [
+        "Chapter XXIA"
+      ],
+      "sections": [
+        "378A",
+        "378B",
+        "378C",
+        "378D",
+        "378E",
+        "378F",
+        "378G",
+        "378H",
+        "378-I",
+        "378J",
+        "378K",
+        "378L",
+        "378M",
+        "378N",
+        "378-O",
+        "378P",
+        "378Q",
+        "378R",
+        "378S",
+        "378T",
+        "378U",
+        "378V",
+        "378W",
+        "378X",
+        "378Y",
+        "378Z",
+        "378ZA",
+        "378ZB",
+        "378ZC",
+        "378ZD",
+        "378ZE",
+        "378ZF",
+        "378ZG",
+        "378ZH",
+        "378Z-I",
+        "378ZJ",
+        "378ZK",
+        "378ZL",
+        "378ZM",
+        "378ZN",
+        "378Z-O",
+        "378ZP",
+        "378ZQ",
+        "378ZR",
+        "378ZS",
+        "378ZT",
+        "378ZU"
+      ],
+      "file": "companies-22.html",
+      "bytes": 111649
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-23.html",
+      "chapters": [
+        "Chapter XXII"
+      ],
+      "sections": [
+        "379",
+        "380",
+        "381",
+        "382",
+        "383",
+        "384",
+        "385",
+        "386",
+        "387",
+        "388",
+        "389",
+        "390",
+        "391",
+        "392",
+        "393"
+      ],
+      "file": "companies-23.html",
+      "bytes": 35368
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-24.html",
+      "chapters": [
+        "Chapter XXIII"
+      ],
+      "sections": [
+        "394",
+        "395"
+      ],
+      "file": "companies-24.html",
+      "bytes": 13245
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-25.html",
+      "chapters": [
+        "Chapter XXIV"
+      ],
+      "sections": [
+        "396",
+        "397",
+        "398",
+        "399",
+        "400",
+        "401",
+        "402",
+        "403",
+        "404"
+      ],
+      "file": "companies-25.html",
+      "bytes": 25922
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-26.html",
+      "chapters": [
+        "Chapter XXV"
+      ],
+      "sections": [
+        "405"
+      ],
+      "file": "companies-26.html",
+      "bytes": 13002
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-27.html",
+      "chapters": [
+        "Chapter XXVI"
+      ],
+      "sections": [
+        "406"
+      ],
+      "file": "companies-27.html",
+      "bytes": 12273
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-28.html",
+      "chapters": [
+        "Chapter XXVII"
+      ],
+      "sections": [
+        "407",
+        "408",
+        "409",
+        "410",
+        "411",
+        "412",
+        "413",
+        "414",
+        "415",
+        "416",
+        "417",
+        "417A",
+        "418",
+        "419",
+        "420",
+        "421",
+        "422",
+        "423",
+        "424",
+        "425",
+        "426",
+        "427",
+        "428",
+        "429",
+        "430",
+        "431",
+        "432",
+        "433",
+        "434"
+      ],
+      "file": "companies-28.html",
+      "bytes": 58526
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-29.html",
+      "chapters": [
+        "Chapter XXVIII"
+      ],
+      "sections": [
+        "435",
+        "436",
+        "437",
+        "438",
+        "439",
+        "440",
+        "441",
+        "442",
+        "443",
+        "444",
+        "445",
+        "446",
+        "446A",
+        "446B"
+      ],
+      "file": "companies-29.html",
+      "bytes": 36387
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-30.html",
+      "chapters": [
+        "Chapter XXIX"
+      ],
+      "sections": [
+        "447",
+        "448",
+        "449",
+        "450",
+        "451",
+        "452",
+        "453",
+        "454",
+        "454A",
+        "455",
+        "456",
+        "457",
+        "458",
+        "459",
+        "460",
+        "461",
+        "462",
+        "463",
+        "464",
+        "465",
+        "466",
+        "467",
+        "468",
+        "469",
+        "470"
+      ],
+      "file": "companies-30.html",
+      "bytes": 60374
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-31a.html",
+      "chapters": [
+        "Schedules"
+      ],
+      "sections": [
+        "I",
+        "II"
+      ],
+      "file": "companies-31a.html",
+      "bytes": 108345
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/companies-31b.html",
+      "chapters": [
+        "Schedules"
+      ],
+      "sections": [
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+      ],
+      "file": "companies-31b.html",
+      "bytes": 290158
+    }
+  ]
+}

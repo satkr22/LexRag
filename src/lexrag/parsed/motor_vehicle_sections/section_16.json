@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "motor_vehicle",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor_vehicle_sections/motor-vehicles-02.html",
+    "source_order": 2,
+    "article_order": 14,
+    "order": 18,
+    "stem": "section_16",
+    "heading_number": "Chapter II",
+    "heading_title": "Licensing of Drivers of Motor Vehicles",
+    "heading_range": "ss. 3–28",
+    "heading_source": "group-head",
+    "article_number": "16",
+    "article_title": "Revocation of driving licence on grounds of disease or disability."
+  },
+  "id": "motor_vehicle_section_16",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Licensing of Drivers of Motor Vehicles",
+    "range": "ss. 3–28"
+  },
+  "article": {
+    "number": "16",
+    "title": "Revocation of driving licence on grounds of disease or disability.",
+    "content": "16Revocation of driving licence on grounds of disease or disability.\n\nSection 16  ·  Chapter II  ·  page 20 of the Act\nNotwithstanding anything contained in the foregoing sections, any licensing authority may at any time revoke a driving licence or may require, as a condition of continuing to hold such driving licence, the holder thereof to produce a medical certificate in the same form and in the same manner as is referred to in sub-section (3) of section 8, if the licensing authority has reasonable grounds to believe that the holder of the driving licence is, by virtue of any disease or disability, unfit to drive a motor vehicle and where the authority revoking a driving licence is not the authority which issued the same, it shall intimate the fact of revocation to the authority which issued that licence.\n\n",
+    "html": "<article class=\"provision\" data-n=\"16\" data-report=\"Section 16 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Revocation of driving licence on grounds of disease or disability.</h3></div><p class=\"prov-cite\">Section 16  ·  Chapter II  ·  page 20 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in the foregoing sections, any licensing authority may at any time revoke a driving licence or may require, as a condition of continuing to hold such driving licence, the holder thereof to produce a medical certificate in the same form and in the same manner as is referred to in sub-section (3) of section 8, if the licensing authority has reasonable grounds to believe that the holder of the driving licence is, by virtue of any disease or disability, unfit to drive a motor vehicle and where the authority revoking a driving licence is not the authority which issued the same, it shall intimate the fact of revocation to the authority which issued that licence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Revocation of driving licence on grounds of disease or disability.</h3></div><p class=\"prov-cite\">Section 16  ·  Chapter II  ·  page 20 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in the foregoing sections, any licensing authority may at any time revoke a driving licence or may require, as a condition of continuing to hold such driving licence, the holder thereof to produce a medical certificate in the same form and in the same manner as is referred to in sub-section (3) of section 8, if the licensing authority has reasonable grounds to believe that the holder of the driving licence is, by virtue of any disease or disability, unfit to drive a motor vehicle and where the authority revoking a driving licence is not the authority which issued the same, it shall intimate the fact of revocation to the authority which issued that licence.</p></div>"
+  }
+}

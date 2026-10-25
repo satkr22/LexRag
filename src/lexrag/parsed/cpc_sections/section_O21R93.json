@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 106,
+    "order": 583,
+    "stem": "section_O21R93",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R93",
+    "article_title": "Return of purchaser-money in certain cases."
+  },
+  "id": "cpc_section_O21R93",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R93",
+    "title": "Return of purchaser-money in certain cases.",
+    "content": "93Return of purchaser-money in certain cases.\n\nOrder 21, Rule 93\nWhere a sale of immovable property is set aside under rule 92, the purchaser shall be entitled to an order for repayment of his purchase-money, with or without interest as the Court may direct, against any person to whom it has been paid.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R93\" data-report=\"Order 21, Rule 93 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">93</span>Return of purchaser-money in certain cases.</h3></div><p class=\"prov-cite\">Order 21, Rule 93</p><div class=\"prov-body\"><p>Where a sale of immovable property is set aside under rule 92, the purchaser shall be entitled to an order for repayment of his purchase-money, with or without interest as the Court may direct, against any person to whom it has been paid.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">93</span>Return of purchaser-money in certain cases.</h3></div><p class=\"prov-cite\">Order 21, Rule 93</p><div class=\"prov-body\"><p>Where a sale of immovable property is set aside under rule 92, the purchaser shall be entitled to an order for repayment of his purchase-money, with or without interest as the Court may direct, against any person to whom it has been paid.</p></div>"
+  }
+}

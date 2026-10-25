@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-02.html",
+    "source_order": 2,
+    "article_order": 12,
+    "order": 15,
+    "stem": "section_15",
+    "heading_number": "Part II",
+    "heading_title": "Of Domicile",
+    "heading_range": "ss. 4–19",
+    "heading_source": "group-head",
+    "article_number": "15",
+    "article_title": "Domicile acquired by woman on marriage."
+  },
+  "id": "succession_section_15",
+  "heading": {
+    "number": "Part II",
+    "title": "Of Domicile",
+    "range": "ss. 4–19"
+  },
+  "article": {
+    "number": "15",
+    "title": "Domicile acquired by woman on marriage.",
+    "content": "15Domicile acquired by woman on marriage.\n\nSection 15  ·  Part II  ·  page 19 of the Act\nBy marriage a woman acquires the domicile of her husband, if she had not the same domicile before.\n\n",
+    "html": "<article class=\"provision\" data-n=\"15\" data-report=\"Section 15 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Domicile acquired by woman on marriage.</h3></div><p class=\"prov-cite\">Section 15  ·  Part II  ·  page 19 of the Act</p><div class=\"prov-body\"><p>By marriage a woman acquires the domicile of her husband, if she had not the same domicile before.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Domicile acquired by woman on marriage.</h3></div><p class=\"prov-cite\">Section 15  ·  Part II  ·  page 19 of the Act</p><div class=\"prov-body\"><p>By marriage a woman acquires the domicile of her husband, if she had not the same domicile before.</p></div>"
+  }
+}

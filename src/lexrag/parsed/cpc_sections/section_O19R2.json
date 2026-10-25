@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-35.html",
+    "source_order": 35,
+    "article_order": 2,
+    "order": 450,
+    "stem": "section_O19R2",
+    "heading_number": "Order XIX",
+    "heading_title": "Affidavits",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O19R2",
+    "article_title": "Power to order attendance of deponent for cross-examination."
+  },
+  "id": "cpc_section_O19R2",
+  "heading": {
+    "number": "Order XIX",
+    "title": "Affidavits",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O19R2",
+    "title": "Power to order attendance of deponent for cross-examination.",
+    "content": "2Power to order attendance of deponent for cross-examination.\n\nOrder 19, Rule 2\n(1) Upon any application evidence may be given by affidavit, but the Court may, at the instance of either party, order the attendance for cross-examination of the deponent.\n(2) Such attendance shall be in Court, unless the deponent is exempted from personal appearance in Court, or the Court otherwise directs.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O19R2\" data-report=\"Order 19, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Power to order attendance of deponent for cross-examination.</h3></div><p class=\"prov-cite\">Order 19, Rule 2</p><div class=\"prov-body\"><p class=\"lvl\">(1) Upon any application evidence may be given by affidavit, but the Court may, at the instance of either party, order the attendance for cross-examination of the deponent.</p><p class=\"lvl\">(2) Such attendance shall be in Court, unless the deponent is exempted from personal appearance in Court, or the Court otherwise directs.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Power to order attendance of deponent for cross-examination.</h3></div><p class=\"prov-cite\">Order 19, Rule 2</p><div class=\"prov-body\"><p class=\"lvl\">(1) Upon any application evidence may be given by affidavit, but the Court may, at the instance of either party, order the attendance for cross-examination of the deponent.</p><p class=\"lvl\">(2) Such attendance shall be in Court, unless the deponent is exempted from personal appearance in Court, or the Court otherwise directs.</p></div>"
+  }
+}

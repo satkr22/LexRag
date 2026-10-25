@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-04.html",
+    "source_order": 4,
+    "article_order": 1,
+    "order": 79,
+    "stem": "section_75",
+    "heading_number": "Part Iii",
+    "heading_title": "Incidental Proceedings",
+    "heading_range": "ss. 75–78",
+    "heading_source": "group-head",
+    "article_number": "75",
+    "article_title": "Power of Court to issue commissions."
+  },
+  "id": "cpc_section_75",
+  "heading": {
+    "number": "Part Iii",
+    "title": "Incidental Proceedings",
+    "range": "ss. 75–78"
+  },
+  "article": {
+    "number": "75",
+    "title": "Power of Court to issue commissions.",
+    "content": "75Power of Court to issue commissions.\n\nSection 75\nCommissions\nSubject to such conditions and limitations as may be prescribed, the Court may issue a commission—\n(a) to examine any person;\n(b) to make a local investigation;\n(c) to examine or adjust accounts; or (d) to make a partition;\n1[(e) to hold a scientific, technical, or expert investigation;\n(f) to conduct sale of property which is subject to speedy and natural decay and which is in the custody of the Court pending the determination of the suit;\n(g) to perform any ministerial act.]\n\n1 Ins. by Act 104 of 1976, s. 26 (w.e.f. 1-2-1977).\n\n",
+    "html": "<article class=\"provision\" data-n=\"75\" data-report=\"Section 75 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Power of Court to issue commissions.</h3></div><p class=\"prov-cite\">Section 75</p><div class=\"prov-body\"><p class=\"sched-title\">Commissions</p><p>Subject to such conditions and limitations as may be prescribed, the Court may issue a commission—</p><p class=\"lvl\">(a) to examine any person;</p><p class=\"lvl\">(b) to make a local investigation;</p><p class=\"lvl\">(c) to examine or adjust accounts; or (d) to make a partition;</p><p class=\"lvl\"><sup>1</sup>[(e) to hold a scientific, technical, or expert investigation;</p><p class=\"lvl\">(f) to conduct sale of property which is subject to speedy and natural decay and which is in the custody of the Court pending the determination of the suit;</p><p class=\"lvl\">(g) to perform any ministerial act.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 26 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Power of Court to issue commissions.</h3></div><p class=\"prov-cite\">Section 75</p><div class=\"prov-body\"><p class=\"sched-title\">Commissions</p><p>Subject to such conditions and limitations as may be prescribed, the Court may issue a commission—</p><p class=\"lvl\">(a) to examine any person;</p><p class=\"lvl\">(b) to make a local investigation;</p><p class=\"lvl\">(c) to examine or adjust accounts; or (d) to make a partition;</p><p class=\"lvl\"><sup>1</sup>[(e) to hold a scientific, technical, or expert investigation;</p><p class=\"lvl\">(f) to conduct sale of property which is subject to speedy and natural decay and which is in the custody of the Court pending the determination of the suit;</p><p class=\"lvl\">(g) to perform any ministerial act.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 26 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

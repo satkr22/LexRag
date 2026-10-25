@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-04.html",
+    "source_order": 4,
+    "article_order": 16,
+    "order": 58,
+    "stem": "section_48",
+    "heading_number": "Part IV",
+    "heading_title": "Directive Principles of State Policy",
+    "heading_range": "36 – 51",
+    "heading_source": "group-head",
+    "article_number": "48",
+    "article_title": "Organisation of agriculture and animal husbandry"
+  },
+  "id": "constitution_section_48",
+  "heading": {
+    "number": "Part IV",
+    "title": "Directive Principles of State Policy",
+    "range": "36 – 51"
+  },
+  "article": {
+    "number": "48",
+    "title": "Organisation of agriculture and animal husbandry",
+    "content": "48Organisation of agriculture and animal husbandry\n\nArticle 48 · Part IV\nThe State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.\n\n",
+    "html": "<article class=\"provision\" data-n=\"48\" data-report=\"Article 48 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">48</span>Organisation of agriculture and animal husbandry</h3></div><p class=\"prov-cite\">Article 48 · Part IV</p><div class=\"prov-body\"><p>The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">48</span>Organisation of agriculture and animal husbandry</h3></div><p class=\"prov-cite\">Article 48 · Part IV</p><div class=\"prov-body\"><p>The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.</p></div>"
+  }
+}

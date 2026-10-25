@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "rpwd",
+    "document_title": null,
+    "source_file": "rpwd_sections/section-5.html",
+    "source_order": 5,
+    "article_order": 1,
+    "order": 5,
+    "stem": "section_5",
+    "heading_number": "Chapter II",
+    "heading_title": "Rights and Entitlements",
+    "heading_range": "ss. 3–15",
+    "heading_source": "manifest",
+    "article_number": "5",
+    "article_title": "Community life."
+  },
+  "id": "rpwd_section_5",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Rights and Entitlements",
+    "range": "ss. 3–15"
+  },
+  "article": {
+    "number": "5",
+    "title": "Community life.",
+    "content": "5Community life.\n\nSection 5  ·  Chapter II  ·  page 8 of the Act\n(1) The persons with disabilities shall have the right to live in the community.\n(2) The appropriate Government shall endeavour that the persons with disabilities are,—\n(a) not obliged to live in any particular living arrangement; and\n(b) given access to a range of in-house, residential and other community support services, including personal assistance necessary to support living with due regard to age and gender.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Community life.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The persons with disabilities shall have the right to live in the community.</p><p class=\"lvl\">(2) The appropriate Government shall endeavour that the persons with disabilities are,—</p><p class=\"lvl\">(a) not obliged to live in any particular living arrangement; and</p><p class=\"lvl\">(b) given access to a range of in-house, residential and other community support services, including personal assistance necessary to support living with due regard to age and gender.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Community life.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The persons with disabilities shall have the right to live in the community.</p><p class=\"lvl\">(2) The appropriate Government shall endeavour that the persons with disabilities are,—</p><p class=\"lvl\">(a) not obliged to live in any particular living arrangement; and</p><p class=\"lvl\">(b) given access to a range of in-house, residential and other community support services, including personal assistance necessary to support living with due regard to age and gender.</p></div>"
+  }
+}

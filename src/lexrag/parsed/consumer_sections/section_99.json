@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "document_title": null,
+    "source_file": "consumer_sections/section-99.html",
+    "source_order": 99,
+    "article_order": 1,
+    "order": 99,
+    "stem": "section_99",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 94–107",
+    "heading_source": "manifest",
+    "article_number": "99",
+    "article_title": "Power to give directions by Central Government."
+  },
+  "id": "consumer_section_99",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Miscellaneous",
+    "range": "ss. 94–107"
+  },
+  "article": {
+    "number": "99",
+    "title": "Power to give directions by Central Government.",
+    "content": "99Power to give directions by Central Government.\n\nSection 99  ·  Chapter VIII  ·  page 35 of the Act\n(1) Without prejudice to the foregoing provisions of this Act, the Central Authority, shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy, as the Central Government may give in writing to it from time to time:\nProvided that the Central Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.\n(2) The decision of the Central Government whether a question is one of policy or not shall be final.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Power to give directions by Central Government.</h3></div><p class=\"prov-cite\">Section 99  ·  Chapter VIII  ·  page 35 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Without prejudice to the foregoing provisions of this Act, the Central Authority, shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy, as the Central Government may give in writing to it from time to time:</p><p class=\"prvso\">Provided that the Central Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.</p><p class=\"lvl\">(2) The decision of the Central Government whether a question is one of policy or not shall be final.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Power to give directions by Central Government.</h3></div><p class=\"prov-cite\">Section 99  ·  Chapter VIII  ·  page 35 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Without prejudice to the foregoing provisions of this Act, the Central Authority, shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy, as the Central Government may give in writing to it from time to time:</p><p class=\"prvso\">Provided that the Central Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.</p><p class=\"lvl\">(2) The decision of the Central Government whether a question is one of policy or not shall be final.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-02.html",
+    "source_order": 2,
+    "article_order": 7,
+    "order": 10,
+    "stem": "section_10",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Punishments",
+    "heading_range": "4 – 13",
+    "heading_source": "group-head",
+    "article_number": "10",
+    "article_title": "Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which"
+  },
+  "id": "bns_section_10",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Punishments",
+    "range": "4 – 13"
+  },
+  "article": {
+    "number": "10",
+    "title": "Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which",
+    "content": "10Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which\n\nSection 10 · Chapter II\nIn all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided if the same punishment is not provided for all.\n\n",
+    "html": "<article class=\"provision\" data-n=\"10\" data-report=\"Section 10 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which</h3></div><p class=\"prov-cite\">Section 10 · Chapter II</p><div class=\"prov-body\"><p>In all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided if the same punishment is not provided for all.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which</h3></div><p class=\"prov-cite\">Section 10 · Chapter II</p><div class=\"prov-body\"><p>In all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided if the same punishment is not provided for all.</p></div>"
+  }
+}

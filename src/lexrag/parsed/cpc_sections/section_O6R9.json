@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-18.html",
+    "source_order": 18,
+    "article_order": 9,
+    "order": 245,
+    "stem": "section_O6R9",
+    "heading_number": "Order VI",
+    "heading_title": "Pleadings generally",
+    "heading_range": "19 rules",
+    "heading_source": "group-head",
+    "article_number": "O6R9",
+    "article_title": "Effect of document to be stated."
+  },
+  "id": "cpc_section_O6R9",
+  "heading": {
+    "number": "Order VI",
+    "title": "Pleadings generally",
+    "range": "19 rules"
+  },
+  "article": {
+    "number": "O6R9",
+    "title": "Effect of document to be stated.",
+    "content": "9Effect of document to be stated.\n\nOrder 6, Rule 9\nWherever the contents of any document are material, it shall be sufficient in any pleading to state the effect thereof as briefly as possible, without setting out the whole or any part thereof, unless the precise words of the document or any part thereof are material.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O6R9\" data-report=\"Order 6, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Effect of document to be stated.</h3></div><p class=\"prov-cite\">Order 6, Rule 9</p><div class=\"prov-body\"><p>Wherever the contents of any document are material, it shall be sufficient in any pleading to state the effect thereof as briefly as possible, without setting out the whole or any part thereof, unless the precise words of the document or any part thereof are material.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Effect of document to be stated.</h3></div><p class=\"prov-cite\">Order 6, Rule 9</p><div class=\"prov-body\"><p>Wherever the contents of any document are material, it shall be sufficient in any pleading to state the effect thereof as briefly as possible, without setting out the whole or any part thereof, unless the precise words of the document or any part thereof are material.</p></div>"
+  }
+}

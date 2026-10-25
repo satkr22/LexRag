@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-02.html",
+    "source_order": 2,
+    "article_order": 5,
+    "order": 8,
+    "stem": "section_8",
+    "heading_number": "Part II",
+    "heading_title": "Of Domicile",
+    "heading_range": "ss. 4–19",
+    "heading_source": "group-head",
+    "article_number": "8",
+    "article_title": "Domicile of origin of illegitimate child."
+  },
+  "id": "succession_section_8",
+  "heading": {
+    "number": "Part II",
+    "title": "Of Domicile",
+    "range": "ss. 4–19"
+  },
+  "article": {
+    "number": "8",
+    "title": "Domicile of origin of illegitimate child.",
+    "content": "8Domicile of origin of illegitimate child.\n\nSection 8  ·  Part II  ·  page 18 of the Act\nThe domicile of origin of an illegitimate child is in the country in which, at the time of his birth, his mother was domiciled.\n\n",
+    "html": "<article class=\"provision\" data-n=\"8\" data-report=\"Section 8 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Domicile of origin of illegitimate child.</h3></div><p class=\"prov-cite\">Section 8  ·  Part II  ·  page 18 of the Act</p><div class=\"prov-body\"><p>The domicile of origin of an illegitimate child is in the country in which, at the time of his birth, his mother was domiciled.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Domicile of origin of illegitimate child.</h3></div><p class=\"prov-cite\">Section 8  ·  Part II  ·  page 18 of the Act</p><div class=\"prov-body\"><p>The domicile of origin of an illegitimate child is in the country in which, at the time of his birth, his mother was domiciled.</p></div>"
+  }
+}

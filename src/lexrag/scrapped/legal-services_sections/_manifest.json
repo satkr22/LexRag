@@ -1,0 +1,791 @@
+{
+  "index": "https://www.merasamvidhaan.in/legal-services.html",
+  "groups": [
+    {
+      "id": "g0",
+      "chapter": "Chapter I",
+      "title": "Preliminary",
+      "range": "ss. 1â2",
+      "chips": [
+        {
+          "section": "1",
+          "href": "legal-services/section-1.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-1.html",
+          "anchor": "",
+          "title": "Short title, extent and commencement."
+        },
+        {
+          "section": "2",
+          "href": "legal-services/section-2.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-2.html",
+          "anchor": "",
+          "title": "Definitions."
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "chapter": "Chapter II",
+      "title": "The National Legal Services Authority",
+      "range": "ss. 3â5",
+      "chips": [
+        {
+          "section": "3",
+          "href": "legal-services/section-3.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-3.html",
+          "anchor": "",
+          "title": "Constitution of the National Legal Services Authority."
+        },
+        {
+          "section": "3A",
+          "href": "legal-services/section-3a.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-3a.html",
+          "anchor": "",
+          "title": "Supreme Court Legal Services Committee."
+        },
+        {
+          "section": "4",
+          "href": "legal-services/section-4.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-4.html",
+          "anchor": "",
+          "title": "Functions of the Central Authority."
+        },
+        {
+          "section": "5",
+          "href": "legal-services/section-5.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-5.html",
+          "anchor": "",
+          "title": "Central Authority to work in coordination with other agencies."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "chapter": "Chapter III",
+      "title": "State Legal Services Authority",
+      "range": "ss. 6â11B",
+      "chips": [
+        {
+          "section": "6",
+          "href": "legal-services/section-6.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-6.html",
+          "anchor": "",
+          "title": "Constitution of State Legal Services Authority."
+        },
+        {
+          "section": "7",
+          "href": "legal-services/section-7.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-7.html",
+          "anchor": "",
+          "title": "Functions of the State Authority."
+        },
+        {
+          "section": "8",
+          "href": "legal-services/section-8.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-8.html",
+          "anchor": "",
+          "title": "State Authority to act in coordination with other agencies., etc., and be subject to directions given by the Central Authority."
+        },
+        {
+          "section": "8A",
+          "href": "legal-services/section-8a.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-8a.html",
+          "anchor": "",
+          "title": "High Court Legal Services Committee."
+        },
+        {
+          "section": "9",
+          "href": "legal-services/section-9.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-9.html",
+          "anchor": "",
+          "title": "District Legal Services Authority."
+        },
+        {
+          "section": "10",
+          "href": "legal-services/section-10.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-10.html",
+          "anchor": "",
+          "title": "Functions of the District Authority."
+        },
+        {
+          "section": "11",
+          "href": "legal-services/section-11.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-11.html",
+          "anchor": "",
+          "title": "District Authority to act in coordination with other agencies and be subject to directions given by the Central Authority, etc."
+        },
+        {
+          "section": "11A",
+          "href": "legal-services/section-11a.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-11a.html",
+          "anchor": "",
+          "title": "Taluk Legal Services Committee."
+        },
+        {
+          "section": "11B",
+          "href": "legal-services/section-11b.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-11b.html",
+          "anchor": "",
+          "title": "Functions of Taluk Legal Services Committee."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "chapter": "Chapter IV",
+      "title": "Entitlement to Legal Services",
+      "range": "ss. 12â13",
+      "chips": [
+        {
+          "section": "12",
+          "href": "legal-services/section-12.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-12.html",
+          "anchor": "",
+          "title": "Criteria for giving legal services."
+        },
+        {
+          "section": "13",
+          "href": "legal-services/section-13.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-13.html",
+          "anchor": "",
+          "title": "Entitlement of legal services."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "chapter": "Chapter V",
+      "title": "Finance, Accounts and Audit",
+      "range": "ss. 14â18",
+      "chips": [
+        {
+          "section": "14",
+          "href": "legal-services/section-14.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-14.html",
+          "anchor": "",
+          "title": "Grants by the Central Government."
+        },
+        {
+          "section": "15",
+          "href": "legal-services/section-15.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-15.html",
+          "anchor": "",
+          "title": "National Legal Aid Fund."
+        },
+        {
+          "section": "16",
+          "href": "legal-services/section-16.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-16.html",
+          "anchor": "",
+          "title": "State Legal Aid Fund."
+        },
+        {
+          "section": "17",
+          "href": "legal-services/section-17.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-17.html",
+          "anchor": "",
+          "title": "District Legal Aid Fund."
+        },
+        {
+          "section": "18",
+          "href": "legal-services/section-18.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-18.html",
+          "anchor": "",
+          "title": "Accounts and audit."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "chapter": "Chapter VI",
+      "title": "Lok Adalats",
+      "range": "ss. 19â22",
+      "chips": [
+        {
+          "section": "19",
+          "href": "legal-services/section-19.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-19.html",
+          "anchor": "",
+          "title": "Organisation of Lok Adalats."
+        },
+        {
+          "section": "20",
+          "href": "legal-services/section-20.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-20.html",
+          "anchor": "",
+          "title": "Cognizance of cases by Lok Adalats."
+        },
+        {
+          "section": "21",
+          "href": "legal-services/section-21.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-21.html",
+          "anchor": "",
+          "title": "Award of Lok Adalat."
+        },
+        {
+          "section": "22",
+          "href": "legal-services/section-22.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-22.html",
+          "anchor": "",
+          "title": "Powers of Lok Adalat or Permanent Lok Adalat."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "chapter": "Chapter VIA",
+      "title": "Pre-litigation Conciliation and Settlement",
+      "range": "ss. 22Aâ22E",
+      "chips": [
+        {
+          "section": "22A",
+          "href": "legal-services/section-22a.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-22a.html",
+          "anchor": "",
+          "title": "Definitions."
+        },
+        {
+          "section": "22B",
+          "href": "legal-services/section-22b.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-22b.html",
+          "anchor": "",
+          "title": "Establishment of Permanent Lok Adalats."
+        },
+        {
+          "section": "22C",
+          "href": "legal-services/section-22c.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-22c.html",
+          "anchor": "",
+          "title": "Cognizance of cases by Permanent Lok Adalat."
+        },
+        {
+          "section": "22D",
+          "href": "legal-services/section-22d.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-22d.html",
+          "anchor": "",
+          "title": "Procedure of Permanent Lok Adalat."
+        },
+        {
+          "section": "22E",
+          "href": "legal-services/section-22e.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-22e.html",
+          "anchor": "",
+          "title": "Award of Permanent Lok Adalat to be final."
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "chapter": "Chapter VII",
+      "title": "Miscellaneous",
+      "range": "ss. 23â30",
+      "chips": [
+        {
+          "section": "23",
+          "href": "legal-services/section-23.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-23.html",
+          "anchor": "",
+          "title": "Members and staff of Authorities, Committees and Lok Adalats to be public servants."
+        },
+        {
+          "section": "24",
+          "href": "legal-services/section-24.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-24.html",
+          "anchor": "",
+          "title": "Protection of action taken in good faith."
+        },
+        {
+          "section": "25",
+          "href": "legal-services/section-25.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-25.html",
+          "anchor": "",
+          "title": "Act to have overriding effect."
+        },
+        {
+          "section": "26",
+          "href": "legal-services/section-26.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-26.html",
+          "anchor": "",
+          "title": "Power to remove difficulties."
+        },
+        {
+          "section": "27",
+          "href": "legal-services/section-27.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-27.html",
+          "anchor": "",
+          "title": "Power of Central Government to make rules."
+        },
+        {
+          "section": "28",
+          "href": "legal-services/section-28.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-28.html",
+          "anchor": "",
+          "title": "Power of State Government to make rules."
+        },
+        {
+          "section": "29",
+          "href": "legal-services/section-29.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-29.html",
+          "anchor": "",
+          "title": "Power of Central Authority to make regulations."
+        },
+        {
+          "section": "29A",
+          "href": "legal-services/section-29a.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-29a.html",
+          "anchor": "",
+          "title": "Power of State Authority to make regulations."
+        },
+        {
+          "section": "30",
+          "href": "legal-services/section-30.html",
+          "url": "https://www.merasamvidhaan.in/legal-services/section-30.html",
+          "anchor": "",
+          "title": "Laying of rules and regulations."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-1.html",
+      "chapters": [
+        "Chapter I"
+      ],
+      "sections": [
+        "1"
+      ],
+      "file": "section-1.html",
+      "bytes": 11144
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-2.html",
+      "chapters": [
+        "Chapter I"
+      ],
+      "sections": [
+        "2"
+      ],
+      "file": "section-2.html",
+      "bytes": 13160
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-3.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "3"
+      ],
+      "file": "section-3.html",
+      "bytes": 13449
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-3a.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "3A"
+      ],
+      "file": "section-3a.html",
+      "bytes": 12082
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-4.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "4"
+      ],
+      "file": "section-4.html",
+      "bytes": 14148
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-5.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "5"
+      ],
+      "file": "section-5.html",
+      "bytes": 10703
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-6.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "6"
+      ],
+      "file": "section-6.html",
+      "bytes": 13645
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-7.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "7"
+      ],
+      "file": "section-7.html",
+      "bytes": 11407
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-8.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "8"
+      ],
+      "file": "section-8.html",
+      "bytes": 11090
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-8a.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "8A"
+      ],
+      "file": "section-8a.html",
+      "bytes": 12120
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-9.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "9"
+      ],
+      "file": "section-9.html",
+      "bytes": 12923
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-10.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "10"
+      ],
+      "file": "section-10.html",
+      "bytes": 11504
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-11.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "11"
+      ],
+      "file": "section-11.html",
+      "bytes": 10999
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-11a.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "11A"
+      ],
+      "file": "section-11a.html",
+      "bytes": 12106
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-11b.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "11B"
+      ],
+      "file": "section-11b.html",
+      "bytes": 10733
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-12.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "12"
+      ],
+      "file": "section-12.html",
+      "bytes": 12436
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-13.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "13"
+      ],
+      "file": "section-13.html",
+      "bytes": 10782
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-14.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "14"
+      ],
+      "file": "section-14.html",
+      "bytes": 10681
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-15.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "15"
+      ],
+      "file": "section-15.html",
+      "bytes": 11314
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-16.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "16"
+      ],
+      "file": "section-16.html",
+      "bytes": 11290
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-17.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "17"
+      ],
+      "file": "section-17.html",
+      "bytes": 11367
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-18.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "18"
+      ],
+      "file": "section-18.html",
+      "bytes": 12512
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-19.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "19"
+      ],
+      "file": "section-19.html",
+      "bytes": 12477
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-20.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "20"
+      ],
+      "file": "section-20.html",
+      "bytes": 13213
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-21.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "21"
+      ],
+      "file": "section-21.html",
+      "bytes": 10939
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-22.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "22"
+      ],
+      "file": "section-22.html",
+      "bytes": 12097
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-22a.html",
+      "chapters": [
+        "Chapter VIA"
+      ],
+      "sections": [
+        "22A"
+      ],
+      "file": "section-22a.html",
+      "bytes": 11257
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-22b.html",
+      "chapters": [
+        "Chapter VIA"
+      ],
+      "sections": [
+        "22B"
+      ],
+      "file": "section-22b.html",
+      "bytes": 11838
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-22c.html",
+      "chapters": [
+        "Chapter VIA"
+      ],
+      "sections": [
+        "22C"
+      ],
+      "file": "section-22c.html",
+      "bytes": 14024
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-22d.html",
+      "chapters": [
+        "Chapter VIA"
+      ],
+      "sections": [
+        "22D"
+      ],
+      "file": "section-22d.html",
+      "bytes": 10693
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-22e.html",
+      "chapters": [
+        "Chapter VIA"
+      ],
+      "sections": [
+        "22E"
+      ],
+      "file": "section-22e.html",
+      "bytes": 11287
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-23.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "23"
+      ],
+      "file": "section-23.html",
+      "bytes": 11308
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-24.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "24"
+      ],
+      "file": "section-24.html",
+      "bytes": 11292
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-25.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "25"
+      ],
+      "file": "section-25.html",
+      "bytes": 10485
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-26.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "26"
+      ],
+      "file": "section-26.html",
+      "bytes": 10889
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-27.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "27"
+      ],
+      "file": "section-27.html",
+      "bytes": 13265
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-28.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "28"
+      ],
+      "file": "section-28.html",
+      "bytes": 13284
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-29.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "29"
+      ],
+      "file": "section-29.html",
+      "bytes": 11130
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-29a.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "29A"
+      ],
+      "file": "section-29a.html",
+      "bytes": 12130
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/legal-services/section-30.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "30"
+      ],
+      "file": "section-30.html",
+      "bytes": 11356
+    }
+  ]
+}

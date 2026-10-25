@@ -1,0 +1,3193 @@
+{
+  "index": "https://www.merasamvidhaan.in/limitation.html",
+  "groups": [
+    {
+      "id": "g0",
+      "chapter": "Part I",
+      "title": "Preliminary",
+      "range": "ss. 1â2",
+      "chips": [
+        {
+          "section": "s1",
+          "href": "limitation/section-1.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-1.html",
+          "anchor": "",
+          "title": "Short title, extent and commencement."
+        },
+        {
+          "section": "s2",
+          "href": "limitation/section-2.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-2.html",
+          "anchor": "",
+          "title": "Definitions."
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "chapter": "Part II",
+      "title": "Limitation of Suits, Appeals and Applications",
+      "range": "ss. 3â11",
+      "chips": [
+        {
+          "section": "s3",
+          "href": "limitation/section-3.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-3.html",
+          "anchor": "",
+          "title": "Bar of limitation."
+        },
+        {
+          "section": "s4",
+          "href": "limitation/section-4.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-4.html",
+          "anchor": "",
+          "title": "Expiry of prescribed period when court is closed."
+        },
+        {
+          "section": "s5",
+          "href": "limitation/section-5.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-5.html",
+          "anchor": "",
+          "title": "Extension of prescribed period in certain cases."
+        },
+        {
+          "section": "s6",
+          "href": "limitation/section-6.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-6.html",
+          "anchor": "",
+          "title": "Legal disability."
+        },
+        {
+          "section": "s7",
+          "href": "limitation/section-7.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-7.html",
+          "anchor": "",
+          "title": "Disability of one of several persons."
+        },
+        {
+          "section": "s8",
+          "href": "limitation/section-8.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-8.html",
+          "anchor": "",
+          "title": "Special exceptions."
+        },
+        {
+          "section": "s9",
+          "href": "limitation/section-9.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-9.html",
+          "anchor": "",
+          "title": "Continuous running of time."
+        },
+        {
+          "section": "s10",
+          "href": "limitation/section-10.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-10.html",
+          "anchor": "",
+          "title": "Suits against trustees and their representatives."
+        },
+        {
+          "section": "s11",
+          "href": "limitation/section-11.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-11.html",
+          "anchor": "",
+          "title": "Suits on contracts entered into outside the territories to which the Act extends."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "chapter": "Part III",
+      "title": "Computation of Period of Limitation",
+      "range": "ss. 12â24",
+      "chips": [
+        {
+          "section": "s12",
+          "href": "limitation/section-12.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-12.html",
+          "anchor": "",
+          "title": "Exclusion of time in legal proceedings."
+        },
+        {
+          "section": "s13",
+          "href": "limitation/section-13.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-13.html",
+          "anchor": "",
+          "title": "Exclusion of time in cases where leave to sue or appeal as a pauper is applied for."
+        },
+        {
+          "section": "s14",
+          "href": "limitation/section-14.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-14.html",
+          "anchor": "",
+          "title": "Exclusion of time of proceeding bona fide in court without jurisdiction."
+        },
+        {
+          "section": "s15",
+          "href": "limitation/section-15.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-15.html",
+          "anchor": "",
+          "title": "Exclusion of time in certain other cases."
+        },
+        {
+          "section": "s16",
+          "href": "limitation/section-16.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-16.html",
+          "anchor": "",
+          "title": "Effect of death on or before the accrual of the right to sue."
+        },
+        {
+          "section": "s17",
+          "href": "limitation/section-17.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-17.html",
+          "anchor": "",
+          "title": "Effect of fraud or mistake."
+        },
+        {
+          "section": "s18",
+          "href": "limitation/section-18.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-18.html",
+          "anchor": "",
+          "title": "Effect of acknowledgment in writing."
+        },
+        {
+          "section": "s19",
+          "href": "limitation/section-19.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-19.html",
+          "anchor": "",
+          "title": "Effect of payment on account of debt or of interest on legacy."
+        },
+        {
+          "section": "s20",
+          "href": "limitation/section-20.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-20.html",
+          "anchor": "",
+          "title": "Effect of acknowledgment or payment by another person."
+        },
+        {
+          "section": "s21",
+          "href": "limitation/section-21.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-21.html",
+          "anchor": "",
+          "title": "Effect of substituting or adding new plaintiff or defendant."
+        },
+        {
+          "section": "s22",
+          "href": "limitation/section-22.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-22.html",
+          "anchor": "",
+          "title": "Continuing breaches and torts."
+        },
+        {
+          "section": "s23",
+          "href": "limitation/section-23.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-23.html",
+          "anchor": "",
+          "title": "Suits for compensation for acts not actionable without special damage."
+        },
+        {
+          "section": "s24",
+          "href": "limitation/section-24.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-24.html",
+          "anchor": "",
+          "title": "Computation of time mentioned in instruments."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "chapter": "Part IV",
+      "title": "Acquisition of Ownership by Possession",
+      "range": "ss. 25â27",
+      "chips": [
+        {
+          "section": "s25",
+          "href": "limitation/section-25.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-25.html",
+          "anchor": "",
+          "title": "Acquisition of easements by prescription."
+        },
+        {
+          "section": "s26",
+          "href": "limitation/section-26.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-26.html",
+          "anchor": "",
+          "title": "Exclusion in favour of reversioner of serivent tenement."
+        },
+        {
+          "section": "s27",
+          "href": "limitation/section-27.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-27.html",
+          "anchor": "",
+          "title": "Extinguishment of right to property."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "chapter": "Part V",
+      "title": "Miscellaneous",
+      "range": "ss. 28â32",
+      "chips": [
+        {
+          "section": "s28",
+          "href": "limitation/section-28.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-28.html",
+          "anchor": "",
+          "title": "[Amendment of certain Acts.]"
+        },
+        {
+          "section": "s29",
+          "href": "limitation/section-29.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-29.html",
+          "anchor": "",
+          "title": "Savings."
+        },
+        {
+          "section": "s30",
+          "href": "limitation/section-30.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-30.html",
+          "anchor": "",
+          "title": "Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908."
+        },
+        {
+          "section": "s31",
+          "href": "limitation/section-31.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-31.html",
+          "anchor": "",
+          "title": "Provisions as to barred or pending suits, etc."
+        },
+        {
+          "section": "s32",
+          "href": "limitation/section-32.html",
+          "url": "https://www.merasamvidhaan.in/limitation/section-32.html",
+          "anchor": "",
+          "title": "[Repeal.]"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "chapter": "First Division Â· Part I",
+      "title": "Suits Relating to Accounts",
+      "range": "arts. 1â5",
+      "chips": [
+        {
+          "section": "a1",
+          "href": "limitation/schedule-article-1.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-1.html",
+          "anchor": "",
+          "title": "For the balance due on a mutual, open and current account, where there have been reciprocal demands between the parties."
+        },
+        {
+          "section": "a2",
+          "href": "limitation/schedule-article-2.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-2.html",
+          "anchor": "",
+          "title": "Against a factor for an account."
+        },
+        {
+          "section": "a3",
+          "href": "limitation/schedule-article-3.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-3.html",
+          "anchor": "",
+          "title": "By a principal against his agent for movable property received by the latter and not accounted for."
+        },
+        {
+          "section": "a4",
+          "href": "limitation/schedule-article-4.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-4.html",
+          "anchor": "",
+          "title": "Other suits by principals against agents for neglect or misconduct."
+        },
+        {
+          "section": "a5",
+          "href": "limitation/schedule-article-5.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-5.html",
+          "anchor": "",
+          "title": "For an account and a share of the profits of a dissolved partnership."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "chapter": "First Division Â· Part II",
+      "title": "Suits Relating to Contracts",
+      "range": "arts. 6â55",
+      "chips": [
+        {
+          "section": "a6",
+          "href": "limitation/schedule-article-6.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-6.html",
+          "anchor": "",
+          "title": "For a seamanâs wages"
+        },
+        {
+          "section": "a7",
+          "href": "limitation/schedule-article-7.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-7.html",
+          "anchor": "",
+          "title": "For wages in the case of any other person."
+        },
+        {
+          "section": "a8",
+          "href": "limitation/schedule-article-8.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-8.html",
+          "anchor": "",
+          "title": "For the price of food or drink sold by the keeper of a hotel, tavern or lodging-house."
+        },
+        {
+          "section": "a9",
+          "href": "limitation/schedule-article-9.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-9.html",
+          "anchor": "",
+          "title": "For the price of lodging."
+        },
+        {
+          "section": "a10",
+          "href": "limitation/schedule-article-10.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-10.html",
+          "anchor": "",
+          "title": "Against a carrier for compensation for losing or injuring goods."
+        },
+        {
+          "section": "a11",
+          "href": "limitation/schedule-article-11.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-11.html",
+          "anchor": "",
+          "title": "Against a carrier for compensation for non-delivery of, or delay in delivering, goods."
+        },
+        {
+          "section": "a12",
+          "href": "limitation/schedule-article-12.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-12.html",
+          "anchor": "",
+          "title": "For the hire of animals, vehicles, boats or household furniture."
+        },
+        {
+          "section": "a13",
+          "href": "limitation/schedule-article-13.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-13.html",
+          "anchor": "",
+          "title": "For the balance of money advanced in payment of goods to be delivered."
+        },
+        {
+          "section": "a14",
+          "href": "limitation/schedule-article-14.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-14.html",
+          "anchor": "",
+          "title": "For the price of goods sold and delivered where no fixed period of credit is agreed upon."
+        },
+        {
+          "section": "a15",
+          "href": "limitation/schedule-article-15.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-15.html",
+          "anchor": "",
+          "title": "For the price of goods sold and delivered to be paid for after the expiry of a fixed period of credit."
+        },
+        {
+          "section": "a16",
+          "href": "limitation/schedule-article-16.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-16.html",
+          "anchor": "",
+          "title": "For the price of goods sold and delivered to be paid for by a bill of exchange, no such bill being given."
+        },
+        {
+          "section": "a17",
+          "href": "limitation/schedule-article-17.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-17.html",
+          "anchor": "",
+          "title": "For the price of trees or growing crops sold by the plaintiff to the defendant where no fixed period of credit is agreed upon."
+        },
+        {
+          "section": "a18",
+          "href": "limitation/schedule-article-18.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-18.html",
+          "anchor": "",
+          "title": "For the price of work done by the plaintiff for the defendant at his request, where no time has been fixed for payment."
+        },
+        {
+          "section": "a19",
+          "href": "limitation/schedule-article-19.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-19.html",
+          "anchor": "",
+          "title": "For money payable for money lent."
+        },
+        {
+          "section": "a20",
+          "href": "limitation/schedule-article-20.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-20.html",
+          "anchor": "",
+          "title": "Like suit when the lender has given a cheque for the money."
+        },
+        {
+          "section": "a21",
+          "href": "limitation/schedule-article-21.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-21.html",
+          "anchor": "",
+          "title": "For money lent under an agreement that it shall be payable on demand."
+        },
+        {
+          "section": "a22",
+          "href": "limitation/schedule-article-22.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-22.html",
+          "anchor": "",
+          "title": "For money deposited under an agreement that it shall be payable on demand, including money of a customer in the hands of his banker so payable."
+        },
+        {
+          "section": "a23",
+          "href": "limitation/schedule-article-23.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-23.html",
+          "anchor": "",
+          "title": "For money payable to the plaintiff for money paid for the defendant."
+        },
+        {
+          "section": "a24",
+          "href": "limitation/schedule-article-24.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-24.html",
+          "anchor": "",
+          "title": "For money payable by the defendant to the plaintiff for money received by the defendant, for the plaintiff's use."
+        },
+        {
+          "section": "a25",
+          "href": "limitation/schedule-article-25.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-25.html",
+          "anchor": "",
+          "title": "For money payable for interest upon money due from the defendant to the plaintiff."
+        },
+        {
+          "section": "a26",
+          "href": "limitation/schedule-article-26.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-26.html",
+          "anchor": "",
+          "title": "For money payable to the plaintiff for money found to be due from the defendant to the plaintiff on accounts stated between them."
+        },
+        {
+          "section": "a27",
+          "href": "limitation/schedule-article-27.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-27.html",
+          "anchor": "",
+          "title": "For compensation for breach of a promise to do anything at a specified time, or upon the happening of a specified contingency."
+        },
+        {
+          "section": "a28",
+          "href": "limitation/schedule-article-28.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-28.html",
+          "anchor": "",
+          "title": "On a single bond, where a day is specified for payment."
+        },
+        {
+          "section": "a29",
+          "href": "limitation/schedule-article-29.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-29.html",
+          "anchor": "",
+          "title": "On a single bond, where no such day is specified."
+        },
+        {
+          "section": "a30",
+          "href": "limitation/schedule-article-30.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-30.html",
+          "anchor": "",
+          "title": "On a bond subject to a condition."
+        },
+        {
+          "section": "a31",
+          "href": "limitation/schedule-article-31.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-31.html",
+          "anchor": "",
+          "title": "On a bill of exchange or promissory note payable at a fixed time after date."
+        },
+        {
+          "section": "a32",
+          "href": "limitation/schedule-article-32.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-32.html",
+          "anchor": "",
+          "title": "On a bill of exchange payable at sight, or after sight, but not at a fixed time."
+        },
+        {
+          "section": "a33",
+          "href": "limitation/schedule-article-33.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-33.html",
+          "anchor": "",
+          "title": "On a bill of exchange accepted payable at a particular place."
+        },
+        {
+          "section": "a34",
+          "href": "limitation/schedule-article-34.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-34.html",
+          "anchor": "",
+          "title": "On a bill of exchange or promissory note payable at a fixed time after sight or after demand."
+        },
+        {
+          "section": "a35",
+          "href": "limitation/schedule-article-35.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-35.html",
+          "anchor": "",
+          "title": "On a bill of exchange or promissory note payable on demand and not accompanied by any writing restraining or postponing the right to sue."
+        },
+        {
+          "section": "a36",
+          "href": "limitation/schedule-article-36.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-36.html",
+          "anchor": "",
+          "title": "On a promissory note or bond payable by instalments."
+        },
+        {
+          "section": "a37",
+          "href": "limitation/schedule-article-37.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-37.html",
+          "anchor": "",
+          "title": "On a promissory note or bond payable by instalments, which provides that, if default be made in payment of one or more instalments, the whole shall be due."
+        },
+        {
+          "section": "a38",
+          "href": "limitation/schedule-article-38.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-38.html",
+          "anchor": "",
+          "title": "On a promissory note given by the maker to a third person to be delivered to the payee after a certain event should happen."
+        },
+        {
+          "section": "a39",
+          "href": "limitation/schedule-article-39.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-39.html",
+          "anchor": "",
+          "title": "On a dishonoured foreign bill where protest has been made and notice given."
+        },
+        {
+          "section": "a40",
+          "href": "limitation/schedule-article-40.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-40.html",
+          "anchor": "",
+          "title": "By the payee against the drawer of a bill of exchange, which has been dishonoured bynon-acceptance."
+        },
+        {
+          "section": "a41",
+          "href": "limitation/schedule-article-41.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-41.html",
+          "anchor": "",
+          "title": "By the acceptor of an accommodation-bill against the drawer."
+        },
+        {
+          "section": "a42",
+          "href": "limitation/schedule-article-42.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-42.html",
+          "anchor": "",
+          "title": "By a surety against the principal debtor."
+        },
+        {
+          "section": "a43",
+          "href": "limitation/schedule-article-43.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-43.html",
+          "anchor": "",
+          "title": "By a surety against a co-surety."
+        },
+        {
+          "section": "a44",
+          "href": "limitation/schedule-article-44.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-44.html",
+          "anchor": "",
+          "title": "On a policy of insurance when the sum insured is payable after proof of the death has been given to or received by the insurers."
+        },
+        {
+          "section": "a45",
+          "href": "limitation/schedule-article-45.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-45.html",
+          "anchor": "",
+          "title": "By the assured to recover premia paid under a policy voidable at the election of the insurers."
+        },
+        {
+          "section": "a46",
+          "href": "limitation/schedule-article-46.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-46.html",
+          "anchor": "",
+          "title": "Under the Indian Succession Act, 1925 (39 of 1925), section 360 or section 361, to compel a refund by a person to whom an executor or administrator has paid a legacy or distributed assets."
+        },
+        {
+          "section": "a47",
+          "href": "limitation/schedule-article-47.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-47.html",
+          "anchor": "",
+          "title": "For money paid upon an existing consideration which afterwards fails."
+        },
+        {
+          "section": "a48",
+          "href": "limitation/schedule-article-48.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-48.html",
+          "anchor": "",
+          "title": "For contribution by a party who has paid the whole or more than his share of the amount due under a joint decree, or by a sharer in a joint estate who has paid the whole or more than his share of the amount of revenue due from himself and his co-sharers."
+        },
+        {
+          "section": "a49",
+          "href": "limitation/schedule-article-49.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-49.html",
+          "anchor": "",
+          "title": "By a co-trustee to enforce against the estate of a deceased trustee a claim for contribution."
+        },
+        {
+          "section": "a50",
+          "href": "limitation/schedule-article-50.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-50.html",
+          "anchor": "",
+          "title": "By the manager of a joint estate of an undivided family for contribution, in respect of a payment made by him on account of the estate."
+        },
+        {
+          "section": "a51",
+          "href": "limitation/schedule-article-51.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-51.html",
+          "anchor": "",
+          "title": "For the profits of immovable property belonging to the plaintiff which have been wrongfully received by the defendant."
+        },
+        {
+          "section": "a52",
+          "href": "limitation/schedule-article-52.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-52.html",
+          "anchor": "",
+          "title": "For arrears of rent."
+        },
+        {
+          "section": "a53",
+          "href": "limitation/schedule-article-53.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-53.html",
+          "anchor": "",
+          "title": "By a vendor of immovable property for personal payment of unpaid purchase-money."
+        },
+        {
+          "section": "a54",
+          "href": "limitation/schedule-article-54.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-54.html",
+          "anchor": "",
+          "title": "For specific performance of a contract."
+        },
+        {
+          "section": "a55",
+          "href": "limitation/schedule-article-55.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-55.html",
+          "anchor": "",
+          "title": "For compensation for the breach of any contract, express or implied not herein specially provided for."
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "chapter": "First Division Â· Part III",
+      "title": "Suits Relating to Declarations",
+      "range": "arts. 56â58",
+      "chips": [
+        {
+          "section": "a56",
+          "href": "limitation/schedule-article-56.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-56.html",
+          "anchor": "",
+          "title": "To declare the forgery of an instrument issued or registered."
+        },
+        {
+          "section": "a57",
+          "href": "limitation/schedule-article-57.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-57.html",
+          "anchor": "",
+          "title": "To obtain a declaration that an alleged adoption is invalid, or never, in fact, took place."
+        },
+        {
+          "section": "a58",
+          "href": "limitation/schedule-article-58.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-58.html",
+          "anchor": "",
+          "title": "To obtain any other declaration."
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "chapter": "First Division Â· Part IV",
+      "title": "Suits Relating to Decrees and Instruments",
+      "range": "arts. 59â60",
+      "chips": [
+        {
+          "section": "a59",
+          "href": "limitation/schedule-article-59.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-59.html",
+          "anchor": "",
+          "title": "To cancel or set aside an instrument or decree or for the rescission of a contract."
+        },
+        {
+          "section": "a60",
+          "href": "limitation/schedule-article-60.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-60.html",
+          "anchor": "",
+          "title": "To set aside a transfer of property made by the guardian of a wardâ"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "chapter": "First Division Â· Part V",
+      "title": "Suits Relating to Immovable Property",
+      "range": "arts. 61â67",
+      "chips": [
+        {
+          "section": "a61",
+          "href": "limitation/schedule-article-61.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-61.html",
+          "anchor": "",
+          "title": "By a mortgagorâ"
+        },
+        {
+          "section": "a62",
+          "href": "limitation/schedule-article-62.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-62.html",
+          "anchor": "",
+          "title": "To enforce payment of money secured by a mortgage or otherwise charged upon immovable property."
+        },
+        {
+          "section": "a63",
+          "href": "limitation/schedule-article-63.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-63.html",
+          "anchor": "",
+          "title": "By a mortgageeâ"
+        },
+        {
+          "section": "a64",
+          "href": "limitation/schedule-article-64.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-64.html",
+          "anchor": "",
+          "title": "For possession of immovable property based on previous possession and not on title, when the plaintiff while in possession of the property has been dispossessed."
+        },
+        {
+          "section": "a65",
+          "href": "limitation/schedule-article-65.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-65.html",
+          "anchor": "",
+          "title": "For possession of immovable property or any interest therein based on title."
+        },
+        {
+          "section": "a66",
+          "href": "limitation/schedule-article-66.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-66.html",
+          "anchor": "",
+          "title": "For possession of immovable property when the plaintiff has become entitled to possession by reason of any forfeiture or breach of condition."
+        },
+        {
+          "section": "a67",
+          "href": "limitation/schedule-article-67.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-67.html",
+          "anchor": "",
+          "title": "By a landlord to recover possession from a tenant."
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "chapter": "First Division Â· Part VI",
+      "title": "Suits Relating to Movable Property",
+      "range": "arts. 68â71",
+      "chips": [
+        {
+          "section": "a68",
+          "href": "limitation/schedule-article-68.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-68.html",
+          "anchor": "",
+          "title": "For specific movable property lost, or acquired by theft, or dishonest misappropriation or conversion."
+        },
+        {
+          "section": "a69",
+          "href": "limitation/schedule-article-69.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-69.html",
+          "anchor": "",
+          "title": "For other specific movable property."
+        },
+        {
+          "section": "a70",
+          "href": "limitation/schedule-article-70.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-70.html",
+          "anchor": "",
+          "title": "To recover movable property deposited or pawned from a depositary or pawnee."
+        },
+        {
+          "section": "a71",
+          "href": "limitation/schedule-article-71.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-71.html",
+          "anchor": "",
+          "title": "To recover movable property deposited or pawned, and afterwards bought from the depository or pawnee for a valuable consideration."
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "chapter": "First Division Â· Part VII",
+      "title": "Suits Relating to Tort",
+      "range": "arts. 72â91",
+      "chips": [
+        {
+          "section": "a72",
+          "href": "limitation/schedule-article-72.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-72.html",
+          "anchor": "",
+          "title": "For compensation for doing or for omitting to do an act alleged to be in pursuance of any enactment in force for the time being in the territories to which this Act extends."
+        },
+        {
+          "section": "a73",
+          "href": "limitation/schedule-article-73.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-73.html",
+          "anchor": "",
+          "title": "For compensation for false imprisonment."
+        },
+        {
+          "section": "a74",
+          "href": "limitation/schedule-article-74.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-74.html",
+          "anchor": "",
+          "title": "For compensation for a malicious prosecution."
+        },
+        {
+          "section": "a75",
+          "href": "limitation/schedule-article-75.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-75.html",
+          "anchor": "",
+          "title": "For compensation for libel."
+        },
+        {
+          "section": "a76",
+          "href": "limitation/schedule-article-76.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-76.html",
+          "anchor": "",
+          "title": "For compensation for slander."
+        },
+        {
+          "section": "a77",
+          "href": "limitation/schedule-article-77.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-77.html",
+          "anchor": "",
+          "title": "For compensation for loss of service occasioned by the seduction of the plaintiffâs servant or daughter."
+        },
+        {
+          "section": "a78",
+          "href": "limitation/schedule-article-78.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-78.html",
+          "anchor": "",
+          "title": "For compensation for inducing a person to break a contract with the plaintiff."
+        },
+        {
+          "section": "a79",
+          "href": "limitation/schedule-article-79.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-79.html",
+          "anchor": "",
+          "title": "For compensation for an illegal, irregular or excessive distress."
+        },
+        {
+          "section": "a80",
+          "href": "limitation/schedule-article-80.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-80.html",
+          "anchor": "",
+          "title": "For compensation for wrongful seizure of movable property under legal process."
+        },
+        {
+          "section": "a81",
+          "href": "limitation/schedule-article-81.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-81.html",
+          "anchor": "",
+          "title": "By executors, administrators or representatives under the Legal Representativesâ Suits Act, 1855 (12 of 1855)."
+        },
+        {
+          "section": "a82",
+          "href": "limitation/schedule-article-82.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-82.html",
+          "anchor": "",
+          "title": "By executors, administrators or representatives under the Indian Fatal Accidents Act, 1855 (13 of 1855)."
+        },
+        {
+          "section": "a83",
+          "href": "limitation/schedule-article-83.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-83.html",
+          "anchor": "",
+          "title": "Under the Legal Representativesâ Suits Act, 1855 (12 of 1855), against an executor, an administrator or any other representative."
+        },
+        {
+          "section": "a84",
+          "href": "limitation/schedule-article-84.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-84.html",
+          "anchor": "",
+          "title": "Against one who, having a right to use property for specific purposes, perverts it to other purposes."
+        },
+        {
+          "section": "a85",
+          "href": "limitation/schedule-article-85.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-85.html",
+          "anchor": "",
+          "title": "For compensation for obstructing a way or a water-course."
+        },
+        {
+          "section": "a86",
+          "href": "limitation/schedule-article-86.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-86.html",
+          "anchor": "",
+          "title": "For compensation for diverting a water-course."
+        },
+        {
+          "section": "a87",
+          "href": "limitation/schedule-article-87.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-87.html",
+          "anchor": "",
+          "title": "For compensation for trespass upon immovable property."
+        },
+        {
+          "section": "a88",
+          "href": "limitation/schedule-article-88.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-88.html",
+          "anchor": "",
+          "title": "For compensation for infringing copyright or any other exclusive privilege."
+        },
+        {
+          "section": "a89",
+          "href": "limitation/schedule-article-89.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-89.html",
+          "anchor": "",
+          "title": "To restrain waste."
+        },
+        {
+          "section": "a90",
+          "href": "limitation/schedule-article-90.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-90.html",
+          "anchor": "",
+          "title": "For compensation for injury caused by an injunction wrongfully obtained."
+        },
+        {
+          "section": "a91",
+          "href": "limitation/schedule-article-91.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-91.html",
+          "anchor": "",
+          "title": "For compensation,â"
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "chapter": "First Division Â· Part VIII",
+      "title": "Suits Relating to Trusts and Trust Property",
+      "range": "arts. 92â96",
+      "chips": [
+        {
+          "section": "a92",
+          "href": "limitation/schedule-article-92.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-92.html",
+          "anchor": "",
+          "title": "To recover possession of immovable property conveyed or bequeathed in trust and afterwards transferred by the trustee for a valuable consideration."
+        },
+        {
+          "section": "a93",
+          "href": "limitation/schedule-article-93.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-93.html",
+          "anchor": "",
+          "title": "To recover possession of movable property conveyed or bequeathed in trust and afterwards transferred by the trustee for a valuable consideration."
+        },
+        {
+          "section": "a94",
+          "href": "limitation/schedule-article-94.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-94.html",
+          "anchor": "",
+          "title": "To set aside a transfer of immovable property comprised in a Hindu, Muslim or Buddhist religious or charitable endowment, made by a manager thereof for a valuable consideration."
+        },
+        {
+          "section": "a95",
+          "href": "limitation/schedule-article-95.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-95.html",
+          "anchor": "",
+          "title": "To set aside a transfer of movable property comprised in a Hindu, Muslim or Buddhist religious or charitable endowment, made by a manager thereof for a valuable consideration."
+        },
+        {
+          "section": "a96",
+          "href": "limitation/schedule-article-96.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-96.html",
+          "anchor": "",
+          "title": "By the manager of Hindu, Muslim or Buddhist religious or charitable endowment to recover possession of movable or immovable properly comprised in the endowment which has been transferred by a previous manager for a valuable consideration."
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "chapter": "First Division Â· Part IX",
+      "title": "Suits Relating to Miscellaneous Matters",
+      "range": "arts. 97â112",
+      "chips": [
+        {
+          "section": "a97",
+          "href": "limitation/schedule-article-97.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-97.html",
+          "anchor": "",
+          "title": "To enforce a right of pre-emption whether the right is founded on law or general usage or on special contract."
+        },
+        {
+          "section": "a98",
+          "href": "limitation/schedule-article-98.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-98.html",
+          "anchor": "",
+          "title": "By a person against whom 1[an order referred to in rule 63 or in rule 103] of Order XXI of the Code of Civil Procedure, 1908 (5 of 1908), or an order under section 28 of thePresidency Small Cause Courts Act, 1882 (15 of 1882), has been made, to establish the right which he claims to the property comprised in the order."
+        },
+        {
+          "section": "a99",
+          "href": "limitation/schedule-article-99.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-99.html",
+          "anchor": "",
+          "title": "To set aside a sale by a civil or revenue court or a sale for arrears of Government revenue or for any demand recoverable as such arrears."
+        },
+        {
+          "section": "a100",
+          "href": "limitation/schedule-article-100.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-100.html",
+          "anchor": "",
+          "title": "To alter or set aside any decision or order of a civil court in any proceeding other than a suit or any act or order of an officer of Government in his official capacity."
+        },
+        {
+          "section": "a101",
+          "href": "limitation/schedule-article-101.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-101.html",
+          "anchor": "",
+          "title": "Upon a judgment, including a foreign judgment, or a recognisance."
+        },
+        {
+          "section": "a102",
+          "href": "limitation/schedule-article-102.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-102.html",
+          "anchor": "",
+          "title": "For property which the plaintiff has conveyed while insane."
+        },
+        {
+          "section": "a103",
+          "href": "limitation/schedule-article-103.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-103.html",
+          "anchor": "",
+          "title": "To make good out of the general estate of a deceased trustee the loss occasioned by a breach of trust."
+        },
+        {
+          "section": "a104",
+          "href": "limitation/schedule-article-104.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-104.html",
+          "anchor": "",
+          "title": "To establish a periodically recurring right."
+        },
+        {
+          "section": "a105",
+          "href": "limitation/schedule-article-105.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-105.html",
+          "anchor": "",
+          "title": "By a Hindu for arrears of maintenance."
+        },
+        {
+          "section": "a106",
+          "href": "limitation/schedule-article-106.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-106.html",
+          "anchor": "",
+          "title": "For a legacy or for a share of a residur bequeathed by a testator or for a distributive share of the property of an intestate against an executor or an administrator or some other person legally charged with the duty of distributing the estate."
+        },
+        {
+          "section": "a107",
+          "href": "limitation/schedule-article-107.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-107.html",
+          "anchor": "",
+          "title": "For possession of a hereditary office."
+        },
+        {
+          "section": "a108",
+          "href": "limitation/schedule-article-108.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-108.html",
+          "anchor": "",
+          "title": "Suit during the life of a Hindu or Muslim female by a Hindu or Muslim who, if the female died at the date of instituting the suit, would be entitled to the possession of land, to have an alienation of such land made by the female declared to be void except for her life or until her re-marriage."
+        },
+        {
+          "section": "a109",
+          "href": "limitation/schedule-article-109.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-109.html",
+          "anchor": "",
+          "title": "By a Hindu governed by Mitakshara law to set aside his fatherâs alienation of ancestral property."
+        },
+        {
+          "section": "a110",
+          "href": "limitation/schedule-article-110.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-110.html",
+          "anchor": "",
+          "title": "By a person excluded from a joint family property to enforce a right to share therein."
+        },
+        {
+          "section": "a111",
+          "href": "limitation/schedule-article-111.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-111.html",
+          "anchor": "",
+          "title": "By or on behalf of any local authority for possession of any public street or road or any part thereof from which it has been dispossessed or of which it has discontinued the possession."
+        },
+        {
+          "section": "a112",
+          "href": "limitation/schedule-article-112.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-112.html",
+          "anchor": "",
+          "title": "Any suit (except a suit before the Supreme Court in the exercise of its original jurisdiction) by or on behalf of the Central Government or any State Government, including the Government of the State of Jammu and Kashmir."
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "chapter": "First Division Â· Part X",
+      "title": "Suits for Which There Is No Prescribed Period",
+      "range": "art. 113",
+      "chips": [
+        {
+          "section": "a113",
+          "href": "limitation/schedule-article-113.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-113.html",
+          "anchor": "",
+          "title": "Any suit for which no period of limitation is provided elsewhere in this Schedule."
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "chapter": "Second Division",
+      "title": "Appeals",
+      "range": "arts. 114â117",
+      "chips": [
+        {
+          "section": "a114",
+          "href": "limitation/schedule-article-114.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-114.html",
+          "anchor": "",
+          "title": "Appeal from an order of acquittal,â"
+        },
+        {
+          "section": "a115",
+          "href": "limitation/schedule-article-115.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-115.html",
+          "anchor": "",
+          "title": "Under the Code of Criminal Procedure, 1898 (5 of 1898)â"
+        },
+        {
+          "section": "a116",
+          "href": "limitation/schedule-article-116.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-116.html",
+          "anchor": "",
+          "title": "Under the Code of Civil Procedure, 1908 (5 of 1908)â"
+        },
+        {
+          "section": "a117",
+          "href": "limitation/schedule-article-117.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-117.html",
+          "anchor": "",
+          "title": "From a decree or order of any High Court to the same Court."
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "chapter": "Third Division Â· Part I",
+      "title": "Applications in Specified Cases",
+      "range": "arts. 118â136",
+      "chips": [
+        {
+          "section": "a118",
+          "href": "limitation/schedule-article-118.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-118.html",
+          "anchor": "",
+          "title": "For leave to appear and defend a suit under summary procedure."
+        },
+        {
+          "section": "a119",
+          "href": "limitation/schedule-article-119.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-119.html",
+          "anchor": "",
+          "title": "Under the Arbitration Act, 1940 (10 of 1940),â"
+        },
+        {
+          "section": "a120",
+          "href": "limitation/schedule-article-120.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-120.html",
+          "anchor": "",
+          "title": "Under the Code of Civil Procedure, 1908 (5 of 1908), to have the legalrepresentative of a deceased plaintiff or appellant or of a deceased defendant or respondent, made a party."
+        },
+        {
+          "section": "a121",
+          "href": "limitation/schedule-article-121.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-121.html",
+          "anchor": "",
+          "title": "Under the same Code for an order to set aside an abatement."
+        },
+        {
+          "section": "a122",
+          "href": "limitation/schedule-article-122.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-122.html",
+          "anchor": "",
+          "title": "To restore a suit or appeal or application for review or revision dismissed for default of appearance or for want of prosecution or for failure to pay costs of service of process or to furnish security for costs."
+        },
+        {
+          "section": "a123",
+          "href": "limitation/schedule-article-123.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-123.html",
+          "anchor": "",
+          "title": "To set aside a decree passed ex parte or to rehear an appeal decreed or heard ex parte."
+        },
+        {
+          "section": "a124",
+          "href": "limitation/schedule-article-124.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-124.html",
+          "anchor": "",
+          "title": "For a review of judgment by a court other than the Supreme Court."
+        },
+        {
+          "section": "a125",
+          "href": "limitation/schedule-article-125.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-125.html",
+          "anchor": "",
+          "title": "To record an adjustment or satisfaction of a decree."
+        },
+        {
+          "section": "a126",
+          "href": "limitation/schedule-article-126.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-126.html",
+          "anchor": "",
+          "title": "For the payment of the amount of a decree by instalments."
+        },
+        {
+          "section": "a127",
+          "href": "limitation/schedule-article-127.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-127.html",
+          "anchor": "",
+          "title": "To set aside a sale in execution of a decree, including any such application by a judgment-debtor."
+        },
+        {
+          "section": "a128",
+          "href": "limitation/schedule-article-128.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-128.html",
+          "anchor": "",
+          "title": "For possession by one dispossessed of immovable property and disputing the right of the decree-holder or purchaser at a sale in execution of a decree."
+        },
+        {
+          "section": "a129",
+          "href": "limitation/schedule-article-129.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-129.html",
+          "anchor": "",
+          "title": "For possession after removing resistance or obstruction to delivery of possession of immovable property decreed or sold in execution of a decree."
+        },
+        {
+          "section": "a130",
+          "href": "limitation/schedule-article-130.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-130.html",
+          "anchor": "",
+          "title": "For leave to appeal as a pauperâ"
+        },
+        {
+          "section": "a131",
+          "href": "limitation/schedule-article-131.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-131.html",
+          "anchor": "",
+          "title": "To any court for the exercise of its powers of revision under the Code of Civil Procedure, 1908 (5 of 1908), or the Code of Criminal Procedure, 1898 (5 of 1898)."
+        },
+        {
+          "section": "a132",
+          "href": "limitation/schedule-article-132.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-132.html",
+          "anchor": "",
+          "title": "To the High Court for a certificate of fitness to appeal to the Supreme Court under clause (1) of article 132, article 133 or sub-clause (c) of clause (1) of article 134 of the Constitution or under any other law for the time being in force."
+        },
+        {
+          "section": "a133",
+          "href": "limitation/schedule-article-133.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-133.html",
+          "anchor": "",
+          "title": "To the Supreme Court for special leave to appeal,â"
+        },
+        {
+          "section": "a134",
+          "href": "limitation/schedule-article-134.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-134.html",
+          "anchor": "",
+          "title": "For delivery of possession by a purchaser of immovable property at a sale in execution of a decree."
+        },
+        {
+          "section": "a135",
+          "href": "limitation/schedule-article-135.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-135.html",
+          "anchor": "",
+          "title": "For the enforcement of a decree granting a mandatory injunction."
+        },
+        {
+          "section": "a136",
+          "href": "limitation/schedule-article-136.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-136.html",
+          "anchor": "",
+          "title": "For the execution of any decree (other than a decree granting a mandatory injunction) or order of any civil court."
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "chapter": "Third Division Â· Part II",
+      "title": "Other Application",
+      "range": "art. 137",
+      "chips": [
+        {
+          "section": "a137",
+          "href": "limitation/schedule-article-137.html",
+          "url": "https://www.merasamvidhaan.in/limitation/schedule-article-137.html",
+          "anchor": "",
+          "title": "Any other application for which no period of limitation is provided elsewhere in this Division."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-1.html",
+      "chapters": [
+        "Part I"
+      ],
+      "sections": [
+        "s1"
+      ],
+      "file": "section-1.html",
+      "bytes": 10801
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-2.html",
+      "chapters": [
+        "Part I"
+      ],
+      "sections": [
+        "s2"
+      ],
+      "file": "section-2.html",
+      "bytes": 12339
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-3.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s3"
+      ],
+      "file": "section-3.html",
+      "bytes": 11117
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-4.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s4"
+      ],
+      "file": "section-4.html",
+      "bytes": 10569
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-5.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s5"
+      ],
+      "file": "section-5.html",
+      "bytes": 10750
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-6.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s6"
+      ],
+      "file": "section-6.html",
+      "bytes": 11727
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-7.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s7"
+      ],
+      "file": "section-7.html",
+      "bytes": 11057
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-8.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s8"
+      ],
+      "file": "section-8.html",
+      "bytes": 10304
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-9.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s9"
+      ],
+      "file": "section-9.html",
+      "bytes": 10435
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-10.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s10"
+      ],
+      "file": "section-10.html",
+      "bytes": 10897
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-11.html",
+      "chapters": [
+        "Part II"
+      ],
+      "sections": [
+        "s11"
+      ],
+      "file": "section-11.html",
+      "bytes": 10973
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-12.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s12"
+      ],
+      "file": "section-12.html",
+      "bytes": 11468
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-13.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s13"
+      ],
+      "file": "section-13.html",
+      "bytes": 10841
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-14.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s14"
+      ],
+      "file": "section-14.html",
+      "bytes": 12100
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-15.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s15"
+      ],
+      "file": "section-15.html",
+      "bytes": 12169
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-16.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s16"
+      ],
+      "file": "section-16.html",
+      "bytes": 11259
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-17.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s17"
+      ],
+      "file": "section-17.html",
+      "bytes": 12361
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-18.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s18"
+      ],
+      "file": "section-18.html",
+      "bytes": 11523
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-19.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s19"
+      ],
+      "file": "section-19.html",
+      "bytes": 11067
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-20.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s20"
+      ],
+      "file": "section-20.html",
+      "bytes": 11401
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-21.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s21"
+      ],
+      "file": "section-21.html",
+      "bytes": 10958
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-22.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s22"
+      ],
+      "file": "section-22.html",
+      "bytes": 10279
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-23.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s23"
+      ],
+      "file": "section-23.html",
+      "bytes": 10508
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-24.html",
+      "chapters": [
+        "Part III"
+      ],
+      "sections": [
+        "s24"
+      ],
+      "file": "section-24.html",
+      "bytes": 9963
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-25.html",
+      "chapters": [
+        "Part IV"
+      ],
+      "sections": [
+        "s25"
+      ],
+      "file": "section-25.html",
+      "bytes": 11566
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-26.html",
+      "chapters": [
+        "Part IV"
+      ],
+      "sections": [
+        "s26"
+      ],
+      "file": "section-26.html",
+      "bytes": 10759
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-27.html",
+      "chapters": [
+        "Part IV"
+      ],
+      "sections": [
+        "s27"
+      ],
+      "file": "section-27.html",
+      "bytes": 10115
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-28.html",
+      "chapters": [
+        "Part V"
+      ],
+      "sections": [
+        "s28"
+      ],
+      "file": "section-28.html",
+      "bytes": 9619
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-29.html",
+      "chapters": [
+        "Part V"
+      ],
+      "sections": [
+        "s29"
+      ],
+      "file": "section-29.html",
+      "bytes": 11003
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-30.html",
+      "chapters": [
+        "Part V"
+      ],
+      "sections": [
+        "s30"
+      ],
+      "file": "section-30.html",
+      "bytes": 14167
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-31.html",
+      "chapters": [
+        "Part V"
+      ],
+      "sections": [
+        "s31"
+      ],
+      "file": "section-31.html",
+      "bytes": 10477
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/section-32.html",
+      "chapters": [
+        "Part V"
+      ],
+      "sections": [
+        "s32"
+      ],
+      "file": "section-32.html",
+      "bytes": 9500
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-1.html",
+      "chapters": [
+        "First Division Â· Part I"
+      ],
+      "sections": [
+        "a1"
+      ],
+      "file": "schedule-article-1.html",
+      "bytes": 10664
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-2.html",
+      "chapters": [
+        "First Division Â· Part I"
+      ],
+      "sections": [
+        "a2"
+      ],
+      "file": "schedule-article-2.html",
+      "bytes": 10585
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-3.html",
+      "chapters": [
+        "First Division Â· Part I"
+      ],
+      "sections": [
+        "a3"
+      ],
+      "file": "schedule-article-3.html",
+      "bytes": 10661
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-4.html",
+      "chapters": [
+        "First Division Â· Part I"
+      ],
+      "sections": [
+        "a4"
+      ],
+      "file": "schedule-article-4.html",
+      "bytes": 10448
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-5.html",
+      "chapters": [
+        "First Division Â· Part I"
+      ],
+      "sections": [
+        "a5"
+      ],
+      "file": "schedule-article-5.html",
+      "bytes": 10320
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-6.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a6"
+      ],
+      "file": "schedule-article-6.html",
+      "bytes": 10260
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-7.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a7"
+      ],
+      "file": "schedule-article-7.html",
+      "bytes": 10208
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-8.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a8"
+      ],
+      "file": "schedule-article-8.html",
+      "bytes": 10424
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-9.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a9"
+      ],
+      "file": "schedule-article-9.html",
+      "bytes": 10162
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-10.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a10"
+      ],
+      "file": "schedule-article-10.html",
+      "bytes": 10342
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-11.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a11"
+      ],
+      "file": "schedule-article-11.html",
+      "bytes": 10456
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-12.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a12"
+      ],
+      "file": "schedule-article-12.html",
+      "bytes": 10340
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-13.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a13"
+      ],
+      "file": "schedule-article-13.html",
+      "bytes": 10392
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-14.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a14"
+      ],
+      "file": "schedule-article-14.html",
+      "bytes": 10472
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-15.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a15"
+      ],
+      "file": "schedule-article-15.html",
+      "bytes": 10508
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-16.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a16"
+      ],
+      "file": "schedule-article-16.html",
+      "bytes": 10564
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-17.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a17"
+      ],
+      "file": "schedule-article-17.html",
+      "bytes": 10552
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-18.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a18"
+      ],
+      "file": "schedule-article-18.html",
+      "bytes": 10528
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-19.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a19"
+      ],
+      "file": "schedule-article-19.html",
+      "bytes": 10184
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-20.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a20"
+      ],
+      "file": "schedule-article-20.html",
+      "bytes": 10296
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-21.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a21"
+      ],
+      "file": "schedule-article-21.html",
+      "bytes": 10328
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-22.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a22"
+      ],
+      "file": "schedule-article-22.html",
+      "bytes": 10602
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-23.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a23"
+      ],
+      "file": "schedule-article-23.html",
+      "bytes": 10328
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-24.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a24"
+      ],
+      "file": "schedule-article-24.html",
+      "bytes": 10539
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-25.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a25"
+      ],
+      "file": "schedule-article-25.html",
+      "bytes": 10412
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-26.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a26"
+      ],
+      "file": "schedule-article-26.html",
+      "bytes": 10840
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-27.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a27"
+      ],
+      "file": "schedule-article-27.html",
+      "bytes": 10638
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-28.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a28"
+      ],
+      "file": "schedule-article-28.html",
+      "bytes": 10268
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-29.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a29"
+      ],
+      "file": "schedule-article-29.html",
+      "bytes": 10284
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-30.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a30"
+      ],
+      "file": "schedule-article-30.html",
+      "bytes": 10212
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-31.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a31"
+      ],
+      "file": "schedule-article-31.html",
+      "bytes": 10396
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-32.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a32"
+      ],
+      "file": "schedule-article-32.html",
+      "bytes": 10392
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-33.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a33"
+      ],
+      "file": "schedule-article-33.html",
+      "bytes": 10372
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-34.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a34"
+      ],
+      "file": "schedule-article-34.html",
+      "bytes": 10448
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-35.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a35"
+      ],
+      "file": "schedule-article-35.html",
+      "bytes": 10619
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-36.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a36"
+      ],
+      "file": "schedule-article-36.html",
+      "bytes": 10641
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-37.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a37"
+      ],
+      "file": "schedule-article-37.html",
+      "bytes": 10775
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-38.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a38"
+      ],
+      "file": "schedule-article-38.html",
+      "bytes": 10608
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-39.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a39"
+      ],
+      "file": "schedule-article-39.html",
+      "bytes": 10364
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-40.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a40"
+      ],
+      "file": "schedule-article-40.html",
+      "bytes": 10496
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-41.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a41"
+      ],
+      "file": "schedule-article-41.html",
+      "bytes": 10388
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-42.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a42"
+      ],
+      "file": "schedule-article-42.html",
+      "bytes": 10264
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-43.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a43"
+      ],
+      "file": "schedule-article-43.html",
+      "bytes": 10320
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-44.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a44"
+      ],
+      "file": "schedule-article-44.html",
+      "bytes": 11252
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-45.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a45"
+      ],
+      "file": "schedule-article-45.html",
+      "bytes": 10516
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-46.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a46"
+      ],
+      "file": "schedule-article-46.html",
+      "bytes": 10675
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-47.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a47"
+      ],
+      "file": "schedule-article-47.html",
+      "bytes": 10336
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-48.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a48"
+      ],
+      "file": "schedule-article-48.html",
+      "bytes": 10766
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-49.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a49"
+      ],
+      "file": "schedule-article-49.html",
+      "bytes": 10492
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-50.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a50"
+      ],
+      "file": "schedule-article-50.html",
+      "bytes": 10600
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-51.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a51"
+      ],
+      "file": "schedule-article-51.html",
+      "bytes": 10556
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-52.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a52"
+      ],
+      "file": "schedule-article-52.html",
+      "bytes": 10156
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-53.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a53"
+      ],
+      "file": "schedule-article-53.html",
+      "bytes": 10669
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-54.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a54"
+      ],
+      "file": "schedule-article-54.html",
+      "bytes": 10607
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-55.html",
+      "chapters": [
+        "First Division Â· Part II"
+      ],
+      "sections": [
+        "a55"
+      ],
+      "file": "schedule-article-55.html",
+      "bytes": 10717
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-56.html",
+      "chapters": [
+        "First Division Â· Part III"
+      ],
+      "sections": [
+        "a56"
+      ],
+      "file": "schedule-article-56.html",
+      "bytes": 10464
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-57.html",
+      "chapters": [
+        "First Division Â· Part III"
+      ],
+      "sections": [
+        "a57"
+      ],
+      "file": "schedule-article-57.html",
+      "bytes": 10564
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-58.html",
+      "chapters": [
+        "First Division Â· Part III"
+      ],
+      "sections": [
+        "a58"
+      ],
+      "file": "schedule-article-58.html",
+      "bytes": 10244
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-59.html",
+      "chapters": [
+        "First Division Â· Part IV"
+      ],
+      "sections": [
+        "a59"
+      ],
+      "file": "schedule-article-59.html",
+      "bytes": 10702
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-60.html",
+      "chapters": [
+        "First Division Â· Part IV"
+      ],
+      "sections": [
+        "a60"
+      ],
+      "file": "schedule-article-60.html",
+      "bytes": 11461
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-61.html",
+      "chapters": [
+        "First Division Â· Part V"
+      ],
+      "sections": [
+        "a61"
+      ],
+      "file": "schedule-article-61.html",
+      "bytes": 11416
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-62.html",
+      "chapters": [
+        "First Division Â· Part V"
+      ],
+      "sections": [
+        "a62"
+      ],
+      "file": "schedule-article-62.html",
+      "bytes": 10516
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-63.html",
+      "chapters": [
+        "First Division Â· Part V"
+      ],
+      "sections": [
+        "a63"
+      ],
+      "file": "schedule-article-63.html",
+      "bytes": 10880
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-64.html",
+      "chapters": [
+        "First Division Â· Part V"
+      ],
+      "sections": [
+        "a64"
+      ],
+      "file": "schedule-article-64.html",
+      "bytes": 10656
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-65.html",
+      "chapters": [
+        "First Division Â· Part V"
+      ],
+      "sections": [
+        "a65"
+      ],
+      "file": "schedule-article-65.html",
+      "bytes": 11410
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-66.html",
+      "chapters": [
+        "First Division Â· Part V"
+      ],
+      "sections": [
+        "a66"
+      ],
+      "file": "schedule-article-66.html",
+      "bytes": 10657
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-67.html",
+      "chapters": [
+        "First Division Â· Part V"
+      ],
+      "sections": [
+        "a67"
+      ],
+      "file": "schedule-article-67.html",
+      "bytes": 10316
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-68.html",
+      "chapters": [
+        "First Division Â· Part VI"
+      ],
+      "sections": [
+        "a68"
+      ],
+      "file": "schedule-article-68.html",
+      "bytes": 10669
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-69.html",
+      "chapters": [
+        "First Division Â· Part VI"
+      ],
+      "sections": [
+        "a69"
+      ],
+      "file": "schedule-article-69.html",
+      "bytes": 10274
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-70.html",
+      "chapters": [
+        "First Division Â· Part VI"
+      ],
+      "sections": [
+        "a70"
+      ],
+      "file": "schedule-article-70.html",
+      "bytes": 10414
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-71.html",
+      "chapters": [
+        "First Division Â· Part VI"
+      ],
+      "sections": [
+        "a71"
+      ],
+      "file": "schedule-article-71.html",
+      "bytes": 10642
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-72.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a72"
+      ],
+      "file": "schedule-article-72.html",
+      "bytes": 10622
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-73.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a73"
+      ],
+      "file": "schedule-article-73.html",
+      "bytes": 10188
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-74.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a74"
+      ],
+      "file": "schedule-article-74.html",
+      "bytes": 10400
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-75.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a75"
+      ],
+      "file": "schedule-article-75.html",
+      "bytes": 10140
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-76.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a76"
+      ],
+      "file": "schedule-article-76.html",
+      "bytes": 10532
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-77.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a77"
+      ],
+      "file": "schedule-article-77.html",
+      "bytes": 10440
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-78.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a78"
+      ],
+      "file": "schedule-article-78.html",
+      "bytes": 10324
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-79.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a79"
+      ],
+      "file": "schedule-article-79.html",
+      "bytes": 10280
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-80.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a80"
+      ],
+      "file": "schedule-article-80.html",
+      "bytes": 10328
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-81.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a81"
+      ],
+      "file": "schedule-article-81.html",
+      "bytes": 10556
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-82.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a82"
+      ],
+      "file": "schedule-article-82.html",
+      "bytes": 10520
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-83.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a83"
+      ],
+      "file": "schedule-article-83.html",
+      "bytes": 10616
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-84.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a84"
+      ],
+      "file": "schedule-article-84.html",
+      "bytes": 10583
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-85.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a85"
+      ],
+      "file": "schedule-article-85.html",
+      "bytes": 10296
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-86.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a86"
+      ],
+      "file": "schedule-article-86.html",
+      "bytes": 10244
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-87.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a87"
+      ],
+      "file": "schedule-article-87.html",
+      "bytes": 10272
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-88.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a88"
+      ],
+      "file": "schedule-article-88.html",
+      "bytes": 10372
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-89.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a89"
+      ],
+      "file": "schedule-article-89.html",
+      "bytes": 10116
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-90.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a90"
+      ],
+      "file": "schedule-article-90.html",
+      "bytes": 10352
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-91.html",
+      "chapters": [
+        "First Division Â· Part VII"
+      ],
+      "sections": [
+        "a91"
+      ],
+      "file": "schedule-article-91.html",
+      "bytes": 11220
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-92.html",
+      "chapters": [
+        "First Division Â· Part VIII"
+      ],
+      "sections": [
+        "a92"
+      ],
+      "file": "schedule-article-92.html",
+      "bytes": 10691
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-93.html",
+      "chapters": [
+        "First Division Â· Part VIII"
+      ],
+      "sections": [
+        "a93"
+      ],
+      "file": "schedule-article-93.html",
+      "bytes": 10671
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-94.html",
+      "chapters": [
+        "First Division Â· Part VIII"
+      ],
+      "sections": [
+        "a94"
+      ],
+      "file": "schedule-article-94.html",
+      "bytes": 10721
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-95.html",
+      "chapters": [
+        "First Division Â· Part VIII"
+      ],
+      "sections": [
+        "a95"
+      ],
+      "file": "schedule-article-95.html",
+      "bytes": 10701
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-96.html",
+      "chapters": [
+        "First Division Â· Part VIII"
+      ],
+      "sections": [
+        "a96"
+      ],
+      "file": "schedule-article-96.html",
+      "bytes": 10870
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-97.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a97"
+      ],
+      "file": "schedule-article-97.html",
+      "bytes": 10848
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-98.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a98"
+      ],
+      "file": "schedule-article-98.html",
+      "bytes": 10999
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-99.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a99"
+      ],
+      "file": "schedule-article-99.html",
+      "bytes": 10681
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-100.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a100"
+      ],
+      "file": "schedule-article-100.html",
+      "bytes": 10751
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-101.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a101"
+      ],
+      "file": "schedule-article-101.html",
+      "bytes": 10440
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-102.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a102"
+      ],
+      "file": "schedule-article-102.html",
+      "bytes": 10560
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-103.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a103"
+      ],
+      "file": "schedule-article-103.html",
+      "bytes": 10698
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-104.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a104"
+      ],
+      "file": "schedule-article-104.html",
+      "bytes": 10444
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-105.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a105"
+      ],
+      "file": "schedule-article-105.html",
+      "bytes": 10284
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-106.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a106"
+      ],
+      "file": "schedule-article-106.html",
+      "bytes": 10784
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-107.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a107"
+      ],
+      "file": "schedule-article-107.html",
+      "bytes": 10828
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-108.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a108"
+      ],
+      "file": "schedule-article-108.html",
+      "bytes": 10815
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-109.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a109"
+      ],
+      "file": "schedule-article-109.html",
+      "bytes": 10636
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-110.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a110"
+      ],
+      "file": "schedule-article-110.html",
+      "bytes": 10572
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-111.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a111"
+      ],
+      "file": "schedule-article-111.html",
+      "bytes": 10739
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-112.html",
+      "chapters": [
+        "First Division Â· Part IX"
+      ],
+      "sections": [
+        "a112"
+      ],
+      "file": "schedule-article-112.html",
+      "bytes": 10815
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-113.html",
+      "chapters": [
+        "First Division Â· Part X"
+      ],
+      "sections": [
+        "a113"
+      ],
+      "file": "schedule-article-113.html",
+      "bytes": 10474
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-114.html",
+      "chapters": [
+        "Second Division"
+      ],
+      "sections": [
+        "a114"
+      ],
+      "file": "schedule-article-114.html",
+      "bytes": 10889
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-115.html",
+      "chapters": [
+        "Second Division"
+      ],
+      "sections": [
+        "a115"
+      ],
+      "file": "schedule-article-115.html",
+      "bytes": 11335
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-116.html",
+      "chapters": [
+        "Second Division"
+      ],
+      "sections": [
+        "a116"
+      ],
+      "file": "schedule-article-116.html",
+      "bytes": 10819
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-117.html",
+      "chapters": [
+        "Second Division"
+      ],
+      "sections": [
+        "a117"
+      ],
+      "file": "schedule-article-117.html",
+      "bytes": 10281
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-118.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a118"
+      ],
+      "file": "schedule-article-118.html",
+      "bytes": 10325
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-119.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a119"
+      ],
+      "file": "schedule-article-119.html",
+      "bytes": 11079
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-120.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a120"
+      ],
+      "file": "schedule-article-120.html",
+      "bytes": 10756
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-121.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a121"
+      ],
+      "file": "schedule-article-121.html",
+      "bytes": 10317
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-122.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a122"
+      ],
+      "file": "schedule-article-122.html",
+      "bytes": 10707
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-123.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a123"
+      ],
+      "file": "schedule-article-123.html",
+      "bytes": 10894
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-124.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a124"
+      ],
+      "file": "schedule-article-124.html",
+      "bytes": 10393
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-125.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a125"
+      ],
+      "file": "schedule-article-125.html",
+      "bytes": 10369
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-126.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a126"
+      ],
+      "file": "schedule-article-126.html",
+      "bytes": 10325
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-127.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a127"
+      ],
+      "file": "schedule-article-127.html",
+      "bytes": 10655
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-128.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a128"
+      ],
+      "file": "schedule-article-128.html",
+      "bytes": 10662
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-129.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a129"
+      ],
+      "file": "schedule-article-129.html",
+      "bytes": 10665
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-130.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a130"
+      ],
+      "file": "schedule-article-130.html",
+      "bytes": 10837
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-131.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a131"
+      ],
+      "file": "schedule-article-131.html",
+      "bytes": 10708
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-132.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a132"
+      ],
+      "file": "schedule-article-132.html",
+      "bytes": 10756
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-133.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a133"
+      ],
+      "file": "schedule-article-133.html",
+      "bytes": 11249
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-134.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a134"
+      ],
+      "file": "schedule-article-134.html",
+      "bytes": 10489
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-135.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a135"
+      ],
+      "file": "schedule-article-135.html",
+      "bytes": 10561
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-136.html",
+      "chapters": [
+        "Third Division Â· Part I"
+      ],
+      "sections": [
+        "a136"
+      ],
+      "file": "schedule-article-136.html",
+      "bytes": 11227
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/limitation/schedule-article-137.html",
+      "chapters": [
+        "Third Division Â· Part II"
+      ],
+      "sections": [
+        "a137"
+      ],
+      "file": "schedule-article-137.html",
+      "bytes": 10431
+    }
+  ]
+}

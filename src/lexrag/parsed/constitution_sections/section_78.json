@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 27,
+    "order": 90,
+    "stem": "section_78",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "78",
+    "article_title": "Duties of Prime Minister as respects the furnishing of information to the President, etc"
+  },
+  "id": "constitution_section_78",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "78",
+    "title": "Duties of Prime Minister as respects the furnishing of information to the President, etc",
+    "content": "\n\n78Duties of Prime Minister as respects the furnishing of\n                information to the President, etc\n\n\n\nArticle 78 · Part V · Conduct of Government Business\n\n\nIt shall be the duty of the Prime Minister—\n\n(a)to communicate to the President all decisions of the Council of Ministers\n                relating to the administration of the affairs of the Union and proposals for legislation;\n\n(b)to furnish such information relating to the administration of the affairs\n                of the Union and proposals for legislation as the President may call for; and\n\n(c)if the President so requires, to submit for the consideration of the\n                Council of Ministers any matter on which a decision has been taken by a Minister but which has not been\n                considered by the Council.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"78\" data-report=\"Article 78 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">78</span>Duties of Prime Minister as respects the furnishing of\n                information to the President, etc</h3>\n</div>\n<p class=\"prov-cite\">Article 78 · Part V · Conduct of Government Business</p>\n<div class=\"prov-body\">\n<p>It shall be the duty of the Prime Minister—</p>\n<p><span class=\"lbl\">(a)</span>to communicate to the President all decisions of the Council of Ministers\n                relating to the administration of the affairs of the Union and proposals for legislation;</p>\n<p><span class=\"lbl\">(b)</span>to furnish such information relating to the administration of the affairs\n                of the Union and proposals for legislation as the President may call for; and</p>\n<p><span class=\"lbl\">(c)</span>if the President so requires, to submit for the consideration of the\n                Council of Ministers any matter on which a decision has been taken by a Minister but which has not been\n                considered by the Council.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">78</span>Duties of Prime Minister as respects the furnishing of\n                information to the President, etc</h3>\n</div>\n<p class=\"prov-cite\">Article 78 · Part V · Conduct of Government Business</p>\n<div class=\"prov-body\">\n<p>It shall be the duty of the Prime Minister—</p>\n<p><span class=\"lbl\">(a)</span>to communicate to the President all decisions of the Council of Ministers\n                relating to the administration of the affairs of the Union and proposals for legislation;</p>\n<p><span class=\"lbl\">(b)</span>to furnish such information relating to the administration of the affairs\n                of the Union and proposals for legislation as the President may call for; and</p>\n<p><span class=\"lbl\">(c)</span>if the President so requires, to submit for the consideration of the\n                Council of Ministers any matter on which a decision has been taken by a Minister but which has not been\n                considered by the Council.</p>\n</div>\n"
+  }
+}

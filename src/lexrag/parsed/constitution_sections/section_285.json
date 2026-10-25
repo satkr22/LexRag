@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-15.html",
+    "source_order": 15,
+    "article_order": 25,
+    "order": 365,
+    "stem": "section_285",
+    "heading_number": "Part XII",
+    "heading_title": "Finance, Property, Contracts and Suits",
+    "heading_range": "264 – 300A",
+    "heading_source": "group-head",
+    "article_number": "285",
+    "article_title": "Exemption of property of the Union from State taxation"
+  },
+  "id": "constitution_section_285",
+  "heading": {
+    "number": "Part XII",
+    "title": "Finance, Property, Contracts and Suits",
+    "range": "264 – 300A"
+  },
+  "article": {
+    "number": "285",
+    "title": "Exemption of property of the Union from State taxation",
+    "content": "285Exemption of property of the Union from State taxation\n\nArticle 285 · Part XII · Miscellaneous Financial Provisions\n(1)The property of the Union shall, save in so far as Parliament may by law otherwise provide, be exempt from all taxes imposed by a State or by any authority within a State.\n(2)Nothing in clause (1) shall, until Parliament by law otherwise provides, prevent any authority within a State from levying any tax on any property of the Union to which such property was immediately before the commencement of this Constitution liable or treated as liable, so long as that tax continues to be levied in that State.\n\n",
+    "html": "<article class=\"provision\" data-n=\"285\" data-report=\"Article 285 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">285</span>Exemption of property of the Union from State taxation</h3></div><p class=\"prov-cite\">Article 285 · Part XII · Miscellaneous Financial Provisions</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The property of the Union shall, save in so far as Parliament may by law otherwise provide, be exempt from all taxes imposed by a State or by any authority within a State.</p><p><span class=\"lbl\">(2)</span>Nothing in clause (1) shall, until Parliament by law otherwise provides, prevent any authority within a State from levying any tax on any property of the Union to which such property was immediately before the commencement of this Constitution liable or treated as liable, so long as that tax continues to be levied in that State.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">285</span>Exemption of property of the Union from State taxation</h3></div><p class=\"prov-cite\">Article 285 · Part XII · Miscellaneous Financial Provisions</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The property of the Union shall, save in so far as Parliament may by law otherwise provide, be exempt from all taxes imposed by a State or by any authority within a State.</p><p><span class=\"lbl\">(2)</span>Nothing in clause (1) shall, until Parliament by law otherwise provides, prevent any authority within a State from levying any tax on any property of the Union to which such property was immediately before the commencement of this Constitution liable or treated as liable, so long as that tax continues to be levied in that State.</p></div>"
+  }
+}

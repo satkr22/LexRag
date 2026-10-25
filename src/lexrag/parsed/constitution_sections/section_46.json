@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-04.html",
+    "source_order": 4,
+    "article_order": 14,
+    "order": 56,
+    "stem": "section_46",
+    "heading_number": "Part IV",
+    "heading_title": "Directive Principles of State Policy",
+    "heading_range": "36 – 51",
+    "heading_source": "group-head",
+    "article_number": "46",
+    "article_title": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections"
+  },
+  "id": "constitution_section_46",
+  "heading": {
+    "number": "Part IV",
+    "title": "Directive Principles of State Policy",
+    "range": "36 – 51"
+  },
+  "article": {
+    "number": "46",
+    "title": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections",
+    "content": "46Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections\n\nArticle 46 · Part IV\nThe State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation.\n\n",
+    "html": "<article class=\"provision\" data-n=\"46\" data-report=\"Article 46 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46</span>Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections</h3></div><p class=\"prov-cite\">Article 46 · Part IV</p><div class=\"prov-body\"><p>The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46</span>Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections</h3></div><p class=\"prov-cite\">Article 46 · Part IV</p><div class=\"prov-body\"><p>The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation.</p></div>"
+  }
+}

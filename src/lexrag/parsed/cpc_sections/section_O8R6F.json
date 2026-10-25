@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-20.html",
+    "source_order": 20,
+    "article_order": 13,
+    "order": 288,
+    "stem": "section_O8R6F",
+    "heading_number": "Order VIII",
+    "heading_title": "Written statement, set-off and counter-claim",
+    "heading_range": "19 rules",
+    "heading_source": "group-head",
+    "article_number": "O8R6F",
+    "article_title": "Relief to defendant where counter-claim succeeds."
+  },
+  "id": "cpc_section_O8R6F",
+  "heading": {
+    "number": "Order VIII",
+    "title": "Written statement, set-off and counter-claim",
+    "range": "19 rules"
+  },
+  "article": {
+    "number": "O8R6F",
+    "title": "Relief to defendant where counter-claim succeeds.",
+    "content": "6FRelief to defendant where counter-claim succeeds.\n\nOrder 8, Rule 6F\nWhere in any suit a set-off or counter-claim is established as a defence against the plaintiff’s claim and any balance is found due to the plaintiff or the defendant, as the case may be, the Court may give judgment to the party entitled to such balance.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O8R6F\" data-report=\"Order 8, Rule 6F · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6F</span>Relief to defendant where counter-claim succeeds.</h3></div><p class=\"prov-cite\">Order 8, Rule 6F</p><div class=\"prov-body\"><p>Where in any suit a set-off or counter-claim is established as a defence against the plaintiff’s claim and any balance is found due to the plaintiff or the defendant, as the case may be, the Court may give judgment to the party entitled to such balance.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6F</span>Relief to defendant where counter-claim succeeds.</h3></div><p class=\"prov-cite\">Order 8, Rule 6F</p><div class=\"prov-body\"><p>Where in any suit a set-off or counter-claim is established as a defence against the plaintiff’s claim and any balance is found due to the plaintiff or the defendant, as the case may be, the Court may give judgment to the party entitled to such balance.</p></div>"
+  }
+}

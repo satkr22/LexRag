@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-02.html",
+    "source_order": 2,
+    "article_order": 26,
+    "order": 34,
+    "stem": "section_33",
+    "heading_number": "Part I",
+    "heading_title": "Suits in General",
+    "heading_range": "ss. 9–35B",
+    "heading_source": "group-head",
+    "article_number": "33",
+    "article_title": "Judgment and decree."
+  },
+  "id": "cpc_section_33",
+  "heading": {
+    "number": "Part I",
+    "title": "Suits in General",
+    "range": "ss. 9–35B"
+  },
+  "article": {
+    "number": "33",
+    "title": "Judgment and decree.",
+    "content": "33Judgment and decree.\n\nSection 33\nJudgment and decree\nThe Court, after the case has been heard, shall pronounce judgment, and on such judgment a decree shall follow.\n\n",
+    "html": "<article class=\"provision\" data-n=\"33\" data-report=\"Section 33 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Judgment and decree.</h3></div><p class=\"prov-cite\">Section 33</p><div class=\"prov-body\"><p class=\"sched-title\">Judgment and decree</p><p>The Court, after the case has been heard, shall pronounce judgment, and on such judgment a decree shall follow.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Judgment and decree.</h3></div><p class=\"prov-cite\">Section 33</p><div class=\"prov-body\"><p class=\"sched-title\">Judgment and decree</p><p>The Court, after the case has been heard, shall pronounce judgment, and on such judgment a decree shall follow.</p></div>"
+  }
+}

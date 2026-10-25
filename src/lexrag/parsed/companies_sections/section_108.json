@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-07.html",
+    "source_order": 7,
+    "article_order": 21,
+    "order": 111,
+    "stem": "section_108",
+    "heading_number": "Chapter VII",
+    "heading_title": "Management and Administration",
+    "heading_range": "ss. 88–122",
+    "heading_source": "group-head",
+    "article_number": "108",
+    "article_title": "Voting through electronic means."
+  },
+  "id": "companies_section_108",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Management and Administration",
+    "range": "ss. 88–122"
+  },
+  "article": {
+    "number": "108",
+    "title": "Voting through electronic means.",
+    "content": "108Voting through electronic means.\n\nSection 108  ·  Chapter VII  ·  page 76 of the Act\nThe Central Government may prescribe the class or classes of companies and manner in which a member may exercise his right to vote by the electronic means.\n\n",
+    "html": "<article class=\"provision\" data-n=\"108\" data-report=\"Section 108 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">108</span>Voting through electronic means.</h3></div><p class=\"prov-cite\">Section 108  ·  Chapter VII  ·  page 76 of the Act</p><div class=\"prov-body\"><p>The Central Government may prescribe the class or classes of companies and manner in which a member may exercise his right to vote by the electronic means.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">108</span>Voting through electronic means.</h3></div><p class=\"prov-cite\">Section 108  ·  Chapter VII  ·  page 76 of the Act</p><div class=\"prov-body\"><p>The Central Government may prescribe the class or classes of companies and manner in which a member may exercise his right to vote by the electronic means.</p></div>"
+  }
+}

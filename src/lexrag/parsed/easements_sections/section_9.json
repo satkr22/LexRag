@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-9.html",
+    "source_order": 9,
+    "article_order": 1,
+    "order": 9,
+    "stem": "section_9",
+    "heading_number": "Chapter II",
+    "heading_title": "The Imposition, Acquisition and Transfer of Easements",
+    "heading_range": "ss. 8–19",
+    "heading_source": "manifest",
+    "article_number": "9",
+    "article_title": "Servient owners."
+  },
+  "id": "easements_section_9",
+  "heading": {
+    "number": "Chapter II",
+    "title": "The Imposition, Acquisition and Transfer of Easements",
+    "range": "ss. 8–19"
+  },
+  "article": {
+    "number": "9",
+    "title": "Servient owners.",
+    "content": "9Servient owners.\n\nSection 9  ·  Chapter II  ·  page 7 of the Act\nSubject to the provisions of section 8, a servient owner may impose on the servient heritage any easement that does not lessen the utility of the existing easement. But he cannot, without the consent of the dominant owner, impose an easement on the servient heritage which would lessen such utility.\nIllustrations\n(a) A has, in respect of his mill, a right to the uninterrupted flow thereto from sunrise to noon of the water of B’s stream. B may grant to C the right to divert the water of the stream from noon to sunset: Provided that A’s supply is not thereby diminished.\n(b) A has, in respect of his house, a right of way over B's land. B may grant to C, as the owner of a neighbouring farm, the right to feed his cattle on the grass growing on the way: Provided that A’s right of way is not thereby obstructed.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Servient owners.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Subject to the provisions of section 8, a servient owner may impose on the servient heritage any easement that does not lessen the utility of the existing easement. But he cannot, without the consent of the dominant owner, impose an easement on the servient heritage which would lessen such utility.</p><p>Illustrations</p><p class=\"lvl\">(a) A has, in respect of his mill, a right to the uninterrupted flow thereto from sunrise to noon of the water of B’s stream. B may grant to C the right to divert the water of the stream from noon to sunset: Provided that A’s supply is not thereby diminished.</p><p class=\"lvl\">(b) A has, in respect of his house, a right of way over B's land. B may grant to C, as the owner of a neighbouring farm, the right to feed his cattle on the grass growing on the way: Provided that A’s right of way is not thereby obstructed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Servient owners.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Subject to the provisions of section 8, a servient owner may impose on the servient heritage any easement that does not lessen the utility of the existing easement. But he cannot, without the consent of the dominant owner, impose an easement on the servient heritage which would lessen such utility.</p><p>Illustrations</p><p class=\"lvl\">(a) A has, in respect of his mill, a right to the uninterrupted flow thereto from sunrise to noon of the water of B’s stream. B may grant to C the right to divert the water of the stream from noon to sunset: Provided that A’s supply is not thereby diminished.</p><p class=\"lvl\">(b) A has, in respect of his house, a right of way over B's land. B may grant to C, as the owner of a neighbouring farm, the right to feed his cattle on the grass growing on the way: Provided that A’s right of way is not thereby obstructed.</p></div>"
+  }
+}

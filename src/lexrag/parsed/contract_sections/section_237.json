@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "contract",
+    "document_title": null,
+    "source_file": "contract_sections/section-237.html",
+    "source_order": 239,
+    "article_order": 1,
+    "order": 239,
+    "stem": "section_237",
+    "heading_number": "Chapter X",
+    "heading_title": "Agency",
+    "heading_range": "ss. 182–238",
+    "heading_source": "manifest",
+    "article_number": "237",
+    "article_title": "Liability of principal inducing belief that agent’s unauthorized acts were authorized."
+  },
+  "id": "contract_section_237",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Agency",
+    "range": "ss. 182–238"
+  },
+  "article": {
+    "number": "237",
+    "title": "Liability of principal inducing belief that agent’s unauthorized acts were authorized.",
+    "content": "237Liability of principal inducing belief that agent’s unauthorized acts were authorized.\n\nSection 237  ·  Chapter X  ·  Effect of agency on contracts with third persons  ·  page 51 of the Act\nWhen an agent has, without authority, done acts or incurred obligations to third persons on behalf of his principal, the principal is bound by such acts or obligations, if he has by his words or conduct induced such third persons to believe that such acts and obligations were within the scope of the agent’s authority.\nIllustrations\n(a)A consigns goods to B for sale, and gives him instructions not to sell under a fixed price. C, being ignorant of B’s instructions, enters into a contract with B to buy the goods at a price lower than the reserved price. A is bound by the contract.\n(b)A entrusts B with negotiable instruments endorsed in blank. B sells them to C in violation of private orders from A. The sale is good.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">237</span>Liability of principal inducing belief that agent’s unauthorized acts were authorized.</h3></div><p class=\"prov-cite\">Section 237  ·  Chapter X  ·  Effect of agency on contracts with third persons  ·  page 51 of the Act</p><div class=\"prov-body\"><p>When an agent has, without authority, done acts or incurred obligations to third persons on behalf of his principal, the principal is bound by such acts or obligations, if he has by his words or conduct induced such third persons to believe that such acts and obligations were within the scope of the agent’s authority.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A consigns goods to B for sale, and gives him instructions not to sell under a fixed price. C, being ignorant of B’s instructions, enters into a contract with B to buy the goods at a price lower than the reserved price. A is bound by the contract.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A entrusts B with negotiable instruments endorsed in blank. B sells them to C in violation of private orders from A. The sale is good.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">237</span>Liability of principal inducing belief that agent’s unauthorized acts were authorized.</h3></div><p class=\"prov-cite\">Section 237  ·  Chapter X  ·  Effect of agency on contracts with third persons  ·  page 51 of the Act</p><div class=\"prov-body\"><p>When an agent has, without authority, done acts or incurred obligations to third persons on behalf of his principal, the principal is bound by such acts or obligations, if he has by his words or conduct induced such third persons to believe that such acts and obligations were within the scope of the agent’s authority.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A consigns goods to B for sale, and gives him instructions not to sell under a fixed price. C, being ignorant of B’s instructions, enters into a contract with B to buy the goods at a price lower than the reserved price. A is bound by the contract.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A entrusts B with negotiable instruments endorsed in blank. B sells them to C in violation of private orders from A. The sale is good.</p></div>"
+  }
+}

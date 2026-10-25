@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "contract",
+    "document_title": null,
+    "source_file": "contract_sections/section-52.html",
+    "source_order": 53,
+    "article_order": 1,
+    "order": 53,
+    "stem": "section_52",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of the Performance of Contracts",
+    "heading_range": "ss. 37–67",
+    "heading_source": "manifest",
+    "article_number": "52",
+    "article_title": "Order of performance of reciprocal promises."
+  },
+  "id": "contract_section_52",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of the Performance of Contracts",
+    "range": "ss. 37–67"
+  },
+  "article": {
+    "number": "52",
+    "title": "Order of performance of reciprocal promises.",
+    "content": "52Order of performance of reciprocal promises.\n\nSection 52  ·  Chapter IV  ·  Performance of reciprocal promises  ·  page 24 of the Act\nWhere the order in which reciprocal promises are to be performed is expressly fixed by the contract, they shall be performed in that order; and where the order is not expressly fixed by the contract, they shall be performed in that order which the nature of the transaction requires.\nIllustrations\n(a)A and B contract that A shall build a house for B at a fixed price. A’s promise to build the house must be performed before B’s promise to pay for it.\n(b)A and B contract that A shall make over his stock-in-trade to B at a fixed price, and B promises to give security for the payment of the money. A’s promise need not be performed until the security is given, for the nature of the transaction requires that A should have security before he delivers up his stock.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Order of performance of reciprocal promises.</h3></div><p class=\"prov-cite\">Section 52  ·  Chapter IV  ·  Performance of reciprocal promises  ·  page 24 of the Act</p><div class=\"prov-body\"><p>Where the order in which reciprocal promises are to be performed is expressly fixed by the contract, they shall be performed in that order; and where the order is not expressly fixed by the contract, they shall be performed in that order which the nature of the transaction requires.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A and B contract that A shall build a house for B at a fixed price. A’s promise to build the house must be performed before B’s promise to pay for it.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A and B contract that A shall make over his stock-in-trade to B at a fixed price, and B promises to give security for the payment of the money. A’s promise need not be performed until the security is given, for the nature of the transaction requires that A should have security before he delivers up his stock.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Order of performance of reciprocal promises.</h3></div><p class=\"prov-cite\">Section 52  ·  Chapter IV  ·  Performance of reciprocal promises  ·  page 24 of the Act</p><div class=\"prov-body\"><p>Where the order in which reciprocal promises are to be performed is expressly fixed by the contract, they shall be performed in that order; and where the order is not expressly fixed by the contract, they shall be performed in that order which the nature of the transaction requires.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A and B contract that A shall build a house for B at a fixed price. A’s promise to build the house must be performed before B’s promise to pay for it.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A and B contract that A shall make over his stock-in-trade to B at a fixed price, and B promises to give security for the payment of the money. A’s promise need not be performed until the security is given, for the nature of the transaction requires that A should have security before he delivers up his stock.</p></div>"
+  }
+}

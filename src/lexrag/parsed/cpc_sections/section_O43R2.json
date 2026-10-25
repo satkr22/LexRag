@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-62.html",
+    "source_order": 62,
+    "article_order": 3,
+    "order": 849,
+    "stem": "section_O43R2",
+    "heading_number": "Order XLIII",
+    "heading_title": "Appeals from Orders",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O43R2",
+    "article_title": "Procedure."
+  },
+  "id": "cpc_section_O43R2",
+  "heading": {
+    "number": "Order XLIII",
+    "title": "Appeals from Orders",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O43R2",
+    "title": "Procedure.",
+    "content": "2Procedure.\n\nOrder 43, Rule 2\nThe rules of Order XLI shall apply, so far as may be, to appeals from orders.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O43R2\" data-report=\"Order 43, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Procedure.</h3></div><p class=\"prov-cite\">Order 43, Rule 2</p><div class=\"prov-body\"><p>The rules of Order XLI shall apply, so far as may be, to appeals from orders.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Procedure.</h3></div><p class=\"prov-cite\">Order 43, Rule 2</p><div class=\"prov-body\"><p>The rules of Order XLI shall apply, so far as may be, to appeals from orders.</p></div>"
+  }
+}

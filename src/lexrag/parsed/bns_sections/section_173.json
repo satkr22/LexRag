@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-09.html",
+    "source_order": 9,
+    "article_order": 5,
+    "order": 173,
+    "stem": "section_173",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Offences Relating to Elections",
+    "heading_range": "169 – 177",
+    "heading_source": "group-head",
+    "article_number": "173",
+    "article_title": "Punishment for bribery"
+  },
+  "id": "bns_section_173",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Offences Relating to Elections",
+    "range": "169 – 177"
+  },
+  "article": {
+    "number": "173",
+    "title": "Punishment for bribery",
+    "content": "173Punishment for bribery\n\nSection 173 · Chapter IX\nWhoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both:\nProvisoProvided that bribery by treating shall be punished with fine only.\nExplanation“Treating” means that form of bribery where the gratification consists in food, drink, entertainment, or provision.\n\n",
+    "html": "<article class=\"provision\" data-n=\"173\" data-report=\"Section 173 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">173</span>Punishment for bribery</h3></div><p class=\"prov-cite\">Section 173 · Chapter IX</p><div class=\"prov-body\"><p>Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both:</p><p><span class=\"named\">Proviso</span>Provided that bribery by treating shall be punished with fine only.</p><p><span class=\"named\">Explanation</span>“Treating” means that form of bribery where the gratification consists in food, drink, entertainment, or provision.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">173</span>Punishment for bribery</h3></div><p class=\"prov-cite\">Section 173 · Chapter IX</p><div class=\"prov-body\"><p>Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both:</p><p><span class=\"named\">Proviso</span>Provided that bribery by treating shall be punished with fine only.</p><p><span class=\"named\">Explanation</span>“Treating” means that form of bribery where the gratification consists in food, drink, entertainment, or provision.</p></div>"
+  }
+}

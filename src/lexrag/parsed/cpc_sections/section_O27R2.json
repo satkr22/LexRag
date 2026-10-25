@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-44.html",
+    "source_order": 44,
+    "article_order": 2,
+    "order": 654,
+    "stem": "section_O27R2",
+    "heading_number": "Order XXVII",
+    "heading_title": "Suits by or against the government or public officers in their official capacity",
+    "heading_range": "12 rules",
+    "heading_source": "group-head",
+    "article_number": "O27R2",
+    "article_title": "Persons authorised to act for Government."
+  },
+  "id": "cpc_section_O27R2",
+  "heading": {
+    "number": "Order XXVII",
+    "title": "Suits by or against the government or public officers in their official capacity",
+    "range": "12 rules"
+  },
+  "article": {
+    "number": "O27R2",
+    "title": "Persons authorised to act for Government.",
+    "content": "2Persons authorised to act for Government.\n\nOrder 27, Rule 2\nPersons being ex officio or otherwise authorised to act for the Government in respect of any judicial proceeding shall be deemed to be recognised agents by whom appearances, acts and applications under this Code may be made or done on behalf of the Government.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O27R2\" data-report=\"Order 27, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Persons authorised to act for Government.</h3></div><p class=\"prov-cite\">Order 27, Rule 2</p><div class=\"prov-body\"><p>Persons being ex officio or otherwise authorised to act for the Government in respect of any judicial proceeding shall be deemed to be recognised agents by whom appearances, acts and applications under this Code may be made or done on behalf of the Government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Persons authorised to act for Government.</h3></div><p class=\"prov-cite\">Order 27, Rule 2</p><div class=\"prov-body\"><p>Persons being ex officio or otherwise authorised to act for the Government in respect of any judicial proceeding shall be deemed to be recognised agents by whom appearances, acts and applications under this Code may be made or done on behalf of the Government.</p></div>"
+  }
+}

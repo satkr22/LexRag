@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-03.html",
+    "source_order": 3,
+    "article_order": 12,
+    "order": 50,
+    "stem": "section_46",
+    "heading_number": "Part Ii",
+    "heading_title": "Execution",
+    "heading_range": "ss. 36–74",
+    "heading_source": "group-head",
+    "article_number": "46",
+    "article_title": "Precepts."
+  },
+  "id": "cpc_section_46",
+  "heading": {
+    "number": "Part Ii",
+    "title": "Execution",
+    "range": "ss. 36–74"
+  },
+  "article": {
+    "number": "46",
+    "title": "Precepts.",
+    "content": "46Precepts.\n\nSection 46\nCourts by which decrees may be executed\n(1) Upon the application of the decree-holder the Court which passed the decree may, whenever it thinks fit, issue a precept to any other Court which would be competent to execute such decree to attach any property belonging to the judgment-debtor and specified in the precept.\n(2) The Court to which a precept is sent shall proceed to attach the property in the manner prescribed in regard to the attachment of property in execution of a decree:\nProvided that no attachment under a precept shall continue for more than two months unless the period of attachment is extended by an order of the Court which passed the decree or unless before the determination of such attachment the decree has been transferred to the Court by which the attachment has been made and the decree-holder has applied for an order for the sale of such property.\n\n",
+    "html": "<article class=\"provision\" data-n=\"46\" data-report=\"Section 46 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46</span>Precepts.</h3></div><p class=\"prov-cite\">Section 46</p><div class=\"prov-body\"><p class=\"sched-title\">Courts by which decrees may be executed</p><p class=\"lvl\">(1) Upon the application of the decree-holder the Court which passed the decree may, whenever it thinks fit, issue a precept to any other Court which would be competent to execute such decree to attach any property belonging to the judgment-debtor and specified in the precept.</p><p class=\"lvl\">(2) The Court to which a precept is sent shall proceed to attach the property in the manner prescribed in regard to the attachment of property in execution of a decree:</p><p class=\"prvso\">Provided that no attachment under a precept shall continue for more than two months unless the period of attachment is extended by an order of the Court which passed the decree or unless before the determination of such attachment the decree has been transferred to the Court by which the attachment has been made and the decree-holder has applied for an order for the sale of such property.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46</span>Precepts.</h3></div><p class=\"prov-cite\">Section 46</p><div class=\"prov-body\"><p class=\"sched-title\">Courts by which decrees may be executed</p><p class=\"lvl\">(1) Upon the application of the decree-holder the Court which passed the decree may, whenever it thinks fit, issue a precept to any other Court which would be competent to execute such decree to attach any property belonging to the judgment-debtor and specified in the precept.</p><p class=\"lvl\">(2) The Court to which a precept is sent shall proceed to attach the property in the manner prescribed in regard to the attachment of property in execution of a decree:</p><p class=\"prvso\">Provided that no attachment under a precept shall continue for more than two months unless the period of attachment is extended by an order of the Court which passed the decree or unless before the determination of such attachment the decree has been transferred to the Court by which the attachment has been made and the decree-holder has applied for an order for the sale of such property.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-43.html",
+    "source_order": 43,
+    "article_order": 1,
+    "order": 43,
+    "stem": "schedule-article-43",
+    "heading_number": null,
+    "heading_title": "First Division · Part II · Suits Relating to Contracts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "43",
+    "article_title": "Three years."
+  },
+  "id": "limitation_schedule-article-43",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part II · Suits Relating to Contracts",
+    "range": null
+  },
+  "article": {
+    "number": "43",
+    "title": "Three years.",
+    "content": "Article43Three years.\n\nThe Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts\nBy a surety against a co-surety.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the surety pays anything in excess of his own share.\n\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>43<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">By a surety against a co-surety.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the surety pays anything in excess of his own share.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>43<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">By a surety against a co-surety.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the surety pays anything in excess of his own share.</p></div></div></div></div>"
+  }
+}

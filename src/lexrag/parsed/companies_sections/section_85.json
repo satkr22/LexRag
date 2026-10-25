@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-06.html",
+    "source_order": 6,
+    "article_order": 9,
+    "order": 88,
+    "stem": "section_85",
+    "heading_number": "Chapter VI",
+    "heading_title": "Registration of Charges",
+    "heading_range": "ss. 77–87",
+    "heading_source": "group-head",
+    "article_number": "85",
+    "article_title": "Company’s register of charges."
+  },
+  "id": "companies_section_85",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Registration of Charges",
+    "range": "ss. 77–87"
+  },
+  "article": {
+    "number": "85",
+    "title": "Company’s register of charges.",
+    "content": "85Company’s register of charges.\n\nSection 85  ·  Chapter VI  ·  pages 65–66 of the Act\n(1) Every company shall keep at its registered office a register of charges in such form and in such manner as may be prescribed, which shall include there in all charges and floating charges affecting any property or assets of the company or any of its undertakings, indicating in each case such particulars as may be prescribed:\nProvided that a copy of the instrument creating the charge shall also be kept at the registered office of the company along with the register of charges.\n(2) The register of charges and instrument of charges, kept under sub-section (1) shall be open for inspection during business hours—\n(a) by any member or creditor without any payment of fees; or\n(b) by any other person on payment of such fees as may be prescribed, subject to such reasonable restrictions as the company may, by its articles, impose.\n\n",
+    "html": "<article class=\"provision\" data-n=\"85\" data-report=\"Section 85 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>Company’s register of charges.</h3></div><p class=\"prov-cite\">Section 85  ·  Chapter VI  ·  pages 65–66 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every company shall keep at its registered office a register of charges in such form and in such manner as may be prescribed, which shall include there in all charges and floating charges affecting any property or assets of the company or any of its undertakings, indicating in each case such particulars as may be prescribed:</p><p class=\"prvso\">Provided that a copy of the instrument creating the charge shall also be kept at the registered office of the company along with the register of charges.</p><p class=\"lvl\">(2) The register of charges and instrument of charges, kept under sub-section (1) shall be open for inspection during business hours—</p><p class=\"lvl\">(a) by any member or creditor without any payment of fees; or</p><p class=\"lvl\">(b) by any other person on payment of such fees as may be prescribed, subject to such reasonable restrictions as the company may, by its articles, impose.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>Company’s register of charges.</h3></div><p class=\"prov-cite\">Section 85  ·  Chapter VI  ·  pages 65–66 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every company shall keep at its registered office a register of charges in such form and in such manner as may be prescribed, which shall include there in all charges and floating charges affecting any property or assets of the company or any of its undertakings, indicating in each case such particulars as may be prescribed:</p><p class=\"prvso\">Provided that a copy of the instrument creating the charge shall also be kept at the registered office of the company along with the register of charges.</p><p class=\"lvl\">(2) The register of charges and instrument of charges, kept under sub-section (1) shall be open for inspection during business hours—</p><p class=\"lvl\">(a) by any member or creditor without any payment of fees; or</p><p class=\"lvl\">(b) by any other person on payment of such fees as may be prescribed, subject to such reasonable restrictions as the company may, by its articles, impose.</p></div>"
+  }
+}

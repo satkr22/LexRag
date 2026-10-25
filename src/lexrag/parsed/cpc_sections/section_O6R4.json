@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-18.html",
+    "source_order": 18,
+    "article_order": 4,
+    "order": 240,
+    "stem": "section_O6R4",
+    "heading_number": "Order VI",
+    "heading_title": "Pleadings generally",
+    "heading_range": "19 rules",
+    "heading_source": "group-head",
+    "article_number": "O6R4",
+    "article_title": "Particulars to be given where necessary."
+  },
+  "id": "cpc_section_O6R4",
+  "heading": {
+    "number": "Order VI",
+    "title": "Pleadings generally",
+    "range": "19 rules"
+  },
+  "article": {
+    "number": "O6R4",
+    "title": "Particulars to be given where necessary.",
+    "content": "4Particulars to be given where necessary.\n\nOrder 6, Rule 4\nIn all cases in which the party pleading relies on any misrepresentation, fraud, breach of trust, wilful default, or undue influence, and in all other cases in which particulars may be necessary beyond such as are exemplified in the forms aforesaid, particulars (with dates and items if necessary) shall be stated in the pleading.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O6R4\" data-report=\"Order 6, Rule 4 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Particulars to be given where necessary.</h3></div><p class=\"prov-cite\">Order 6, Rule 4</p><div class=\"prov-body\"><p>In all cases in which the party pleading relies on any misrepresentation, fraud, breach of trust, wilful default, or undue influence, and in all other cases in which particulars may be necessary beyond such as are exemplified in the forms aforesaid, particulars (with dates and items if necessary) shall be stated in the pleading.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Particulars to be given where necessary.</h3></div><p class=\"prov-cite\">Order 6, Rule 4</p><div class=\"prov-body\"><p>In all cases in which the party pleading relies on any misrepresentation, fraud, breach of trust, wilful default, or undue influence, and in all other cases in which particulars may be necessary beyond such as are exemplified in the forms aforesaid, particulars (with dates and items if necessary) shall be stated in the pleading.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-15.html",
+    "source_order": 15,
+    "article_order": 1,
+    "order": 15,
+    "stem": "section_15",
+    "heading_number": "Chapter II",
+    "heading_title": "Formation of the Contract",
+    "heading_range": "ss. 4–17",
+    "heading_source": "manifest",
+    "article_number": "15",
+    "article_title": "Sale by description."
+  },
+  "id": "sale-of-goods_section_15",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Formation of the Contract",
+    "range": "ss. 4–17"
+  },
+  "article": {
+    "number": "15",
+    "title": "Sale by description.",
+    "content": "15Sale by description.\n\nSection 15  ·  Chapter II  ·  Conditions and warranties  ·  page 7 of the Act\nWhere there is a contract for the sale of goods by description, there is an implied condition that the goods shall correspond with the description; and, if the sale is by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Sale by description.</h3></div><p class=\"prov-cite\">Section 15  ·  Chapter II  ·  Conditions and warranties  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Where there is a contract for the sale of goods by description, there is an implied condition that the goods shall correspond with the description; and, if the sale is by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Sale by description.</h3></div><p class=\"prov-cite\">Section 15  ·  Chapter II  ·  Conditions and warranties  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Where there is a contract for the sale of goods by description, there is an implied condition that the goods shall correspond with the description; and, if the sale is by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.</p></div>"
+  }
+}

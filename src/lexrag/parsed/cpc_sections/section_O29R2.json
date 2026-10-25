@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-47.html",
+    "source_order": 47,
+    "article_order": 2,
+    "order": 675,
+    "stem": "section_O29R2",
+    "heading_number": "Order XXIX",
+    "heading_title": "Suits by or against corporations",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O29R2",
+    "article_title": "Service on corporation."
+  },
+  "id": "cpc_section_O29R2",
+  "heading": {
+    "number": "Order XXIX",
+    "title": "Suits by or against corporations",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O29R2",
+    "title": "Service on corporation.",
+    "content": "2Service on corporation.\n\nOrder 29, Rule 2\nSubject to any statutory provision regulating service of process, where the suit is against a corporation, the summons may be served—\n(a) on the secretary, or on any director, or other principal officer of the corporation, or\n(b) by leaving it or sending it by post addressed to the corporation at the registered office, or if there is no registered office then at the place where the corporation carries on business.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O29R2\" data-report=\"Order 29, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Service on corporation.</h3></div><p class=\"prov-cite\">Order 29, Rule 2</p><div class=\"prov-body\"><p>Subject to any statutory provision regulating service of process, where the suit is against a corporation, the summons may be served—</p><p class=\"lvl\">(a) on the secretary, or on any director, or other principal officer of the corporation, or</p><p class=\"lvl\">(b) by leaving it or sending it by post addressed to the corporation at the registered office, or if there is no registered office then at the place where the corporation carries on business.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Service on corporation.</h3></div><p class=\"prov-cite\">Order 29, Rule 2</p><div class=\"prov-body\"><p>Subject to any statutory provision regulating service of process, where the suit is against a corporation, the summons may be served—</p><p class=\"lvl\">(a) on the secretary, or on any director, or other principal officer of the corporation, or</p><p class=\"lvl\">(b) by leaving it or sending it by post addressed to the corporation at the registered office, or if there is no registered office then at the place where the corporation carries on business.</p></div>"
+  }
+}

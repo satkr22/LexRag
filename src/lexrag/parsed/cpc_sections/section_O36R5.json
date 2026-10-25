@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-55.html",
+    "source_order": 55,
+    "article_order": 5,
+    "order": 763,
+    "stem": "section_O36R5",
+    "heading_number": "Order XXXVI",
+    "heading_title": "Special Case",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O36R5",
+    "article_title": "Hearing and disposal of case."
+  },
+  "id": "cpc_section_O36R5",
+  "heading": {
+    "number": "Order XXXVI",
+    "title": "Special Case",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O36R5",
+    "title": "Hearing and disposal of case.",
+    "content": "5Hearing and disposal of case.\n\nOrder 36, Rule 5\n(1) The case shall be set down for hearing as a suit instituted in the ordinary manner, and the provisions of this Code shall apply to such suit so far as the same are applicable.\n(2) Where the Court is satisfied, after examination of the parties, or after taking such evidence as it thinks fit—\n(a) that the agreement was duly executed by them,\n(b) that they have a bona fide interest in the question stated therein, and\n(c) that the same is fit to be decided,\nit shall proceed to pronounce judgment thereon, in the same way as in an ordinary suit, and upon the judgment so pronounced a decree shall follow.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O36R5\" data-report=\"Order 36, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Hearing and disposal of case.</h3></div><p class=\"prov-cite\">Order 36, Rule 5</p><div class=\"prov-body\"><p class=\"lvl\">(1) The case shall be set down for hearing as a suit instituted in the ordinary manner, and the provisions of this Code shall apply to such suit so far as the same are applicable.</p><p class=\"lvl\">(2) Where the Court is satisfied, after examination of the parties, or after taking such evidence as it thinks fit—</p><p class=\"lvl\">(a) that the agreement was duly executed by them,</p><p class=\"lvl\">(b) that they have a bona fide interest in the question stated therein, and</p><p class=\"lvl\">(c) that the same is fit to be decided,</p><p>it shall proceed to pronounce judgment thereon, in the same way as in an ordinary suit, and upon the judgment so pronounced a decree shall follow.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Hearing and disposal of case.</h3></div><p class=\"prov-cite\">Order 36, Rule 5</p><div class=\"prov-body\"><p class=\"lvl\">(1) The case shall be set down for hearing as a suit instituted in the ordinary manner, and the provisions of this Code shall apply to such suit so far as the same are applicable.</p><p class=\"lvl\">(2) Where the Court is satisfied, after examination of the parties, or after taking such evidence as it thinks fit—</p><p class=\"lvl\">(a) that the agreement was duly executed by them,</p><p class=\"lvl\">(b) that they have a bona fide interest in the question stated therein, and</p><p class=\"lvl\">(c) that the same is fit to be decided,</p><p>it shall proceed to pronounce judgment thereon, in the same way as in an ordinary suit, and upon the judgment so pronounced a decree shall follow.</p></div>"
+  }
+}

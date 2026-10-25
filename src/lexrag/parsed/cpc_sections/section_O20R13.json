@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 17,
+    "order": 468,
+    "stem": "section_O20R13",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R13",
+    "article_title": "Decree in administration suit."
+  },
+  "id": "cpc_section_O20R13",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R13",
+    "title": "Decree in administration suit.",
+    "content": "13Decree in administration suit.\n\nOrder 20, Rule 13\n(1) Where a suit is for an account of any property and for its due administration under the decree of the Court, the Court shall, before passing the final decree, pass a preliminary decree ordering such accounts and inquiries to be taken and made, and giving such other directions as it thinks fit.\n(2) In the administration by the Court of the property of any deceased person, if such property proves to be insufficient for the payment in full of his debts and liabilities, the same rules shall be observed as to the respective rights of secured and unsecured creditors and as to debts and liabilities provable, and as to the valuation of annuities and future and contingent liabilities respectively, as may be in force for the time being, within the local limits of the Court in which the administration suit is pending with respect to the estates of persons adjudged or declared insolvent; and all persons who in any such case would be entitled to be paid out of such property, may come in under the preliminary decree, and make such claims against the same as they may respectively be entitled to by virtue of this Code.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O20R13\" data-report=\"Order 20, Rule 13 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Decree in administration suit.</h3></div><p class=\"prov-cite\">Order 20, Rule 13</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where a suit is for an account of any property and for its due administration under the decree of the Court, the Court shall, before passing the final decree, pass a preliminary decree ordering such accounts and inquiries to be taken and made, and giving such other directions as it thinks fit.</p><p class=\"lvl\">(2) In the administration by the Court of the property of any deceased person, if such property proves to be insufficient for the payment in full of his debts and liabilities, the same rules shall be observed as to the respective rights of secured and unsecured creditors and as to debts and liabilities provable, and as to the valuation of annuities and future and contingent liabilities respectively, as may be in force for the time being, within the local limits of the Court in which the administration suit is pending with respect to the estates of persons adjudged or declared insolvent; and all persons who in any such case would be entitled to be paid out of such property, may come in under the preliminary decree, and make such claims against the same as they may respectively be entitled to by virtue of this Code.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Decree in administration suit.</h3></div><p class=\"prov-cite\">Order 20, Rule 13</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where a suit is for an account of any property and for its due administration under the decree of the Court, the Court shall, before passing the final decree, pass a preliminary decree ordering such accounts and inquiries to be taken and made, and giving such other directions as it thinks fit.</p><p class=\"lvl\">(2) In the administration by the Court of the property of any deceased person, if such property proves to be insufficient for the payment in full of his debts and liabilities, the same rules shall be observed as to the respective rights of secured and unsecured creditors and as to debts and liabilities provable, and as to the valuation of annuities and future and contingent liabilities respectively, as may be in force for the time being, within the local limits of the Court in which the administration suit is pending with respect to the estates of persons adjudged or declared insolvent; and all persons who in any such case would be entitled to be paid out of such property, may come in under the preliminary decree, and make such claims against the same as they may respectively be entitled to by virtue of this Code.</p></div>"
+  }
+}

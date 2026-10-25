@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-41.html",
+    "source_order": 41,
+    "article_order": 1,
+    "order": 618,
+    "stem": "section_O24R1",
+    "heading_number": "Order XXIV",
+    "heading_title": "Payment into Court",
+    "heading_range": "4 rules",
+    "heading_source": "group-head",
+    "article_number": "O24R1",
+    "article_title": "Deposit by defendant of amount in satisfaction of claim."
+  },
+  "id": "cpc_section_O24R1",
+  "heading": {
+    "number": "Order XXIV",
+    "title": "Payment into Court",
+    "range": "4 rules"
+  },
+  "article": {
+    "number": "O24R1",
+    "title": "Deposit by defendant of amount in satisfaction of claim.",
+    "content": "1Deposit by defendant of amount in satisfaction of claim.\n\nOrder 24, Rule 1\nThe defendant in any suit to recover a debt or damages may, at any stage of the suit, deposit in Court such sum of money as he considers a satisfaction in full of the claim.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O24R1\" data-report=\"Order 24, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Deposit by defendant of amount in satisfaction of claim.</h3></div><p class=\"prov-cite\">Order 24, Rule 1</p><div class=\"prov-body\"><p>The defendant in any suit to recover a debt or damages may, at any stage of the suit, deposit in Court such sum of money as he considers a satisfaction in full of the claim.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Deposit by defendant of amount in satisfaction of claim.</h3></div><p class=\"prov-cite\">Order 24, Rule 1</p><div class=\"prov-body\"><p>The defendant in any suit to recover a debt or damages may, at any stage of the suit, deposit in Court such sum of money as he considers a satisfaction in full of the claim.</p></div>"
+  }
+}

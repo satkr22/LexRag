@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-18.html",
+    "source_order": 18,
+    "article_order": 8,
+    "order": 244,
+    "stem": "section_O6R8",
+    "heading_number": "Order VI",
+    "heading_title": "Pleadings generally",
+    "heading_range": "19 rules",
+    "heading_source": "group-head",
+    "article_number": "O6R8",
+    "article_title": "Denial of contract."
+  },
+  "id": "cpc_section_O6R8",
+  "heading": {
+    "number": "Order VI",
+    "title": "Pleadings generally",
+    "range": "19 rules"
+  },
+  "article": {
+    "number": "O6R8",
+    "title": "Denial of contract.",
+    "content": "8Denial of contract.\n\nOrder 6, Rule 8\nWhere a contract is alleged in any pleading, a bare denial of the same by the opposite party shall be construed only as a denial in fact of the express contract alleged or of the matters of fact from which the same may be implied, and not as a denial of the legality or sufficiency in law of such contract.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O6R8\" data-report=\"Order 6, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Denial of contract.</h3></div><p class=\"prov-cite\">Order 6, Rule 8</p><div class=\"prov-body\"><p>Where a contract is alleged in any pleading, a bare denial of the same by the opposite party shall be construed only as a denial in fact of the express contract alleged or of the matters of fact from which the same may be implied, and not as a denial of the legality or sufficiency in law of such contract.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Denial of contract.</h3></div><p class=\"prov-cite\">Order 6, Rule 8</p><div class=\"prov-body\"><p>Where a contract is alleged in any pleading, a bare denial of the same by the opposite party shall be construed only as a denial in fact of the express contract alleged or of the matters of fact from which the same may be implied, and not as a denial of the legality or sufficiency in law of such contract.</p></div>"
+  }
+}

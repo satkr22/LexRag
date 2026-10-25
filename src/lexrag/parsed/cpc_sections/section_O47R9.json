@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-66.html",
+    "source_order": 66,
+    "article_order": 9,
+    "order": 887,
+    "stem": "section_O47R9",
+    "heading_number": "Order XLVII",
+    "heading_title": "Review",
+    "heading_range": "9 rules",
+    "heading_source": "group-head",
+    "article_number": "O47R9",
+    "article_title": "Bar of certain application."
+  },
+  "id": "cpc_section_O47R9",
+  "heading": {
+    "number": "Order XLVII",
+    "title": "Review",
+    "range": "9 rules"
+  },
+  "article": {
+    "number": "O47R9",
+    "title": "Bar of certain application.",
+    "content": "9Bar of certain application.\n\nOrder 47, Rule 9\nNo application to review an order made on an application for a review or a decree or order passed or made on a review shall be entertained.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O47R9\" data-report=\"Order 47, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Bar of certain application.</h3></div><p class=\"prov-cite\">Order 47, Rule 9</p><div class=\"prov-body\"><p>No application to review an order made on an application for a review or a decree or order passed or made on a review shall be entertained.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Bar of certain application.</h3></div><p class=\"prov-cite\">Order 47, Rule 9</p><div class=\"prov-body\"><p>No application to review an order made on an application for a review or a decree or order passed or made on a review shall be entertained.</p></div>"
+  }
+}

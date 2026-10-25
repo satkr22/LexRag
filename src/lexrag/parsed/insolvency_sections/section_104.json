@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-11.html",
+    "source_order": 11,
+    "article_order": 11,
+    "order": 127,
+    "stem": "section_104",
+    "heading_number": "Part III · Chapter III",
+    "heading_title": "Insolvency Resolution Process",
+    "heading_range": "ss. 94–120",
+    "heading_source": "group-head",
+    "article_number": "104",
+    "article_title": "Preparation of list of creditors."
+  },
+  "id": "insolvency_section_104",
+  "heading": {
+    "number": "Part III · Chapter III",
+    "title": "Insolvency Resolution Process",
+    "range": "ss. 94–120"
+  },
+  "article": {
+    "number": "104",
+    "title": "Preparation of list of creditors.",
+    "content": "104Preparation of list of creditors.\n\nSection 104  ·  Part III · Chapter III  ·  page 100 of the Act\n(1) The resolution professional shall prepare a list of creditors on the basis of—\n(a) the information disclosed in the application filed by the debtor under section 94 or 95, as the case may be;\n(b) claims received by the resolution professional under section 102.\n(2) The resolution professional shall prepare the list mentioned in sub-section (1) within thirty days from the date of the notice.\n\n",
+    "html": "<article class=\"provision\" data-n=\"104\" data-report=\"Section 104 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Preparation of list of creditors.</h3></div><p class=\"prov-cite\">Section 104  ·  Part III · Chapter III  ·  page 100 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The resolution professional shall prepare a list of creditors on the basis of—</p><p class=\"lvl\">(a) the information disclosed in the application filed by the debtor under section 94 or 95, as the case may be;</p><p class=\"lvl\">(b) claims received by the resolution professional under section 102.</p><p class=\"lvl\">(2) The resolution professional shall prepare the list mentioned in sub-section (1) within thirty days from the date of the notice.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Preparation of list of creditors.</h3></div><p class=\"prov-cite\">Section 104  ·  Part III · Chapter III  ·  page 100 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The resolution professional shall prepare a list of creditors on the basis of—</p><p class=\"lvl\">(a) the information disclosed in the application filed by the debtor under section 94 or 95, as the case may be;</p><p class=\"lvl\">(b) claims received by the resolution professional under section 102.</p><p class=\"lvl\">(2) The resolution professional shall prepare the list mentioned in sub-section (1) within thirty days from the date of the notice.</p></div>"
+  }
+}

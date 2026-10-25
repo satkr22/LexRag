@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-34.html",
+    "source_order": 34,
+    "article_order": 13,
+    "order": 440,
+    "stem": "section_O18R12",
+    "heading_number": "Order XVIII",
+    "heading_title": "Hearing of the suit and examination of witnesses",
+    "heading_range": "21 rules",
+    "heading_source": "group-head",
+    "article_number": "O18R12",
+    "article_title": "Remarks on demeanour of witnesses."
+  },
+  "id": "cpc_section_O18R12",
+  "heading": {
+    "number": "Order XVIII",
+    "title": "Hearing of the suit and examination of witnesses",
+    "range": "21 rules"
+  },
+  "article": {
+    "number": "O18R12",
+    "title": "Remarks on demeanour of witnesses.",
+    "content": "12Remarks on demeanour of witnesses.\n\nOrder 18, Rule 12\nThe Court may record such remarks as it thinks material respecting the demeanour of any witness while under examination.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O18R12\" data-report=\"Order 18, Rule 12 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Remarks on demeanour of witnesses.</h3></div><p class=\"prov-cite\">Order 18, Rule 12</p><div class=\"prov-body\"><p>The Court may record such remarks as it thinks material respecting the demeanour of any witness while under examination.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Remarks on demeanour of witnesses.</h3></div><p class=\"prov-cite\">Order 18, Rule 12</p><div class=\"prov-body\"><p>The Court may record such remarks as it thinks material respecting the demeanour of any witness while under examination.</p></div>"
+  }
+}

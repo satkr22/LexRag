@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-04.html",
+    "source_order": 4,
+    "article_order": 3,
+    "order": 47,
+    "stem": "section_47",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Abetment, Criminal Conspiracy and Attempt",
+    "heading_range": "45 – 62",
+    "heading_source": "group-head",
+    "article_number": "47",
+    "article_title": "Abetment in India of offences outside India"
+  },
+  "id": "bns_section_47",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Abetment, Criminal Conspiracy and Attempt",
+    "range": "45 – 62"
+  },
+  "article": {
+    "number": "47",
+    "title": "Abetment in India of offences outside India",
+    "content": "47Abetment in India of offences outside India\n\nSection 47 · Chapter IV · Of abetment\nA person abets an offence within the meaning of this Sanhita who, in India, abets the commission of any act without and beyond India which would constitute an offence if committed in India.\nIllustrations\nA, in India, instigates B, a foreigner in country X, to commit a murder in that country, A is guilty of abetting murder.\n\n",
+    "html": "<article class=\"provision\" data-n=\"47\" data-report=\"Section 47 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">47</span>Abetment in India of offences outside India</h3></div><p class=\"prov-cite\">Section 47 · Chapter IV · Of abetment</p><div class=\"prov-body\"><p>A person abets an offence within the meaning of this Sanhita who, in India, abets the commission of any act without and beyond India which would constitute an offence if committed in India.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A, in India, instigates B, a foreigner in country X, to commit a murder in that country, A is guilty of abetting murder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">47</span>Abetment in India of offences outside India</h3></div><p class=\"prov-cite\">Section 47 · Chapter IV · Of abetment</p><div class=\"prov-body\"><p>A person abets an offence within the meaning of this Sanhita who, in India, abets the commission of any act without and beyond India which would constitute an offence if committed in India.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A, in India, instigates B, a foreigner in country X, to commit a murder in that country, A is guilty of abetting murder.</p></div>"
+  }
+}

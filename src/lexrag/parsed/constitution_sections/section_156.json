@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 5,
+    "order": 175,
+    "stem": "section_156",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "156",
+    "article_title": "Term of office of Governor"
+  },
+  "id": "constitution_section_156",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "156",
+    "title": "Term of office of Governor",
+    "content": "156Term of office of Governor\n\nArticle 156 · Part VI · The Governor\n(1)The Governor shall hold office during the pleasure of the President.\n(2)The Governor may, by writing under his hand addressed to the President, resign his office.\n(3)Subject to the foregoing provisions of this article, a Governor shall hold office for a term of five years from the date on which he enters upon his office:\nProvisoProvided that a Governor shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.\n\n",
+    "html": "<article class=\"provision\" data-n=\"156\" data-report=\"Article 156 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">156</span>Term of office of Governor</h3></div><p class=\"prov-cite\">Article 156 · Part VI · The Governor</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Governor shall hold office during the pleasure of the President.</p><p><span class=\"lbl\">(2)</span>The Governor may, by writing under his hand addressed to the President, resign his office.</p><p><span class=\"lbl\">(3)</span>Subject to the foregoing provisions of this article, a Governor shall hold office for a term of five years from the date on which he enters upon his office:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that a Governor shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">156</span>Term of office of Governor</h3></div><p class=\"prov-cite\">Article 156 · Part VI · The Governor</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Governor shall hold office during the pleasure of the President.</p><p><span class=\"lbl\">(2)</span>The Governor may, by writing under his hand addressed to the President, resign his office.</p><p><span class=\"lbl\">(3)</span>Subject to the foregoing provisions of this article, a Governor shall hold office for a term of five years from the date on which he enters upon his office:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that a Governor shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.</p></div>"
+  }
+}

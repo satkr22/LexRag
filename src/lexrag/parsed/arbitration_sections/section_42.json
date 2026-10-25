@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-42.html",
+    "source_order": 51,
+    "article_order": 1,
+    "order": 51,
+    "stem": "section_42",
+    "heading_number": "Part I · Chapter X",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 38–43",
+    "heading_source": "manifest",
+    "article_number": "42",
+    "article_title": "Jurisdiction."
+  },
+  "id": "arbitration_section_42",
+  "heading": {
+    "number": "Part I · Chapter X",
+    "title": "Miscellaneous",
+    "range": "ss. 38–43"
+  },
+  "article": {
+    "number": "42",
+    "title": "Jurisdiction.",
+    "content": "42Jurisdiction.\n\nSection 42  ·  Part I · Chapter X  ·  page 27 of the Act\nNotwithstanding anything contained elsewhere in this Part or in any other law for the time being in force, where with respect to an arbitration agreement any application under this Part has been made in a Court, that Court alone shall have jurisdiction over the arbitral proceedings and all subsequent applications arising out of that agreement and the arbitral proceedings shall be made in that Court and in no other Court.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Jurisdiction.</h3></div><p class=\"prov-cite\">Section 42  ·  Part I · Chapter X  ·  page 27 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained elsewhere in this Part or in any other law for the time being in force, where with respect to an arbitration agreement any application under this Part has been made in a Court, that Court alone shall have jurisdiction over the arbitral proceedings and all subsequent applications arising out of that agreement and the arbitral proceedings shall be made in that Court and in no other Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Jurisdiction.</h3></div><p class=\"prov-cite\">Section 42  ·  Part I · Chapter X  ·  page 27 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained elsewhere in this Part or in any other law for the time being in force, where with respect to an arbitration agreement any application under this Part has been made in a Court, that Court alone shall have jurisdiction over the arbitral proceedings and all subsequent applications arising out of that agreement and the arbitral proceedings shall be made in that Court and in no other Court.</p></div>"
+  }
+}

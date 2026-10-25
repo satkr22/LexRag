@@ -1,0 +1,560 @@
+{
+  "act": "llp",
+  "source_directory": "src/lexrag/scrapped/llp_sections",
+  "output_directory": "src/lexrag/parsed/llp_sections",
+  "count": 92,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "first-schedule",
+      "article_title": "The First Schedule",
+      "file": "section_first-schedule.json"
+    },
+    {
+      "order": 2,
+      "article_number": "fourth-schedule",
+      "article_title": "The Fourth Schedule",
+      "file": "section_fourth-schedule.json"
+    },
+    {
+      "order": 3,
+      "article_number": "second-schedule",
+      "article_title": "The Second Schedule",
+      "file": "section_second-schedule.json"
+    },
+    {
+      "order": 4,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 5,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 6,
+      "article_number": "3",
+      "article_title": "Limited liability partnership to be body corporate.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 7,
+      "article_number": "4",
+      "article_title": "Non-applicability of the Indian Partnership Act, 1932.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 8,
+      "article_number": "5",
+      "article_title": "Partners.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 9,
+      "article_number": "6",
+      "article_title": "Minimum number of partners.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 10,
+      "article_number": "7",
+      "article_title": "Designated partners.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 11,
+      "article_number": "8",
+      "article_title": "Liabilities of designated partners.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 12,
+      "article_number": "9",
+      "article_title": "Changes in designated partners.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 13,
+      "article_number": "10",
+      "article_title": "Punishment for contravention of sections 7, 4*** and 9.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 14,
+      "article_number": "11",
+      "article_title": "Incorporation document.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 15,
+      "article_number": "12",
+      "article_title": "Incorporation by registration.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 16,
+      "article_number": "13",
+      "article_title": "Registered office of limited liability partnership and change therein.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 17,
+      "article_number": "14",
+      "article_title": "Effect of registration.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 18,
+      "article_number": "15",
+      "article_title": "Name.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 19,
+      "article_number": "16",
+      "article_title": "Reservation of name.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 20,
+      "article_number": "17",
+      "article_title": "1 [Rectification of name of limited liability partnership.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 21,
+      "article_number": "18",
+      "article_title": "[Application for direction to change name in certain circumstances]",
+      "file": "section_18.json"
+    },
+    {
+      "order": 22,
+      "article_number": "19",
+      "article_title": "Change of registered name.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 23,
+      "article_number": "20",
+      "article_title": "Penalty for improper use of words \"limited liability partnership\" or \"LLP\".",
+      "file": "section_20.json"
+    },
+    {
+      "order": 24,
+      "article_number": "21",
+      "article_title": "Publication of name and limited liability.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 25,
+      "article_number": "22",
+      "article_title": "Eligibility to be partners.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 26,
+      "article_number": "23",
+      "article_title": "Relationship of partners.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 27,
+      "article_number": "24",
+      "article_title": "Cessation of partnership interest.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 28,
+      "article_number": "25",
+      "article_title": "Registration of changes in partners.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 29,
+      "article_number": "26",
+      "article_title": "Partner as agent.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 30,
+      "article_number": "27",
+      "article_title": "Extent of liability of limited liability partnership.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 31,
+      "article_number": "28",
+      "article_title": "Extent of liability of partner.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 32,
+      "article_number": "29",
+      "article_title": "Holding out.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 33,
+      "article_number": "30",
+      "article_title": "Unlimited liability in case of fraud.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 34,
+      "article_number": "31",
+      "article_title": "Whistle blowing.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 35,
+      "article_number": "32",
+      "article_title": "Form of contribution.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 36,
+      "article_number": "33",
+      "article_title": "Obligation to contribute.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 37,
+      "article_number": "34",
+      "article_title": "Maintenance of books of account, other records and audit, etc.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 38,
+      "article_number": "34A",
+      "article_title": "2 [Accounting and auditing standards.",
+      "file": "section_34A.json"
+    },
+    {
+      "order": 39,
+      "article_number": "35",
+      "article_title": "Annual return.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 40,
+      "article_number": "36",
+      "article_title": "Inspection of documents kept by Registrar.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 41,
+      "article_number": "37",
+      "article_title": "Penalty for false statement.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 42,
+      "article_number": "38",
+      "article_title": "Power of Registrar to obtain information.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 43,
+      "article_number": "39",
+      "article_title": "1 [Compounding of offences.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 44,
+      "article_number": "40",
+      "article_title": "Destruction of old records.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 45,
+      "article_number": "41",
+      "article_title": "Enforcement of duty to make returns, etc.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 46,
+      "article_number": "42",
+      "article_title": "Partner's transferable interest.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 47,
+      "article_number": "43",
+      "article_title": "Investigation of the affairs of limited liability partnership.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 48,
+      "article_number": "44",
+      "article_title": "Application by partners for investigation.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 49,
+      "article_number": "45",
+      "article_title": "Firm, body corporate or association not to be appointed as inspector.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 50,
+      "article_number": "46",
+      "article_title": "Power of inspectors to carry out investigation into affairs of related entities, etc.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 51,
+      "article_number": "47",
+      "article_title": "Production of documents and evidence.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 52,
+      "article_number": "48",
+      "article_title": "Seizure of documents by inspector.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 53,
+      "article_number": "49",
+      "article_title": "Inspector's report.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 54,
+      "article_number": "50",
+      "article_title": "Prosecution.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 55,
+      "article_number": "51",
+      "article_title": "Application for winding up of limited liability partnership.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 56,
+      "article_number": "52",
+      "article_title": "Proceedings for recovery of damages or property.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 57,
+      "article_number": "53",
+      "article_title": "Expenses of investigation.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 58,
+      "article_number": "54",
+      "article_title": "Inspector's report to be evidence.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 59,
+      "article_number": "55",
+      "article_title": "Conversion from firm into limited liability partnership.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 60,
+      "article_number": "56",
+      "article_title": "Conversion from private company into limited liability partnership.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 61,
+      "article_number": "57",
+      "article_title": "Conversion from unlisted public company into limited liability partnership.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 62,
+      "article_number": "58",
+      "article_title": "Registration and effect of conversion.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 63,
+      "article_number": "59",
+      "article_title": "Foreign limited liability partnerships.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 64,
+      "article_number": "60",
+      "article_title": "Compromise, or arrangement of limited liability partnerships.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 65,
+      "article_number": "61",
+      "article_title": "Power of Tribunal to enforce compromise or arrangement.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 66,
+      "article_number": "62",
+      "article_title": "Provisions for facilitating reconstruction or amalgamation of limited liability partnerships.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 67,
+      "article_number": "63",
+      "article_title": "Winding up and dissolution.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 68,
+      "article_number": "64",
+      "article_title": "Circumstances in which limited liability partnership may be wound up by Tribunal.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 69,
+      "article_number": "65",
+      "article_title": "Rules for winding up and dissolution.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 70,
+      "article_number": "66",
+      "article_title": "Business transactions of partner with limited liability partnership.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 71,
+      "article_number": "67",
+      "article_title": "Application of the provisions of the Companies Act.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 72,
+      "article_number": "67A",
+      "article_title": "2 [Establishment of Special Courts.",
+      "file": "section_67A.json"
+    },
+    {
+      "order": 73,
+      "article_number": "67B",
+      "article_title": "Procedure and powers of Special Court.",
+      "file": "section_67B.json"
+    },
+    {
+      "order": 74,
+      "article_number": "67C",
+      "article_title": "Appeal and revision.",
+      "file": "section_67C.json"
+    },
+    {
+      "order": 75,
+      "article_number": "68",
+      "article_title": "Electronic filing of documents.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 76,
+      "article_number": "68A",
+      "article_title": "1 [Registration offices.",
+      "file": "section_68A.json"
+    },
+    {
+      "order": 77,
+      "article_number": "69",
+      "article_title": "2 [Payment of additional fee.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 78,
+      "article_number": "70",
+      "article_title": "Enhanced punishment.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 79,
+      "article_number": "71",
+      "article_title": "Application of other laws not barred.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 80,
+      "article_number": "72",
+      "article_title": "Jurisdiction of Tribunal and Appellate Tribunal.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 81,
+      "article_number": "73",
+      "article_title": "[Penalty on non-compliance of any order passed by Tribunal.]",
+      "file": "section_73.json"
+    },
+    {
+      "order": 82,
+      "article_number": "74",
+      "article_title": "2 [General penalties.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 83,
+      "article_number": "75",
+      "article_title": "Power of Registrar to strike defunct limited liability partnership off register.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 84,
+      "article_number": "76",
+      "article_title": "Offences to limited liability partnerships.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 85,
+      "article_number": "76A",
+      "article_title": "1 [Adjudication of penalties.",
+      "file": "section_76A.json"
+    },
+    {
+      "order": 86,
+      "article_number": "77",
+      "article_title": "1 [Jurisdiction of Court.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 87,
+      "article_number": "77A",
+      "article_title": "Cognizance of offences.",
+      "file": "section_77A.json"
+    },
+    {
+      "order": 88,
+      "article_number": "78",
+      "article_title": "Power to alter Schedules.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 89,
+      "article_number": "79",
+      "article_title": "Power to make rules.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 90,
+      "article_number": "80",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 91,
+      "article_number": "81",
+      "article_title": "[Transitional provisions.]",
+      "file": "section_81.json"
+    },
+    {
+      "order": 92,
+      "article_number": "third-schedule",
+      "article_title": "The Third Schedule",
+      "file": "section_third-schedule.json"
+    }
+  ]
+}

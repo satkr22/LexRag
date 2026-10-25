@@ -1,0 +1,1034 @@
+{
+  "act": "bsa",
+  "source_directory": "src/lexrag/scrapped/bsa_sections",
+  "output_directory": "src/lexrag/parsed/bsa_sections",
+  "count": 171,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, application and commencement",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Evidence may be given of facts in issue and relevant facts",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Relevancy of facts forming part of same transaction",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Facts which are occasion, cause or effect of facts in issue or relevant facts",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Motive, preparation and previous or subsequent conduct",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Facts necessary to explain or introduce fact in issue or relevant facts",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Things said or done by conspirator in reference to common design",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "When facts not otherwise relevant become relevant",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Facts tending to enable Court to determine amount are relevant in suits for damages",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Facts relevant when right or custom is in question",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Facts showing existence of state of mind, or of body or bodily feeling",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Facts bearing on question whether act was accidental or intentional",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Existence of course of business when relevant",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Admission defined",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Admission by party to proceeding or his agent",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "17",
+      "article_title": "Admissions by persons whose position must be proved as against party to suit",
+      "file": "section_17.json"
+    },
+    {
+      "order": 18,
+      "article_number": "18",
+      "article_title": "Admissions by persons expressly referred to by party to suit",
+      "file": "section_18.json"
+    },
+    {
+      "order": 19,
+      "article_number": "19",
+      "article_title": "Proof of admissions against persons making them, and by or on their behalf",
+      "file": "section_19.json"
+    },
+    {
+      "order": 20,
+      "article_number": "20",
+      "article_title": "When oral admissions as to contents of documents are relevant",
+      "file": "section_20.json"
+    },
+    {
+      "order": 21,
+      "article_number": "21",
+      "article_title": "Admissions in civil cases when relevant",
+      "file": "section_21.json"
+    },
+    {
+      "order": 22,
+      "article_number": "22",
+      "article_title": "Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding",
+      "file": "section_22.json"
+    },
+    {
+      "order": 23,
+      "article_number": "23",
+      "article_title": "Confession to police officer",
+      "file": "section_23.json"
+    },
+    {
+      "order": 24,
+      "article_number": "24",
+      "article_title": "Consideration of proved confession affecting person making it and others jointly under trial for same offence",
+      "file": "section_24.json"
+    },
+    {
+      "order": 25,
+      "article_number": "25",
+      "article_title": "Admissions not conclusive proof, but may estop",
+      "file": "section_25.json"
+    },
+    {
+      "order": 26,
+      "article_number": "26",
+      "article_title": "Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant",
+      "file": "section_26.json"
+    },
+    {
+      "order": 27,
+      "article_number": "27",
+      "article_title": "Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated",
+      "file": "section_27.json"
+    },
+    {
+      "order": 28,
+      "article_number": "28",
+      "article_title": "Entries in books of account when relevant",
+      "file": "section_28.json"
+    },
+    {
+      "order": 29,
+      "article_number": "29",
+      "article_title": "Relevancy of entry in public record or an electronic record made in performance of duty",
+      "file": "section_29.json"
+    },
+    {
+      "order": 30,
+      "article_number": "30",
+      "article_title": "Relevancy of statements in maps, charts and plans",
+      "file": "section_30.json"
+    },
+    {
+      "order": 31,
+      "article_number": "31",
+      "article_title": "Relevancy of statement as to fact of public nature contained in certain Acts or notifications",
+      "file": "section_31.json"
+    },
+    {
+      "order": 32,
+      "article_number": "32",
+      "article_title": "Relevancy of statements as to any law contained in law books including electronic or digital form",
+      "file": "section_32.json"
+    },
+    {
+      "order": 33,
+      "article_number": "33",
+      "article_title": "What evidence to be given when statement forms part of a conversation, document, electronic record, book or series of letters or papers",
+      "file": "section_33.json"
+    },
+    {
+      "order": 34,
+      "article_number": "34",
+      "article_title": "Previous judgments relevant to bar a second suit or trial",
+      "file": "section_34.json"
+    },
+    {
+      "order": 35,
+      "article_number": "35",
+      "article_title": "Relevancy of certain judgments in probate, etc., jurisdiction",
+      "file": "section_35.json"
+    },
+    {
+      "order": 36,
+      "article_number": "36",
+      "article_title": "Relevancy and effect of judgments, orders or decrees, other than those mentioned in section 35",
+      "file": "section_36.json"
+    },
+    {
+      "order": 37,
+      "article_number": "37",
+      "article_title": "Judgments, etc., other than those mentioned in sections 34, 35 and 36 when relevant",
+      "file": "section_37.json"
+    },
+    {
+      "order": 38,
+      "article_number": "38",
+      "article_title": "Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved",
+      "file": "section_38.json"
+    },
+    {
+      "order": 39,
+      "article_number": "39",
+      "article_title": "Opinions of experts",
+      "file": "section_39.json"
+    },
+    {
+      "order": 40,
+      "article_number": "40",
+      "article_title": "Facts bearing upon opinions of experts",
+      "file": "section_40.json"
+    },
+    {
+      "order": 41,
+      "article_number": "41",
+      "article_title": "Opinion as to handwriting and signature, when relevant",
+      "file": "section_41.json"
+    },
+    {
+      "order": 42,
+      "article_number": "42",
+      "article_title": "Opinion as to existence of general custom or right, when relevant",
+      "file": "section_42.json"
+    },
+    {
+      "order": 43,
+      "article_number": "43",
+      "article_title": "Opinion as to usages, tenets, etc., when relevant",
+      "file": "section_43.json"
+    },
+    {
+      "order": 44,
+      "article_number": "44",
+      "article_title": "Opinion on relationship, when relevant",
+      "file": "section_44.json"
+    },
+    {
+      "order": 45,
+      "article_number": "45",
+      "article_title": "Grounds of opinion, when relevant",
+      "file": "section_45.json"
+    },
+    {
+      "order": 46,
+      "article_number": "46",
+      "article_title": "In civil cases character to prove conduct imputed, irrelevant",
+      "file": "section_46.json"
+    },
+    {
+      "order": 47,
+      "article_number": "47",
+      "article_title": "In criminal cases previous good character relevant",
+      "file": "section_47.json"
+    },
+    {
+      "order": 48,
+      "article_number": "48",
+      "article_title": "Evidence of character or previous sexual experience not relevant in certain cases",
+      "file": "section_48.json"
+    },
+    {
+      "order": 49,
+      "article_number": "49",
+      "article_title": "Previous bad character not relevant, except in reply",
+      "file": "section_49.json"
+    },
+    {
+      "order": 50,
+      "article_number": "50",
+      "article_title": "Character as affecting damages",
+      "file": "section_50.json"
+    },
+    {
+      "order": 51,
+      "article_number": "51",
+      "article_title": "Fact judicially noticeable need not be proved",
+      "file": "section_51.json"
+    },
+    {
+      "order": 52,
+      "article_number": "52",
+      "article_title": "Facts of which Court shall take judicial notice",
+      "file": "section_52.json"
+    },
+    {
+      "order": 53,
+      "article_number": "53",
+      "article_title": "Facts admitted need not be proved",
+      "file": "section_53.json"
+    },
+    {
+      "order": 54,
+      "article_number": "54",
+      "article_title": "Proof of facts by oral evidence",
+      "file": "section_54.json"
+    },
+    {
+      "order": 55,
+      "article_number": "55",
+      "article_title": "Oral evidence to be direct",
+      "file": "section_55.json"
+    },
+    {
+      "order": 56,
+      "article_number": "56",
+      "article_title": "Proof of contents of documents",
+      "file": "section_56.json"
+    },
+    {
+      "order": 57,
+      "article_number": "57",
+      "article_title": "Primary evidence",
+      "file": "section_57.json"
+    },
+    {
+      "order": 58,
+      "article_number": "58",
+      "article_title": "Secondary evidence",
+      "file": "section_58.json"
+    },
+    {
+      "order": 59,
+      "article_number": "59",
+      "article_title": "Proof of documents by primary evidence",
+      "file": "section_59.json"
+    },
+    {
+      "order": 60,
+      "article_number": "60",
+      "article_title": "Cases in which secondary evidence relating to documents may be given",
+      "file": "section_60.json"
+    },
+    {
+      "order": 61,
+      "article_number": "61",
+      "article_title": "Electronic or digital record",
+      "file": "section_61.json"
+    },
+    {
+      "order": 62,
+      "article_number": "62",
+      "article_title": "Special provisions as to evidence relating to electronic record",
+      "file": "section_62.json"
+    },
+    {
+      "order": 63,
+      "article_number": "63",
+      "article_title": "Admissibility of electronic records",
+      "file": "section_63.json"
+    },
+    {
+      "order": 64,
+      "article_number": "64",
+      "article_title": "Rules as to notice to produce",
+      "file": "section_64.json"
+    },
+    {
+      "order": 65,
+      "article_number": "65",
+      "article_title": "Proof of signature and handwriting of person alleged to have signed or written document produced",
+      "file": "section_65.json"
+    },
+    {
+      "order": 66,
+      "article_number": "66",
+      "article_title": "Proof as to electronic signature",
+      "file": "section_66.json"
+    },
+    {
+      "order": 67,
+      "article_number": "67",
+      "article_title": "Proof of execution of document required by law to be attested",
+      "file": "section_67.json"
+    },
+    {
+      "order": 68,
+      "article_number": "68",
+      "article_title": "Proof where no attesting witness found",
+      "file": "section_68.json"
+    },
+    {
+      "order": 69,
+      "article_number": "69",
+      "article_title": "Admission of execution by party to attested document",
+      "file": "section_69.json"
+    },
+    {
+      "order": 70,
+      "article_number": "70",
+      "article_title": "Proof when attesting witness denies execution",
+      "file": "section_70.json"
+    },
+    {
+      "order": 71,
+      "article_number": "71",
+      "article_title": "Proof of document not required by law to be attested",
+      "file": "section_71.json"
+    },
+    {
+      "order": 72,
+      "article_number": "72",
+      "article_title": "Comparison of signature, writing or seal with others admitted or proved",
+      "file": "section_72.json"
+    },
+    {
+      "order": 73,
+      "article_number": "73",
+      "article_title": "Proof as to verification of digital signature",
+      "file": "section_73.json"
+    },
+    {
+      "order": 74,
+      "article_number": "74",
+      "article_title": "Public and private documents",
+      "file": "section_74.json"
+    },
+    {
+      "order": 75,
+      "article_number": "75",
+      "article_title": "Certified copies of public documents",
+      "file": "section_75.json"
+    },
+    {
+      "order": 76,
+      "article_number": "76",
+      "article_title": "Proof of documents by production of certified copies",
+      "file": "section_76.json"
+    },
+    {
+      "order": 77,
+      "article_number": "77",
+      "article_title": "Proof of other official documents",
+      "file": "section_77.json"
+    },
+    {
+      "order": 78,
+      "article_number": "78",
+      "article_title": "Presumption as to genuineness of certified copies",
+      "file": "section_78.json"
+    },
+    {
+      "order": 79,
+      "article_number": "79",
+      "article_title": "Presumption as to documents produced as record of evidence, etc.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 80,
+      "article_number": "80",
+      "article_title": "Presumption as to Gazettes, newspapers, and other documents",
+      "file": "section_80.json"
+    },
+    {
+      "order": 81,
+      "article_number": "81",
+      "article_title": "Presumption as to Gazettes in electronic or digital record",
+      "file": "section_81.json"
+    },
+    {
+      "order": 82,
+      "article_number": "82",
+      "article_title": "Presumption as to maps or plans made by authority of Government",
+      "file": "section_82.json"
+    },
+    {
+      "order": 83,
+      "article_number": "83",
+      "article_title": "Presumption as to collections of laws and reports of decisions",
+      "file": "section_83.json"
+    },
+    {
+      "order": 84,
+      "article_number": "84",
+      "article_title": "Presumption as to powers-of-attorney",
+      "file": "section_84.json"
+    },
+    {
+      "order": 85,
+      "article_number": "85",
+      "article_title": "Presumption as to electronic agreements",
+      "file": "section_85.json"
+    },
+    {
+      "order": 86,
+      "article_number": "86",
+      "article_title": "Presumption as to electronic records and electronic signatures",
+      "file": "section_86.json"
+    },
+    {
+      "order": 87,
+      "article_number": "87",
+      "article_title": "Presumption as to Electronic Signature Certificates",
+      "file": "section_87.json"
+    },
+    {
+      "order": 88,
+      "article_number": "88",
+      "article_title": "Presumption as to certified copies of foreign judicial records",
+      "file": "section_88.json"
+    },
+    {
+      "order": 89,
+      "article_number": "89",
+      "article_title": "Presumption as to books, maps and charts",
+      "file": "section_89.json"
+    },
+    {
+      "order": 90,
+      "article_number": "90",
+      "article_title": "Presumption as to electronic messages",
+      "file": "section_90.json"
+    },
+    {
+      "order": 91,
+      "article_number": "91",
+      "article_title": "Presumption as to due execution, etc., of documents not produced",
+      "file": "section_91.json"
+    },
+    {
+      "order": 92,
+      "article_number": "92",
+      "article_title": "Presumption as to documents thirty years old",
+      "file": "section_92.json"
+    },
+    {
+      "order": 93,
+      "article_number": "93",
+      "article_title": "Presumption as to electronic records five years old",
+      "file": "section_93.json"
+    },
+    {
+      "order": 94,
+      "article_number": "94",
+      "article_title": "Evidence of terms of contracts, grants and other dispositions of property reduced to form of document",
+      "file": "section_94.json"
+    },
+    {
+      "order": 95,
+      "article_number": "95",
+      "article_title": "Exclusion of evidence of oral agreement",
+      "file": "section_95.json"
+    },
+    {
+      "order": 96,
+      "article_number": "96",
+      "article_title": "Exclusion of evidence to explain or amend ambiguous document",
+      "file": "section_96.json"
+    },
+    {
+      "order": 97,
+      "article_number": "97",
+      "article_title": "Exclusion of evidence against application of document to existing facts",
+      "file": "section_97.json"
+    },
+    {
+      "order": 98,
+      "article_number": "98",
+      "article_title": "Evidence as to document unmeaning in reference to existing facts",
+      "file": "section_98.json"
+    },
+    {
+      "order": 99,
+      "article_number": "99",
+      "article_title": "Evidence as to application of language which can apply to one only of several persons",
+      "file": "section_99.json"
+    },
+    {
+      "order": 100,
+      "article_number": "100",
+      "article_title": "Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies",
+      "file": "section_100.json"
+    },
+    {
+      "order": 101,
+      "article_number": "101",
+      "article_title": "Evidence as to meaning of illegible characters, etc.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 102,
+      "article_number": "102",
+      "article_title": "Who may give evidence of agreement varying terms of document",
+      "file": "section_102.json"
+    },
+    {
+      "order": 103,
+      "article_number": "103",
+      "article_title": "Saving of provisions of Indian Succession Act relating to wills",
+      "file": "section_103.json"
+    },
+    {
+      "order": 104,
+      "article_number": "104",
+      "article_title": "Burden of proof",
+      "file": "section_104.json"
+    },
+    {
+      "order": 105,
+      "article_number": "105",
+      "article_title": "On whom burden of proof lies",
+      "file": "section_105.json"
+    },
+    {
+      "order": 106,
+      "article_number": "106",
+      "article_title": "Burden of proof as to particular fact",
+      "file": "section_106.json"
+    },
+    {
+      "order": 107,
+      "article_number": "107",
+      "article_title": "Burden of proving fact to be proved to make evidence admissible",
+      "file": "section_107.json"
+    },
+    {
+      "order": 108,
+      "article_number": "108",
+      "article_title": "Burden of proving that case of accused comes within exceptions",
+      "file": "section_108.json"
+    },
+    {
+      "order": 109,
+      "article_number": "109",
+      "article_title": "Burden of proving fact especially within knowledge",
+      "file": "section_109.json"
+    },
+    {
+      "order": 110,
+      "article_number": "110",
+      "article_title": "Burden of proving death of person known to have been alive within thirty years",
+      "file": "section_110.json"
+    },
+    {
+      "order": 111,
+      "article_number": "111",
+      "article_title": "Burden of proving that person is alive who has not been heard of for seven years",
+      "file": "section_111.json"
+    },
+    {
+      "order": 112,
+      "article_number": "112",
+      "article_title": "Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent",
+      "file": "section_112.json"
+    },
+    {
+      "order": 113,
+      "article_number": "113",
+      "article_title": "Burden of proof as to ownership",
+      "file": "section_113.json"
+    },
+    {
+      "order": 114,
+      "article_number": "114",
+      "article_title": "Proof of good faith in transactions where one party is in relation of active confidence",
+      "file": "section_114.json"
+    },
+    {
+      "order": 115,
+      "article_number": "115",
+      "article_title": "Presumption as to certain offences",
+      "file": "section_115.json"
+    },
+    {
+      "order": 116,
+      "article_number": "116",
+      "article_title": "Birth during marriage, conclusive proof of legitimacy",
+      "file": "section_116.json"
+    },
+    {
+      "order": 117,
+      "article_number": "117",
+      "article_title": "Presumption as to abetment of suicide by a married woman",
+      "file": "section_117.json"
+    },
+    {
+      "order": 118,
+      "article_number": "118",
+      "article_title": "Presumption as to dowry death",
+      "file": "section_118.json"
+    },
+    {
+      "order": 119,
+      "article_number": "119",
+      "article_title": "Court may presume existence of certain facts",
+      "file": "section_119.json"
+    },
+    {
+      "order": 120,
+      "article_number": "120",
+      "article_title": "Presumption as to absence of consent in certain prosecution for rape",
+      "file": "section_120.json"
+    },
+    {
+      "order": 121,
+      "article_number": "121",
+      "article_title": "Estoppel",
+      "file": "section_121.json"
+    },
+    {
+      "order": 122,
+      "article_number": "122",
+      "article_title": "Estoppel of tenant and of licensee of person in possession",
+      "file": "section_122.json"
+    },
+    {
+      "order": 123,
+      "article_number": "123",
+      "article_title": "Estoppel of acceptor of bill of exchange, bailee or licensee",
+      "file": "section_123.json"
+    },
+    {
+      "order": 124,
+      "article_number": "124",
+      "article_title": "Who may testify",
+      "file": "section_124.json"
+    },
+    {
+      "order": 125,
+      "article_number": "125",
+      "article_title": "Witness unable to communicate verbally",
+      "file": "section_125.json"
+    },
+    {
+      "order": 126,
+      "article_number": "126",
+      "article_title": "Competency of husband and wife as witnesses in certain cases",
+      "file": "section_126.json"
+    },
+    {
+      "order": 127,
+      "article_number": "127",
+      "article_title": "Judges and Magistrates",
+      "file": "section_127.json"
+    },
+    {
+      "order": 128,
+      "article_number": "128",
+      "article_title": "Communications during marriage",
+      "file": "section_128.json"
+    },
+    {
+      "order": 129,
+      "article_number": "129",
+      "article_title": "Evidence as to affairs of State",
+      "file": "section_129.json"
+    },
+    {
+      "order": 130,
+      "article_number": "130",
+      "article_title": "Official communications",
+      "file": "section_130.json"
+    },
+    {
+      "order": 131,
+      "article_number": "131",
+      "article_title": "Information as to commission of offences",
+      "file": "section_131.json"
+    },
+    {
+      "order": 132,
+      "article_number": "132",
+      "article_title": "Professional communications",
+      "file": "section_132.json"
+    },
+    {
+      "order": 133,
+      "article_number": "133",
+      "article_title": "Privilege not waived by volunteering evidence",
+      "file": "section_133.json"
+    },
+    {
+      "order": 134,
+      "article_number": "134",
+      "article_title": "Confidential communication with legal advisers",
+      "file": "section_134.json"
+    },
+    {
+      "order": 135,
+      "article_number": "135",
+      "article_title": "Production of title-deeds of witness not a party",
+      "file": "section_135.json"
+    },
+    {
+      "order": 136,
+      "article_number": "136",
+      "article_title": "Production of documents or electronic records which another person, having possession, could refuse to produce",
+      "file": "section_136.json"
+    },
+    {
+      "order": 137,
+      "article_number": "137",
+      "article_title": "Witness not excused from answering on ground that answer will criminate",
+      "file": "section_137.json"
+    },
+    {
+      "order": 138,
+      "article_number": "138",
+      "article_title": "Accomplice",
+      "file": "section_138.json"
+    },
+    {
+      "order": 139,
+      "article_number": "139",
+      "article_title": "Number of witnesses",
+      "file": "section_139.json"
+    },
+    {
+      "order": 140,
+      "article_number": "140",
+      "article_title": "Order of production and examination of witnesses",
+      "file": "section_140.json"
+    },
+    {
+      "order": 141,
+      "article_number": "141",
+      "article_title": "Judge to decide as to admissibility of evidence",
+      "file": "section_141.json"
+    },
+    {
+      "order": 142,
+      "article_number": "142",
+      "article_title": "Examination of witnesses",
+      "file": "section_142.json"
+    },
+    {
+      "order": 143,
+      "article_number": "143",
+      "article_title": "Order of examinations",
+      "file": "section_143.json"
+    },
+    {
+      "order": 144,
+      "article_number": "144",
+      "article_title": "Cross examination of person called to produce a document",
+      "file": "section_144.json"
+    },
+    {
+      "order": 145,
+      "article_number": "145",
+      "article_title": "Witnesses to character",
+      "file": "section_145.json"
+    },
+    {
+      "order": 146,
+      "article_number": "146",
+      "article_title": "Leading questions",
+      "file": "section_146.json"
+    },
+    {
+      "order": 147,
+      "article_number": "147",
+      "article_title": "Evidence as to matters in writing",
+      "file": "section_147.json"
+    },
+    {
+      "order": 148,
+      "article_number": "148",
+      "article_title": "Cross examination as to previous statements in writing",
+      "file": "section_148.json"
+    },
+    {
+      "order": 149,
+      "article_number": "149",
+      "article_title": "Questions lawful in cross examination",
+      "file": "section_149.json"
+    },
+    {
+      "order": 150,
+      "article_number": "150",
+      "article_title": "When witness to be compelled to answer",
+      "file": "section_150.json"
+    },
+    {
+      "order": 151,
+      "article_number": "151",
+      "article_title": "Court to decide when question shall be asked and when witness compelled to answer",
+      "file": "section_151.json"
+    },
+    {
+      "order": 152,
+      "article_number": "152",
+      "article_title": "Question not to be asked without reasonable grounds",
+      "file": "section_152.json"
+    },
+    {
+      "order": 153,
+      "article_number": "153",
+      "article_title": "Procedure of Court in case of question being asked without reasonable grounds",
+      "file": "section_153.json"
+    },
+    {
+      "order": 154,
+      "article_number": "154",
+      "article_title": "Indecent and scandalous questions",
+      "file": "section_154.json"
+    },
+    {
+      "order": 155,
+      "article_number": "155",
+      "article_title": "Questions intended to insult or annoy",
+      "file": "section_155.json"
+    },
+    {
+      "order": 156,
+      "article_number": "156",
+      "article_title": "Exclusion of evidence to contradict answers to questions testing veracity",
+      "file": "section_156.json"
+    },
+    {
+      "order": 157,
+      "article_number": "157",
+      "article_title": "Question by party to his own witness",
+      "file": "section_157.json"
+    },
+    {
+      "order": 158,
+      "article_number": "158",
+      "article_title": "Impeaching credit of witness",
+      "file": "section_158.json"
+    },
+    {
+      "order": 159,
+      "article_number": "159",
+      "article_title": "Questions tending to corroborate evidence of relevant fact, admissible",
+      "file": "section_159.json"
+    },
+    {
+      "order": 160,
+      "article_number": "160",
+      "article_title": "Former statements of witness may be proved to corroborate later testimony as to same fact",
+      "file": "section_160.json"
+    },
+    {
+      "order": 161,
+      "article_number": "161",
+      "article_title": "What matters may be proved in connection with proved statement relevant under section 26 or 27",
+      "file": "section_161.json"
+    },
+    {
+      "order": 162,
+      "article_number": "162",
+      "article_title": "Refreshing memory",
+      "file": "section_162.json"
+    },
+    {
+      "order": 163,
+      "article_number": "163",
+      "article_title": "Testimony to facts stated in document mentioned in section 162",
+      "file": "section_163.json"
+    },
+    {
+      "order": 164,
+      "article_number": "164",
+      "article_title": "Right of adverse party as to writing used to refresh memory",
+      "file": "section_164.json"
+    },
+    {
+      "order": 165,
+      "article_number": "165",
+      "article_title": "Production of documents",
+      "file": "section_165.json"
+    },
+    {
+      "order": 166,
+      "article_number": "166",
+      "article_title": "Giving, as evidence, of document called for and produced on notice",
+      "file": "section_166.json"
+    },
+    {
+      "order": 167,
+      "article_number": "167",
+      "article_title": "Using, as evidence, of document production of which was refused on notice",
+      "file": "section_167.json"
+    },
+    {
+      "order": 168,
+      "article_number": "168",
+      "article_title": "Judge’s power to put questions or order production",
+      "file": "section_168.json"
+    },
+    {
+      "order": 169,
+      "article_number": "169",
+      "article_title": "No new trial for improper admission or rejection of evidence",
+      "file": "section_169.json"
+    },
+    {
+      "order": 170,
+      "article_number": "170",
+      "article_title": "Repeal and savings",
+      "file": "section_170.json"
+    },
+    {
+      "order": 171,
+      "article_number": "schedule",
+      "article_title": "Certificate [See section 63(4)(c)]",
+      "file": "section_schedule.json"
+    }
+  ]
+}

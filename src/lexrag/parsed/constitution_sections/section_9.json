@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-02.html",
+    "source_order": 2,
+    "article_order": 5,
+    "order": 10,
+    "stem": "section_9",
+    "heading_number": "Part II",
+    "heading_title": "Citizenship",
+    "heading_range": "5 – 11",
+    "heading_source": "group-head",
+    "article_number": "9",
+    "article_title": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens"
+  },
+  "id": "constitution_section_9",
+  "heading": {
+    "number": "Part II",
+    "title": "Citizenship",
+    "range": "5 – 11"
+  },
+  "article": {
+    "number": "9",
+    "title": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens",
+    "content": "9Persons voluntarily acquiring citizenship of a foreign State not to be citizens\n\nArticle 9 · Part II\nNo person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.\n\n",
+    "html": "<article class=\"provision\" data-n=\"9\" data-report=\"Article 9 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Persons voluntarily acquiring citizenship of a foreign State not to be citizens</h3></div><p class=\"prov-cite\">Article 9 · Part II</p><div class=\"prov-body\"><p>No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Persons voluntarily acquiring citizenship of a foreign State not to be citizens</h3></div><p class=\"prov-cite\">Article 9 · Part II</p><div class=\"prov-body\"><p>No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-12.html",
+    "source_order": 12,
+    "article_order": 11,
+    "order": 154,
+    "stem": "section_131",
+    "heading_number": "Part III · Chapter IV",
+    "heading_title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "heading_range": "ss. 121–148",
+    "heading_source": "group-head",
+    "article_number": "131",
+    "article_title": "Registration of claims."
+  },
+  "id": "insolvency_section_131",
+  "heading": {
+    "number": "Part III · Chapter IV",
+    "title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "range": "ss. 121–148"
+  },
+  "article": {
+    "number": "131",
+    "title": "Registration of claims.",
+    "content": "131Registration of claims.\n\nSection 131  ·  Part III · Chapter IV  ·  page 108 of the Act\n(1) The creditors shall register claims with the bankruptcy trustee within seven days of the publication of the public notice, by sending details of the claims to the bankruptcy trustee in such manner as may be prescribed.\n(2) The creditor, in addition to the details of his claims, shall provide such other information and in such manner as may be prescribed.\n\n",
+    "html": "<article class=\"provision\" data-n=\"131\" data-report=\"Section 131 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Registration of claims.</h3></div><p class=\"prov-cite\">Section 131  ·  Part III · Chapter IV  ·  page 108 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The creditors shall register claims with the bankruptcy trustee within seven days of the publication of the public notice, by sending details of the claims to the bankruptcy trustee in such manner as may be prescribed.</p><p class=\"lvl\">(2) The creditor, in addition to the details of his claims, shall provide such other information and in such manner as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Registration of claims.</h3></div><p class=\"prov-cite\">Section 131  ·  Part III · Chapter IV  ·  page 108 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The creditors shall register claims with the bankruptcy trustee within seven days of the publication of the public notice, by sending details of the claims to the bankruptcy trustee in such manner as may be prescribed.</p><p class=\"lvl\">(2) The creditor, in addition to the details of his claims, shall provide such other information and in such manner as may be prescribed.</p></div>"
+  }
+}

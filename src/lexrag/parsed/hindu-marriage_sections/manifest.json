@@ -1,0 +1,230 @@
+{
+  "act": "hindu-marriage",
+  "source_directory": "src/lexrag/scrapped/hindu-marriage_sections",
+  "output_directory": "src/lexrag/parsed/hindu-marriage_sections",
+  "count": 37,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title and extent.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Application of Act.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Definitions.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Overriding effect of Act.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Conditions for a Hindu marriage.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "[Guardianship in marriage.]",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Ceremonies for a Hindu marriage.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Registration of Hindu marriages.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Restitution of conjugal right.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Judicial separation.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Void marriages.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Voidable marriages.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Divorce.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "13A",
+      "article_title": "3 [Alternate relief in divorce proceedings.",
+      "file": "section_13A.json"
+    },
+    {
+      "order": 15,
+      "article_number": "13B",
+      "article_title": "Divorce by mutual consent.",
+      "file": "section_13B.json"
+    },
+    {
+      "order": 16,
+      "article_number": "14",
+      "article_title": "No petition for divorce to be presented within one year of marriage.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 17,
+      "article_number": "15",
+      "article_title": "Divorced persons when may marry again.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 18,
+      "article_number": "16",
+      "article_title": "8 [Legitimacy of children of void and voidable marriages.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 19,
+      "article_number": "17",
+      "article_title": "Punishment of bigamy.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 20,
+      "article_number": "18",
+      "article_title": "Punishment for contravention of certain other conditions for a Hindu marriage.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 21,
+      "article_number": "19",
+      "article_title": "5 [Court to which petition shall be presented.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 22,
+      "article_number": "20",
+      "article_title": "Contents and verification of petitions.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 23,
+      "article_number": "21",
+      "article_title": "Application of Act 5 of 1908.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 24,
+      "article_number": "21A",
+      "article_title": "1 [Power to transfer petitions in certain cases.",
+      "file": "section_21A.json"
+    },
+    {
+      "order": 25,
+      "article_number": "21B",
+      "article_title": "Special provision relating to trial and disposal of petitions under the Act.",
+      "file": "section_21B.json"
+    },
+    {
+      "order": 26,
+      "article_number": "21C",
+      "article_title": "Documentary evidence.",
+      "file": "section_21C.json"
+    },
+    {
+      "order": 27,
+      "article_number": "22",
+      "article_title": "2 [Proceedings to be in camera and may not be printed or published.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 28,
+      "article_number": "23",
+      "article_title": "Decree in proceedings.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 29,
+      "article_number": "23A",
+      "article_title": "5 [Relief for respondent in divorce and other proceedings.",
+      "file": "section_23A.json"
+    },
+    {
+      "order": 30,
+      "article_number": "24",
+      "article_title": "Maintenance pendente lite and expenses of proceedings.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 31,
+      "article_number": "25",
+      "article_title": "Permanent alimony and maintenance.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 32,
+      "article_number": "26",
+      "article_title": "Custody of children.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 33,
+      "article_number": "27",
+      "article_title": "Disposal of property.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 34,
+      "article_number": "28",
+      "article_title": "4 [Appeals from decrees and orders.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 35,
+      "article_number": "28A",
+      "article_title": "Enforcement of decrees and orders.",
+      "file": "section_28A.json"
+    },
+    {
+      "order": 36,
+      "article_number": "29",
+      "article_title": "Savings.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 37,
+      "article_number": "30",
+      "article_title": "[Repeals]",
+      "file": "section_30.json"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-11.html",
+    "source_order": 11,
+    "article_order": 1,
+    "order": 130,
+    "stem": "section_121",
+    "heading_number": "Part X",
+    "heading_title": "Rules",
+    "heading_range": "ss. 121–131",
+    "heading_source": "group-head",
+    "article_number": "121",
+    "article_title": "Effect of rules in First Schedule."
+  },
+  "id": "cpc_section_121",
+  "heading": {
+    "number": "Part X",
+    "title": "Rules",
+    "range": "ss. 121–131"
+  },
+  "article": {
+    "number": "121",
+    "title": "Effect of rules in First Schedule.",
+    "content": "121Effect of rules in First Schedule.\n\nSection 121\nThe rules in a First Schedule shall have effect as if enacted in the body of this Code until annulled or altered in accordance with the provisions of this Part.\n\n",
+    "html": "<article class=\"provision\" data-n=\"121\" data-report=\"Section 121 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">121</span>Effect of rules in First Schedule.</h3></div><p class=\"prov-cite\">Section 121</p><div class=\"prov-body\"><p>The rules in a First Schedule shall have effect as if enacted in the body of this Code until annulled or altered in accordance with the provisions of this Part.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">121</span>Effect of rules in First Schedule.</h3></div><p class=\"prov-cite\">Section 121</p><div class=\"prov-body\"><p>The rules in a First Schedule shall have effect as if enacted in the body of this Code until annulled or altered in accordance with the provisions of this Part.</p></div>"
+  }
+}

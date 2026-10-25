@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "dpdp",
+    "document_title": null,
+    "source_file": "dpdp_sections/section-15.html",
+    "source_order": 15,
+    "article_order": 1,
+    "order": 15,
+    "stem": "section_15",
+    "heading_number": "Chapter III",
+    "heading_title": "Rights and Duties of Data Principal",
+    "heading_range": "ss. 11–15",
+    "heading_source": "manifest",
+    "article_number": "15",
+    "article_title": "Duties of Data Principal."
+  },
+  "id": "dpdp_section_15",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Rights and Duties of Data Principal",
+    "range": "ss. 11–15"
+  },
+  "article": {
+    "number": "15",
+    "title": "Duties of Data Principal.",
+    "content": "15Duties of Data Principal.\n\nSection 15  ·  Chapter III  ·  pages 13–14 of the Act\nA Data Principal shall perform the following duties, namely:—\n(a) comply with the provisions of all applicable laws for the time being in force while exercising rights under the provisions of this Act;\n(b) to ensure not to impersonate another person while providing her personal data for a specified purpose;\n(c) to ensure not to suppress any material information while providing her personal data for any document, unique identifier, proof of identity or proof of address issued by the State or any of its instrumentalities;\n(d) to ensure not to register a false or frivolous grievance or complaint with a Data Fiduciary or the Board; and\n(e) to furnish only such information as is verifiably authentic, while exercising the right to correction or erasure under the provisions of this Act or the rules made thereunder.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Duties of Data Principal.</h3></div><p class=\"prov-cite\">Section 15  ·  Chapter III  ·  pages 13–14 of the Act</p><div class=\"prov-body\"><p>A Data Principal shall perform the following duties, namely:—</p><p class=\"lvl\">(a) comply with the provisions of all applicable laws for the time being in force while exercising rights under the provisions of this Act;</p><p class=\"lvl\">(b) to ensure not to impersonate another person while providing her personal data for a specified purpose;</p><p class=\"lvl\">(c) to ensure not to suppress any material information while providing her personal data for any document, unique identifier, proof of identity or proof of address issued by the State or any of its instrumentalities;</p><p class=\"lvl\">(d) to ensure not to register a false or frivolous grievance or complaint with a Data Fiduciary or the Board; and</p><p class=\"lvl\">(e) to furnish only such information as is verifiably authentic, while exercising the right to correction or erasure under the provisions of this Act or the rules made thereunder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Duties of Data Principal.</h3></div><p class=\"prov-cite\">Section 15  ·  Chapter III  ·  pages 13–14 of the Act</p><div class=\"prov-body\"><p>A Data Principal shall perform the following duties, namely:—</p><p class=\"lvl\">(a) comply with the provisions of all applicable laws for the time being in force while exercising rights under the provisions of this Act;</p><p class=\"lvl\">(b) to ensure not to impersonate another person while providing her personal data for a specified purpose;</p><p class=\"lvl\">(c) to ensure not to suppress any material information while providing her personal data for any document, unique identifier, proof of identity or proof of address issued by the State or any of its instrumentalities;</p><p class=\"lvl\">(d) to ensure not to register a false or frivolous grievance or complaint with a Data Fiduciary or the Board; and</p><p class=\"lvl\">(e) to furnish only such information as is verifiably authentic, while exercising the right to correction or erasure under the provisions of this Act or the rules made thereunder.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 5,
+    "order": 456,
+    "stem": "section_O20R5",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R5",
+    "article_title": "Court to state its decision on each issue."
+  },
+  "id": "cpc_section_O20R5",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R5",
+    "title": "Court to state its decision on each issue.",
+    "content": "5Court to state its decision on each issue.\n\nOrder 20, Rule 5\nIn suits in which issues have been framed, the Court shall state its finding or decision, with the reasons therefor, upon each separate issue, unless the finding upon any one or more of the issue is sufficient for the decision of the suit.\n\nThe provisions of rules 1, 3, 4 and 5 are not applicable to the Chief Court of Oudh, see the Oudh Courts Act, 1925 (U. P. Act 4 of 1925), s. 16 (2).\n\n",
+    "html": "<article class=\"provision\" data-n=\"O20R5\" data-report=\"Order 20, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Court to state its decision on each issue.</h3></div><p class=\"prov-cite\">Order 20, Rule 5</p><div class=\"prov-body\"><p>In suits in which issues have been framed, the Court shall state its finding or decision, with the reasons therefor, upon each separate issue, unless the finding upon any one or more of the issue is sufficient for the decision of the suit.</p></div><div class=\"fnotes shown\"><p class=\"fn loose\">The provisions of rules 1, 3, 4 and 5 are not applicable to the Chief Court of Oudh, see the Oudh Courts Act, 1925 (U. P. Act 4 of 1925), s. 16 (2).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Court to state its decision on each issue.</h3></div><p class=\"prov-cite\">Order 20, Rule 5</p><div class=\"prov-body\"><p>In suits in which issues have been framed, the Court shall state its finding or decision, with the reasons therefor, upon each separate issue, unless the finding upon any one or more of the issue is sufficient for the decision of the suit.</p></div><div class=\"fnotes shown\"><p class=\"fn loose\">The provisions of rules 1, 3, 4 and 5 are not applicable to the Chief Court of Oudh, see the Oudh Courts Act, 1925 (U. P. Act 4 of 1925), s. 16 (2).</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-27.html",
+    "source_order": 27,
+    "article_order": 8,
+    "order": 375,
+    "stem": "section_O13AR8",
+    "heading_number": "Order XIIIA",
+    "heading_title": "Summary Judgment",
+    "heading_range": "8 rules",
+    "heading_source": "group-head",
+    "article_number": "O13AR8",
+    "article_title": "Power to impose costs."
+  },
+  "id": "cpc_section_O13AR8",
+  "heading": {
+    "number": "Order XIIIA",
+    "title": "Summary Judgment",
+    "range": "8 rules"
+  },
+  "article": {
+    "number": "O13AR8",
+    "title": "Power to impose costs.",
+    "content": "8Power to impose costs.\n\nOrder 13A, Rule 8\nThe Court may make an order for payment of costs in an application for summary judgment in accordance with the provisions of sections 35 and 35A of the Code.]\n\n",
+    "html": "<article class=\"provision\" data-n=\"O13AR8\" data-report=\"Order 13A, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Power to impose costs.</h3></div><p class=\"prov-cite\">Order 13A, Rule 8</p><div class=\"prov-body\"><p>The Court may make an order for payment of costs in an application for summary judgment in accordance with the provisions of sections 35 and 35A of the Code.]</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Power to impose costs.</h3></div><p class=\"prov-cite\">Order 13A, Rule 8</p><div class=\"prov-body\"><p>The Court may make an order for payment of costs in an application for summary judgment in accordance with the provisions of sections 35 and 35A of the Code.]</p></div>"
+  }
+}

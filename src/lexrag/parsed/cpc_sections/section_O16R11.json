@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-31.html",
+    "source_order": 31,
+    "article_order": 13,
+    "order": 407,
+    "stem": "section_O16R11",
+    "heading_number": "Order XVI",
+    "heading_title": "Summoning and Attendance of Witnesses",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O16R11",
+    "article_title": "If witness appears, attachment may be withdrawn."
+  },
+  "id": "cpc_section_O16R11",
+  "heading": {
+    "number": "Order XVI",
+    "title": "Summoning and Attendance of Witnesses",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O16R11",
+    "title": "If witness appears, attachment may be withdrawn.",
+    "content": "11If witness appears, attachment may be withdrawn.\n\nOrder 16, Rule 11\nWhere, at any time after the attachment of his property, such person appears and satisfies the Court,—\n(a) that he did not, without lawful excuse, fail to comply with the summons or intentionally avoid service, and\n(b) where he has failed to attend at the time and place named in a proclamation issued under the last preceding rule, that he had no notice of such proclamation in time to attend,\nthe Court shall direct that the property be released from attachment, and shall make such order as to the costs of the attachment as it thinks fit.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O16R11\" data-report=\"Order 16, Rule 11 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>If witness appears, attachment may be withdrawn.</h3></div><p class=\"prov-cite\">Order 16, Rule 11</p><div class=\"prov-body\"><p>Where, at any time after the attachment of his property, such person appears and satisfies the Court,—</p><p class=\"lvl\">(a) that he did not, without lawful excuse, fail to comply with the summons or intentionally avoid service, and</p><p class=\"lvl\">(b) where he has failed to attend at the time and place named in a proclamation issued under the last preceding rule, that he had no notice of such proclamation in time to attend,</p><p>the Court shall direct that the property be released from attachment, and shall make such order as to the costs of the attachment as it thinks fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>If witness appears, attachment may be withdrawn.</h3></div><p class=\"prov-cite\">Order 16, Rule 11</p><div class=\"prov-body\"><p>Where, at any time after the attachment of his property, such person appears and satisfies the Court,—</p><p class=\"lvl\">(a) that he did not, without lawful excuse, fail to comply with the summons or intentionally avoid service, and</p><p class=\"lvl\">(b) where he has failed to attend at the time and place named in a proclamation issued under the last preceding rule, that he had no notice of such proclamation in time to attend,</p><p>the Court shall direct that the property be released from attachment, and shall make such order as to the costs of the attachment as it thinks fit.</p></div>"
+  }
+}

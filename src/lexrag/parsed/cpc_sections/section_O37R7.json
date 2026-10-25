@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-56.html",
+    "source_order": 56,
+    "article_order": 7,
+    "order": 771,
+    "stem": "section_O37R7",
+    "heading_number": "Order XXXVII",
+    "heading_title": "Summary Procedure 2***",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O37R7",
+    "article_title": "Procedure in suits."
+  },
+  "id": "cpc_section_O37R7",
+  "heading": {
+    "number": "Order XXXVII",
+    "title": "Summary Procedure 2***",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O37R7",
+    "title": "Procedure in suits.",
+    "content": "7Procedure in suits.\n\nOrder 37, Rule 7\nSave as provided by this Order, the procedure in suits hereunder shall be the same as the procedure in suits instituted in the ordinary manner.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O37R7\" data-report=\"Order 37, Rule 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Procedure in suits.</h3></div><p class=\"prov-cite\">Order 37, Rule 7</p><div class=\"prov-body\"><p>Save as provided by this Order, the procedure in suits hereunder shall be the same as the procedure in suits instituted in the ordinary manner.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Procedure in suits.</h3></div><p class=\"prov-cite\">Order 37, Rule 7</p><div class=\"prov-body\"><p>Save as provided by this Order, the procedure in suits hereunder shall be the same as the procedure in suits instituted in the ordinary manner.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-03.html",
+    "source_order": 3,
+    "article_order": 11,
+    "order": 24,
+    "stem": "section_24",
+    "heading_number": "Chapter III",
+    "heading_title": "General Exceptions",
+    "heading_range": "14 – 44",
+    "heading_source": "group-head",
+    "article_number": "24",
+    "article_title": "Offence requiring a particular intent or knowledge committed by one who is intoxicated"
+  },
+  "id": "bns_section_24",
+  "heading": {
+    "number": "Chapter III",
+    "title": "General Exceptions",
+    "range": "14 – 44"
+  },
+  "article": {
+    "number": "24",
+    "title": "Offence requiring a particular intent or knowledge committed by one who is intoxicated",
+    "content": "24Offence requiring a particular intent or knowledge committed by one who is intoxicated\n\nSection 24 · Chapter III\nIn cases where an act done is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.\n\n",
+    "html": "<article class=\"provision\" data-n=\"24\" data-report=\"Section 24 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Offence requiring a particular intent or knowledge committed by one who is intoxicated</h3></div><p class=\"prov-cite\">Section 24 · Chapter III</p><div class=\"prov-body\"><p>In cases where an act done is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Offence requiring a particular intent or knowledge committed by one who is intoxicated</h3></div><p class=\"prov-cite\">Section 24 · Chapter III</p><div class=\"prov-body\"><p>In cases where an act done is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.</p></div>"
+  }
+}

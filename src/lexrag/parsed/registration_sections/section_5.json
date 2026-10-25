@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "registration",
+    "document_title": null,
+    "source_file": "registration_sections/section-5.html",
+    "source_order": 5,
+    "article_order": 1,
+    "order": 5,
+    "stem": "section_5",
+    "heading_number": "Part II",
+    "heading_title": "Of the Registration-establishment",
+    "heading_range": "ss. 3–16A",
+    "heading_source": "manifest",
+    "article_number": "5",
+    "article_title": "Districts and sub-districts."
+  },
+  "id": "registration_section_5",
+  "heading": {
+    "number": "Part II",
+    "title": "Of the Registration-establishment",
+    "range": "ss. 3–16A"
+  },
+  "article": {
+    "number": "5",
+    "title": "Districts and sub-districts.",
+    "content": "5Districts and sub-districts.\n\nSection 5  ·  Part II  ·  page 6 of the Act\n(1) For the purposes of this Act, the 1[State Government] shall form districts and sub-districts, and shall prescribe, and may alter, the limits of such districts and sub-districts.\n(2) The districts and sub-districts formed under this section, together with the limits thereof, and every alternation of such limits, shall be notified in the 3[Official Gazette].\n(3) Every such alternation shall take effect on such day after the date of the notification as is therein mentioned.\nNote: on page 6 the marker 3 answers to footnote 4 (the page prints no footnote 3).\n1 Subs. by the A.O. 1950, for “Provincial Government”.\nSubs. by the A.O. 1937, for “Local Official Gazette”.\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Districts and sub-districts.</h3></div><p class=\"prov-cite\">Section 5  ·  Part II  ·  page 6 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) For the purposes of this Act, the <sup>1</sup>[State Government] shall form districts and sub-districts, and shall prescribe, and may alter, the limits of such districts and sub-districts.</p><p class=\"lvl\">(2) The districts and sub-districts formed under this section, together with the limits thereof, and every alternation of such limits, shall be notified in the <sup>3</sup>[Official Gazette].</p><p class=\"lvl\">(3) Every such alternation shall take effect on such day after the date of the notification as is therein mentioned.</p><p class=\"snote\">Note: on page 6 the marker 3 answers to footnote 4 (the page prints no footnote 3).</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by the A.O. 1950, for “Provincial Government”.</p><p class=\"fn loose\">Subs. by the A.O. 1937, for “Local Official Gazette”.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Districts and sub-districts.</h3></div><p class=\"prov-cite\">Section 5  ·  Part II  ·  page 6 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) For the purposes of this Act, the <sup>1</sup>[State Government] shall form districts and sub-districts, and shall prescribe, and may alter, the limits of such districts and sub-districts.</p><p class=\"lvl\">(2) The districts and sub-districts formed under this section, together with the limits thereof, and every alternation of such limits, shall be notified in the <sup>3</sup>[Official Gazette].</p><p class=\"lvl\">(3) Every such alternation shall take effect on such day after the date of the notification as is therein mentioned.</p><p class=\"snote\">Note: on page 6 the marker 3 answers to footnote 4 (the page prints no footnote 3).</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by the A.O. 1950, for “Provincial Government”.</p><p class=\"fn loose\">Subs. by the A.O. 1937, for “Local Official Gazette”.</p></div></div>"
+  }
+}

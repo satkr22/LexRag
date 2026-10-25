@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-19.html",
+    "source_order": 19,
+    "article_order": 8,
+    "order": 263,
+    "stem": "section_O7R8",
+    "heading_number": "Order VII",
+    "heading_title": "Plaint",
+    "heading_range": "20 rules",
+    "heading_source": "group-head",
+    "article_number": "O7R8",
+    "article_title": "Relief founded on separate grounds."
+  },
+  "id": "cpc_section_O7R8",
+  "heading": {
+    "number": "Order VII",
+    "title": "Plaint",
+    "range": "20 rules"
+  },
+  "article": {
+    "number": "O7R8",
+    "title": "Relief founded on separate grounds.",
+    "content": "8Relief founded on separate grounds.\n\nOrder 7, Rule 8\nWhere the plaintiff seeks relief in respect of several distinct claims or causes of action founded upon separate and distinct grounds, they shall be stated as far as may be separately and distinctly.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O7R8\" data-report=\"Order 7, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Relief founded on separate grounds.</h3></div><p class=\"prov-cite\">Order 7, Rule 8</p><div class=\"prov-body\"><p>Where the plaintiff seeks relief in respect of several distinct claims or causes of action founded upon separate and distinct grounds, they shall be stated as far as may be separately and distinctly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Relief founded on separate grounds.</h3></div><p class=\"prov-cite\">Order 7, Rule 8</p><div class=\"prov-body\"><p>Where the plaintiff seeks relief in respect of several distinct claims or causes of action founded upon separate and distinct grounds, they shall be stated as far as may be separately and distinctly.</p></div>"
+  }
+}

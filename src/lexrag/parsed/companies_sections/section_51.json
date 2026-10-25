@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 9,
+    "order": 53,
+    "stem": "section_51",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "51",
+    "article_title": "Payment of dividend in proportion to amount paid-up."
+  },
+  "id": "companies_section_51",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "51",
+    "title": "Payment of dividend in proportion to amount paid-up.",
+    "content": "51Payment of dividend in proportion to amount paid-up.\n\nSection 51  ·  Chapter IV  ·  page 48 of the Act\nA company may, if so authorised by its articles, pay dividends in proportion to the amount paid-up on each share.\n\n",
+    "html": "<article class=\"provision\" data-n=\"51\" data-report=\"Section 51 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Payment of dividend in proportion to amount paid-up.</h3></div><p class=\"prov-cite\">Section 51  ·  Chapter IV  ·  page 48 of the Act</p><div class=\"prov-body\"><p>A company may, if so authorised by its articles, pay dividends in proportion to the amount paid-up on each share.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Payment of dividend in proportion to amount paid-up.</h3></div><p class=\"prov-cite\">Section 51  ·  Chapter IV  ·  page 48 of the Act</p><div class=\"prov-body\"><p>A company may, if so authorised by its articles, pay dividends in proportion to the amount paid-up on each share.</p></div>"
+  }
+}

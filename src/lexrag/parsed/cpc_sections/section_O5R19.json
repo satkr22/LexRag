@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-17.html",
+    "source_order": 17,
+    "article_order": 20,
+    "order": 222,
+    "stem": "section_O5R19",
+    "heading_number": "Order V",
+    "heading_title": "Issue and service of summons",
+    "heading_range": "34 rules",
+    "heading_source": "group-head",
+    "article_number": "O5R19",
+    "article_title": "Examination of serving officer."
+  },
+  "id": "cpc_section_O5R19",
+  "heading": {
+    "number": "Order V",
+    "title": "Issue and service of summons",
+    "range": "34 rules"
+  },
+  "article": {
+    "number": "O5R19",
+    "title": "Examination of serving officer.",
+    "content": "19Examination of serving officer.\n\nOrder 5, Rule 19\nWhere a summons is returned under rule 17, the Court shall, if the return under that rule has not been verified by the affidavit of the serving officer, and may, if it has been so verified, examine the serving officer on oath, or cause him to be so examined by another Court, touching his proceedings, and may make such further enquiry in the matter as it thinks fit; and shall either declare that the summons has been duly served or order such service as it thinks fit.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O5R19\" data-report=\"Order 5, Rule 19 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Examination of serving officer.</h3></div><p class=\"prov-cite\">Order 5, Rule 19</p><div class=\"prov-body\"><p>Where a summons is returned under rule 17, the Court shall, if the return under that rule has not been verified by the affidavit of the serving officer, and may, if it has been so verified, examine the serving officer on oath, or cause him to be so examined by another Court, touching his proceedings, and may make such further enquiry in the matter as it thinks fit; and shall either declare that the summons has been duly served or order such service as it thinks fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Examination of serving officer.</h3></div><p class=\"prov-cite\">Order 5, Rule 19</p><div class=\"prov-body\"><p>Where a summons is returned under rule 17, the Court shall, if the return under that rule has not been verified by the affidavit of the serving officer, and may, if it has been so verified, examine the serving officer on oath, or cause him to be so examined by another Court, touching his proceedings, and may make such further enquiry in the matter as it thinks fit; and shall either declare that the summons has been duly served or order such service as it thinks fit.</p></div>"
+  }
+}

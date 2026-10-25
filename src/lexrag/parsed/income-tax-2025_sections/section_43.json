@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-04a.html",
+    "source_order": 4,
+    "article_order": 31,
+    "order": 43,
+    "stem": "section_43",
+    "heading_number": "Chapter IV",
+    "heading_title": "Computation of Total Income",
+    "heading_range": "ss. 13–95",
+    "heading_source": "group-head",
+    "article_number": "43",
+    "article_title": "Taxation of foreign exchange fluctuation."
+  },
+  "id": "income-tax-2025_section_43",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Computation of Total Income",
+    "range": "ss. 13–95"
+  },
+  "article": {
+    "number": "43",
+    "title": "Taxation of foreign exchange fluctuation.",
+    "content": "43Taxation of foreign exchange fluctuation.\n\nSection 43  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 62 of the Act\n(1) Subject to the provisions of section 42, any gain or loss arising on account of change in foreign exchange rates on foreign currency transactions shall be treated as income or loss, as the case may be, and shall be computed as per the income computation and disclosure standards notified under section 276(2).\n(2) The provisions of sub-section (1) shall be applicable to all foreign currency transactions, including those relating to—\n(a) monetary items and non-monetary items;\n(b) translation of financial statements of foreign operations;\n(c) forward exchange contracts; and\n(d) foreign currency translation reserves.\n\n",
+    "html": "<article class=\"provision\" data-n=\"43\" data-report=\"Section 43 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Taxation of foreign exchange fluctuation.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 62 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of section 42, any gain or loss arising on account of change in foreign exchange rates on foreign currency transactions shall be treated as income or loss, as the case may be, and shall be computed as per the income computation and disclosure standards notified under section 276(2).</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall be applicable to all foreign currency transactions, including those relating to—</p><p class=\"lvl\">(a) monetary items and non-monetary items;</p><p class=\"lvl\">(b) translation of financial statements of foreign operations;</p><p class=\"lvl\">(c) forward exchange contracts; and</p><p class=\"lvl\">(d) foreign currency translation reserves.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Taxation of foreign exchange fluctuation.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 62 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of section 42, any gain or loss arising on account of change in foreign exchange rates on foreign currency transactions shall be treated as income or loss, as the case may be, and shall be computed as per the income computation and disclosure standards notified under section 276(2).</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall be applicable to all foreign currency transactions, including those relating to—</p><p class=\"lvl\">(a) monetary items and non-monetary items;</p><p class=\"lvl\">(b) translation of financial statements of foreign operations;</p><p class=\"lvl\">(c) forward exchange contracts; and</p><p class=\"lvl\">(d) foreign currency translation reserves.</p></div>"
+  }
+}

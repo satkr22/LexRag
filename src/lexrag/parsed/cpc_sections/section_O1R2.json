@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-13.html",
+    "source_order": 13,
+    "article_order": 2,
+    "order": 173,
+    "stem": "section_O1R2",
+    "heading_number": "Order I",
+    "heading_title": "Parties to Suits",
+    "heading_range": "16 rules",
+    "heading_source": "group-head",
+    "article_number": "O1R2",
+    "article_title": "Power of Court to order separate trial."
+  },
+  "id": "cpc_section_O1R2",
+  "heading": {
+    "number": "Order I",
+    "title": "Parties to Suits",
+    "range": "16 rules"
+  },
+  "article": {
+    "number": "O1R2",
+    "title": "Power of Court to order separate trial.",
+    "content": "2Power of Court to order separate trial.\n\nOrder 1, Rule 2\nWhere it appears to the Court that any joinder of plaintiffs may embarrass or delay the trial of the suit, the Court may put the plaintiffs to the election or order separate trials or make such other order as may be expedient.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O1R2\" data-report=\"Order 1, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Power of Court to order separate trial.</h3></div><p class=\"prov-cite\">Order 1, Rule 2</p><div class=\"prov-body\"><p>Where it appears to the Court that any joinder of plaintiffs may embarrass or delay the trial of the suit, the Court may put the plaintiffs to the election or order separate trials or make such other order as may be expedient.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Power of Court to order separate trial.</h3></div><p class=\"prov-cite\">Order 1, Rule 2</p><div class=\"prov-body\"><p>Where it appears to the Court that any joinder of plaintiffs may embarrass or delay the trial of the suit, the Court may put the plaintiffs to the election or order separate trials or make such other order as may be expedient.</p></div>"
+  }
+}

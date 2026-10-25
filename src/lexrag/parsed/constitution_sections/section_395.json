@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-26.html",
+    "source_order": 26,
+    "article_order": 4,
+    "order": 506,
+    "stem": "section_395",
+    "heading_number": "Part XXII",
+    "heading_title": "Short Title, Commencement, Authoritative Text in Hindi and Repeals",
+    "heading_range": "393 – 395",
+    "heading_source": "group-head",
+    "article_number": "395",
+    "article_title": "Repeals"
+  },
+  "id": "constitution_section_395",
+  "heading": {
+    "number": "Part XXII",
+    "title": "Short Title, Commencement, Authoritative Text in Hindi and Repeals",
+    "range": "393 – 395"
+  },
+  "article": {
+    "number": "395",
+    "title": "Repeals",
+    "content": "\n\n395Repeals\n\n\n\nArticle 395 · Part XXII\n\n\nThe Indian Independence Act, 1947, and the Government of India Act, 1935, together with all enactments\n                amending or supplementing the latter Act, but not including the Abolition of Privy Council Jurisdiction\n                Act, 1949, are hereby repealed.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"395\" data-report=\"Article 395 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">395</span>Repeals</h3>\n</div>\n<p class=\"prov-cite\">Article 395 · Part XXII</p>\n<div class=\"prov-body\">\n<p>The Indian Independence Act, 1947, and the Government of India Act, 1935, together with all enactments\n                amending or supplementing the latter Act, but not including the Abolition of Privy Council Jurisdiction\n                Act, 1949, are hereby repealed.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">395</span>Repeals</h3>\n</div>\n<p class=\"prov-cite\">Article 395 · Part XXII</p>\n<div class=\"prov-body\">\n<p>The Indian Independence Act, 1947, and the Government of India Act, 1935, together with all enactments\n                amending or supplementing the latter Act, but not including the Abolition of Privy Council Jurisdiction\n                Act, 1949, are hereby repealed.</p>\n</div>\n"
+  }
+}

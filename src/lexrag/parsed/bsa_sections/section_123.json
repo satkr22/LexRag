@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "document_title": null,
+    "source_file": "bsa_sections/section-123.html",
+    "source_order": 123,
+    "article_order": 1,
+    "order": 123,
+    "stem": "section_123",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Estoppel",
+    "heading_range": "121 – 123",
+    "heading_source": "manifest",
+    "article_number": "123",
+    "article_title": "Estoppel of acceptor of bill of exchange, bailee or licensee"
+  },
+  "id": "bsa_section_123",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Estoppel",
+    "range": "121 – 123"
+  },
+  "article": {
+    "number": "123",
+    "title": "Estoppel of acceptor of bill of exchange, bailee or licensee",
+    "content": "123Estoppel of acceptor of bill of exchange, bailee or licensee\n\nSection 123 · Part IV · Chapter VIII\nNo acceptor of a bill of exchange shall be permitted to deny that the drawer had authority to draw such bill or to endorse it; nor shall any bailee or licensee be permitted to deny that his bailor or licensor had, at the time when the bailment or licence commenced, authority to make such bailment or grant such licence.\nExplanation 1The acceptor of a bill of exchange may deny that the bill was really drawn by the person by whom it purports to have been drawn.\nExplanation 2If a bailee delivers the goods bailed to a person other than the bailor, he may prove that such person had a right to them as against the bailor.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Estoppel of acceptor of bill of exchange, bailee or licensee</h3></div><p class=\"prov-cite\">Section 123 · Part IV · Chapter VIII</p><div class=\"prov-body\"><p>No acceptor of a bill of exchange shall be permitted to deny that the drawer had authority to draw such bill or to endorse it; nor shall any bailee or licensee be permitted to deny that his bailor or licensor had, at the time when the bailment or licence commenced, authority to make such bailment or grant such licence.</p><p><span class=\"named\">Explanation 1</span>The acceptor of a bill of exchange may deny that the bill was really drawn by the person by whom it purports to have been drawn.</p><p><span class=\"named\">Explanation 2</span>If a bailee delivers the goods bailed to a person other than the bailor, he may prove that such person had a right to them as against the bailor.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Estoppel of acceptor of bill of exchange, bailee or licensee</h3></div><p class=\"prov-cite\">Section 123 · Part IV · Chapter VIII</p><div class=\"prov-body\"><p>No acceptor of a bill of exchange shall be permitted to deny that the drawer had authority to draw such bill or to endorse it; nor shall any bailee or licensee be permitted to deny that his bailor or licensor had, at the time when the bailment or licence commenced, authority to make such bailment or grant such licence.</p><p><span class=\"named\">Explanation 1</span>The acceptor of a bill of exchange may deny that the bill was really drawn by the person by whom it purports to have been drawn.</p><p><span class=\"named\">Explanation 2</span>If a bailee delivers the goods bailed to a person other than the bailor, he may prove that such person had a right to them as against the bailor.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "dpdp",
+    "document_title": null,
+    "source_file": "dpdp_sections/section-12.html",
+    "source_order": 12,
+    "article_order": 1,
+    "order": 12,
+    "stem": "section_12",
+    "heading_number": "Chapter III",
+    "heading_title": "Rights and Duties of Data Principal",
+    "heading_range": "ss. 11–15",
+    "heading_source": "manifest",
+    "article_number": "12",
+    "article_title": "Right to correction and erasure of personal data."
+  },
+  "id": "dpdp_section_12",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Rights and Duties of Data Principal",
+    "range": "ss. 11–15"
+  },
+  "article": {
+    "number": "12",
+    "title": "Right to correction and erasure of personal data.",
+    "content": "12Right to correction and erasure of personal data.\n\nSection 12  ·  Chapter III  ·  page 13 of the Act\n(1) A Data Principal shall have the right to correction, completion, updating and erasure of her personal data for the processing of which she has previously given consent, including consent as referred to in clause (a) of section 7, in accordance with any requirement or procedure under any law for the time being in force.\n(2) A Data Fiduciary shall, upon receiving a request for correction, completion or updating from a Data Principal,—\n(a) correct the inaccurate or misleading personal data;\n(b) complete the incomplete personal data; and\n(c) update the personal data.\n(3) A Data Principal shall make a request in such manner as may be prescribed to the Data Fiduciary for erasure of her personal data, and upon receipt of such a request, the Data Fiduciary shall erase her personal data unless retention of the same is necessary for the specified purpose or for compliance with any law for the time being in force.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Right to correction and erasure of personal data.</h3></div><p class=\"prov-cite\">Section 12  ·  Chapter III  ·  page 13 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A Data Principal shall have the right to correction, completion, updating and erasure of her personal data for the processing of which she has previously given consent, including consent as referred to in clause (a) of section 7, in accordance with any requirement or procedure under any law for the time being in force.</p><p class=\"lvl\">(2) A Data Fiduciary shall, upon receiving a request for correction, completion or updating from a Data Principal,—</p><p class=\"lvl\">(a) correct the inaccurate or misleading personal data;</p><p class=\"lvl\">(b) complete the incomplete personal data; and</p><p class=\"lvl\">(c) update the personal data.</p><p class=\"lvl\">(3) A Data Principal shall make a request in such manner as may be prescribed to the Data Fiduciary for erasure of her personal data, and upon receipt of such a request, the Data Fiduciary shall erase her personal data unless retention of the same is necessary for the specified purpose or for compliance with any law for the time being in force.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Right to correction and erasure of personal data.</h3></div><p class=\"prov-cite\">Section 12  ·  Chapter III  ·  page 13 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A Data Principal shall have the right to correction, completion, updating and erasure of her personal data for the processing of which she has previously given consent, including consent as referred to in clause (a) of section 7, in accordance with any requirement or procedure under any law for the time being in force.</p><p class=\"lvl\">(2) A Data Fiduciary shall, upon receiving a request for correction, completion or updating from a Data Principal,—</p><p class=\"lvl\">(a) correct the inaccurate or misleading personal data;</p><p class=\"lvl\">(b) complete the incomplete personal data; and</p><p class=\"lvl\">(c) update the personal data.</p><p class=\"lvl\">(3) A Data Principal shall make a request in such manner as may be prescribed to the Data Fiduciary for erasure of her personal data, and upon receipt of such a request, the Data Fiduciary shall erase her personal data unless retention of the same is necessary for the specified purpose or for compliance with any law for the time being in force.</p></div>"
+  }
+}

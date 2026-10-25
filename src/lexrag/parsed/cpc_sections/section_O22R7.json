@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-39.html",
+    "source_order": 39,
+    "article_order": 8,
+    "order": 604,
+    "stem": "section_O22R7",
+    "heading_number": "Order XXII",
+    "heading_title": "Death, Marriage and Insolvency or Parties",
+    "heading_range": "14 rules",
+    "heading_source": "group-head",
+    "article_number": "O22R7",
+    "article_title": "Suit not abated by marriage of female party."
+  },
+  "id": "cpc_section_O22R7",
+  "heading": {
+    "number": "Order XXII",
+    "title": "Death, Marriage and Insolvency or Parties",
+    "range": "14 rules"
+  },
+  "article": {
+    "number": "O22R7",
+    "title": "Suit not abated by marriage of female party.",
+    "content": "7Suit not abated by marriage of female party.\n\nOrder 22, Rule 7\n(1) The marriage of a female plaintiff or defendant shall not cause the suit to abate, but the suit may notwithstanding be proceeded with the judgment, and, where the decree is against a female defendant, it may be executed against her alone.\n(2) Where the husband is by law liable for the debts of his wife, the decree may, with the permission of the Court, be executed against the husband also; and in case of judgment for the wife, execution of the decree may, with such permission, be issued upon the application of the husband, where the husband is by law entitled to the subject-matter of the decree.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O22R7\" data-report=\"Order 22, Rule 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Suit not abated by marriage of female party.</h3></div><p class=\"prov-cite\">Order 22, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) The marriage of a female plaintiff or defendant shall not cause the suit to abate, but the suit may notwithstanding be proceeded with the judgment, and, where the decree is against a female defendant, it may be executed against her alone.</p><p class=\"lvl\">(2) Where the husband is by law liable for the debts of his wife, the decree may, with the permission of the Court, be executed against the husband also; and in case of judgment for the wife, execution of the decree may, with such permission, be issued upon the application of the husband, where the husband is by law entitled to the subject-matter of the decree.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Suit not abated by marriage of female party.</h3></div><p class=\"prov-cite\">Order 22, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) The marriage of a female plaintiff or defendant shall not cause the suit to abate, but the suit may notwithstanding be proceeded with the judgment, and, where the decree is against a female defendant, it may be executed against her alone.</p><p class=\"lvl\">(2) Where the husband is by law liable for the debts of his wife, the decree may, with the permission of the Court, be executed against the husband also; and in case of judgment for the wife, execution of the decree may, with such permission, be issued upon the application of the husband, where the husband is by law entitled to the subject-matter of the decree.</p></div>"
+  }
+}

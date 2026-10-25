@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 11,
+    "order": 181,
+    "stem": "section_162",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "162",
+    "article_title": "Extent of executive power of State"
+  },
+  "id": "constitution_section_162",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "162",
+    "title": "Extent of executive power of State",
+    "content": "162Extent of executive power of State\n\nArticle 162 · Part VI · The Governor\nSubject to the provisions of this Constitution, the executive power of a State shall extend to the matters with respect to which the Legislature of the State has power to make laws:\nProvisoProvided that in any matter with respect to which the Legislature of a State and Parliament have power to make laws, the executive power of the State shall be subject to, and limited by, the executive power expressly conferred by this Constitution or by any law made by Parliament upon the Union or authorities thereof.\n\n",
+    "html": "<article class=\"provision\" data-n=\"162\" data-report=\"Article 162 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">162</span>Extent of executive power of State</h3></div><p class=\"prov-cite\">Article 162 · Part VI · The Governor</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, the executive power of a State shall extend to the matters with respect to which the Legislature of the State has power to make laws:</p><p><span class=\"named\">Proviso</span>Provided that in any matter with respect to which the Legislature of a State and Parliament have power to make laws, the executive power of the State shall be subject to, and limited by, the executive power expressly conferred by this Constitution or by any law made by Parliament upon the Union or authorities thereof.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">162</span>Extent of executive power of State</h3></div><p class=\"prov-cite\">Article 162 · Part VI · The Governor</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, the executive power of a State shall extend to the matters with respect to which the Legislature of the State has power to make laws:</p><p><span class=\"named\">Proviso</span>Provided that in any matter with respect to which the Legislature of a State and Parliament have power to make laws, the executive power of the State shall be subject to, and limited by, the executive power expressly conferred by this Constitution or by any law made by Parliament upon the Union or authorities thereof.</p></div>"
+  }
+}

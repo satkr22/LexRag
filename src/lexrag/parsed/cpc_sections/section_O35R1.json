@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-54.html",
+    "source_order": 54,
+    "article_order": 1,
+    "order": 753,
+    "stem": "section_O35R1",
+    "heading_number": "Order XXXV",
+    "heading_title": "Interpleader",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O35R1",
+    "article_title": "Plaint in interpleader suit."
+  },
+  "id": "cpc_section_O35R1",
+  "heading": {
+    "number": "Order XXXV",
+    "title": "Interpleader",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O35R1",
+    "title": "Plaint in interpleader suit.",
+    "content": "1Plaint in interpleader suit.\n\nOrder 35, Rule 1\nIn every suit of interpleader the plaint shall, in addition to the other statements necessary for plaints, state—\n(a) that the plaintiff claims no interest in the subject-matter in dispute other than for charges or costs;\n(b) the claims made by the defendants severally; and\n(c) that there is no collusion between the plaintiff and any of the defendants.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O35R1\" data-report=\"Order 35, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Plaint in interpleader suit.</h3></div><p class=\"prov-cite\">Order 35, Rule 1</p><div class=\"prov-body\"><p>In every suit of interpleader the plaint shall, in addition to the other statements necessary for plaints, state—</p><p class=\"lvl\">(a) that the plaintiff claims no interest in the subject-matter in dispute other than for charges or costs;</p><p class=\"lvl\">(b) the claims made by the defendants severally; and</p><p class=\"lvl\">(c) that there is no collusion between the plaintiff and any of the defendants.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Plaint in interpleader suit.</h3></div><p class=\"prov-cite\">Order 35, Rule 1</p><div class=\"prov-body\"><p>In every suit of interpleader the plaint shall, in addition to the other statements necessary for plaints, state—</p><p class=\"lvl\">(a) that the plaintiff claims no interest in the subject-matter in dispute other than for charges or costs;</p><p class=\"lvl\">(b) the claims made by the defendants severally; and</p><p class=\"lvl\">(c) that there is no collusion between the plaintiff and any of the defendants.</p></div>"
+  }
+}

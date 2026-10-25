@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "document_title": null,
+    "source_file": "partnership_sections/section-31.html",
+    "source_order": 33,
+    "article_order": 1,
+    "order": 33,
+    "stem": "section_31",
+    "heading_number": "Chapter V",
+    "heading_title": "Incoming and Outgoing Partners",
+    "heading_range": "ss. 31–38",
+    "heading_source": "manifest",
+    "article_number": "31",
+    "article_title": "Introduction of a partner."
+  },
+  "id": "partnership_section_31",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Incoming and Outgoing Partners",
+    "range": "ss. 31–38"
+  },
+  "article": {
+    "number": "31",
+    "title": "Introduction of a partner.",
+    "content": "31Introduction of a partner.\n\nSection 31  ·  Chapter V  ·  page 9 of the Act\n(1) Subject to contract between the partners and to the provisions of section 30, no person shall be introduced as a partner into a firm without the consent of all the existing partners.\n(2)Subject to the provisions of section 30, a person who is introduced as a partner into a firm does not thereby become liable for any act of the firm done before he became a partner.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Introduction of a partner.</h3></div><p class=\"prov-cite\">Section 31  ·  Chapter V  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to contract between the partners and to the provisions of section 30, no person shall be introduced as a partner into a firm without the consent of all the existing partners.</p><p class=\"lvl\">(2)Subject to the provisions of section 30, a person who is introduced as a partner into a firm does not thereby become liable for any act of the firm done before he became a partner.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Introduction of a partner.</h3></div><p class=\"prov-cite\">Section 31  ·  Chapter V  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to contract between the partners and to the provisions of section 30, no person shall be introduced as a partner into a firm without the consent of all the existing partners.</p><p class=\"lvl\">(2)Subject to the provisions of section 30, a person who is introduced as a partner into a firm does not thereby become liable for any act of the firm done before he became a partner.</p></div>"
+  }
+}

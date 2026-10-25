@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-07.html",
+    "source_order": 7,
+    "article_order": 17,
+    "order": 107,
+    "stem": "section_104",
+    "heading_number": "Chapter VII",
+    "heading_title": "Management and Administration",
+    "heading_range": "ss. 88–122",
+    "heading_source": "group-head",
+    "article_number": "104",
+    "article_title": "Chairman of meetings."
+  },
+  "id": "companies_section_104",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Management and Administration",
+    "range": "ss. 88–122"
+  },
+  "article": {
+    "number": "104",
+    "title": "Chairman of meetings.",
+    "content": "104Chairman of meetings.\n\nSection 104  ·  Chapter VII  ·  page 74 of the Act\n(1) Unless the articles of the company otherwise provide, the members personally present at the meeting shall elect one of themselves to be the Chairman thereof on a show of hands.\n(2) If a poll is demanded on the election of the Chairman, it shall be taken forthwith in accordance with the provisions of this Act and the Chairman elected on a show of hands under sub-section (1) shall continue to be the Chairman of the meeting until some other person is elected as Chairman as a result of the poll, and such other person shall be the Chairman for the rest of the meeting.\n\n",
+    "html": "<article class=\"provision\" data-n=\"104\" data-report=\"Section 104 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Chairman of meetings.</h3></div><p class=\"prov-cite\">Section 104  ·  Chapter VII  ·  page 74 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Unless the articles of the company otherwise provide, the members personally present at the meeting shall elect one of themselves to be the Chairman thereof on a show of hands.</p><p class=\"lvl\">(2) If a poll is demanded on the election of the Chairman, it shall be taken forthwith in accordance with the provisions of this Act and the Chairman elected on a show of hands under sub-section (1) shall continue to be the Chairman of the meeting until some other person is elected as Chairman as a result of the poll, and such other person shall be the Chairman for the rest of the meeting.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Chairman of meetings.</h3></div><p class=\"prov-cite\">Section 104  ·  Chapter VII  ·  page 74 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Unless the articles of the company otherwise provide, the members personally present at the meeting shall elect one of themselves to be the Chairman thereof on a show of hands.</p><p class=\"lvl\">(2) If a poll is demanded on the election of the Chairman, it shall be taken forthwith in accordance with the provisions of this Act and the Chairman elected on a show of hands under sub-section (1) shall continue to be the Chairman of the meeting until some other person is elected as Chairman as a result of the poll, and such other person shall be the Chairman for the rest of the meeting.</p></div>"
+  }
+}

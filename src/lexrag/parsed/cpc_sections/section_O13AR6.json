@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-27.html",
+    "source_order": 27,
+    "article_order": 6,
+    "order": 373,
+    "stem": "section_O13AR6",
+    "heading_number": "Order XIIIA",
+    "heading_title": "Summary Judgment",
+    "heading_range": "8 rules",
+    "heading_source": "group-head",
+    "article_number": "O13AR6",
+    "article_title": "Orders that may be made by Court."
+  },
+  "id": "cpc_section_O13AR6",
+  "heading": {
+    "number": "Order XIIIA",
+    "title": "Summary Judgment",
+    "range": "8 rules"
+  },
+  "article": {
+    "number": "O13AR6",
+    "title": "Orders that may be made by Court.",
+    "content": "6Orders that may be made by Court.\n\nOrder 13A, Rule 6\n(1) On an application made under this Order, the Court may make such orders that it may deem fit in its discretion including the following:—\n(a) judgment on the claim;\n(b) conditional order in accordance with Rule 7 mentioned hereunder;\n(c) dismissing the application;\n(d) dismissing part of the claim and a judgment on part of the claim that is not dismissed;\n(e) striking out the pleadings (whether in whole or in part); or\n(f) further directions to proceed for case management under Order XV-A.\n(2) Where the Court makes any of the orders as set forth in sub-rule (1)(a) to (f), the Court shall record its reasons for making such order.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O13AR6\" data-report=\"Order 13A, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Orders that may be made by Court.</h3></div><p class=\"prov-cite\">Order 13A, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) On an application made under this Order, the Court may make such orders that it may deem fit in its discretion including the following:—</p><p class=\"lvl\">(a) judgment on the claim;</p><p class=\"lvl\">(b) conditional order in accordance with Rule 7 mentioned hereunder;</p><p class=\"lvl\">(c) dismissing the application;</p><p class=\"lvl\">(d) dismissing part of the claim and a judgment on part of the claim that is not dismissed;</p><p class=\"lvl\">(e) striking out the pleadings (whether in whole or in part); or</p><p class=\"lvl\">(f) further directions to proceed for case management under Order XV-A.</p><p class=\"lvl\">(2) Where the Court makes any of the orders as set forth in sub-rule (1)(a) to (f), the Court shall record its reasons for making such order.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Orders that may be made by Court.</h3></div><p class=\"prov-cite\">Order 13A, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) On an application made under this Order, the Court may make such orders that it may deem fit in its discretion including the following:—</p><p class=\"lvl\">(a) judgment on the claim;</p><p class=\"lvl\">(b) conditional order in accordance with Rule 7 mentioned hereunder;</p><p class=\"lvl\">(c) dismissing the application;</p><p class=\"lvl\">(d) dismissing part of the claim and a judgment on part of the claim that is not dismissed;</p><p class=\"lvl\">(e) striking out the pleadings (whether in whole or in part); or</p><p class=\"lvl\">(f) further directions to proceed for case management under Order XV-A.</p><p class=\"lvl\">(2) Where the Court makes any of the orders as set forth in sub-rule (1)(a) to (f), the Court shall record its reasons for making such order.</p></div>"
+  }
+}

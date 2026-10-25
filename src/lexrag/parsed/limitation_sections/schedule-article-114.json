@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-114.html",
+    "source_order": 114,
+    "article_order": 1,
+    "order": 114,
+    "stem": "schedule-article-114",
+    "heading_number": null,
+    "heading_title": "Second Division · Appeals",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "114",
+    "article_title": ""
+  },
+  "id": "limitation_schedule-article-114",
+  "heading": {
+    "number": null,
+    "title": "Second Division · Appeals",
+    "range": null
+  },
+  "article": {
+    "number": "114",
+    "title": "",
+    "content": "Article114\n\nThe Schedule  ·  Second Division—Appeals\nAppeal from an order of acquittal,—\n(a)under sub-section (1) or sub-section (2) of section 417 of the Code of Criminal Procedure, 1898 (5 of 1898);\nPeriod of limitationNinety days.\n\nTime from which period begins to runThe date of the order appealed from.\n\n\n\n(b)under sub-section (3) of section 417 of that Code.\nPeriod of limitationThirty days.\n\nTime from which period begins to runThe date of the grant of special leave.\n\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>114</h3></div><p class=\"prov-cite\">The Schedule  ·  Second Division—Appeals</p><div class=\"prov-body\"><p class=\"lead-in\">Appeal from an order of acquittal,—</p><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(a)</span>under sub-section (1) or sub-section (2) of section 417 of the Code of Criminal Procedure, 1898 (5 of 1898);</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Ninety days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the order appealed from.</p></div></div></div><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(b)</span>under sub-section (3) of section 417 of that Code.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Thirty days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the grant of special leave.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>114</h3></div><p class=\"prov-cite\">The Schedule  ·  Second Division—Appeals</p><div class=\"prov-body\"><p class=\"lead-in\">Appeal from an order of acquittal,—</p><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(a)</span>under sub-section (1) or sub-section (2) of section 417 of the Code of Criminal Procedure, 1898 (5 of 1898);</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Ninety days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the order appealed from.</p></div></div></div><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(b)</span>under sub-section (3) of section 417 of that Code.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Thirty days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the grant of special leave.</p></div></div></div></div>"
+  }
+}

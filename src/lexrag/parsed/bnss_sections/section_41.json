@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-05.html",
+    "source_order": 5,
+    "article_order": 7,
+    "order": 41,
+    "stem": "section_41",
+    "heading_number": "Chapter V",
+    "heading_title": "Arrest of Persons",
+    "heading_range": "35 – 62",
+    "heading_source": "group-head",
+    "article_number": "41",
+    "article_title": "Arrest by Magistrate"
+  },
+  "id": "bnss_section_41",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Arrest of Persons",
+    "range": "35 – 62"
+  },
+  "article": {
+    "number": "41",
+    "title": "Arrest by Magistrate",
+    "content": "\n\n41Arrest by Magistrate\n\n\n\nSection 41 · Chapter V\n\n\n(1)When any offence is committed in the presence of a Magistrate, whether\n                Executive or Judicial, within his local jurisdiction, he may himself arrest or order any person to\n                arrest the offender, and may thereupon, subject to the provisions herein contained as to bail, commit\n                the offender to custody.\n\n(2)Any Magistrate, whether Executive or Judicial, may at any time arrest or\n                direct the arrest, in his presence, within his local jurisdiction, of any person for whose arrest he is\n                competent at the time and in the circumstances to issue a warrant.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"41\" data-report=\"Section 41 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">41</span>Arrest by Magistrate</h3>\n</div>\n<p class=\"prov-cite\">Section 41 · Chapter V</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>When any offence is committed in the presence of a Magistrate, whether\n                Executive or Judicial, within his local jurisdiction, he may himself arrest or order any person to\n                arrest the offender, and may thereupon, subject to the provisions herein contained as to bail, commit\n                the offender to custody.</p>\n<p><span class=\"lbl\">(2)</span>Any Magistrate, whether Executive or Judicial, may at any time arrest or\n                direct the arrest, in his presence, within his local jurisdiction, of any person for whose arrest he is\n                competent at the time and in the circumstances to issue a warrant.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">41</span>Arrest by Magistrate</h3>\n</div>\n<p class=\"prov-cite\">Section 41 · Chapter V</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>When any offence is committed in the presence of a Magistrate, whether\n                Executive or Judicial, within his local jurisdiction, he may himself arrest or order any person to\n                arrest the offender, and may thereupon, subject to the provisions herein contained as to bail, commit\n                the offender to custody.</p>\n<p><span class=\"lbl\">(2)</span>Any Magistrate, whether Executive or Judicial, may at any time arrest or\n                direct the arrest, in his presence, within his local jurisdiction, of any person for whose arrest he is\n                competent at the time and in the circumstances to issue a warrant.</p>\n</div>\n"
+  }
+}

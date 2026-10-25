@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-17.html",
+    "source_order": 18,
+    "article_order": 42,
+    "order": 343,
+    "stem": "section_343",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Special Provisions Relating to Certain Persons",
+    "heading_range": "ss. 302–355",
+    "heading_source": "group-head",
+    "article_number": "343",
+    "article_title": "Deemed accumulated income."
+  },
+  "id": "income-tax-2025_section_343",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Special Provisions Relating to Certain Persons",
+    "range": "ss. 302–355"
+  },
+  "article": {
+    "number": "343",
+    "title": "Deemed accumulated income.",
+    "content": "343Deemed accumulated income.\n\nSection 343  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 2.—Income of registered non-profit organisation  ·  page 408 of the Act\n(1) The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.\n(2) The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.\n\n",
+    "html": "<article class=\"provision\" data-n=\"343\" data-report=\"Section 343 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">343</span>Deemed accumulated income.</h3></div><p class=\"prov-cite\">Section 343  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 2.—Income of registered non-profit organisation  ·  page 408 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.</p><p class=\"lvl\">(2) The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">343</span>Deemed accumulated income.</h3></div><p class=\"prov-cite\">Section 343  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 2.—Income of registered non-profit organisation  ·  page 408 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.</p><p class=\"lvl\">(2) The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 3,
+    "order": 66,
+    "stem": "section_54",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "54",
+    "article_title": "Election of President"
+  },
+  "id": "constitution_section_54",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "54",
+    "title": "Election of President",
+    "content": "\n\n54Election of President\n\n\n\nArticle 54 · Part V · The President and Vice-President\n\n\nThe President shall be elected by the members of an electoral college consisting of—\n\n(a)the elected members of both Houses of Parliament; and\n\n(b)the elected members of the Legislative Assemblies of the States.\n\nExplanation1[In this article and in article 55, “State”\n                includes the National Capital Territory of Delhi and the Union territory of *Puducherry.]\n\n\n\n\n1 Ins. by the Constitution (Seventieth Amendment) Act, 1992, s. 2 (w.e.f.\n                1-6-1995). Now Puducherry vide the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 3 (w.e.f.\n                1-10-2006).\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"54\" data-report=\"Article 54 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">54</span>Election of President</h3>\n</div>\n<p class=\"prov-cite\">Article 54 · Part V · The President and Vice-President</p>\n<div class=\"prov-body\">\n<p>The President shall be elected by the members of an electoral college consisting of—</p>\n<p><span class=\"lbl\">(a)</span>the elected members of both Houses of Parliament; and</p>\n<p><span class=\"lbl\">(b)</span>the elected members of the Legislative Assemblies of the States.</p>\n<p><span class=\"named\">Explanation</span><sup>1</sup>[In this article and in article 55, “State”\n                includes the National Capital Territory of Delhi and the Union territory of *Puducherry.]</p>\n</div>\n<div class=\"fnotes\">\n<p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Seventieth Amendment) Act, 1992, s. 2 (w.e.f.\n                1-6-1995). Now Puducherry vide the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 3 (w.e.f.\n                1-10-2006).</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">54</span>Election of President</h3>\n</div>\n<p class=\"prov-cite\">Article 54 · Part V · The President and Vice-President</p>\n<div class=\"prov-body\">\n<p>The President shall be elected by the members of an electoral college consisting of—</p>\n<p><span class=\"lbl\">(a)</span>the elected members of both Houses of Parliament; and</p>\n<p><span class=\"lbl\">(b)</span>the elected members of the Legislative Assemblies of the States.</p>\n<p><span class=\"named\">Explanation</span><sup>1</sup>[In this article and in article 55, “State”\n                includes the National Capital Territory of Delhi and the Union territory of *Puducherry.]</p>\n</div>\n<div class=\"fnotes\">\n<p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Seventieth Amendment) Act, 1992, s. 2 (w.e.f.\n                1-6-1995). Now Puducherry vide the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 3 (w.e.f.\n                1-10-2006).</p>\n</div>\n"
+  }
+}

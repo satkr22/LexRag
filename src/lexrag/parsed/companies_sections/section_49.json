@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 7,
+    "order": 51,
+    "stem": "section_49",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "49",
+    "article_title": "Calls on shares of same class to be made on uniform basis."
+  },
+  "id": "companies_section_49",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "49",
+    "title": "Calls on shares of same class to be made on uniform basis.",
+    "content": "49Calls on shares of same class to be made on uniform basis.\n\nSection 49  ·  Chapter IV  ·  page 48 of the Act\nWhere any calls for further share capital are made on the shares of a class, such calls shall be made on a uniform basis on all shares falling under that class.\nExplanation.—For the purposes of this section, shares of the same nominal value on which different amounts have been paid-up shall not be deemed to fall under the same class.\n\n",
+    "html": "<article class=\"provision\" data-n=\"49\" data-report=\"Section 49 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">49</span>Calls on shares of same class to be made on uniform basis.</h3></div><p class=\"prov-cite\">Section 49  ·  Chapter IV  ·  page 48 of the Act</p><div class=\"prov-body\"><p>Where any calls for further share capital are made on the shares of a class, such calls shall be made on a uniform basis on all shares falling under that class.</p><p class=\"prvso\">Explanation.—For the purposes of this section, shares of the same nominal value on which different amounts have been paid-up shall not be deemed to fall under the same class.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">49</span>Calls on shares of same class to be made on uniform basis.</h3></div><p class=\"prov-cite\">Section 49  ·  Chapter IV  ·  page 48 of the Act</p><div class=\"prov-body\"><p>Where any calls for further share capital are made on the shares of a class, such calls shall be made on a uniform basis on all shares falling under that class.</p><p class=\"prvso\">Explanation.—For the purposes of this section, shares of the same nominal value on which different amounts have been paid-up shall not be deemed to fall under the same class.</p></div>"
+  }
+}

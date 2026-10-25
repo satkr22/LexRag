@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "document_title": null,
+    "source_file": "bsa_sections/section-11.html",
+    "source_order": 11,
+    "article_order": 1,
+    "order": 11,
+    "stem": "section_11",
+    "heading_number": "Chapter II",
+    "heading_title": "Relevancy of Facts",
+    "heading_range": "3 – 50",
+    "heading_source": "manifest",
+    "article_number": "11",
+    "article_title": "Facts relevant when right or custom is in question"
+  },
+  "id": "bsa_section_11",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Relevancy of Facts",
+    "range": "3 – 50"
+  },
+  "article": {
+    "number": "11",
+    "title": "Facts relevant when right or custom is in question",
+    "content": "11Facts relevant when right or custom is in question\n\nSection 11 · Part II · Chapter II · Closely connected facts\nWhere the question is as to the existence of any right or custom, the following facts are relevant—\n(a)any transaction by which the right or custom in question was created, claimed, modified, recognised, asserted or denied, or which was inconsistent with its existence;\n(b)particular instances in which the right or custom was claimed, recognised or exercised, or in which its exercise was disputed, asserted or departed from.\nIllustrations\nThe question is, whether A has a right to a fishery. A deed conferring the fishery on A's ancestors, a mortgage of the fishery by A's father, a subsequent grant of the fishery by A's father, irreconcilable with the mortgage, particular instances in which A's father exercised the right, or in which the exercise of the right was stopped by A's neighbours, are relevant facts.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Facts relevant when right or custom is in question</h3></div><p class=\"prov-cite\">Section 11 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>Where the question is as to the existence of any right or custom, the following facts are relevant—</p><p><span class=\"lbl\">(a)</span>any transaction by which the right or custom in question was created, claimed, modified, recognised, asserted or denied, or which was inconsistent with its existence;</p><p><span class=\"lbl\">(b)</span>particular instances in which the right or custom was claimed, recognised or exercised, or in which its exercise was disputed, asserted or departed from.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">The question is, whether A has a right to a fishery. A deed conferring the fishery on A's ancestors, a mortgage of the fishery by A's father, a subsequent grant of the fishery by A's father, irreconcilable with the mortgage, particular instances in which A's father exercised the right, or in which the exercise of the right was stopped by A's neighbours, are relevant facts.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Facts relevant when right or custom is in question</h3></div><p class=\"prov-cite\">Section 11 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>Where the question is as to the existence of any right or custom, the following facts are relevant—</p><p><span class=\"lbl\">(a)</span>any transaction by which the right or custom in question was created, claimed, modified, recognised, asserted or denied, or which was inconsistent with its existence;</p><p><span class=\"lbl\">(b)</span>particular instances in which the right or custom was claimed, recognised or exercised, or in which its exercise was disputed, asserted or departed from.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">The question is, whether A has a right to a fishery. A deed conferring the fishery on A's ancestors, a mortgage of the fishery by A's father, a subsequent grant of the fishery by A's father, irreconcilable with the mortgage, particular instances in which A's father exercised the right, or in which the exercise of the right was stopped by A's neighbours, are relevant facts.</p></div>"
+  }
+}

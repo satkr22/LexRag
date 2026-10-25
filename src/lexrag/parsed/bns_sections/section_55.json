@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-04.html",
+    "source_order": 4,
+    "article_order": 11,
+    "order": 55,
+    "stem": "section_55",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Abetment, Criminal Conspiracy and Attempt",
+    "heading_range": "45 – 62",
+    "heading_source": "group-head",
+    "article_number": "55",
+    "article_title": "Abetment of offence punishable with death or imprisonment for life"
+  },
+  "id": "bns_section_55",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Abetment, Criminal Conspiracy and Attempt",
+    "range": "45 – 62"
+  },
+  "article": {
+    "number": "55",
+    "title": "Abetment of offence punishable with death or imprisonment for life",
+    "content": "55Abetment of offence punishable with death or imprisonment for life\n\nSection 55 · Chapter IV · Of abetment\nWhoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence be not committed in consequence of the abetment, and no express provision is made under this Sanhita for the punishment of such abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.\nIllustrations\nA instigates B to murder Z. The offence is not committed. If B had murdered Z, he would have been subject to the punishment of death or imprisonment for life. Therefore, A is liable to imprisonment for a term which may extend to seven years and also to a fine; and if any hurt be done to Z in consequence of the abetment, he will be liable to imprisonment for a term which may extend to fourteen years, and to fine.\n\n",
+    "html": "<article class=\"provision\" data-n=\"55\" data-report=\"Section 55 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">55</span>Abetment of offence punishable with death or imprisonment for life</h3></div><p class=\"prov-cite\">Section 55 · Chapter IV · Of abetment</p><div class=\"prov-body\"><p>Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence be not committed in consequence of the abetment, and no express provision is made under this Sanhita for the punishment of such abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A instigates B to murder Z. The offence is not committed. If B had murdered Z, he would have been subject to the punishment of death or imprisonment for life. Therefore, A is liable to imprisonment for a term which may extend to seven years and also to a fine; and if any hurt be done to Z in consequence of the abetment, he will be liable to imprisonment for a term which may extend to fourteen years, and to fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">55</span>Abetment of offence punishable with death or imprisonment for life</h3></div><p class=\"prov-cite\">Section 55 · Chapter IV · Of abetment</p><div class=\"prov-body\"><p>Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence be not committed in consequence of the abetment, and no express provision is made under this Sanhita for the punishment of such abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A instigates B to murder Z. The offence is not committed. If B had murdered Z, he would have been subject to the punishment of death or imprisonment for life. Therefore, A is liable to imprisonment for a term which may extend to seven years and also to a fine; and if any hurt be done to Z in consequence of the abetment, he will be liable to imprisonment for a term which may extend to fourteen years, and to fine.</p></div>"
+  }
+}

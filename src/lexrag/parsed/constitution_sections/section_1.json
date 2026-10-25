@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-01.html",
+    "source_order": 1,
+    "article_order": 1,
+    "order": 1,
+    "stem": "section_1",
+    "heading_number": "Part I",
+    "heading_title": "The Union and its Territory",
+    "heading_range": "1 – 4",
+    "heading_source": "group-head",
+    "article_number": "1",
+    "article_title": "Name and territory of the Union"
+  },
+  "id": "constitution_section_1",
+  "heading": {
+    "number": "Part I",
+    "title": "The Union and its Territory",
+    "range": "1 – 4"
+  },
+  "article": {
+    "number": "1",
+    "title": "Name and territory of the Union",
+    "content": "1Name and territory of the Union\n\nArticle 1 · Part I\n(1)India, that is Bharat, shall be a Union of States.\n(2)1[The States and the territories thereof shall be as specified in the First Schedule.]\n(3)The territory of India shall comprise—\n(a)the territories of the States;\n(b)2[the Union territories specified in the First Schedule; and]\n(c)such other territories as may be acquired.\n\n1 Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 2, for cl. (2) (w.e.f. 1-11-1956).\n2 Subs. by s. 2 ibid. for sub-clause (b) (w.e.f. 1-11-1956).\n\n",
+    "html": "<article class=\"provision\" data-n=\"1\" data-report=\"Article 1 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Name and territory of the Union</h3></div><p class=\"prov-cite\">Article 1 · Part I</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>India, that is Bharat, shall be a Union of States.</p><p><span class=\"lbl\">(2)</span><sup>1</sup>[The States and the territories thereof shall be as specified in the First Schedule.]</p><p><span class=\"lbl\">(3)</span>The territory of India shall comprise—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the territories of the States;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span><sup>2</sup>[the Union territories specified in the First Schedule; and]</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>such other territories as may be acquired.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 2, for cl. (2) (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>2</sup> Subs. by s. 2 ibid. for sub-clause (b) (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Name and territory of the Union</h3></div><p class=\"prov-cite\">Article 1 · Part I</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>India, that is Bharat, shall be a Union of States.</p><p><span class=\"lbl\">(2)</span><sup>1</sup>[The States and the territories thereof shall be as specified in the First Schedule.]</p><p><span class=\"lbl\">(3)</span>The territory of India shall comprise—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the territories of the States;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span><sup>2</sup>[the Union territories specified in the First Schedule; and]</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>such other territories as may be acquired.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 2, for cl. (2) (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>2</sup> Subs. by s. 2 ibid. for sub-clause (b) (w.e.f. 1-11-1956).</p></div>"
+  }
+}

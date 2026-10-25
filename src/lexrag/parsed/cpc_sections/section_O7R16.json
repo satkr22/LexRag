@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-19.html",
+    "source_order": 19,
+    "article_order": 18,
+    "order": 273,
+    "stem": "section_O7R16",
+    "heading_number": "Order VII",
+    "heading_title": "Plaint",
+    "heading_range": "20 rules",
+    "heading_source": "group-head",
+    "article_number": "O7R16",
+    "article_title": "Suits on lost negotiable instruments."
+  },
+  "id": "cpc_section_O7R16",
+  "heading": {
+    "number": "Order VII",
+    "title": "Plaint",
+    "range": "20 rules"
+  },
+  "article": {
+    "number": "O7R16",
+    "title": "Suits on lost negotiable instruments.",
+    "content": "16Suits on lost negotiable instruments.\n\nOrder 7, Rule 16\nWhere the suit is founded upon a negotiable instrument, and it is proved that the instrument is lost, and an indemnity is given by the plaintiff, to the satisfaction of the Court, against the claims of any other person upon such instrument, the Court may pass such decree as it would have passed if the plaintiff had produced the instrument in Court when the plaint was presented, and had at the same time delivered a copy of the instrument to be filed with the plaint.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O7R16\" data-report=\"Order 7, Rule 16 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Suits on lost negotiable instruments.</h3></div><p class=\"prov-cite\">Order 7, Rule 16</p><div class=\"prov-body\"><p>Where the suit is founded upon a negotiable instrument, and it is proved that the instrument is lost, and an indemnity is given by the plaintiff, to the satisfaction of the Court, against the claims of any other person upon such instrument, the Court may pass such decree as it would have passed if the plaintiff had produced the instrument in Court when the plaint was presented, and had at the same time delivered a copy of the instrument to be filed with the plaint.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Suits on lost negotiable instruments.</h3></div><p class=\"prov-cite\">Order 7, Rule 16</p><div class=\"prov-body\"><p>Where the suit is founded upon a negotiable instrument, and it is proved that the instrument is lost, and an indemnity is given by the plaintiff, to the satisfaction of the Court, against the claims of any other person upon such instrument, the Court may pass such decree as it would have passed if the plaintiff had produced the instrument in Court when the plaint was presented, and had at the same time delivered a copy of the instrument to be filed with the plaint.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 11,
+    "order": 462,
+    "stem": "section_O20R8",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R8",
+    "article_title": "Procedure where Judge has vacated office before signing decree."
+  },
+  "id": "cpc_section_O20R8",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R8",
+    "title": "Procedure where Judge has vacated office before signing decree.",
+    "content": "8Procedure where Judge has vacated office before signing decree.\n\nOrder 20, Rule 8\nWhere a Judge has vacated office after pronouncing judgment but without signing the decree, a decree drawn up in accordance with such judgment may be signed by his successor or, if the Court has ceased to exist, by the Judge of any Court to which such Court was subordinate.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O20R8\" data-report=\"Order 20, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Procedure where Judge has vacated office before signing decree.</h3></div><p class=\"prov-cite\">Order 20, Rule 8</p><div class=\"prov-body\"><p>Where a Judge has vacated office after pronouncing judgment but without signing the decree, a decree drawn up in accordance with such judgment may be signed by his successor or, if the Court has ceased to exist, by the Judge of any Court to which such Court was subordinate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Procedure where Judge has vacated office before signing decree.</h3></div><p class=\"prov-cite\">Order 20, Rule 8</p><div class=\"prov-body\"><p>Where a Judge has vacated office after pronouncing judgment but without signing the decree, a decree drawn up in accordance with such judgment may be signed by his successor or, if the Court has ceased to exist, by the Judge of any Court to which such Court was subordinate.</p></div>"
+  }
+}

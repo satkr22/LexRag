@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-64.html",
+    "source_order": 64,
+    "article_order": 17,
+    "order": 869,
+    "stem": "section_O45R16",
+    "heading_number": "Order XLV",
+    "heading_title": "Appeals to the Supreme Court",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O45R16",
+    "article_title": "Appeal from order relating to execution."
+  },
+  "id": "cpc_section_O45R16",
+  "heading": {
+    "number": "Order XLV",
+    "title": "Appeals to the Supreme Court",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O45R16",
+    "title": "Appeal from order relating to execution.",
+    "content": "16Appeal from order relating to execution.\n\nOrder 45, Rule 16\nThe orders made by the Court which executes the 3[decree or order] of 4[the Supreme Court], relating to such execution, shall be appealable in the same manner and subject to the same rules as the orders of such Court relating to the execution of its own decrees.\n\n3 Subs. ibid., for “order”.\n4 Subs. ibid., for “His Majesty in Council”.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O45R16\" data-report=\"Order 45, Rule 16 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Appeal from order relating to execution.</h3></div><p class=\"prov-cite\">Order 45, Rule 16</p><div class=\"prov-body\"><p>The orders made by the Court which executes the <sup>3</sup>[decree or order] of <sup>4</sup>[the Supreme Court], relating to such execution, shall be appealable in the same manner and subject to the same rules as the orders of such Court relating to the execution of its own decrees.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. ibid., for “order”.</p><p class=\"fn\"><sup>4</sup> Subs. ibid., for “His Majesty in Council”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Appeal from order relating to execution.</h3></div><p class=\"prov-cite\">Order 45, Rule 16</p><div class=\"prov-body\"><p>The orders made by the Court which executes the <sup>3</sup>[decree or order] of <sup>4</sup>[the Supreme Court], relating to such execution, shall be appealable in the same manner and subject to the same rules as the orders of such Court relating to the execution of its own decrees.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. ibid., for “order”.</p><p class=\"fn\"><sup>4</sup> Subs. ibid., for “His Majesty in Council”.</p></div>"
+  }
+}

@@ -1,0 +1,5606 @@
+{
+  "act": "income-tax-1961",
+  "source_directory": "src/lexrag/scrapped/income-tax-1961_sections",
+  "output_directory": "src/lexrag/parsed/income-tax-1961_sections",
+  "count": 933,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "\"Previous year\" defined.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Charge of income-tax.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Scope of total income.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "5A",
+      "article_title": "Apportionment of income between spouses governed by Portuguese Civil Code.",
+      "file": "section_5A.json"
+    },
+    {
+      "order": 7,
+      "article_number": "6",
+      "article_title": "Residence in India.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 8,
+      "article_number": "7",
+      "article_title": "Income deemed to be received.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 9,
+      "article_number": "8",
+      "article_title": "Dividend income.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 10,
+      "article_number": "9",
+      "article_title": "Income deemed to accrue or arise in India.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 11,
+      "article_number": "9A",
+      "article_title": "Certain activities not to constitute business connection in India.",
+      "file": "section_9A.json"
+    },
+    {
+      "order": 12,
+      "article_number": "9B",
+      "article_title": "Income on receipt of capital asset or stock in trade by specified person from specified entity.",
+      "file": "section_9B.json"
+    },
+    {
+      "order": 13,
+      "article_number": "10",
+      "article_title": "Incomes not included in total income.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 14,
+      "article_number": "10A",
+      "article_title": "Special provision in respect of newly established undertakings in free trade zone, etc.",
+      "file": "section_10A.json"
+    },
+    {
+      "order": 15,
+      "article_number": "10AA",
+      "article_title": "Special provisions in respect of newly established Units in Special Economic Zones.",
+      "file": "section_10AA.json"
+    },
+    {
+      "order": 16,
+      "article_number": "10B",
+      "article_title": "Special provisions in respect of newly established hundred per cent export-oriented undertakings.",
+      "file": "section_10B.json"
+    },
+    {
+      "order": 17,
+      "article_number": "10BA",
+      "article_title": "Special provisions in respect of export of certain articles or things.",
+      "file": "section_10BA.json"
+    },
+    {
+      "order": 18,
+      "article_number": "10BB",
+      "article_title": "Meaning of computer programmes in certain cases.",
+      "file": "section_10BB.json"
+    },
+    {
+      "order": 19,
+      "article_number": "10C",
+      "article_title": "Special provision in respect of certain industrial undertakings in North- Eastern Region.",
+      "file": "section_10C.json"
+    },
+    {
+      "order": 20,
+      "article_number": "11",
+      "article_title": "Income from property held for charitable or religious purposes.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 21,
+      "article_number": "12",
+      "article_title": "Income of trusts or institutions from contributions.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 22,
+      "article_number": "12A",
+      "article_title": "Conditions for applicability of sections 11 and 12.",
+      "file": "section_12A.json"
+    },
+    {
+      "order": 23,
+      "article_number": "12AA",
+      "article_title": "Procedure for registration.",
+      "file": "section_12AA.json"
+    },
+    {
+      "order": 24,
+      "article_number": "12AB",
+      "article_title": "Procedure for fresh registration.",
+      "file": "section_12AB.json"
+    },
+    {
+      "order": 25,
+      "article_number": "12AC",
+      "article_title": "Merger of charitable trusts or institutions in certain cases.",
+      "file": "section_12AC.json"
+    },
+    {
+      "order": 26,
+      "article_number": "13",
+      "article_title": "Section 11 not to apply in certain cases.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 27,
+      "article_number": "13A",
+      "article_title": "Special provision relating to incomes of political parties.",
+      "file": "section_13A.json"
+    },
+    {
+      "order": 28,
+      "article_number": "13B",
+      "article_title": "Special provisions relating to voluntary contributions received by electoral trust.",
+      "file": "section_13B.json"
+    },
+    {
+      "order": 29,
+      "article_number": "14",
+      "article_title": "Heads of income.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 30,
+      "article_number": "14A",
+      "article_title": "Expenditure incurred in relation to income not includible in total income.",
+      "file": "section_14A.json"
+    },
+    {
+      "order": 31,
+      "article_number": "15",
+      "article_title": "Salaries.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 32,
+      "article_number": "16",
+      "article_title": "Deductions from salaries.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 33,
+      "article_number": "17",
+      "article_title": "\"Salary\", \"perquisite\" and \"profits in lieu of salary\" defined.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 34,
+      "article_number": "18",
+      "article_title": "",
+      "file": "section_18.json"
+    },
+    {
+      "order": 35,
+      "article_number": "22",
+      "article_title": "Income from house property.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 36,
+      "article_number": "23",
+      "article_title": "Annual value how determined.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 37,
+      "article_number": "24",
+      "article_title": "Deductions from income from house property.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 38,
+      "article_number": "25",
+      "article_title": "Amounts not deductible from income from house property.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 39,
+      "article_number": "25A",
+      "article_title": "Special provision for arrears of rent and unrealised rent received subsequently.",
+      "file": "section_25A.json"
+    },
+    {
+      "order": 40,
+      "article_number": "26",
+      "article_title": "Property owned by co-owners.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 41,
+      "article_number": "27",
+      "article_title": "\"Owner of house property\", \"annual charge\", etc., defined.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 42,
+      "article_number": "28",
+      "article_title": "Profits and gains of business or profession.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 43,
+      "article_number": "29",
+      "article_title": "Income from profits and gains of business or profession, how computed.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 44,
+      "article_number": "30",
+      "article_title": "Rent, rates, taxes, repairs and insurance for buildings.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 45,
+      "article_number": "31",
+      "article_title": "Repairs and insurance of machinery, plant and furniture.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 46,
+      "article_number": "32",
+      "article_title": "Depreciation.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 47,
+      "article_number": "32A",
+      "article_title": "Investment allowance.",
+      "file": "section_32A.json"
+    },
+    {
+      "order": 48,
+      "article_number": "32AB",
+      "article_title": "Investment deposit account.",
+      "file": "section_32AB.json"
+    },
+    {
+      "order": 49,
+      "article_number": "32AC",
+      "article_title": "Investment in new plant or machinery.",
+      "file": "section_32AC.json"
+    },
+    {
+      "order": 50,
+      "article_number": "32AD",
+      "article_title": "Investment in new plant or machinery in notified backward areas in certain States.",
+      "file": "section_32AD.json"
+    },
+    {
+      "order": 51,
+      "article_number": "33",
+      "article_title": "Development rebate.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 52,
+      "article_number": "33A",
+      "article_title": "Development allowance.",
+      "file": "section_33A.json"
+    },
+    {
+      "order": 53,
+      "article_number": "33AB",
+      "article_title": "Tea development account ,coffee development account and rubber development account.",
+      "file": "section_33AB.json"
+    },
+    {
+      "order": 54,
+      "article_number": "33ABA",
+      "article_title": "Site Restoration Fund.",
+      "file": "section_33ABA.json"
+    },
+    {
+      "order": 55,
+      "article_number": "33AC",
+      "article_title": "Reserves for shipping business.",
+      "file": "section_33AC.json"
+    },
+    {
+      "order": 56,
+      "article_number": "33B",
+      "article_title": "Rehabilitation allowance.",
+      "file": "section_33B.json"
+    },
+    {
+      "order": 57,
+      "article_number": "34",
+      "article_title": "Conditions for depreciation allowance and development rebate.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 58,
+      "article_number": "34A",
+      "article_title": "Restriction on unabsorbed depreciation and unabsorbed investment allowance for limited period in case of certain domestic companies.",
+      "file": "section_34A.json"
+    },
+    {
+      "order": 59,
+      "article_number": "35",
+      "article_title": "Expenditure on scientific research.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 60,
+      "article_number": "35A",
+      "article_title": "Expenditure on acquisition of patent rights or copyrights.",
+      "file": "section_35A.json"
+    },
+    {
+      "order": 61,
+      "article_number": "35AB",
+      "article_title": "Expenditure on know-how.",
+      "file": "section_35AB.json"
+    },
+    {
+      "order": 62,
+      "article_number": "35ABA",
+      "article_title": "Expenditure for obtaining right to use spectrum for telecommunication services.",
+      "file": "section_35ABA.json"
+    },
+    {
+      "order": 63,
+      "article_number": "35ABB",
+      "article_title": "Expenditure for obtaining licence to operate telecommunication services.",
+      "file": "section_35ABB.json"
+    },
+    {
+      "order": 64,
+      "article_number": "35AC",
+      "article_title": "Expenditure on eligible projects or schemes.",
+      "file": "section_35AC.json"
+    },
+    {
+      "order": 65,
+      "article_number": "35AD",
+      "article_title": "Deduction in respect of expenditure on specified business.",
+      "file": "section_35AD.json"
+    },
+    {
+      "order": 66,
+      "article_number": "35B",
+      "article_title": "Export markets development allowance.",
+      "file": "section_35B.json"
+    },
+    {
+      "order": 67,
+      "article_number": "35C",
+      "article_title": "Agricultural development allowance.",
+      "file": "section_35C.json"
+    },
+    {
+      "order": 68,
+      "article_number": "35CC",
+      "article_title": "Rural development allowance.",
+      "file": "section_35CC.json"
+    },
+    {
+      "order": 69,
+      "article_number": "35CCA",
+      "article_title": "Expenditure by way of payment to associations and institutions for carrying out rural development programmes.",
+      "file": "section_35CCA.json"
+    },
+    {
+      "order": 70,
+      "article_number": "35CCB",
+      "article_title": "Expenditure by way of payment to associations and institutions for carrying out programmes of conservation of natural resources.",
+      "file": "section_35CCB.json"
+    },
+    {
+      "order": 71,
+      "article_number": "35CCC",
+      "article_title": "Expenditure on agricultural extension project.",
+      "file": "section_35CCC.json"
+    },
+    {
+      "order": 72,
+      "article_number": "35CCD",
+      "article_title": "Expenditure on skill development project.",
+      "file": "section_35CCD.json"
+    },
+    {
+      "order": 73,
+      "article_number": "35D",
+      "article_title": "Amortisation of certain preliminary expenses.",
+      "file": "section_35D.json"
+    },
+    {
+      "order": 74,
+      "article_number": "35DD",
+      "article_title": "Amortisation of expenditure in case of amalgamation or demerger.",
+      "file": "section_35DD.json"
+    },
+    {
+      "order": 75,
+      "article_number": "35DDA",
+      "article_title": "Amortisation of expenditure incurred under voluntary retirement scheme.",
+      "file": "section_35DDA.json"
+    },
+    {
+      "order": 76,
+      "article_number": "35E",
+      "article_title": "Deduction for expenditure on prospecting, etc., for certain minerals.",
+      "file": "section_35E.json"
+    },
+    {
+      "order": 77,
+      "article_number": "36",
+      "article_title": "Other deductions.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 78,
+      "article_number": "37",
+      "article_title": "General.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 79,
+      "article_number": "38",
+      "article_title": "Building, etc., partly used for business, etc., or not exclusively so used.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 80,
+      "article_number": "39",
+      "article_title": "Managing agency commission.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 81,
+      "article_number": "40",
+      "article_title": "Amounts not deductible.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 82,
+      "article_number": "40A",
+      "article_title": "Expenses or payments not deductible in certain circumstances.",
+      "file": "section_40A.json"
+    },
+    {
+      "order": 83,
+      "article_number": "41",
+      "article_title": "Profits chargeable to tax.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 84,
+      "article_number": "42",
+      "article_title": "Special provision for deductions in the case of business for prospecting, etc., for mineral oil.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 85,
+      "article_number": "43",
+      "article_title": "Definitions of certain terms relevant to income from profits and gains of business or profession.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 86,
+      "article_number": "43A",
+      "article_title": "Special provisions consequential to changes in rate of exchange of currency.",
+      "file": "section_43A.json"
+    },
+    {
+      "order": 87,
+      "article_number": "43AA",
+      "article_title": "Taxation of foreign exchange fluctuation.",
+      "file": "section_43AA.json"
+    },
+    {
+      "order": 88,
+      "article_number": "43B",
+      "article_title": "Certain deductions to be only on actual payment.",
+      "file": "section_43B.json"
+    },
+    {
+      "order": 89,
+      "article_number": "43C",
+      "article_title": "Special provision for computation of cost of acquisition of certain assets.",
+      "file": "section_43C.json"
+    },
+    {
+      "order": 90,
+      "article_number": "43CA",
+      "article_title": "Special provision for full value of consideration for transfer of assets other than capital assets in certain cases.",
+      "file": "section_43CA.json"
+    },
+    {
+      "order": 91,
+      "article_number": "43CB",
+      "article_title": "Computation of income from construction and service contracts.",
+      "file": "section_43CB.json"
+    },
+    {
+      "order": 92,
+      "article_number": "43D",
+      "article_title": "Special provision in case of income of public financial institutions, *** etc.",
+      "file": "section_43D.json"
+    },
+    {
+      "order": 93,
+      "article_number": "44",
+      "article_title": "Insurance business.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 94,
+      "article_number": "44A",
+      "article_title": "Special provision for deduction in the case of trade, professional or similar association.",
+      "file": "section_44A.json"
+    },
+    {
+      "order": 95,
+      "article_number": "44AA",
+      "article_title": "Maintenance of accounts by certain persons carrying on profession or business.",
+      "file": "section_44AA.json"
+    },
+    {
+      "order": 96,
+      "article_number": "44AB",
+      "article_title": "Audit of accounts of certain persons carrying on business or profession.",
+      "file": "section_44AB.json"
+    },
+    {
+      "order": 97,
+      "article_number": "44AC",
+      "article_title": "Special provision for computing profits and gains from the business of trading in certain goods.",
+      "file": "section_44AC.json"
+    },
+    {
+      "order": 98,
+      "article_number": "44AD",
+      "article_title": "Special provision for computing profits and gains of business on presumptive basis.",
+      "file": "section_44AD.json"
+    },
+    {
+      "order": 99,
+      "article_number": "44ADA",
+      "article_title": "Special provision for computing profits and gains of profession on presumptive basis.",
+      "file": "section_44ADA.json"
+    },
+    {
+      "order": 100,
+      "article_number": "44AE",
+      "article_title": "Special provision for computing profits and gains of business of plying, hiring or leasing goods carriages.",
+      "file": "section_44AE.json"
+    },
+    {
+      "order": 101,
+      "article_number": "44AF",
+      "article_title": "Special provisions for computing profits and gains of retail business.",
+      "file": "section_44AF.json"
+    },
+    {
+      "order": 102,
+      "article_number": "44B",
+      "article_title": "Special provision for computing profits and gains of shipping business other than cruise shipping in case of non-residents.",
+      "file": "section_44B.json"
+    },
+    {
+      "order": 103,
+      "article_number": "44BB",
+      "article_title": "Special provision for computing profits and gains in connection with the business of exploration, etc., of mineral oils.",
+      "file": "section_44BB.json"
+    },
+    {
+      "order": 104,
+      "article_number": "44BBA",
+      "article_title": "Special provision for computing profits and gains of the business of operation of aircraft in the case of non-residents.",
+      "file": "section_44BBA.json"
+    },
+    {
+      "order": 105,
+      "article_number": "44BBB",
+      "article_title": "Special provision for computing profits and gains of foreign companies engaged in the business of civil construction, etc., in certain turnkey power projects.",
+      "file": "section_44BBB.json"
+    },
+    {
+      "order": 106,
+      "article_number": "44BBC",
+      "article_title": "Special provision for computing profits and gains of business of operation of cruise ships in case of non-residents.",
+      "file": "section_44BBC.json"
+    },
+    {
+      "order": 107,
+      "article_number": "44BBD",
+      "article_title": "Special provision for computing profits and gains of non-residents engaged in business of providing services or technology for setting up an electronics manufacturing facility or in connection with manufacturing or producing electronic goods, article or thing in India.",
+      "file": "section_44BBD.json"
+    },
+    {
+      "order": 108,
+      "article_number": "44C",
+      "article_title": "Deduction of head office expenditure in the case of non-residents.",
+      "file": "section_44C.json"
+    },
+    {
+      "order": 109,
+      "article_number": "44D",
+      "article_title": "Special provisions for computing income by way of royalties, etc., in the case of foreign companies.",
+      "file": "section_44D.json"
+    },
+    {
+      "order": 110,
+      "article_number": "44DA",
+      "article_title": "Special provision for computing income by way of royal ties, etc., in case of non-residents.",
+      "file": "section_44DA.json"
+    },
+    {
+      "order": 111,
+      "article_number": "44DB",
+      "article_title": "Special provision for computing deductions in the case of business reorganization of co-operative banks.",
+      "file": "section_44DB.json"
+    },
+    {
+      "order": 112,
+      "article_number": "45",
+      "article_title": "Capital gains.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 113,
+      "article_number": "46",
+      "article_title": "Capital gains on distribution of assets by companies in liquidation.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 114,
+      "article_number": "46A",
+      "article_title": "Capital gains on purchase by company of its own shares or other specified securities.",
+      "file": "section_46A.json"
+    },
+    {
+      "order": 115,
+      "article_number": "47",
+      "article_title": "Transactions not regarded as transfer.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 116,
+      "article_number": "47A",
+      "article_title": "Withdrawal of exemption in certain cases.",
+      "file": "section_47A.json"
+    },
+    {
+      "order": 117,
+      "article_number": "48",
+      "article_title": "Mode of computation.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 118,
+      "article_number": "49",
+      "article_title": "Cost with reference to certain modes of acquisition.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 119,
+      "article_number": "50",
+      "article_title": "Special provision for computation of capital gains in case of depreciable assets.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 120,
+      "article_number": "50A",
+      "article_title": "Special provision for cost of acquisition in case of depreciable asset.",
+      "file": "section_50A.json"
+    },
+    {
+      "order": 121,
+      "article_number": "50AA",
+      "article_title": "Special provision for computation of capital gains in case of Market Linked Debenture.",
+      "file": "section_50AA.json"
+    },
+    {
+      "order": 122,
+      "article_number": "50B",
+      "article_title": "Special provision for computation of capital gains in case of slump sale.",
+      "file": "section_50B.json"
+    },
+    {
+      "order": 123,
+      "article_number": "50C",
+      "article_title": "Special provision for full value of consideration in certain cases.",
+      "file": "section_50C.json"
+    },
+    {
+      "order": 124,
+      "article_number": "50CA",
+      "article_title": "Special provision for full value of consideration for transfer of share other than quoted share.",
+      "file": "section_50CA.json"
+    },
+    {
+      "order": 125,
+      "article_number": "50D",
+      "article_title": "Fair market value deemed to be full value of consideration in certain cases.",
+      "file": "section_50D.json"
+    },
+    {
+      "order": 126,
+      "article_number": "51",
+      "article_title": "Advance money received.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 127,
+      "article_number": "52",
+      "article_title": "Consideration for transfer in cases of understatement.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 128,
+      "article_number": "53",
+      "article_title": "Exemption of capital gains from a residential house.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 129,
+      "article_number": "54",
+      "article_title": "Profit on sale of property used for residence.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 130,
+      "article_number": "54A",
+      "article_title": "Relief of tax on capital gains in certain cases.",
+      "file": "section_54A.json"
+    },
+    {
+      "order": 131,
+      "article_number": "54B",
+      "article_title": "Capital gain on transfer of land used for agricultural purposes not to be charged in certain cases.",
+      "file": "section_54B.json"
+    },
+    {
+      "order": 132,
+      "article_number": "54C",
+      "article_title": "Capital gain on transfer of jewellery held for personal use not to be charged in certain cases.",
+      "file": "section_54C.json"
+    },
+    {
+      "order": 133,
+      "article_number": "54D",
+      "article_title": "Capital gain on compulsory acquisition of lands and buildings not to be charged in certain cases.",
+      "file": "section_54D.json"
+    },
+    {
+      "order": 134,
+      "article_number": "54E",
+      "article_title": "Capital gain on transfer of capital assets not to be charged in certain cases.",
+      "file": "section_54E.json"
+    },
+    {
+      "order": 135,
+      "article_number": "54EA",
+      "article_title": "Capital gain on transfer of long-term capital assets not to be charged in the case of investment in specified securities.",
+      "file": "section_54EA.json"
+    },
+    {
+      "order": 136,
+      "article_number": "54EB",
+      "article_title": "Capital gain on transfer of long-term capital assets not to be charged in certain cases.",
+      "file": "section_54EB.json"
+    },
+    {
+      "order": 137,
+      "article_number": "54EC",
+      "article_title": "Capital gain not to be charged on investment in certain bonds.",
+      "file": "section_54EC.json"
+    },
+    {
+      "order": 138,
+      "article_number": "54ED",
+      "article_title": "Capital gain on transfer of certain listed securities or unit not to be charged in certain cases.",
+      "file": "section_54ED.json"
+    },
+    {
+      "order": 139,
+      "article_number": "54EE",
+      "article_title": "Capital gain not to be charged on investment in units of a specified fund.",
+      "file": "section_54EE.json"
+    },
+    {
+      "order": 140,
+      "article_number": "54F",
+      "article_title": "Capital gain on transfer of certain capital assets not to be charged in case of investment in residential house.",
+      "file": "section_54F.json"
+    },
+    {
+      "order": 141,
+      "article_number": "54G",
+      "article_title": "Exemption of capital gains on transfer of assets in cases of shifting of industrial undertaking from urban area.",
+      "file": "section_54G.json"
+    },
+    {
+      "order": 142,
+      "article_number": "54GA",
+      "article_title": "Exemption of capital gains on transfer of assets in cases of shifting of industrial undertaking from urban area to any Special Economic Zone.",
+      "file": "section_54GA.json"
+    },
+    {
+      "order": 143,
+      "article_number": "54GB",
+      "article_title": "Capital gain on transfer of residential property not to be charged in certain cases.",
+      "file": "section_54GB.json"
+    },
+    {
+      "order": 144,
+      "article_number": "54H",
+      "article_title": "Extension of time for acquiring new asset or depositing or investing amount of capital gain.",
+      "file": "section_54H.json"
+    },
+    {
+      "order": 145,
+      "article_number": "55",
+      "article_title": "Meaning of \"adjusted\", \"cost of improvement\" and \"cost of acquisition\".",
+      "file": "section_55.json"
+    },
+    {
+      "order": 146,
+      "article_number": "55A",
+      "article_title": "Reference to Valuation Officer.",
+      "file": "section_55A.json"
+    },
+    {
+      "order": 147,
+      "article_number": "56",
+      "article_title": "Income from other sources.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 148,
+      "article_number": "57",
+      "article_title": "Deductions.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 149,
+      "article_number": "58",
+      "article_title": "Amounts not deductible.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 150,
+      "article_number": "59",
+      "article_title": "Profits chargeable to tax.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 151,
+      "article_number": "60",
+      "article_title": "Transfer of income where there is no transfer of assets.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 152,
+      "article_number": "61",
+      "article_title": "Revocable transfer of assets.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 153,
+      "article_number": "62",
+      "article_title": "Transfer irrevocable for a specified period.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 154,
+      "article_number": "63",
+      "article_title": "\"Transfer\" and \"revocable transfer\" defined.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 155,
+      "article_number": "64",
+      "article_title": "Income of individual to include income of spouse, minor child, etc.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 156,
+      "article_number": "65",
+      "article_title": "Liability of person in respect of income included in the income of another person.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 157,
+      "article_number": "66",
+      "article_title": "Total income.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 158,
+      "article_number": "67",
+      "article_title": "Method of computing a partner's share in the income of the firm.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 159,
+      "article_number": "67A",
+      "article_title": "Method of computing a member's share in income of association of persons or body of individuals.",
+      "file": "section_67A.json"
+    },
+    {
+      "order": 160,
+      "article_number": "68",
+      "article_title": "Cash credits.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 161,
+      "article_number": "69",
+      "article_title": "Unexplained investments.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 162,
+      "article_number": "69A",
+      "article_title": "Unexplained money, etc.",
+      "file": "section_69A.json"
+    },
+    {
+      "order": 163,
+      "article_number": "69B",
+      "article_title": "Amount of investments, etc., not fully disclosed in books of account.",
+      "file": "section_69B.json"
+    },
+    {
+      "order": 164,
+      "article_number": "69C",
+      "article_title": "Unexplained expenditure, etc.",
+      "file": "section_69C.json"
+    },
+    {
+      "order": 165,
+      "article_number": "69D",
+      "article_title": "Amount borrowed or repaid on hundi.",
+      "file": "section_69D.json"
+    },
+    {
+      "order": 166,
+      "article_number": "70",
+      "article_title": "Set off of loss from one source against income from another source under the same head of income.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 167,
+      "article_number": "71",
+      "article_title": "Set off of loss from one head against income from another.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 168,
+      "article_number": "71A",
+      "article_title": "Transitional provisions for set off of loss under the head \"Income from house property\".",
+      "file": "section_71A.json"
+    },
+    {
+      "order": 169,
+      "article_number": "71B",
+      "article_title": "Carry forward and set off of loss from house property.",
+      "file": "section_71B.json"
+    },
+    {
+      "order": 170,
+      "article_number": "72",
+      "article_title": "Carry forward and set off of business losses.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 171,
+      "article_number": "72A",
+      "article_title": "Provisions relating to carry forward and set off of accumulated loss and unabsorbed depreciation allowance in amalgamation or demerger, etc.",
+      "file": "section_72A.json"
+    },
+    {
+      "order": 172,
+      "article_number": "72AA",
+      "article_title": "Carry forward and set off of accumulated loss and unabsorbed depreciation allowance in scheme of amalgamation in certain cases.",
+      "file": "section_72AA.json"
+    },
+    {
+      "order": 173,
+      "article_number": "72AB",
+      "article_title": "Provisions relating to carry forward and set-off of accumulated loss and unabsorbed depreciation allowance in business reorganisation of co-operative banks.",
+      "file": "section_72AB.json"
+    },
+    {
+      "order": 174,
+      "article_number": "73",
+      "article_title": "Losses in speculation business.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 175,
+      "article_number": "73A",
+      "article_title": "Carry forward and set off of losses by specified business.",
+      "file": "section_73A.json"
+    },
+    {
+      "order": 176,
+      "article_number": "74",
+      "article_title": "Losses under the head \"Capital gains\".",
+      "file": "section_74.json"
+    },
+    {
+      "order": 177,
+      "article_number": "74A",
+      "article_title": "Losses from certain specified sources falling under the head \"Income from other sources\".",
+      "file": "section_74A.json"
+    },
+    {
+      "order": 178,
+      "article_number": "75",
+      "article_title": "Losses of firms.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 179,
+      "article_number": "76",
+      "article_title": "",
+      "file": "section_76.json"
+    },
+    {
+      "order": 180,
+      "article_number": "78",
+      "article_title": "Carry forward and set off of losses in case of change in constitution of firm or on succession.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 181,
+      "article_number": "79",
+      "article_title": "Carry forward and set off of losses in case of certain companies.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 182,
+      "article_number": "79A",
+      "article_title": "No set off of losses consequent to search, requisition and survey.",
+      "file": "section_79A.json"
+    },
+    {
+      "order": 183,
+      "article_number": "80",
+      "article_title": "Submission of return for losses.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 184,
+      "article_number": "80A",
+      "article_title": "Deductions to be made in computing total income.",
+      "file": "section_80A.json"
+    },
+    {
+      "order": 185,
+      "article_number": "80AA",
+      "article_title": "Computation of deduction under section 80M.",
+      "file": "section_80AA.json"
+    },
+    {
+      "order": 186,
+      "article_number": "80AB",
+      "article_title": "Deductions to be made with reference to the income included in the gross total income.",
+      "file": "section_80AB.json"
+    },
+    {
+      "order": 187,
+      "article_number": "80AC",
+      "article_title": "Deduction not to be allowed unless return furnished.",
+      "file": "section_80AC.json"
+    },
+    {
+      "order": 188,
+      "article_number": "80B",
+      "article_title": "Definitions.",
+      "file": "section_80B.json"
+    },
+    {
+      "order": 189,
+      "article_number": "80C",
+      "article_title": "Deduction in respect of life insurance premia, deferred annuity, contributions to provident fund, subscription to certain equity shares or debentures, etc.",
+      "file": "section_80C.json"
+    },
+    {
+      "order": 190,
+      "article_number": "80CC",
+      "article_title": "Deduction in respect of investment in certain new shares.",
+      "file": "section_80CC.json"
+    },
+    {
+      "order": 191,
+      "article_number": "80CCA",
+      "article_title": "Deduction in respect of deposits under National Savings Scheme or payment to a deferred annuity plan.",
+      "file": "section_80CCA.json"
+    },
+    {
+      "order": 192,
+      "article_number": "80CCB",
+      "article_title": "Deduction in respect of investment made under Equity Linked Savings Scheme.",
+      "file": "section_80CCB.json"
+    },
+    {
+      "order": 193,
+      "article_number": "80CCC",
+      "article_title": "Deduction in respect of contribution to certain pension funds.",
+      "file": "section_80CCC.json"
+    },
+    {
+      "order": 194,
+      "article_number": "80CCD",
+      "article_title": "Deduction in respect of contribution to pension scheme of Central Government.",
+      "file": "section_80CCD.json"
+    },
+    {
+      "order": 195,
+      "article_number": "80CCE",
+      "article_title": "Limit on deductions under sections 80C, 80CCC and 80CCD.",
+      "file": "section_80CCE.json"
+    },
+    {
+      "order": 196,
+      "article_number": "80CCF",
+      "article_title": "Deduction in respect of subscription to long-term infrastructure bonds.",
+      "file": "section_80CCF.json"
+    },
+    {
+      "order": 197,
+      "article_number": "80CCG",
+      "article_title": "Deduction in respect of investment made under an equity savings scheme.",
+      "file": "section_80CCG.json"
+    },
+    {
+      "order": 198,
+      "article_number": "80CCH",
+      "article_title": "Deduction in respect of contribution to Agnipath Scheme.",
+      "file": "section_80CCH.json"
+    },
+    {
+      "order": 199,
+      "article_number": "80D",
+      "article_title": "Deduction in respect of health insurance premia.",
+      "file": "section_80D.json"
+    },
+    {
+      "order": 200,
+      "article_number": "80DD",
+      "article_title": "Deduction in respect of maintenance including medical treatment of a dependant who is a person with disability.",
+      "file": "section_80DD.json"
+    },
+    {
+      "order": 201,
+      "article_number": "80DDB",
+      "article_title": "Deduction in respect of medical treatment, etc.",
+      "file": "section_80DDB.json"
+    },
+    {
+      "order": 202,
+      "article_number": "80E",
+      "article_title": "Deduction in respect of interest on loan taken for higher education.",
+      "file": "section_80E.json"
+    },
+    {
+      "order": 203,
+      "article_number": "80EE",
+      "article_title": "Deduction in respect of interest on loan taken for residential house property.",
+      "file": "section_80EE.json"
+    },
+    {
+      "order": 204,
+      "article_number": "80EEA",
+      "article_title": "Deduction in respect of interest on loan taken for certain house property.",
+      "file": "section_80EEA.json"
+    },
+    {
+      "order": 205,
+      "article_number": "80EEB",
+      "article_title": "Deduction in respect of purchase of electric vehicle.",
+      "file": "section_80EEB.json"
+    },
+    {
+      "order": 206,
+      "article_number": "80F",
+      "article_title": "Deduction in respect of educational expenses in certain cases.",
+      "file": "section_80F.json"
+    },
+    {
+      "order": 207,
+      "article_number": "80FF",
+      "article_title": "Deduction in respect of expenses on higher education in certain cases.",
+      "file": "section_80FF.json"
+    },
+    {
+      "order": 208,
+      "article_number": "80G",
+      "article_title": "Deduction in respect of donations to certain funds, charitable institutions, etc.",
+      "file": "section_80G.json"
+    },
+    {
+      "order": 209,
+      "article_number": "80GG",
+      "article_title": "Deductions in respect of rents paid.",
+      "file": "section_80GG.json"
+    },
+    {
+      "order": 210,
+      "article_number": "80GGA",
+      "article_title": "Deduction in respect of certain donations for scientific research or rural development.",
+      "file": "section_80GGA.json"
+    },
+    {
+      "order": 211,
+      "article_number": "80GGB",
+      "article_title": "Deduction in respect of contributions given by companies to political parties.",
+      "file": "section_80GGB.json"
+    },
+    {
+      "order": 212,
+      "article_number": "80GGC",
+      "article_title": "Deduction in respect of contributions given by any person to political parties.",
+      "file": "section_80GGC.json"
+    },
+    {
+      "order": 213,
+      "article_number": "80H",
+      "article_title": "Deduction in case of new industrial undertakings employing displaced persons, etc.",
+      "file": "section_80H.json"
+    },
+    {
+      "order": 214,
+      "article_number": "80HH",
+      "article_title": "Deduction in respect of profits and gains from newly established industrial undertakings or hotel business in backward areas.",
+      "file": "section_80HH.json"
+    },
+    {
+      "order": 215,
+      "article_number": "80HHA",
+      "article_title": "Deduction in respect of profits and gains from newly established small-scale industrial undertakings in certain areas.",
+      "file": "section_80HHA.json"
+    },
+    {
+      "order": 216,
+      "article_number": "80HHB",
+      "article_title": "Deduction in respect of profits and gains from projects outside India.",
+      "file": "section_80HHB.json"
+    },
+    {
+      "order": 217,
+      "article_number": "80HHBA",
+      "article_title": "Deduction in respect of profits and gains from housing projects in certain cases.",
+      "file": "section_80HHBA.json"
+    },
+    {
+      "order": 218,
+      "article_number": "80HHC",
+      "article_title": "Deduction in respect of profits retained for export business.",
+      "file": "section_80HHC.json"
+    },
+    {
+      "order": 219,
+      "article_number": "80HHD",
+      "article_title": "Deduction in respect of earnings in convertible foreign exchange.",
+      "file": "section_80HHD.json"
+    },
+    {
+      "order": 220,
+      "article_number": "80HHE",
+      "article_title": "Deduction in respect of profits from export of computer software, etc.",
+      "file": "section_80HHE.json"
+    },
+    {
+      "order": 221,
+      "article_number": "80HHF",
+      "article_title": "Deduction in respect of profits and gains from export or transfer of film software, etc.",
+      "file": "section_80HHF.json"
+    },
+    {
+      "order": 222,
+      "article_number": "80-I",
+      "article_title": "Deduction in respect of profits and gains from industrial undertakings after a certain date, etc.",
+      "file": "section_80-I.json"
+    },
+    {
+      "order": 223,
+      "article_number": "80-IA",
+      "article_title": "Deductions in respect of profits and gains from industrial undertakings or enterprises engaged in infrastructure development, etc.",
+      "file": "section_80-IA.json"
+    },
+    {
+      "order": 224,
+      "article_number": "80-IAB",
+      "article_title": "Deductions in respect of profits and gains by an undertaking or enterprise engaged in development of Special Economic Zone.",
+      "file": "section_80-IAB.json"
+    },
+    {
+      "order": 225,
+      "article_number": "80-IAC",
+      "article_title": "Special provision in respect of specified business.",
+      "file": "section_80-IAC.json"
+    },
+    {
+      "order": 226,
+      "article_number": "80-IB",
+      "article_title": "Deduction in respect of profits and gains from certain industrial undertakings other than infrastructure development undertakings.",
+      "file": "section_80-IB.json"
+    },
+    {
+      "order": 227,
+      "article_number": "80-IBA",
+      "article_title": "Deductions in respect of profits and gains from housing projects.",
+      "file": "section_80-IBA.json"
+    },
+    {
+      "order": 228,
+      "article_number": "80-IC",
+      "article_title": "Special provisions in respect of certain undertakings or enterprises in certain special category States.",
+      "file": "section_80-IC.json"
+    },
+    {
+      "order": 229,
+      "article_number": "80-ID",
+      "article_title": "Deduction in respect of profits and gains from business of hotels and convention centres in specified area.",
+      "file": "section_80-ID.json"
+    },
+    {
+      "order": 230,
+      "article_number": "80-IE",
+      "article_title": "Special provisions in respect of certain undertakings in North-Eastern States.",
+      "file": "section_80-IE.json"
+    },
+    {
+      "order": 231,
+      "article_number": "80J",
+      "article_title": "Deduction in respect of profits and gains from newly established industrial undertakings or ships or hotel business in certain cases.",
+      "file": "section_80J.json"
+    },
+    {
+      "order": 232,
+      "article_number": "80JJ",
+      "article_title": "Deduction in respect of profits and gains from business of poultry farming.",
+      "file": "section_80JJ.json"
+    },
+    {
+      "order": 233,
+      "article_number": "80JJA",
+      "article_title": "Deduction in respect of profits and gains from business of collecting and processing of bio-degradable waste.",
+      "file": "section_80JJA.json"
+    },
+    {
+      "order": 234,
+      "article_number": "80JJAA",
+      "article_title": "Deduction in respect of employment of new employees.",
+      "file": "section_80JJAA.json"
+    },
+    {
+      "order": 235,
+      "article_number": "80K",
+      "article_title": "Deduction in respect of dividends attributable to profits and gains from new industrial undertakings or ships or hotel business.",
+      "file": "section_80K.json"
+    },
+    {
+      "order": 236,
+      "article_number": "80L",
+      "article_title": "Deductions in respect of interest on certain securities, dividends, etc.",
+      "file": "section_80L.json"
+    },
+    {
+      "order": 237,
+      "article_number": "80LA",
+      "article_title": "Deductions in respect of certain incomes of Offshore Banking Units and International Financial Services Centre.",
+      "file": "section_80LA.json"
+    },
+    {
+      "order": 238,
+      "article_number": "80M",
+      "article_title": "Deduction in respect of certain inter-corporate dividends.",
+      "file": "section_80M.json"
+    },
+    {
+      "order": 239,
+      "article_number": "80MM",
+      "article_title": "Deduction in the case of an Indian company in respect of royalties, etc., received from any concern in India.",
+      "file": "section_80MM.json"
+    },
+    {
+      "order": 240,
+      "article_number": "80N",
+      "article_title": "Deduction in respect of dividends received from certain foreign companies.",
+      "file": "section_80N.json"
+    },
+    {
+      "order": 241,
+      "article_number": "80-O",
+      "article_title": "Deduction in respect of royalties, etc., from certain foreign enterprises.",
+      "file": "section_80-O.json"
+    },
+    {
+      "order": 242,
+      "article_number": "80P",
+      "article_title": "Deduction in respect of income of co-operative societies.",
+      "file": "section_80P.json"
+    },
+    {
+      "order": 243,
+      "article_number": "80PA",
+      "article_title": "Deduction in respect of certain income of Producer Companies.",
+      "file": "section_80PA.json"
+    },
+    {
+      "order": 244,
+      "article_number": "80Q",
+      "article_title": "Deduction in respect of profits and gains from the business of publication of books.",
+      "file": "section_80Q.json"
+    },
+    {
+      "order": 245,
+      "article_number": "80QQ",
+      "article_title": "Deduction in respect of profits and gains from the business of publication of books.",
+      "file": "section_80QQ.json"
+    },
+    {
+      "order": 246,
+      "article_number": "80QQA",
+      "article_title": "Deduction in respect of professional income of authors of text books in Indian languages.",
+      "file": "section_80QQA.json"
+    },
+    {
+      "order": 247,
+      "article_number": "80QQB",
+      "article_title": "Deduction in respect of royalty income, etc., of authors of certain books other than text-books.",
+      "file": "section_80QQB.json"
+    },
+    {
+      "order": 248,
+      "article_number": "80R",
+      "article_title": "Deduction in respect of remuneration from certain foreign sources in the case of professors, teachers, etc.",
+      "file": "section_80R.json"
+    },
+    {
+      "order": 249,
+      "article_number": "80RR",
+      "article_title": "Deduction in respect of professional income from foreign sources in certain cases.",
+      "file": "section_80RR.json"
+    },
+    {
+      "order": 250,
+      "article_number": "80RRA",
+      "article_title": "Deduction in respect of remuneration received for services rendered outside India.",
+      "file": "section_80RRA.json"
+    },
+    {
+      "order": 251,
+      "article_number": "80RRB",
+      "article_title": "Deduction in respect of royalty on patents.",
+      "file": "section_80RRB.json"
+    },
+    {
+      "order": 252,
+      "article_number": "80S",
+      "article_title": "Deduction in respect of compensation for termination of managing agency, etc., in the case of assessees other than companies.",
+      "file": "section_80S.json"
+    },
+    {
+      "order": 253,
+      "article_number": "80T",
+      "article_title": "Deduction in respect of long-term capital gains in the case of assessees other than companies.",
+      "file": "section_80T.json"
+    },
+    {
+      "order": 254,
+      "article_number": "80TT",
+      "article_title": "Deduction in respect of winnings from lottery.",
+      "file": "section_80TT.json"
+    },
+    {
+      "order": 255,
+      "article_number": "80TTA",
+      "article_title": "Deduction in respect of interest on deposits in savings account.",
+      "file": "section_80TTA.json"
+    },
+    {
+      "order": 256,
+      "article_number": "80TTB",
+      "article_title": "Deduction in respect of interest on deposits in case of senior citizens.",
+      "file": "section_80TTB.json"
+    },
+    {
+      "order": 257,
+      "article_number": "80U",
+      "article_title": "Deduction in case of a person with disability.",
+      "file": "section_80U.json"
+    },
+    {
+      "order": 258,
+      "article_number": "80V",
+      "article_title": "Deduction from gross total income of the parent in certain cases.",
+      "file": "section_80V.json"
+    },
+    {
+      "order": 259,
+      "article_number": "80VV",
+      "article_title": "Deduction in respect of expenses incurred in connection with certain proceedings under the Act.",
+      "file": "section_80VV.json"
+    },
+    {
+      "order": 260,
+      "article_number": "80VVA",
+      "article_title": "",
+      "file": "section_80VVA.json"
+    },
+    {
+      "order": 261,
+      "article_number": "81",
+      "article_title": "",
+      "file": "section_81.json"
+    },
+    {
+      "order": 262,
+      "article_number": "86",
+      "article_title": "Share of member of an association of persons or body of individuals in the income of the association or body.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 263,
+      "article_number": "86A",
+      "article_title": "Deduction from tax on certain securities.",
+      "file": "section_86A.json"
+    },
+    {
+      "order": 264,
+      "article_number": "87",
+      "article_title": "Rebate to be allowed in computing income-tax.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 265,
+      "article_number": "87A",
+      "article_title": "Rebate of income-tax in case of certain individuals.",
+      "file": "section_87A.json"
+    },
+    {
+      "order": 266,
+      "article_number": "88",
+      "article_title": "Rebate on life insurance premia, contribution to provident fund, etc.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 267,
+      "article_number": "88A",
+      "article_title": "Rebate in respect of investment in certain new shares or units.",
+      "file": "section_88A.json"
+    },
+    {
+      "order": 268,
+      "article_number": "88B",
+      "article_title": "Rebate of income-tax in case of individuals of sixty-five years or above.",
+      "file": "section_88B.json"
+    },
+    {
+      "order": 269,
+      "article_number": "88C",
+      "article_title": "Rebate of income-tax in case of women below sixty-five years.",
+      "file": "section_88C.json"
+    },
+    {
+      "order": 270,
+      "article_number": "88D",
+      "article_title": "Rebate of income-tax in case of certain individuals.",
+      "file": "section_88D.json"
+    },
+    {
+      "order": 271,
+      "article_number": "88E",
+      "article_title": "Rebate in respect of securities transaction tax.",
+      "file": "section_88E.json"
+    },
+    {
+      "order": 272,
+      "article_number": "89",
+      "article_title": "Relief when salary, etc., is paid in arrears or in advance.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 273,
+      "article_number": "89A",
+      "article_title": "Relief from taxation in income from retirement benefit account maintained in a notified country.",
+      "file": "section_89A.json"
+    },
+    {
+      "order": 274,
+      "article_number": "90",
+      "article_title": "Agreement with foreign countries or specified territories.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 275,
+      "article_number": "90A",
+      "article_title": "Adoption by Central Government of agreement between specified associations for double taxation relief.",
+      "file": "section_90A.json"
+    },
+    {
+      "order": 276,
+      "article_number": "91",
+      "article_title": "Countries with which no agreement exists.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 277,
+      "article_number": "92",
+      "article_title": "Computation of income from international transaction having regard to arm's length price.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 278,
+      "article_number": "92A",
+      "article_title": "Meaning of associated enterprise.",
+      "file": "section_92A.json"
+    },
+    {
+      "order": 279,
+      "article_number": "92B",
+      "article_title": "Meaning of international transaction.",
+      "file": "section_92B.json"
+    },
+    {
+      "order": 280,
+      "article_number": "92BA",
+      "article_title": "Meaning of specified domestic transaction.",
+      "file": "section_92BA.json"
+    },
+    {
+      "order": 281,
+      "article_number": "92C",
+      "article_title": "Computation of arm's length price.",
+      "file": "section_92C.json"
+    },
+    {
+      "order": 282,
+      "article_number": "92CA",
+      "article_title": "Reference to Transfer Pricing Officer.",
+      "file": "section_92CA.json"
+    },
+    {
+      "order": 283,
+      "article_number": "92CB",
+      "article_title": "Power of Board to make safe harbour rules.",
+      "file": "section_92CB.json"
+    },
+    {
+      "order": 284,
+      "article_number": "92CC",
+      "article_title": "Advance pricing agreement.",
+      "file": "section_92CC.json"
+    },
+    {
+      "order": 285,
+      "article_number": "92CD",
+      "article_title": "Effect to advance pricing agreement.",
+      "file": "section_92CD.json"
+    },
+    {
+      "order": 286,
+      "article_number": "92CE",
+      "article_title": "Secondary adjustment in certain cases.",
+      "file": "section_92CE.json"
+    },
+    {
+      "order": 287,
+      "article_number": "92D",
+      "article_title": "Maintenance, keeping and furnishing of information and document by certain persons.",
+      "file": "section_92D.json"
+    },
+    {
+      "order": 288,
+      "article_number": "92E",
+      "article_title": "Report from an accountant to be furnished by persons entering into international transaction or specified domestic transaction.",
+      "file": "section_92E.json"
+    },
+    {
+      "order": 289,
+      "article_number": "92F",
+      "article_title": "Definitions of certain terms relevant to computation of arm's length price, etc.",
+      "file": "section_92F.json"
+    },
+    {
+      "order": 290,
+      "article_number": "93",
+      "article_title": "Avoidance of income-tax by transactions resulting in transfer of income to non-residents.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 291,
+      "article_number": "94",
+      "article_title": "Avoidance of tax by certain transactions in securities.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 292,
+      "article_number": "94A",
+      "article_title": "Special measures in respect of transactions with persons located in notified jurisdictional area.",
+      "file": "section_94A.json"
+    },
+    {
+      "order": 293,
+      "article_number": "94B",
+      "article_title": "Limitation on interest deduction in certain cases.",
+      "file": "section_94B.json"
+    },
+    {
+      "order": 294,
+      "article_number": "95",
+      "article_title": "Applicability of General Anti-Avoidance Rule.",
+      "file": "section_95.json"
+    },
+    {
+      "order": 295,
+      "article_number": "96",
+      "article_title": "Impermissible avoidance arrangement.",
+      "file": "section_96.json"
+    },
+    {
+      "order": 296,
+      "article_number": "97",
+      "article_title": "Arrangement to lack commercial substance.",
+      "file": "section_97.json"
+    },
+    {
+      "order": 297,
+      "article_number": "98",
+      "article_title": "Consequences of impermissible avoidance arrangement.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 298,
+      "article_number": "99",
+      "article_title": "Treatment of connected person and accommodating party.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 299,
+      "article_number": "100",
+      "article_title": "Application of this Chapter.",
+      "file": "section_100.json"
+    },
+    {
+      "order": 300,
+      "article_number": "101",
+      "article_title": "Framing of guidelines.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 301,
+      "article_number": "102",
+      "article_title": "Definitions.",
+      "file": "section_102.json"
+    },
+    {
+      "order": 302,
+      "article_number": "104",
+      "article_title": "Income-tax on undistributed income of certain companies.",
+      "file": "section_104.json"
+    },
+    {
+      "order": 303,
+      "article_number": "105",
+      "article_title": "Special provisions for certain companies.",
+      "file": "section_105.json"
+    },
+    {
+      "order": 304,
+      "article_number": "106",
+      "article_title": "Period of limitation for making orders under section 104.",
+      "file": "section_106.json"
+    },
+    {
+      "order": 305,
+      "article_number": "107",
+      "article_title": "Approval of Inspecting Assistant Commissioner for orders under section 104.",
+      "file": "section_107.json"
+    },
+    {
+      "order": 306,
+      "article_number": "107A",
+      "article_title": "Reduction of minimum distribution in certain cases.",
+      "file": "section_107A.json"
+    },
+    {
+      "order": 307,
+      "article_number": "108",
+      "article_title": "Savings for company in which public are substantially interested.",
+      "file": "section_108.json"
+    },
+    {
+      "order": 308,
+      "article_number": "109",
+      "article_title": "\"Distributable income\", \"investment company\" and \"statutory percentage\" defined.",
+      "file": "section_109.json"
+    },
+    {
+      "order": 309,
+      "article_number": "110",
+      "article_title": "Determination of tax where total income includes income on which no tax is payable.",
+      "file": "section_110.json"
+    },
+    {
+      "order": 310,
+      "article_number": "111",
+      "article_title": "Tax on accumulated balance of recognised provident fund.",
+      "file": "section_111.json"
+    },
+    {
+      "order": 311,
+      "article_number": "111A",
+      "article_title": "Tax on short-term capital gains in certain cases.",
+      "file": "section_111A.json"
+    },
+    {
+      "order": 312,
+      "article_number": "112",
+      "article_title": "Tax on long-term capital gains.",
+      "file": "section_112.json"
+    },
+    {
+      "order": 313,
+      "article_number": "112A",
+      "article_title": "Tax on long-term capital gains in certain cases.",
+      "file": "section_112A.json"
+    },
+    {
+      "order": 314,
+      "article_number": "113",
+      "article_title": "Tax in the case of block assessment of search cases.",
+      "file": "section_113.json"
+    },
+    {
+      "order": 315,
+      "article_number": "114",
+      "article_title": "Tax on capital gains in cases of assessees other than companies.",
+      "file": "section_114.json"
+    },
+    {
+      "order": 316,
+      "article_number": "115",
+      "article_title": "Tax on capital gains in case of companies.",
+      "file": "section_115.json"
+    },
+    {
+      "order": 317,
+      "article_number": "115A",
+      "article_title": "Tax on dividends, royalty and technical service fees in the case of foreign companies.",
+      "file": "section_115A.json"
+    },
+    {
+      "order": 318,
+      "article_number": "115AB",
+      "article_title": "Tax on income from units purchased in foreign currency or capital gains arising from their transfer.",
+      "file": "section_115AB.json"
+    },
+    {
+      "order": 319,
+      "article_number": "115AC",
+      "article_title": "Tax on income from bonds or Global Depository Receipts purchased in foreign currency or capital gains arising from their transfer.",
+      "file": "section_115AC.json"
+    },
+    {
+      "order": 320,
+      "article_number": "115ACA",
+      "article_title": "Tax on income from Global Depository Receipts purchased in foreign currency or capital gains arising from their transfer.",
+      "file": "section_115ACA.json"
+    },
+    {
+      "order": 321,
+      "article_number": "115AD",
+      "article_title": "Tax on income of Foreign Institutional Investors from securities or capital gains arising from their transfer.",
+      "file": "section_115AD.json"
+    },
+    {
+      "order": 322,
+      "article_number": "115B",
+      "article_title": "Tax on profits and gains of life insurance business.",
+      "file": "section_115B.json"
+    },
+    {
+      "order": 323,
+      "article_number": "115BA",
+      "article_title": "Tax on income of certain manufacturing] domestic companies.",
+      "file": "section_115BA.json"
+    },
+    {
+      "order": 324,
+      "article_number": "115BAA",
+      "article_title": "Tax on income of certain domestic companies.",
+      "file": "section_115BAA.json"
+    },
+    {
+      "order": 325,
+      "article_number": "115BAB",
+      "article_title": "Tax on income of new manufacturing domestic companies.",
+      "file": "section_115BAB.json"
+    },
+    {
+      "order": 326,
+      "article_number": "115BAC",
+      "article_title": "Tax on income of individuals, Hindu undivided family and others.",
+      "file": "section_115BAC.json"
+    },
+    {
+      "order": 327,
+      "article_number": "115BAD",
+      "article_title": "Tax on income of certain resident co-operative societies.",
+      "file": "section_115BAD.json"
+    },
+    {
+      "order": 328,
+      "article_number": "115BAE",
+      "article_title": "Tax on income of certain new manufacturing co-operative societies.",
+      "file": "section_115BAE.json"
+    },
+    {
+      "order": 329,
+      "article_number": "115BB",
+      "article_title": "Tax on winnings from lotteries, crossword puzzles, races including horse races, card games and other games of any sort or gambling or betting of any form or nature whatsoever.",
+      "file": "section_115BB.json"
+    },
+    {
+      "order": 330,
+      "article_number": "115BBA",
+      "article_title": "Tax on non-resident sportsmen or sports associations.",
+      "file": "section_115BBA.json"
+    },
+    {
+      "order": 331,
+      "article_number": "115BBB",
+      "article_title": "Tax on income from units of an open-ended equity oriented fund of the Unit Trust of India or of Mutual Funds.",
+      "file": "section_115BBB.json"
+    },
+    {
+      "order": 332,
+      "article_number": "115BBC",
+      "article_title": "Anonymous donations to be taxed in certain cases.",
+      "file": "section_115BBC.json"
+    },
+    {
+      "order": 333,
+      "article_number": "115BBD",
+      "article_title": "Tax on certain dividends received from foreign companies.",
+      "file": "section_115BBD.json"
+    },
+    {
+      "order": 334,
+      "article_number": "115BBDA",
+      "article_title": "Tax on certain dividends received from domestic companies.",
+      "file": "section_115BBDA.json"
+    },
+    {
+      "order": 335,
+      "article_number": "115BBE",
+      "article_title": "Tax on income referred to in section 68 or section 69 or section 69A or section 69B or section 69C or section 69D.",
+      "file": "section_115BBE.json"
+    },
+    {
+      "order": 336,
+      "article_number": "115BBF",
+      "article_title": "Tax on income from patent.",
+      "file": "section_115BBF.json"
+    },
+    {
+      "order": 337,
+      "article_number": "115BBG",
+      "article_title": "Tax on income from transfer of carbon credits.",
+      "file": "section_115BBG.json"
+    },
+    {
+      "order": 338,
+      "article_number": "115BBH",
+      "article_title": "Tax on income from virtual digital asset.",
+      "file": "section_115BBH.json"
+    },
+    {
+      "order": 339,
+      "article_number": "115BBI",
+      "article_title": "Specified income of certain institutions.",
+      "file": "section_115BBI.json"
+    },
+    {
+      "order": 340,
+      "article_number": "115BBJ",
+      "article_title": "Tax on winnings from online games.",
+      "file": "section_115BBJ.json"
+    },
+    {
+      "order": 341,
+      "article_number": "115C",
+      "article_title": "Definitions.",
+      "file": "section_115C.json"
+    },
+    {
+      "order": 342,
+      "article_number": "115D",
+      "article_title": "Special provision for computation of total income of non-residents.",
+      "file": "section_115D.json"
+    },
+    {
+      "order": 343,
+      "article_number": "115E",
+      "article_title": "Tax on investment income and long-term capital gains.",
+      "file": "section_115E.json"
+    },
+    {
+      "order": 344,
+      "article_number": "115F",
+      "article_title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
+      "file": "section_115F.json"
+    },
+    {
+      "order": 345,
+      "article_number": "115G",
+      "article_title": "Return of income not to be filed in certain cases.",
+      "file": "section_115G.json"
+    },
+    {
+      "order": 346,
+      "article_number": "115H",
+      "article_title": "Benefit under Chapter to be available in certain cases even after the assessee becomes resident.",
+      "file": "section_115H.json"
+    },
+    {
+      "order": 347,
+      "article_number": "115-I",
+      "article_title": "Chapter not to apply if the assessee so chooses.",
+      "file": "section_115-I.json"
+    },
+    {
+      "order": 348,
+      "article_number": "115J",
+      "article_title": "Special provisions relating to certain companies.",
+      "file": "section_115J.json"
+    },
+    {
+      "order": 349,
+      "article_number": "115JA",
+      "article_title": "Deemed income relating to certain companies.",
+      "file": "section_115JA.json"
+    },
+    {
+      "order": 350,
+      "article_number": "115JAA",
+      "article_title": "Tax credit in respect of tax paid on deemed income relating to certain companies.",
+      "file": "section_115JAA.json"
+    },
+    {
+      "order": 351,
+      "article_number": "115JB",
+      "article_title": "Special provision for payment of tax by certain companies.",
+      "file": "section_115JB.json"
+    },
+    {
+      "order": 352,
+      "article_number": "115JC",
+      "article_title": "Special provisions for payment of tax by certain persons other than a company.",
+      "file": "section_115JC.json"
+    },
+    {
+      "order": 353,
+      "article_number": "115JD",
+      "article_title": "Tax credit for alternate minimum tax.",
+      "file": "section_115JD.json"
+    },
+    {
+      "order": 354,
+      "article_number": "115JE",
+      "article_title": "Application of other provisions of this Act.",
+      "file": "section_115JE.json"
+    },
+    {
+      "order": 355,
+      "article_number": "115JEE",
+      "article_title": "Application of this Chapter to certain persons.",
+      "file": "section_115JEE.json"
+    },
+    {
+      "order": 356,
+      "article_number": "115JF",
+      "article_title": "Interpretation in this Chapter.",
+      "file": "section_115JF.json"
+    },
+    {
+      "order": 357,
+      "article_number": "115JG",
+      "article_title": "SPECIAL PROVISIONS RELATING TO CONVERSION OF INDIAN BRANCH OF A FOREIGN BANK INTO A SUBSIDIARY COMPANY Conversion of an Indian branch of foreign company into subsidiary Indian company.",
+      "file": "section_115JG.json"
+    },
+    {
+      "order": 358,
+      "article_number": "115JH",
+      "article_title": "Foreign company said to be resident in India.",
+      "file": "section_115JH.json"
+    },
+    {
+      "order": 359,
+      "article_number": "115K",
+      "article_title": "Special provision for computation of income in certain cases.",
+      "file": "section_115K.json"
+    },
+    {
+      "order": 360,
+      "article_number": "115L",
+      "article_title": "Return of income not to be filed in certain cases.",
+      "file": "section_115L.json"
+    },
+    {
+      "order": 361,
+      "article_number": "115M",
+      "article_title": "Special provision for disallowance of deductions and rebate of income-tax.",
+      "file": "section_115M.json"
+    },
+    {
+      "order": 362,
+      "article_number": "115N",
+      "article_title": "Bar of proceedings in certain cases.",
+      "file": "section_115N.json"
+    },
+    {
+      "order": 363,
+      "article_number": "115-O",
+      "article_title": "SPECIAL PROVISIONS RELATING TO TAX ON DISTRIBUTED PROFITS OF DOMESTIC COMPANIES Tax on distributed profits of domestic companies.",
+      "file": "section_115-O.json"
+    },
+    {
+      "order": 364,
+      "article_number": "115P",
+      "article_title": "Interest payable for non-payment of tax by domestic companies.",
+      "file": "section_115P.json"
+    },
+    {
+      "order": 365,
+      "article_number": "115Q",
+      "article_title": "When company is deemed to be in default.",
+      "file": "section_115Q.json"
+    },
+    {
+      "order": 366,
+      "article_number": "115QA",
+      "article_title": "SPECIAL PROVISIONS RELATING TO TAX ON DISTRIBUTED INCOME OF DOMESTIC COMPANY FOR BUY-BACK OF SHARES Tax on distributed income to shareholders.",
+      "file": "section_115QA.json"
+    },
+    {
+      "order": 367,
+      "article_number": "115QB",
+      "article_title": "Interest payable for non-payment of tax by company.",
+      "file": "section_115QB.json"
+    },
+    {
+      "order": 368,
+      "article_number": "115QC",
+      "article_title": "When company is deemed to be assessee in default.",
+      "file": "section_115QC.json"
+    },
+    {
+      "order": 369,
+      "article_number": "115R",
+      "article_title": "Tax on distributed income to unit holders.",
+      "file": "section_115R.json"
+    },
+    {
+      "order": 370,
+      "article_number": "115S",
+      "article_title": "Interest payable for non-payment of tax.",
+      "file": "section_115S.json"
+    },
+    {
+      "order": 371,
+      "article_number": "115T",
+      "article_title": "Unit Trust of India or Mutual Fund to be an assessee in default.",
+      "file": "section_115T.json"
+    },
+    {
+      "order": 372,
+      "article_number": "115TA",
+      "article_title": "SPECIAL PROVISIONS RELATING TO TAX ON DISTRIBUTED INCOME BY SECURITISATION TRUSTS Tax on distributed income to investors.",
+      "file": "section_115TA.json"
+    },
+    {
+      "order": 373,
+      "article_number": "115TB",
+      "article_title": "Interest payable for non-payment of tax.",
+      "file": "section_115TB.json"
+    },
+    {
+      "order": 374,
+      "article_number": "115TC",
+      "article_title": "Securitisation trust to be assessee in default.",
+      "file": "section_115TC.json"
+    },
+    {
+      "order": 375,
+      "article_number": "115TCA",
+      "article_title": "Tax on income from securitisation trusts.",
+      "file": "section_115TCA.json"
+    },
+    {
+      "order": 376,
+      "article_number": "115TD",
+      "article_title": "SPECIAL PROVISIONS RELATING TO TAX ON ACCRETED INCOME OF CERTAIN TRUSTS AND INSTITUTIONS Tax on accreted income.",
+      "file": "section_115TD.json"
+    },
+    {
+      "order": 377,
+      "article_number": "115TE",
+      "article_title": "Interest payable for non-payment of tax by specified person.",
+      "file": "section_115TE.json"
+    },
+    {
+      "order": 378,
+      "article_number": "115TF",
+      "article_title": "When specified person is deemed to be assessee in default.",
+      "file": "section_115TF.json"
+    },
+    {
+      "order": 379,
+      "article_number": "115U",
+      "article_title": "SPECIAL PROVISIONS RELATING TO TAX ON INCOME RECEIVED FROM VENTURE CAPITAL COMPANIES AND VENTURE Tax on income in certain cases.",
+      "file": "section_115U.json"
+    },
+    {
+      "order": 380,
+      "article_number": "115UA",
+      "article_title": "Tax on income of unit holder and business trust.",
+      "file": "section_115UA.json"
+    },
+    {
+      "order": 381,
+      "article_number": "115UB",
+      "article_title": "SPECIAL PROVISIONS RELATING TO TAX ON INCOME OF INVESTMENT FUNDS AND INCOME RECEIVED FROM SUCH FUNDS Tax on income of investment fund and its unit holders.",
+      "file": "section_115UB.json"
+    },
+    {
+      "order": 382,
+      "article_number": "115V",
+      "article_title": "Definitions.",
+      "file": "section_115V.json"
+    },
+    {
+      "order": 383,
+      "article_number": "115VA",
+      "article_title": "Computation of profits and gains from the business of operating qualifying ships.",
+      "file": "section_115VA.json"
+    },
+    {
+      "order": 384,
+      "article_number": "115VB",
+      "article_title": "Operating ships.",
+      "file": "section_115VB.json"
+    },
+    {
+      "order": 385,
+      "article_number": "115VC",
+      "article_title": "Qualifying company.",
+      "file": "section_115VC.json"
+    },
+    {
+      "order": 386,
+      "article_number": "115VD",
+      "article_title": "Qualifying ship.",
+      "file": "section_115VD.json"
+    },
+    {
+      "order": 387,
+      "article_number": "115VE",
+      "article_title": "Manner of computation of income under tonnage tax scheme.",
+      "file": "section_115VE.json"
+    },
+    {
+      "order": 388,
+      "article_number": "115VF",
+      "article_title": "Tonnage income.",
+      "file": "section_115VF.json"
+    },
+    {
+      "order": 389,
+      "article_number": "115VG",
+      "article_title": "Computation of tonnage income.",
+      "file": "section_115VG.json"
+    },
+    {
+      "order": 390,
+      "article_number": "115VH",
+      "article_title": "Calculation in case of joint operation, etc.",
+      "file": "section_115VH.json"
+    },
+    {
+      "order": 391,
+      "article_number": "115VJ",
+      "article_title": "Treatment of common costs.",
+      "file": "section_115VJ.json"
+    },
+    {
+      "order": 392,
+      "article_number": "115VK",
+      "article_title": "Depreciation.",
+      "file": "section_115VK.json"
+    },
+    {
+      "order": 393,
+      "article_number": "115VL",
+      "article_title": "General exclusion of deduction and set off, etc.",
+      "file": "section_115VL.json"
+    },
+    {
+      "order": 394,
+      "article_number": "115VM",
+      "article_title": "Exclusion of loss.",
+      "file": "section_115VM.json"
+    },
+    {
+      "order": 395,
+      "article_number": "115VN",
+      "article_title": "Chargeable gains from transfer of tonnage tax assets.",
+      "file": "section_115VN.json"
+    },
+    {
+      "order": 396,
+      "article_number": "115VP",
+      "article_title": "Method and time of opting for tonnage tax scheme.",
+      "file": "section_115VP.json"
+    },
+    {
+      "order": 397,
+      "article_number": "115VQ",
+      "article_title": "Period for which tonnage tax option to remain in force.",
+      "file": "section_115VQ.json"
+    },
+    {
+      "order": 398,
+      "article_number": "115VR",
+      "article_title": "Renewal of tonnage tax scheme.",
+      "file": "section_115VR.json"
+    },
+    {
+      "order": 399,
+      "article_number": "115VS",
+      "article_title": "Prohibition to opt for tonnage tax scheme in certain cases.",
+      "file": "section_115VS.json"
+    },
+    {
+      "order": 400,
+      "article_number": "115VT",
+      "article_title": "Transfer of profits to Tonnage Tax Reserve Account.",
+      "file": "section_115VT.json"
+    },
+    {
+      "order": 401,
+      "article_number": "115VU",
+      "article_title": "Minimum training requirement for tonnage tax company.",
+      "file": "section_115VU.json"
+    },
+    {
+      "order": 402,
+      "article_number": "115VV",
+      "article_title": "Limit for charter in of tonnage.",
+      "file": "section_115VV.json"
+    },
+    {
+      "order": 403,
+      "article_number": "115VW",
+      "article_title": "Maintenance and audit of accounts.",
+      "file": "section_115VW.json"
+    },
+    {
+      "order": 404,
+      "article_number": "115VX",
+      "article_title": "Determination of tonnage.",
+      "file": "section_115VX.json"
+    },
+    {
+      "order": 405,
+      "article_number": "115VY",
+      "article_title": "Amalgamation.",
+      "file": "section_115VY.json"
+    },
+    {
+      "order": 406,
+      "article_number": "115VZ",
+      "article_title": "Demerger.",
+      "file": "section_115VZ.json"
+    },
+    {
+      "order": 407,
+      "article_number": "115VZA",
+      "article_title": "Effect of temporarily ceasing to operate qualifying ships.",
+      "file": "section_115VZA.json"
+    },
+    {
+      "order": 408,
+      "article_number": "115VZB",
+      "article_title": "Avoidance of tax.",
+      "file": "section_115VZB.json"
+    },
+    {
+      "order": 409,
+      "article_number": "115VZC",
+      "article_title": "Exclusion from tonnage tax scheme.",
+      "file": "section_115VZC.json"
+    },
+    {
+      "order": 410,
+      "article_number": "115W",
+      "article_title": "Definitions.",
+      "file": "section_115W.json"
+    },
+    {
+      "order": 411,
+      "article_number": "115WA",
+      "article_title": "Charge of fringe benefit tax.",
+      "file": "section_115WA.json"
+    },
+    {
+      "order": 412,
+      "article_number": "115WB",
+      "article_title": "Fringe benefits.",
+      "file": "section_115WB.json"
+    },
+    {
+      "order": 413,
+      "article_number": "115WC",
+      "article_title": "Value of fringe benefits.",
+      "file": "section_115WC.json"
+    },
+    {
+      "order": 414,
+      "article_number": "115WD",
+      "article_title": "Return of fringe benefits.",
+      "file": "section_115WD.json"
+    },
+    {
+      "order": 415,
+      "article_number": "115WE",
+      "article_title": "Assessment.",
+      "file": "section_115WE.json"
+    },
+    {
+      "order": 416,
+      "article_number": "115WF",
+      "article_title": "Best judgment assessment.",
+      "file": "section_115WF.json"
+    },
+    {
+      "order": 417,
+      "article_number": "115WG",
+      "article_title": "Fringe benefits escaping assessment.",
+      "file": "section_115WG.json"
+    },
+    {
+      "order": 418,
+      "article_number": "115WH",
+      "article_title": "Issue of notice where fringe benefits have escaped assessment.",
+      "file": "section_115WH.json"
+    },
+    {
+      "order": 419,
+      "article_number": "115WI",
+      "article_title": "Payment of fringe benefit tax.",
+      "file": "section_115WI.json"
+    },
+    {
+      "order": 420,
+      "article_number": "115WJ",
+      "article_title": "Advance tax in respect of fringe benefits.",
+      "file": "section_115WJ.json"
+    },
+    {
+      "order": 421,
+      "article_number": "115WK",
+      "article_title": "Interest for default in furnishing return of fringe benefits.",
+      "file": "section_115WK.json"
+    },
+    {
+      "order": 422,
+      "article_number": "115WKA",
+      "article_title": "Recovery of fringe benefit tax by the employer from the employee.",
+      "file": "section_115WKA.json"
+    },
+    {
+      "order": 423,
+      "article_number": "115WKB",
+      "article_title": "Deemed payment of tax by employee.",
+      "file": "section_115WKB.json"
+    },
+    {
+      "order": 424,
+      "article_number": "115WL",
+      "article_title": "Application of other provisions of this Act.",
+      "file": "section_115WL.json"
+    },
+    {
+      "order": 425,
+      "article_number": "115WM",
+      "article_title": "Chapter XII-H not to apply after a certain date.",
+      "file": "section_115WM.json"
+    },
+    {
+      "order": 426,
+      "article_number": "116",
+      "article_title": "Income-tax authorities.",
+      "file": "section_116.json"
+    },
+    {
+      "order": 427,
+      "article_number": "117",
+      "article_title": "Appointment of income-tax authorities.",
+      "file": "section_117.json"
+    },
+    {
+      "order": 428,
+      "article_number": "118",
+      "article_title": "Control of income-tax authorities.",
+      "file": "section_118.json"
+    },
+    {
+      "order": 429,
+      "article_number": "119",
+      "article_title": "Instructions to subordinate authorities.",
+      "file": "section_119.json"
+    },
+    {
+      "order": 430,
+      "article_number": "119A",
+      "article_title": "Taxpayer's Charter.",
+      "file": "section_119A.json"
+    },
+    {
+      "order": 431,
+      "article_number": "120",
+      "article_title": "Jurisdiction of income-tax authorities.",
+      "file": "section_120.json"
+    },
+    {
+      "order": 432,
+      "article_number": "121",
+      "article_title": "Jurisdiction of Commissioners.",
+      "file": "section_121.json"
+    },
+    {
+      "order": 433,
+      "article_number": "121A",
+      "article_title": "Jurisdiction of Commissioners (Appeals).",
+      "file": "section_121A.json"
+    },
+    {
+      "order": 434,
+      "article_number": "122",
+      "article_title": "Jurisdiction of Appellate Assistant Commissioners.",
+      "file": "section_122.json"
+    },
+    {
+      "order": 435,
+      "article_number": "123",
+      "article_title": "Jurisdiction of Inspecting Assistant Commissioners.",
+      "file": "section_123.json"
+    },
+    {
+      "order": 436,
+      "article_number": "124",
+      "article_title": "Jurisdiction of Assessing Officers.",
+      "file": "section_124.json"
+    },
+    {
+      "order": 437,
+      "article_number": "125",
+      "article_title": "Powers of Commissioner respecting specified areas, cases, persons, etc.",
+      "file": "section_125.json"
+    },
+    {
+      "order": 438,
+      "article_number": "125A",
+      "article_title": "Concurrent jurisdiction of Inspecting Assistant Commissioner and Income-tax Officer.",
+      "file": "section_125A.json"
+    },
+    {
+      "order": 439,
+      "article_number": "126",
+      "article_title": "Powers of Board respecting specified area, classes of persons or incomes.",
+      "file": "section_126.json"
+    },
+    {
+      "order": 440,
+      "article_number": "127",
+      "article_title": "Power to transfer cases.",
+      "file": "section_127.json"
+    },
+    {
+      "order": 441,
+      "article_number": "128",
+      "article_title": "Functions of Inspectors of Income-tax.",
+      "file": "section_128.json"
+    },
+    {
+      "order": 442,
+      "article_number": "129",
+      "article_title": "Change of incumbent of an office.",
+      "file": "section_129.json"
+    },
+    {
+      "order": 443,
+      "article_number": "130",
+      "article_title": "Faceless jurisdiction of income-tax authorities.",
+      "file": "section_130.json"
+    },
+    {
+      "order": 444,
+      "article_number": "130A",
+      "article_title": "Income-tax Officer competent to perform any function or functions.",
+      "file": "section_130A.json"
+    },
+    {
+      "order": 445,
+      "article_number": "131",
+      "article_title": "Power regarding discovery, production of evidence, etc.",
+      "file": "section_131.json"
+    },
+    {
+      "order": 446,
+      "article_number": "132",
+      "article_title": "Search and seizure.",
+      "file": "section_132.json"
+    },
+    {
+      "order": 447,
+      "article_number": "132A",
+      "article_title": "Powers to requisition books of account, etc.",
+      "file": "section_132A.json"
+    },
+    {
+      "order": 448,
+      "article_number": "132B",
+      "article_title": "Application of seized or requisitioned assets.",
+      "file": "section_132B.json"
+    },
+    {
+      "order": 449,
+      "article_number": "133",
+      "article_title": "Power to call for information.",
+      "file": "section_133.json"
+    },
+    {
+      "order": 450,
+      "article_number": "133A",
+      "article_title": "Power of survey.",
+      "file": "section_133A.json"
+    },
+    {
+      "order": 451,
+      "article_number": "133B",
+      "article_title": "Power to collect certain information.",
+      "file": "section_133B.json"
+    },
+    {
+      "order": 452,
+      "article_number": "133C",
+      "article_title": "Power to call for information by prescribed income-tax authority.",
+      "file": "section_133C.json"
+    },
+    {
+      "order": 453,
+      "article_number": "134",
+      "article_title": "Power to inspect registers of companies.",
+      "file": "section_134.json"
+    },
+    {
+      "order": 454,
+      "article_number": "135",
+      "article_title": "Power of Principal Director General or Director General or Principal Director or Director, Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner and Joint Commissioner.",
+      "file": "section_135.json"
+    },
+    {
+      "order": 455,
+      "article_number": "135A",
+      "article_title": "Faceless collection of information.",
+      "file": "section_135A.json"
+    },
+    {
+      "order": 456,
+      "article_number": "136",
+      "article_title": "Proceedings before income-tax authorities to be judicial proceedings.",
+      "file": "section_136.json"
+    },
+    {
+      "order": 457,
+      "article_number": "137",
+      "article_title": "Disclosure of information prohibited.",
+      "file": "section_137.json"
+    },
+    {
+      "order": 458,
+      "article_number": "138",
+      "article_title": "Disclosure of information respecting assessees.",
+      "file": "section_138.json"
+    },
+    {
+      "order": 459,
+      "article_number": "139",
+      "article_title": "Return of income.",
+      "file": "section_139.json"
+    },
+    {
+      "order": 460,
+      "article_number": "139A",
+      "article_title": "Permanent account number.",
+      "file": "section_139A.json"
+    },
+    {
+      "order": 461,
+      "article_number": "139AA",
+      "article_title": "Quoting of Aadhaar number.",
+      "file": "section_139AA.json"
+    },
+    {
+      "order": 462,
+      "article_number": "139B",
+      "article_title": "Scheme for submission of returns through Tax Return Preparers.",
+      "file": "section_139B.json"
+    },
+    {
+      "order": 463,
+      "article_number": "139C",
+      "article_title": "Power of Board to dispense with furnishing documents, etc., with return.",
+      "file": "section_139C.json"
+    },
+    {
+      "order": 464,
+      "article_number": "139D",
+      "article_title": "Filing of return in electronic form.",
+      "file": "section_139D.json"
+    },
+    {
+      "order": 465,
+      "article_number": "140",
+      "article_title": "Return by whom to be verified.",
+      "file": "section_140.json"
+    },
+    {
+      "order": 466,
+      "article_number": "140A",
+      "article_title": "Self-assessment.",
+      "file": "section_140A.json"
+    },
+    {
+      "order": 467,
+      "article_number": "140B",
+      "article_title": "Tax on updated return.",
+      "file": "section_140B.json"
+    },
+    {
+      "order": 468,
+      "article_number": "141",
+      "article_title": "Provisional assessment.",
+      "file": "section_141.json"
+    },
+    {
+      "order": 469,
+      "article_number": "141A",
+      "article_title": "Provisional assessment for refund.",
+      "file": "section_141A.json"
+    },
+    {
+      "order": 470,
+      "article_number": "142",
+      "article_title": "Inquiry before assessment.",
+      "file": "section_142.json"
+    },
+    {
+      "order": 471,
+      "article_number": "142A",
+      "article_title": "Estimation of value of assets by Valuation Officer.",
+      "file": "section_142A.json"
+    },
+    {
+      "order": 472,
+      "article_number": "142B",
+      "article_title": "Faceless inquiry or Valuation.",
+      "file": "section_142B.json"
+    },
+    {
+      "order": 473,
+      "article_number": "143",
+      "article_title": "Assessment.",
+      "file": "section_143.json"
+    },
+    {
+      "order": 474,
+      "article_number": "144",
+      "article_title": "Best judgment assessment.",
+      "file": "section_144.json"
+    },
+    {
+      "order": 475,
+      "article_number": "144A",
+      "article_title": "Power of Joint Commissioner to issue directions in certain cases.",
+      "file": "section_144A.json"
+    },
+    {
+      "order": 476,
+      "article_number": "144B",
+      "article_title": "Faceless Assessment.",
+      "file": "section_144B.json"
+    },
+    {
+      "order": 477,
+      "article_number": "144BA",
+      "article_title": "Reference to Principal Commissioner or Commissioner in certain cases.",
+      "file": "section_144BA.json"
+    },
+    {
+      "order": 478,
+      "article_number": "144C",
+      "article_title": "Reference to dispute resolution panel.",
+      "file": "section_144C.json"
+    },
+    {
+      "order": 479,
+      "article_number": "145",
+      "article_title": "Method of accounting.",
+      "file": "section_145.json"
+    },
+    {
+      "order": 480,
+      "article_number": "145A",
+      "article_title": "Method of accounting in certain cases.",
+      "file": "section_145A.json"
+    },
+    {
+      "order": 481,
+      "article_number": "145B",
+      "article_title": "Taxability of certain income.",
+      "file": "section_145B.json"
+    },
+    {
+      "order": 482,
+      "article_number": "146",
+      "article_title": "Reopening of assessment at the instance of the assessee.",
+      "file": "section_146.json"
+    },
+    {
+      "order": 483,
+      "article_number": "147",
+      "article_title": "Income escaping assessment.",
+      "file": "section_147.json"
+    },
+    {
+      "order": 484,
+      "article_number": "147A",
+      "article_title": "Assessing Officer for purposes of sections 148 and 148A.",
+      "file": "section_147A.json"
+    },
+    {
+      "order": 485,
+      "article_number": "148",
+      "article_title": "Issue of notice where income has escaped assessment.",
+      "file": "section_148.json"
+    },
+    {
+      "order": 486,
+      "article_number": "148A",
+      "article_title": "Procedure before issuance of notice under section 148.",
+      "file": "section_148A.json"
+    },
+    {
+      "order": 487,
+      "article_number": "148B",
+      "article_title": "Prior approval for assessment, reassessment or recomputation in certain cases.",
+      "file": "section_148B.json"
+    },
+    {
+      "order": 488,
+      "article_number": "149",
+      "article_title": "Time limit for notices under sections 148 and 148A.",
+      "file": "section_149.json"
+    },
+    {
+      "order": 489,
+      "article_number": "150",
+      "article_title": "Provision for cases where assessment is in pursuance of an order on appeal, etc.",
+      "file": "section_150.json"
+    },
+    {
+      "order": 490,
+      "article_number": "151",
+      "article_title": "Sanction for issue of notice.",
+      "file": "section_151.json"
+    },
+    {
+      "order": 491,
+      "article_number": "151A",
+      "article_title": "Faceless assessment of income escaping assessment.",
+      "file": "section_151A.json"
+    },
+    {
+      "order": 492,
+      "article_number": "152",
+      "article_title": "Other provisions.",
+      "file": "section_152.json"
+    },
+    {
+      "order": 493,
+      "article_number": "153",
+      "article_title": "Time limit for completion of assessment, reassessment and recomputation.",
+      "file": "section_153.json"
+    },
+    {
+      "order": 494,
+      "article_number": "153A",
+      "article_title": "Assessment in case of search or requisition.",
+      "file": "section_153A.json"
+    },
+    {
+      "order": 495,
+      "article_number": "153B",
+      "article_title": "Time limit for completion of assessment under section 153A.",
+      "file": "section_153B.json"
+    },
+    {
+      "order": 496,
+      "article_number": "153C",
+      "article_title": "Assessment of income of any other person.",
+      "file": "section_153C.json"
+    },
+    {
+      "order": 497,
+      "article_number": "153D",
+      "article_title": "Prior approval necessary for assessment in cases of search or requisition.",
+      "file": "section_153D.json"
+    },
+    {
+      "order": 498,
+      "article_number": "154",
+      "article_title": "Rectification of mistake.",
+      "file": "section_154.json"
+    },
+    {
+      "order": 499,
+      "article_number": "155",
+      "article_title": "Other amendments.",
+      "file": "section_155.json"
+    },
+    {
+      "order": 500,
+      "article_number": "156",
+      "article_title": "Notice of demand.",
+      "file": "section_156.json"
+    },
+    {
+      "order": 501,
+      "article_number": "156A",
+      "article_title": "Modification and revision of notice in certain cases.",
+      "file": "section_156A.json"
+    },
+    {
+      "order": 502,
+      "article_number": "157",
+      "article_title": "Intimation of loss.",
+      "file": "section_157.json"
+    },
+    {
+      "order": 503,
+      "article_number": "157A",
+      "article_title": "Faceless rectification, amendments and issuance of notice or intimation.",
+      "file": "section_157A.json"
+    },
+    {
+      "order": 504,
+      "article_number": "158",
+      "article_title": "Intimation of assessment of firm.",
+      "file": "section_158.json"
+    },
+    {
+      "order": 505,
+      "article_number": "158A",
+      "article_title": "Procedure when assessee claims identical question of law is pending before High Court or Supreme Court.",
+      "file": "section_158A.json"
+    },
+    {
+      "order": 506,
+      "article_number": "158AA",
+      "article_title": "Procedure when in an appeal by revenue an identical question of law is pending before Supreme Court.",
+      "file": "section_158AA.json"
+    },
+    {
+      "order": 507,
+      "article_number": "158AB",
+      "article_title": "Procedure where an identical question of law is pending before High Courts or Supreme Court.",
+      "file": "section_158AB.json"
+    },
+    {
+      "order": 508,
+      "article_number": "158B",
+      "article_title": "Definitions.",
+      "file": "section_158B.json"
+    },
+    {
+      "order": 509,
+      "article_number": "158BA",
+      "article_title": "Assessment of total undisclosed income as a result of search.",
+      "file": "section_158BA.json"
+    },
+    {
+      "order": 510,
+      "article_number": "158BB",
+      "article_title": "Computation of total undisclosed income of block period.",
+      "file": "section_158BB.json"
+    },
+    {
+      "order": 511,
+      "article_number": "158BC",
+      "article_title": "Procedure for block assessment.",
+      "file": "section_158BC.json"
+    },
+    {
+      "order": 512,
+      "article_number": "158BD",
+      "article_title": "Undisclosed income of any other person.",
+      "file": "section_158BD.json"
+    },
+    {
+      "order": 513,
+      "article_number": "158BE",
+      "article_title": "Time-limit for completion of block assessment.",
+      "file": "section_158BE.json"
+    },
+    {
+      "order": 514,
+      "article_number": "158BF",
+      "article_title": "Certain interests and penalties not to be levied or imposed.",
+      "file": "section_158BF.json"
+    },
+    {
+      "order": 515,
+      "article_number": "158BFA",
+      "article_title": "Levy of interest and penalty in certain cases.",
+      "file": "section_158BFA.json"
+    },
+    {
+      "order": 516,
+      "article_number": "158BG",
+      "article_title": "Authority competent to make assessment of block period.",
+      "file": "section_158BG.json"
+    },
+    {
+      "order": 517,
+      "article_number": "158BH",
+      "article_title": "Application of other provisions of this Act.",
+      "file": "section_158BH.json"
+    },
+    {
+      "order": 518,
+      "article_number": "158BI",
+      "article_title": "Chapter not to apply in certain circumstances.",
+      "file": "section_158BI.json"
+    },
+    {
+      "order": 519,
+      "article_number": "159",
+      "article_title": "Legal representatives.",
+      "file": "section_159.json"
+    },
+    {
+      "order": 520,
+      "article_number": "160",
+      "article_title": "Representative assessee.",
+      "file": "section_160.json"
+    },
+    {
+      "order": 521,
+      "article_number": "161",
+      "article_title": "Liability of representative assessee.",
+      "file": "section_161.json"
+    },
+    {
+      "order": 522,
+      "article_number": "162",
+      "article_title": "Right of representative assessee to recover tax paid.",
+      "file": "section_162.json"
+    },
+    {
+      "order": 523,
+      "article_number": "163",
+      "article_title": "Who may be regarded as agent.",
+      "file": "section_163.json"
+    },
+    {
+      "order": 524,
+      "article_number": "164",
+      "article_title": "Charge of tax where share of beneficiaries unknown.",
+      "file": "section_164.json"
+    },
+    {
+      "order": 525,
+      "article_number": "164A",
+      "article_title": "Charge of tax in case of oral trust.",
+      "file": "section_164A.json"
+    },
+    {
+      "order": 526,
+      "article_number": "165",
+      "article_title": "Case where part of trust income is chargeable.",
+      "file": "section_165.json"
+    },
+    {
+      "order": 527,
+      "article_number": "166",
+      "article_title": "Direct assessment or recovery not barred.",
+      "file": "section_166.json"
+    },
+    {
+      "order": 528,
+      "article_number": "167",
+      "article_title": "Remedies against property in cases of representative assessees.",
+      "file": "section_167.json"
+    },
+    {
+      "order": 529,
+      "article_number": "167A",
+      "article_title": "Charge of tax in the case of a firm.",
+      "file": "section_167A.json"
+    },
+    {
+      "order": 530,
+      "article_number": "167B",
+      "article_title": "Charge of tax where shares of members in association of persons or body of individuals unknown, etc.",
+      "file": "section_167B.json"
+    },
+    {
+      "order": 531,
+      "article_number": "167C",
+      "article_title": "Liability of partners of limited liability partnership in liquidation.",
+      "file": "section_167C.json"
+    },
+    {
+      "order": 532,
+      "article_number": "168",
+      "article_title": "Executors.",
+      "file": "section_168.json"
+    },
+    {
+      "order": 533,
+      "article_number": "169",
+      "article_title": "Right of executor to recover tax paid.",
+      "file": "section_169.json"
+    },
+    {
+      "order": 534,
+      "article_number": "170",
+      "article_title": "Succession to business otherwise than on death.",
+      "file": "section_170.json"
+    },
+    {
+      "order": 535,
+      "article_number": "170A",
+      "article_title": "Effect of order of tribunal or court in respect of business reorganisation.",
+      "file": "section_170A.json"
+    },
+    {
+      "order": 536,
+      "article_number": "171",
+      "article_title": "Assessment after partition of a Hindu undivided family.",
+      "file": "section_171.json"
+    },
+    {
+      "order": 537,
+      "article_number": "172",
+      "article_title": "Shipping business of non-residents.",
+      "file": "section_172.json"
+    },
+    {
+      "order": 538,
+      "article_number": "173",
+      "article_title": "Recovery of tax in respect of non-resident from his assets.",
+      "file": "section_173.json"
+    },
+    {
+      "order": 539,
+      "article_number": "174",
+      "article_title": "Assessment of persons leaving India.",
+      "file": "section_174.json"
+    },
+    {
+      "order": 540,
+      "article_number": "174A",
+      "article_title": "Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose.",
+      "file": "section_174A.json"
+    },
+    {
+      "order": 541,
+      "article_number": "175",
+      "article_title": "Assessment of persons likely to transfer property to avoid tax.",
+      "file": "section_175.json"
+    },
+    {
+      "order": 542,
+      "article_number": "176",
+      "article_title": "Discontinued business.",
+      "file": "section_176.json"
+    },
+    {
+      "order": 543,
+      "article_number": "177",
+      "article_title": "Association dissolved or business discontinued.",
+      "file": "section_177.json"
+    },
+    {
+      "order": 544,
+      "article_number": "178",
+      "article_title": "Company in liquidation.",
+      "file": "section_178.json"
+    },
+    {
+      "order": 545,
+      "article_number": "179",
+      "article_title": "Liability of directors of private company.",
+      "file": "section_179.json"
+    },
+    {
+      "order": 546,
+      "article_number": "180",
+      "article_title": "Royalties or copyright fees for literary or artistic work.",
+      "file": "section_180.json"
+    },
+    {
+      "order": 547,
+      "article_number": "180A",
+      "article_title": "Consideration for know-how.",
+      "file": "section_180A.json"
+    },
+    {
+      "order": 548,
+      "article_number": "181",
+      "article_title": "",
+      "file": "section_181.json"
+    },
+    {
+      "order": 549,
+      "article_number": "182",
+      "article_title": "Assessment of registered firms.",
+      "file": "section_182.json"
+    },
+    {
+      "order": 550,
+      "article_number": "183",
+      "article_title": "Assessment of unregistered firms.",
+      "file": "section_183.json"
+    },
+    {
+      "order": 551,
+      "article_number": "184",
+      "article_title": "Assessment as a firm.",
+      "file": "section_184.json"
+    },
+    {
+      "order": 552,
+      "article_number": "185",
+      "article_title": "Assessment when section 184 not complied with.",
+      "file": "section_185.json"
+    },
+    {
+      "order": 553,
+      "article_number": "187",
+      "article_title": "Change in constitution of a firm.",
+      "file": "section_187.json"
+    },
+    {
+      "order": 554,
+      "article_number": "188",
+      "article_title": "Succession of one firm by another firm.",
+      "file": "section_188.json"
+    },
+    {
+      "order": 555,
+      "article_number": "188A",
+      "article_title": "Joint and several liability of partners for tax payable by firm.",
+      "file": "section_188A.json"
+    },
+    {
+      "order": 556,
+      "article_number": "189",
+      "article_title": "Firm dissolved or business discontinued.",
+      "file": "section_189.json"
+    },
+    {
+      "order": 557,
+      "article_number": "189A",
+      "article_title": "Provisions applicable to past assessments of firms.",
+      "file": "section_189A.json"
+    },
+    {
+      "order": 558,
+      "article_number": "190",
+      "article_title": "Deduction at source and advance payment.",
+      "file": "section_190.json"
+    },
+    {
+      "order": 559,
+      "article_number": "191",
+      "article_title": "Direct payment.",
+      "file": "section_191.json"
+    },
+    {
+      "order": 560,
+      "article_number": "192",
+      "article_title": "Salary.",
+      "file": "section_192.json"
+    },
+    {
+      "order": 561,
+      "article_number": "192A",
+      "article_title": "Payment of accumulated balance due to an employee.",
+      "file": "section_192A.json"
+    },
+    {
+      "order": 562,
+      "article_number": "193",
+      "article_title": "Interest on securities.",
+      "file": "section_193.json"
+    },
+    {
+      "order": 563,
+      "article_number": "194",
+      "article_title": "Dividends.",
+      "file": "section_194.json"
+    },
+    {
+      "order": 564,
+      "article_number": "194A",
+      "article_title": "Interest other than \"Interest on securities\".",
+      "file": "section_194A.json"
+    },
+    {
+      "order": 565,
+      "article_number": "194B",
+      "article_title": "Winnings from lottery or crossword puzzle, etc.",
+      "file": "section_194B.json"
+    },
+    {
+      "order": 566,
+      "article_number": "194BA",
+      "article_title": "Winnings from online games.",
+      "file": "section_194BA.json"
+    },
+    {
+      "order": 567,
+      "article_number": "194BB",
+      "article_title": "Winnings from horse race.",
+      "file": "section_194BB.json"
+    },
+    {
+      "order": 568,
+      "article_number": "194C",
+      "article_title": "Payments to contractors.",
+      "file": "section_194C.json"
+    },
+    {
+      "order": 569,
+      "article_number": "194D",
+      "article_title": "Insurance commission.",
+      "file": "section_194D.json"
+    },
+    {
+      "order": 570,
+      "article_number": "194DA",
+      "article_title": "Payment in respect of life insurance policy.",
+      "file": "section_194DA.json"
+    },
+    {
+      "order": 571,
+      "article_number": "194E",
+      "article_title": "Payments to non-resident sportsmen or sports associations.",
+      "file": "section_194E.json"
+    },
+    {
+      "order": 572,
+      "article_number": "194EE",
+      "article_title": "Payments in respect of deposits under National Savings Scheme, etc.",
+      "file": "section_194EE.json"
+    },
+    {
+      "order": 573,
+      "article_number": "194F",
+      "article_title": "Payments on account of repurchase of units by Mutual Fund or Unit Trust of India.",
+      "file": "section_194F.json"
+    },
+    {
+      "order": 574,
+      "article_number": "194G",
+      "article_title": "Commission, etc., on sale of lottery tickets.",
+      "file": "section_194G.json"
+    },
+    {
+      "order": 575,
+      "article_number": "194H",
+      "article_title": "Commission or brokerage.",
+      "file": "section_194H.json"
+    },
+    {
+      "order": 576,
+      "article_number": "194-I",
+      "article_title": "Rent.",
+      "file": "section_194-I.json"
+    },
+    {
+      "order": 577,
+      "article_number": "194-IA",
+      "article_title": "Payment on transfer of certain immovable property other than agricultural land.",
+      "file": "section_194-IA.json"
+    },
+    {
+      "order": 578,
+      "article_number": "194-IB",
+      "article_title": "Payment of rent by certain individuals or Hindu undivided family.",
+      "file": "section_194-IB.json"
+    },
+    {
+      "order": 579,
+      "article_number": "194-IC",
+      "article_title": "Payment under specified agreement.",
+      "file": "section_194-IC.json"
+    },
+    {
+      "order": 580,
+      "article_number": "194J",
+      "article_title": "Fees for professional or technical services.",
+      "file": "section_194J.json"
+    },
+    {
+      "order": 581,
+      "article_number": "194K",
+      "article_title": "Income in respect of units.",
+      "file": "section_194K.json"
+    },
+    {
+      "order": 582,
+      "article_number": "194L",
+      "article_title": "Payment of compensation on acquisition of capital asset.",
+      "file": "section_194L.json"
+    },
+    {
+      "order": 583,
+      "article_number": "194LA",
+      "article_title": "Payment of compensation on acquisition of certain immovable property.",
+      "file": "section_194LA.json"
+    },
+    {
+      "order": 584,
+      "article_number": "194LB",
+      "article_title": "Income by way of interest from infrastructure debt fund.",
+      "file": "section_194LB.json"
+    },
+    {
+      "order": 585,
+      "article_number": "194LBA",
+      "article_title": "Certain income from units of a business trust.",
+      "file": "section_194LBA.json"
+    },
+    {
+      "order": 586,
+      "article_number": "194LBB",
+      "article_title": "Income in respect of units of investment fund.",
+      "file": "section_194LBB.json"
+    },
+    {
+      "order": 587,
+      "article_number": "194LBC",
+      "article_title": "Income in respect of investment in securitization trust.",
+      "file": "section_194LBC.json"
+    },
+    {
+      "order": 588,
+      "article_number": "194LC",
+      "article_title": "Income by way of interest from Indian company.",
+      "file": "section_194LC.json"
+    },
+    {
+      "order": 589,
+      "article_number": "194LD",
+      "article_title": "Income by way of interest on certain bonds and Government securities.",
+      "file": "section_194LD.json"
+    },
+    {
+      "order": 590,
+      "article_number": "194M",
+      "article_title": "Payment of certain sums by certain individuals or Hindu undivided family.",
+      "file": "section_194M.json"
+    },
+    {
+      "order": 591,
+      "article_number": "194N",
+      "article_title": "Payment of certain amounts in cash.",
+      "file": "section_194N.json"
+    },
+    {
+      "order": 592,
+      "article_number": "194-O",
+      "article_title": "Payment of certain sums by e-commerce operator to e-commerce participant.",
+      "file": "section_194-O.json"
+    },
+    {
+      "order": 593,
+      "article_number": "194P",
+      "article_title": "Deduction of tax in case of specified senior citizen.",
+      "file": "section_194P.json"
+    },
+    {
+      "order": 594,
+      "article_number": "194Q",
+      "article_title": "Deduction of tax at source on payment of certain sum for purchase of goods.",
+      "file": "section_194Q.json"
+    },
+    {
+      "order": 595,
+      "article_number": "194R",
+      "article_title": "Deduction of tax on benefit or perquisite in respect of business or profession.",
+      "file": "section_194R.json"
+    },
+    {
+      "order": 596,
+      "article_number": "194S",
+      "article_title": "Payment on transfer of virtual digital asset.",
+      "file": "section_194S.json"
+    },
+    {
+      "order": 597,
+      "article_number": "194T",
+      "article_title": "Payments to partners of firms.",
+      "file": "section_194T.json"
+    },
+    {
+      "order": 598,
+      "article_number": "195",
+      "article_title": "Other sums.",
+      "file": "section_195.json"
+    },
+    {
+      "order": 599,
+      "article_number": "195A",
+      "article_title": "Income payable \"net of tax\".",
+      "file": "section_195A.json"
+    },
+    {
+      "order": 600,
+      "article_number": "196",
+      "article_title": "Interest or dividend or other sums payable to Government, Reserve Bank or certain corporations.",
+      "file": "section_196.json"
+    },
+    {
+      "order": 601,
+      "article_number": "196A",
+      "article_title": "Income in respect of units of non-residents.",
+      "file": "section_196A.json"
+    },
+    {
+      "order": 602,
+      "article_number": "196B",
+      "article_title": "Income from units.",
+      "file": "section_196B.json"
+    },
+    {
+      "order": 603,
+      "article_number": "196C",
+      "article_title": "Income from foreign currency bonds or shares of Indian company.",
+      "file": "section_196C.json"
+    },
+    {
+      "order": 604,
+      "article_number": "196D",
+      "article_title": "Income of Foreign Institutional Investors from securities.",
+      "file": "section_196D.json"
+    },
+    {
+      "order": 605,
+      "article_number": "197",
+      "article_title": "Certificate for deduction at lower rate.",
+      "file": "section_197.json"
+    },
+    {
+      "order": 606,
+      "article_number": "197A",
+      "article_title": "No deduction to be made in certain cases.",
+      "file": "section_197A.json"
+    },
+    {
+      "order": 607,
+      "article_number": "197B",
+      "article_title": "Lower deduction in certain cases for a limited period.",
+      "file": "section_197B.json"
+    },
+    {
+      "order": 608,
+      "article_number": "198",
+      "article_title": "Tax deducted is income received.",
+      "file": "section_198.json"
+    },
+    {
+      "order": 609,
+      "article_number": "199",
+      "article_title": "Credit for tax deducted.",
+      "file": "section_199.json"
+    },
+    {
+      "order": 610,
+      "article_number": "200",
+      "article_title": "Duty of person deducting tax.",
+      "file": "section_200.json"
+    },
+    {
+      "order": 611,
+      "article_number": "200A",
+      "article_title": "Processing of statements of tax deducted at source and other statements.",
+      "file": "section_200A.json"
+    },
+    {
+      "order": 612,
+      "article_number": "201",
+      "article_title": "Consequences of failure to deduct or pay.",
+      "file": "section_201.json"
+    },
+    {
+      "order": 613,
+      "article_number": "202",
+      "article_title": "Deduction only one mode of recovery.",
+      "file": "section_202.json"
+    },
+    {
+      "order": 614,
+      "article_number": "203",
+      "article_title": "Certificate for tax deducted.",
+      "file": "section_203.json"
+    },
+    {
+      "order": 615,
+      "article_number": "203A",
+      "article_title": "Tax deduction and collection account number.",
+      "file": "section_203A.json"
+    },
+    {
+      "order": 616,
+      "article_number": "203AA",
+      "article_title": "Furnishing of statement of tax deducted.",
+      "file": "section_203AA.json"
+    },
+    {
+      "order": 617,
+      "article_number": "204",
+      "article_title": "Meaning of \"person responsible for paying\".",
+      "file": "section_204.json"
+    },
+    {
+      "order": 618,
+      "article_number": "205",
+      "article_title": "Bar against direct demand on assessee.",
+      "file": "section_205.json"
+    },
+    {
+      "order": 619,
+      "article_number": "206",
+      "article_title": "Persons deducting tax to furnish prescribed returns.",
+      "file": "section_206.json"
+    },
+    {
+      "order": 620,
+      "article_number": "206A",
+      "article_title": "Furnishing of statement in respect of payment of any income to residents without deduction of tax.",
+      "file": "section_206A.json"
+    },
+    {
+      "order": 621,
+      "article_number": "206AA",
+      "article_title": "Requirement to furnish Permanent Account Number.",
+      "file": "section_206AA.json"
+    },
+    {
+      "order": 622,
+      "article_number": "206AB",
+      "article_title": "Special provision for deduction of tax at source for non-filers of income-tax return.",
+      "file": "section_206AB.json"
+    },
+    {
+      "order": 623,
+      "article_number": "206B",
+      "article_title": "Person paying dividend to certain residents without deduction of tax to furnish prescribed return.",
+      "file": "section_206B.json"
+    },
+    {
+      "order": 624,
+      "article_number": "206C",
+      "article_title": "Profits and gains from the business of trading in alcoholic liquor, forest produce, scrap, etc.",
+      "file": "section_206C.json"
+    },
+    {
+      "order": 625,
+      "article_number": "206CA",
+      "article_title": "Tax collection account number.",
+      "file": "section_206CA.json"
+    },
+    {
+      "order": 626,
+      "article_number": "206CB",
+      "article_title": "Processing of statements of tax collected at source.",
+      "file": "section_206CB.json"
+    },
+    {
+      "order": 627,
+      "article_number": "206CC",
+      "article_title": "Requirement to furnish Permanent Account number by collectee.",
+      "file": "section_206CC.json"
+    },
+    {
+      "order": 628,
+      "article_number": "206CCA",
+      "article_title": "Special provision for collection of tax at source for non-filers of income-tax return.",
+      "file": "section_206CCA.json"
+    },
+    {
+      "order": 629,
+      "article_number": "207",
+      "article_title": "Liability for payment of advance tax.",
+      "file": "section_207.json"
+    },
+    {
+      "order": 630,
+      "article_number": "208",
+      "article_title": "Conditions of liability to pay advance tax.",
+      "file": "section_208.json"
+    },
+    {
+      "order": 631,
+      "article_number": "209",
+      "article_title": "Computation of advance tax.",
+      "file": "section_209.json"
+    },
+    {
+      "order": 632,
+      "article_number": "209A",
+      "article_title": "Computation and payment of advance tax by assessee.",
+      "file": "section_209A.json"
+    },
+    {
+      "order": 633,
+      "article_number": "210",
+      "article_title": "Payment of advance tax by the assessee of his own accord or in pursuance of order of Assessing Officer.",
+      "file": "section_210.json"
+    },
+    {
+      "order": 634,
+      "article_number": "211",
+      "article_title": "Instalments of advance tax and due dates.",
+      "file": "section_211.json"
+    },
+    {
+      "order": 635,
+      "article_number": "212",
+      "article_title": "Estimate by assessee.",
+      "file": "section_212.json"
+    },
+    {
+      "order": 636,
+      "article_number": "213",
+      "article_title": "Commission receipts.",
+      "file": "section_213.json"
+    },
+    {
+      "order": 637,
+      "article_number": "214",
+      "article_title": "Interest payable by Government.",
+      "file": "section_214.json"
+    },
+    {
+      "order": 638,
+      "article_number": "215",
+      "article_title": "Interest payable by assessee.",
+      "file": "section_215.json"
+    },
+    {
+      "order": 639,
+      "article_number": "216",
+      "article_title": "Interest payable by assessee in case of under-estimate, etc.",
+      "file": "section_216.json"
+    },
+    {
+      "order": 640,
+      "article_number": "217",
+      "article_title": "Interest payable by assessee when no estimate made.",
+      "file": "section_217.json"
+    },
+    {
+      "order": 641,
+      "article_number": "218",
+      "article_title": "When assessee deemed to be in default.",
+      "file": "section_218.json"
+    },
+    {
+      "order": 642,
+      "article_number": "219",
+      "article_title": "Credit for advance tax.",
+      "file": "section_219.json"
+    },
+    {
+      "order": 643,
+      "article_number": "220",
+      "article_title": "When tax payable and when assessee deemed in default.",
+      "file": "section_220.json"
+    },
+    {
+      "order": 644,
+      "article_number": "221",
+      "article_title": "Penalty payable when tax in default.",
+      "file": "section_221.json"
+    },
+    {
+      "order": 645,
+      "article_number": "222",
+      "article_title": "Certificate to Tax Recovery Officer.",
+      "file": "section_222.json"
+    },
+    {
+      "order": 646,
+      "article_number": "223",
+      "article_title": "Tax Recovery Officer by whom recovery is to be effected.",
+      "file": "section_223.json"
+    },
+    {
+      "order": 647,
+      "article_number": "224",
+      "article_title": "Validity of certificate and cancellation or amendment thereof.",
+      "file": "section_224.json"
+    },
+    {
+      "order": 648,
+      "article_number": "225",
+      "article_title": "Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
+      "file": "section_225.json"
+    },
+    {
+      "order": 649,
+      "article_number": "226",
+      "article_title": "Other modes of recovery.",
+      "file": "section_226.json"
+    },
+    {
+      "order": 650,
+      "article_number": "227",
+      "article_title": "Recovery through State Government.",
+      "file": "section_227.json"
+    },
+    {
+      "order": 651,
+      "article_number": "228",
+      "article_title": "Recovery of Indian tax in Pakistan and Pakistan tax in India.",
+      "file": "section_228.json"
+    },
+    {
+      "order": 652,
+      "article_number": "228A",
+      "article_title": "Recovery of tax in pursuance of agreements with foreign countries.",
+      "file": "section_228A.json"
+    },
+    {
+      "order": 653,
+      "article_number": "229",
+      "article_title": "Recovery of penalties, fine, interest and other sums.",
+      "file": "section_229.json"
+    },
+    {
+      "order": 654,
+      "article_number": "230",
+      "article_title": "Tax clearance certificate.",
+      "file": "section_230.json"
+    },
+    {
+      "order": 655,
+      "article_number": "230A",
+      "article_title": "Restrictions on registration of transfers of immovable property in certain cases.",
+      "file": "section_230A.json"
+    },
+    {
+      "order": 656,
+      "article_number": "231",
+      "article_title": "Faceless collection and recovery of tax.",
+      "file": "section_231.json"
+    },
+    {
+      "order": 657,
+      "article_number": "232",
+      "article_title": "Recovery by suit or under other law not affected.",
+      "file": "section_232.json"
+    },
+    {
+      "order": 658,
+      "article_number": "233",
+      "article_title": "Recovery of tax payable under provisional assessment.",
+      "file": "section_233.json"
+    },
+    {
+      "order": 659,
+      "article_number": "234",
+      "article_title": "Tax paid by deduction or advance payment.",
+      "file": "section_234.json"
+    },
+    {
+      "order": 660,
+      "article_number": "234A",
+      "article_title": "Interest for defaults in furnishing return of income.",
+      "file": "section_234A.json"
+    },
+    {
+      "order": 661,
+      "article_number": "234B",
+      "article_title": "Interest for defaults in payment of advance tax.",
+      "file": "section_234B.json"
+    },
+    {
+      "order": 662,
+      "article_number": "234C",
+      "article_title": "Interest for deferment of advance tax.",
+      "file": "section_234C.json"
+    },
+    {
+      "order": 663,
+      "article_number": "234D",
+      "article_title": "Interest on excess refund.",
+      "file": "section_234D.json"
+    },
+    {
+      "order": 664,
+      "article_number": "234E",
+      "article_title": "Fee for default in furnishing statements.",
+      "file": "section_234E.json"
+    },
+    {
+      "order": 665,
+      "article_number": "234F",
+      "article_title": "Fee for default in furnishing return of income.",
+      "file": "section_234F.json"
+    },
+    {
+      "order": 666,
+      "article_number": "234G",
+      "article_title": "Fee for default relating to statement or certificate.",
+      "file": "section_234G.json"
+    },
+    {
+      "order": 667,
+      "article_number": "234H",
+      "article_title": "Fee for default relating to intimation of Aadhaar number.",
+      "file": "section_234H.json"
+    },
+    {
+      "order": 668,
+      "article_number": "234-I",
+      "article_title": "87 [Fee for furnishing revised return of income.",
+      "file": "section_234-I.json"
+    },
+    {
+      "order": 669,
+      "article_number": "235",
+      "article_title": "Relief to shareholders in respect of agricultural income-tax attributable to dividends.",
+      "file": "section_235.json"
+    },
+    {
+      "order": 670,
+      "article_number": "236",
+      "article_title": "Relief to company in respect of dividend paid out of past taxed profits.",
+      "file": "section_236.json"
+    },
+    {
+      "order": 671,
+      "article_number": "236A",
+      "article_title": "Relief to certain charitable institutions or funds in respect of certain dividends.",
+      "file": "section_236A.json"
+    },
+    {
+      "order": 672,
+      "article_number": "237",
+      "article_title": "Refunds.",
+      "file": "section_237.json"
+    },
+    {
+      "order": 673,
+      "article_number": "238",
+      "article_title": "Person entitled to claim refund in certain special cases.",
+      "file": "section_238.json"
+    },
+    {
+      "order": 674,
+      "article_number": "239",
+      "article_title": "Form of claim for refund and limitation.",
+      "file": "section_239.json"
+    },
+    {
+      "order": 675,
+      "article_number": "239A",
+      "article_title": "Refund for denying liability to deduct tax in certain cases.",
+      "file": "section_239A.json"
+    },
+    {
+      "order": 676,
+      "article_number": "240",
+      "article_title": "Refund on appeal, etc.",
+      "file": "section_240.json"
+    },
+    {
+      "order": 677,
+      "article_number": "241",
+      "article_title": "Power to withhold refund in certain cases.",
+      "file": "section_241.json"
+    },
+    {
+      "order": 678,
+      "article_number": "241A",
+      "article_title": "Withholding of refund in certain cases.",
+      "file": "section_241A.json"
+    },
+    {
+      "order": 679,
+      "article_number": "242",
+      "article_title": "Correctness of assessment not to be questioned.",
+      "file": "section_242.json"
+    },
+    {
+      "order": 680,
+      "article_number": "243",
+      "article_title": "Interest on delayed refunds.",
+      "file": "section_243.json"
+    },
+    {
+      "order": 681,
+      "article_number": "244",
+      "article_title": "Interest on refund where no claim is needed.",
+      "file": "section_244.json"
+    },
+    {
+      "order": 682,
+      "article_number": "244A",
+      "article_title": "Interest on refunds.",
+      "file": "section_244A.json"
+    },
+    {
+      "order": 683,
+      "article_number": "245",
+      "article_title": "Set off and withholding of refunds in certain cases.",
+      "file": "section_245.json"
+    },
+    {
+      "order": 684,
+      "article_number": "245A",
+      "article_title": "Definitions.",
+      "file": "section_245A.json"
+    },
+    {
+      "order": 685,
+      "article_number": "245AA",
+      "article_title": "Interim Boards for Settlement.",
+      "file": "section_245AA.json"
+    },
+    {
+      "order": 686,
+      "article_number": "245B",
+      "article_title": "Income-tax Settlement Commission.",
+      "file": "section_245B.json"
+    },
+    {
+      "order": 687,
+      "article_number": "245BA",
+      "article_title": "Jurisdiction and powers of Settlement Commission.",
+      "file": "section_245BA.json"
+    },
+    {
+      "order": 688,
+      "article_number": "245BB",
+      "article_title": "Vice-Chairman to act as Chairman or to discharge his functions in certain circumstances.",
+      "file": "section_245BB.json"
+    },
+    {
+      "order": 689,
+      "article_number": "245BC",
+      "article_title": "Power of Chairman to transfer cases from one Bench to another.",
+      "file": "section_245BC.json"
+    },
+    {
+      "order": 690,
+      "article_number": "245BD",
+      "article_title": "Decision to be by majority.",
+      "file": "section_245BD.json"
+    },
+    {
+      "order": 691,
+      "article_number": "245C",
+      "article_title": "Application for settlement of cases.",
+      "file": "section_245C.json"
+    },
+    {
+      "order": 692,
+      "article_number": "245D",
+      "article_title": "Procedure on receipt of an application under section 245C.",
+      "file": "section_245D.json"
+    },
+    {
+      "order": 693,
+      "article_number": "245DD",
+      "article_title": "Power of Settlement Commission to order provisional attachment to protect revenue.",
+      "file": "section_245DD.json"
+    },
+    {
+      "order": 694,
+      "article_number": "245E",
+      "article_title": "Power of Settlement Commission to reopen completed proceedings.",
+      "file": "section_245E.json"
+    },
+    {
+      "order": 695,
+      "article_number": "245F",
+      "article_title": "Powers and procedure of Settlement Commission.",
+      "file": "section_245F.json"
+    },
+    {
+      "order": 696,
+      "article_number": "245G",
+      "article_title": "Inspection, etc., of reports.",
+      "file": "section_245G.json"
+    },
+    {
+      "order": 697,
+      "article_number": "245H",
+      "article_title": "Power of Settlement Commission to grant immunity from prosecution and penalty.",
+      "file": "section_245H.json"
+    },
+    {
+      "order": 698,
+      "article_number": "245HA",
+      "article_title": "Abatement of proceeding before Settlement Commission.",
+      "file": "section_245HA.json"
+    },
+    {
+      "order": 699,
+      "article_number": "245HAA",
+      "article_title": "Credit for tax paid in case of abatement of proceedings.",
+      "file": "section_245HAA.json"
+    },
+    {
+      "order": 700,
+      "article_number": "245-I",
+      "article_title": "Order of settlement to be conclusive.",
+      "file": "section_245-I.json"
+    },
+    {
+      "order": 701,
+      "article_number": "245J",
+      "article_title": "Recovery of sums due under order of settlement.",
+      "file": "section_245J.json"
+    },
+    {
+      "order": 702,
+      "article_number": "245K",
+      "article_title": "Bar on subsequent application for settlement.",
+      "file": "section_245K.json"
+    },
+    {
+      "order": 703,
+      "article_number": "245L",
+      "article_title": "Proceedings before Settlement Commission to be judicial proceedings.",
+      "file": "section_245L.json"
+    },
+    {
+      "order": 704,
+      "article_number": "245M",
+      "article_title": "Option to withdraw pending application.",
+      "file": "section_245M.json"
+    },
+    {
+      "order": 705,
+      "article_number": "245MA",
+      "article_title": "Dispute Resolution Committee.",
+      "file": "section_245MA.json"
+    },
+    {
+      "order": 706,
+      "article_number": "245N",
+      "article_title": "Definitions.",
+      "file": "section_245N.json"
+    },
+    {
+      "order": 707,
+      "article_number": "245-O",
+      "article_title": "Authority for Advance Rulings.",
+      "file": "section_245-O.json"
+    },
+    {
+      "order": 708,
+      "article_number": "245-OA",
+      "article_title": "Qualifications, terms and conditions of service of Chairman, Vice-Chairman and Member.",
+      "file": "section_245-OA.json"
+    },
+    {
+      "order": 709,
+      "article_number": "245-OB",
+      "article_title": "Board for Advance Rulings.",
+      "file": "section_245-OB.json"
+    },
+    {
+      "order": 710,
+      "article_number": "245P",
+      "article_title": "Vacancies, etc., not to invalidate proceedings.",
+      "file": "section_245P.json"
+    },
+    {
+      "order": 711,
+      "article_number": "245Q",
+      "article_title": "Application for advance ruling.",
+      "file": "section_245Q.json"
+    },
+    {
+      "order": 712,
+      "article_number": "245R",
+      "article_title": "Procedure on receipt of application.",
+      "file": "section_245R.json"
+    },
+    {
+      "order": 713,
+      "article_number": "245RR",
+      "article_title": "Appellate authority not to proceed in certain cases.",
+      "file": "section_245RR.json"
+    },
+    {
+      "order": 714,
+      "article_number": "245S",
+      "article_title": "Applicability of advance ruling.",
+      "file": "section_245S.json"
+    },
+    {
+      "order": 715,
+      "article_number": "245T",
+      "article_title": "Advance ruling to be void in certain circumstances.",
+      "file": "section_245T.json"
+    },
+    {
+      "order": 716,
+      "article_number": "245U",
+      "article_title": "Powers of the Authority.",
+      "file": "section_245U.json"
+    },
+    {
+      "order": 717,
+      "article_number": "245V",
+      "article_title": "Procedure of Authority.",
+      "file": "section_245V.json"
+    },
+    {
+      "order": 718,
+      "article_number": "245W",
+      "article_title": "Appeal.",
+      "file": "section_245W.json"
+    },
+    {
+      "order": 719,
+      "article_number": "246",
+      "article_title": "Appealable orders before Joint Commissioner (Appeals).",
+      "file": "section_246.json"
+    },
+    {
+      "order": 720,
+      "article_number": "246A",
+      "article_title": "Appealable orders before Commissioner (Appeals).",
+      "file": "section_246A.json"
+    },
+    {
+      "order": 721,
+      "article_number": "247",
+      "article_title": "Appeal by partner.",
+      "file": "section_247.json"
+    },
+    {
+      "order": 722,
+      "article_number": "248",
+      "article_title": "Appeal by a person denying liability to deduct tax in certain cases.",
+      "file": "section_248.json"
+    },
+    {
+      "order": 723,
+      "article_number": "249",
+      "article_title": "Form of appeal and limitation.",
+      "file": "section_249.json"
+    },
+    {
+      "order": 724,
+      "article_number": "250",
+      "article_title": "Procedure in appeal.",
+      "file": "section_250.json"
+    },
+    {
+      "order": 725,
+      "article_number": "251",
+      "article_title": "Powers of the Joint Commissioner (Appeals) or the Commissioner (Appeals).",
+      "file": "section_251.json"
+    },
+    {
+      "order": 726,
+      "article_number": "252",
+      "article_title": "Appellate Tribunal.",
+      "file": "section_252.json"
+    },
+    {
+      "order": 727,
+      "article_number": "252A",
+      "article_title": "Qualifications, terms and conditions of service of President, Vice-President and Member.",
+      "file": "section_252A.json"
+    },
+    {
+      "order": 728,
+      "article_number": "253",
+      "article_title": "Appeals to the Appellate Tribunal.",
+      "file": "section_253.json"
+    },
+    {
+      "order": 729,
+      "article_number": "254",
+      "article_title": "Orders of Appellate Tribunal.",
+      "file": "section_254.json"
+    },
+    {
+      "order": 730,
+      "article_number": "255",
+      "article_title": "Procedure of Appellate Tribunal.",
+      "file": "section_255.json"
+    },
+    {
+      "order": 731,
+      "article_number": "256",
+      "article_title": "Statement of case to the High Court.",
+      "file": "section_256.json"
+    },
+    {
+      "order": 732,
+      "article_number": "257",
+      "article_title": "Statement of case to Supreme Court in certain cases.",
+      "file": "section_257.json"
+    },
+    {
+      "order": 733,
+      "article_number": "258",
+      "article_title": "Power of High Court or Supreme Court to require statement to be amended.",
+      "file": "section_258.json"
+    },
+    {
+      "order": 734,
+      "article_number": "259",
+      "article_title": "Case before High Court to be heard by not less than two judges.",
+      "file": "section_259.json"
+    },
+    {
+      "order": 735,
+      "article_number": "260",
+      "article_title": "Decision of High Court or Supreme Court on the case stated.",
+      "file": "section_260.json"
+    },
+    {
+      "order": 736,
+      "article_number": "260A",
+      "article_title": "Appeal to High Court.",
+      "file": "section_260A.json"
+    },
+    {
+      "order": 737,
+      "article_number": "260B",
+      "article_title": "Case before High Court to be heard by not less than two Judges.",
+      "file": "section_260B.json"
+    },
+    {
+      "order": 738,
+      "article_number": "261",
+      "article_title": "Appeal to Supreme Court.",
+      "file": "section_261.json"
+    },
+    {
+      "order": 739,
+      "article_number": "262",
+      "article_title": "Hearing before Supreme Court.",
+      "file": "section_262.json"
+    },
+    {
+      "order": 740,
+      "article_number": "263",
+      "article_title": "Revision of orders prejudicial to revenue.",
+      "file": "section_263.json"
+    },
+    {
+      "order": 741,
+      "article_number": "264",
+      "article_title": "Revision of other orders.",
+      "file": "section_264.json"
+    },
+    {
+      "order": 742,
+      "article_number": "264A",
+      "article_title": "Faceless revision of orders.",
+      "file": "section_264A.json"
+    },
+    {
+      "order": 743,
+      "article_number": "264B",
+      "article_title": "Faceless effect of orders.",
+      "file": "section_264B.json"
+    },
+    {
+      "order": 744,
+      "article_number": "265",
+      "article_title": "Tax to be paid notwithstanding reference, etc.",
+      "file": "section_265.json"
+    },
+    {
+      "order": 745,
+      "article_number": "266",
+      "article_title": "Execution for costs awarded by Supreme Court.",
+      "file": "section_266.json"
+    },
+    {
+      "order": 746,
+      "article_number": "267",
+      "article_title": "Amendment of assessment on appeal.",
+      "file": "section_267.json"
+    },
+    {
+      "order": 747,
+      "article_number": "268",
+      "article_title": "Exclusion of time taken for copy.",
+      "file": "section_268.json"
+    },
+    {
+      "order": 748,
+      "article_number": "268A",
+      "article_title": "Filing of appeal or application for reference by income-tax authority.",
+      "file": "section_268A.json"
+    },
+    {
+      "order": 749,
+      "article_number": "269",
+      "article_title": "Definition of \"High Court\".",
+      "file": "section_269.json"
+    },
+    {
+      "order": 750,
+      "article_number": "269A",
+      "article_title": "ACQUISITION OF IMMOVABLE PROPERTIES IN CERTAIN CASES OF TRANSFER TO COUNTERACT EVASION OF TAX Definitions.",
+      "file": "section_269A.json"
+    },
+    {
+      "order": 751,
+      "article_number": "269AB",
+      "article_title": "Registration of certain transactions.",
+      "file": "section_269AB.json"
+    },
+    {
+      "order": 752,
+      "article_number": "269B",
+      "article_title": "Competent authority.",
+      "file": "section_269B.json"
+    },
+    {
+      "order": 753,
+      "article_number": "269C",
+      "article_title": "Immovable property in respect of which proceedings for acquisition may be taken.",
+      "file": "section_269C.json"
+    },
+    {
+      "order": 754,
+      "article_number": "269D",
+      "article_title": "Preliminary notice.",
+      "file": "section_269D.json"
+    },
+    {
+      "order": 755,
+      "article_number": "269E",
+      "article_title": "Objections.",
+      "file": "section_269E.json"
+    },
+    {
+      "order": 756,
+      "article_number": "269F",
+      "article_title": "Hearing of objections.",
+      "file": "section_269F.json"
+    },
+    {
+      "order": 757,
+      "article_number": "269G",
+      "article_title": "Appeal against order for acquisition.",
+      "file": "section_269G.json"
+    },
+    {
+      "order": 758,
+      "article_number": "269H",
+      "article_title": "Appeal to High Court.",
+      "file": "section_269H.json"
+    },
+    {
+      "order": 759,
+      "article_number": "269-I",
+      "article_title": "Vesting of property in Central Government.",
+      "file": "section_269-I.json"
+    },
+    {
+      "order": 760,
+      "article_number": "269J",
+      "article_title": "Compensation.",
+      "file": "section_269J.json"
+    },
+    {
+      "order": 761,
+      "article_number": "269K",
+      "article_title": "Payment or deposit of compensation.",
+      "file": "section_269K.json"
+    },
+    {
+      "order": 762,
+      "article_number": "269L",
+      "article_title": "Assistance by Valuation Officers.",
+      "file": "section_269L.json"
+    },
+    {
+      "order": 763,
+      "article_number": "269M",
+      "article_title": "Powers of competent authority.",
+      "file": "section_269M.json"
+    },
+    {
+      "order": 764,
+      "article_number": "269N",
+      "article_title": "Rectification of mistakes.",
+      "file": "section_269N.json"
+    },
+    {
+      "order": 765,
+      "article_number": "269-O",
+      "article_title": "Appearance by authorised representative or registered valuer.",
+      "file": "section_269-O.json"
+    },
+    {
+      "order": 766,
+      "article_number": "269P",
+      "article_title": "Statement to be furnished in respect of transfers of immovable property.",
+      "file": "section_269P.json"
+    },
+    {
+      "order": 767,
+      "article_number": "269Q",
+      "article_title": "Chapter not to apply to transfers to relatives.",
+      "file": "section_269Q.json"
+    },
+    {
+      "order": 768,
+      "article_number": "269R",
+      "article_title": "Properties liable for acquisition under this Chapter not to be acquired under other laws.",
+      "file": "section_269R.json"
+    },
+    {
+      "order": 769,
+      "article_number": "269RR",
+      "article_title": "Chapter not to apply where transfer of immovable property made after a certain date.",
+      "file": "section_269RR.json"
+    },
+    {
+      "order": 770,
+      "article_number": "269S",
+      "article_title": "Chapter not to extend to State of Jammu and Kashmir.",
+      "file": "section_269S.json"
+    },
+    {
+      "order": 771,
+      "article_number": "269SS",
+      "article_title": "REQUIREMENT AS TO MODE OF ACCEPTANCE, PAYMENT OR REPAYMENT IN CERTAIN CASES TO COUNTERACT EVASION OF Mode of taking or accepting certain loans, deposits and specified sum.",
+      "file": "section_269SS.json"
+    },
+    {
+      "order": 772,
+      "article_number": "269ST",
+      "article_title": "Mode of undertaking transactions.",
+      "file": "section_269ST.json"
+    },
+    {
+      "order": 773,
+      "article_number": "269SU",
+      "article_title": "Acceptance of payment through prescribed electronic modes.",
+      "file": "section_269SU.json"
+    },
+    {
+      "order": 774,
+      "article_number": "269T",
+      "article_title": "Mode of repayment of certain loans or deposits.",
+      "file": "section_269T.json"
+    },
+    {
+      "order": 775,
+      "article_number": "269TT",
+      "article_title": "Mode of repayment of Special Bearer Bonds, 1991.",
+      "file": "section_269TT.json"
+    },
+    {
+      "order": 776,
+      "article_number": "269U",
+      "article_title": "PURCHASE BY CENTRAL GOVERNMENT OF IMMOVABLE PROPERTIES IN CERTAIN CASES OF TRANSFER Commencement of Chapter.",
+      "file": "section_269U.json"
+    },
+    {
+      "order": 777,
+      "article_number": "269UA",
+      "article_title": "Definitions.",
+      "file": "section_269UA.json"
+    },
+    {
+      "order": 778,
+      "article_number": "269UB",
+      "article_title": "Appropriate authority.",
+      "file": "section_269UB.json"
+    },
+    {
+      "order": 779,
+      "article_number": "269UC",
+      "article_title": "Restrictions on transfer of immovable property.",
+      "file": "section_269UC.json"
+    },
+    {
+      "order": 780,
+      "article_number": "269UD",
+      "article_title": "Order by appropriate authority for purchase by Central Government of immovable property.",
+      "file": "section_269UD.json"
+    },
+    {
+      "order": 781,
+      "article_number": "269UE",
+      "article_title": "Vesting of property in Central Government.",
+      "file": "section_269UE.json"
+    },
+    {
+      "order": 782,
+      "article_number": "269UF",
+      "article_title": "Consideration for purchase of immovable property by Central Government.",
+      "file": "section_269UF.json"
+    },
+    {
+      "order": 783,
+      "article_number": "269UG",
+      "article_title": "Payment or deposit of consideration.",
+      "file": "section_269UG.json"
+    },
+    {
+      "order": 784,
+      "article_number": "269UH",
+      "article_title": "Re-vesting of property in the transferor on failure of payment or deposit of consideration.",
+      "file": "section_269UH.json"
+    },
+    {
+      "order": 785,
+      "article_number": "269UI",
+      "article_title": "Powers of the appropriate authority.",
+      "file": "section_269UI.json"
+    },
+    {
+      "order": 786,
+      "article_number": "269UJ",
+      "article_title": "Rectification of mistakes.",
+      "file": "section_269UJ.json"
+    },
+    {
+      "order": 787,
+      "article_number": "269UK",
+      "article_title": "Restrictions on revocation or alteration of certain agreements for the transfer of immovable property or on transfer of certain immovable property.",
+      "file": "section_269UK.json"
+    },
+    {
+      "order": 788,
+      "article_number": "269UL",
+      "article_title": "Restrictions on registration, etc., of documents in respect of transfer of immovable property.",
+      "file": "section_269UL.json"
+    },
+    {
+      "order": 789,
+      "article_number": "269UM",
+      "article_title": "Immunity to transferor against claims of transferee for transfer.",
+      "file": "section_269UM.json"
+    },
+    {
+      "order": 790,
+      "article_number": "269UN",
+      "article_title": "Order of appropriate authority to be final and conclusive.",
+      "file": "section_269UN.json"
+    },
+    {
+      "order": 791,
+      "article_number": "269UO",
+      "article_title": "Chapter not to apply to certain transfers.",
+      "file": "section_269UO.json"
+    },
+    {
+      "order": 792,
+      "article_number": "269UP",
+      "article_title": "Chapter not to apply where transfer of immovable property effected after certain date.",
+      "file": "section_269UP.json"
+    },
+    {
+      "order": 793,
+      "article_number": "270",
+      "article_title": "Failure to furnish information regarding securities, etc.",
+      "file": "section_270.json"
+    },
+    {
+      "order": 794,
+      "article_number": "270A",
+      "article_title": "Penalty for under-reporting and misreporting of income.",
+      "file": "section_270A.json"
+    },
+    {
+      "order": 795,
+      "article_number": "270AA",
+      "article_title": "Immunity from imposition of penalty, etc.",
+      "file": "section_270AA.json"
+    },
+    {
+      "order": 796,
+      "article_number": "271",
+      "article_title": "Failure to furnish returns, comply with notices, concealment of income, etc.",
+      "file": "section_271.json"
+    },
+    {
+      "order": 797,
+      "article_number": "271A",
+      "article_title": "Failure to keep, maintain or retain books of account, documents, etc.",
+      "file": "section_271A.json"
+    },
+    {
+      "order": 798,
+      "article_number": "271AA",
+      "article_title": "Penalty for failure to keep and maintain information and document, etc., in respect of certain transactions.",
+      "file": "section_271AA.json"
+    },
+    {
+      "order": 799,
+      "article_number": "271AAA",
+      "article_title": "Penalty where search has been initiated.",
+      "file": "section_271AAA.json"
+    },
+    {
+      "order": 800,
+      "article_number": "271AAB",
+      "article_title": "Penalty where search has been initiated.",
+      "file": "section_271AAB.json"
+    },
+    {
+      "order": 801,
+      "article_number": "271AAC",
+      "article_title": "Penalty in respect of certain income.",
+      "file": "section_271AAC.json"
+    },
+    {
+      "order": 802,
+      "article_number": "271AAD",
+      "article_title": "Penalty for false entry, etc., in books of account.",
+      "file": "section_271AAD.json"
+    },
+    {
+      "order": 803,
+      "article_number": "271AAE",
+      "article_title": "Benefits to related persons.",
+      "file": "section_271AAE.json"
+    },
+    {
+      "order": 804,
+      "article_number": "271B",
+      "article_title": "Failure to get accounts audited.",
+      "file": "section_271B.json"
+    },
+    {
+      "order": 805,
+      "article_number": "271BA",
+      "article_title": "Penalty for failure to furnish report under section 92E.",
+      "file": "section_271BA.json"
+    },
+    {
+      "order": 806,
+      "article_number": "271BB",
+      "article_title": "Failure to subscribe to the eligible issue of capital.",
+      "file": "section_271BB.json"
+    },
+    {
+      "order": 807,
+      "article_number": "271C",
+      "article_title": "Penalty for failure to deduct tax at source.",
+      "file": "section_271C.json"
+    },
+    {
+      "order": 808,
+      "article_number": "271CA",
+      "article_title": "Penalty for failure to collect tax at source.",
+      "file": "section_271CA.json"
+    },
+    {
+      "order": 809,
+      "article_number": "271D",
+      "article_title": "Penalty for failure to comply with the provisions of section 269SS.",
+      "file": "section_271D.json"
+    },
+    {
+      "order": 810,
+      "article_number": "271DA",
+      "article_title": "Penalty for failure to comply with provisions of section 269ST.",
+      "file": "section_271DA.json"
+    },
+    {
+      "order": 811,
+      "article_number": "271DB",
+      "article_title": "Penalty for failure to comply with provisions of section 269SU.",
+      "file": "section_271DB.json"
+    },
+    {
+      "order": 812,
+      "article_number": "271E",
+      "article_title": "Penalty for failure to comply with the provisions of section 269T.",
+      "file": "section_271E.json"
+    },
+    {
+      "order": 813,
+      "article_number": "271F",
+      "article_title": "Penalty for failure to furnish return of income.",
+      "file": "section_271F.json"
+    },
+    {
+      "order": 814,
+      "article_number": "271FA",
+      "article_title": "Penalty for failure to furnish statement of financial transaction or reportable account.",
+      "file": "section_271FA.json"
+    },
+    {
+      "order": 815,
+      "article_number": "271FAA",
+      "article_title": "Penalty for furnishing inaccurate statement of financial transaction or reportable account.",
+      "file": "section_271FAA.json"
+    },
+    {
+      "order": 816,
+      "article_number": "271FAB",
+      "article_title": "Penalty for failure to furnish statement or information or document by an eligible investment fund.",
+      "file": "section_271FAB.json"
+    },
+    {
+      "order": 817,
+      "article_number": "271FB",
+      "article_title": "Penalty for failure to furnish return of fringe benefits.",
+      "file": "section_271FB.json"
+    },
+    {
+      "order": 818,
+      "article_number": "271G",
+      "article_title": "Penalty for failure to furnish information or document under section 92D.",
+      "file": "section_271G.json"
+    },
+    {
+      "order": 819,
+      "article_number": "271GA",
+      "article_title": "Penalty for failure to furnish information or document under section 285A.",
+      "file": "section_271GA.json"
+    },
+    {
+      "order": 820,
+      "article_number": "271GB",
+      "article_title": "Penalty for failure to furnish report or for furnishing inaccurate report under section 286.",
+      "file": "section_271GB.json"
+    },
+    {
+      "order": 821,
+      "article_number": "271GC",
+      "article_title": "Penalty for failure to submit statement under section 285.",
+      "file": "section_271GC.json"
+    },
+    {
+      "order": 822,
+      "article_number": "271H",
+      "article_title": "Penalty for failure to furnish statements, etc.",
+      "file": "section_271H.json"
+    },
+    {
+      "order": 823,
+      "article_number": "271-I",
+      "article_title": "Penalty for failure to furnish information or furnishing inaccurate information under section 195.",
+      "file": "section_271-I.json"
+    },
+    {
+      "order": 824,
+      "article_number": "271J",
+      "article_title": "Penalty for furnishing incorrect information in reports or certificates.",
+      "file": "section_271J.json"
+    },
+    {
+      "order": 825,
+      "article_number": "271K",
+      "article_title": "Penalty for failure to furnish statements, etc.",
+      "file": "section_271K.json"
+    },
+    {
+      "order": 826,
+      "article_number": "272",
+      "article_title": "Failure to give notice of discontinuance.",
+      "file": "section_272.json"
+    },
+    {
+      "order": 827,
+      "article_number": "272A",
+      "article_title": "Penalty for failure to answer questions, sign statements, furnish information, returns or statements, allow inspections, etc.",
+      "file": "section_272A.json"
+    },
+    {
+      "order": 828,
+      "article_number": "272AA",
+      "article_title": "Penalty for failure to comply with the provisions of section 133B.",
+      "file": "section_272AA.json"
+    },
+    {
+      "order": 829,
+      "article_number": "272B",
+      "article_title": "Penalty for failure to comply with the provisions of section 139A.",
+      "file": "section_272B.json"
+    },
+    {
+      "order": 830,
+      "article_number": "272BB",
+      "article_title": "Penalty for failure to comply with the provisions of section 203A.",
+      "file": "section_272BB.json"
+    },
+    {
+      "order": 831,
+      "article_number": "272BBB",
+      "article_title": "Penalty for failure to comply with the provisions of section 206CA.",
+      "file": "section_272BBB.json"
+    },
+    {
+      "order": 832,
+      "article_number": "273",
+      "article_title": "False estimate of, or failure to pay, advance tax.",
+      "file": "section_273.json"
+    },
+    {
+      "order": 833,
+      "article_number": "273A",
+      "article_title": "Power to reduce or waive penalty, etc., in certain cases.",
+      "file": "section_273A.json"
+    },
+    {
+      "order": 834,
+      "article_number": "273AA",
+      "article_title": "Power of Principal Commissioner orCommissioner to grant immunity from penalty.",
+      "file": "section_273AA.json"
+    },
+    {
+      "order": 835,
+      "article_number": "273B",
+      "article_title": "Penalty not to be imposed in certain cases.",
+      "file": "section_273B.json"
+    },
+    {
+      "order": 836,
+      "article_number": "274",
+      "article_title": "Procedure.",
+      "file": "section_274.json"
+    },
+    {
+      "order": 837,
+      "article_number": "275",
+      "article_title": "Bar of limitation for imposing penalties.",
+      "file": "section_275.json"
+    },
+    {
+      "order": 838,
+      "article_number": "275A",
+      "article_title": "Contravention of order made during search action.",
+      "file": "section_275A.json"
+    },
+    {
+      "order": 839,
+      "article_number": "275B",
+      "article_title": "Failure to afford facility for inspection of books of account during search.",
+      "file": "section_275B.json"
+    },
+    {
+      "order": 840,
+      "article_number": "276",
+      "article_title": "Removal, concealment, transfer or delivery of property to thwart tax recovery.",
+      "file": "section_276.json"
+    },
+    {
+      "order": 841,
+      "article_number": "276A",
+      "article_title": "Failure to comply with the provisions of sub-sections (1) and (3) of section 178.",
+      "file": "section_276A.json"
+    },
+    {
+      "order": 842,
+      "article_number": "276AA",
+      "article_title": "Failure to comply with the provisions of section 269AB or section 269-I.",
+      "file": "section_276AA.json"
+    },
+    {
+      "order": 843,
+      "article_number": "276AB",
+      "article_title": "Failure to comply with the provisions of sections 269UC, 269UE and 269UL.",
+      "file": "section_276AB.json"
+    },
+    {
+      "order": 844,
+      "article_number": "276B",
+      "article_title": "Failure to pay tax to credit of Central Government under Chapter XII-D or XVII-B.",
+      "file": "section_276B.json"
+    },
+    {
+      "order": 845,
+      "article_number": "276BB",
+      "article_title": "Failure to pay tax collected at source.",
+      "file": "section_276BB.json"
+    },
+    {
+      "order": 846,
+      "article_number": "276C",
+      "article_title": "Wilful attempt to evade tax, etc.",
+      "file": "section_276C.json"
+    },
+    {
+      "order": 847,
+      "article_number": "276CC",
+      "article_title": "Failure to furnish returns of income.",
+      "file": "section_276CC.json"
+    },
+    {
+      "order": 848,
+      "article_number": "276CCC",
+      "article_title": "Failure to furnish return of income in search cases.",
+      "file": "section_276CCC.json"
+    },
+    {
+      "order": 849,
+      "article_number": "276D",
+      "article_title": "Failure to comply with a direction of special audit or valuation.",
+      "file": "section_276D.json"
+    },
+    {
+      "order": 850,
+      "article_number": "276DD",
+      "article_title": "Failure to comply with the provisions of section 269SS.",
+      "file": "section_276DD.json"
+    },
+    {
+      "order": 851,
+      "article_number": "276E",
+      "article_title": "Failure to comply with the provisions of section 269T.",
+      "file": "section_276E.json"
+    },
+    {
+      "order": 852,
+      "article_number": "277",
+      "article_title": "False statement in verification, etc.",
+      "file": "section_277.json"
+    },
+    {
+      "order": 853,
+      "article_number": "277A",
+      "article_title": "Falsification of books of account or document, etc.",
+      "file": "section_277A.json"
+    },
+    {
+      "order": 854,
+      "article_number": "278",
+      "article_title": "Abetment of false return, etc.",
+      "file": "section_278.json"
+    },
+    {
+      "order": 855,
+      "article_number": "278A",
+      "article_title": "Punishment for second and subsequent offences.",
+      "file": "section_278A.json"
+    },
+    {
+      "order": 856,
+      "article_number": "278AA",
+      "article_title": "Punishment not to be imposed in certain cases.",
+      "file": "section_278AA.json"
+    },
+    {
+      "order": 857,
+      "article_number": "278AB",
+      "article_title": "Power of Principal Commissioner or Commissioner to grant immunity from prosecution.",
+      "file": "section_278AB.json"
+    },
+    {
+      "order": 858,
+      "article_number": "278B",
+      "article_title": "Offences by companies.",
+      "file": "section_278B.json"
+    },
+    {
+      "order": 859,
+      "article_number": "278C",
+      "article_title": "Offences by Hindu undivided families.",
+      "file": "section_278C.json"
+    },
+    {
+      "order": 860,
+      "article_number": "278D",
+      "article_title": "Presumption as to assets, books of account, etc., in certain cases.",
+      "file": "section_278D.json"
+    },
+    {
+      "order": 861,
+      "article_number": "278E",
+      "article_title": "Presumption as to culpable mental state.",
+      "file": "section_278E.json"
+    },
+    {
+      "order": 862,
+      "article_number": "279",
+      "article_title": "Prosecution to be at instance of Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner.",
+      "file": "section_279.json"
+    },
+    {
+      "order": 863,
+      "article_number": "279A",
+      "article_title": "Certain offences to be non-cognizable.",
+      "file": "section_279A.json"
+    },
+    {
+      "order": 864,
+      "article_number": "279B",
+      "article_title": "Proof of entries in records or documents.",
+      "file": "section_279B.json"
+    },
+    {
+      "order": 865,
+      "article_number": "280",
+      "article_title": "Disclosure of particulars by public servants.",
+      "file": "section_280.json"
+    },
+    {
+      "order": 866,
+      "article_number": "280A",
+      "article_title": "Special Courts.",
+      "file": "section_280A.json"
+    },
+    {
+      "order": 867,
+      "article_number": "280A-280X",
+      "article_title": "",
+      "file": "section_280A-280X.json"
+    },
+    {
+      "order": 868,
+      "article_number": "280B",
+      "article_title": "Offences triable by Special Court.",
+      "file": "section_280B.json"
+    },
+    {
+      "order": 869,
+      "article_number": "280C",
+      "article_title": "Trial of offences as summons case.",
+      "file": "section_280C.json"
+    },
+    {
+      "order": 870,
+      "article_number": "280D",
+      "article_title": "Application of Code of Criminal Procedure, 1973 to proceedings before Special Court.",
+      "file": "section_280D.json"
+    },
+    {
+      "order": 871,
+      "article_number": "280Y",
+      "article_title": "Definitions.",
+      "file": "section_280Y.json"
+    },
+    {
+      "order": 872,
+      "article_number": "280Z",
+      "article_title": "Tax credit certificates to certain equity shareholders.",
+      "file": "section_280Z.json"
+    },
+    {
+      "order": 873,
+      "article_number": "280ZA",
+      "article_title": "Tax credit certificates for shifting of industrial undertaking from urban area.",
+      "file": "section_280ZA.json"
+    },
+    {
+      "order": 874,
+      "article_number": "280ZB",
+      "article_title": "Tax credit certificate to certain manufacturing companies in certain cases.",
+      "file": "section_280ZB.json"
+    },
+    {
+      "order": 875,
+      "article_number": "280ZC",
+      "article_title": "Tax credit certificate in relation to exports.",
+      "file": "section_280ZC.json"
+    },
+    {
+      "order": 876,
+      "article_number": "280ZD",
+      "article_title": "Tax credit certificates in relation to increased production of certain goods.",
+      "file": "section_280ZD.json"
+    },
+    {
+      "order": 877,
+      "article_number": "280ZE",
+      "article_title": "Tax credit certificate scheme.",
+      "file": "section_280ZE.json"
+    },
+    {
+      "order": 878,
+      "article_number": "281",
+      "article_title": "Certain transfers to be void.",
+      "file": "section_281.json"
+    },
+    {
+      "order": 879,
+      "article_number": "281A",
+      "article_title": "Effect of failure to furnish information in respect of properties held benami.",
+      "file": "section_281A.json"
+    },
+    {
+      "order": 880,
+      "article_number": "281B",
+      "article_title": "Provisional attachment to protect revenue in certain cases.",
+      "file": "section_281B.json"
+    },
+    {
+      "order": 881,
+      "article_number": "282",
+      "article_title": "Service of notice generally.",
+      "file": "section_282.json"
+    },
+    {
+      "order": 882,
+      "article_number": "282A",
+      "article_title": "Authentication of notices and other documents.",
+      "file": "section_282A.json"
+    },
+    {
+      "order": 883,
+      "article_number": "282B",
+      "article_title": "Allotment of Document Identification Number.",
+      "file": "section_282B.json"
+    },
+    {
+      "order": 884,
+      "article_number": "283",
+      "article_title": "Service of notice when family is disrupted or firm, etc., is dissolved.",
+      "file": "section_283.json"
+    },
+    {
+      "order": 885,
+      "article_number": "284",
+      "article_title": "Service of notice in the case of discontinued business.",
+      "file": "section_284.json"
+    },
+    {
+      "order": 886,
+      "article_number": "285",
+      "article_title": "Submission of statement by a non-resident having liaison office.",
+      "file": "section_285.json"
+    },
+    {
+      "order": 887,
+      "article_number": "285A",
+      "article_title": "Furnishing of information or documents by an Indian concern in certain cases.",
+      "file": "section_285A.json"
+    },
+    {
+      "order": 888,
+      "article_number": "285B",
+      "article_title": "Submission of statements by producers of cinematograph films or persons engaged in specified activity.",
+      "file": "section_285B.json"
+    },
+    {
+      "order": 889,
+      "article_number": "285BA",
+      "article_title": "Obligation to furnish statement of financial transaction or reportable account.",
+      "file": "section_285BA.json"
+    },
+    {
+      "order": 890,
+      "article_number": "285BAA",
+      "article_title": "Obligation to furnish information on transaction of crypto-asset.",
+      "file": "section_285BAA.json"
+    },
+    {
+      "order": 891,
+      "article_number": "285BB",
+      "article_title": "Annual information statement.",
+      "file": "section_285BB.json"
+    },
+    {
+      "order": 892,
+      "article_number": "286",
+      "article_title": "Furnishing of report in respect of international group.",
+      "file": "section_286.json"
+    },
+    {
+      "order": 893,
+      "article_number": "287",
+      "article_title": "Publication of information respecting assessees in certain cases.",
+      "file": "section_287.json"
+    },
+    {
+      "order": 894,
+      "article_number": "287A",
+      "article_title": "Appearance by registered valuer in certain matters.",
+      "file": "section_287A.json"
+    },
+    {
+      "order": 895,
+      "article_number": "288",
+      "article_title": "Appearance by authorised representative.",
+      "file": "section_288.json"
+    },
+    {
+      "order": 896,
+      "article_number": "288A",
+      "article_title": "Rounding off of income.",
+      "file": "section_288A.json"
+    },
+    {
+      "order": 897,
+      "article_number": "288B",
+      "article_title": "Rounding off amount payable and refund due.",
+      "file": "section_288B.json"
+    },
+    {
+      "order": 898,
+      "article_number": "289",
+      "article_title": "Receipt to be given.",
+      "file": "section_289.json"
+    },
+    {
+      "order": 899,
+      "article_number": "290",
+      "article_title": "Indemnity.",
+      "file": "section_290.json"
+    },
+    {
+      "order": 900,
+      "article_number": "291",
+      "article_title": "Power to tender immunity from prosecution.",
+      "file": "section_291.json"
+    },
+    {
+      "order": 901,
+      "article_number": "292",
+      "article_title": "Cognizance of offences.",
+      "file": "section_292.json"
+    },
+    {
+      "order": 902,
+      "article_number": "292A",
+      "article_title": "Section 360 of the Code of Criminal Procedure, 1973, and the Probation of Offenders Act, 1958, not to apply.",
+      "file": "section_292A.json"
+    },
+    {
+      "order": 903,
+      "article_number": "292B",
+      "article_title": "Return of income, etc., not to be invalid on certain grounds.",
+      "file": "section_292B.json"
+    },
+    {
+      "order": 904,
+      "article_number": "292BA",
+      "article_title": "Assessments not to be invalid on certain grounds.",
+      "file": "section_292BA.json"
+    },
+    {
+      "order": 905,
+      "article_number": "292BB",
+      "article_title": "Notice deemed to be valid in certain circumstances.",
+      "file": "section_292BB.json"
+    },
+    {
+      "order": 906,
+      "article_number": "292BC",
+      "article_title": "Circumstances in which approvals by income-tax authority not to be invalid.",
+      "file": "section_292BC.json"
+    },
+    {
+      "order": 907,
+      "article_number": "292C",
+      "article_title": "Presumption as to assets, books of account, etc.",
+      "file": "section_292C.json"
+    },
+    {
+      "order": 908,
+      "article_number": "292CC",
+      "article_title": "Authorisation and assessment in case of search or requisition.",
+      "file": "section_292CC.json"
+    },
+    {
+      "order": 909,
+      "article_number": "293",
+      "article_title": "Bar of suits in civil courts.",
+      "file": "section_293.json"
+    },
+    {
+      "order": 910,
+      "article_number": "293A",
+      "article_title": "Power to make exemption, etc., in relation to participation in the business of prospecting for, extraction, etc., of mineral oils.",
+      "file": "section_293A.json"
+    },
+    {
+      "order": 911,
+      "article_number": "293B",
+      "article_title": "Power of Central Government or Board to condone delays in obtaining approval.",
+      "file": "section_293B.json"
+    },
+    {
+      "order": 912,
+      "article_number": "293C",
+      "article_title": "Power to withdraw approval.",
+      "file": "section_293C.json"
+    },
+    {
+      "order": 913,
+      "article_number": "293D",
+      "article_title": "Faceless approval or registration.",
+      "file": "section_293D.json"
+    },
+    {
+      "order": 914,
+      "article_number": "294",
+      "article_title": "Act to have effect pending legislative provision for charge of tax.",
+      "file": "section_294.json"
+    },
+    {
+      "order": 915,
+      "article_number": "294A",
+      "article_title": "Power to make exemption, etc., in relation to certain Union territories.",
+      "file": "section_294A.json"
+    },
+    {
+      "order": 916,
+      "article_number": "295",
+      "article_title": "Power to make rules.",
+      "file": "section_295.json"
+    },
+    {
+      "order": 917,
+      "article_number": "296",
+      "article_title": "Rules and certain notifications to be placed before Parliament.",
+      "file": "section_296.json"
+    },
+    {
+      "order": 918,
+      "article_number": "297",
+      "article_title": "Repeals and savings.",
+      "file": "section_297.json"
+    },
+    {
+      "order": 919,
+      "article_number": "298",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_298.json"
+    },
+    {
+      "order": 920,
+      "article_number": "I",
+      "article_title": "THE FIRST SCHEDULE",
+      "file": "section_I.json"
+    },
+    {
+      "order": 921,
+      "article_number": "II",
+      "article_title": "THE SECOND SCHEDULE",
+      "file": "section_II.json"
+    },
+    {
+      "order": 922,
+      "article_number": "III",
+      "article_title": "THE THIRD SCHEDULE",
+      "file": "section_III.json"
+    },
+    {
+      "order": 923,
+      "article_number": "IV",
+      "article_title": "THE FOURTH SCHEDULE",
+      "file": "section_IV.json"
+    },
+    {
+      "order": 924,
+      "article_number": "V",
+      "article_title": "THE FIFTH SCHEDULE",
+      "file": "section_V.json"
+    },
+    {
+      "order": 925,
+      "article_number": "VI",
+      "article_title": "THE SIXTH SCHEDULE",
+      "file": "section_VI.json"
+    },
+    {
+      "order": 926,
+      "article_number": "VII",
+      "article_title": "THE SEVENTH SCHEDULE",
+      "file": "section_VII.json"
+    },
+    {
+      "order": 927,
+      "article_number": "VIII",
+      "article_title": "THE EIGHTH SCHEDULE",
+      "file": "section_VIII.json"
+    },
+    {
+      "order": 928,
+      "article_number": "IX",
+      "article_title": "THE NINTH SCHEDULE",
+      "file": "section_IX.json"
+    },
+    {
+      "order": 929,
+      "article_number": "X",
+      "article_title": "THE TENTH SCHEDULE",
+      "file": "section_X.json"
+    },
+    {
+      "order": 930,
+      "article_number": "XI",
+      "article_title": "THE ELEVENTH SCHEDULE",
+      "file": "section_XI.json"
+    },
+    {
+      "order": 931,
+      "article_number": "XII",
+      "article_title": "THE TWELFTH SCHEDULE",
+      "file": "section_XII.json"
+    },
+    {
+      "order": 932,
+      "article_number": "XIII",
+      "article_title": "THE THIRTEENTH SCHEDULE",
+      "file": "section_XIII.json"
+    },
+    {
+      "order": 933,
+      "article_number": "XIV",
+      "article_title": "THE FOURTEENTH SCHEDULE",
+      "file": "section_XIV.json"
+    }
+  ]
+}

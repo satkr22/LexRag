@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-10.html",
+    "source_order": 10,
+    "article_order": 3,
+    "order": 272,
+    "stem": "section_243B",
+    "heading_number": "Part IX",
+    "heading_title": "The Panchayats",
+    "heading_range": "243 – 243O",
+    "heading_source": "group-head",
+    "article_number": "243B",
+    "article_title": "Constitution of Panchayats"
+  },
+  "id": "constitution_section_243B",
+  "heading": {
+    "number": "Part IX",
+    "title": "The Panchayats",
+    "range": "243 – 243O"
+  },
+  "article": {
+    "number": "243B",
+    "title": "Constitution of Panchayats",
+    "content": "243BConstitution of Panchayats\n\nArticle 243B · Part IX\n(1)There shall be constituted in every State, Panchayats at the village, intermediate and district levels in accordance with the provisions of this Part.\n(2)Notwithstanding anything in clause (1), Panchayats at the intermediate level may not be constituted in a State having a population not exceeding twenty lakhs.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243B\" data-report=\"Article 243B · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243B</span>Constitution of Panchayats</h3></div><p class=\"prov-cite\">Article 243B · Part IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be constituted in every State, Panchayats at the village, intermediate and district levels in accordance with the provisions of this Part.</p><p><span class=\"lbl\">(2)</span>Notwithstanding anything in clause (1), Panchayats at the intermediate level may not be constituted in a State having a population not exceeding twenty lakhs.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243B</span>Constitution of Panchayats</h3></div><p class=\"prov-cite\">Article 243B · Part IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be constituted in every State, Panchayats at the village, intermediate and district levels in accordance with the provisions of this Part.</p><p><span class=\"lbl\">(2)</span>Notwithstanding anything in clause (1), Panchayats at the intermediate level may not be constituted in a State having a population not exceeding twenty lakhs.</p></div>"
+  }
+}

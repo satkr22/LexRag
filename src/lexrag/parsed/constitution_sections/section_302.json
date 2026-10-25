@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-16.html",
+    "source_order": 16,
+    "article_order": 2,
+    "order": 384,
+    "stem": "section_302",
+    "heading_number": "Part XIII",
+    "heading_title": "Trade, Commerce and Intercourse within the Territory of India",
+    "heading_range": "301 – 307",
+    "heading_source": "group-head",
+    "article_number": "302",
+    "article_title": "Power of Parliament to impose restrictions on trade, commerce and intercourse"
+  },
+  "id": "constitution_section_302",
+  "heading": {
+    "number": "Part XIII",
+    "title": "Trade, Commerce and Intercourse within the Territory of India",
+    "range": "301 – 307"
+  },
+  "article": {
+    "number": "302",
+    "title": "Power of Parliament to impose restrictions on trade, commerce and intercourse",
+    "content": "302Power of Parliament to impose restrictions on trade, commerce and intercourse\n\nArticle 302 · Part XIII\nParliament may by law impose such restrictions on the freedom of trade, commerce or intercourse between one State and another or within any part of the territory of India as may be required in the public interest.\n\n",
+    "html": "<article class=\"provision\" data-n=\"302\" data-report=\"Article 302 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">302</span>Power of Parliament to impose restrictions on trade, commerce and intercourse</h3></div><p class=\"prov-cite\">Article 302 · Part XIII</p><div class=\"prov-body\"><p>Parliament may by law impose such restrictions on the freedom of trade, commerce or intercourse between one State and another or within any part of the territory of India as may be required in the public interest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">302</span>Power of Parliament to impose restrictions on trade, commerce and intercourse</h3></div><p class=\"prov-cite\">Article 302 · Part XIII</p><div class=\"prov-body\"><p>Parliament may by law impose such restrictions on the freedom of trade, commerce or intercourse between one State and another or within any part of the territory of India as may be required in the public interest.</p></div>"
+  }
+}

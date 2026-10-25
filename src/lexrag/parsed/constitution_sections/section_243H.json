@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-10.html",
+    "source_order": 10,
+    "article_order": 9,
+    "order": 278,
+    "stem": "section_243H",
+    "heading_number": "Part IX",
+    "heading_title": "The Panchayats",
+    "heading_range": "243 – 243O",
+    "heading_source": "group-head",
+    "article_number": "243H",
+    "article_title": "Powers to impose taxes by, and Funds of, the Panchayats"
+  },
+  "id": "constitution_section_243H",
+  "heading": {
+    "number": "Part IX",
+    "title": "The Panchayats",
+    "range": "243 – 243O"
+  },
+  "article": {
+    "number": "243H",
+    "title": "Powers to impose taxes by, and Funds of, the Panchayats",
+    "content": "243HPowers to impose taxes by, and Funds of, the Panchayats\n\nArticle 243H · Part IX\nThe Legislature of a State may, by law,—\n(a)authorise a Panchayat to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;\n(b)assign to a Panchayat such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;\n(c)provide for making such grants-in-aid to the Panchayats from the Consolidated Fund of the State; and\n(d)provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Panchayats and also for the withdrawal of such moneys therefrom,\nas may be specified in the law.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243H\" data-report=\"Article 243H · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243H</span>Powers to impose taxes by, and Funds of, the Panchayats</h3></div><p class=\"prov-cite\">Article 243H · Part IX</p><div class=\"prov-body\"><p>The Legislature of a State may, by law,—</p><p><span class=\"lbl\">(a)</span>authorise a Panchayat to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;</p><p><span class=\"lbl\">(b)</span>assign to a Panchayat such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;</p><p><span class=\"lbl\">(c)</span>provide for making such grants-in-aid to the Panchayats from the Consolidated Fund of the State; and</p><p><span class=\"lbl\">(d)</span>provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Panchayats and also for the withdrawal of such moneys therefrom,</p><p>as may be specified in the law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243H</span>Powers to impose taxes by, and Funds of, the Panchayats</h3></div><p class=\"prov-cite\">Article 243H · Part IX</p><div class=\"prov-body\"><p>The Legislature of a State may, by law,—</p><p><span class=\"lbl\">(a)</span>authorise a Panchayat to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;</p><p><span class=\"lbl\">(b)</span>assign to a Panchayat such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;</p><p><span class=\"lbl\">(c)</span>provide for making such grants-in-aid to the Panchayats from the Consolidated Fund of the State; and</p><p><span class=\"lbl\">(d)</span>provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Panchayats and also for the withdrawal of such moneys therefrom,</p><p>as may be specified in the law.</p></div>"
+  }
+}

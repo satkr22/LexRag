@@ -1,0 +1,3200 @@
+{
+  "act": "companies",
+  "source_directory": "src/lexrag/scrapped/companies_sections",
+  "output_directory": "src/lexrag/parsed/companies_sections",
+  "count": 532,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent, commencement and application.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Formation of company.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "3A",
+      "article_title": "Members severally liable in certain cases.",
+      "file": "section_3A.json"
+    },
+    {
+      "order": 5,
+      "article_number": "4",
+      "article_title": "Memorandum.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 6,
+      "article_number": "5",
+      "article_title": "Articles.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 7,
+      "article_number": "6",
+      "article_title": "Act to override memorandum, articles, etc.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 8,
+      "article_number": "7",
+      "article_title": "Incorporation of company.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 9,
+      "article_number": "8",
+      "article_title": "Formation of companies with charitable objects, etc.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 10,
+      "article_number": "9",
+      "article_title": "Effect of registration.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 11,
+      "article_number": "10",
+      "article_title": "Effect of memorandum and articles.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 12,
+      "article_number": "10A",
+      "article_title": "Commencement of business, etc.",
+      "file": "section_10A.json"
+    },
+    {
+      "order": 13,
+      "article_number": "11",
+      "article_title": "Commencement of business, etc.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 14,
+      "article_number": "12",
+      "article_title": "Registered office of company.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 15,
+      "article_number": "13",
+      "article_title": "Alteration of memorandum.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 16,
+      "article_number": "14",
+      "article_title": "Alteration of articles.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 17,
+      "article_number": "15",
+      "article_title": "Alteration of memorandum or articles to be noted in every copy.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 18,
+      "article_number": "16",
+      "article_title": "Rectification of name of company.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 19,
+      "article_number": "17",
+      "article_title": "Copies of memorandum, articles, etc., to be given to members.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 20,
+      "article_number": "18",
+      "article_title": "Conversion of companies already registered.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 21,
+      "article_number": "19",
+      "article_title": "Subsidiary company not to hold shares in its holding company.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 22,
+      "article_number": "20",
+      "article_title": "Service of documents.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 23,
+      "article_number": "21",
+      "article_title": "Authentication of documents, proceedings and contracts.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 24,
+      "article_number": "22",
+      "article_title": "Execution of bills of exchange, etc.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 25,
+      "article_number": "23",
+      "article_title": "Public offer and private placement.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 26,
+      "article_number": "24",
+      "article_title": "Power of Securities and Exchange Board to regulate issue and transfer of securities, etc.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 27,
+      "article_number": "25",
+      "article_title": "Document containing offer of securities for sale to be deemed prospectus.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 28,
+      "article_number": "26",
+      "article_title": "Matters to be stated in prospectus.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 29,
+      "article_number": "27",
+      "article_title": "Variation in terms of contract or objects in prospectus.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 30,
+      "article_number": "28",
+      "article_title": "Offer of sale of shares by certain members of company.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 31,
+      "article_number": "29",
+      "article_title": "Public offer of securities to be in dematerialised form.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 32,
+      "article_number": "30",
+      "article_title": "Advertisement of prospectus.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 33,
+      "article_number": "31",
+      "article_title": "Shelf prospectus.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 34,
+      "article_number": "32",
+      "article_title": "Red herring prospectus.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 35,
+      "article_number": "33",
+      "article_title": "Issue of application forms for securities.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 36,
+      "article_number": "34",
+      "article_title": "Criminal liability for mis-statements in prospectus.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 37,
+      "article_number": "35",
+      "article_title": "Civil liability for mis-statements in prospectus.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 38,
+      "article_number": "36",
+      "article_title": "Punishment for fraudulently inducing persons to invest money.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 39,
+      "article_number": "37",
+      "article_title": "Action by affected persons.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 40,
+      "article_number": "38",
+      "article_title": "Punishment for personation for acquisition, etc., of securities.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 41,
+      "article_number": "39",
+      "article_title": "Allotment of securities by company.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 42,
+      "article_number": "40",
+      "article_title": "Securities to be dealt with in stock exchanges.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 43,
+      "article_number": "41",
+      "article_title": "Global depository receipt.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 44,
+      "article_number": "42",
+      "article_title": "Issue of shares on private placement basis.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 45,
+      "article_number": "43",
+      "article_title": "Kinds of share capital.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 46,
+      "article_number": "44",
+      "article_title": "Nature of shares or debentures.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 47,
+      "article_number": "45",
+      "article_title": "Numbering of shares.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 48,
+      "article_number": "46",
+      "article_title": "Certificate of shares.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 49,
+      "article_number": "47",
+      "article_title": "Voting rights.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 50,
+      "article_number": "48",
+      "article_title": "Variations of shareholders’ rights.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 51,
+      "article_number": "49",
+      "article_title": "Calls on shares of same class to be made on uniform basis.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 52,
+      "article_number": "50",
+      "article_title": "Company to accept unpaid share capital, although not called up.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 53,
+      "article_number": "51",
+      "article_title": "Payment of dividend in proportion to amount paid-up.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 54,
+      "article_number": "52",
+      "article_title": "Application of premiums received on issue of shares.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 55,
+      "article_number": "53",
+      "article_title": "Prohibition on issue of shares at discount.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 56,
+      "article_number": "54",
+      "article_title": "Issue of sweat equity shares.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 57,
+      "article_number": "55",
+      "article_title": "Issue and redemption of preference shares.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 58,
+      "article_number": "56",
+      "article_title": "Transfer and transmission of securities.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 59,
+      "article_number": "57",
+      "article_title": "Punishment for personation of shareholder.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 60,
+      "article_number": "58",
+      "article_title": "Refusal of registration and appeal against refusal.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 61,
+      "article_number": "59",
+      "article_title": "Rectification of register of members.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 62,
+      "article_number": "60",
+      "article_title": "Publication of authorised, subscribed and paid-up capital.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 63,
+      "article_number": "61",
+      "article_title": "Power of limited company to alter its share capital.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 64,
+      "article_number": "62",
+      "article_title": "Further issue of share capital.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 65,
+      "article_number": "63",
+      "article_title": "Issue of bonus shares.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 66,
+      "article_number": "64",
+      "article_title": "Notice to be given to Registrar for alteration of share capital.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 67,
+      "article_number": "65",
+      "article_title": "Unlimited company to provide for reserve share capital on conversion into limited company.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 68,
+      "article_number": "66",
+      "article_title": "Reduction of share capital.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 69,
+      "article_number": "67",
+      "article_title": "Restriction on purchase by company or giving of loans by it for purchase of its shares.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 70,
+      "article_number": "68",
+      "article_title": "Power of company to purchase its own securities.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 71,
+      "article_number": "69",
+      "article_title": "Transfer of certain sums to capital redemption reserve account.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 72,
+      "article_number": "70",
+      "article_title": "Prohibition for buy-back in certain circumstances.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 73,
+      "article_number": "71",
+      "article_title": "Debentures.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 74,
+      "article_number": "72",
+      "article_title": "Power to nominate.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 75,
+      "article_number": "73",
+      "article_title": "Prohibition on acceptance of deposits from public.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 76,
+      "article_number": "74",
+      "article_title": "Repayment of deposits, etc., accepted before commencement of this Act.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 77,
+      "article_number": "75",
+      "article_title": "Damages for fraud.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 78,
+      "article_number": "76",
+      "article_title": "Acceptance of deposits from public by certain companies.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 79,
+      "article_number": "76A",
+      "article_title": "Punishment for contravention of section 73 or section 76.",
+      "file": "section_76A.json"
+    },
+    {
+      "order": 80,
+      "article_number": "77",
+      "article_title": "Duty to register charges, etc.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 81,
+      "article_number": "78",
+      "article_title": "Application for registration of charge.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 82,
+      "article_number": "79",
+      "article_title": "Section 77 to apply in certain matters.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 83,
+      "article_number": "80",
+      "article_title": "Date of notice of charge.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 84,
+      "article_number": "81",
+      "article_title": "Register of charges to be kept by Registrar.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 85,
+      "article_number": "82",
+      "article_title": "Company to report satisfaction of charge.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 86,
+      "article_number": "83",
+      "article_title": "Power of Registrar to make entries of satisfaction and release in absence of intimation from company.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 87,
+      "article_number": "84",
+      "article_title": "Intimation of appointment of receiver or manager.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 88,
+      "article_number": "85",
+      "article_title": "Company’s register of charges.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 89,
+      "article_number": "86",
+      "article_title": "Punishment for contravention.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 90,
+      "article_number": "87",
+      "article_title": "Rectification by Central Government in Register of charges.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 91,
+      "article_number": "88",
+      "article_title": "Register of members, etc.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 92,
+      "article_number": "89",
+      "article_title": "Declaration in respect of beneficial interest in any share.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 93,
+      "article_number": "90",
+      "article_title": "Register of significant beneficial owners in a company.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 94,
+      "article_number": "91",
+      "article_title": "Power to close register of members or debenture-holders or other security holders.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 95,
+      "article_number": "92",
+      "article_title": "Annual return.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 96,
+      "article_number": "93",
+      "article_title": "Return to be filed with Registrar in case promoter’s stake changes.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 97,
+      "article_number": "94",
+      "article_title": "Place of keeping and inspection of registers, returns, etc.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 98,
+      "article_number": "95",
+      "article_title": "Registers, etc., to be evidence.",
+      "file": "section_95.json"
+    },
+    {
+      "order": 99,
+      "article_number": "96",
+      "article_title": "Annual general meeting.",
+      "file": "section_96.json"
+    },
+    {
+      "order": 100,
+      "article_number": "97",
+      "article_title": "Power of Tribunal to call annual general meeting.",
+      "file": "section_97.json"
+    },
+    {
+      "order": 101,
+      "article_number": "98",
+      "article_title": "Power of Tribunal to call meetings of members, etc.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 102,
+      "article_number": "99",
+      "article_title": "Punishment for default in complying with provisions of sections 96 to 98.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 103,
+      "article_number": "100",
+      "article_title": "Calling of extraordinary general meeting.",
+      "file": "section_100.json"
+    },
+    {
+      "order": 104,
+      "article_number": "101",
+      "article_title": "Notice of meeting.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 105,
+      "article_number": "102",
+      "article_title": "Statement to be annexed to notice.",
+      "file": "section_102.json"
+    },
+    {
+      "order": 106,
+      "article_number": "103",
+      "article_title": "Quorum for meetings.",
+      "file": "section_103.json"
+    },
+    {
+      "order": 107,
+      "article_number": "104",
+      "article_title": "Chairman of meetings.",
+      "file": "section_104.json"
+    },
+    {
+      "order": 108,
+      "article_number": "105",
+      "article_title": "Proxies.",
+      "file": "section_105.json"
+    },
+    {
+      "order": 109,
+      "article_number": "106",
+      "article_title": "Restriction on voting rights.",
+      "file": "section_106.json"
+    },
+    {
+      "order": 110,
+      "article_number": "107",
+      "article_title": "Voting by show of hands.",
+      "file": "section_107.json"
+    },
+    {
+      "order": 111,
+      "article_number": "108",
+      "article_title": "Voting through electronic means.",
+      "file": "section_108.json"
+    },
+    {
+      "order": 112,
+      "article_number": "109",
+      "article_title": "Demand for poll.",
+      "file": "section_109.json"
+    },
+    {
+      "order": 113,
+      "article_number": "110",
+      "article_title": "Postal ballot.",
+      "file": "section_110.json"
+    },
+    {
+      "order": 114,
+      "article_number": "111",
+      "article_title": "Circulation of members’ resolution.",
+      "file": "section_111.json"
+    },
+    {
+      "order": 115,
+      "article_number": "112",
+      "article_title": "Representation of President and Governors in meetings.",
+      "file": "section_112.json"
+    },
+    {
+      "order": 116,
+      "article_number": "113",
+      "article_title": "Representation of corporations at meeting of companies and of creditors.",
+      "file": "section_113.json"
+    },
+    {
+      "order": 117,
+      "article_number": "114",
+      "article_title": "Ordinary and special resolutions.",
+      "file": "section_114.json"
+    },
+    {
+      "order": 118,
+      "article_number": "115",
+      "article_title": "Resolutions requiring special notice.",
+      "file": "section_115.json"
+    },
+    {
+      "order": 119,
+      "article_number": "116",
+      "article_title": "Resolutions passed at adjourned meeting.",
+      "file": "section_116.json"
+    },
+    {
+      "order": 120,
+      "article_number": "117",
+      "article_title": "Resolutions and agreements to be filed.",
+      "file": "section_117.json"
+    },
+    {
+      "order": 121,
+      "article_number": "118",
+      "article_title": "Minutes of proceedings of general meeting, meeting of Board of Directors and other meeting and resolutions passed by postal ballot.",
+      "file": "section_118.json"
+    },
+    {
+      "order": 122,
+      "article_number": "119",
+      "article_title": "Inspection of minute-books of general meeting.",
+      "file": "section_119.json"
+    },
+    {
+      "order": 123,
+      "article_number": "120",
+      "article_title": "Maintenance and inspection of documents in electronic form.",
+      "file": "section_120.json"
+    },
+    {
+      "order": 124,
+      "article_number": "121",
+      "article_title": "Report on annual general meeting.",
+      "file": "section_121.json"
+    },
+    {
+      "order": 125,
+      "article_number": "122",
+      "article_title": "Applicability of this Chapter to One Person Company.",
+      "file": "section_122.json"
+    },
+    {
+      "order": 126,
+      "article_number": "123",
+      "article_title": "Declaration of dividend.",
+      "file": "section_123.json"
+    },
+    {
+      "order": 127,
+      "article_number": "124",
+      "article_title": "Unpaid Dividend Account.",
+      "file": "section_124.json"
+    },
+    {
+      "order": 128,
+      "article_number": "125",
+      "article_title": "Investor Education and Protection Fund.",
+      "file": "section_125.json"
+    },
+    {
+      "order": 129,
+      "article_number": "126",
+      "article_title": "Right to dividend, rights shares and bonus shares to be held in abeyance pending registration of transfer of shares.",
+      "file": "section_126.json"
+    },
+    {
+      "order": 130,
+      "article_number": "127",
+      "article_title": "Punishment for failure to distribute dividends.",
+      "file": "section_127.json"
+    },
+    {
+      "order": 131,
+      "article_number": "128",
+      "article_title": "Books of account, etc., to be kept by company.",
+      "file": "section_128.json"
+    },
+    {
+      "order": 132,
+      "article_number": "129",
+      "article_title": "Financial statement.",
+      "file": "section_129.json"
+    },
+    {
+      "order": 133,
+      "article_number": "129A",
+      "article_title": "Periodical financial results.",
+      "file": "section_129A.json"
+    },
+    {
+      "order": 134,
+      "article_number": "130",
+      "article_title": "Re-opening of accounts on court’s or Tribunal’s orders.",
+      "file": "section_130.json"
+    },
+    {
+      "order": 135,
+      "article_number": "131",
+      "article_title": "Voluntary revision of financial statements or Board’s report.",
+      "file": "section_131.json"
+    },
+    {
+      "order": 136,
+      "article_number": "132",
+      "article_title": "Constitution of National Financial Reporting Authority.",
+      "file": "section_132.json"
+    },
+    {
+      "order": 137,
+      "article_number": "133",
+      "article_title": "Central Government to prescribe accounting standards.",
+      "file": "section_133.json"
+    },
+    {
+      "order": 138,
+      "article_number": "134",
+      "article_title": "Financial statement, Board’s report, etc.",
+      "file": "section_134.json"
+    },
+    {
+      "order": 139,
+      "article_number": "135",
+      "article_title": "Corporate Social Responsibility.",
+      "file": "section_135.json"
+    },
+    {
+      "order": 140,
+      "article_number": "136",
+      "article_title": "Right of member to copies of audited financial statement.",
+      "file": "section_136.json"
+    },
+    {
+      "order": 141,
+      "article_number": "137",
+      "article_title": "Copy of financial statement to be filed with Registrar.",
+      "file": "section_137.json"
+    },
+    {
+      "order": 142,
+      "article_number": "138",
+      "article_title": "Internal audit.",
+      "file": "section_138.json"
+    },
+    {
+      "order": 143,
+      "article_number": "139",
+      "article_title": "Appointment of auditors.",
+      "file": "section_139.json"
+    },
+    {
+      "order": 144,
+      "article_number": "140",
+      "article_title": "Removal, resignation of auditor and giving of special notice.",
+      "file": "section_140.json"
+    },
+    {
+      "order": 145,
+      "article_number": "141",
+      "article_title": "Eligibility, qualifications and disqualifications of auditors.",
+      "file": "section_141.json"
+    },
+    {
+      "order": 146,
+      "article_number": "142",
+      "article_title": "Remuneration of auditors.",
+      "file": "section_142.json"
+    },
+    {
+      "order": 147,
+      "article_number": "143",
+      "article_title": "Powers and duties of auditors and auditing standards.",
+      "file": "section_143.json"
+    },
+    {
+      "order": 148,
+      "article_number": "144",
+      "article_title": "Auditor not to render certain services.",
+      "file": "section_144.json"
+    },
+    {
+      "order": 149,
+      "article_number": "145",
+      "article_title": "Auditor to sign audit reports, etc.",
+      "file": "section_145.json"
+    },
+    {
+      "order": 150,
+      "article_number": "146",
+      "article_title": "Auditors to attend general meeting.",
+      "file": "section_146.json"
+    },
+    {
+      "order": 151,
+      "article_number": "147",
+      "article_title": "Punishment for contravention.",
+      "file": "section_147.json"
+    },
+    {
+      "order": 152,
+      "article_number": "148",
+      "article_title": "Central Government to specify audit of items of cost in respect of certain companies.",
+      "file": "section_148.json"
+    },
+    {
+      "order": 153,
+      "article_number": "149",
+      "article_title": "Company to have Board of Directors.",
+      "file": "section_149.json"
+    },
+    {
+      "order": 154,
+      "article_number": "150",
+      "article_title": "Manner of selection of independent directors and maintenance of databank of independent directors.",
+      "file": "section_150.json"
+    },
+    {
+      "order": 155,
+      "article_number": "151",
+      "article_title": "Appointment of director elected by small shareholders.",
+      "file": "section_151.json"
+    },
+    {
+      "order": 156,
+      "article_number": "152",
+      "article_title": "Appointment of directors.",
+      "file": "section_152.json"
+    },
+    {
+      "order": 157,
+      "article_number": "153",
+      "article_title": "Application for allotment of Director Identification Number.",
+      "file": "section_153.json"
+    },
+    {
+      "order": 158,
+      "article_number": "154",
+      "article_title": "Allotment of Director Identification Number.",
+      "file": "section_154.json"
+    },
+    {
+      "order": 159,
+      "article_number": "155",
+      "article_title": "Prohibition to obtain more than one Director Identification Number.",
+      "file": "section_155.json"
+    },
+    {
+      "order": 160,
+      "article_number": "156",
+      "article_title": "Director to intimate Director Identification Number.",
+      "file": "section_156.json"
+    },
+    {
+      "order": 161,
+      "article_number": "157",
+      "article_title": "Company to inform Director Identification Number to Registrar.",
+      "file": "section_157.json"
+    },
+    {
+      "order": 162,
+      "article_number": "158",
+      "article_title": "Obligation to indicate Director Identification Number.",
+      "file": "section_158.json"
+    },
+    {
+      "order": 163,
+      "article_number": "159",
+      "article_title": "Penalty for default of certain provisions.",
+      "file": "section_159.json"
+    },
+    {
+      "order": 164,
+      "article_number": "160",
+      "article_title": "Right of persons other than retiring directors to stand for directorship.",
+      "file": "section_160.json"
+    },
+    {
+      "order": 165,
+      "article_number": "161",
+      "article_title": "Appointment of additional director, alternate director and nominee director.",
+      "file": "section_161.json"
+    },
+    {
+      "order": 166,
+      "article_number": "162",
+      "article_title": "Appointment of directors to be voted individually.",
+      "file": "section_162.json"
+    },
+    {
+      "order": 167,
+      "article_number": "163",
+      "article_title": "Option to adopt principle of proportional representation for appointment of directors.",
+      "file": "section_163.json"
+    },
+    {
+      "order": 168,
+      "article_number": "164",
+      "article_title": "Disqualifications for appointment of director.",
+      "file": "section_164.json"
+    },
+    {
+      "order": 169,
+      "article_number": "165",
+      "article_title": "Number of directorships.",
+      "file": "section_165.json"
+    },
+    {
+      "order": 170,
+      "article_number": "166",
+      "article_title": "Duties of directors.",
+      "file": "section_166.json"
+    },
+    {
+      "order": 171,
+      "article_number": "167",
+      "article_title": "Vacation of office of director.",
+      "file": "section_167.json"
+    },
+    {
+      "order": 172,
+      "article_number": "168",
+      "article_title": "Resignation of director.",
+      "file": "section_168.json"
+    },
+    {
+      "order": 173,
+      "article_number": "169",
+      "article_title": "Removal of directors.",
+      "file": "section_169.json"
+    },
+    {
+      "order": 174,
+      "article_number": "170",
+      "article_title": "Register of directors and key managerial personnel and their shareholding.",
+      "file": "section_170.json"
+    },
+    {
+      "order": 175,
+      "article_number": "171",
+      "article_title": "Members’ right to inspect.",
+      "file": "section_171.json"
+    },
+    {
+      "order": 176,
+      "article_number": "172",
+      "article_title": "Penalty.",
+      "file": "section_172.json"
+    },
+    {
+      "order": 177,
+      "article_number": "173",
+      "article_title": "Meetings of Board.",
+      "file": "section_173.json"
+    },
+    {
+      "order": 178,
+      "article_number": "174",
+      "article_title": "Quorum for meetings of Board.",
+      "file": "section_174.json"
+    },
+    {
+      "order": 179,
+      "article_number": "175",
+      "article_title": "Passing of resolution by circulation.",
+      "file": "section_175.json"
+    },
+    {
+      "order": 180,
+      "article_number": "176",
+      "article_title": "Defects in appointment of directors not to invalidate actions taken.",
+      "file": "section_176.json"
+    },
+    {
+      "order": 181,
+      "article_number": "177",
+      "article_title": "Audit Committee.",
+      "file": "section_177.json"
+    },
+    {
+      "order": 182,
+      "article_number": "178",
+      "article_title": "Nomination and Remuneration Committee and Stakeholders Relationship Committee.",
+      "file": "section_178.json"
+    },
+    {
+      "order": 183,
+      "article_number": "179",
+      "article_title": "Powers of Board.",
+      "file": "section_179.json"
+    },
+    {
+      "order": 184,
+      "article_number": "180",
+      "article_title": "Restrictions on powers of Board.",
+      "file": "section_180.json"
+    },
+    {
+      "order": 185,
+      "article_number": "181",
+      "article_title": "Company to contribute to bona fide and charitable funds, etc.",
+      "file": "section_181.json"
+    },
+    {
+      "order": 186,
+      "article_number": "182",
+      "article_title": "Prohibitions and restrictions regarding political contributions.",
+      "file": "section_182.json"
+    },
+    {
+      "order": 187,
+      "article_number": "183",
+      "article_title": "Power of Board and other persons to make contributions to national defence fund, etc.",
+      "file": "section_183.json"
+    },
+    {
+      "order": 188,
+      "article_number": "184",
+      "article_title": "Disclosure of interest by director.",
+      "file": "section_184.json"
+    },
+    {
+      "order": 189,
+      "article_number": "185",
+      "article_title": "Loans to directors, etc.",
+      "file": "section_185.json"
+    },
+    {
+      "order": 190,
+      "article_number": "186",
+      "article_title": "Loan and investment by company.",
+      "file": "section_186.json"
+    },
+    {
+      "order": 191,
+      "article_number": "187",
+      "article_title": "Investments of company to be held in its own name.",
+      "file": "section_187.json"
+    },
+    {
+      "order": 192,
+      "article_number": "188",
+      "article_title": "Related party transactions.",
+      "file": "section_188.json"
+    },
+    {
+      "order": 193,
+      "article_number": "189",
+      "article_title": "Register of contracts or arrangements in which directors are interested.",
+      "file": "section_189.json"
+    },
+    {
+      "order": 194,
+      "article_number": "190",
+      "article_title": "Contract of employment with managing or whole-time director.",
+      "file": "section_190.json"
+    },
+    {
+      "order": 195,
+      "article_number": "191",
+      "article_title": "Payment to director for loss of office, etc., in connection with transfer of undertaking, property or shares.",
+      "file": "section_191.json"
+    },
+    {
+      "order": 196,
+      "article_number": "192",
+      "article_title": "Restriction on non-cash transactions involving directors.",
+      "file": "section_192.json"
+    },
+    {
+      "order": 197,
+      "article_number": "193",
+      "article_title": "Contract by One Person Company.",
+      "file": "section_193.json"
+    },
+    {
+      "order": 198,
+      "article_number": "194",
+      "article_title": "Prohibition on forward dealings in securities of company by director or key managerial personnel.",
+      "file": "section_194.json"
+    },
+    {
+      "order": 199,
+      "article_number": "195",
+      "article_title": "Prohibition on insider trading of securities.",
+      "file": "section_195.json"
+    },
+    {
+      "order": 200,
+      "article_number": "196",
+      "article_title": "Appointment of managing director, whole-time director or manager.",
+      "file": "section_196.json"
+    },
+    {
+      "order": 201,
+      "article_number": "197",
+      "article_title": "Overall maximum managerial remuneration and managerial remuneration in case of absence or inadequacy of profits.",
+      "file": "section_197.json"
+    },
+    {
+      "order": 202,
+      "article_number": "198",
+      "article_title": "Calculation of profits.",
+      "file": "section_198.json"
+    },
+    {
+      "order": 203,
+      "article_number": "199",
+      "article_title": "Recovery of remuneration in certain cases.",
+      "file": "section_199.json"
+    },
+    {
+      "order": 204,
+      "article_number": "200",
+      "article_title": "Central Government or company to fix limit with regard to remuneration.",
+      "file": "section_200.json"
+    },
+    {
+      "order": 205,
+      "article_number": "201",
+      "article_title": "Forms of, and procedure in relation to, certain applications.",
+      "file": "section_201.json"
+    },
+    {
+      "order": 206,
+      "article_number": "202",
+      "article_title": "Compensation for loss of office of managing or whole-time director or manager.",
+      "file": "section_202.json"
+    },
+    {
+      "order": 207,
+      "article_number": "203",
+      "article_title": "Appointment of key managerial personnel.",
+      "file": "section_203.json"
+    },
+    {
+      "order": 208,
+      "article_number": "204",
+      "article_title": "Secretarial audit for bigger companies.",
+      "file": "section_204.json"
+    },
+    {
+      "order": 209,
+      "article_number": "205",
+      "article_title": "Functions of company secretary.",
+      "file": "section_205.json"
+    },
+    {
+      "order": 210,
+      "article_number": "206",
+      "article_title": "Power to call for information, inspect books and conduct inquiries.",
+      "file": "section_206.json"
+    },
+    {
+      "order": 211,
+      "article_number": "207",
+      "article_title": "Conduct of inspection and inquiry.",
+      "file": "section_207.json"
+    },
+    {
+      "order": 212,
+      "article_number": "208",
+      "article_title": "Report on inspection made.",
+      "file": "section_208.json"
+    },
+    {
+      "order": 213,
+      "article_number": "209",
+      "article_title": "Search and seizure.",
+      "file": "section_209.json"
+    },
+    {
+      "order": 214,
+      "article_number": "210",
+      "article_title": "Investigation into affairs of company.",
+      "file": "section_210.json"
+    },
+    {
+      "order": 215,
+      "article_number": "211",
+      "article_title": "Establishment of Serious Fraud Investigation Office.",
+      "file": "section_211.json"
+    },
+    {
+      "order": 216,
+      "article_number": "212",
+      "article_title": "Investigation into affairs of Company by Serious Fraud Investigation Office.",
+      "file": "section_212.json"
+    },
+    {
+      "order": 217,
+      "article_number": "213",
+      "article_title": "Investigation into company’s affairs in other cases.",
+      "file": "section_213.json"
+    },
+    {
+      "order": 218,
+      "article_number": "214",
+      "article_title": "Security for payment of costs and expenses of investigation.",
+      "file": "section_214.json"
+    },
+    {
+      "order": 219,
+      "article_number": "215",
+      "article_title": "Firm, body corporate or association not to be appointed as inspector.",
+      "file": "section_215.json"
+    },
+    {
+      "order": 220,
+      "article_number": "216",
+      "article_title": "Investigation of ownership of company.",
+      "file": "section_216.json"
+    },
+    {
+      "order": 221,
+      "article_number": "217",
+      "article_title": "Procedure, powers, etc., of inspectors.",
+      "file": "section_217.json"
+    },
+    {
+      "order": 222,
+      "article_number": "218",
+      "article_title": "Protection of employees during investigation.",
+      "file": "section_218.json"
+    },
+    {
+      "order": 223,
+      "article_number": "219",
+      "article_title": "Power of inspector to conduct investigation into affairs of related companies, etc.",
+      "file": "section_219.json"
+    },
+    {
+      "order": 224,
+      "article_number": "220",
+      "article_title": "Seizure of documents by inspector.",
+      "file": "section_220.json"
+    },
+    {
+      "order": 225,
+      "article_number": "221",
+      "article_title": "Freezing of assets of company on inquiry and investigation.",
+      "file": "section_221.json"
+    },
+    {
+      "order": 226,
+      "article_number": "222",
+      "article_title": "Imposition of restrictions upon securities.",
+      "file": "section_222.json"
+    },
+    {
+      "order": 227,
+      "article_number": "223",
+      "article_title": "Inspector’s report.",
+      "file": "section_223.json"
+    },
+    {
+      "order": 228,
+      "article_number": "224",
+      "article_title": "Actions to be taken in pursuance of inspector’s report.",
+      "file": "section_224.json"
+    },
+    {
+      "order": 229,
+      "article_number": "225",
+      "article_title": "Expenses of investigation.",
+      "file": "section_225.json"
+    },
+    {
+      "order": 230,
+      "article_number": "226",
+      "article_title": "Voluntary winding up of company, etc., not to stop investigation proceedings.",
+      "file": "section_226.json"
+    },
+    {
+      "order": 231,
+      "article_number": "227",
+      "article_title": "Legal advisors and bankers not to disclose certain information.",
+      "file": "section_227.json"
+    },
+    {
+      "order": 232,
+      "article_number": "228",
+      "article_title": "Investigation, etc., of foreign companies.",
+      "file": "section_228.json"
+    },
+    {
+      "order": 233,
+      "article_number": "229",
+      "article_title": "Penalty for furnishing false statement, mutilation, destruction of documents.",
+      "file": "section_229.json"
+    },
+    {
+      "order": 234,
+      "article_number": "230",
+      "article_title": "Power to compromise or make arrangements with creditors and members.",
+      "file": "section_230.json"
+    },
+    {
+      "order": 235,
+      "article_number": "231",
+      "article_title": "Power of Tribunal to enforce compromise or arrangement.",
+      "file": "section_231.json"
+    },
+    {
+      "order": 236,
+      "article_number": "232",
+      "article_title": "Merger and amalgamation of companies.",
+      "file": "section_232.json"
+    },
+    {
+      "order": 237,
+      "article_number": "233",
+      "article_title": "Merger or amalgamation of certain companies.",
+      "file": "section_233.json"
+    },
+    {
+      "order": 238,
+      "article_number": "234",
+      "article_title": "Merger or amalgamation of company with foreign company.",
+      "file": "section_234.json"
+    },
+    {
+      "order": 239,
+      "article_number": "235",
+      "article_title": "Power to acquire shares of shareholders dissenting from scheme or contract approved by majority.",
+      "file": "section_235.json"
+    },
+    {
+      "order": 240,
+      "article_number": "236",
+      "article_title": "Purchase of minority shareholding.",
+      "file": "section_236.json"
+    },
+    {
+      "order": 241,
+      "article_number": "237",
+      "article_title": "Power of Central Government to provide for amalgamation of companies in public interest.",
+      "file": "section_237.json"
+    },
+    {
+      "order": 242,
+      "article_number": "238",
+      "article_title": "Registration of offer of schemes involving transfer of shares.",
+      "file": "section_238.json"
+    },
+    {
+      "order": 243,
+      "article_number": "239",
+      "article_title": "Preservation of books and papers of amalgamated companies.",
+      "file": "section_239.json"
+    },
+    {
+      "order": 244,
+      "article_number": "240",
+      "article_title": "Liability of officers in respect of offences committed prior to merger, amalgamation, etc.",
+      "file": "section_240.json"
+    },
+    {
+      "order": 245,
+      "article_number": "241",
+      "article_title": "Application to Tribunal for relief in cases of oppression, etc.",
+      "file": "section_241.json"
+    },
+    {
+      "order": 246,
+      "article_number": "242",
+      "article_title": "Powers of Tribunal.",
+      "file": "section_242.json"
+    },
+    {
+      "order": 247,
+      "article_number": "243",
+      "article_title": "Consequence of termination or modification of certain agreements.",
+      "file": "section_243.json"
+    },
+    {
+      "order": 248,
+      "article_number": "244",
+      "article_title": "Right to apply under section 241.",
+      "file": "section_244.json"
+    },
+    {
+      "order": 249,
+      "article_number": "245",
+      "article_title": "Class action.",
+      "file": "section_245.json"
+    },
+    {
+      "order": 250,
+      "article_number": "246",
+      "article_title": "Application of certain provisions to proceedings under section 241 or section 245.",
+      "file": "section_246.json"
+    },
+    {
+      "order": 251,
+      "article_number": "247",
+      "article_title": "Valuation by registered valuers.",
+      "file": "section_247.json"
+    },
+    {
+      "order": 252,
+      "article_number": "248",
+      "article_title": "Power of Registrar to remove name of company from register of companies.",
+      "file": "section_248.json"
+    },
+    {
+      "order": 253,
+      "article_number": "249",
+      "article_title": "Restrictions on making application under section 248 in certain situations.",
+      "file": "section_249.json"
+    },
+    {
+      "order": 254,
+      "article_number": "250",
+      "article_title": "Effect of company notified as dissolved.",
+      "file": "section_250.json"
+    },
+    {
+      "order": 255,
+      "article_number": "251",
+      "article_title": "Fraudulent application for removal of name.",
+      "file": "section_251.json"
+    },
+    {
+      "order": 256,
+      "article_number": "252",
+      "article_title": "Appeal to Tribunal.",
+      "file": "section_252.json"
+    },
+    {
+      "order": 257,
+      "article_number": "253",
+      "article_title": "Determination of sickness.",
+      "file": "section_253.json"
+    },
+    {
+      "order": 258,
+      "article_number": "254",
+      "article_title": "Application for revival and rehabilitation.",
+      "file": "section_254.json"
+    },
+    {
+      "order": 259,
+      "article_number": "255",
+      "article_title": "Exclusion of certain time in computing period of limitation.",
+      "file": "section_255.json"
+    },
+    {
+      "order": 260,
+      "article_number": "256",
+      "article_title": "Appointment of interim administrator.",
+      "file": "section_256.json"
+    },
+    {
+      "order": 261,
+      "article_number": "257",
+      "article_title": "Committee of creditors.",
+      "file": "section_257.json"
+    },
+    {
+      "order": 262,
+      "article_number": "258",
+      "article_title": "Order of Tribunal.",
+      "file": "section_258.json"
+    },
+    {
+      "order": 263,
+      "article_number": "259",
+      "article_title": "Appointment of administrator.",
+      "file": "section_259.json"
+    },
+    {
+      "order": 264,
+      "article_number": "260",
+      "article_title": "Powers and duties of company administrator.",
+      "file": "section_260.json"
+    },
+    {
+      "order": 265,
+      "article_number": "261",
+      "article_title": "Scheme of revival and rehabilitation.",
+      "file": "section_261.json"
+    },
+    {
+      "order": 266,
+      "article_number": "262",
+      "article_title": "Sanction of scheme.",
+      "file": "section_262.json"
+    },
+    {
+      "order": 267,
+      "article_number": "263",
+      "article_title": "Scheme to be binding.",
+      "file": "section_263.json"
+    },
+    {
+      "order": 268,
+      "article_number": "264",
+      "article_title": "Implementation of scheme.",
+      "file": "section_264.json"
+    },
+    {
+      "order": 269,
+      "article_number": "265",
+      "article_title": "Winding up of company on report of company administrator.",
+      "file": "section_265.json"
+    },
+    {
+      "order": 270,
+      "article_number": "266",
+      "article_title": "Power of Tribunal to assess damages against delinquent directors, etc.",
+      "file": "section_266.json"
+    },
+    {
+      "order": 271,
+      "article_number": "267",
+      "article_title": "Punishment for certain offences.",
+      "file": "section_267.json"
+    },
+    {
+      "order": 272,
+      "article_number": "268",
+      "article_title": "Bar of jurisdiction.",
+      "file": "section_268.json"
+    },
+    {
+      "order": 273,
+      "article_number": "269",
+      "article_title": "Rehabilitation and insolvency fund.",
+      "file": "section_269.json"
+    },
+    {
+      "order": 274,
+      "article_number": "270",
+      "article_title": "Winding up by Tribunal.",
+      "file": "section_270.json"
+    },
+    {
+      "order": 275,
+      "article_number": "271",
+      "article_title": "Circumstances in which company may be wound up by Tribunal.",
+      "file": "section_271.json"
+    },
+    {
+      "order": 276,
+      "article_number": "272",
+      "article_title": "Petition for winding up.",
+      "file": "section_272.json"
+    },
+    {
+      "order": 277,
+      "article_number": "273",
+      "article_title": "Powers of Tribunal.",
+      "file": "section_273.json"
+    },
+    {
+      "order": 278,
+      "article_number": "274",
+      "article_title": "Directions for filing statement of affairs.",
+      "file": "section_274.json"
+    },
+    {
+      "order": 279,
+      "article_number": "275",
+      "article_title": "Company Liquidators and their appointments.",
+      "file": "section_275.json"
+    },
+    {
+      "order": 280,
+      "article_number": "276",
+      "article_title": "Removal and replacement of liquidator.",
+      "file": "section_276.json"
+    },
+    {
+      "order": 281,
+      "article_number": "277",
+      "article_title": "Intimation to Company Liquidator, provisional liquidator and Registrar.",
+      "file": "section_277.json"
+    },
+    {
+      "order": 282,
+      "article_number": "278",
+      "article_title": "Effect of winding up order.",
+      "file": "section_278.json"
+    },
+    {
+      "order": 283,
+      "article_number": "279",
+      "article_title": "Stay of suits, etc., on winding up order.",
+      "file": "section_279.json"
+    },
+    {
+      "order": 284,
+      "article_number": "280",
+      "article_title": "Jurisdiction of Tribunal.",
+      "file": "section_280.json"
+    },
+    {
+      "order": 285,
+      "article_number": "281",
+      "article_title": "Submission of report by Company Liquidator.",
+      "file": "section_281.json"
+    },
+    {
+      "order": 286,
+      "article_number": "282",
+      "article_title": "Directions of Tribunal on report of Company Liquidator.",
+      "file": "section_282.json"
+    },
+    {
+      "order": 287,
+      "article_number": "283",
+      "article_title": "Custody of company’s properties.",
+      "file": "section_283.json"
+    },
+    {
+      "order": 288,
+      "article_number": "284",
+      "article_title": "Promoters, directors, etc., to cooperate with Company Liquidator.",
+      "file": "section_284.json"
+    },
+    {
+      "order": 289,
+      "article_number": "285",
+      "article_title": "Settlement of list of contributories and application of assets.",
+      "file": "section_285.json"
+    },
+    {
+      "order": 290,
+      "article_number": "286",
+      "article_title": "Obligations of directors and managers.",
+      "file": "section_286.json"
+    },
+    {
+      "order": 291,
+      "article_number": "287",
+      "article_title": "Advisory committee.",
+      "file": "section_287.json"
+    },
+    {
+      "order": 292,
+      "article_number": "288",
+      "article_title": "Submission of periodical reports to Tribunal.",
+      "file": "section_288.json"
+    },
+    {
+      "order": 293,
+      "article_number": "289",
+      "article_title": "Power of Tribunal on application for stay of winding up.",
+      "file": "section_289.json"
+    },
+    {
+      "order": 294,
+      "article_number": "290",
+      "article_title": "Powers and duties of Company Liquidator.",
+      "file": "section_290.json"
+    },
+    {
+      "order": 295,
+      "article_number": "291",
+      "article_title": "Provision for professional assistance to Company Liquidator.",
+      "file": "section_291.json"
+    },
+    {
+      "order": 296,
+      "article_number": "292",
+      "article_title": "Exercise and control of Company Liquidator’s powers.",
+      "file": "section_292.json"
+    },
+    {
+      "order": 297,
+      "article_number": "293",
+      "article_title": "Books to be kept by Company Liquidator.",
+      "file": "section_293.json"
+    },
+    {
+      "order": 298,
+      "article_number": "294",
+      "article_title": "Audit of Company Liquidator’s accounts.",
+      "file": "section_294.json"
+    },
+    {
+      "order": 299,
+      "article_number": "295",
+      "article_title": "Payment of debts by contributory and extent of set-off.",
+      "file": "section_295.json"
+    },
+    {
+      "order": 300,
+      "article_number": "296",
+      "article_title": "Power of Tribunal to make calls.",
+      "file": "section_296.json"
+    },
+    {
+      "order": 301,
+      "article_number": "297",
+      "article_title": "Adjustment of rights of contributories.",
+      "file": "section_297.json"
+    },
+    {
+      "order": 302,
+      "article_number": "298",
+      "article_title": "Power to order costs.",
+      "file": "section_298.json"
+    },
+    {
+      "order": 303,
+      "article_number": "299",
+      "article_title": "Power to summon persons suspected of having property of company, etc.",
+      "file": "section_299.json"
+    },
+    {
+      "order": 304,
+      "article_number": "300",
+      "article_title": "Power to order examination of promoters, directors, etc.",
+      "file": "section_300.json"
+    },
+    {
+      "order": 305,
+      "article_number": "301",
+      "article_title": "Arrest of person trying to leave India or abscond.",
+      "file": "section_301.json"
+    },
+    {
+      "order": 306,
+      "article_number": "302",
+      "article_title": "Dissolution of company by Tribunal.",
+      "file": "section_302.json"
+    },
+    {
+      "order": 307,
+      "article_number": "303",
+      "article_title": "Appeals from orders made before commencement of Act.",
+      "file": "section_303.json"
+    },
+    {
+      "order": 308,
+      "article_number": "304",
+      "article_title": "Circumstances in which company may be wound up voluntarily.",
+      "file": "section_304.json"
+    },
+    {
+      "order": 309,
+      "article_number": "305",
+      "article_title": "Declaration of solvency in case of proposal to wind up voluntarily.",
+      "file": "section_305.json"
+    },
+    {
+      "order": 310,
+      "article_number": "306",
+      "article_title": "Meeting of creditors.",
+      "file": "section_306.json"
+    },
+    {
+      "order": 311,
+      "article_number": "307",
+      "article_title": "Publication of resolution to wind up voluntarily.",
+      "file": "section_307.json"
+    },
+    {
+      "order": 312,
+      "article_number": "308",
+      "article_title": "Commencement of voluntary winding up.",
+      "file": "section_308.json"
+    },
+    {
+      "order": 313,
+      "article_number": "309",
+      "article_title": "Effect of voluntary winding up.",
+      "file": "section_309.json"
+    },
+    {
+      "order": 314,
+      "article_number": "310",
+      "article_title": "Appointment of Company Liquidator.",
+      "file": "section_310.json"
+    },
+    {
+      "order": 315,
+      "article_number": "311",
+      "article_title": "Power to remove and fill vacancy of Company Liquidator.",
+      "file": "section_311.json"
+    },
+    {
+      "order": 316,
+      "article_number": "312",
+      "article_title": "Notice of appointment of Company Liquidator to be given to Registrar.",
+      "file": "section_312.json"
+    },
+    {
+      "order": 317,
+      "article_number": "313",
+      "article_title": "Cesser of Board’s powers on appointment of Company Liquidator.",
+      "file": "section_313.json"
+    },
+    {
+      "order": 318,
+      "article_number": "314",
+      "article_title": "Powers and duties of Company Liquidator in voluntary winding up.",
+      "file": "section_314.json"
+    },
+    {
+      "order": 319,
+      "article_number": "315",
+      "article_title": "Appointment of committees.",
+      "file": "section_315.json"
+    },
+    {
+      "order": 320,
+      "article_number": "316",
+      "article_title": "Company Liquidator to submit report on progress of winding up.",
+      "file": "section_316.json"
+    },
+    {
+      "order": 321,
+      "article_number": "317",
+      "article_title": "Report of Company Liquidator to Tribunal for examination of persons.",
+      "file": "section_317.json"
+    },
+    {
+      "order": 322,
+      "article_number": "318",
+      "article_title": "Final meeting and dissolution of company.",
+      "file": "section_318.json"
+    },
+    {
+      "order": 323,
+      "article_number": "319",
+      "article_title": "Power of Company Liquidator to accept shares, etc., as consideration for sale of property of company.",
+      "file": "section_319.json"
+    },
+    {
+      "order": 324,
+      "article_number": "320",
+      "article_title": "Distribution of property of company.",
+      "file": "section_320.json"
+    },
+    {
+      "order": 325,
+      "article_number": "321",
+      "article_title": "Arrangement when binding on company and creditors.",
+      "file": "section_321.json"
+    },
+    {
+      "order": 326,
+      "article_number": "322",
+      "article_title": "Power to apply to Tribunal to have questions determined, etc.",
+      "file": "section_322.json"
+    },
+    {
+      "order": 327,
+      "article_number": "323",
+      "article_title": "Costs of voluntary winding up.",
+      "file": "section_323.json"
+    },
+    {
+      "order": 328,
+      "article_number": "324",
+      "article_title": "Debts of all descriptions to be admitted to proof.",
+      "file": "section_324.json"
+    },
+    {
+      "order": 329,
+      "article_number": "325",
+      "article_title": "Application of insolvency rules in winding up of insolvent companies.",
+      "file": "section_325.json"
+    },
+    {
+      "order": 330,
+      "article_number": "326",
+      "article_title": "Overriding preferential payments.",
+      "file": "section_326.json"
+    },
+    {
+      "order": 331,
+      "article_number": "327",
+      "article_title": "Preferential payments.",
+      "file": "section_327.json"
+    },
+    {
+      "order": 332,
+      "article_number": "328",
+      "article_title": "Fraudulent preference.",
+      "file": "section_328.json"
+    },
+    {
+      "order": 333,
+      "article_number": "329",
+      "article_title": "Transfers not in good faith to be void.",
+      "file": "section_329.json"
+    },
+    {
+      "order": 334,
+      "article_number": "330",
+      "article_title": "Certain transfers to be void.",
+      "file": "section_330.json"
+    },
+    {
+      "order": 335,
+      "article_number": "331",
+      "article_title": "Liabilities and rights of certain persons fraudulently preferred.",
+      "file": "section_331.json"
+    },
+    {
+      "order": 336,
+      "article_number": "332",
+      "article_title": "Effect of floating charge.",
+      "file": "section_332.json"
+    },
+    {
+      "order": 337,
+      "article_number": "333",
+      "article_title": "Disclaimer of onerous property.",
+      "file": "section_333.json"
+    },
+    {
+      "order": 338,
+      "article_number": "334",
+      "article_title": "Transfers, etc., after commencement of winding up to be void.",
+      "file": "section_334.json"
+    },
+    {
+      "order": 339,
+      "article_number": "335",
+      "article_title": "Certain attachments, executions, etc., in winding up by Tribunal to be void.",
+      "file": "section_335.json"
+    },
+    {
+      "order": 340,
+      "article_number": "336",
+      "article_title": "Offences by officers of companies in liquidation.",
+      "file": "section_336.json"
+    },
+    {
+      "order": 341,
+      "article_number": "337",
+      "article_title": "Penalty for frauds by officers.",
+      "file": "section_337.json"
+    },
+    {
+      "order": 342,
+      "article_number": "338",
+      "article_title": "Liability where proper accounts not kept.",
+      "file": "section_338.json"
+    },
+    {
+      "order": 343,
+      "article_number": "339",
+      "article_title": "Liability for fraudulent conduct of business.",
+      "file": "section_339.json"
+    },
+    {
+      "order": 344,
+      "article_number": "340",
+      "article_title": "Power of Tribunal to assess damages against delinquent directors, etc.",
+      "file": "section_340.json"
+    },
+    {
+      "order": 345,
+      "article_number": "341",
+      "article_title": "Liability under sections 339 and 340 to extend to partners or directors in firms or companies.",
+      "file": "section_341.json"
+    },
+    {
+      "order": 346,
+      "article_number": "342",
+      "article_title": "Prosecution of delinquent officers and members of company.",
+      "file": "section_342.json"
+    },
+    {
+      "order": 347,
+      "article_number": "343",
+      "article_title": "Company Liquidator to exercise certain powers subject to sanction.",
+      "file": "section_343.json"
+    },
+    {
+      "order": 348,
+      "article_number": "344",
+      "article_title": "Statement that company is in liquidation.",
+      "file": "section_344.json"
+    },
+    {
+      "order": 349,
+      "article_number": "345",
+      "article_title": "Books and papers of company to be evidence.",
+      "file": "section_345.json"
+    },
+    {
+      "order": 350,
+      "article_number": "346",
+      "article_title": "Inspection of books and papers by creditors and contributories.",
+      "file": "section_346.json"
+    },
+    {
+      "order": 351,
+      "article_number": "347",
+      "article_title": "Disposal of books and papers of company.",
+      "file": "section_347.json"
+    },
+    {
+      "order": 352,
+      "article_number": "348",
+      "article_title": "Information as to pending liquidations.",
+      "file": "section_348.json"
+    },
+    {
+      "order": 353,
+      "article_number": "349",
+      "article_title": "Official Liquidator to make payments into public account of India.",
+      "file": "section_349.json"
+    },
+    {
+      "order": 354,
+      "article_number": "350",
+      "article_title": "Company Liquidator to deposit monies into scheduled bank.",
+      "file": "section_350.json"
+    },
+    {
+      "order": 355,
+      "article_number": "351",
+      "article_title": "Liquidator not to deposit monies into private banking account.",
+      "file": "section_351.json"
+    },
+    {
+      "order": 356,
+      "article_number": "352",
+      "article_title": "Company Liquidation Dividend and Undistributed Assets Account.",
+      "file": "section_352.json"
+    },
+    {
+      "order": 357,
+      "article_number": "353",
+      "article_title": "Liquidator to make returns, etc.",
+      "file": "section_353.json"
+    },
+    {
+      "order": 358,
+      "article_number": "354",
+      "article_title": "Meetings to ascertain wishes of creditors or contributories.",
+      "file": "section_354.json"
+    },
+    {
+      "order": 359,
+      "article_number": "355",
+      "article_title": "Court, tribunal or person, etc., before whom affidavit may be sworn.",
+      "file": "section_355.json"
+    },
+    {
+      "order": 360,
+      "article_number": "356",
+      "article_title": "Powers of Tribunal to declare dissolution of company void.",
+      "file": "section_356.json"
+    },
+    {
+      "order": 361,
+      "article_number": "357",
+      "article_title": "Commencement of winding up by Tribunal.",
+      "file": "section_357.json"
+    },
+    {
+      "order": 362,
+      "article_number": "358",
+      "article_title": "Exclusion of certain time in computing period of limitation.",
+      "file": "section_358.json"
+    },
+    {
+      "order": 363,
+      "article_number": "359",
+      "article_title": "Appointment of Official Liquidator.",
+      "file": "section_359.json"
+    },
+    {
+      "order": 364,
+      "article_number": "360",
+      "article_title": "Powers and functions of Official Liquidator.",
+      "file": "section_360.json"
+    },
+    {
+      "order": 365,
+      "article_number": "361",
+      "article_title": "Summary procedure for liquidation.",
+      "file": "section_361.json"
+    },
+    {
+      "order": 366,
+      "article_number": "362",
+      "article_title": "Sale of assets and recovery of debts due to company.",
+      "file": "section_362.json"
+    },
+    {
+      "order": 367,
+      "article_number": "363",
+      "article_title": "Settlement of claims of creditors by Official Liquidator.",
+      "file": "section_363.json"
+    },
+    {
+      "order": 368,
+      "article_number": "364",
+      "article_title": "Appeal by creditor.",
+      "file": "section_364.json"
+    },
+    {
+      "order": 369,
+      "article_number": "365",
+      "article_title": "Order of dissolution of company.",
+      "file": "section_365.json"
+    },
+    {
+      "order": 370,
+      "article_number": "366",
+      "article_title": "Companies capable of being registered.",
+      "file": "section_366.json"
+    },
+    {
+      "order": 371,
+      "article_number": "367",
+      "article_title": "Certificate of registration of existing companies.",
+      "file": "section_367.json"
+    },
+    {
+      "order": 372,
+      "article_number": "368",
+      "article_title": "Vesting of property on registration.",
+      "file": "section_368.json"
+    },
+    {
+      "order": 373,
+      "article_number": "369",
+      "article_title": "Saving of existing liabilities.",
+      "file": "section_369.json"
+    },
+    {
+      "order": 374,
+      "article_number": "370",
+      "article_title": "Continuation of pending legal proceedings.",
+      "file": "section_370.json"
+    },
+    {
+      "order": 375,
+      "article_number": "371",
+      "article_title": "Effect of registration under this Part.",
+      "file": "section_371.json"
+    },
+    {
+      "order": 376,
+      "article_number": "372",
+      "article_title": "Power of Court to stay or restrain proceedings.",
+      "file": "section_372.json"
+    },
+    {
+      "order": 377,
+      "article_number": "373",
+      "article_title": "Suits stayed on winding up order.",
+      "file": "section_373.json"
+    },
+    {
+      "order": 378,
+      "article_number": "374",
+      "article_title": "Obligations of companies registering under this Part.",
+      "file": "section_374.json"
+    },
+    {
+      "order": 379,
+      "article_number": "375",
+      "article_title": "Winding up of unregistered companies.",
+      "file": "section_375.json"
+    },
+    {
+      "order": 380,
+      "article_number": "376",
+      "article_title": "Power to wind up foreign companies, although dissolved.",
+      "file": "section_376.json"
+    },
+    {
+      "order": 381,
+      "article_number": "377",
+      "article_title": "Provisions of Chapter cumulative.",
+      "file": "section_377.json"
+    },
+    {
+      "order": 382,
+      "article_number": "378",
+      "article_title": "Saving and construction of enactments conferring power to wind up partnership firm, association or company, etc., in certain cases.",
+      "file": "section_378.json"
+    },
+    {
+      "order": 383,
+      "article_number": "378A",
+      "article_title": "Definitions.",
+      "file": "section_378A.json"
+    },
+    {
+      "order": 384,
+      "article_number": "378B",
+      "article_title": "Objects of Producer Company.",
+      "file": "section_378B.json"
+    },
+    {
+      "order": 385,
+      "article_number": "378C",
+      "article_title": "Formation of Producer Company and its registration.",
+      "file": "section_378C.json"
+    },
+    {
+      "order": 386,
+      "article_number": "378D",
+      "article_title": "Membership and voting rights of Members of Producer Company.",
+      "file": "section_378D.json"
+    },
+    {
+      "order": 387,
+      "article_number": "378E",
+      "article_title": "Benefits to Members.",
+      "file": "section_378E.json"
+    },
+    {
+      "order": 388,
+      "article_number": "378F",
+      "article_title": "Memorandum of Producer Company.",
+      "file": "section_378F.json"
+    },
+    {
+      "order": 389,
+      "article_number": "378G",
+      "article_title": "Articles of association.",
+      "file": "section_378G.json"
+    },
+    {
+      "order": 390,
+      "article_number": "378H",
+      "article_title": "Amendment of memorandum.",
+      "file": "section_378H.json"
+    },
+    {
+      "order": 391,
+      "article_number": "378-I",
+      "article_title": "Amendment of articles.",
+      "file": "section_378-I.json"
+    },
+    {
+      "order": 392,
+      "article_number": "378J",
+      "article_title": "Option to inter-State co-operative societies to become Producer Companies.",
+      "file": "section_378J.json"
+    },
+    {
+      "order": 393,
+      "article_number": "378K",
+      "article_title": "Effect of incorporation of Producer Company.",
+      "file": "section_378K.json"
+    },
+    {
+      "order": 394,
+      "article_number": "378L",
+      "article_title": "Vesting of undertaking in Producer Company.",
+      "file": "section_378L.json"
+    },
+    {
+      "order": 395,
+      "article_number": "378M",
+      "article_title": "Concession etc., to be deemed to have been granted to Producer Company.",
+      "file": "section_378M.json"
+    },
+    {
+      "order": 396,
+      "article_number": "378N",
+      "article_title": "Provisions in respect of officers and other employees of inter-State co-operative society.",
+      "file": "section_378N.json"
+    },
+    {
+      "order": 397,
+      "article_number": "378-O",
+      "article_title": "Number of directors.",
+      "file": "section_378-O.json"
+    },
+    {
+      "order": 398,
+      "article_number": "378P",
+      "article_title": "Appointment of directors.",
+      "file": "section_378P.json"
+    },
+    {
+      "order": 399,
+      "article_number": "378Q",
+      "article_title": "Vacation of office by directors.",
+      "file": "section_378Q.json"
+    },
+    {
+      "order": 400,
+      "article_number": "378R",
+      "article_title": "Powers and functions of Board.",
+      "file": "section_378R.json"
+    },
+    {
+      "order": 401,
+      "article_number": "378S",
+      "article_title": "Matters to be transacted at general meeting.",
+      "file": "section_378S.json"
+    },
+    {
+      "order": 402,
+      "article_number": "378T",
+      "article_title": "Liability of directors.",
+      "file": "section_378T.json"
+    },
+    {
+      "order": 403,
+      "article_number": "378U",
+      "article_title": "Committee of directors.",
+      "file": "section_378U.json"
+    },
+    {
+      "order": 404,
+      "article_number": "378V",
+      "article_title": "Meetings of Board and quorum.",
+      "file": "section_378V.json"
+    },
+    {
+      "order": 405,
+      "article_number": "378W",
+      "article_title": "Chief Executive and his functions.",
+      "file": "section_378W.json"
+    },
+    {
+      "order": 406,
+      "article_number": "378X",
+      "article_title": "Secretary of Producer Company.",
+      "file": "section_378X.json"
+    },
+    {
+      "order": 407,
+      "article_number": "378Y",
+      "article_title": "Quorum.",
+      "file": "section_378Y.json"
+    },
+    {
+      "order": 408,
+      "article_number": "378Z",
+      "article_title": "Voting rights.",
+      "file": "section_378Z.json"
+    },
+    {
+      "order": 409,
+      "article_number": "378ZA",
+      "article_title": "Annual general meetings.",
+      "file": "section_378ZA.json"
+    },
+    {
+      "order": 410,
+      "article_number": "378ZB",
+      "article_title": "Share capital.",
+      "file": "section_378ZB.json"
+    },
+    {
+      "order": 411,
+      "article_number": "378ZC",
+      "article_title": "Special user rights.",
+      "file": "section_378ZC.json"
+    },
+    {
+      "order": 412,
+      "article_number": "378ZD",
+      "article_title": "Transferability of shares and attendant rights.",
+      "file": "section_378ZD.json"
+    },
+    {
+      "order": 413,
+      "article_number": "378ZE",
+      "article_title": "Books of account.",
+      "file": "section_378ZE.json"
+    },
+    {
+      "order": 414,
+      "article_number": "378ZF",
+      "article_title": "Internal audit.",
+      "file": "section_378ZF.json"
+    },
+    {
+      "order": 415,
+      "article_number": "378ZG",
+      "article_title": "Duties of auditor under this Chapter.",
+      "file": "section_378ZG.json"
+    },
+    {
+      "order": 416,
+      "article_number": "378ZH",
+      "article_title": "Donation or subscription by Producer Company.",
+      "file": "section_378ZH.json"
+    },
+    {
+      "order": 417,
+      "article_number": "378Z-I",
+      "article_title": "General and other reserves.",
+      "file": "section_378Z-I.json"
+    },
+    {
+      "order": 418,
+      "article_number": "378ZJ",
+      "article_title": "Issue of bonus Shares.",
+      "file": "section_378ZJ.json"
+    },
+    {
+      "order": 419,
+      "article_number": "378ZK",
+      "article_title": "Loan, etc., to Members.",
+      "file": "section_378ZK.json"
+    },
+    {
+      "order": 420,
+      "article_number": "378ZL",
+      "article_title": "Investment in other companies, formation of subsidiaries etc.",
+      "file": "section_378ZL.json"
+    },
+    {
+      "order": 421,
+      "article_number": "378ZM",
+      "article_title": "Penalty for contravention.",
+      "file": "section_378ZM.json"
+    },
+    {
+      "order": 422,
+      "article_number": "378ZN",
+      "article_title": "Amalgamation merger or division, etc. to form new Producer Companies.",
+      "file": "section_378ZN.json"
+    },
+    {
+      "order": 423,
+      "article_number": "378Z-O",
+      "article_title": "Disputes.",
+      "file": "section_378Z-O.json"
+    },
+    {
+      "order": 424,
+      "article_number": "378ZP",
+      "article_title": "Strike off name of Producer Company.",
+      "file": "section_378ZP.json"
+    },
+    {
+      "order": 425,
+      "article_number": "378ZQ",
+      "article_title": "Provisions of this Chapter to override other laws.",
+      "file": "section_378ZQ.json"
+    },
+    {
+      "order": 426,
+      "article_number": "378ZR",
+      "article_title": "Application of provisions relating to private companies.",
+      "file": "section_378ZR.json"
+    },
+    {
+      "order": 427,
+      "article_number": "378ZS",
+      "article_title": "Re-conversion of Producer Company to inter-State co-operative society.",
+      "file": "section_378ZS.json"
+    },
+    {
+      "order": 428,
+      "article_number": "378ZT",
+      "article_title": "Power to modify Act in its application to Producer Companies.",
+      "file": "section_378ZT.json"
+    },
+    {
+      "order": 429,
+      "article_number": "378ZU",
+      "article_title": "Power to make rules.",
+      "file": "section_378ZU.json"
+    },
+    {
+      "order": 430,
+      "article_number": "379",
+      "article_title": "Application of Act to foreign companies.",
+      "file": "section_379.json"
+    },
+    {
+      "order": 431,
+      "article_number": "380",
+      "article_title": "Documents, etc., to be delivered to Registrar by foreign companies.",
+      "file": "section_380.json"
+    },
+    {
+      "order": 432,
+      "article_number": "381",
+      "article_title": "Accounts of foreign company.",
+      "file": "section_381.json"
+    },
+    {
+      "order": 433,
+      "article_number": "382",
+      "article_title": "Display of name, etc., of foreign company.",
+      "file": "section_382.json"
+    },
+    {
+      "order": 434,
+      "article_number": "383",
+      "article_title": "Service on foreign company.",
+      "file": "section_383.json"
+    },
+    {
+      "order": 435,
+      "article_number": "384",
+      "article_title": "Debentures, annual return, registration of charges, books of account and their inspection.",
+      "file": "section_384.json"
+    },
+    {
+      "order": 436,
+      "article_number": "385",
+      "article_title": "Fee for registration of documents.",
+      "file": "section_385.json"
+    },
+    {
+      "order": 437,
+      "article_number": "386",
+      "article_title": "Interpretation.",
+      "file": "section_386.json"
+    },
+    {
+      "order": 438,
+      "article_number": "387",
+      "article_title": "Dating of prospectus and particulars to be contained therein.",
+      "file": "section_387.json"
+    },
+    {
+      "order": 439,
+      "article_number": "388",
+      "article_title": "Provisions as to expert’s consent and allotment.",
+      "file": "section_388.json"
+    },
+    {
+      "order": 440,
+      "article_number": "389",
+      "article_title": "Registration of prospectus.",
+      "file": "section_389.json"
+    },
+    {
+      "order": 441,
+      "article_number": "390",
+      "article_title": "Offer of Indian Depository Receipts.",
+      "file": "section_390.json"
+    },
+    {
+      "order": 442,
+      "article_number": "391",
+      "article_title": "Application of sections 34 to 36 and Chapter XX.",
+      "file": "section_391.json"
+    },
+    {
+      "order": 443,
+      "article_number": "392",
+      "article_title": "Punishment for contravention.",
+      "file": "section_392.json"
+    },
+    {
+      "order": 444,
+      "article_number": "393",
+      "article_title": "Company’s failure to comply with provisions of this Chapter not to affect validity of contracts, etc.",
+      "file": "section_393.json"
+    },
+    {
+      "order": 445,
+      "article_number": "394",
+      "article_title": "Annual reports on Government companies.",
+      "file": "section_394.json"
+    },
+    {
+      "order": 446,
+      "article_number": "395",
+      "article_title": "Annual reports where one or more State Governments are members of companies.",
+      "file": "section_395.json"
+    },
+    {
+      "order": 447,
+      "article_number": "396",
+      "article_title": "Registration offices.",
+      "file": "section_396.json"
+    },
+    {
+      "order": 448,
+      "article_number": "397",
+      "article_title": "Admissibility of certain documents as evidence.",
+      "file": "section_397.json"
+    },
+    {
+      "order": 449,
+      "article_number": "398",
+      "article_title": "Provisions relating to filing of applications, documents, inspection, etc., in electronic form.",
+      "file": "section_398.json"
+    },
+    {
+      "order": 450,
+      "article_number": "399",
+      "article_title": "Inspection, production and evidence of documents kept by Registrar.",
+      "file": "section_399.json"
+    },
+    {
+      "order": 451,
+      "article_number": "400",
+      "article_title": "Electronic form to be exclusive, alternative or in addition to physical form.",
+      "file": "section_400.json"
+    },
+    {
+      "order": 452,
+      "article_number": "401",
+      "article_title": "Provision of value added services through electronic form.",
+      "file": "section_401.json"
+    },
+    {
+      "order": 453,
+      "article_number": "402",
+      "article_title": "Application of provisions of Information Technology Act, 2000.",
+      "file": "section_402.json"
+    },
+    {
+      "order": 454,
+      "article_number": "403",
+      "article_title": "Fee for filing, etc.",
+      "file": "section_403.json"
+    },
+    {
+      "order": 455,
+      "article_number": "404",
+      "article_title": "Fees, etc., to be credited into public account.",
+      "file": "section_404.json"
+    },
+    {
+      "order": 456,
+      "article_number": "405",
+      "article_title": "Power of Central Government to direct companies to furnish information or statistics.",
+      "file": "section_405.json"
+    },
+    {
+      "order": 457,
+      "article_number": "406",
+      "article_title": "Provision relating to Nidhis and its application, etc.",
+      "file": "section_406.json"
+    },
+    {
+      "order": 458,
+      "article_number": "407",
+      "article_title": "Definitions.",
+      "file": "section_407.json"
+    },
+    {
+      "order": 459,
+      "article_number": "408",
+      "article_title": "Constitution of National Company Law Tribunal.",
+      "file": "section_408.json"
+    },
+    {
+      "order": 460,
+      "article_number": "409",
+      "article_title": "Qualification of President and Members of Tribunal.",
+      "file": "section_409.json"
+    },
+    {
+      "order": 461,
+      "article_number": "410",
+      "article_title": "Constitution of Appellate Tribunal.",
+      "file": "section_410.json"
+    },
+    {
+      "order": 462,
+      "article_number": "411",
+      "article_title": "Qualifications of chairperson and Members of Appellate Tribunal.",
+      "file": "section_411.json"
+    },
+    {
+      "order": 463,
+      "article_number": "412",
+      "article_title": "Selection of Members of Tribunal and Appellate Tribunal.",
+      "file": "section_412.json"
+    },
+    {
+      "order": 464,
+      "article_number": "413",
+      "article_title": "Term of office of President, chairperson and other Members.",
+      "file": "section_413.json"
+    },
+    {
+      "order": 465,
+      "article_number": "414",
+      "article_title": "Salary, allowances and other terms and conditions of service of Members.",
+      "file": "section_414.json"
+    },
+    {
+      "order": 466,
+      "article_number": "415",
+      "article_title": "Acting President and Chairperson of Tribunal or Appellate Tribunal.",
+      "file": "section_415.json"
+    },
+    {
+      "order": 467,
+      "article_number": "416",
+      "article_title": "Resignation of Members.",
+      "file": "section_416.json"
+    },
+    {
+      "order": 468,
+      "article_number": "417",
+      "article_title": "Removal of Members.",
+      "file": "section_417.json"
+    },
+    {
+      "order": 469,
+      "article_number": "417A",
+      "article_title": "Qualifications, terms and conditions of service of Chairperson and Member.",
+      "file": "section_417A.json"
+    },
+    {
+      "order": 470,
+      "article_number": "418",
+      "article_title": "Staff of Tribunal and Appellate Tribunal.",
+      "file": "section_418.json"
+    },
+    {
+      "order": 471,
+      "article_number": "419",
+      "article_title": "Benches of Tribunal.",
+      "file": "section_419.json"
+    },
+    {
+      "order": 472,
+      "article_number": "420",
+      "article_title": "Orders of Tribunal.",
+      "file": "section_420.json"
+    },
+    {
+      "order": 473,
+      "article_number": "421",
+      "article_title": "Appeal from orders of Tribunal.",
+      "file": "section_421.json"
+    },
+    {
+      "order": 474,
+      "article_number": "422",
+      "article_title": "Expeditious disposal by Tribunal and Appellate Tribunal.",
+      "file": "section_422.json"
+    },
+    {
+      "order": 475,
+      "article_number": "423",
+      "article_title": "Appeal to Supreme Court.",
+      "file": "section_423.json"
+    },
+    {
+      "order": 476,
+      "article_number": "424",
+      "article_title": "Procedure before Tribunal and Appellate Tribunal.",
+      "file": "section_424.json"
+    },
+    {
+      "order": 477,
+      "article_number": "425",
+      "article_title": "Power to punish for contempt.",
+      "file": "section_425.json"
+    },
+    {
+      "order": 478,
+      "article_number": "426",
+      "article_title": "Delegation of powers.",
+      "file": "section_426.json"
+    },
+    {
+      "order": 479,
+      "article_number": "427",
+      "article_title": "President, Members, officers, etc., to be public servants.",
+      "file": "section_427.json"
+    },
+    {
+      "order": 480,
+      "article_number": "428",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_428.json"
+    },
+    {
+      "order": 481,
+      "article_number": "429",
+      "article_title": "Power to seek assistance of Chief Metropolitan Magistrate, etc.",
+      "file": "section_429.json"
+    },
+    {
+      "order": 482,
+      "article_number": "430",
+      "article_title": "Civil court not to have jurisdiction.",
+      "file": "section_430.json"
+    },
+    {
+      "order": 483,
+      "article_number": "431",
+      "article_title": "Vacancy in Tribunal or Appellate Tribunal not to invalidate acts or proceedings.",
+      "file": "section_431.json"
+    },
+    {
+      "order": 484,
+      "article_number": "432",
+      "article_title": "Right to legal representation.",
+      "file": "section_432.json"
+    },
+    {
+      "order": 485,
+      "article_number": "433",
+      "article_title": "Limitation.",
+      "file": "section_433.json"
+    },
+    {
+      "order": 486,
+      "article_number": "434",
+      "article_title": "Transfer of certain pending proceedings.",
+      "file": "section_434.json"
+    },
+    {
+      "order": 487,
+      "article_number": "435",
+      "article_title": "Establishment of Special Courts.",
+      "file": "section_435.json"
+    },
+    {
+      "order": 488,
+      "article_number": "436",
+      "article_title": "Offences triable by Special Courts.",
+      "file": "section_436.json"
+    },
+    {
+      "order": 489,
+      "article_number": "437",
+      "article_title": "Appeal and revision.",
+      "file": "section_437.json"
+    },
+    {
+      "order": 490,
+      "article_number": "438",
+      "article_title": "Application of Code to proceedings before Special Court.",
+      "file": "section_438.json"
+    },
+    {
+      "order": 491,
+      "article_number": "439",
+      "article_title": "Offences to be non-cognizable.",
+      "file": "section_439.json"
+    },
+    {
+      "order": 492,
+      "article_number": "440",
+      "article_title": "Transitional provisions.",
+      "file": "section_440.json"
+    },
+    {
+      "order": 493,
+      "article_number": "441",
+      "article_title": "Compounding of certain offences.",
+      "file": "section_441.json"
+    },
+    {
+      "order": 494,
+      "article_number": "442",
+      "article_title": "Mediation and Conciliation Panel.",
+      "file": "section_442.json"
+    },
+    {
+      "order": 495,
+      "article_number": "443",
+      "article_title": "Power of Central Government to appoint company prosecutors.",
+      "file": "section_443.json"
+    },
+    {
+      "order": 496,
+      "article_number": "444",
+      "article_title": "Appeal against acquittal.",
+      "file": "section_444.json"
+    },
+    {
+      "order": 497,
+      "article_number": "445",
+      "article_title": "Compensation for accusation without reasonable cause.",
+      "file": "section_445.json"
+    },
+    {
+      "order": 498,
+      "article_number": "446",
+      "article_title": "Application of fines.",
+      "file": "section_446.json"
+    },
+    {
+      "order": 499,
+      "article_number": "446A",
+      "article_title": "Factors for determining level of punishment.",
+      "file": "section_446A.json"
+    },
+    {
+      "order": 500,
+      "article_number": "446B",
+      "article_title": "Lesser penalties for certain companies.",
+      "file": "section_446B.json"
+    },
+    {
+      "order": 501,
+      "article_number": "447",
+      "article_title": "Punishment for fraud.",
+      "file": "section_447.json"
+    },
+    {
+      "order": 502,
+      "article_number": "448",
+      "article_title": "Punishment for false statement.",
+      "file": "section_448.json"
+    },
+    {
+      "order": 503,
+      "article_number": "449",
+      "article_title": "Punishment for false evidence.",
+      "file": "section_449.json"
+    },
+    {
+      "order": 504,
+      "article_number": "450",
+      "article_title": "Punishment where no specific penalty or punishment is provided.",
+      "file": "section_450.json"
+    },
+    {
+      "order": 505,
+      "article_number": "451",
+      "article_title": "Punishment in case of repeated default.",
+      "file": "section_451.json"
+    },
+    {
+      "order": 506,
+      "article_number": "452",
+      "article_title": "Punishment for wrongful withholding of property.",
+      "file": "section_452.json"
+    },
+    {
+      "order": 507,
+      "article_number": "453",
+      "article_title": "Punishment for improper use of “Limited” or “Private Limited”.",
+      "file": "section_453.json"
+    },
+    {
+      "order": 508,
+      "article_number": "454",
+      "article_title": "Adjudication of penalties.",
+      "file": "section_454.json"
+    },
+    {
+      "order": 509,
+      "article_number": "454A",
+      "article_title": "Penalty for repeated default.",
+      "file": "section_454A.json"
+    },
+    {
+      "order": 510,
+      "article_number": "455",
+      "article_title": "Dormant company.",
+      "file": "section_455.json"
+    },
+    {
+      "order": 511,
+      "article_number": "456",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_456.json"
+    },
+    {
+      "order": 512,
+      "article_number": "457",
+      "article_title": "Non-disclosure of information in certain cases.",
+      "file": "section_457.json"
+    },
+    {
+      "order": 513,
+      "article_number": "458",
+      "article_title": "Delegation by Central Government of its powers and functions.",
+      "file": "section_458.json"
+    },
+    {
+      "order": 514,
+      "article_number": "459",
+      "article_title": "Powers of Central Government of Tribunal to accord approval, etc., subject to conditions and to prescribe fees on applications.",
+      "file": "section_459.json"
+    },
+    {
+      "order": 515,
+      "article_number": "460",
+      "article_title": "Condonation of delay in certain cases.",
+      "file": "section_460.json"
+    },
+    {
+      "order": 516,
+      "article_number": "461",
+      "article_title": "Annual report by Central Government.",
+      "file": "section_461.json"
+    },
+    {
+      "order": 517,
+      "article_number": "462",
+      "article_title": "Power to exempt class or classes of companies from provisions of this Act.",
+      "file": "section_462.json"
+    },
+    {
+      "order": 518,
+      "article_number": "463",
+      "article_title": "Power of court to grant relief in certain cases.",
+      "file": "section_463.json"
+    },
+    {
+      "order": 519,
+      "article_number": "464",
+      "article_title": "Prohibition of association or partnership of persons exceeding certain number.",
+      "file": "section_464.json"
+    },
+    {
+      "order": 520,
+      "article_number": "465",
+      "article_title": "Repeal of certain enactments and savings.",
+      "file": "section_465.json"
+    },
+    {
+      "order": 521,
+      "article_number": "466",
+      "article_title": "Dissolution of Company Law Board and consequential provisions.",
+      "file": "section_466.json"
+    },
+    {
+      "order": 522,
+      "article_number": "467",
+      "article_title": "Power of Central Government to amend Schedules.",
+      "file": "section_467.json"
+    },
+    {
+      "order": 523,
+      "article_number": "468",
+      "article_title": "Powers of Central Government to make rules relating to winding up.",
+      "file": "section_468.json"
+    },
+    {
+      "order": 524,
+      "article_number": "469",
+      "article_title": "Power of Central Government to make rules.",
+      "file": "section_469.json"
+    },
+    {
+      "order": 525,
+      "article_number": "470",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_470.json"
+    },
+    {
+      "order": 526,
+      "article_number": "I",
+      "article_title": "SCHEDULE I",
+      "file": "section_I.json"
+    },
+    {
+      "order": 527,
+      "article_number": "II",
+      "article_title": "SCHEDULE II",
+      "file": "section_II.json"
+    },
+    {
+      "order": 528,
+      "article_number": "III",
+      "article_title": "SCHEDULE III",
+      "file": "section_III.json"
+    },
+    {
+      "order": 529,
+      "article_number": "IV",
+      "article_title": "SCHEDULE IV",
+      "file": "section_IV.json"
+    },
+    {
+      "order": 530,
+      "article_number": "V",
+      "article_title": "SCHEDULE V",
+      "file": "section_V.json"
+    },
+    {
+      "order": 531,
+      "article_number": "VI",
+      "article_title": "SCHEDULE VI",
+      "file": "section_VI.json"
+    },
+    {
+      "order": 532,
+      "article_number": "VII",
+      "article_title": "SCHEDULE VII",
+      "file": "section_VII.json"
+    }
+  ]
+}

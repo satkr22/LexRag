@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "technology",
+    "document_title": null,
+    "source_file": "technology_sections/section-3.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "section_3",
+    "heading_number": "Chapter II",
+    "heading_title": "Digital Signature and Electronic Signature2",
+    "heading_range": "ss. 3–3A",
+    "heading_source": "manifest",
+    "article_number": "3",
+    "article_title": "Authentication of electronic records."
+  },
+  "id": "technology_section_3",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Digital Signature and Electronic Signature2",
+    "range": "ss. 3–3A"
+  },
+  "article": {
+    "number": "3",
+    "title": "Authentication of electronic records.",
+    "content": "3Authentication of electronic records.\n\nSection 3  ·  Chapter II  ·  page 8 of the Act\n(1) Subject to the provisions of this section any subscriber may authenticate an electronic record by affixing his digital signature.\n(2) The authentication of the electronic record shall be effected by the use of asymmetric crypto system and hash function which envelop and transform the initial electronic record into another electronic record.\nExplanation.–For the purposes of this sub-section, “hash function” means an algorithm mapping or translation of one sequence of bits into another, generally smaller, set known as “hash result” such that an electronic record yields the same hash result every time the algorithm is executed with the same electronic record as its input making it computationally infeasible–\n(a) to derive or reconstruct the original electronic record from the hash result produced by the algorithm;\n(b) that two electronic records can produce the same hash result using the algorithm.\n(3) Any person by the use of a public key of the subscriber can verify the electronic record.\n(4) The private key and the public key are unique to the subscriber and constitute a functioning key pair.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Authentication of electronic records.</h3></div><p class=\"prov-cite\">Section 3  ·  Chapter II  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of this section any subscriber may authenticate an electronic record by affixing his digital signature.</p><p class=\"lvl\">(2) The authentication of the electronic record shall be effected by the use of asymmetric crypto system and hash function which envelop and transform the initial electronic record into another electronic record.</p><p class=\"prvso\">Explanation.–For the purposes of this sub-section, “hash function” means an algorithm mapping or translation of one sequence of bits into another, generally smaller, set known as “hash result” such that an electronic record yields the same hash result every time the algorithm is executed with the same electronic record as its input making it computationally infeasible–</p><p class=\"lvl\">(a) to derive or reconstruct the original electronic record from the hash result produced by the algorithm;</p><p class=\"lvl\">(b) that two electronic records can produce the same hash result using the algorithm.</p><p class=\"lvl\">(3) Any person by the use of a public key of the subscriber can verify the electronic record.</p><p class=\"lvl\">(4) The private key and the public key are unique to the subscriber and constitute a functioning key pair.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Authentication of electronic records.</h3></div><p class=\"prov-cite\">Section 3  ·  Chapter II  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of this section any subscriber may authenticate an electronic record by affixing his digital signature.</p><p class=\"lvl\">(2) The authentication of the electronic record shall be effected by the use of asymmetric crypto system and hash function which envelop and transform the initial electronic record into another electronic record.</p><p class=\"prvso\">Explanation.–For the purposes of this sub-section, “hash function” means an algorithm mapping or translation of one sequence of bits into another, generally smaller, set known as “hash result” such that an electronic record yields the same hash result every time the algorithm is executed with the same electronic record as its input making it computationally infeasible–</p><p class=\"lvl\">(a) to derive or reconstruct the original electronic record from the hash result produced by the algorithm;</p><p class=\"lvl\">(b) that two electronic records can produce the same hash result using the algorithm.</p><p class=\"lvl\">(3) Any person by the use of a public key of the subscriber can verify the electronic record.</p><p class=\"lvl\">(4) The private key and the public key are unique to the subscriber and constitute a functioning key pair.</p></div>"
+  }
+}

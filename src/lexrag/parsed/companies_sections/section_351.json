@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 82,
+    "order": 355,
+    "stem": "section_351",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "351",
+    "article_title": "Liquidator not to deposit monies into private banking account."
+  },
+  "id": "companies_section_351",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "351",
+    "title": "Liquidator not to deposit monies into private banking account.",
+    "content": "351Liquidator not to deposit monies into private banking account.\n\nSection 351  ·  Chapter XX  ·  Part III  ·  page 193 of the Act\nNeither the Official Liquidator nor the Company Liquidator of a company shall deposit any monies received by him in his capacity as such into any private banking account.\n\n",
+    "html": "<article class=\"provision\" data-n=\"351\" data-report=\"Section 351 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">351</span>Liquidator not to deposit monies into private banking account.</h3></div><p class=\"prov-cite\">Section 351  ·  Chapter XX  ·  Part III  ·  page 193 of the Act</p><div class=\"prov-body\"><p>Neither the Official Liquidator nor the Company Liquidator of a company shall deposit any monies received by him in his capacity as such into any private banking account.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">351</span>Liquidator not to deposit monies into private banking account.</h3></div><p class=\"prov-cite\">Section 351  ·  Chapter XX  ·  Part III  ·  page 193 of the Act</p><div class=\"prov-body\"><p>Neither the Official Liquidator nor the Company Liquidator of a company shall deposit any monies received by him in his capacity as such into any private banking account.</p></div>"
+  }
+}

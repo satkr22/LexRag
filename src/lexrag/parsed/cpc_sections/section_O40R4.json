@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-59.html",
+    "source_order": 59,
+    "article_order": 4,
+    "order": 801,
+    "stem": "section_O40R4",
+    "heading_number": "Order XL",
+    "heading_title": "Appointment of Receivers",
+    "heading_range": "5 rules",
+    "heading_source": "group-head",
+    "article_number": "O40R4",
+    "article_title": "Enforcement of receiver’s duties."
+  },
+  "id": "cpc_section_O40R4",
+  "heading": {
+    "number": "Order XL",
+    "title": "Appointment of Receivers",
+    "range": "5 rules"
+  },
+  "article": {
+    "number": "O40R4",
+    "title": "Enforcement of receiver’s duties.",
+    "content": "4Enforcement of receiver’s duties.\n\nOrder 40, Rule 4\nWhere a receiver—\n(a) fails to submit his accounts at such periods and in such form as the Court directs, or\n(b) fails to pay amount due from him as the Court directs, or\n(c) occasions loss to the property by his wilful default or gross negligence,\nthe Court may direct his property to be attached and may sell such property, and may apply the proceeds to make good any amount found to be due from him or any loss occasioned by him, and shall pay the balance (if any) to the receiver.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O40R4\" data-report=\"Order 40, Rule 4 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Enforcement of receiver’s duties.</h3></div><p class=\"prov-cite\">Order 40, Rule 4</p><div class=\"prov-body\"><p>Where a receiver—</p><p class=\"lvl\">(a) fails to submit his accounts at such periods and in such form as the Court directs, or</p><p class=\"lvl\">(b) fails to pay amount due from him as the Court directs, or</p><p class=\"lvl\">(c) occasions loss to the property by his wilful default or gross negligence,</p><p>the Court may direct his property to be attached and may sell such property, and may apply the proceeds to make good any amount found to be due from him or any loss occasioned by him, and shall pay the balance (if any) to the receiver.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Enforcement of receiver’s duties.</h3></div><p class=\"prov-cite\">Order 40, Rule 4</p><div class=\"prov-body\"><p>Where a receiver—</p><p class=\"lvl\">(a) fails to submit his accounts at such periods and in such form as the Court directs, or</p><p class=\"lvl\">(b) fails to pay amount due from him as the Court directs, or</p><p class=\"lvl\">(c) occasions loss to the property by his wilful default or gross negligence,</p><p>the Court may direct his property to be attached and may sell such property, and may apply the proceeds to make good any amount found to be due from him or any loss occasioned by him, and shall pay the balance (if any) to the receiver.</p></div>"
+  }
+}

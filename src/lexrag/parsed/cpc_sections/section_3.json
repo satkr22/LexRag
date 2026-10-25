@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-01.html",
+    "source_order": 1,
+    "article_order": 3,
+    "order": 3,
+    "stem": "section_3",
+    "heading_number": "Preliminary",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–8",
+    "heading_source": "group-head",
+    "article_number": "3",
+    "article_title": "Subordination of Courts."
+  },
+  "id": "cpc_section_3",
+  "heading": {
+    "number": "Preliminary",
+    "title": "Preliminary",
+    "range": "ss. 1–8"
+  },
+  "article": {
+    "number": "3",
+    "title": "Subordination of Courts.",
+    "content": "3Subordination of Courts.\n\nSection 3\nFor the purposes of this Code, the District Court is subordinate to the High Court, and every Civil Court of a grade inferior to that of a District Court and every Court of Small Causes is subordinate to the High Court and District Court.\n\n",
+    "html": "<article class=\"provision\" data-n=\"3\" data-report=\"Section 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Subordination of Courts.</h3></div><p class=\"prov-cite\">Section 3</p><div class=\"prov-body\"><p>For the purposes of this Code, the District Court is subordinate to the High Court, and every Civil Court of a grade inferior to that of a District Court and every Court of Small Causes is subordinate to the High Court and District Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Subordination of Courts.</h3></div><p class=\"prov-cite\">Section 3</p><div class=\"prov-body\"><p>For the purposes of this Code, the District Court is subordinate to the High Court, and every Civil Court of a grade inferior to that of a District Court and every Court of Small Causes is subordinate to the High Court and District Court.</p></div>"
+  }
+}

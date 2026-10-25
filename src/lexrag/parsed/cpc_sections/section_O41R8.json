@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-60.html",
+    "source_order": 60,
+    "article_order": 9,
+    "order": 811,
+    "stem": "section_O41R8",
+    "heading_number": "Order XLI",
+    "heading_title": "Appeals from Original Decrees",
+    "heading_range": "41 rules",
+    "heading_source": "group-head",
+    "article_number": "O41R8",
+    "article_title": "Exercise of power in appeal from order made in execution of decree."
+  },
+  "id": "cpc_section_O41R8",
+  "heading": {
+    "number": "Order XLI",
+    "title": "Appeals from Original Decrees",
+    "range": "41 rules"
+  },
+  "article": {
+    "number": "O41R8",
+    "title": "Exercise of power in appeal from order made in execution of decree.",
+    "content": "8Exercise of power in appeal from order made in execution of decree.\n\nOrder 41, Rule 8\nThe powers conferred by rules 5 and 6 shall be exercisable where an appeal may be or has been preferred not from the decree but from an order made in execution of such decree.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O41R8\" data-report=\"Order 41, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Exercise of power in appeal from order made in execution of decree.</h3></div><p class=\"prov-cite\">Order 41, Rule 8</p><div class=\"prov-body\"><p>The powers conferred by rules 5 and 6 shall be exercisable where an appeal may be or has been preferred not from the decree but from an order made in execution of such decree.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Exercise of power in appeal from order made in execution of decree.</h3></div><p class=\"prov-cite\">Order 41, Rule 8</p><div class=\"prov-body\"><p>The powers conferred by rules 5 and 6 shall be exercisable where an appeal may be or has been preferred not from the decree but from an order made in execution of such decree.</p></div>"
+  }
+}

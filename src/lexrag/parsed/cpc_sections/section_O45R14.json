@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-64.html",
+    "source_order": 64,
+    "article_order": 15,
+    "order": 867,
+    "stem": "section_O45R14",
+    "heading_number": "Order XLV",
+    "heading_title": "Appeals to the Supreme Court",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O45R14",
+    "article_title": "Increase of security found inadequate."
+  },
+  "id": "cpc_section_O45R14",
+  "heading": {
+    "number": "Order XLV",
+    "title": "Appeals to the Supreme Court",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O45R14",
+    "title": "Increase of security found inadequate.",
+    "content": "14Increase of security found inadequate.\n\nOrder 45, Rule 14\n(1) Where at any time during the pendency of the appeal the security furnished by either party appears inadequate, the Court may, on the application of the other party, require further security.\n(2) In default of such further security being furnished as required by the Court,—\n(a) if the original security was furnished by the appellant, the Court may, on the application of the respondent, execute the decree, appealed from as if the appellant had furnished no such security;\n(b) if the original security was furnished by the respondent, the Court shall so far as may be practicable, stay the further execution of the decree, and restore the parties to the position in which they respectively were when the security which appears inadequate was furnished, or give such direction respecting the subject-matter of the appeal as it thinks fit.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O45R14\" data-report=\"Order 45, Rule 14 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Increase of security found inadequate.</h3></div><p class=\"prov-cite\">Order 45, Rule 14</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where at any time during the pendency of the appeal the security furnished by either party appears inadequate, the Court may, on the application of the other party, require further security.</p><p class=\"lvl\">(2) In default of such further security being furnished as required by the Court,—</p><p class=\"lvl\">(a) if the original security was furnished by the appellant, the Court may, on the application of the respondent, execute the decree, appealed from as if the appellant had furnished no such security;</p><p class=\"lvl\">(b) if the original security was furnished by the respondent, the Court shall so far as may be practicable, stay the further execution of the decree, and restore the parties to the position in which they respectively were when the security which appears inadequate was furnished, or give such direction respecting the subject-matter of the appeal as it thinks fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Increase of security found inadequate.</h3></div><p class=\"prov-cite\">Order 45, Rule 14</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where at any time during the pendency of the appeal the security furnished by either party appears inadequate, the Court may, on the application of the other party, require further security.</p><p class=\"lvl\">(2) In default of such further security being furnished as required by the Court,—</p><p class=\"lvl\">(a) if the original security was furnished by the appellant, the Court may, on the application of the respondent, execute the decree, appealed from as if the appellant had furnished no such security;</p><p class=\"lvl\">(b) if the original security was furnished by the respondent, the Court shall so far as may be practicable, stay the further execution of the decree, and restore the parties to the position in which they respectively were when the security which appears inadequate was furnished, or give such direction respecting the subject-matter of the appeal as it thinks fit.</p></div>"
+  }
+}

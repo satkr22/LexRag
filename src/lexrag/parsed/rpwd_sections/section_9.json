@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "rpwd",
+    "document_title": null,
+    "source_file": "rpwd_sections/section-9.html",
+    "source_order": 9,
+    "article_order": 1,
+    "order": 9,
+    "stem": "section_9",
+    "heading_number": "Chapter II",
+    "heading_title": "Rights and Entitlements",
+    "heading_range": "ss. 3–15",
+    "heading_source": "manifest",
+    "article_number": "9",
+    "article_title": "Home and family."
+  },
+  "id": "rpwd_section_9",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Rights and Entitlements",
+    "range": "ss. 3–15"
+  },
+  "article": {
+    "number": "9",
+    "title": "Home and family.",
+    "content": "9Home and family.\n\nSection 9  ·  Chapter II  ·  page 9 of the Act\n(1) No child with disability shall be separated from his or her parents on the ground of disability except on an order of competent court, if required, in the best interest of the child.\n(2) Where the parents are unable to take care of a child with disability, the competent court shall place such child with his or her near relations, and failing that within the community in a family setting or in exceptional cases in shelter home run by the appropriate Government or non-governmental organisation, as may be required.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Home and family.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No child with disability shall be separated from his or her parents on the ground of disability except on an order of competent court, if required, in the best interest of the child.</p><p class=\"lvl\">(2) Where the parents are unable to take care of a child with disability, the competent court shall place such child with his or her near relations, and failing that within the community in a family setting or in exceptional cases in shelter home run by the appropriate Government or non-governmental organisation, as may be required.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Home and family.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No child with disability shall be separated from his or her parents on the ground of disability except on an order of competent court, if required, in the best interest of the child.</p><p class=\"lvl\">(2) Where the parents are unable to take care of a child with disability, the competent court shall place such child with his or her near relations, and failing that within the community in a family setting or in exceptional cases in shelter home run by the appropriate Government or non-governmental organisation, as may be required.</p></div>"
+  }
+}

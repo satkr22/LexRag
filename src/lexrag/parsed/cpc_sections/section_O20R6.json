@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 7,
+    "order": 458,
+    "stem": "section_O20R6",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R6",
+    "article_title": "Contents of decree."
+  },
+  "id": "cpc_section_O20R6",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R6",
+    "title": "Contents of decree.",
+    "content": "6Contents of decree.\n\nOrder 20, Rule 6\n(1) The decree shall agree with the judgment; it shall contain the number of the suit, the 3[names and descriptions of the parties, their registered addresses,] and particulars of the claim, and shall specify clearly the relief granted or other determination of the suit.\n(2) The decree shall also state the amount of costs incurred in the suit, and by whom or out of what property and in what proportions such costs are to be paid.\n(3) The Court may direct that the costs payable to one party by the other shall be set off against any sum which is admitted or found to be due from the former to the latter.\n\n3 Subs. by s. 70, ibid., for “names and descriptions of the parties” (w.e.f. 1-2-1977).\n\n",
+    "html": "<article class=\"provision\" data-n=\"O20R6\" data-report=\"Order 20, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Contents of decree.</h3></div><p class=\"prov-cite\">Order 20, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) The decree shall agree with the judgment; it shall contain the number of the suit, the <sup>3</sup>[names and descriptions of the parties, their registered addresses,] and particulars of the claim, and shall specify clearly the relief granted or other determination of the suit.</p><p class=\"lvl\">(2) The decree shall also state the amount of costs incurred in the suit, and by whom or out of what property and in what proportions such costs are to be paid.</p><p class=\"lvl\">(3) The Court may direct that the costs payable to one party by the other shall be set off against any sum which is admitted or found to be due from the former to the latter.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by s. 70, ibid., for “names and descriptions of the parties” (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Contents of decree.</h3></div><p class=\"prov-cite\">Order 20, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) The decree shall agree with the judgment; it shall contain the number of the suit, the <sup>3</sup>[names and descriptions of the parties, their registered addresses,] and particulars of the claim, and shall specify clearly the relief granted or other determination of the suit.</p><p class=\"lvl\">(2) The decree shall also state the amount of costs incurred in the suit, and by whom or out of what property and in what proportions such costs are to be paid.</p><p class=\"lvl\">(3) The Court may direct that the costs payable to one party by the other shall be set off against any sum which is admitted or found to be due from the former to the latter.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by s. 70, ibid., for “names and descriptions of the parties” (w.e.f. 1-2-1977).</p></div>"
+  }
+}

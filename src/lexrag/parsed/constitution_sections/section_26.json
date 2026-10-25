@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-03.html",
+    "source_order": 3,
+    "article_order": 16,
+    "order": 28,
+    "stem": "section_26",
+    "heading_number": "Part III",
+    "heading_title": "Fundamental Rights",
+    "heading_range": "12 – 35",
+    "heading_source": "group-head",
+    "article_number": "26",
+    "article_title": "Freedom to manage religious affairs"
+  },
+  "id": "constitution_section_26",
+  "heading": {
+    "number": "Part III",
+    "title": "Fundamental Rights",
+    "range": "12 – 35"
+  },
+  "article": {
+    "number": "26",
+    "title": "Freedom to manage religious affairs",
+    "content": "26Freedom to manage religious affairs\n\nArticle 26 · Part III · Right to Freedom of Religion\nSubject to public order, morality and health, every religious denomination or any section thereof shall have the right—\n(a)to establish and maintain institutions for religious and charitable purposes;\n(b)to manage its own affairs in matters of religion;\n(c)to own and acquire movable and immovable property; and\n(d)to administer such property in accordance with law.\n\n",
+    "html": "<article class=\"provision\" data-n=\"26\" data-report=\"Article 26 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">26</span>Freedom to manage religious affairs</h3></div><p class=\"prov-cite\">Article 26 · Part III · Right to Freedom of Religion</p><div class=\"prov-body\"><p>Subject to public order, morality and health, every religious denomination or any section thereof shall have the right—</p><p><span class=\"lbl\">(a)</span>to establish and maintain institutions for religious and charitable purposes;</p><p><span class=\"lbl\">(b)</span>to manage its own affairs in matters of religion;</p><p><span class=\"lbl\">(c)</span>to own and acquire movable and immovable property; and</p><p><span class=\"lbl\">(d)</span>to administer such property in accordance with law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">26</span>Freedom to manage religious affairs</h3></div><p class=\"prov-cite\">Article 26 · Part III · Right to Freedom of Religion</p><div class=\"prov-body\"><p>Subject to public order, morality and health, every religious denomination or any section thereof shall have the right—</p><p><span class=\"lbl\">(a)</span>to establish and maintain institutions for religious and charitable purposes;</p><p><span class=\"lbl\">(b)</span>to manage its own affairs in matters of religion;</p><p><span class=\"lbl\">(c)</span>to own and acquire movable and immovable property; and</p><p><span class=\"lbl\">(d)</span>to administer such property in accordance with law.</p></div>"
+  }
+}

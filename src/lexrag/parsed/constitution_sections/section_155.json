@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 4,
+    "order": 174,
+    "stem": "section_155",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "155",
+    "article_title": "Appointment of Governor"
+  },
+  "id": "constitution_section_155",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "155",
+    "title": "Appointment of Governor",
+    "content": "155Appointment of Governor\n\nArticle 155 · Part VI · The Governor\nThe Governor of a State shall be appointed by the President by warrant under his hand and seal.\n\n",
+    "html": "<article class=\"provision\" data-n=\"155\" data-report=\"Article 155 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">155</span>Appointment of Governor</h3></div><p class=\"prov-cite\">Article 155 · Part VI · The Governor</p><div class=\"prov-body\"><p>The Governor of a State shall be appointed by the President by warrant under his hand and seal.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">155</span>Appointment of Governor</h3></div><p class=\"prov-cite\">Article 155 · Part VI · The Governor</p><div class=\"prov-body\"><p>The Governor of a State shall be appointed by the President by warrant under his hand and seal.</p></div>"
+  }
+}

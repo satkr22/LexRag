@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-09.html",
+    "source_order": 9,
+    "article_order": 12,
+    "order": 142,
+    "stem": "section_138",
+    "heading_number": "Chapter IX",
+    "heading_title": "Accounts of Companies",
+    "heading_range": "ss. 128–138",
+    "heading_source": "group-head",
+    "article_number": "138",
+    "article_title": "Internal audit."
+  },
+  "id": "companies_section_138",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Accounts of Companies",
+    "range": "ss. 128–138"
+  },
+  "article": {
+    "number": "138",
+    "title": "Internal audit.",
+    "content": "138Internal audit.\n\nSection 138  ·  Chapter IX  ·  page 96 of the Act\n(1) Such class or classes of companies as may be prescribed shall be required to appoint an internal auditor, who shall either be a chartered accountant or a cost accountant, or such other professional as may be decided by the Board to conduct internal audit of the functions and activities of the company.\n(2) The Central Government may, by rules, prescribe the manner and the intervals in which the internal audit shall be conducted and reported to the Board.\n\n",
+    "html": "<article class=\"provision\" data-n=\"138\" data-report=\"Section 138 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">138</span>Internal audit.</h3></div><p class=\"prov-cite\">Section 138  ·  Chapter IX  ·  page 96 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Such class or classes of companies as may be prescribed shall be required to appoint an internal auditor, who shall either be a chartered accountant or a cost accountant, or such other professional as may be decided by the Board to conduct internal audit of the functions and activities of the company.</p><p class=\"lvl\">(2) The Central Government may, by rules, prescribe the manner and the intervals in which the internal audit shall be conducted and reported to the Board.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">138</span>Internal audit.</h3></div><p class=\"prov-cite\">Section 138  ·  Chapter IX  ·  page 96 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Such class or classes of companies as may be prescribed shall be required to appoint an internal auditor, who shall either be a chartered accountant or a cost accountant, or such other professional as may be decided by the Board to conduct internal audit of the functions and activities of the company.</p><p class=\"lvl\">(2) The Central Government may, by rules, prescribe the manner and the intervals in which the internal audit shall be conducted and reported to the Board.</p></div>"
+  }
+}

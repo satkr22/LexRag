@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 52,
+    "order": 325,
+    "stem": "section_321",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "321",
+    "article_title": "Arrangement when binding on company and creditors."
+  },
+  "id": "companies_section_321",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "321",
+    "title": "Arrangement when binding on company and creditors.",
+    "content": "321Arrangement when binding on company and creditors.\n\nOmitted by the Insolvency and Bankruptcy Code, 2016 (31 of 2016), s. 255 and the Eleventh Schedule (w.e.f. 15-11-2016).\n",
+    "html": "<article class=\"provision dead\" data-n=\"321\" data-report=\"Section 321 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">321</span>Arrangement when binding on company and creditors.</h3></div><p class=\"repnote\">Omitted by the Insolvency and Bankruptcy Code, 2016 (31 of 2016), s. 255 and the Eleventh Schedule (w.e.f. 15-11-2016).</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">321</span>Arrangement when binding on company and creditors.</h3></div><p class=\"repnote\">Omitted by the Insolvency and Bankruptcy Code, 2016 (31 of 2016), s. 255 and the Eleventh Schedule (w.e.f. 15-11-2016).</p>"
+  }
+}

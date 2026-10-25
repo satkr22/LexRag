@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 60,
+    "order": 123,
+    "stem": "section_111",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "111",
+    "article_title": "Assent to Bills"
+  },
+  "id": "constitution_section_111",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "111",
+    "title": "Assent to Bills",
+    "content": "\n\n111Assent to Bills\n\n\n\nArticle 111 · Part V · Legislative Procedure\n\n\nWhen a Bill has been passed by the Houses of Parliament, it shall be presented to the President, and\n                the President shall declare either that he assents to the Bill, or that he withholds assent therefrom:\n              \n\nProvisoProvided that the President may, as soon as possible after the\n                presentation to him of a Bill for assent, return the Bill if it is not a Money Bill to the Houses with a\n                message requesting that they will reconsider the Bill or any specified provisions thereof and, in\n                particular, will consider the desirability of introducing any such amendments as he may recommend in his\n                message, and when a Bill is so returned, the Houses shall reconsider the Bill accordingly, and if the\n                Bill is passed again by the Houses with or without amendment and presented to the President for assent,\n                the President shall not withhold assent therefrom.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"111\" data-report=\"Article 111 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">111</span>Assent to Bills</h3>\n</div>\n<p class=\"prov-cite\">Article 111 · Part V · Legislative Procedure</p>\n<div class=\"prov-body\">\n<p>When a Bill has been passed by the Houses of Parliament, it shall be presented to the President, and\n                the President shall declare either that he assents to the Bill, or that he withholds assent therefrom:\n              </p>\n<p><span class=\"named\">Proviso</span>Provided that the President may, as soon as possible after the\n                presentation to him of a Bill for assent, return the Bill if it is not a Money Bill to the Houses with a\n                message requesting that they will reconsider the Bill or any specified provisions thereof and, in\n                particular, will consider the desirability of introducing any such amendments as he may recommend in his\n                message, and when a Bill is so returned, the Houses shall reconsider the Bill accordingly, and if the\n                Bill is passed again by the Houses with or without amendment and presented to the President for assent,\n                the President shall not withhold assent therefrom.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">111</span>Assent to Bills</h3>\n</div>\n<p class=\"prov-cite\">Article 111 · Part V · Legislative Procedure</p>\n<div class=\"prov-body\">\n<p>When a Bill has been passed by the Houses of Parliament, it shall be presented to the President, and\n                the President shall declare either that he assents to the Bill, or that he withholds assent therefrom:\n              </p>\n<p><span class=\"named\">Proviso</span>Provided that the President may, as soon as possible after the\n                presentation to him of a Bill for assent, return the Bill if it is not a Money Bill to the Houses with a\n                message requesting that they will reconsider the Bill or any specified provisions thereof and, in\n                particular, will consider the desirability of introducing any such amendments as he may recommend in his\n                message, and when a Bill is so returned, the Houses shall reconsider the Bill accordingly, and if the\n                Bill is passed again by the Houses with or without amendment and presented to the President for assent,\n                the President shall not withhold assent therefrom.</p>\n</div>\n"
+  }
+}

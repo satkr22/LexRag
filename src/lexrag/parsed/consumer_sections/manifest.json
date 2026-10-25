@@ -1,0 +1,650 @@
+{
+  "act": "consumer",
+  "source_directory": "src/lexrag/scrapped/consumer_sections",
+  "output_directory": "src/lexrag/parsed/consumer_sections",
+  "count": 107,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent, commencement and application.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Central Consumer Protection Council.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Procedure for meetings of Central Council.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Objects of Central Council.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "State Consumer Protection Councils.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Objects of State Council.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "District Consumer Protection Council.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Objects of District Council.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Establishment of Central Consumer Protection Authority.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Qualifications, method of recruitment, etc., of Chief Commissioner and Commissioners.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Vacancy, etc., not to invalidate proceedings of Central Authority.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Appointment of officers, experts, professionals and other employees of Central Authority.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Procedure of Central Authority.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Investigation Wing.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Power of District Collector.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "17",
+      "article_title": "Complaints to authorities.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 18,
+      "article_number": "18",
+      "article_title": "Powers and functions of Central Authority.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 19,
+      "article_number": "19",
+      "article_title": "Power of Central Authority to refer matter for investigation or to other Regulator.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 20,
+      "article_number": "20",
+      "article_title": "Power of Central Authority to recall goods, etc.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 21,
+      "article_number": "21",
+      "article_title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 22,
+      "article_number": "22",
+      "article_title": "Search and seizure.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 23,
+      "article_number": "23",
+      "article_title": "Designation of any statutory authority or body to function as Central Authority.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 24,
+      "article_number": "24",
+      "article_title": "Appeal.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 25,
+      "article_number": "25",
+      "article_title": "Grants by Central Government.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 26,
+      "article_number": "26",
+      "article_title": "Accounts and audit.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 27,
+      "article_number": "27",
+      "article_title": "Furnishing of annual reports, etc.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 28,
+      "article_number": "28",
+      "article_title": "Establishment of District Consumer Disputes Redressal Commission.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 29,
+      "article_number": "29",
+      "article_title": "Qualifications, etc., of President and members of District Commission.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 30,
+      "article_number": "30",
+      "article_title": "Salaries, allowances and other terms and conditions of service of President and members of District Commission.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 31,
+      "article_number": "31",
+      "article_title": "Transitional provision.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 32,
+      "article_number": "32",
+      "article_title": "Vacancy in office of member of District Commission.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 33,
+      "article_number": "33",
+      "article_title": "Officers and other employees of District Commission.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 34,
+      "article_number": "34",
+      "article_title": "Jurisdiction of District Commission.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 35,
+      "article_number": "35",
+      "article_title": "Manner in which complaint shall be made.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 36,
+      "article_number": "36",
+      "article_title": "Proceedings before District Commission.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 37,
+      "article_number": "37",
+      "article_title": "Reference to mediation.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 38,
+      "article_number": "38",
+      "article_title": "Procedure on admission of complaint.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 39,
+      "article_number": "39",
+      "article_title": "Findings of District Commission.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 40,
+      "article_number": "40",
+      "article_title": "Review by District Commission in certain cases.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 41,
+      "article_number": "41",
+      "article_title": "Appeal against order of District Commission.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 42,
+      "article_number": "42",
+      "article_title": "Establishment of State Consumer Disputes Redressal Commission.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 43,
+      "article_number": "43",
+      "article_title": "Qualifications, etc., of President and members of State Commission.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 44,
+      "article_number": "44",
+      "article_title": "Salaries, allowances and other terms and conditions of service of President and members of State Commission.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 45,
+      "article_number": "45",
+      "article_title": "Transitional provision.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 46,
+      "article_number": "46",
+      "article_title": "Officers and employees of State Commission.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 47,
+      "article_number": "47",
+      "article_title": "Jurisdiction of State Commission.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 48,
+      "article_number": "48",
+      "article_title": "Transfer of cases.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 49,
+      "article_number": "49",
+      "article_title": "Procedure applicable to State Commission.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 50,
+      "article_number": "50",
+      "article_title": "Review by State Commission in certain cases.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 51,
+      "article_number": "51",
+      "article_title": "Appeal to National Commission.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 52,
+      "article_number": "52",
+      "article_title": "Hearing of appeal.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 53,
+      "article_number": "53",
+      "article_title": "Establishment of National Consumer Disputes Redressal Commission.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 54,
+      "article_number": "54",
+      "article_title": "Composition of National Commission.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 55,
+      "article_number": "55",
+      "article_title": "Qualifications, etc., of President and members of National Commission.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 56,
+      "article_number": "56",
+      "article_title": "Transitional provision.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 57,
+      "article_number": "57",
+      "article_title": "Other officers and employees of National Commission.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 58,
+      "article_number": "58",
+      "article_title": "Jurisdiction of National Commission.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 59,
+      "article_number": "59",
+      "article_title": "Procedure applicable to National Commission.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 60,
+      "article_number": "60",
+      "article_title": "Review by National Commission in certain cases.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 61,
+      "article_number": "61",
+      "article_title": "Power to set aside ex parte orders.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 62,
+      "article_number": "62",
+      "article_title": "Transfer of cases.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 63,
+      "article_number": "63",
+      "article_title": "Vacancy in office of President of National Commission.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 64,
+      "article_number": "64",
+      "article_title": "Vacancies or defects in appointment not to invalidate orders.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 65,
+      "article_number": "65",
+      "article_title": "Service of notice, etc.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 66,
+      "article_number": "66",
+      "article_title": "Experts to assist National Commission or State Commission.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 67,
+      "article_number": "67",
+      "article_title": "Appeal against order of National Commission.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 68,
+      "article_number": "68",
+      "article_title": "Finality of orders.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 69,
+      "article_number": "69",
+      "article_title": "Limitation period.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 70,
+      "article_number": "70",
+      "article_title": "Administrative control.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 71,
+      "article_number": "71",
+      "article_title": "Enforcement of orders of District Commission, State Commission and National Commission.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 72,
+      "article_number": "72",
+      "article_title": "Penalty for non-compliance of order.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 73,
+      "article_number": "73",
+      "article_title": "Appeal against order passed under section 72.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 74,
+      "article_number": "74",
+      "article_title": "Establishment of consumer mediation cell.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 75,
+      "article_number": "75",
+      "article_title": "Empanelment of mediators.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 76,
+      "article_number": "76",
+      "article_title": "Nomination of mediators from panel.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 77,
+      "article_number": "77",
+      "article_title": "Duty of mediator to disclose certain facts.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 78,
+      "article_number": "78",
+      "article_title": "Replacement of mediator in certain cases.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 79,
+      "article_number": "79",
+      "article_title": "Procedure for mediation.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 80,
+      "article_number": "80",
+      "article_title": "Settlement through mediation.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 81,
+      "article_number": "81",
+      "article_title": "Recording settlement and passing of order.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 82,
+      "article_number": "82",
+      "article_title": "Application of Chapter.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 83,
+      "article_number": "83",
+      "article_title": "Product liability action.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 84,
+      "article_number": "84",
+      "article_title": "Liability of product manufacturer.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 85,
+      "article_number": "85",
+      "article_title": "Liability of product service provider.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 86,
+      "article_number": "86",
+      "article_title": "Liability of product sellers.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 87,
+      "article_number": "87",
+      "article_title": "Exceptions to product liability action.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 88,
+      "article_number": "88",
+      "article_title": "Penalty for non-compliance of direction of Central Authority.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 89,
+      "article_number": "89",
+      "article_title": "Punishment for false or misleading advertisement.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 90,
+      "article_number": "90",
+      "article_title": "Punishment for manufacturing for sale or storing, selling or distributing or importing products containing adulterant.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 91,
+      "article_number": "91",
+      "article_title": "Punishment for manufacturing for sale or for storing or selling or distributing or importing spurious goods.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 92,
+      "article_number": "92",
+      "article_title": "Cognizance of offence by court.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 93,
+      "article_number": "93",
+      "article_title": "Vexatious search.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 94,
+      "article_number": "94",
+      "article_title": "Measures to prevent unfair trade practices in e-commerce, direct selling, etc.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 95,
+      "article_number": "95",
+      "article_title": "Presidents, members, Chief Commissioner, Commissioner and certain officers to be public servants.",
+      "file": "section_95.json"
+    },
+    {
+      "order": 96,
+      "article_number": "96",
+      "article_title": "Compounding of offences.",
+      "file": "section_96.json"
+    },
+    {
+      "order": 97,
+      "article_number": "97",
+      "article_title": "Manner of crediting penalty.",
+      "file": "section_97.json"
+    },
+    {
+      "order": 98,
+      "article_number": "98",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 99,
+      "article_number": "99",
+      "article_title": "Power to give directions by Central Government.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 100,
+      "article_number": "100",
+      "article_title": "Act not in derogation of any other law.",
+      "file": "section_100.json"
+    },
+    {
+      "order": 101,
+      "article_number": "101",
+      "article_title": "Power of Central Government to make rules.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 102,
+      "article_number": "102",
+      "article_title": "Power of State Government to make rules.",
+      "file": "section_102.json"
+    },
+    {
+      "order": 103,
+      "article_number": "103",
+      "article_title": "Power of National Commission to make regulations.",
+      "file": "section_103.json"
+    },
+    {
+      "order": 104,
+      "article_number": "104",
+      "article_title": "Power of Central Authority to make regulations.",
+      "file": "section_104.json"
+    },
+    {
+      "order": 105,
+      "article_number": "105",
+      "article_title": "Rules and regulations to be laid before each House of Parliament.",
+      "file": "section_105.json"
+    },
+    {
+      "order": 106,
+      "article_number": "106",
+      "article_title": "Power to Remove Difficulties.",
+      "file": "section_106.json"
+    },
+    {
+      "order": 107,
+      "article_number": "107",
+      "article_title": "Repeal and savings.",
+      "file": "section_107.json"
+    }
+  ]
+}

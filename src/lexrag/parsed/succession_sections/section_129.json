@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-18.html",
+    "source_order": 18,
+    "article_order": 4,
+    "order": 129,
+    "stem": "section_129",
+    "heading_number": "Part VI · Chapter XI",
+    "heading_title": "Of Conditional Bequests",
+    "heading_range": "ss. 126–137",
+    "heading_source": "group-head",
+    "article_number": "129",
+    "article_title": "Bequest to A and on failure of prior bequest to B."
+  },
+  "id": "succession_section_129",
+  "heading": {
+    "number": "Part VI · Chapter XI",
+    "title": "Of Conditional Bequests",
+    "range": "ss. 126–137"
+  },
+  "article": {
+    "number": "129",
+    "title": "Bequest to A and on failure of prior bequest to B.",
+    "content": "129Bequest to A and on failure of prior bequest to B.\n\nSection 129  ·  Part VI · Chapter XI  ·  page 48 of the Act\nWhere there is a bequest to one person and a bequest of the same thing to another, if the prior bequest shall fail, the second bequest shall take effect upon the failure of the prior bequest although the failure may not have occurred in the manner contemplated by the testator.\nIllustrations\n(i) A bequeaths a sum of money to his own children surviving him, and, if they all die under 18, to B. A dies without having ever had a child. The bequest to B takes effect.\n(ii) A bequeaths a sum of money to B, on condition that he shall execute a certain document within three months after A’s death, and, if he should neglect to do so, to C. B dies in the testator’s lifetime. The bequest to C takes effect.\n\n",
+    "html": "<article class=\"provision\" data-n=\"129\" data-report=\"Section 129 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">129</span>Bequest to A and on failure of prior bequest to B.</h3></div><p class=\"prov-cite\">Section 129  ·  Part VI · Chapter XI  ·  page 48 of the Act</p><div class=\"prov-body\"><p>Where there is a bequest to one person and a bequest of the same thing to another, if the prior bequest shall fail, the second bequest shall take effect upon the failure of the prior bequest although the failure may not have occurred in the manner contemplated by the testator.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths a sum of money to his own children surviving him, and, if they all die under 18, to B. A dies without having ever had a child. The bequest to B takes effect.</p><p class=\"lvl\">(ii) A bequeaths a sum of money to B, on condition that he shall execute a certain document within three months after A’s death, and, if he should neglect to do so, to C. B dies in the testator’s lifetime. The bequest to C takes effect.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">129</span>Bequest to A and on failure of prior bequest to B.</h3></div><p class=\"prov-cite\">Section 129  ·  Part VI · Chapter XI  ·  page 48 of the Act</p><div class=\"prov-body\"><p>Where there is a bequest to one person and a bequest of the same thing to another, if the prior bequest shall fail, the second bequest shall take effect upon the failure of the prior bequest although the failure may not have occurred in the manner contemplated by the testator.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths a sum of money to his own children surviving him, and, if they all die under 18, to B. A dies without having ever had a child. The bequest to B takes effect.</p><p class=\"lvl\">(ii) A bequeaths a sum of money to B, on condition that he shall execute a certain document within three months after A’s death, and, if he should neglect to do so, to C. B dies in the testator’s lifetime. The bequest to C takes effect.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-15.html",
+    "source_order": 15,
+    "article_order": 21,
+    "order": 361,
+    "stem": "section_281",
+    "heading_number": "Part XII",
+    "heading_title": "Finance, Property, Contracts and Suits",
+    "heading_range": "264 – 300A",
+    "heading_source": "group-head",
+    "article_number": "281",
+    "article_title": "Recommendations of the Finance Commission"
+  },
+  "id": "constitution_section_281",
+  "heading": {
+    "number": "Part XII",
+    "title": "Finance, Property, Contracts and Suits",
+    "range": "264 – 300A"
+  },
+  "article": {
+    "number": "281",
+    "title": "Recommendations of the Finance Commission",
+    "content": "281Recommendations of the Finance Commission\n\nArticle 281 · Part XII · Distribution of Revenues between the Union and the States\nThe President shall cause every recommendation made by the Finance Commission under the provisions of this Constitution together with an explanatory memorandum as to the action taken thereon to be laid before each House of Parliament.\n\n",
+    "html": "<article class=\"provision\" data-n=\"281\" data-report=\"Article 281 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">281</span>Recommendations of the Finance Commission</h3></div><p class=\"prov-cite\">Article 281 · Part XII · Distribution of Revenues between the Union and the States</p><div class=\"prov-body\"><p>The President shall cause every recommendation made by the Finance Commission under the provisions of this Constitution together with an explanatory memorandum as to the action taken thereon to be laid before each House of Parliament.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">281</span>Recommendations of the Finance Commission</h3></div><p class=\"prov-cite\">Article 281 · Part XII · Distribution of Revenues between the Union and the States</p><div class=\"prov-body\"><p>The President shall cause every recommendation made by the Finance Commission under the provisions of this Constitution together with an explanatory memorandum as to the action taken thereon to be laid before each House of Parliament.</p></div>"
+  }
+}

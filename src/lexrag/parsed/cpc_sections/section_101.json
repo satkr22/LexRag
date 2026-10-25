@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-08.html",
+    "source_order": 8,
+    "article_order": 8,
+    "order": 109,
+    "stem": "section_101",
+    "heading_number": "Part Vii",
+    "heading_title": "Appeals",
+    "heading_range": "ss. 96–112",
+    "heading_source": "group-head",
+    "article_number": "101",
+    "article_title": "Second appeal on no other grounds."
+  },
+  "id": "cpc_section_101",
+  "heading": {
+    "number": "Part Vii",
+    "title": "Appeals",
+    "range": "ss. 96–112"
+  },
+  "article": {
+    "number": "101",
+    "title": "Second appeal on no other grounds.",
+    "content": "101Second appeal on no other grounds.\n\nSection 101\nAppeals from appellate decrees\nNo second appeal shall lie except on the ground mentioned in section 100.\n\n",
+    "html": "<article class=\"provision\" data-n=\"101\" data-report=\"Section 101 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">101</span>Second appeal on no other grounds.</h3></div><p class=\"prov-cite\">Section 101</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from appellate decrees</p><p>No second appeal shall lie except on the ground mentioned in section 100.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">101</span>Second appeal on no other grounds.</h3></div><p class=\"prov-cite\">Section 101</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from appellate decrees</p><p>No second appeal shall lie except on the ground mentioned in section 100.</p></div>"
+  }
+}

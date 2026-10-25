@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-04a.html",
+    "source_order": 4,
+    "article_order": 63,
+    "order": 75,
+    "stem": "section_75",
+    "heading_number": "Chapter IV",
+    "heading_title": "Computation of Total Income",
+    "heading_range": "ss. 13–95",
+    "heading_source": "group-head",
+    "article_number": "75",
+    "article_title": "Special provision for cost of acquisition in case of depreciable asset."
+  },
+  "id": "income-tax-2025_section_75",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Computation of Total Income",
+    "range": "ss. 13–95"
+  },
+  "article": {
+    "number": "75",
+    "title": "Special provision for cost of acquisition in case of depreciable asset.",
+    "content": "75Special provision for cost of acquisition in case of depreciable asset.\n\nSection 75  ·  Chapter IV  ·  E.—Capital gains  ·  page 107 of the Act\nIf depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.\n\n",
+    "html": "<article class=\"provision\" data-n=\"75\" data-report=\"Section 75 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Special provision for cost of acquisition in case of depreciable asset.</h3></div><p class=\"prov-cite\">Section 75  ·  Chapter IV  ·  E.—Capital gains  ·  page 107 of the Act</p><div class=\"prov-body\"><p>If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Special provision for cost of acquisition in case of depreciable asset.</h3></div><p class=\"prov-cite\">Section 75  ·  Chapter IV  ·  E.—Capital gains  ·  page 107 of the Act</p><div class=\"prov-body\"><p>If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.</p></div>"
+  }
+}

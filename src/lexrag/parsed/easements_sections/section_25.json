@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-25.html",
+    "source_order": 25,
+    "article_order": 1,
+    "order": 25,
+    "stem": "section_25",
+    "heading_number": "Chapter III",
+    "heading_title": "The Incidents of Easements",
+    "heading_range": "ss. 20–31",
+    "heading_source": "manifest",
+    "article_number": "25",
+    "article_title": "Liability for expenses necessary for preservation of easement."
+  },
+  "id": "easements_section_25",
+  "heading": {
+    "number": "Chapter III",
+    "title": "The Incidents of Easements",
+    "range": "ss. 20–31"
+  },
+  "article": {
+    "number": "25",
+    "title": "Liability for expenses necessary for preservation of easement.",
+    "content": "25Liability for expenses necessary for preservation of easement.\n\nSection 25  ·  Chapter III  ·  page 12 of the Act\nThe expenses incurred in constructing works, or making repairs, or doing any other act necessary for the use or preservation of an easement, must be defrayed by the dominant owner.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25</span>Liability for expenses necessary for preservation of easement.</h3></div><p class=\"prov-cite\">Section 25  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>The expenses incurred in constructing works, or making repairs, or doing any other act necessary for the use or preservation of an easement, must be defrayed by the dominant owner.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25</span>Liability for expenses necessary for preservation of easement.</h3></div><p class=\"prov-cite\">Section 25  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>The expenses incurred in constructing works, or making repairs, or doing any other act necessary for the use or preservation of an easement, must be defrayed by the dominant owner.</p></div>"
+  }
+}

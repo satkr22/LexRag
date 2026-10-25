@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 14,
+    "order": 491,
+    "stem": "section_O21R13",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R13",
+    "article_title": "Application for attachment of immovable property to contain certain particulars."
+  },
+  "id": "cpc_section_O21R13",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R13",
+    "title": "Application for attachment of immovable property to contain certain particulars.",
+    "content": "13Application for attachment of immovable property to contain certain particulars.\n\nOrder 21, Rule 13\nWhere an application is made for the attachment of any immovable property belonging to a judgment-debtor, it shall contain at the foot—\n(a) a description of such property sufficient to identify the same and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, a specification of such boundaries or numbers; and\n(b) a specification of the judgment-debtor’s share or interest in such property to the best of the belief of the applicant, and so far as he has been able to ascertain the same.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R13\" data-report=\"Order 21, Rule 13 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Application for attachment of immovable property to contain certain particulars.</h3></div><p class=\"prov-cite\">Order 21, Rule 13</p><div class=\"prov-body\"><p>Where an application is made for the attachment of any immovable property belonging to a judgment-debtor, it shall contain at the foot—</p><p class=\"lvl\">(a) a description of such property sufficient to identify the same and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, a specification of such boundaries or numbers; and</p><p class=\"lvl\">(b) a specification of the judgment-debtor’s share or interest in such property to the best of the belief of the applicant, and so far as he has been able to ascertain the same.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Application for attachment of immovable property to contain certain particulars.</h3></div><p class=\"prov-cite\">Order 21, Rule 13</p><div class=\"prov-body\"><p>Where an application is made for the attachment of any immovable property belonging to a judgment-debtor, it shall contain at the foot—</p><p class=\"lvl\">(a) a description of such property sufficient to identify the same and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, a specification of such boundaries or numbers; and</p><p class=\"lvl\">(b) a specification of the judgment-debtor’s share or interest in such property to the best of the belief of the applicant, and so far as he has been able to ascertain the same.</p></div>"
+  }
+}

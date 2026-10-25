@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-50.html",
+    "source_order": 50,
+    "article_order": 10,
+    "order": 699,
+    "stem": "section_O32R8",
+    "heading_number": "Order XXXII",
+    "heading_title": "Suits by or against minors and persons of unsound mind",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O32R8",
+    "article_title": "Retirement of next friend."
+  },
+  "id": "cpc_section_O32R8",
+  "heading": {
+    "number": "Order XXXII",
+    "title": "Suits by or against minors and persons of unsound mind",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O32R8",
+    "title": "Retirement of next friend.",
+    "content": "8Retirement of next friend.\n\nOrder 32, Rule 8\n(1) Unless otherwise ordered by the Court, a next friend shall not retire without first procuring a fit person to be put in this place, and giving security for the costs already incurred.\n(2) The application for the appointment of a new next friend shall be supported by an affidavit showing the fitness of the person proposed and also that he has no interest adverse to that of the minor.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O32R8\" data-report=\"Order 32, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Retirement of next friend.</h3></div><p class=\"prov-cite\">Order 32, Rule 8</p><div class=\"prov-body\"><p class=\"lvl\">(1) Unless otherwise ordered by the Court, a next friend shall not retire without first procuring a fit person to be put in this place, and giving security for the costs already incurred.</p><p class=\"lvl\">(2) The application for the appointment of a new next friend shall be supported by an affidavit showing the fitness of the person proposed and also that he has no interest adverse to that of the minor.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Retirement of next friend.</h3></div><p class=\"prov-cite\">Order 32, Rule 8</p><div class=\"prov-body\"><p class=\"lvl\">(1) Unless otherwise ordered by the Court, a next friend shall not retire without first procuring a fit person to be put in this place, and giving security for the costs already incurred.</p><p class=\"lvl\">(2) The application for the appointment of a new next friend shall be supported by an affidavit showing the fitness of the person proposed and also that he has no interest adverse to that of the minor.</p></div>"
+  }
+}

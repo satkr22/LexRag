@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-10.html",
+    "source_order": 10,
+    "article_order": 7,
+    "order": 276,
+    "stem": "section_243F",
+    "heading_number": "Part IX",
+    "heading_title": "The Panchayats",
+    "heading_range": "243 – 243O",
+    "heading_source": "group-head",
+    "article_number": "243F",
+    "article_title": "Disqualifications for membership"
+  },
+  "id": "constitution_section_243F",
+  "heading": {
+    "number": "Part IX",
+    "title": "The Panchayats",
+    "range": "243 – 243O"
+  },
+  "article": {
+    "number": "243F",
+    "title": "Disqualifications for membership",
+    "content": "243FDisqualifications for membership\n\nArticle 243F · Part IX\n(1)A person shall be disqualified for being chosen as, and for being, a member of a Panchayat—\n(a)if he is so disqualified by or under any law for the time being in force for the purposes of elections to the Legislature of the State concerned:\nProvisoProvided that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years;\n(b)if he is so disqualified by or under any law made by the Legislature of the State.\n(2)If any question arises as to whether a member of a Panchayat has become subject to any of the disqualifications mentioned in clause (1), the question shall be referred for the decision of such authority and in such manner as the Legislature of a State may, by law, provide.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243F\" data-report=\"Article 243F · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243F</span>Disqualifications for membership</h3></div><p class=\"prov-cite\">Article 243F · Part IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A person shall be disqualified for being chosen as, and for being, a member of a Panchayat—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>if he is so disqualified by or under any law for the time being in force for the purposes of elections to the Legislature of the State concerned:</p><p class=\"lvl2\"><span class=\"named\">Proviso</span>Provided that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>if he is so disqualified by or under any law made by the Legislature of the State.</p><p><span class=\"lbl\">(2)</span>If any question arises as to whether a member of a Panchayat has become subject to any of the disqualifications mentioned in clause (1), the question shall be referred for the decision of such authority and in such manner as the Legislature of a State may, by law, provide.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243F</span>Disqualifications for membership</h3></div><p class=\"prov-cite\">Article 243F · Part IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A person shall be disqualified for being chosen as, and for being, a member of a Panchayat—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>if he is so disqualified by or under any law for the time being in force for the purposes of elections to the Legislature of the State concerned:</p><p class=\"lvl2\"><span class=\"named\">Proviso</span>Provided that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>if he is so disqualified by or under any law made by the Legislature of the State.</p><p><span class=\"lbl\">(2)</span>If any question arises as to whether a member of a Panchayat has become subject to any of the disqualifications mentioned in clause (1), the question shall be referred for the decision of such authority and in such manner as the Legislature of a State may, by law, provide.</p></div>"
+  }
+}

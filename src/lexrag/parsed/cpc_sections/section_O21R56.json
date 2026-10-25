@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 68,
+    "order": 545,
+    "stem": "section_O21R56",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R56",
+    "article_title": "Order for payment of coin or currency notes to party entitled under decree."
+  },
+  "id": "cpc_section_O21R56",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R56",
+    "title": "Order for payment of coin or currency notes to party entitled under decree.",
+    "content": "56Order for payment of coin or currency notes to party entitled under decree.\n\nOrder 21, Rule 56\nWhere the property attached is current coin or currency notes, the Court may, at any time during the continuance of the attachment, direct that such coin or notes, or a part thereof sufficient to satisfy the decree, be paid over to the party entitled under the decree to receive the same.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R56\" data-report=\"Order 21, Rule 56 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">56</span>Order for payment of coin or currency notes to party entitled under decree.</h3></div><p class=\"prov-cite\">Order 21, Rule 56</p><div class=\"prov-body\"><p>Where the property attached is current coin or currency notes, the Court may, at any time during the continuance of the attachment, direct that such coin or notes, or a part thereof sufficient to satisfy the decree, be paid over to the party entitled under the decree to receive the same.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">56</span>Order for payment of coin or currency notes to party entitled under decree.</h3></div><p class=\"prov-cite\">Order 21, Rule 56</p><div class=\"prov-body\"><p>Where the property attached is current coin or currency notes, the Court may, at any time during the continuance of the attachment, direct that such coin or notes, or a part thereof sufficient to satisfy the decree, be paid over to the party entitled under the decree to receive the same.</p></div>"
+  }
+}

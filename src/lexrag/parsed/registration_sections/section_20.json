@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "registration",
+    "document_title": null,
+    "source_file": "registration_sections/section-20.html",
+    "source_order": 21,
+    "article_order": 1,
+    "order": 21,
+    "stem": "section_20",
+    "heading_number": "Part III",
+    "heading_title": "Of Registrable Documents",
+    "heading_range": "ss. 17–22",
+    "heading_source": "manifest",
+    "article_number": "20",
+    "article_title": "Documents containing interlineations, blanks, erasures or alterations."
+  },
+  "id": "registration_section_20",
+  "heading": {
+    "number": "Part III",
+    "title": "Of Registrable Documents",
+    "range": "ss. 17–22"
+  },
+  "article": {
+    "number": "20",
+    "title": "Documents containing interlineations, blanks, erasures or alterations.",
+    "content": "20Documents containing interlineations, blanks, erasures or alterations.\n\nSection 20  ·  Part III  ·  page 14 of the Act\n(1) The registering officer may in his discretion refuse to accept for registration any document in which any interlineation, blank, erasure or alteration appears, unless the persons executing the document attest with their signatures or initials such interlineation, blank, erasure or alteration.\n(2) If the registering officer registers any such document, he shall, at the time of registering the same, make a note in the register of such interlineation, blank, erasure or alteration.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Documents containing interlineations, blanks, erasures or alterations.</h3></div><p class=\"prov-cite\">Section 20  ·  Part III  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The registering officer may in his discretion refuse to accept for registration any document in which any interlineation, blank, erasure or alteration appears, unless the persons executing the document attest with their signatures or initials such interlineation, blank, erasure or alteration.</p><p class=\"lvl\">(2) If the registering officer registers any such document, he shall, at the time of registering the same, make a note in the register of such interlineation, blank, erasure or alteration.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Documents containing interlineations, blanks, erasures or alterations.</h3></div><p class=\"prov-cite\">Section 20  ·  Part III  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The registering officer may in his discretion refuse to accept for registration any document in which any interlineation, blank, erasure or alteration appears, unless the persons executing the document attest with their signatures or initials such interlineation, blank, erasure or alteration.</p><p class=\"lvl\">(2) If the registering officer registers any such document, he shall, at the time of registering the same, make a note in the register of such interlineation, blank, erasure or alteration.</p></div>"
+  }
+}

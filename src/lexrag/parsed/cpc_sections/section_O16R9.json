@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-31.html",
+    "source_order": 31,
+    "article_order": 11,
+    "order": 405,
+    "stem": "section_O16R9",
+    "heading_number": "Order XVI",
+    "heading_title": "Summoning and Attendance of Witnesses",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O16R9",
+    "article_title": "Time for serving summons."
+  },
+  "id": "cpc_section_O16R9",
+  "heading": {
+    "number": "Order XVI",
+    "title": "Summoning and Attendance of Witnesses",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O16R9",
+    "title": "Time for serving summons.",
+    "content": "9Time for serving summons.\n\nOrder 16, Rule 9\nService shall in all cases be made a sufficient time before the time specified in the summons for the attendance of the person summoned, to allow him a reasonable time for preparation and for travelling to the place at which his attendance is required.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O16R9\" data-report=\"Order 16, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Time for serving summons.</h3></div><p class=\"prov-cite\">Order 16, Rule 9</p><div class=\"prov-body\"><p>Service shall in all cases be made a sufficient time before the time specified in the summons for the attendance of the person summoned, to allow him a reasonable time for preparation and for travelling to the place at which his attendance is required.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Time for serving summons.</h3></div><p class=\"prov-cite\">Order 16, Rule 9</p><div class=\"prov-body\"><p>Service shall in all cases be made a sufficient time before the time specified in the summons for the attendance of the person summoned, to allow him a reasonable time for preparation and for travelling to the place at which his attendance is required.</p></div>"
+  }
+}

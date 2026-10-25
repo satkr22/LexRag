@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "motor_vehicle",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor_vehicle_sections/motor-vehicles-08.html",
+    "source_order": 8,
+    "article_order": 8,
+    "order": 129,
+    "stem": "section_119",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Control of Traffic",
+    "heading_range": "ss. 112–138",
+    "heading_source": "group-head",
+    "article_number": "119",
+    "article_title": "Duty to obey traffic signs."
+  },
+  "id": "motor_vehicle_section_119",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Control of Traffic",
+    "range": "ss. 112–138"
+  },
+  "article": {
+    "number": "119",
+    "title": "Duty to obey traffic signs.",
+    "content": "119Duty to obey traffic signs.\n\nSection 119  ·  Chapter VIII  ·  page 78 of the Act\n(1) Every driver of a motor vehicle shall drive the vehicle in conformity with any indication given by mandatory traffic sign and in conformity with the driving regulations made by the Central Government, and shall comply with all directions given to him by any police officer for the time being engaged in the regulation of traffic in any public place.\n(2) In this section “mandatory traffic sign” means a traffic sign included in Part A of the Schedule, or any traffic sign of similar form (that is to say, consisting of or including a circular disc displaying a device, word or figure and having a red ground or border) placed or erected for the purpose of regulating motor vehicle traffic under sub-section (1) of section 116.\n\n",
+    "html": "<article class=\"provision\" data-n=\"119\" data-report=\"Section 119 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">119</span>Duty to obey traffic signs.</h3></div><p class=\"prov-cite\">Section 119  ·  Chapter VIII  ·  page 78 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every driver of a motor vehicle shall drive the vehicle in conformity with any indication given by mandatory traffic sign and in conformity with the driving regulations made by the Central Government, and shall comply with all directions given to him by any police officer for the time being engaged in the regulation of traffic in any public place.</p><p class=\"lvl\">(2) In this section “mandatory traffic sign” means a traffic sign included in Part A of the Schedule, or any traffic sign of similar form (that is to say, consisting of or including a circular disc displaying a device, word or figure and having a red ground or border) placed or erected for the purpose of regulating motor vehicle traffic under sub-section (1) of section 116.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">119</span>Duty to obey traffic signs.</h3></div><p class=\"prov-cite\">Section 119  ·  Chapter VIII  ·  page 78 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every driver of a motor vehicle shall drive the vehicle in conformity with any indication given by mandatory traffic sign and in conformity with the driving regulations made by the Central Government, and shall comply with all directions given to him by any police officer for the time being engaged in the regulation of traffic in any public place.</p><p class=\"lvl\">(2) In this section “mandatory traffic sign” means a traffic sign included in Part A of the Schedule, or any traffic sign of similar form (that is to say, consisting of or including a circular disc displaying a device, word or figure and having a red ground or border) placed or erected for the purpose of regulating motor vehicle traffic under sub-section (1) of section 116.</p></div>"
+  }
+}

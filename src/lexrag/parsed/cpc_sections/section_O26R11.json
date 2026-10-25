@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-43.html",
+    "source_order": 43,
+    "article_order": 15,
+    "order": 638,
+    "stem": "section_O26R11",
+    "heading_number": "Order XXVI",
+    "heading_title": "Commissions",
+    "heading_range": "29 rules",
+    "heading_source": "group-head",
+    "article_number": "O26R11",
+    "article_title": "Commission to examine or adjust accounts."
+  },
+  "id": "cpc_section_O26R11",
+  "heading": {
+    "number": "Order XXVI",
+    "title": "Commissions",
+    "range": "29 rules"
+  },
+  "article": {
+    "number": "O26R11",
+    "title": "Commission to examine or adjust accounts.",
+    "content": "11Commission to examine or adjust accounts.\n\nOrder 26, Rule 11\nCommissions to examine accounts\nIn any suit in which an examination or adjustment of the accounts is necessary, the Court may issue a commission to such person as it thinks fit directing him to make such examination or adjustment.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O26R11\" data-report=\"Order 26, Rule 11 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Commission to examine or adjust accounts.</h3></div><p class=\"prov-cite\">Order 26, Rule 11</p><div class=\"prov-body\"><p class=\"sched-title\">Commissions to examine accounts</p><p>In any suit in which an examination or adjustment of the accounts is necessary, the Court may issue a commission to such person as it thinks fit directing him to make such examination or adjustment.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Commission to examine or adjust accounts.</h3></div><p class=\"prov-cite\">Order 26, Rule 11</p><div class=\"prov-body\"><p class=\"sched-title\">Commissions to examine accounts</p><p>In any suit in which an examination or adjustment of the accounts is necessary, the Court may issue a commission to such person as it thinks fit directing him to make such examination or adjustment.</p></div>"
+  }
+}

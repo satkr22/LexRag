@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-66.html",
+    "source_order": 66,
+    "article_order": 4,
+    "order": 882,
+    "stem": "section_O47R4",
+    "heading_number": "Order XLVII",
+    "heading_title": "Review",
+    "heading_range": "9 rules",
+    "heading_source": "group-head",
+    "article_number": "O47R4",
+    "article_title": "Application where rejected."
+  },
+  "id": "cpc_section_O47R4",
+  "heading": {
+    "number": "Order XLVII",
+    "title": "Review",
+    "range": "9 rules"
+  },
+  "article": {
+    "number": "O47R4",
+    "title": "Application where rejected.",
+    "content": "4Application where rejected.\n\nOrder 47, Rule 4\n(1) Where it appears to the Court that there is not sufficient ground for a review, it shall reject the application.\n(2) Application where granted.—Where the Court is of opinion that the application for review should be granted, it shall grant the same:\nProvided that—\n(a) no such application shall be granted without previous notice to the opposite party, to enable him to appear and be heard in support of the decree or order, a review of which is applied for; and\n(b) no such application shall be granted on the ground of discovery of new matter or evidence which the applicant alleges was not within his knowledge, or could not be adduced by him when the decree or order was passed or made, without strict proof of such allegation.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O47R4\" data-report=\"Order 47, Rule 4 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Application where rejected.</h3></div><p class=\"prov-cite\">Order 47, Rule 4</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where it appears to the Court that there is not sufficient ground for a review, it shall reject the application.</p><p class=\"lvl\">(2) Application where granted.—Where the Court is of opinion that the application for review should be granted, it shall grant the same:</p><p class=\"prvso\">Provided that—</p><p class=\"lvl\">(a) no such application shall be granted without previous notice to the opposite party, to enable him to appear and be heard in support of the decree or order, a review of which is applied for; and</p><p class=\"lvl\">(b) no such application shall be granted on the ground of discovery of new matter or evidence which the applicant alleges was not within his knowledge, or could not be adduced by him when the decree or order was passed or made, without strict proof of such allegation.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Application where rejected.</h3></div><p class=\"prov-cite\">Order 47, Rule 4</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where it appears to the Court that there is not sufficient ground for a review, it shall reject the application.</p><p class=\"lvl\">(2) Application where granted.—Where the Court is of opinion that the application for review should be granted, it shall grant the same:</p><p class=\"prvso\">Provided that—</p><p class=\"lvl\">(a) no such application shall be granted without previous notice to the opposite party, to enable him to appear and be heard in support of the decree or order, a review of which is applied for; and</p><p class=\"lvl\">(b) no such application shall be granted on the ground of discovery of new matter or evidence which the applicant alleges was not within his knowledge, or could not be adduced by him when the decree or order was passed or made, without strict proof of such allegation.</p></div>"
+  }
+}

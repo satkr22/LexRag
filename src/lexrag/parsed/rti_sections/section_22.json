@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "rti",
+    "document_title": null,
+    "source_file": "rti_sections/section-22.html",
+    "source_order": 24,
+    "article_order": 1,
+    "order": 24,
+    "stem": "section_22",
+    "heading_number": "Chapter VI",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 21–31",
+    "heading_source": "manifest",
+    "article_number": "22",
+    "article_title": "Act to have overriding effect."
+  },
+  "id": "rti_section_22",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Miscellaneous",
+    "range": "ss. 21–31"
+  },
+  "article": {
+    "number": "22",
+    "title": "Act to have overriding effect.",
+    "content": "22Act to have overriding effect.\n\nSection 22  ·  Chapter VI  ·  page 19 of the Act\nThe provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Official Secrets Act, 1923 (19 of 1923), and any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Act to have overriding effect.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter VI  ·  page 19 of the Act</p><div class=\"prov-body\"><p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Official Secrets Act, 1923 (19 of 1923), and any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Act to have overriding effect.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter VI  ·  page 19 of the Act</p><div class=\"prov-body\"><p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Official Secrets Act, 1923 (19 of 1923), and any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.</p></div>"
+  }
+}

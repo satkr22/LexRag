@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 6,
+    "order": 483,
+    "stem": "section_O21R6",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R6",
+    "article_title": "Procedure where Court desires that its own decree shall be executed by another Court."
+  },
+  "id": "cpc_section_O21R6",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R6",
+    "title": "Procedure where Court desires that its own decree shall be executed by another Court.",
+    "content": "6Procedure where Court desires that its own decree shall be executed by another Court.\n\nOrder 21, Rule 6\nThe Court sending a decree for execution shall send—\n(a) a copy of the decree;\n(b) a certificate setting forth that satisfaction of the decree has not been obtained by execution within the jurisdiction of the Court by which it was passed, or, where the decree has been executed in part, the extent to which satisfaction has been obtained and what part of the decree remains unsatisfied; and\n(c) a copy of any order for the execution of the decree, or, if no such order has been made, a certificate to that effect.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R6\" data-report=\"Order 21, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Procedure where Court desires that its own decree shall be executed by another Court.</h3></div><p class=\"prov-cite\">Order 21, Rule 6</p><div class=\"prov-body\"><p>The Court sending a decree for execution shall send—</p><p class=\"lvl\">(a) a copy of the decree;</p><p class=\"lvl\">(b) a certificate setting forth that satisfaction of the decree has not been obtained by execution within the jurisdiction of the Court by which it was passed, or, where the decree has been executed in part, the extent to which satisfaction has been obtained and what part of the decree remains unsatisfied; and</p><p class=\"lvl\">(c) a copy of any order for the execution of the decree, or, if no such order has been made, a certificate to that effect.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Procedure where Court desires that its own decree shall be executed by another Court.</h3></div><p class=\"prov-cite\">Order 21, Rule 6</p><div class=\"prov-body\"><p>The Court sending a decree for execution shall send—</p><p class=\"lvl\">(a) a copy of the decree;</p><p class=\"lvl\">(b) a certificate setting forth that satisfaction of the decree has not been obtained by execution within the jurisdiction of the Court by which it was passed, or, where the decree has been executed in part, the extent to which satisfaction has been obtained and what part of the decree remains unsatisfied; and</p><p class=\"lvl\">(c) a copy of any order for the execution of the decree, or, if no such order has been made, a certificate to that effect.</p></div>"
+  }
+}

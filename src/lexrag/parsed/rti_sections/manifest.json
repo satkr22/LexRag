@@ -1,0 +1,206 @@
+{
+  "act": "rti",
+  "source_directory": "src/lexrag/scrapped/rti_sections",
+  "output_directory": "src/lexrag/parsed/rti_sections",
+  "count": 33,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "first-schedule",
+      "article_title": "The First Schedule",
+      "file": "section_first-schedule.json"
+    },
+    {
+      "order": 2,
+      "article_number": "second-schedule",
+      "article_title": "The Second Schedule",
+      "file": "section_second-schedule.json"
+    },
+    {
+      "order": 3,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 4,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 5,
+      "article_number": "3",
+      "article_title": "Right to information.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 6,
+      "article_number": "4",
+      "article_title": "Obligations of public authorities.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 7,
+      "article_number": "5",
+      "article_title": "Designation of Public Information Officers.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 8,
+      "article_number": "6",
+      "article_title": "Request for obtaining information.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 9,
+      "article_number": "7",
+      "article_title": "Disposal of request.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 10,
+      "article_number": "8",
+      "article_title": "Exemption from disclosure of information.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 11,
+      "article_number": "9",
+      "article_title": "Grounds for rejection to access in certain cases.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 12,
+      "article_number": "10",
+      "article_title": "Severability.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 13,
+      "article_number": "11",
+      "article_title": "Third party information.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 14,
+      "article_number": "12",
+      "article_title": "Constitution of Central Information Commission.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 15,
+      "article_number": "13",
+      "article_title": "Term of office and conditions of service.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 16,
+      "article_number": "14",
+      "article_title": "Removal of Chief Information Commissioner or Information Commissioner.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 17,
+      "article_number": "15",
+      "article_title": "Constitution of State Information Commission.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 18,
+      "article_number": "16",
+      "article_title": "Term of office and conditions of service.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 19,
+      "article_number": "17",
+      "article_title": "Removal of State Chief Information Commissioner or State Information Commissioner.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 20,
+      "article_number": "18",
+      "article_title": "Powers and functions of Information Commissions.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 21,
+      "article_number": "19",
+      "article_title": "Appeal.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 22,
+      "article_number": "20",
+      "article_title": "Penalties.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 23,
+      "article_number": "21",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 24,
+      "article_number": "22",
+      "article_title": "Act to have overriding effect.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 25,
+      "article_number": "23",
+      "article_title": "Bar of jurisdiction of courts.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 26,
+      "article_number": "24",
+      "article_title": "Act not to apply to certain organisations.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 27,
+      "article_number": "25",
+      "article_title": "Monitoring and reporting.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 28,
+      "article_number": "26",
+      "article_title": "Appropriate Government to prepare programmes.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 29,
+      "article_number": "27",
+      "article_title": "Power to make rules by appropriate Government.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 30,
+      "article_number": "28",
+      "article_title": "Power to make rules by competent authority.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 31,
+      "article_number": "29",
+      "article_title": "Laying of rules.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 32,
+      "article_number": "30",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 33,
+      "article_number": "31",
+      "article_title": "Repeal.",
+      "file": "section_31.json"
+    }
+  ]
+}

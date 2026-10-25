@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 77,
+    "order": 140,
+    "stem": "section_125",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "125",
+    "article_title": "Salaries, etc., of Judges"
+  },
+  "id": "constitution_section_125",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "125",
+    "title": "Salaries, etc., of Judges",
+    "content": "\n\n125Salaries, etc., of Judges\n\n\n\nArticle 125 · Part V\n\n\n(1)1[There shall be paid to the Judges of the Supreme Court such\n                salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such\n                salaries as are specified in the Second Schedule.]\n\n(2)Every Judge shall be entitled to such privileges and allowances and to such\n                rights in respect of leave of absence and pension as may from time to time be determined by or under law\n                made by Parliament and, until so determined, to such privileges, allowances and rights as are specified\n                in the Second Schedule:\n\nProvisoProvided that neither the privileges nor the allowances\n                of a Judge nor his rights in respect of leave of absence or pension shall be varied to his disadvantage\n                after his appointment.\n\n\n\n\n1 Subs. by the Constitution (Fifty-fourth Amendment) Act, 1986, s. 2, for cl. (1)\n                (w.e.f. 1-4-1986).\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"125\" data-report=\"Article 125 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">125</span>Salaries, etc., of Judges</h3>\n</div>\n<p class=\"prov-cite\">Article 125 · Part V</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span><sup>1</sup>[There shall be paid to the Judges of the Supreme Court such\n                salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such\n                salaries as are specified in the Second Schedule.]</p>\n<p><span class=\"lbl\">(2)</span>Every Judge shall be entitled to such privileges and allowances and to such\n                rights in respect of leave of absence and pension as may from time to time be determined by or under law\n                made by Parliament and, until so determined, to such privileges, allowances and rights as are specified\n                in the Second Schedule:</p>\n<p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that neither the privileges nor the allowances\n                of a Judge nor his rights in respect of leave of absence or pension shall be varied to his disadvantage\n                after his appointment.</p>\n</div>\n<div class=\"fnotes\">\n<p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Fifty-fourth Amendment) Act, 1986, s. 2, for cl. (1)\n                (w.e.f. 1-4-1986).</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">125</span>Salaries, etc., of Judges</h3>\n</div>\n<p class=\"prov-cite\">Article 125 · Part V</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span><sup>1</sup>[There shall be paid to the Judges of the Supreme Court such\n                salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such\n                salaries as are specified in the Second Schedule.]</p>\n<p><span class=\"lbl\">(2)</span>Every Judge shall be entitled to such privileges and allowances and to such\n                rights in respect of leave of absence and pension as may from time to time be determined by or under law\n                made by Parliament and, until so determined, to such privileges, allowances and rights as are specified\n                in the Second Schedule:</p>\n<p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that neither the privileges nor the allowances\n                of a Judge nor his rights in respect of leave of absence or pension shall be varied to his disadvantage\n                after his appointment.</p>\n</div>\n<div class=\"fnotes\">\n<p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Fifty-fourth Amendment) Act, 1986, s. 2, for cl. (1)\n                (w.e.f. 1-4-1986).</p>\n</div>\n"
+  }
+}

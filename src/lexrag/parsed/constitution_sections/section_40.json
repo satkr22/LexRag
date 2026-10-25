@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-04.html",
+    "source_order": 4,
+    "article_order": 6,
+    "order": 48,
+    "stem": "section_40",
+    "heading_number": "Part IV",
+    "heading_title": "Directive Principles of State Policy",
+    "heading_range": "36 – 51",
+    "heading_source": "group-head",
+    "article_number": "40",
+    "article_title": "Organisation of village panchayats"
+  },
+  "id": "constitution_section_40",
+  "heading": {
+    "number": "Part IV",
+    "title": "Directive Principles of State Policy",
+    "range": "36 – 51"
+  },
+  "article": {
+    "number": "40",
+    "title": "Organisation of village panchayats",
+    "content": "40Organisation of village panchayats\n\nArticle 40 · Part IV\nThe State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.\n\n",
+    "html": "<article class=\"provision\" data-n=\"40\" data-report=\"Article 40 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Organisation of village panchayats</h3></div><p class=\"prov-cite\">Article 40 · Part IV</p><div class=\"prov-body\"><p>The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Organisation of village panchayats</h3></div><p class=\"prov-cite\">Article 40 · Part IV</p><div class=\"prov-body\"><p>The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.</p></div>"
+  }
+}

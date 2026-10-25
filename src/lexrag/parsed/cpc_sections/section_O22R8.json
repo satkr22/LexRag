@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-39.html",
+    "source_order": 39,
+    "article_order": 9,
+    "order": 605,
+    "stem": "section_O22R8",
+    "heading_number": "Order XXII",
+    "heading_title": "Death, Marriage and Insolvency or Parties",
+    "heading_range": "14 rules",
+    "heading_source": "group-head",
+    "article_number": "O22R8",
+    "article_title": "When plaintiff's insolvency bars suit."
+  },
+  "id": "cpc_section_O22R8",
+  "heading": {
+    "number": "Order XXII",
+    "title": "Death, Marriage and Insolvency or Parties",
+    "range": "14 rules"
+  },
+  "article": {
+    "number": "O22R8",
+    "title": "When plaintiff's insolvency bars suit.",
+    "content": "8When plaintiff's insolvency bars suit.\n\nOrder 22, Rule 8\n(1) The insolvency of a plaintiff in any suit which the assignee or receiver might maintain for the benefit of his creditors, shall not cause the suit to abate, unless such assignee or receiver declines to continue the suit or (unless for any special reason the Court otherwise directs) to give security for the costs thereof within such time as the Court may direct.\n(2) Procedure where assignee fails to continue suit, or give security.—Where the assignee or receiver neglects or refuses to continue the suit and to give such security within the time so ordered, the defendant may apply for the dismissal of the suit on the ground of the plaintiff's insolvency, and the Court may make an order dismissing the suit an awarding to the defendant the costs which he has incurred in defending the same to be proved as a debt against the plaintiff’s estate.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O22R8\" data-report=\"Order 22, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>When plaintiff's insolvency bars suit.</h3></div><p class=\"prov-cite\">Order 22, Rule 8</p><div class=\"prov-body\"><p class=\"lvl\">(1) The insolvency of a plaintiff in any suit which the assignee or receiver might maintain for the benefit of his creditors, shall not cause the suit to abate, unless such assignee or receiver declines to continue the suit or (unless for any special reason the Court otherwise directs) to give security for the costs thereof within such time as the Court may direct.</p><p class=\"lvl\">(2) Procedure where assignee fails to continue suit, or give security.—Where the assignee or receiver neglects or refuses to continue the suit and to give such security within the time so ordered, the defendant may apply for the dismissal of the suit on the ground of the plaintiff's insolvency, and the Court may make an order dismissing the suit an awarding to the defendant the costs which he has incurred in defending the same to be proved as a debt against the plaintiff’s estate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>When plaintiff's insolvency bars suit.</h3></div><p class=\"prov-cite\">Order 22, Rule 8</p><div class=\"prov-body\"><p class=\"lvl\">(1) The insolvency of a plaintiff in any suit which the assignee or receiver might maintain for the benefit of his creditors, shall not cause the suit to abate, unless such assignee or receiver declines to continue the suit or (unless for any special reason the Court otherwise directs) to give security for the costs thereof within such time as the Court may direct.</p><p class=\"lvl\">(2) Procedure where assignee fails to continue suit, or give security.—Where the assignee or receiver neglects or refuses to continue the suit and to give such security within the time so ordered, the defendant may apply for the dismissal of the suit on the ground of the plaintiff's insolvency, and the Court may make an order dismissing the suit an awarding to the defendant the costs which he has incurred in defending the same to be proved as a debt against the plaintiff’s estate.</p></div>"
+  }
+}

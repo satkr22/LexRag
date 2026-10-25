@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "document_title": null,
+    "source_file": "partnership_sections/section-4.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "section_4",
+    "heading_number": "Chapter II",
+    "heading_title": "The Nature of Partnership",
+    "heading_range": "ss. 4–8",
+    "heading_source": "manifest",
+    "article_number": "4",
+    "article_title": "Definition of “partnership”, “partner”, “firm” and “firm name”."
+  },
+  "id": "partnership_section_4",
+  "heading": {
+    "number": "Chapter II",
+    "title": "The Nature of Partnership",
+    "range": "ss. 4–8"
+  },
+  "article": {
+    "number": "4",
+    "title": "Definition of “partnership”, “partner”, “firm” and “firm name”.",
+    "content": "4Definition of “partnership”, “partner”, “firm” and “firm name”.\n\nSection 4  ·  Chapter II  ·  page 5 of the Act\n“Partnership” is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all.\nPersons who have entered into partnership with one another are called individually “partners” and collectively “a firm”, and the name under which their business is carried on is called the “firm name”.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Definition of “partnership”, “partner”, “firm” and “firm name”.</h3></div><p class=\"prov-cite\">Section 4  ·  Chapter II  ·  page 5 of the Act</p><div class=\"prov-body\"><p>“Partnership” is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all.</p><p>Persons who have entered into partnership with one another are called individually “partners” and collectively “a firm”, and the name under which their business is carried on is called the “firm name”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Definition of “partnership”, “partner”, “firm” and “firm name”.</h3></div><p class=\"prov-cite\">Section 4  ·  Chapter II  ·  page 5 of the Act</p><div class=\"prov-body\"><p>“Partnership” is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all.</p><p>Persons who have entered into partnership with one another are called individually “partners” and collectively “a firm”, and the name under which their business is carried on is called the “firm name”.</p></div>"
+  }
+}

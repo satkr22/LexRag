@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-14.html",
+    "source_order": 14,
+    "article_order": 4,
+    "order": 191,
+    "stem": "section_O2R4",
+    "heading_number": "Order II",
+    "heading_title": "Frame of suit",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O2R4",
+    "article_title": "Only certain claims to be joined for recovery of immovable property."
+  },
+  "id": "cpc_section_O2R4",
+  "heading": {
+    "number": "Order II",
+    "title": "Frame of suit",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O2R4",
+    "title": "Only certain claims to be joined for recovery of immovable property.",
+    "content": "4Only certain claims to be joined for recovery of immovable property.\n\nOrder 2, Rule 4\nNo cause of action shall, unless with the leave of the Court, be joined with a suit for the recovery of immovable property, except—\n(a) claims for mesne profits or arrears of rent in respect of the property claimed or any part thereof;\n(b) claims for damages for breach of any contract under which the property or any part thereof is held; and\n(c) claims in which the relief sought is based on the same cause of action:\nProvided that nothing in this rule shall be deemed to prevent any party in a suit for foreclosure or redemption from asking to be put into possession of the mortgaged property.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O2R4\" data-report=\"Order 2, Rule 4 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Only certain claims to be joined for recovery of immovable property.</h3></div><p class=\"prov-cite\">Order 2, Rule 4</p><div class=\"prov-body\"><p>No cause of action shall, unless with the leave of the Court, be joined with a suit for the recovery of immovable property, except—</p><p class=\"lvl\">(a) claims for mesne profits or arrears of rent in respect of the property claimed or any part thereof;</p><p class=\"lvl\">(b) claims for damages for breach of any contract under which the property or any part thereof is held; and</p><p class=\"lvl\">(c) claims in which the relief sought is based on the same cause of action:</p><p class=\"prvso\">Provided that nothing in this rule shall be deemed to prevent any party in a suit for foreclosure or redemption from asking to be put into possession of the mortgaged property.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Only certain claims to be joined for recovery of immovable property.</h3></div><p class=\"prov-cite\">Order 2, Rule 4</p><div class=\"prov-body\"><p>No cause of action shall, unless with the leave of the Court, be joined with a suit for the recovery of immovable property, except—</p><p class=\"lvl\">(a) claims for mesne profits or arrears of rent in respect of the property claimed or any part thereof;</p><p class=\"lvl\">(b) claims for damages for breach of any contract under which the property or any part thereof is held; and</p><p class=\"lvl\">(c) claims in which the relief sought is based on the same cause of action:</p><p class=\"prvso\">Provided that nothing in this rule shall be deemed to prevent any party in a suit for foreclosure or redemption from asking to be put into possession of the mortgaged property.</p></div>"
+  }
+}

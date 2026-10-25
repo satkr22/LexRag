@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-03.html",
+    "source_order": 3,
+    "article_order": 19,
+    "order": 43,
+    "stem": "section_41",
+    "heading_number": "Chapter III",
+    "heading_title": "Prospectus and Allotment of Securities",
+    "heading_range": "ss. 23–42",
+    "heading_source": "group-head",
+    "article_number": "41",
+    "article_title": "Global depository receipt."
+  },
+  "id": "companies_section_41",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Prospectus and Allotment of Securities",
+    "range": "ss. 23–42"
+  },
+  "article": {
+    "number": "41",
+    "title": "Global depository receipt.",
+    "content": "41Global depository receipt.\n\nSection 41  ·  Chapter III  ·  Part I  ·  page 45 of the Act\nA company may, after passing a special resolution in its general meeting, issue depository receipts in any foreign country in such manner, and subject to such conditions, as may be prescribed.\n\n",
+    "html": "<article class=\"provision\" data-n=\"41\" data-report=\"Section 41 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Global depository receipt.</h3></div><p class=\"prov-cite\">Section 41  ·  Chapter III  ·  Part I  ·  page 45 of the Act</p><div class=\"prov-body\"><p>A company may, after passing a special resolution in its general meeting, issue depository receipts in any foreign country in such manner, and subject to such conditions, as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Global depository receipt.</h3></div><p class=\"prov-cite\">Section 41  ·  Chapter III  ·  Part I  ·  page 45 of the Act</p><div class=\"prov-body\"><p>A company may, after passing a special resolution in its general meeting, issue depository receipts in any foreign country in such manner, and subject to such conditions, as may be prescribed.</p></div>"
+  }
+}

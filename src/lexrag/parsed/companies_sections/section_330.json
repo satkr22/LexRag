@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 61,
+    "order": 334,
+    "stem": "section_330",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "330",
+    "article_title": "Certain transfers to be void."
+  },
+  "id": "companies_section_330",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "330",
+    "title": "Certain transfers to be void.",
+    "content": "330Certain transfers to be void.\n\nSection 330  ·  Chapter XX  ·  Part III  ·  page 185 of the Act\nAny transfer or assignment by a company of all its properties or assets to trustees for the benefit of all its creditors shall be void.\n\n",
+    "html": "<article class=\"provision\" data-n=\"330\" data-report=\"Section 330 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">330</span>Certain transfers to be void.</h3></div><p class=\"prov-cite\">Section 330  ·  Chapter XX  ·  Part III  ·  page 185 of the Act</p><div class=\"prov-body\"><p>Any transfer or assignment by a company of all its properties or assets to trustees for the benefit of all its creditors shall be void.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">330</span>Certain transfers to be void.</h3></div><p class=\"prov-cite\">Section 330  ·  Chapter XX  ·  Part III  ·  page 185 of the Act</p><div class=\"prov-body\"><p>Any transfer or assignment by a company of all its properties or assets to trustees for the benefit of all its creditors shall be void.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-11.html",
+    "source_order": 11,
+    "article_order": 22,
+    "order": 174,
+    "stem": "section_170",
+    "heading_number": "Chapter XI",
+    "heading_title": "Appointment and Qualifications of Directors",
+    "heading_range": "ss. 149–172",
+    "heading_source": "group-head",
+    "article_number": "170",
+    "article_title": "Register of directors and key managerial personnel and their shareholding."
+  },
+  "id": "companies_section_170",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Appointment and Qualifications of Directors",
+    "range": "ss. 149–172"
+  },
+  "article": {
+    "number": "170",
+    "title": "Register of directors and key managerial personnel and their shareholding.",
+    "content": "170Register of directors and key managerial personnel and their shareholding.\n\nSection 170  ·  Chapter XI  ·  page 116 of the Act\n(1) Every company shall keep at its registered office a register containing such particulars of its directors and key managerial personnel as may be prescribed, which shall include the details of securities held by each of them in the company or its holding, subsidiary, subsidiary of company’s holding company or associate companies.\n(2) A return containing such particulars and documents as may be prescribed, of the directors and the key managerial personnel shall be filed with the Registrar within thirty days from the appointment of every director and key managerial personnel, as the case may be, and within thirty days of any change taking place.\n\n",
+    "html": "<article class=\"provision\" data-n=\"170\" data-report=\"Section 170 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">170</span>Register of directors and key managerial personnel and their shareholding.</h3></div><p class=\"prov-cite\">Section 170  ·  Chapter XI  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every company shall keep at its registered office a register containing such particulars of its directors and key managerial personnel as may be prescribed, which shall include the details of securities held by each of them in the company or its holding, subsidiary, subsidiary of company’s holding company or associate companies.</p><p class=\"lvl\">(2) A return containing such particulars and documents as may be prescribed, of the directors and the key managerial personnel shall be filed with the Registrar within thirty days from the appointment of every director and key managerial personnel, as the case may be, and within thirty days of any change taking place.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">170</span>Register of directors and key managerial personnel and their shareholding.</h3></div><p class=\"prov-cite\">Section 170  ·  Chapter XI  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every company shall keep at its registered office a register containing such particulars of its directors and key managerial personnel as may be prescribed, which shall include the details of securities held by each of them in the company or its holding, subsidiary, subsidiary of company’s holding company or associate companies.</p><p class=\"lvl\">(2) A return containing such particulars and documents as may be prescribed, of the directors and the key managerial personnel shall be filed with the Registrar within thirty days from the appointment of every director and key managerial personnel, as the case may be, and within thirty days of any change taking place.</p></div>"
+  }
+}

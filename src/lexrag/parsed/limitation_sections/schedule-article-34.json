@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-34.html",
+    "source_order": 34,
+    "article_order": 1,
+    "order": 34,
+    "stem": "schedule-article-34",
+    "heading_number": null,
+    "heading_title": "First Division · Part II · Suits Relating to Contracts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "34",
+    "article_title": "Three years."
+  },
+  "id": "limitation_schedule-article-34",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part II · Suits Relating to Contracts",
+    "range": null
+  },
+  "article": {
+    "number": "34",
+    "title": "Three years.",
+    "content": "Article34Three years.\n\nThe Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts\nOn a bill of exchange or promissory note payable at a fixed time after sight or after demand.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the fixed time expires.\n\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>34<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">On a bill of exchange or promissory note payable at a fixed time after sight or after demand.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the fixed time expires.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>34<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">On a bill of exchange or promissory note payable at a fixed time after sight or after demand.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the fixed time expires.</p></div></div></div></div>"
+  }
+}

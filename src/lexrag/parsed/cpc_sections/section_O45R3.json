@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-64.html",
+    "source_order": 64,
+    "article_order": 3,
+    "order": 855,
+    "stem": "section_O45R3",
+    "heading_number": "Order XLV",
+    "heading_title": "Appeals to the Supreme Court",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O45R3",
+    "article_title": "Certificate as to value or fitness."
+  },
+  "id": "cpc_section_O45R3",
+  "heading": {
+    "number": "Order XLV",
+    "title": "Appeals to the Supreme Court",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O45R3",
+    "title": "Certificate as to value or fitness.",
+    "content": "3Certificate as to value or fitness.\n\nOrder 45, Rule 3\n5[(1) Every petition shall state the grounds of appeal and pray for a certificate—\n(i) that the case involves a substantial question of law of general importance, and\n(ii) that in the opinion of the Court the said question needs to be decided by the Supreme Court.]\n(2) Upon receipt of such petition, the Court shall direct notice to be served on the opposite party to show cause why the said certificate should not be granted.\n\n5 Subs. by Act 49 of 1973, s. 4, for sub-rule (1).\n\n",
+    "html": "<article class=\"provision\" data-n=\"O45R3\" data-report=\"Order 45, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Certificate as to value or fitness.</h3></div><p class=\"prov-cite\">Order 45, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\"><sup>5</sup>[(1) Every petition shall state the grounds of appeal and pray for a certificate—</p><p class=\"lvl\">(i) that the case involves a substantial question of law of general importance, and</p><p class=\"lvl\">(ii) that in the opinion of the Court the said question needs to be decided by the Supreme Court.]</p><p class=\"lvl\">(2) Upon receipt of such petition, the Court shall direct notice to be served on the opposite party to show cause why the said certificate should not be granted.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>5</sup> Subs. by Act 49 of 1973, s. 4, for sub-rule (1).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Certificate as to value or fitness.</h3></div><p class=\"prov-cite\">Order 45, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\"><sup>5</sup>[(1) Every petition shall state the grounds of appeal and pray for a certificate—</p><p class=\"lvl\">(i) that the case involves a substantial question of law of general importance, and</p><p class=\"lvl\">(ii) that in the opinion of the Court the said question needs to be decided by the Supreme Court.]</p><p class=\"lvl\">(2) Upon receipt of such petition, the Court shall direct notice to be served on the opposite party to show cause why the said certificate should not be granted.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>5</sup> Subs. by Act 49 of 1973, s. 4, for sub-rule (1).</p></div>"
+  }
+}

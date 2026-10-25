@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-40.html",
+    "source_order": 40,
+    "article_order": 3,
+    "order": 613,
+    "stem": "section_O23R2",
+    "heading_number": "Order XXIII",
+    "heading_title": "Withdrawal and Adjustment of Suits",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O23R2",
+    "article_title": "Limitation law not affected by first suit."
+  },
+  "id": "cpc_section_O23R2",
+  "heading": {
+    "number": "Order XXIII",
+    "title": "Withdrawal and Adjustment of Suits",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O23R2",
+    "title": "Limitation law not affected by first suit.",
+    "content": "2Limitation law not affected by first suit.\n\nOrder 23, Rule 2\nIn any fresh suit instituted on permission granted under the last preceding rule, the plaintiff shall be bound by the law of limitation in the same manner as if the first suit had not been instituted.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O23R2\" data-report=\"Order 23, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Limitation law not affected by first suit.</h3></div><p class=\"prov-cite\">Order 23, Rule 2</p><div class=\"prov-body\"><p>In any fresh suit instituted on permission granted under the last preceding rule, the plaintiff shall be bound by the law of limitation in the same manner as if the first suit had not been instituted.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Limitation law not affected by first suit.</h3></div><p class=\"prov-cite\">Order 23, Rule 2</p><div class=\"prov-body\"><p>In any fresh suit instituted on permission granted under the last preceding rule, the plaintiff shall be bound by the law of limitation in the same manner as if the first suit had not been instituted.</p></div>"
+  }
+}

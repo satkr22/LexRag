@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-10.html",
+    "source_order": 10,
+    "article_order": 7,
+    "order": 149,
+    "stem": "section_145",
+    "heading_number": "Chapter X",
+    "heading_title": "Audit and Auditors",
+    "heading_range": "ss. 139–148",
+    "heading_source": "group-head",
+    "article_number": "145",
+    "article_title": "Auditor to sign audit reports, etc."
+  },
+  "id": "companies_section_145",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Audit and Auditors",
+    "range": "ss. 139–148"
+  },
+  "article": {
+    "number": "145",
+    "title": "Auditor to sign audit reports, etc.",
+    "content": "145Auditor to sign audit reports, etc.\n\nSection 145  ·  Chapter X  ·  page 104 of the Act\nThe person appointed as an auditor of the company shall sign the auditor’s report or sign or certify any other document of the company in accordance with the provisions of sub-section (2) of section 141, and the qualifications, observations or comments on financial transactions or matters, which have any adverse effect on the functioning of the company mentioned in the auditor’s report shall be read before the company in general meeting and shall be open to inspection by any member of the company.\n\n",
+    "html": "<article class=\"provision\" data-n=\"145\" data-report=\"Section 145 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">145</span>Auditor to sign audit reports, etc.</h3></div><p class=\"prov-cite\">Section 145  ·  Chapter X  ·  page 104 of the Act</p><div class=\"prov-body\"><p>The person appointed as an auditor of the company shall sign the auditor’s report or sign or certify any other document of the company in accordance with the provisions of sub-section (2) of section 141, and the qualifications, observations or comments on financial transactions or matters, which have any adverse effect on the functioning of the company mentioned in the auditor’s report shall be read before the company in general meeting and shall be open to inspection by any member of the company.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">145</span>Auditor to sign audit reports, etc.</h3></div><p class=\"prov-cite\">Section 145  ·  Chapter X  ·  page 104 of the Act</p><div class=\"prov-body\"><p>The person appointed as an auditor of the company shall sign the auditor’s report or sign or certify any other document of the company in accordance with the provisions of sub-section (2) of section 141, and the qualifications, observations or comments on financial transactions or matters, which have any adverse effect on the functioning of the company mentioned in the auditor’s report shall be read before the company in general meeting and shall be open to inspection by any member of the company.</p></div>"
+  }
+}

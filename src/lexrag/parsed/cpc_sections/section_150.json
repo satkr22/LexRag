@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-12.html",
+    "source_order": 12,
+    "article_order": 21,
+    "order": 161,
+    "stem": "section_150",
+    "heading_number": "Part Xi",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 132–158",
+    "heading_source": "group-head",
+    "article_number": "150",
+    "article_title": "Transfer of business."
+  },
+  "id": "cpc_section_150",
+  "heading": {
+    "number": "Part Xi",
+    "title": "Miscellaneous",
+    "range": "ss. 132–158"
+  },
+  "article": {
+    "number": "150",
+    "title": "Transfer of business.",
+    "content": "150Transfer of business.\n\nSection 150\nSave as otherwise provided, where the business of any Court is transferred to any other Court, the Court to which the business is so transferred shall have the same powers and shall perform the same duties as those respectively conferred and imposed by or under this Code upon the Court from which the business was so transferred.\n\n",
+    "html": "<article class=\"provision\" data-n=\"150\" data-report=\"Section 150 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">150</span>Transfer of business.</h3></div><p class=\"prov-cite\">Section 150</p><div class=\"prov-body\"><p>Save as otherwise provided, where the business of any Court is transferred to any other Court, the Court to which the business is so transferred shall have the same powers and shall perform the same duties as those respectively conferred and imposed by or under this Code upon the Court from which the business was so transferred.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">150</span>Transfer of business.</h3></div><p class=\"prov-cite\">Section 150</p><div class=\"prov-body\"><p>Save as otherwise provided, where the business of any Court is transferred to any other Court, the Court to which the business is so transferred shall have the same powers and shall perform the same duties as those respectively conferred and imposed by or under this Code upon the Court from which the business was so transferred.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-17.html",
+    "source_order": 17,
+    "article_order": 32,
+    "order": 234,
+    "stem": "section_O5R28",
+    "heading_number": "Order V",
+    "heading_title": "Issue and service of summons",
+    "heading_range": "34 rules",
+    "heading_source": "group-head",
+    "article_number": "O5R28",
+    "article_title": "Service on soldiers, sailors or airmen."
+  },
+  "id": "cpc_section_O5R28",
+  "heading": {
+    "number": "Order V",
+    "title": "Issue and service of summons",
+    "range": "34 rules"
+  },
+  "article": {
+    "number": "O5R28",
+    "title": "Service on soldiers, sailors or airmen.",
+    "content": "28Service on soldiers, sailors or airmen.\n\nOrder 5, Rule 28\nWhere the defendant is a soldier, 4[sailor] 5[or airman], the Court shall send the summons for service to his commanding officer together with a copy to be retained by the defendant.\n\n4 Ins. by s. 2 and Sch., ibid.\n5 Ins. by Act 10 of 1927, s. 2 and Sch. I.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O5R28\" data-report=\"Order 5, Rule 28 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Service on soldiers, sailors or airmen.</h3></div><p class=\"prov-cite\">Order 5, Rule 28</p><div class=\"prov-body\"><p>Where the defendant is a soldier, <sup>4</sup>[sailor] <sup>5</sup>[or airman], the Court shall send the summons for service to his commanding officer together with a copy to be retained by the defendant.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Ins. by s. 2 and Sch., ibid.</p><p class=\"fn\"><sup>5</sup> Ins. by Act 10 of 1927, s. 2 and Sch. I.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Service on soldiers, sailors or airmen.</h3></div><p class=\"prov-cite\">Order 5, Rule 28</p><div class=\"prov-body\"><p>Where the defendant is a soldier, <sup>4</sup>[sailor] <sup>5</sup>[or airman], the Court shall send the summons for service to his commanding officer together with a copy to be retained by the defendant.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Ins. by s. 2 and Sch., ibid.</p><p class=\"fn\"><sup>5</sup> Ins. by Act 10 of 1927, s. 2 and Sch. I.</p></div>"
+  }
+}

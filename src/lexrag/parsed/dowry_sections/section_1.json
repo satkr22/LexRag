@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "dowry",
+    "document_title": null,
+    "source_file": "dowry_sections/section-1.html",
+    "source_order": 1,
+    "article_order": 1,
+    "order": 1,
+    "stem": "section_1",
+    "heading_number": "The Act",
+    "heading_title": "Sections 1 to 10",
+    "heading_range": "ss. 1–10",
+    "heading_source": "manifest",
+    "article_number": "1",
+    "article_title": "Short title, extent and commencement."
+  },
+  "id": "dowry_section_1",
+  "heading": {
+    "number": "The Act",
+    "title": "Sections 1 to 10",
+    "range": "ss. 1–10"
+  },
+  "article": {
+    "number": "1",
+    "title": "Short title, extent and commencement.",
+    "content": "1Short title, extent and commencement.\n\nSection 1  ·  The Act  ·  page 2 of the Act\n(1) This Act may be called the Dowry Prohibition Act, 1961.\n(2) It extends to the whole of India 1***.\n(3) It shall come into force on such date2as the Central Government may, by notification in the Official Gazette, appoint.\n1 The words “except the State of Jammu and Kashmir” omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10- 2019).\n1st July, 1961, vide notification No. S.O. 1410, dated 20th June, 1961, see Gazette of India, Extraordinary, Part II, sec. 3(ii).\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title, extent and commencement.</h3></div><p class=\"prov-cite\">Section 1  ·  The Act  ·  page 2 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) This Act may be called the Dowry Prohibition Act, 1961.</p><p class=\"lvl\">(2) It extends to the whole of India <sup>1</sup>***.</p><p class=\"lvl\">(3) It shall come into force on such date2as the Central Government may, by notification in the Official Gazette, appoint.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> The words “except the State of Jammu and Kashmir” omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10- 2019).</p><p class=\"fn loose\">1st July, 1961, vide notification No. S.O. 1410, dated 20th June, 1961, see Gazette of India, Extraordinary, Part II, sec. 3(ii).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title, extent and commencement.</h3></div><p class=\"prov-cite\">Section 1  ·  The Act  ·  page 2 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) This Act may be called the Dowry Prohibition Act, 1961.</p><p class=\"lvl\">(2) It extends to the whole of India <sup>1</sup>***.</p><p class=\"lvl\">(3) It shall come into force on such date2as the Central Government may, by notification in the Official Gazette, appoint.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> The words “except the State of Jammu and Kashmir” omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10- 2019).</p><p class=\"fn loose\">1st July, 1961, vide notification No. S.O. 1410, dated 20th June, 1961, see Gazette of India, Extraordinary, Part II, sec. 3(ii).</p></div></div>"
+  }
+}

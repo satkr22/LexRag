@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-43.html",
+    "source_order": 43,
+    "article_order": 2,
+    "order": 625,
+    "stem": "section_O26R2",
+    "heading_number": "Order XXVI",
+    "heading_title": "Commissions",
+    "heading_range": "29 rules",
+    "heading_source": "group-head",
+    "article_number": "O26R2",
+    "article_title": "Order for commission."
+  },
+  "id": "cpc_section_O26R2",
+  "heading": {
+    "number": "Order XXVI",
+    "title": "Commissions",
+    "range": "29 rules"
+  },
+  "article": {
+    "number": "O26R2",
+    "title": "Order for commission.",
+    "content": "2Order for commission.\n\nOrder 26, Rule 2\nAn order for the issue of a commission for the examination of a witness may be made by the Court either of its own motion or on the application, supported by affidavit or otherwise, of any party to the suit or of the witness to be examined.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O26R2\" data-report=\"Order 26, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Order for commission.</h3></div><p class=\"prov-cite\">Order 26, Rule 2</p><div class=\"prov-body\"><p>An order for the issue of a commission for the examination of a witness may be made by the Court either of its own motion or on the application, supported by affidavit or otherwise, of any party to the suit or of the witness to be examined.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Order for commission.</h3></div><p class=\"prov-cite\">Order 26, Rule 2</p><div class=\"prov-body\"><p>An order for the issue of a commission for the examination of a witness may be made by the Court either of its own motion or on the application, supported by affidavit or otherwise, of any party to the suit or of the witness to be examined.</p></div>"
+  }
+}

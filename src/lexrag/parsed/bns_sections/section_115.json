@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-06.html",
+    "source_order": 6,
+    "article_order": 16,
+    "order": 115,
+    "stem": "section_115",
+    "heading_number": "Chapter VI",
+    "heading_title": "Of Offences Affecting the Human Body",
+    "heading_range": "100 – 146",
+    "heading_source": "group-head",
+    "article_number": "115",
+    "article_title": "Voluntarily causing hurt"
+  },
+  "id": "bns_section_115",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Of Offences Affecting the Human Body",
+    "range": "100 – 146"
+  },
+  "article": {
+    "number": "115",
+    "title": "Voluntarily causing hurt",
+    "content": "115Voluntarily causing hurt\n\nSection 115 · Chapter VI · Of hurt\n(1)Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said “voluntarily to cause hurt”.\n(2)Whoever, except in the case provided for by sub-section (1) of section 122 voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.\n\n",
+    "html": "<article class=\"provision\" data-n=\"115\" data-report=\"Section 115 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115</span>Voluntarily causing hurt</h3></div><p class=\"prov-cite\">Section 115 · Chapter VI · Of hurt</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said “voluntarily to cause hurt”.</p><p><span class=\"lbl\">(2)</span>Whoever, except in the case provided for by sub-section (1) of section 122 voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115</span>Voluntarily causing hurt</h3></div><p class=\"prov-cite\">Section 115 · Chapter VI · Of hurt</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said “voluntarily to cause hurt”.</p><p><span class=\"lbl\">(2)</span>Whoever, except in the case provided for by sub-section (1) of section 122 voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.</p></div>"
+  }
+}

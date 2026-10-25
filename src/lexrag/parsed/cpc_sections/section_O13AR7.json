@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-27.html",
+    "source_order": 27,
+    "article_order": 7,
+    "order": 374,
+    "stem": "section_O13AR7",
+    "heading_number": "Order XIIIA",
+    "heading_title": "Summary Judgment",
+    "heading_range": "8 rules",
+    "heading_source": "group-head",
+    "article_number": "O13AR7",
+    "article_title": "Conditional order."
+  },
+  "id": "cpc_section_O13AR7",
+  "heading": {
+    "number": "Order XIIIA",
+    "title": "Summary Judgment",
+    "range": "8 rules"
+  },
+  "article": {
+    "number": "O13AR7",
+    "title": "Conditional order.",
+    "content": "7Conditional order.\n\nOrder 13A, Rule 7\n(1) Where it appears to the Court that it is possible that a claim or defence may succeed but it is improbable that it shall do so, the Court may make a conditional order as set forth in Rule 6 (1)(b).\n(2) Where the Court makes a conditional order, it may:—\n(a) make it subject to all or any of the following conditions:—\n(i) require a party to deposit a sum of money in the Court;\n(ii) require a party to take a specified step in relation to the claim or defence, as the case may be;\n(iii) require a party, as the case may be, to give such security or provide such surety for restitution of costs as the Court deems fit and proper;\n(iv) impose such other conditions, including providing security for restitution of losses that any party is likely to suffer during the pendency of the suit, as the Court may deem fit in its discretion; and\n(b) specify the consequences of the failure to comply with the conditional order, including passing a judgment against the party that have not complied with the conditional order.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O13AR7\" data-report=\"Order 13A, Rule 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Conditional order.</h3></div><p class=\"prov-cite\">Order 13A, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where it appears to the Court that it is possible that a claim or defence may succeed but it is improbable that it shall do so, the Court may make a conditional order as set forth in Rule 6 (1)(b).</p><p class=\"lvl\">(2) Where the Court makes a conditional order, it may:—</p><p class=\"lvl\">(a) make it subject to all or any of the following conditions:—</p><p class=\"lvl\">(i) require a party to deposit a sum of money in the Court;</p><p class=\"lvl\">(ii) require a party to take a specified step in relation to the claim or defence, as the case may be;</p><p class=\"lvl\">(iii) require a party, as the case may be, to give such security or provide such surety for restitution of costs as the Court deems fit and proper;</p><p class=\"lvl\">(iv) impose such other conditions, including providing security for restitution of losses that any party is likely to suffer during the pendency of the suit, as the Court may deem fit in its discretion; and</p><p class=\"lvl\">(b) specify the consequences of the failure to comply with the conditional order, including passing a judgment against the party that have not complied with the conditional order.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Conditional order.</h3></div><p class=\"prov-cite\">Order 13A, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where it appears to the Court that it is possible that a claim or defence may succeed but it is improbable that it shall do so, the Court may make a conditional order as set forth in Rule 6 (1)(b).</p><p class=\"lvl\">(2) Where the Court makes a conditional order, it may:—</p><p class=\"lvl\">(a) make it subject to all or any of the following conditions:—</p><p class=\"lvl\">(i) require a party to deposit a sum of money in the Court;</p><p class=\"lvl\">(ii) require a party to take a specified step in relation to the claim or defence, as the case may be;</p><p class=\"lvl\">(iii) require a party, as the case may be, to give such security or provide such surety for restitution of costs as the Court deems fit and proper;</p><p class=\"lvl\">(iv) impose such other conditions, including providing security for restitution of losses that any party is likely to suffer during the pendency of the suit, as the Court may deem fit in its discretion; and</p><p class=\"lvl\">(b) specify the consequences of the failure to comply with the conditional order, including passing a judgment against the party that have not complied with the conditional order.</p></div>"
+  }
+}

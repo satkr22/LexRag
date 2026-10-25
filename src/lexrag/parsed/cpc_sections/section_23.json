@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-02.html",
+    "source_order": 2,
+    "article_order": 16,
+    "order": 24,
+    "stem": "section_23",
+    "heading_number": "Part I",
+    "heading_title": "Suits in General",
+    "heading_range": "ss. 9–35B",
+    "heading_source": "group-head",
+    "article_number": "23",
+    "article_title": "To what Court application lies."
+  },
+  "id": "cpc_section_23",
+  "heading": {
+    "number": "Part I",
+    "title": "Suits in General",
+    "range": "ss. 9–35B"
+  },
+  "article": {
+    "number": "23",
+    "title": "To what Court application lies.",
+    "content": "23To what Court application lies.\n\nSection 23\nPlace of Suing\n(I) Where the several Courts having jurisdiction are subordinate to the same Appellate Court, an application under section 22 shall be made to the Appellate Court.\n(2) Where such Courts are subordinate to different Appellate Courts but to the same High Court, the application shall be made to the said High Court.\n(3) Where such Courts are subordinate to different High Courts, the application shall be made to the High Court within the local limits of whose jurisdiction the Court in which the suit is brought is situate.\n\n",
+    "html": "<article class=\"provision\" data-n=\"23\" data-report=\"Section 23 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>To what Court application lies.</h3></div><p class=\"prov-cite\">Section 23</p><div class=\"prov-body\"><p class=\"sched-title\">Place of Suing</p><p class=\"lvl\">(I) Where the several Courts having jurisdiction are subordinate to the same Appellate Court, an application under section 22 shall be made to the Appellate Court.</p><p class=\"lvl\">(2) Where such Courts are subordinate to different Appellate Courts but to the same High Court, the application shall be made to the said High Court.</p><p class=\"lvl\">(3) Where such Courts are subordinate to different High Courts, the application shall be made to the High Court within the local limits of whose jurisdiction the Court in which the suit is brought is situate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>To what Court application lies.</h3></div><p class=\"prov-cite\">Section 23</p><div class=\"prov-body\"><p class=\"sched-title\">Place of Suing</p><p class=\"lvl\">(I) Where the several Courts having jurisdiction are subordinate to the same Appellate Court, an application under section 22 shall be made to the Appellate Court.</p><p class=\"lvl\">(2) Where such Courts are subordinate to different Appellate Courts but to the same High Court, the application shall be made to the said High Court.</p><p class=\"lvl\">(3) Where such Courts are subordinate to different High Courts, the application shall be made to the High Court within the local limits of whose jurisdiction the Court in which the suit is brought is situate.</p></div>"
+  }
+}

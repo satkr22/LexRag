@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-11.html",
+    "source_order": 11,
+    "article_order": 10,
+    "order": 126,
+    "stem": "section_103",
+    "heading_number": "Part III · Chapter III",
+    "heading_title": "Insolvency Resolution Process",
+    "heading_range": "ss. 94–120",
+    "heading_source": "group-head",
+    "article_number": "103",
+    "article_title": "Registering of claims by creditors."
+  },
+  "id": "insolvency_section_103",
+  "heading": {
+    "number": "Part III · Chapter III",
+    "title": "Insolvency Resolution Process",
+    "range": "ss. 94–120"
+  },
+  "article": {
+    "number": "103",
+    "title": "Registering of claims by creditors.",
+    "content": "103Registering of claims by creditors.\n\nSection 103  ·  Part III · Chapter III  ·  page 100 of the Act\n(1) The creditors shall register claims with the resolution professional by sending details of the claims by way of electronic communications or through courier, speed post or registered letter.\n(2) In addition to the claims referred to in sub-section (1), the creditor shall provide to the resolution professional, personal information and such particulars as may be prescribed.\n\n",
+    "html": "<article class=\"provision\" data-n=\"103\" data-report=\"Section 103 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">103</span>Registering of claims by creditors.</h3></div><p class=\"prov-cite\">Section 103  ·  Part III · Chapter III  ·  page 100 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The creditors shall register claims with the resolution professional by sending details of the claims by way of electronic communications or through courier, speed post or registered letter.</p><p class=\"lvl\">(2) In addition to the claims referred to in sub-section (1), the creditor shall provide to the resolution professional, personal information and such particulars as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">103</span>Registering of claims by creditors.</h3></div><p class=\"prov-cite\">Section 103  ·  Part III · Chapter III  ·  page 100 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The creditors shall register claims with the resolution professional by sending details of the claims by way of electronic communications or through courier, speed post or registered letter.</p><p class=\"lvl\">(2) In addition to the claims referred to in sub-section (1), the creditor shall provide to the resolution professional, personal information and such particulars as may be prescribed.</p></div>"
+  }
+}

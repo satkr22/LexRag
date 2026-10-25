@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-02.html",
+    "source_order": 2,
+    "article_order": 6,
+    "order": 9,
+    "stem": "section_9",
+    "heading_number": "Part II",
+    "heading_title": "Of Domicile",
+    "heading_range": "ss. 4–19",
+    "heading_source": "group-head",
+    "article_number": "9",
+    "article_title": "Continuance of domicile of origin."
+  },
+  "id": "succession_section_9",
+  "heading": {
+    "number": "Part II",
+    "title": "Of Domicile",
+    "range": "ss. 4–19"
+  },
+  "article": {
+    "number": "9",
+    "title": "Continuance of domicile of origin.",
+    "content": "9Continuance of domicile of origin.\n\nSection 9  ·  Part II  ·  page 18 of the Act\nThe domicile of origin prevails until a new domicile has been acquired.\n\n",
+    "html": "<article class=\"provision\" data-n=\"9\" data-report=\"Section 9 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Continuance of domicile of origin.</h3></div><p class=\"prov-cite\">Section 9  ·  Part II  ·  page 18 of the Act</p><div class=\"prov-body\"><p>The domicile of origin prevails until a new domicile has been acquired.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Continuance of domicile of origin.</h3></div><p class=\"prov-cite\">Section 9  ·  Part II  ·  page 18 of the Act</p><div class=\"prov-body\"><p>The domicile of origin prevails until a new domicile has been acquired.</p></div>"
+  }
+}

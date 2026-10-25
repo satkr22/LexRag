@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-03.html",
+    "source_order": 3,
+    "article_order": 5,
+    "order": 43,
+    "stem": "section_40",
+    "heading_number": "Part Ii",
+    "heading_title": "Execution",
+    "heading_range": "ss. 36–74",
+    "heading_source": "group-head",
+    "article_number": "40",
+    "article_title": "Transfer of decree to Court in another State."
+  },
+  "id": "cpc_section_40",
+  "heading": {
+    "number": "Part Ii",
+    "title": "Execution",
+    "range": "ss. 36–74"
+  },
+  "article": {
+    "number": "40",
+    "title": "Transfer of decree to Court in another State.",
+    "content": "40Transfer of decree to Court in another State.\n\nSection 40\nCourts by which decrees may be executed\nWhere a decree is sent for execution in another State, it shall be sent to such Court and executed in such manner as may be prescribed by rules in force in that State.\n\n",
+    "html": "<article class=\"provision\" data-n=\"40\" data-report=\"Section 40 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Transfer of decree to Court in another State.</h3></div><p class=\"prov-cite\">Section 40</p><div class=\"prov-body\"><p class=\"sched-title\">Courts by which decrees may be executed</p><p>Where a decree is sent for execution in another State, it shall be sent to such Court and executed in such manner as may be prescribed by rules in force in that State.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Transfer of decree to Court in another State.</h3></div><p class=\"prov-cite\">Section 40</p><div class=\"prov-body\"><p class=\"sched-title\">Courts by which decrees may be executed</p><p>Where a decree is sent for execution in another State, it shall be sent to such Court and executed in such manner as may be prescribed by rules in force in that State.</p></div>"
+  }
+}

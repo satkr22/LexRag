@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-43.html",
+    "source_order": 43,
+    "article_order": 9,
+    "order": 632,
+    "stem": "section_O26R8",
+    "heading_number": "Order XXVI",
+    "heading_title": "Commissions",
+    "heading_range": "29 rules",
+    "heading_source": "group-head",
+    "article_number": "O26R8",
+    "article_title": "When depositions may be read in evidence."
+  },
+  "id": "cpc_section_O26R8",
+  "heading": {
+    "number": "Order XXVI",
+    "title": "Commissions",
+    "range": "29 rules"
+  },
+  "article": {
+    "number": "O26R8",
+    "title": "When depositions may be read in evidence.",
+    "content": "8When depositions may be read in evidence.\n\nOrder 26, Rule 8\nEvidence taken under a commission shall not be read as evidence in the suit without the consent of the party against whom the same is offered, unless—\n(a) the person who gave the evidence is beyond the jurisdiction of the Court, or dead or unable from sickness or infirmity to attend to be personally examined, or exempted from personal appearance in Court, or is a 6[person in the service of the Government] who cannot, in the opinion of the Court, attend without detriment to the public service, or\n(b) the Court in its discretion dispenses with the proof of any of the circumstances mentioned in clause (a) and authorizes the evidence of any person being read as evidence in the suit, notwithstanding proof that the cause for taking such evidence by commission has ceased at the time of reading the same.\n\n6 Subs. by the A.O. 1937, for “civil or military officer of the Government”.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O26R8\" data-report=\"Order 26, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>When depositions may be read in evidence.</h3></div><p class=\"prov-cite\">Order 26, Rule 8</p><div class=\"prov-body\"><p>Evidence taken under a commission shall not be read as evidence in the suit without the consent of the party against whom the same is offered, unless—</p><p class=\"lvl\">(a) the person who gave the evidence is beyond the jurisdiction of the Court, or dead or unable from sickness or infirmity to attend to be personally examined, or exempted from personal appearance in Court, or is a <sup>6</sup>[person in the service of the Government] who cannot, in the opinion of the Court, attend without detriment to the public service, or</p><p class=\"lvl\">(b) the Court in its discretion dispenses with the proof of any of the circumstances mentioned in clause (a) and authorizes the evidence of any person being read as evidence in the suit, notwithstanding proof that the cause for taking such evidence by commission has ceased at the time of reading the same.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>6</sup> Subs. by the A.O. 1937, for “civil or military officer of the Government”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>When depositions may be read in evidence.</h3></div><p class=\"prov-cite\">Order 26, Rule 8</p><div class=\"prov-body\"><p>Evidence taken under a commission shall not be read as evidence in the suit without the consent of the party against whom the same is offered, unless—</p><p class=\"lvl\">(a) the person who gave the evidence is beyond the jurisdiction of the Court, or dead or unable from sickness or infirmity to attend to be personally examined, or exempted from personal appearance in Court, or is a <sup>6</sup>[person in the service of the Government] who cannot, in the opinion of the Court, attend without detriment to the public service, or</p><p class=\"lvl\">(b) the Court in its discretion dispenses with the proof of any of the circumstances mentioned in clause (a) and authorizes the evidence of any person being read as evidence in the suit, notwithstanding proof that the cause for taking such evidence by commission has ceased at the time of reading the same.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>6</sup> Subs. by the A.O. 1937, for “civil or military officer of the Government”.</p></div>"
+  }
+}

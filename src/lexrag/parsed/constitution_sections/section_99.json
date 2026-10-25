@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 48,
+    "order": 111,
+    "stem": "section_99",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "99",
+    "article_title": "Oath or affirmation by members"
+  },
+  "id": "constitution_section_99",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "99",
+    "title": "Oath or affirmation by members",
+    "content": "\n\n99Oath or affirmation by members\n\n\n\nArticle 99 · Part V · Conduct of Business\n\n\nEvery member of either House of Parliament shall, before taking his seat, make and subscribe before the\n                President, or some person appointed in that behalf by him, an oath or affirmation according to the form\n                set out for the purpose in the Third Schedule.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"99\" data-report=\"Article 99 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">99</span>Oath or affirmation by members</h3>\n</div>\n<p class=\"prov-cite\">Article 99 · Part V · Conduct of Business</p>\n<div class=\"prov-body\">\n<p>Every member of either House of Parliament shall, before taking his seat, make and subscribe before the\n                President, or some person appointed in that behalf by him, an oath or affirmation according to the form\n                set out for the purpose in the Third Schedule.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">99</span>Oath or affirmation by members</h3>\n</div>\n<p class=\"prov-cite\">Article 99 · Part V · Conduct of Business</p>\n<div class=\"prov-body\">\n<p>Every member of either House of Parliament shall, before taking his seat, make and subscribe before the\n                President, or some person appointed in that behalf by him, an oath or affirmation according to the form\n                set out for the purpose in the Third Schedule.</p>\n</div>\n"
+  }
+}

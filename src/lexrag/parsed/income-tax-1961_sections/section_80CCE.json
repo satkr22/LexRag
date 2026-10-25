@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-07a.html",
+    "source_order": 10,
+    "article_order": 12,
+    "order": 195,
+    "stem": "section_80CCE",
+    "heading_number": "Chapter VIA",
+    "heading_title": "Deductions to Be Made in Computing Total Income",
+    "heading_range": "ss. 80A–80VV",
+    "heading_source": "group-head",
+    "article_number": "80CCE",
+    "article_title": "Limit on deductions under sections 80C, 80CCC and 80CCD."
+  },
+  "id": "income-tax-1961_section_80CCE",
+  "heading": {
+    "number": "Chapter VIA",
+    "title": "Deductions to Be Made in Computing Total Income",
+    "range": "ss. 80A–80VV"
+  },
+  "article": {
+    "number": "80CCE",
+    "title": "Limit on deductions under sections 80C, 80CCC and 80CCD.",
+    "content": "80CCELimit on deductions under sections 80C, 80CCC and 80CCD.\n\nSection 80CCE  ·  Chapter VIA  ·  B.—Deductions in respect of certain payments  ·  page 292 of the Act\nThe aggregate amount of deductions under section 80C, section 80CCC and sub-section (1) of section 80CCD shall not, in any case, exceed one hundred and fifty thousand rupees.\n\n",
+    "html": "<article class=\"provision\" data-n=\"80CCE\" data-report=\"Section 80CCE · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80CCE</span>Limit on deductions under sections 80C, 80CCC and 80CCD.</h3></div><p class=\"prov-cite\">Section 80CCE  ·  Chapter VIA  ·  B.—Deductions in respect of certain payments  ·  page 292 of the Act</p><div class=\"prov-body\"><p>The aggregate amount of deductions under section 80C, section 80CCC and sub-section (1) of section 80CCD shall not, in any case, exceed one hundred and fifty thousand rupees.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80CCE</span>Limit on deductions under sections 80C, 80CCC and 80CCD.</h3></div><p class=\"prov-cite\">Section 80CCE  ·  Chapter VIA  ·  B.—Deductions in respect of certain payments  ·  page 292 of the Act</p><div class=\"prov-body\"><p>The aggregate amount of deductions under section 80C, section 80CCC and sub-section (1) of section 80CCD shall not, in any case, exceed one hundred and fifty thousand rupees.</p></div>"
+  }
+}

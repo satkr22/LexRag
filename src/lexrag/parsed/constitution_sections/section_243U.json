@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-11.html",
+    "source_order": 11,
+    "article_order": 6,
+    "order": 291,
+    "stem": "section_243U",
+    "heading_number": "Part IXA",
+    "heading_title": "The Municipalities",
+    "heading_range": "243P – 243ZG",
+    "heading_source": "group-head",
+    "article_number": "243U",
+    "article_title": "Duration of Municipalities, etc"
+  },
+  "id": "constitution_section_243U",
+  "heading": {
+    "number": "Part IXA",
+    "title": "The Municipalities",
+    "range": "243P – 243ZG"
+  },
+  "article": {
+    "number": "243U",
+    "title": "Duration of Municipalities, etc",
+    "content": "243UDuration of Municipalities, etc\n\nArticle 243U · Part IXA\n(1)Every Municipality, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer:\nProvisoProvided that a Municipality shall be given a reasonable opportunity of being heard before its dissolution.\n(2)No amendment of any law for the time being in force shall have the effect of causing dissolution of a Municipality at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).\n(3)An election to constitute a Municipality shall be completed,—\n(a)before the expiry of its duration specified in clause (1);\n(b)before the expiration of a period of six months from the date of its dissolution:\nProvisoProvided that where the remainder of the period for which the dissolved Municipality would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Municipality for such period.\n(4)A Municipality constituted upon the dissolution of a Municipality before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Municipality would have continued under clause (1) had it not been so dissolved.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243U\" data-report=\"Article 243U · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243U</span>Duration of Municipalities, etc</h3></div><p class=\"prov-cite\">Article 243U · Part IXA</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Every Municipality, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that a Municipality shall be given a reasonable opportunity of being heard before its dissolution.</p><p><span class=\"lbl\">(2)</span>No amendment of any law for the time being in force shall have the effect of causing dissolution of a Municipality at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).</p><p><span class=\"lbl\">(3)</span>An election to constitute a Municipality shall be completed,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>before the expiry of its duration specified in clause (1);</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>before the expiration of a period of six months from the date of its dissolution:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the remainder of the period for which the dissolved Municipality would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Municipality for such period.</p><p><span class=\"lbl\">(4)</span>A Municipality constituted upon the dissolution of a Municipality before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Municipality would have continued under clause (1) had it not been so dissolved.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243U</span>Duration of Municipalities, etc</h3></div><p class=\"prov-cite\">Article 243U · Part IXA</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Every Municipality, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that a Municipality shall be given a reasonable opportunity of being heard before its dissolution.</p><p><span class=\"lbl\">(2)</span>No amendment of any law for the time being in force shall have the effect of causing dissolution of a Municipality at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).</p><p><span class=\"lbl\">(3)</span>An election to constitute a Municipality shall be completed,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>before the expiry of its duration specified in clause (1);</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>before the expiration of a period of six months from the date of its dissolution:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the remainder of the period for which the dissolved Municipality would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Municipality for such period.</p><p><span class=\"lbl\">(4)</span>A Municipality constituted upon the dissolution of a Municipality before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Municipality would have continued under clause (1) had it not been so dissolved.</p></div>"
+  }
+}

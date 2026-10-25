@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-25.html",
+    "source_order": 25,
+    "article_order": 7,
+    "order": 352,
+    "stem": "section_O12R5",
+    "heading_number": "Order XII",
+    "heading_title": "Admissions",
+    "heading_range": "11 rules",
+    "heading_source": "group-head",
+    "article_number": "O12R5",
+    "article_title": "Form of admissions."
+  },
+  "id": "cpc_section_O12R5",
+  "heading": {
+    "number": "Order XII",
+    "title": "Admissions",
+    "range": "11 rules"
+  },
+  "article": {
+    "number": "O12R5",
+    "title": "Form of admissions.",
+    "content": "5Form of admissions.\n\nOrder 12, Rule 5\nA notice to admit facts shall be in Form No. 10 in Appendix C, and admission of facts shall be in Form No. 11 in Appendix C, with such variations as circumstances may require.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O12R5\" data-report=\"Order 12, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Form of admissions.</h3></div><p class=\"prov-cite\">Order 12, Rule 5</p><div class=\"prov-body\"><p>A notice to admit facts shall be in Form No. 10 in Appendix C, and admission of facts shall be in Form No. 11 in Appendix C, with such variations as circumstances may require.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Form of admissions.</h3></div><p class=\"prov-cite\">Order 12, Rule 5</p><div class=\"prov-body\"><p>A notice to admit facts shall be in Form No. 10 in Appendix C, and admission of facts shall be in Form No. 11 in Appendix C, with such variations as circumstances may require.</p></div>"
+  }
+}

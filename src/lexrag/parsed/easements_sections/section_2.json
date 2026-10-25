@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-2.html",
+    "source_order": 2,
+    "article_order": 1,
+    "order": 2,
+    "stem": "section_2",
+    "heading_number": "Preliminary",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–3",
+    "heading_source": "manifest",
+    "article_number": "2",
+    "article_title": "Savings."
+  },
+  "id": "easements_section_2",
+  "heading": {
+    "number": "Preliminary",
+    "title": "Preliminary",
+    "range": "ss. 1–3"
+  },
+  "article": {
+    "number": "2",
+    "title": "Savings.",
+    "content": "2Savings.\n\nSection 2  ·  Preliminary  ·  page 4 of the Act\nNothing herein contained shall be deemed to affect any law not hereby expressly repealed; or to derogate from—\n(a) any right of the 3[Government] to regulate the collection, retention and distribution of the water of rivers and streams flowing in natural channels, and of natural lakes and ponds, or of the water flowing, collected, retained or distributed in or by any channel or other work constructed at the public expense for irrigation;\n(b) any customary or other right (not being a license) in or over immovable property which the Government, the public or any person may possess irrespective of other immovable property; or\n(c) any right acquired, or arising out of a relation created, before this Act comes into force.\n3 Subs. by the A.O. 1950, for “Crown”.\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Savings.</h3></div><p class=\"prov-cite\">Section 2  ·  Preliminary  ·  page 4 of the Act</p><div class=\"prov-body\"><p>Nothing herein contained shall be deemed to affect any law not hereby expressly repealed; or to derogate from—</p><p class=\"lvl\">(a) any right of the <sup>3</sup>[Government] to regulate the collection, retention and distribution of the water of rivers and streams flowing in natural channels, and of natural lakes and ponds, or of the water flowing, collected, retained or distributed in or by any channel or other work constructed at the public expense for irrigation;</p><p class=\"lvl\">(b) any customary or other right (not being a license) in or over immovable property which the Government, the public or any person may possess irrespective of other immovable property; or</p><p class=\"lvl\">(c) any right acquired, or arising out of a relation created, before this Act comes into force.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>3</sup> Subs. by the A.O. 1950, for “Crown”.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Savings.</h3></div><p class=\"prov-cite\">Section 2  ·  Preliminary  ·  page 4 of the Act</p><div class=\"prov-body\"><p>Nothing herein contained shall be deemed to affect any law not hereby expressly repealed; or to derogate from—</p><p class=\"lvl\">(a) any right of the <sup>3</sup>[Government] to regulate the collection, retention and distribution of the water of rivers and streams flowing in natural channels, and of natural lakes and ponds, or of the water flowing, collected, retained or distributed in or by any channel or other work constructed at the public expense for irrigation;</p><p class=\"lvl\">(b) any customary or other right (not being a license) in or over immovable property which the Government, the public or any person may possess irrespective of other immovable property; or</p><p class=\"lvl\">(c) any right acquired, or arising out of a relation created, before this Act comes into force.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>3</sup> Subs. by the A.O. 1950, for “Crown”.</p></div></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 2,
+    "order": 46,
+    "stem": "section_44",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "44",
+    "article_title": "Nature of shares or debentures."
+  },
+  "id": "companies_section_44",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "44",
+    "title": "Nature of shares or debentures.",
+    "content": "44Nature of shares or debentures.\n\nSection 44  ·  Chapter IV  ·  page 47 of the Act\nThe shares or debentures or other interest of any member in a company shall be movable property transferable in the manner provided by the articles of the company.\n\n",
+    "html": "<article class=\"provision\" data-n=\"44\" data-report=\"Section 44 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">44</span>Nature of shares or debentures.</h3></div><p class=\"prov-cite\">Section 44  ·  Chapter IV  ·  page 47 of the Act</p><div class=\"prov-body\"><p>The shares or debentures or other interest of any member in a company shall be movable property transferable in the manner provided by the articles of the company.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">44</span>Nature of shares or debentures.</h3></div><p class=\"prov-cite\">Section 44  ·  Chapter IV  ·  page 47 of the Act</p><div class=\"prov-body\"><p>The shares or debentures or other interest of any member in a company shall be movable property transferable in the manner provided by the articles of the company.</p></div>"
+  }
+}

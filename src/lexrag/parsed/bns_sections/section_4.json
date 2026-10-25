@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-02.html",
+    "source_order": 2,
+    "article_order": 1,
+    "order": 4,
+    "stem": "section_4",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Punishments",
+    "heading_range": "4 – 13",
+    "heading_source": "group-head",
+    "article_number": "4",
+    "article_title": "Punishments"
+  },
+  "id": "bns_section_4",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Punishments",
+    "range": "4 – 13"
+  },
+  "article": {
+    "number": "4",
+    "title": "Punishments",
+    "content": "4Punishments\n\nSection 4 · Chapter II\nThe punishments to which offenders are liable under the provisions of this Sanhita are—\n(a)Death;\n(b)Imprisonment for life;\n(c)Imprisonment, which is of two descriptions, namely:—\n(1)Rigorous, that is, with hard labour;\n(2)Simple;\n(d)Forfeiture of property;\n(e)Fine;\n(f)Community Service.\n\n",
+    "html": "<article class=\"provision\" data-n=\"4\" data-report=\"Section 4 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Punishments</h3></div><p class=\"prov-cite\">Section 4 · Chapter II</p><div class=\"prov-body\"><p>The punishments to which offenders are liable under the provisions of this Sanhita are—</p><p><span class=\"lbl\">(a)</span>Death;</p><p><span class=\"lbl\">(b)</span>Imprisonment for life;</p><p><span class=\"lbl\">(c)</span>Imprisonment, which is of two descriptions, namely:—</p><p class=\"lvl\"><span class=\"lbl\">(1)</span>Rigorous, that is, with hard labour;</p><p class=\"lvl\"><span class=\"lbl\">(2)</span>Simple;</p><p><span class=\"lbl\">(d)</span>Forfeiture of property;</p><p><span class=\"lbl\">(e)</span>Fine;</p><p><span class=\"lbl\">(f)</span>Community Service.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Punishments</h3></div><p class=\"prov-cite\">Section 4 · Chapter II</p><div class=\"prov-body\"><p>The punishments to which offenders are liable under the provisions of this Sanhita are—</p><p><span class=\"lbl\">(a)</span>Death;</p><p><span class=\"lbl\">(b)</span>Imprisonment for life;</p><p><span class=\"lbl\">(c)</span>Imprisonment, which is of two descriptions, namely:—</p><p class=\"lvl\"><span class=\"lbl\">(1)</span>Rigorous, that is, with hard labour;</p><p class=\"lvl\"><span class=\"lbl\">(2)</span>Simple;</p><p><span class=\"lbl\">(d)</span>Forfeiture of property;</p><p><span class=\"lbl\">(e)</span>Fine;</p><p><span class=\"lbl\">(f)</span>Community Service.</p></div>"
+  }
+}

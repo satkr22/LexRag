@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "document_title": null,
+    "source_file": "consumer_sections/section-20.html",
+    "source_order": 20,
+    "article_order": 1,
+    "order": 20,
+    "stem": "section_20",
+    "heading_number": "Chapter III",
+    "heading_title": "Cenral Consumer Protection Authority",
+    "heading_range": "ss. 10–27",
+    "heading_source": "manifest",
+    "article_number": "20",
+    "article_title": "Power of Central Authority to recall goods, etc."
+  },
+  "id": "consumer_section_20",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Cenral Consumer Protection Authority",
+    "range": "ss. 10–27"
+  },
+  "article": {
+    "number": "20",
+    "title": "Power of Central Authority to recall goods, etc.",
+    "content": "20Power of Central Authority to recall goods, etc.\n\nSection 20  ·  Chapter III  ·  page 15 of the Act\nWhere the Central Authority is satisfied on the basis of investigation that there is sufficient evidence to show violation of consumer rights or unfair trade practice by a person, it may pass such order as may be necessary, including—\n(a) recalling of goods or withdrawal of services which are dangerous, hazardous or unsafe;\n(b) reimbursement of the prices of goods or services so recalled to purchasers of such goods or services; and\n(c) discontinuation of practices which are unfair and prejudicial to consumers' interest:\nProvided that the Central Authority shall give the person an opportunity of being heard before passing an order under this section.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Power of Central Authority to recall goods, etc.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter III  ·  page 15 of the Act</p><div class=\"prov-body\"><p>Where the Central Authority is satisfied on the basis of investigation that there is sufficient evidence to show violation of consumer rights or unfair trade practice by a person, it may pass such order as may be necessary, including—</p><p class=\"lvl\">(a) recalling of goods or withdrawal of services which are dangerous, hazardous or unsafe;</p><p class=\"lvl\">(b) reimbursement of the prices of goods or services so recalled to purchasers of such goods or services; and</p><p class=\"lvl\">(c) discontinuation of practices which are unfair and prejudicial to consumers' interest:</p><p class=\"prvso\">Provided that the Central Authority shall give the person an opportunity of being heard before passing an order under this section.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Power of Central Authority to recall goods, etc.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter III  ·  page 15 of the Act</p><div class=\"prov-body\"><p>Where the Central Authority is satisfied on the basis of investigation that there is sufficient evidence to show violation of consumer rights or unfair trade practice by a person, it may pass such order as may be necessary, including—</p><p class=\"lvl\">(a) recalling of goods or withdrawal of services which are dangerous, hazardous or unsafe;</p><p class=\"lvl\">(b) reimbursement of the prices of goods or services so recalled to purchasers of such goods or services; and</p><p class=\"lvl\">(c) discontinuation of practices which are unfair and prejudicial to consumers' interest:</p><p class=\"prvso\">Provided that the Central Authority shall give the person an opportunity of being heard before passing an order under this section.</p></div>"
+  }
+}

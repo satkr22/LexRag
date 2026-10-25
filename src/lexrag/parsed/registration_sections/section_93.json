@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "registration",
+    "document_title": null,
+    "source_file": "registration_sections/section-93.html",
+    "source_order": 96,
+    "article_order": 1,
+    "order": 96,
+    "stem": "section_93",
+    "heading_number": "Part XV",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 85–93",
+    "heading_source": "manifest",
+    "article_number": "93",
+    "article_title": "Repeals"
+  },
+  "id": "registration_section_93",
+  "heading": {
+    "number": "Part XV",
+    "title": "Miscellaneous",
+    "range": "ss. 85–93"
+  },
+  "article": {
+    "number": "93",
+    "title": "Repeals",
+    "content": "93Repeals\n\nRep. by the Repealing Act, 1938 (1 of 1938), s. 2 and Schedule.\n",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">93</span>Repeals</h3></div><p class=\"repnote\">Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and Schedule.</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">93</span>Repeals</h3></div><p class=\"repnote\">Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and Schedule.</p>"
+  }
+}

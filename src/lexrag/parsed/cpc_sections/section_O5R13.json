@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-17.html",
+    "source_order": 17,
+    "article_order": 14,
+    "order": 216,
+    "stem": "section_O5R13",
+    "heading_number": "Order V",
+    "heading_title": "Issue and service of summons",
+    "heading_range": "34 rules",
+    "heading_source": "group-head",
+    "article_number": "O5R13",
+    "article_title": "Service on agent by whom defendant carries on business."
+  },
+  "id": "cpc_section_O5R13",
+  "heading": {
+    "number": "Order V",
+    "title": "Issue and service of summons",
+    "range": "34 rules"
+  },
+  "article": {
+    "number": "O5R13",
+    "title": "Service on agent by whom defendant carries on business.",
+    "content": "13Service on agent by whom defendant carries on business.\n\nOrder 5, Rule 13\n(1) In a suit relating to any business or work against a person who does not reside within the local limits of the jurisdiction of the Court from which the summons is issued, service on any manager or agent, who, at the time of service, personally carries on such business or work for such person within such limits, shall be deemed good service.\n(2) For the purpose of this rule the master of a ship shall be deemed to be the agent of the owner or charterer.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O5R13\" data-report=\"Order 5, Rule 13 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Service on agent by whom defendant carries on business.</h3></div><p class=\"prov-cite\">Order 5, Rule 13</p><div class=\"prov-body\"><p class=\"lvl\">(1) In a suit relating to any business or work against a person who does not reside within the local limits of the jurisdiction of the Court from which the summons is issued, service on any manager or agent, who, at the time of service, personally carries on such business or work for such person within such limits, shall be deemed good service.</p><p class=\"lvl\">(2) For the purpose of this rule the master of a ship shall be deemed to be the agent of the owner or charterer.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Service on agent by whom defendant carries on business.</h3></div><p class=\"prov-cite\">Order 5, Rule 13</p><div class=\"prov-body\"><p class=\"lvl\">(1) In a suit relating to any business or work against a person who does not reside within the local limits of the jurisdiction of the Court from which the summons is issued, service on any manager or agent, who, at the time of service, personally carries on such business or work for such person within such limits, shall be deemed good service.</p><p class=\"lvl\">(2) For the purpose of this rule the master of a ship shall be deemed to be the agent of the owner or charterer.</p></div>"
+  }
+}

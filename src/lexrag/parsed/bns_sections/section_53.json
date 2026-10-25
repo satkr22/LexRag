@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bns",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-04.html",
+    "source_order": 4,
+    "article_order": 9,
+    "order": 53,
+    "stem": "section_53",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Abetment, Criminal Conspiracy and Attempt",
+    "heading_range": "45 – 62",
+    "heading_source": "group-head",
+    "article_number": "53",
+    "article_title": "Liability of abettor for an effect caused by act abetted different from that intended by abettor"
+  },
+  "id": "bns_section_53",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Abetment, Criminal Conspiracy and Attempt",
+    "range": "45 – 62"
+  },
+  "article": {
+    "number": "53",
+    "title": "Liability of abettor for an effect caused by act abetted different from that intended by abettor",
+    "content": "53Liability of abettor for an effect caused by act abetted different from that intended by abettor\n\nSection 53 · Chapter IV · Of abetment\nWhen an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment, causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner and to the same extent as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect.\nIllustrations\nA instigates B to cause grievous hurt to Z. B, in consequence of the instigation, causes grievous hurt to Z. Z dies in consequence. Here, if A knew that the grievous hurt abetted was likely to cause death, A is liable to be punished with the punishment provided for murder.\n\n",
+    "html": "<article class=\"provision\" data-n=\"53\" data-report=\"Section 53 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Liability of abettor for an effect caused by act abetted different from that intended by abettor</h3></div><p class=\"prov-cite\">Section 53 · Chapter IV · Of abetment</p><div class=\"prov-body\"><p>When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment, causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner and to the same extent as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A instigates B to cause grievous hurt to Z. B, in consequence of the instigation, causes grievous hurt to Z. Z dies in consequence. Here, if A knew that the grievous hurt abetted was likely to cause death, A is liable to be punished with the punishment provided for murder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Liability of abettor for an effect caused by act abetted different from that intended by abettor</h3></div><p class=\"prov-cite\">Section 53 · Chapter IV · Of abetment</p><div class=\"prov-body\"><p>When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment, causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner and to the same extent as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A instigates B to cause grievous hurt to Z. B, in consequence of the instigation, causes grievous hurt to Z. Z dies in consequence. Here, if A knew that the grievous hurt abetted was likely to cause death, A is liable to be punished with the punishment provided for murder.</p></div>"
+  }
+}

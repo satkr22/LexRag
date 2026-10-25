@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-64.html",
+    "source_order": 64,
+    "article_order": 1,
+    "order": 853,
+    "stem": "section_O45R1",
+    "heading_number": "Order XLV",
+    "heading_title": "Appeals to the Supreme Court",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O45R1",
+    "article_title": "“Decree” defined."
+  },
+  "id": "cpc_section_O45R1",
+  "heading": {
+    "number": "Order XLV",
+    "title": "Appeals to the Supreme Court",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O45R1",
+    "title": "“Decree” defined.",
+    "content": "1“Decree” defined.\n\nOrder 45, Rule 1\nIn this Order, unless there is something repugnant in the subject or context, the expression “decree” shall include a final order.\n\nSubs. by the A.O. 1950, for “King-in-Council”.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O45R1\" data-report=\"Order 45, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>“Decree” defined.</h3></div><p class=\"prov-cite\">Order 45, Rule 1</p><div class=\"prov-body\"><p>In this Order, unless there is something repugnant in the subject or context, the expression “decree” shall include a final order.</p></div><div class=\"fnotes shown\"><p class=\"fn loose\">Subs. by the A.O. 1950, for “King-in-Council”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>“Decree” defined.</h3></div><p class=\"prov-cite\">Order 45, Rule 1</p><div class=\"prov-body\"><p>In this Order, unless there is something repugnant in the subject or context, the expression “decree” shall include a final order.</p></div><div class=\"fnotes shown\"><p class=\"fn loose\">Subs. by the A.O. 1950, for “King-in-Council”.</p></div>"
+  }
+}

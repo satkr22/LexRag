@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-3.html",
+    "source_order": 3,
+    "article_order": 1,
+    "order": 3,
+    "stem": "schedule-article-3",
+    "heading_number": null,
+    "heading_title": "First Division · Part I · Suits Relating to Accounts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "3",
+    "article_title": "Three years."
+  },
+  "id": "limitation_schedule-article-3",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part I · Suits Relating to Accounts",
+    "range": null
+  },
+  "article": {
+    "number": "3",
+    "title": "Three years.",
+    "content": "Article3Three years.\n\nThe Schedule  ·  First Division—Suits · Part I—Suits Relating to Accounts\nBy a principal against his agent for movable property received by the latter and not accounted for.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the account is, during the continuance of the agency, demanded and refused or, where no such demand is made, when the agency terminates.\n\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>3<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part I—Suits Relating to Accounts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">By a principal against his agent for movable property received by the latter and not accounted for.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the account is, during the continuance of the agency, demanded and refused or, where no such demand is made, when the agency terminates.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>3<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part I—Suits Relating to Accounts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">By a principal against his agent for movable property received by the latter and not accounted for.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the account is, during the continuance of the agency, demanded and refused or, where no such demand is made, when the agency terminates.</p></div></div></div></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-23.html",
+    "source_order": 23,
+    "article_order": 8,
+    "order": 323,
+    "stem": "section_O11R8",
+    "heading_number": "Order XI",
+    "heading_title": "Discovery and Inspection",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O11R8",
+    "article_title": "Affidavit in answer, filing."
+  },
+  "id": "cpc_section_O11R8",
+  "heading": {
+    "number": "Order XI",
+    "title": "Discovery and Inspection",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O11R8",
+    "title": "Affidavit in answer, filing.",
+    "content": "8Affidavit in answer, filing.\n\nOrder 11, Rule 8\nInterrogatories shall be answered by affidavit to be filed within ten days or within such other time as the Court may allow.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O11R8\" data-report=\"Order 11, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Affidavit in answer, filing.</h3></div><p class=\"prov-cite\">Order 11, Rule 8</p><div class=\"prov-body\"><p>Interrogatories shall be answered by affidavit to be filed within ten days or within such other time as the Court may allow.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Affidavit in answer, filing.</h3></div><p class=\"prov-cite\">Order 11, Rule 8</p><div class=\"prov-body\"><p>Interrogatories shall be answered by affidavit to be filed within ten days or within such other time as the Court may allow.</p></div>"
+  }
+}

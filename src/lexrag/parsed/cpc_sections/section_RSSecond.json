@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-72.html",
+    "source_order": 72,
+    "article_order": 1,
+    "order": 905,
+    "stem": "section_RSSecond",
+    "heading_number": "End matter",
+    "heading_title": "Repealed Schedules and the Annexure",
+    "heading_range": null,
+    "heading_source": "group-head",
+    "article_number": "RSSecond",
+    "article_title": "Second Schedule (repealed)"
+  },
+  "id": "cpc_section_RSSecond",
+  "heading": {
+    "number": "End matter",
+    "title": "Repealed Schedules and the Annexure",
+    "range": null
+  },
+  "article": {
+    "number": "RSSecond",
+    "title": "Second Schedule (repealed)",
+    "content": "Second Schedule (repealed)\n\nSecond Schedule (repealed)\n[Arbitration.] Rep. by the Arbitration Act, 1940 (10 of 1940), s. 49 (1) and III Sch.\n\n",
+    "html": "<article class=\"provision\" data-n=\"RSSecond\" data-report=\"Second Schedule (repealed) · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\"></span>Second Schedule (repealed)</h3></div><p class=\"prov-cite\">Second Schedule (repealed)</p><div class=\"prov-body\"><p>[Arbitration.] Rep. by the Arbitration Act, 1940 (10 of 1940), s. 49 (1) and III Sch.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\"></span>Second Schedule (repealed)</h3></div><p class=\"prov-cite\">Second Schedule (repealed)</p><div class=\"prov-body\"><p>[Arbitration.] Rep. by the Arbitration Act, 1940 (10 of 1940), s. 49 (1) and III Sch.</p></div>"
+  }
+}

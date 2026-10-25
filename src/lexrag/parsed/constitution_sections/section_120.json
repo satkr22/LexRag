@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 69,
+    "order": 132,
+    "stem": "section_120",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "120",
+    "article_title": "Language to be used in Parliament"
+  },
+  "id": "constitution_section_120",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "120",
+    "title": "Language to be used in Parliament",
+    "content": "\n\n120Language to be used in Parliament\n\n\n\nArticle 120 · Part V · Procedure Generally\n\n\n(1)Notwithstanding anything in Part XVII, but subject to the provisions of\n                article 348, business in Parliament shall be transacted in Hindi or in English:\n\nProvisoProvided that the Chairman of the Council of States or\n                Speaker of the House of the People, or person acting as such, as the case may be, may permit any member\n                who cannot adequately express himself in Hindi or in English to address the House in his mother-tongue.\n              \n\n(2)Unless Parliament by law otherwise provides, this article shall, after the\n                expiration of a period of fifteen years from the commencement of this Constitution, have effect as if\n                the words “or in English” were omitted therefrom.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"120\" data-report=\"Article 120 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">120</span>Language to be used in Parliament</h3>\n</div>\n<p class=\"prov-cite\">Article 120 · Part V · Procedure Generally</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>Notwithstanding anything in Part XVII, but subject to the provisions of\n                article 348, business in Parliament shall be transacted in Hindi or in English:</p>\n<p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the Chairman of the Council of States or\n                Speaker of the House of the People, or person acting as such, as the case may be, may permit any member\n                who cannot adequately express himself in Hindi or in English to address the House in his mother-tongue.\n              </p>\n<p><span class=\"lbl\">(2)</span>Unless Parliament by law otherwise provides, this article shall, after the\n                expiration of a period of fifteen years from the commencement of this Constitution, have effect as if\n                the words “or in English” were omitted therefrom.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">120</span>Language to be used in Parliament</h3>\n</div>\n<p class=\"prov-cite\">Article 120 · Part V · Procedure Generally</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>Notwithstanding anything in Part XVII, but subject to the provisions of\n                article 348, business in Parliament shall be transacted in Hindi or in English:</p>\n<p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the Chairman of the Council of States or\n                Speaker of the House of the People, or person acting as such, as the case may be, may permit any member\n                who cannot adequately express himself in Hindi or in English to address the House in his mother-tongue.\n              </p>\n<p><span class=\"lbl\">(2)</span>Unless Parliament by law otherwise provides, this article shall, after the\n                expiration of a period of fifteen years from the commencement of this Constitution, have effect as if\n                the words “or in English” were omitted therefrom.</p>\n</div>\n"
+  }
+}

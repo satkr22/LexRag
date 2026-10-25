@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "domestic-violence",
+    "document_title": null,
+    "source_file": "domestic-violence_sections/section-36.html",
+    "source_order": 36,
+    "article_order": 1,
+    "order": 36,
+    "stem": "section_36",
+    "heading_number": "Chapter V",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 30–37",
+    "heading_source": "manifest",
+    "article_number": "36",
+    "article_title": "Act not in derogation of any other law."
+  },
+  "id": "domestic-violence_section_36",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Miscellaneous",
+    "range": "ss. 30–37"
+  },
+  "article": {
+    "number": "36",
+    "title": "Act not in derogation of any other law.",
+    "content": "36Act not in derogation of any other law.\n\nSection 36  ·  Chapter V  ·  page 11 of the Act\nThe provisions of this Act shall be in addition to, and not in derogation of the provisions of any other law, for the time being in force.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Act not in derogation of any other law.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter V  ·  page 11 of the Act</p><div class=\"prov-body\"><p>The provisions of this Act shall be in addition to, and not in derogation of the provisions of any other law, for the time being in force.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Act not in derogation of any other law.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter V  ·  page 11 of the Act</p><div class=\"prov-body\"><p>The provisions of this Act shall be in addition to, and not in derogation of the provisions of any other law, for the time being in force.</p></div>"
+  }
+}

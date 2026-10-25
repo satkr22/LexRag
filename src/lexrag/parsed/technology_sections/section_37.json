@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "technology",
+    "document_title": null,
+    "source_file": "technology_sections/section-37.html",
+    "source_order": 44,
+    "article_order": 1,
+    "order": 44,
+    "stem": "section_37",
+    "heading_number": "Chapter VII",
+    "heading_title": "Electronic Signature Certificates2",
+    "heading_range": "ss. 35–39",
+    "heading_source": "manifest",
+    "article_number": "37",
+    "article_title": "Suspension of Digital Signature Certificate."
+  },
+  "id": "technology_section_37",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Electronic Signature Certificates2",
+    "range": "ss. 35–39"
+  },
+  "article": {
+    "number": "37",
+    "title": "Suspension of Digital Signature Certificate.",
+    "content": "37Suspension of Digital Signature Certificate.\n\nSection 37  ·  Chapter VII  ·  page 17 of the Act\n(1) Subject to the provisions of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature Certificate,–\n(a) on receipt of a request to that effect from–\n(i) the subscriber listed in the Digital Signature Certificate; or\n(ii) any person duly authorised to act on behalf of that subscriber;\n(b) if it is of opinion that the Digital Signature Certificate should be suspended in public interest.\n(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen days unless the subscriber has been given an opportunity of being heard in the matter.\n(3) On suspension of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Suspension of Digital Signature Certificate.</h3></div><p class=\"prov-cite\">Section 37  ·  Chapter VII  ·  page 17 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature Certificate,–</p><p class=\"lvl\">(a) on receipt of a request to that effect from–</p><p class=\"lvl\">(i) the subscriber listed in the Digital Signature Certificate; or</p><p class=\"lvl\">(ii) any person duly authorised to act on behalf of that subscriber;</p><p class=\"lvl\">(b) if it is of opinion that the Digital Signature Certificate should be suspended in public interest.</p><p class=\"lvl\">(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen days unless the subscriber has been given an opportunity of being heard in the matter.</p><p class=\"lvl\">(3) On suspension of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Suspension of Digital Signature Certificate.</h3></div><p class=\"prov-cite\">Section 37  ·  Chapter VII  ·  page 17 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature Certificate,–</p><p class=\"lvl\">(a) on receipt of a request to that effect from–</p><p class=\"lvl\">(i) the subscriber listed in the Digital Signature Certificate; or</p><p class=\"lvl\">(ii) any person duly authorised to act on behalf of that subscriber;</p><p class=\"lvl\">(b) if it is of opinion that the Digital Signature Certificate should be suspended in public interest.</p><p class=\"lvl\">(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen days unless the subscriber has been given an opportunity of being heard in the matter.</p><p class=\"lvl\">(3) On suspension of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber.</p></div>"
+  }
+}

@@ -1,0 +1,1778 @@
+{
+  "act": "insolvency",
+  "source_directory": "src/lexrag/scrapped/insolvency_sections",
+  "output_directory": "src/lexrag/parsed/insolvency_sections",
+  "count": 295,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Application.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Definitions.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Application of this Part.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Definitions.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Persons who may initiate corporate insolvency resolution process.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Initiation of corporate insolvency resolution process by financial creditor.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Insolvency resolution by operational creditor.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Application for initiation of corporate insolvency resolution process by operational creditor.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Initiation of corporate insolvency resolution process by corporate applicant.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "10A",
+      "article_title": "Suspension of initiation of corporate insolvency resolution process.",
+      "file": "section_10A.json"
+    },
+    {
+      "order": 12,
+      "article_number": "11",
+      "article_title": "Persons not entitled to make application.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 13,
+      "article_number": "11A",
+      "article_title": "Disposal of applications under section 54C and under section 7 or section 9 or section 10.",
+      "file": "section_11A.json"
+    },
+    {
+      "order": 14,
+      "article_number": "12",
+      "article_title": "Time-limit for completion of insolvency resolution process.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 15,
+      "article_number": "12A",
+      "article_title": "Withdrawal of application admitted under section 7, 9 or 10.",
+      "file": "section_12A.json"
+    },
+    {
+      "order": 16,
+      "article_number": "13",
+      "article_title": "Declaration of moratorium and public announcement.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 17,
+      "article_number": "14",
+      "article_title": "Moratorium.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 18,
+      "article_number": "15",
+      "article_title": "Public announcement of corporate insolvency resolution process.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 19,
+      "article_number": "16",
+      "article_title": "Appointment and tenure of interim resolution professional.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 20,
+      "article_number": "17",
+      "article_title": "Management of affairs of corporate debtor by interim resolution professional.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 21,
+      "article_number": "18",
+      "article_title": "Duties of interim resolution professional.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 22,
+      "article_number": "19",
+      "article_title": "Persons to extend cooperation to interim resolution professional.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 23,
+      "article_number": "20",
+      "article_title": "Management of operations of corporate debtor as going concern.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 24,
+      "article_number": "21",
+      "article_title": "Committee of creditors.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 25,
+      "article_number": "22",
+      "article_title": "Appointment of resolution professional.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 26,
+      "article_number": "23",
+      "article_title": "Resolution professional to conduct corporate insolvency resolution process.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 27,
+      "article_number": "24",
+      "article_title": "Meeting of committee of creditors.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 28,
+      "article_number": "25",
+      "article_title": "Duties of resolution professional.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 29,
+      "article_number": "25A",
+      "article_title": "Rights and duties of authorised representative of financial creditors.",
+      "file": "section_25A.json"
+    },
+    {
+      "order": 30,
+      "article_number": "26",
+      "article_title": "Application in respect of certain transactions or trading not to affect processes.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 31,
+      "article_number": "27",
+      "article_title": "Replacement of resolution professional by committee of creditors.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 32,
+      "article_number": "28",
+      "article_title": "Approval of committee of creditors for certain actions.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 33,
+      "article_number": "28A",
+      "article_title": "Transfer of assets of guarantor of corporate debtor during process.",
+      "file": "section_28A.json"
+    },
+    {
+      "order": 34,
+      "article_number": "29",
+      "article_title": "Preparation of information memorandum.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 35,
+      "article_number": "29A",
+      "article_title": "Person not eligible to be resolution applicant.",
+      "file": "section_29A.json"
+    },
+    {
+      "order": 36,
+      "article_number": "30",
+      "article_title": "Submission of resolution plan.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 37,
+      "article_number": "31",
+      "article_title": "Approval of resolution plan.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 38,
+      "article_number": "32",
+      "article_title": "Appeal.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 39,
+      "article_number": "32A",
+      "article_title": "Liability for prior offences, etc.",
+      "file": "section_32A.json"
+    },
+    {
+      "order": 40,
+      "article_number": "33",
+      "article_title": "Initiation of liquidation.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 41,
+      "article_number": "34",
+      "article_title": "Appointment of liquidator and fee to be paid.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 42,
+      "article_number": "34A",
+      "article_title": "Replacement of liquidator by committee of creditors.",
+      "file": "section_34A.json"
+    },
+    {
+      "order": 43,
+      "article_number": "35",
+      "article_title": "Powers and duties of liquidator.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 44,
+      "article_number": "36",
+      "article_title": "Liquidation estate.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 45,
+      "article_number": "37",
+      "article_title": "Powers of liquidator to access information.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 46,
+      "article_number": "38",
+      "article_title": "Consolidation of claims.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 47,
+      "article_number": "39",
+      "article_title": "Verification of claims.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 48,
+      "article_number": "40",
+      "article_title": "Admission or rejection of claims.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 49,
+      "article_number": "41",
+      "article_title": "Determination of valuation of claims.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 50,
+      "article_number": "42",
+      "article_title": "Appeal against the decision of liquidator.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 51,
+      "article_number": "43",
+      "article_title": "Preferential transactions and relevant time.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 52,
+      "article_number": "44",
+      "article_title": "Orders in case of preferential transactions.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 53,
+      "article_number": "45",
+      "article_title": "Avoidance of undervalued transactions.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 54,
+      "article_number": "46",
+      "article_title": "Relevant period for undervalued transactions.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 55,
+      "article_number": "47",
+      "article_title": "Application by creditors, member or partner in case of certain transactions or trading.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 56,
+      "article_number": "48",
+      "article_title": "Order in cases of undervalued transactions.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 57,
+      "article_number": "49",
+      "article_title": "Transactions defrauding creditors.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 58,
+      "article_number": "50",
+      "article_title": "Extortionate credit transactions.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 59,
+      "article_number": "51",
+      "article_title": "Order of Adjudicating Authority in respect of extortionate credit transactions.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 60,
+      "article_number": "52",
+      "article_title": "Secured creditor in liquidation proceedings.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 61,
+      "article_number": "53",
+      "article_title": "Distribution of assets.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 62,
+      "article_number": "54",
+      "article_title": "Dissolution of corporate debtor.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 63,
+      "article_number": "54A",
+      "article_title": "Corporate debtors eligible for pre-packaged insolvency resolution process.",
+      "file": "section_54A.json"
+    },
+    {
+      "order": 64,
+      "article_number": "54B",
+      "article_title": "Duties of insolvency professional before initiation of pre-packaged insolvency resolution process.",
+      "file": "section_54B.json"
+    },
+    {
+      "order": 65,
+      "article_number": "54C",
+      "article_title": "Application to initiate pre-packaged insolvency resolution process.",
+      "file": "section_54C.json"
+    },
+    {
+      "order": 66,
+      "article_number": "54D",
+      "article_title": "Time-limit for completion of pre-packaged insolvency resolution process.",
+      "file": "section_54D.json"
+    },
+    {
+      "order": 67,
+      "article_number": "54E",
+      "article_title": "Declaration of moratorium and public announcement during pre-packaged insolvency resolution process.",
+      "file": "section_54E.json"
+    },
+    {
+      "order": 68,
+      "article_number": "54F",
+      "article_title": "Duties and powers of resolution professional during pre-packaged insolvency resolution process.",
+      "file": "section_54F.json"
+    },
+    {
+      "order": 69,
+      "article_number": "54G",
+      "article_title": "List of claims and preliminary information memorandum.",
+      "file": "section_54G.json"
+    },
+    {
+      "order": 70,
+      "article_number": "54H",
+      "article_title": "Management of affairs of corporate debtor.",
+      "file": "section_54H.json"
+    },
+    {
+      "order": 71,
+      "article_number": "54-I",
+      "article_title": "Committee of creditors.",
+      "file": "section_54-I.json"
+    },
+    {
+      "order": 72,
+      "article_number": "54J",
+      "article_title": "Vesting management of corporate debtor with resolution professional.",
+      "file": "section_54J.json"
+    },
+    {
+      "order": 73,
+      "article_number": "54K",
+      "article_title": "Consideration and approval of resolution plan.",
+      "file": "section_54K.json"
+    },
+    {
+      "order": 74,
+      "article_number": "54L",
+      "article_title": "Approval of resolution plan.",
+      "file": "section_54L.json"
+    },
+    {
+      "order": 75,
+      "article_number": "54M",
+      "article_title": "Appeal against order under section 54L.",
+      "file": "section_54M.json"
+    },
+    {
+      "order": 76,
+      "article_number": "54N",
+      "article_title": "Termination of pre-packaged insolvency resolution process.",
+      "file": "section_54N.json"
+    },
+    {
+      "order": 77,
+      "article_number": "54-O",
+      "article_title": "Initiation of corporate insolvency resolution process.",
+      "file": "section_54-O.json"
+    },
+    {
+      "order": 78,
+      "article_number": "54P",
+      "article_title": "Application of provisions of Chapters II, III, VI and VII to this Chapter.",
+      "file": "section_54P.json"
+    },
+    {
+      "order": 79,
+      "article_number": "59",
+      "article_title": "Voluntary liquidation of corporate persons.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 80,
+      "article_number": "60",
+      "article_title": "Adjudicating authority for corporate persons.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 81,
+      "article_number": "61",
+      "article_title": "Appeals and Appellate Authority.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 82,
+      "article_number": "62",
+      "article_title": "Appeal to Supreme Court.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 83,
+      "article_number": "63",
+      "article_title": "Civil court not to have jurisdiction.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 84,
+      "article_number": "64",
+      "article_title": "Expeditious disposal of applications.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 85,
+      "article_number": "64A",
+      "article_title": "Penalty for initiating frivolous or vexatious proceedings under Part II.",
+      "file": "section_64A.json"
+    },
+    {
+      "order": 86,
+      "article_number": "65",
+      "article_title": "Fraudulent or malicious initiation of proceedings.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 87,
+      "article_number": "66",
+      "article_title": "Fraudulent or wrongful trading.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 88,
+      "article_number": "67",
+      "article_title": "Proceedings under section 66.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 89,
+      "article_number": "67A",
+      "article_title": "Fraudulent management of corporate debtor during pre-packaged insolvency resolution process.",
+      "file": "section_67A.json"
+    },
+    {
+      "order": 90,
+      "article_number": "68",
+      "article_title": "Punishment for concealment of property.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 91,
+      "article_number": "69",
+      "article_title": "Punishment for transactions defrauding creditors.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 92,
+      "article_number": "70",
+      "article_title": "Punishment for misconduct in course of corporate insolvency resolution process.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 93,
+      "article_number": "71",
+      "article_title": "Punishment for falsification of books of corporate debtor.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 94,
+      "article_number": "72",
+      "article_title": "Punishment for wilful and material omissions from statements relating to affairs of corporate debtor.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 95,
+      "article_number": "73",
+      "article_title": "Punishment for false representations to creditors.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 96,
+      "article_number": "74",
+      "article_title": "Punishment for contravention of moratorium or the resolution plan.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 97,
+      "article_number": "75",
+      "article_title": "Punishment for false information furnished in application.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 98,
+      "article_number": "76",
+      "article_title": "Punishment for non-disclosure of dispute or payment of debt by operational creditor.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 99,
+      "article_number": "77",
+      "article_title": "Punishment for providing false information in application made by corporate debtor.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 100,
+      "article_number": "77A",
+      "article_title": "Punishment for offences related to prepackaged insolvency resolution process.",
+      "file": "section_77A.json"
+    },
+    {
+      "order": 101,
+      "article_number": "78",
+      "article_title": "Application.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 102,
+      "article_number": "79",
+      "article_title": "Definitions.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 103,
+      "article_number": "80",
+      "article_title": "Eligibility for making an application.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 104,
+      "article_number": "81",
+      "article_title": "Application for fresh start order.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 105,
+      "article_number": "82",
+      "article_title": "Appointment of resolution professional.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 106,
+      "article_number": "83",
+      "article_title": "Examination of application by resolution professional.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 107,
+      "article_number": "84",
+      "article_title": "Admission or rejection of application by Adjudicating Authority.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 108,
+      "article_number": "85",
+      "article_title": "Effect of admission of application.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 109,
+      "article_number": "86",
+      "article_title": "Objections by creditor and their examination by resolution professional.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 110,
+      "article_number": "87",
+      "article_title": "Application against decision of resolution professional.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 111,
+      "article_number": "88",
+      "article_title": "General duties of debtor.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 112,
+      "article_number": "89",
+      "article_title": "Replacement of resolution professional.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 113,
+      "article_number": "90",
+      "article_title": "Directions for compliances of restrictions, etc.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 114,
+      "article_number": "91",
+      "article_title": "Revocation of order admitting application.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 115,
+      "article_number": "92",
+      "article_title": "Discharge order.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 116,
+      "article_number": "93",
+      "article_title": "Standard of conduct.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 117,
+      "article_number": "94",
+      "article_title": "Application by debtor to initiate insolvency resolution process.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 118,
+      "article_number": "95",
+      "article_title": "Application by creditor to initiate insolvency resolution process.",
+      "file": "section_95.json"
+    },
+    {
+      "order": 119,
+      "article_number": "96",
+      "article_title": "Interim moratorium.",
+      "file": "section_96.json"
+    },
+    {
+      "order": 120,
+      "article_number": "97",
+      "article_title": "Appointment of resolution professional.",
+      "file": "section_97.json"
+    },
+    {
+      "order": 121,
+      "article_number": "98",
+      "article_title": "Replacement of resolution professional.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 122,
+      "article_number": "99",
+      "article_title": "Submission of report by resolution professional.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 123,
+      "article_number": "100",
+      "article_title": "Admission or rejection of application.",
+      "file": "section_100.json"
+    },
+    {
+      "order": 124,
+      "article_number": "101",
+      "article_title": "Moratorium.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 125,
+      "article_number": "102",
+      "article_title": "Public notice and claims from creditors.",
+      "file": "section_102.json"
+    },
+    {
+      "order": 126,
+      "article_number": "103",
+      "article_title": "Registering of claims by creditors.",
+      "file": "section_103.json"
+    },
+    {
+      "order": 127,
+      "article_number": "104",
+      "article_title": "Preparation of list of creditors.",
+      "file": "section_104.json"
+    },
+    {
+      "order": 128,
+      "article_number": "105",
+      "article_title": "Repayment plan.",
+      "file": "section_105.json"
+    },
+    {
+      "order": 129,
+      "article_number": "106",
+      "article_title": "Report of resolution professional on repayment plan.",
+      "file": "section_106.json"
+    },
+    {
+      "order": 130,
+      "article_number": "107",
+      "article_title": "Summoning of meeting of creditors.",
+      "file": "section_107.json"
+    },
+    {
+      "order": 131,
+      "article_number": "108",
+      "article_title": "Conduct of meeting of creditors.",
+      "file": "section_108.json"
+    },
+    {
+      "order": 132,
+      "article_number": "109",
+      "article_title": "Voting rights in meeting of creditors.",
+      "file": "section_109.json"
+    },
+    {
+      "order": 133,
+      "article_number": "110",
+      "article_title": "Rights of secured creditors in relation to repayment plan.",
+      "file": "section_110.json"
+    },
+    {
+      "order": 134,
+      "article_number": "111",
+      "article_title": "Approval of repayment plan by creditors.",
+      "file": "section_111.json"
+    },
+    {
+      "order": 135,
+      "article_number": "112",
+      "article_title": "Report of meeting of creditors on repayment plan.",
+      "file": "section_112.json"
+    },
+    {
+      "order": 136,
+      "article_number": "113",
+      "article_title": "Notice of decisions taken at meeting of creditors.",
+      "file": "section_113.json"
+    },
+    {
+      "order": 137,
+      "article_number": "114",
+      "article_title": "Order of Adjudicating Authority on repayment plan.",
+      "file": "section_114.json"
+    },
+    {
+      "order": 138,
+      "article_number": "115",
+      "article_title": "Effect of order of Adjudicating Authority on repayment plan.",
+      "file": "section_115.json"
+    },
+    {
+      "order": 139,
+      "article_number": "116",
+      "article_title": "Implementation and supervision of repayment plan.",
+      "file": "section_116.json"
+    },
+    {
+      "order": 140,
+      "article_number": "117",
+      "article_title": "Completion of repayment plan.",
+      "file": "section_117.json"
+    },
+    {
+      "order": 141,
+      "article_number": "118",
+      "article_title": "Repayment plan coming to end prematurely.",
+      "file": "section_118.json"
+    },
+    {
+      "order": 142,
+      "article_number": "119",
+      "article_title": "Discharge order.",
+      "file": "section_119.json"
+    },
+    {
+      "order": 143,
+      "article_number": "120",
+      "article_title": "Standard of conduct.",
+      "file": "section_120.json"
+    },
+    {
+      "order": 144,
+      "article_number": "121",
+      "article_title": "Application for bankruptcy.",
+      "file": "section_121.json"
+    },
+    {
+      "order": 145,
+      "article_number": "122",
+      "article_title": "Application by debtor.",
+      "file": "section_122.json"
+    },
+    {
+      "order": 146,
+      "article_number": "123",
+      "article_title": "Application by creditor.",
+      "file": "section_123.json"
+    },
+    {
+      "order": 147,
+      "article_number": "124",
+      "article_title": "Effect of application.",
+      "file": "section_124.json"
+    },
+    {
+      "order": 148,
+      "article_number": "125",
+      "article_title": "Appointment of insolvency professional as bankruptcy trustee.",
+      "file": "section_125.json"
+    },
+    {
+      "order": 149,
+      "article_number": "126",
+      "article_title": "Bankruptcy order.",
+      "file": "section_126.json"
+    },
+    {
+      "order": 150,
+      "article_number": "127",
+      "article_title": "Validity of bankruptcy order.",
+      "file": "section_127.json"
+    },
+    {
+      "order": 151,
+      "article_number": "128",
+      "article_title": "Effect of bankruptcy order.",
+      "file": "section_128.json"
+    },
+    {
+      "order": 152,
+      "article_number": "129",
+      "article_title": "Statement of financial position.",
+      "file": "section_129.json"
+    },
+    {
+      "order": 153,
+      "article_number": "130",
+      "article_title": "Public notice inviting claims from creditors.",
+      "file": "section_130.json"
+    },
+    {
+      "order": 154,
+      "article_number": "131",
+      "article_title": "Registration of claims.",
+      "file": "section_131.json"
+    },
+    {
+      "order": 155,
+      "article_number": "132",
+      "article_title": "Preparation of list of creditors.",
+      "file": "section_132.json"
+    },
+    {
+      "order": 156,
+      "article_number": "133",
+      "article_title": "Summoning of meeting of creditors.",
+      "file": "section_133.json"
+    },
+    {
+      "order": 157,
+      "article_number": "134",
+      "article_title": "Conduct of meeting of creditors.",
+      "file": "section_134.json"
+    },
+    {
+      "order": 158,
+      "article_number": "135",
+      "article_title": "Voting rights of creditors.",
+      "file": "section_135.json"
+    },
+    {
+      "order": 159,
+      "article_number": "136",
+      "article_title": "Administration and distribution of estate of bankrupt.",
+      "file": "section_136.json"
+    },
+    {
+      "order": 160,
+      "article_number": "137",
+      "article_title": "Completion of administration.",
+      "file": "section_137.json"
+    },
+    {
+      "order": 161,
+      "article_number": "138",
+      "article_title": "Discharge order.",
+      "file": "section_138.json"
+    },
+    {
+      "order": 162,
+      "article_number": "139",
+      "article_title": "Effect of discharge.",
+      "file": "section_139.json"
+    },
+    {
+      "order": 163,
+      "article_number": "140",
+      "article_title": "Disqualification of bankrupt.",
+      "file": "section_140.json"
+    },
+    {
+      "order": 164,
+      "article_number": "141",
+      "article_title": "Restrictions on bankrupt.",
+      "file": "section_141.json"
+    },
+    {
+      "order": 165,
+      "article_number": "142",
+      "article_title": "Modification or recall of bankruptcy order.",
+      "file": "section_142.json"
+    },
+    {
+      "order": 166,
+      "article_number": "143",
+      "article_title": "Standard of conduct.",
+      "file": "section_143.json"
+    },
+    {
+      "order": 167,
+      "article_number": "144",
+      "article_title": "Fees of bankruptcy trustee.",
+      "file": "section_144.json"
+    },
+    {
+      "order": 168,
+      "article_number": "145",
+      "article_title": "Replacement of bankruptcy trustee..",
+      "file": "section_145.json"
+    },
+    {
+      "order": 169,
+      "article_number": "146",
+      "article_title": "Resignation by bankruptcy trustee.",
+      "file": "section_146.json"
+    },
+    {
+      "order": 170,
+      "article_number": "147",
+      "article_title": "Vacancy in office of bankruptcy trustee.",
+      "file": "section_147.json"
+    },
+    {
+      "order": 171,
+      "article_number": "148",
+      "article_title": "Release of bankruptcy trustee.",
+      "file": "section_148.json"
+    },
+    {
+      "order": 172,
+      "article_number": "149",
+      "article_title": "Functions of bankruptcy trustee.",
+      "file": "section_149.json"
+    },
+    {
+      "order": 173,
+      "article_number": "150",
+      "article_title": "Duties of bankrupt towards bankruptcy trustee.",
+      "file": "section_150.json"
+    },
+    {
+      "order": 174,
+      "article_number": "151",
+      "article_title": "Rights of bankruptcy trustee.",
+      "file": "section_151.json"
+    },
+    {
+      "order": 175,
+      "article_number": "152",
+      "article_title": "General powers of bankruptcy trustee.",
+      "file": "section_152.json"
+    },
+    {
+      "order": 176,
+      "article_number": "153",
+      "article_title": "Approval of creditors for certain acts.",
+      "file": "section_153.json"
+    },
+    {
+      "order": 177,
+      "article_number": "154",
+      "article_title": "Vesting of estate of bankrupt in bankruptcy trustee.",
+      "file": "section_154.json"
+    },
+    {
+      "order": 178,
+      "article_number": "155",
+      "article_title": "Estate of bankrupt.",
+      "file": "section_155.json"
+    },
+    {
+      "order": 179,
+      "article_number": "156",
+      "article_title": "Delivery of property and documents to bankruptcy trustee.",
+      "file": "section_156.json"
+    },
+    {
+      "order": 180,
+      "article_number": "157",
+      "article_title": "Acquisition of control by bankruptcy trustee.",
+      "file": "section_157.json"
+    },
+    {
+      "order": 181,
+      "article_number": "158",
+      "article_title": "Restrictions on disposition of property.",
+      "file": "section_158.json"
+    },
+    {
+      "order": 182,
+      "article_number": "159",
+      "article_title": "After-acquired property of bankrupt.",
+      "file": "section_159.json"
+    },
+    {
+      "order": 183,
+      "article_number": "160",
+      "article_title": "Onerous property of bankrupt.",
+      "file": "section_160.json"
+    },
+    {
+      "order": 184,
+      "article_number": "161",
+      "article_title": "Notice to disclaim onerous property.",
+      "file": "section_161.json"
+    },
+    {
+      "order": 185,
+      "article_number": "162",
+      "article_title": "Disclaimer of leaseholds.",
+      "file": "section_162.json"
+    },
+    {
+      "order": 186,
+      "article_number": "163",
+      "article_title": "Challenge against disclaimed property.",
+      "file": "section_163.json"
+    },
+    {
+      "order": 187,
+      "article_number": "164",
+      "article_title": "Undervalued transactions.",
+      "file": "section_164.json"
+    },
+    {
+      "order": 188,
+      "article_number": "164A",
+      "article_title": "Transactions defrauding creditors.",
+      "file": "section_164A.json"
+    },
+    {
+      "order": 189,
+      "article_number": "165",
+      "article_title": "Preference transactions.",
+      "file": "section_165.json"
+    },
+    {
+      "order": 190,
+      "article_number": "166",
+      "article_title": "Effect of order.",
+      "file": "section_166.json"
+    },
+    {
+      "order": 191,
+      "article_number": "167",
+      "article_title": "Extortionate credit transactions.",
+      "file": "section_167.json"
+    },
+    {
+      "order": 192,
+      "article_number": "168",
+      "article_title": "Obligation under contracts.",
+      "file": "section_168.json"
+    },
+    {
+      "order": 193,
+      "article_number": "169",
+      "article_title": "Continuance of proceedings on death of bankrupt.",
+      "file": "section_169.json"
+    },
+    {
+      "order": 194,
+      "article_number": "170",
+      "article_title": "Administration of estate of deceased bankrupt.",
+      "file": "section_170.json"
+    },
+    {
+      "order": 195,
+      "article_number": "171",
+      "article_title": "Proof of debt.",
+      "file": "section_171.json"
+    },
+    {
+      "order": 196,
+      "article_number": "172",
+      "article_title": "Proof of debt by secured creditors.",
+      "file": "section_172.json"
+    },
+    {
+      "order": 197,
+      "article_number": "173",
+      "article_title": "Mutual credit and set-off.",
+      "file": "section_173.json"
+    },
+    {
+      "order": 198,
+      "article_number": "174",
+      "article_title": "Distribution of interim dividend.",
+      "file": "section_174.json"
+    },
+    {
+      "order": 199,
+      "article_number": "175",
+      "article_title": "Distribution of property.",
+      "file": "section_175.json"
+    },
+    {
+      "order": 200,
+      "article_number": "176",
+      "article_title": "Final dividend.",
+      "file": "section_176.json"
+    },
+    {
+      "order": 201,
+      "article_number": "177",
+      "article_title": "Claims of creditors.",
+      "file": "section_177.json"
+    },
+    {
+      "order": 202,
+      "article_number": "178",
+      "article_title": "Priority of payment of debts.",
+      "file": "section_178.json"
+    },
+    {
+      "order": 203,
+      "article_number": "179",
+      "article_title": "Adjudicating authority for individuals and partnership firms.",
+      "file": "section_179.json"
+    },
+    {
+      "order": 204,
+      "article_number": "180",
+      "article_title": "Civil court not to have jurisdiction.",
+      "file": "section_180.json"
+    },
+    {
+      "order": 205,
+      "article_number": "181",
+      "article_title": "Appeal to Debt Recovery Appellate Tribunal.",
+      "file": "section_181.json"
+    },
+    {
+      "order": 206,
+      "article_number": "182",
+      "article_title": "Appeal to Supreme Court.",
+      "file": "section_182.json"
+    },
+    {
+      "order": 207,
+      "article_number": "183",
+      "article_title": "Expeditious disposal of applications.",
+      "file": "section_183.json"
+    },
+    {
+      "order": 208,
+      "article_number": "183A",
+      "article_title": "Penalty for initiating frivolous or vexatious proceedings under Part III.",
+      "file": "section_183A.json"
+    },
+    {
+      "order": 209,
+      "article_number": "184",
+      "article_title": "Punishment for false information, etc., by creditor in insolvency resolution process.",
+      "file": "section_184.json"
+    },
+    {
+      "order": 210,
+      "article_number": "185",
+      "article_title": "Punishment for contravention of provisions.",
+      "file": "section_185.json"
+    },
+    {
+      "order": 211,
+      "article_number": "186",
+      "article_title": "Punishment for false information, concealment, etc., by bankrupt.",
+      "file": "section_186.json"
+    },
+    {
+      "order": 212,
+      "article_number": "187",
+      "article_title": "Punishment for certain actions.",
+      "file": "section_187.json"
+    },
+    {
+      "order": 213,
+      "article_number": "188",
+      "article_title": "Establishment and incorporation of Board.",
+      "file": "section_188.json"
+    },
+    {
+      "order": 214,
+      "article_number": "189",
+      "article_title": "Constitution of Board.",
+      "file": "section_189.json"
+    },
+    {
+      "order": 215,
+      "article_number": "190",
+      "article_title": "Removal of member from office.",
+      "file": "section_190.json"
+    },
+    {
+      "order": 216,
+      "article_number": "191",
+      "article_title": "Powers of Chairperson.",
+      "file": "section_191.json"
+    },
+    {
+      "order": 217,
+      "article_number": "192",
+      "article_title": "Meetings of Board.",
+      "file": "section_192.json"
+    },
+    {
+      "order": 218,
+      "article_number": "193",
+      "article_title": "Member not to participate in meetings in certain cases.",
+      "file": "section_193.json"
+    },
+    {
+      "order": 219,
+      "article_number": "194",
+      "article_title": "Vacancies, etc., not to invalidate proceedings of Board, Officers and employees of Board.",
+      "file": "section_194.json"
+    },
+    {
+      "order": 220,
+      "article_number": "195",
+      "article_title": "Power to designate financial sector regulator.",
+      "file": "section_195.json"
+    },
+    {
+      "order": 221,
+      "article_number": "196",
+      "article_title": "Powers and functions of Board.",
+      "file": "section_196.json"
+    },
+    {
+      "order": 222,
+      "article_number": "197",
+      "article_title": "Constitution of advisory committee, executive committee or other committee.",
+      "file": "section_197.json"
+    },
+    {
+      "order": 223,
+      "article_number": "198",
+      "article_title": "Condonation of delay.",
+      "file": "section_198.json"
+    },
+    {
+      "order": 224,
+      "article_number": "199",
+      "article_title": "No person to function as insolvency professional agency without valid certificate of registration.",
+      "file": "section_199.json"
+    },
+    {
+      "order": 225,
+      "article_number": "200",
+      "article_title": "Principles governing registration of insolvency professional agency.",
+      "file": "section_200.json"
+    },
+    {
+      "order": 226,
+      "article_number": "201",
+      "article_title": "Registration of insolvency professional agency.",
+      "file": "section_201.json"
+    },
+    {
+      "order": 227,
+      "article_number": "202",
+      "article_title": "Appeal to National Company Law Appellate Tribunal.",
+      "file": "section_202.json"
+    },
+    {
+      "order": 228,
+      "article_number": "203",
+      "article_title": "Governing Board of insolvency professional agency.",
+      "file": "section_203.json"
+    },
+    {
+      "order": 229,
+      "article_number": "204",
+      "article_title": "Functions of insolvency professional agencies.",
+      "file": "section_204.json"
+    },
+    {
+      "order": 230,
+      "article_number": "205",
+      "article_title": "Insolvency professional agencies to make bye-laws.",
+      "file": "section_205.json"
+    },
+    {
+      "order": 231,
+      "article_number": "206",
+      "article_title": "Enrolled and registered persons to act as insolvency professionals.",
+      "file": "section_206.json"
+    },
+    {
+      "order": 232,
+      "article_number": "207",
+      "article_title": "Registration of insolvency professionals.",
+      "file": "section_207.json"
+    },
+    {
+      "order": 233,
+      "article_number": "208",
+      "article_title": "Functions and obligations of insolvency professionals.",
+      "file": "section_208.json"
+    },
+    {
+      "order": 234,
+      "article_number": "209",
+      "article_title": "No person to function as information utility without certificate of registration.",
+      "file": "section_209.json"
+    },
+    {
+      "order": 235,
+      "article_number": "210",
+      "article_title": "Registration of information utility.",
+      "file": "section_210.json"
+    },
+    {
+      "order": 236,
+      "article_number": "211",
+      "article_title": "Appeal to National Company Law Appellate Tribunal.",
+      "file": "section_211.json"
+    },
+    {
+      "order": 237,
+      "article_number": "212",
+      "article_title": "Governing Board of information utility.",
+      "file": "section_212.json"
+    },
+    {
+      "order": 238,
+      "article_number": "213",
+      "article_title": "Core services, etc., of information utilities.",
+      "file": "section_213.json"
+    },
+    {
+      "order": 239,
+      "article_number": "214",
+      "article_title": "Obligation of information utility.",
+      "file": "section_214.json"
+    },
+    {
+      "order": 240,
+      "article_number": "215",
+      "article_title": "Submission and authentication of financial information to information utilities.",
+      "file": "section_215.json"
+    },
+    {
+      "order": 241,
+      "article_number": "216",
+      "article_title": "Rights and obligations of persons submitting financial information.",
+      "file": "section_216.json"
+    },
+    {
+      "order": 242,
+      "article_number": "217",
+      "article_title": "Complaints against service providers.",
+      "file": "section_217.json"
+    },
+    {
+      "order": 243,
+      "article_number": "218",
+      "article_title": "Investigation of service providers.",
+      "file": "section_218.json"
+    },
+    {
+      "order": 244,
+      "article_number": "219",
+      "article_title": "Show cause notice to service provider.",
+      "file": "section_219.json"
+    },
+    {
+      "order": 245,
+      "article_number": "220",
+      "article_title": "Appointment of disciplinary committee.",
+      "file": "section_220.json"
+    },
+    {
+      "order": 246,
+      "article_number": "221",
+      "article_title": "Grants by Central Government.",
+      "file": "section_221.json"
+    },
+    {
+      "order": 247,
+      "article_number": "222",
+      "article_title": "Board’s Fund.",
+      "file": "section_222.json"
+    },
+    {
+      "order": 248,
+      "article_number": "223",
+      "article_title": "Accounts and audit.",
+      "file": "section_223.json"
+    },
+    {
+      "order": 249,
+      "article_number": "224",
+      "article_title": "Insolvency and Bankruptcy Fund.",
+      "file": "section_224.json"
+    },
+    {
+      "order": 250,
+      "article_number": "225",
+      "article_title": "Power of Central Government to issue directions.",
+      "file": "section_225.json"
+    },
+    {
+      "order": 251,
+      "article_number": "226",
+      "article_title": "Power of Central Government to supersede Board.",
+      "file": "section_226.json"
+    },
+    {
+      "order": 252,
+      "article_number": "227",
+      "article_title": "Power of Central Government to notify financial service providers, etc.",
+      "file": "section_227.json"
+    },
+    {
+      "order": 253,
+      "article_number": "228",
+      "article_title": "Budget.",
+      "file": "section_228.json"
+    },
+    {
+      "order": 254,
+      "article_number": "229",
+      "article_title": "Annual report.",
+      "file": "section_229.json"
+    },
+    {
+      "order": 255,
+      "article_number": "230",
+      "article_title": "Delegation.",
+      "file": "section_230.json"
+    },
+    {
+      "order": 256,
+      "article_number": "231",
+      "article_title": "Bar of jurisdiction.",
+      "file": "section_231.json"
+    },
+    {
+      "order": 257,
+      "article_number": "232",
+      "article_title": "Members, officers and employees of Board to the public servants.",
+      "file": "section_232.json"
+    },
+    {
+      "order": 258,
+      "article_number": "233",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_233.json"
+    },
+    {
+      "order": 259,
+      "article_number": "234",
+      "article_title": "Agreements with foreign countries.",
+      "file": "section_234.json"
+    },
+    {
+      "order": 260,
+      "article_number": "235",
+      "article_title": "Letter of request to a country outside India in certain cases.",
+      "file": "section_235.json"
+    },
+    {
+      "order": 261,
+      "article_number": "235A",
+      "article_title": "Power of Adjudicating Authority to impose penalties.",
+      "file": "section_235A.json"
+    },
+    {
+      "order": 262,
+      "article_number": "236",
+      "article_title": "Trial of offences by Special Court.",
+      "file": "section_236.json"
+    },
+    {
+      "order": 263,
+      "article_number": "237",
+      "article_title": "Appeal and revision.",
+      "file": "section_237.json"
+    },
+    {
+      "order": 264,
+      "article_number": "238",
+      "article_title": "Provisions of this Code to override other laws.",
+      "file": "section_238.json"
+    },
+    {
+      "order": 265,
+      "article_number": "238A",
+      "article_title": "Limitation.",
+      "file": "section_238A.json"
+    },
+    {
+      "order": 266,
+      "article_number": "239",
+      "article_title": "Power to make rules.",
+      "file": "section_239.json"
+    },
+    {
+      "order": 267,
+      "article_number": "240",
+      "article_title": "Power to make regulations.",
+      "file": "section_240.json"
+    },
+    {
+      "order": 268,
+      "article_number": "240A",
+      "article_title": "Application of this Code to micro, small and medium enterprises.",
+      "file": "section_240A.json"
+    },
+    {
+      "order": 269,
+      "article_number": "241",
+      "article_title": "Rules and regulations to be laid before Parliament.",
+      "file": "section_241.json"
+    },
+    {
+      "order": 270,
+      "article_number": "242",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_242.json"
+    },
+    {
+      "order": 271,
+      "article_number": "243",
+      "article_title": "Repeal of certain enactments and savings.",
+      "file": "section_243.json"
+    },
+    {
+      "order": 272,
+      "article_number": "244",
+      "article_title": "Transitional provisions.",
+      "file": "section_244.json"
+    },
+    {
+      "order": 273,
+      "article_number": "245",
+      "article_title": "Amendments of Act 9 of 1932.",
+      "file": "section_245.json"
+    },
+    {
+      "order": 274,
+      "article_number": "246",
+      "article_title": "Amendments of Act 1 of 1944.",
+      "file": "section_246.json"
+    },
+    {
+      "order": 275,
+      "article_number": "247",
+      "article_title": "Amendments of Act 43 of 1961.",
+      "file": "section_247.json"
+    },
+    {
+      "order": 276,
+      "article_number": "248",
+      "article_title": "Amendments of Act 52 of 1962.",
+      "file": "section_248.json"
+    },
+    {
+      "order": 277,
+      "article_number": "249",
+      "article_title": "Amendments of Act 51 of 1993.",
+      "file": "section_249.json"
+    },
+    {
+      "order": 278,
+      "article_number": "250",
+      "article_title": "Amendments of Act 32 of 1994.",
+      "file": "section_250.json"
+    },
+    {
+      "order": 279,
+      "article_number": "251",
+      "article_title": "Amendments of Act 54 of 2002.",
+      "file": "section_251.json"
+    },
+    {
+      "order": 280,
+      "article_number": "252",
+      "article_title": "Amendments of Act 1 of 2004.",
+      "file": "section_252.json"
+    },
+    {
+      "order": 281,
+      "article_number": "253",
+      "article_title": "Amendments of Act 51 of 2007.",
+      "file": "section_253.json"
+    },
+    {
+      "order": 282,
+      "article_number": "254",
+      "article_title": "Amendments of Act 6 of 2009.",
+      "file": "section_254.json"
+    },
+    {
+      "order": 283,
+      "article_number": "255",
+      "article_title": "Amendments of Act 18 of 2013.",
+      "file": "section_255.json"
+    },
+    {
+      "order": 284,
+      "article_number": "First",
+      "article_title": "THE FIRST SCHEDULE",
+      "file": "section_First.json"
+    },
+    {
+      "order": 285,
+      "article_number": "Second",
+      "article_title": "THE SECOND SCHEDULE",
+      "file": "section_Second.json"
+    },
+    {
+      "order": 286,
+      "article_number": "Third",
+      "article_title": "THE THIRD SCHEDULE",
+      "file": "section_Third.json"
+    },
+    {
+      "order": 287,
+      "article_number": "Fourth",
+      "article_title": "THE FOURTH SCHEDULE",
+      "file": "section_Fourth.json"
+    },
+    {
+      "order": 288,
+      "article_number": "Fifth",
+      "article_title": "THE FIFTH SCHEDULE",
+      "file": "section_Fifth.json"
+    },
+    {
+      "order": 289,
+      "article_number": "Sixth",
+      "article_title": "THE SIXTH SCHEDULE",
+      "file": "section_Sixth.json"
+    },
+    {
+      "order": 290,
+      "article_number": "Seventh",
+      "article_title": "THE SEVENTH SCHEDULE",
+      "file": "section_Seventh.json"
+    },
+    {
+      "order": 291,
+      "article_number": "Eighth",
+      "article_title": "THE EIGHTH SCHEDULE",
+      "file": "section_Eighth.json"
+    },
+    {
+      "order": 292,
+      "article_number": "Ninth",
+      "article_title": "THE NINTH SCHEDULE",
+      "file": "section_Ninth.json"
+    },
+    {
+      "order": 293,
+      "article_number": "Tenth",
+      "article_title": "THE TENTH SCHEDULE",
+      "file": "section_Tenth.json"
+    },
+    {
+      "order": 294,
+      "article_number": "Eleventh",
+      "article_title": "THE ELEVENTH SCHEDULE",
+      "file": "section_Eleventh.json"
+    },
+    {
+      "order": 295,
+      "article_number": "Twelfth",
+      "article_title": "THE TWELFTH SCHEDULE",
+      "file": "section_Twelfth.json"
+    }
+  ]
+}

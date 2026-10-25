@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "motor_vehicle",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor_vehicle_sections/motor-vehicles-11.html",
+    "source_order": 11,
+    "article_order": 15,
+    "order": 171,
+    "stem": "section_159",
+    "heading_number": "Chapter XI",
+    "heading_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+    "heading_range": "ss. 145–164D",
+    "heading_source": "group-head",
+    "article_number": "159",
+    "article_title": "Information to be given regarding accident."
+  },
+  "id": "motor_vehicle_section_159",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+    "range": "ss. 145–164D"
+  },
+  "article": {
+    "number": "159",
+    "title": "Information to be given regarding accident.",
+    "content": "159Information to be given regarding accident.\n\nSection 159  ·  Chapter XI  ·  page 91 of the Act\nThe police officer shall, during the investigation, prepare an accident information report to facilitate the settlement of claim in such form and manner, within three months and containing such particulars and submit the same to the Claims Tribunal and such other agency as may be prescribed.\n\n",
+    "html": "<article class=\"provision\" data-n=\"159\" data-report=\"Section 159 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">159</span>Information to be given regarding accident.</h3></div><p class=\"prov-cite\">Section 159  ·  Chapter XI  ·  page 91 of the Act</p><div class=\"prov-body\"><p>The police officer shall, during the investigation, prepare an accident information report to facilitate the settlement of claim in such form and manner, within three months and containing such particulars and submit the same to the Claims Tribunal and such other agency as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">159</span>Information to be given regarding accident.</h3></div><p class=\"prov-cite\">Section 159  ·  Chapter XI  ·  page 91 of the Act</p><div class=\"prov-body\"><p>The police officer shall, during the investigation, prepare an accident information report to facilitate the settlement of claim in such form and manner, within three months and containing such particulars and submit the same to the Claims Tribunal and such other agency as may be prescribed.</p></div>"
+  }
+}

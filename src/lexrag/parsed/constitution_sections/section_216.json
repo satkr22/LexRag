@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 65,
+    "order": 235,
+    "stem": "section_216",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "216",
+    "article_title": "Constitution of High Courts"
+  },
+  "id": "constitution_section_216",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "216",
+    "title": "Constitution of High Courts",
+    "content": "216Constitution of High Courts\n\nArticle 216 · Part VI\nEvery High Court shall consist of a Chief Justice and such other Judges as the President may from time to time deem it necessary to appoint.\nProviso1* * * * *\n\n1 Proviso omitted by the Constitution (Seventh Amendment) Act, 1956, s. 11 (w.e.f. 1-11-1956).\n\n",
+    "html": "<article class=\"provision\" data-n=\"216\" data-report=\"Article 216 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">216</span>Constitution of High Courts</h3></div><p class=\"prov-cite\">Article 216 · Part VI</p><div class=\"prov-body\"><p>Every High Court shall consist of a Chief Justice and such other Judges as the President may from time to time deem it necessary to appoint.</p><p><span class=\"named\">Proviso</span><sup>1</sup>* * * * *</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Proviso omitted by the Constitution (Seventh Amendment) Act, 1956, s. 11 (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">216</span>Constitution of High Courts</h3></div><p class=\"prov-cite\">Article 216 · Part VI</p><div class=\"prov-body\"><p>Every High Court shall consist of a Chief Justice and such other Judges as the President may from time to time deem it necessary to appoint.</p><p><span class=\"named\">Proviso</span><sup>1</sup>* * * * *</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Proviso omitted by the Constitution (Seventh Amendment) Act, 1956, s. 11 (w.e.f. 1-11-1956).</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "motor_vehicle",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor_vehicle_sections/motor-vehicles-04.html",
+    "source_order": 4,
+    "article_order": 26,
+    "order": 67,
+    "stem": "section_62B",
+    "heading_number": "Chapter IV",
+    "heading_title": "Registration of Motor Vehicles",
+    "heading_range": "ss. 39–65",
+    "heading_source": "group-head",
+    "article_number": "62B",
+    "article_title": "National Register of Motor Vehicles."
+  },
+  "id": "motor_vehicle_section_62B",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Registration of Motor Vehicles",
+    "range": "ss. 39–65"
+  },
+  "article": {
+    "number": "62B",
+    "title": "National Register of Motor Vehicles.",
+    "content": "62BNational Register of Motor Vehicles.\n\nSection 62B  ·  Chapter IV  ·  page 43 of the Act\n(1) The Central Government shall maintain a National Register of Motor Vehicles in such form and manner as may be prescribed by it:\nProvided that all State Registers of Motor Vehicles shall be subsumed under the National Register of Motor Vehicles by such date as may be notified in the Official Gazette by the Central Government.\n(2) No certificate of registration issued, or renewed, under this Act shall be valid unless it has been issued a unique registration number under the National Register of Motor Vehicles.\n(3) In order to maintain the National Register of Motor Vehicles, all State Governments and registering authorities under this Act shall transmit all information and data in the State Register of Motor Vehicles to the Central Government in such form and manner as may be prescribed by the Central Government.\n(4) State Governments shall be able to access the National Register of Motor Vehicles and update records in accordance with the provisions of this Act and the rules made by the Central Government thereunder.]\n\n",
+    "html": "<article class=\"provision\" data-n=\"62B\" data-report=\"Section 62B · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">62B</span>National Register of Motor Vehicles.</h3></div><p class=\"prov-cite\">Section 62B  ·  Chapter IV  ·  page 43 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall maintain a National Register of Motor Vehicles in such form and manner as may be prescribed by it:</p><p class=\"prvso\">Provided that all State Registers of Motor Vehicles shall be subsumed under the National Register of Motor Vehicles by such date as may be notified in the Official Gazette by the Central Government.</p><p class=\"lvl\">(2) No certificate of registration issued, or renewed, under this Act shall be valid unless it has been issued a unique registration number under the National Register of Motor Vehicles.</p><p class=\"lvl\">(3) In order to maintain the National Register of Motor Vehicles, all State Governments and registering authorities under this Act shall transmit all information and data in the State Register of Motor Vehicles to the Central Government in such form and manner as may be prescribed by the Central Government.</p><p class=\"lvl\">(4) State Governments shall be able to access the National Register of Motor Vehicles and update records in accordance with the provisions of this Act and the rules made by the Central Government thereunder.]</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">62B</span>National Register of Motor Vehicles.</h3></div><p class=\"prov-cite\">Section 62B  ·  Chapter IV  ·  page 43 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall maintain a National Register of Motor Vehicles in such form and manner as may be prescribed by it:</p><p class=\"prvso\">Provided that all State Registers of Motor Vehicles shall be subsumed under the National Register of Motor Vehicles by such date as may be notified in the Official Gazette by the Central Government.</p><p class=\"lvl\">(2) No certificate of registration issued, or renewed, under this Act shall be valid unless it has been issued a unique registration number under the National Register of Motor Vehicles.</p><p class=\"lvl\">(3) In order to maintain the National Register of Motor Vehicles, all State Governments and registering authorities under this Act shall transmit all information and data in the State Register of Motor Vehicles to the Central Government in such form and manner as may be prescribed by the Central Government.</p><p class=\"lvl\">(4) State Governments shall be able to access the National Register of Motor Vehicles and update records in accordance with the provisions of this Act and the rules made by the Central Government thereunder.]</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-16.html",
+    "source_order": 20,
+    "article_order": 2,
+    "order": 342,
+    "stem": "section_115D",
+    "heading_number": "Chapter XII-A",
+    "heading_title": "Special Provisions Relating to Certain Incomes of Non-residents",
+    "heading_range": "ss. 115C–115-I",
+    "heading_source": "group-head",
+    "article_number": "115D",
+    "article_title": "Special provision for computation of total income of non-residents."
+  },
+  "id": "income-tax-1961_section_115D",
+  "heading": {
+    "number": "Chapter XII-A",
+    "title": "Special Provisions Relating to Certain Incomes of Non-residents",
+    "range": "ss. 115C–115-I"
+  },
+  "article": {
+    "number": "115D",
+    "title": "Special provision for computation of total income of non-residents.",
+    "content": "115DSpecial provision for computation of total income of non-residents.\n\nSection 115D  ·  Chapter XII-A  ·  page 464 of the Act\n(1) No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.\n(2) Where in the case of an assessee, being a non-resident Indian,—\n(a) the gross total income consists only of investment income or income by way of long-term capital gains or both, no deduction shall be allowed to the assessee under Chapter VI-A and nothing contained in the provisions of the second proviso to section 48 shall apply to income chargeable under the head \"Capital gains\";\n(b) the gross total income includes any income referred to in clause (a), the gross total income shall be reduced by the amount of such income and the deductions under Chapter VI-A shall be allowed as if the gross total income as so reduced were the gross total income of the assessee.\n\n",
+    "html": "<article class=\"provision\" data-n=\"115D\" data-report=\"Section 115D · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115D</span>Special provision for computation of total income of non-residents.</h3></div><p class=\"prov-cite\">Section 115D  ·  Chapter XII-A  ·  page 464 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.</p><p class=\"lvl\">(2) Where in the case of an assessee, being a non-resident Indian,—</p><p class=\"lvl\">(a) the gross total income consists only of investment income or income by way of long-term capital gains or both, no deduction shall be allowed to the assessee under Chapter VI-A and nothing contained in the provisions of the second proviso to section 48 shall apply to income chargeable under the head \"Capital gains\";</p><p class=\"lvl\">(b) the gross total income includes any income referred to in clause (a), the gross total income shall be reduced by the amount of such income and the deductions under Chapter VI-A shall be allowed as if the gross total income as so reduced were the gross total income of the assessee.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115D</span>Special provision for computation of total income of non-residents.</h3></div><p class=\"prov-cite\">Section 115D  ·  Chapter XII-A  ·  page 464 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.</p><p class=\"lvl\">(2) Where in the case of an assessee, being a non-resident Indian,—</p><p class=\"lvl\">(a) the gross total income consists only of investment income or income by way of long-term capital gains or both, no deduction shall be allowed to the assessee under Chapter VI-A and nothing contained in the provisions of the second proviso to section 48 shall apply to income chargeable under the head \"Capital gains\";</p><p class=\"lvl\">(b) the gross total income includes any income referred to in clause (a), the gross total income shall be reduced by the amount of such income and the deductions under Chapter VI-A shall be allowed as if the gross total income as so reduced were the gross total income of the assessee.</p></div>"
+  }
+}

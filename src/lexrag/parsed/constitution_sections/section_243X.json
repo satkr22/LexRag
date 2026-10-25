@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-11.html",
+    "source_order": 11,
+    "article_order": 9,
+    "order": 294,
+    "stem": "section_243X",
+    "heading_number": "Part IXA",
+    "heading_title": "The Municipalities",
+    "heading_range": "243P – 243ZG",
+    "heading_source": "group-head",
+    "article_number": "243X",
+    "article_title": "Power to impose taxes by, and Funds of, the Municipalities"
+  },
+  "id": "constitution_section_243X",
+  "heading": {
+    "number": "Part IXA",
+    "title": "The Municipalities",
+    "range": "243P – 243ZG"
+  },
+  "article": {
+    "number": "243X",
+    "title": "Power to impose taxes by, and Funds of, the Municipalities",
+    "content": "243XPower to impose taxes by, and Funds of, the Municipalities\n\nArticle 243X · Part IXA\nThe Legislature of a State may, by law,—\n(a)authorise a Municipality to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;\n(b)assign to a Municipality such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;\n(c)provide for making such grants-in-aid to the Municipalities from the Consolidated Fund of the State; and\n(d)provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Municipalities and also for the withdrawal of such moneys therefrom,\nas may be specified in the law.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243X\" data-report=\"Article 243X · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243X</span>Power to impose taxes by, and Funds of, the Municipalities</h3></div><p class=\"prov-cite\">Article 243X · Part IXA</p><div class=\"prov-body\"><p>The Legislature of a State may, by law,—</p><p><span class=\"lbl\">(a)</span>authorise a Municipality to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;</p><p><span class=\"lbl\">(b)</span>assign to a Municipality such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;</p><p><span class=\"lbl\">(c)</span>provide for making such grants-in-aid to the Municipalities from the Consolidated Fund of the State; and</p><p><span class=\"lbl\">(d)</span>provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Municipalities and also for the withdrawal of such moneys therefrom,</p><p>as may be specified in the law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243X</span>Power to impose taxes by, and Funds of, the Municipalities</h3></div><p class=\"prov-cite\">Article 243X · Part IXA</p><div class=\"prov-body\"><p>The Legislature of a State may, by law,—</p><p><span class=\"lbl\">(a)</span>authorise a Municipality to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;</p><p><span class=\"lbl\">(b)</span>assign to a Municipality such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;</p><p><span class=\"lbl\">(c)</span>provide for making such grants-in-aid to the Municipalities from the Consolidated Fund of the State; and</p><p><span class=\"lbl\">(d)</span>provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Municipalities and also for the withdrawal of such moneys therefrom,</p><p>as may be specified in the law.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 9,
+    "order": 486,
+    "stem": "section_O21R9",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R9",
+    "article_title": "Execution by High Court of decree transferred by other Court."
+  },
+  "id": "cpc_section_O21R9",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R9",
+    "title": "Execution by High Court of decree transferred by other Court.",
+    "content": "9Execution by High Court of decree transferred by other Court.\n\nOrder 21, Rule 9\nWhere the Court to which the decree is sent for execution is a High Court, the decree shall be executed by such Court in the same manner as if it had been passed by such Court in the exercise of its ordinary original civil jurisdiction.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R9\" data-report=\"Order 21, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Execution by High Court of decree transferred by other Court.</h3></div><p class=\"prov-cite\">Order 21, Rule 9</p><div class=\"prov-body\"><p>Where the Court to which the decree is sent for execution is a High Court, the decree shall be executed by such Court in the same manner as if it had been passed by such Court in the exercise of its ordinary original civil jurisdiction.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Execution by High Court of decree transferred by other Court.</h3></div><p class=\"prov-cite\">Order 21, Rule 9</p><div class=\"prov-body\"><p>Where the Court to which the decree is sent for execution is a High Court, the decree shall be executed by such Court in the same manner as if it had been passed by such Court in the exercise of its ordinary original civil jurisdiction.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "motor_vehicle",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor_vehicle_sections/motor-vehicles-04.html",
+    "source_order": 4,
+    "article_order": 1,
+    "order": 42,
+    "stem": "section_39",
+    "heading_number": "Chapter IV",
+    "heading_title": "Registration of Motor Vehicles",
+    "heading_range": "ss. 39–65",
+    "heading_source": "group-head",
+    "article_number": "39",
+    "article_title": "Necessity for registration."
+  },
+  "id": "motor_vehicle_section_39",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Registration of Motor Vehicles",
+    "range": "ss. 39–65"
+  },
+  "article": {
+    "number": "39",
+    "title": "Necessity for registration.",
+    "content": "39Necessity for registration.\n\nSection 39  ·  Chapter IV  ·  page 30 of the Act\nNo person shall drive any motor vehicle and no owner of a motor vehicle shall cause or permit the vehicle to be driven in any public place or in any other place unless the vehicle is registered in accordance with this Chapter and the certificate of registration of the vehicle has not been suspended or cancelled and the vehicle carries a registration mark displayed in the prescribed manner:\nProvided that nothing in this section shall apply to a motor vehicle in possession of a dealer subject to such conditions as may be prescribed by the Central Government.\n\n",
+    "html": "<article class=\"provision\" data-n=\"39\" data-report=\"Section 39 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">39</span>Necessity for registration.</h3></div><p class=\"prov-cite\">Section 39  ·  Chapter IV  ·  page 30 of the Act</p><div class=\"prov-body\"><p>No person shall drive any motor vehicle and no owner of a motor vehicle shall cause or permit the vehicle to be driven in any public place or in any other place unless the vehicle is registered in accordance with this Chapter and the certificate of registration of the vehicle has not been suspended or cancelled and the vehicle carries a registration mark displayed in the prescribed manner:</p><p class=\"prvso\">Provided that nothing in this section shall apply to a motor vehicle in possession of a dealer subject to such conditions as may be prescribed by the Central Government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">39</span>Necessity for registration.</h3></div><p class=\"prov-cite\">Section 39  ·  Chapter IV  ·  page 30 of the Act</p><div class=\"prov-body\"><p>No person shall drive any motor vehicle and no owner of a motor vehicle shall cause or permit the vehicle to be driven in any public place or in any other place unless the vehicle is registered in accordance with this Chapter and the certificate of registration of the vehicle has not been suspended or cancelled and the vehicle carries a registration mark displayed in the prescribed manner:</p><p class=\"prvso\">Provided that nothing in this section shall apply to a motor vehicle in possession of a dealer subject to such conditions as may be prescribed by the Central Government.</p></div>"
+  }
+}

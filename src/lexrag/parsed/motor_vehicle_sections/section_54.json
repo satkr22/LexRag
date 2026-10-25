@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "motor_vehicle",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor_vehicle_sections/motor-vehicles-04.html",
+    "source_order": 4,
+    "article_order": 16,
+    "order": 57,
+    "stem": "section_54",
+    "heading_number": "Chapter IV",
+    "heading_title": "Registration of Motor Vehicles",
+    "heading_range": "ss. 39–65",
+    "heading_source": "group-head",
+    "article_number": "54",
+    "article_title": "Cancellation of registration suspended under section 53."
+  },
+  "id": "motor_vehicle_section_54",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Registration of Motor Vehicles",
+    "range": "ss. 39–65"
+  },
+  "article": {
+    "number": "54",
+    "title": "Cancellation of registration suspended under section 53.",
+    "content": "54Cancellation of registration suspended under section 53.\n\nSection 54  ·  Chapter IV  ·  page 39 of the Act\nWhere the suspension of registration of a vehicle under section 53 has continued without interruption for a period of not less than six months, the registering authority within whose jurisdiction the vehicle was when the registration was suspended, may, if it is the original registering authority, cancel the registration, and if it is not the original registering authority, shall forward the certificate of registration to that authority which may cancel the registration.\n\n",
+    "html": "<article class=\"provision\" data-n=\"54\" data-report=\"Section 54 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54</span>Cancellation of registration suspended under section 53.</h3></div><p class=\"prov-cite\">Section 54  ·  Chapter IV  ·  page 39 of the Act</p><div class=\"prov-body\"><p>Where the suspension of registration of a vehicle under section 53 has continued without interruption for a period of not less than six months, the registering authority within whose jurisdiction the vehicle was when the registration was suspended, may, if it is the original registering authority, cancel the registration, and if it is not the original registering authority, shall forward the certificate of registration to that authority which may cancel the registration.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54</span>Cancellation of registration suspended under section 53.</h3></div><p class=\"prov-cite\">Section 54  ·  Chapter IV  ·  page 39 of the Act</p><div class=\"prov-body\"><p>Where the suspension of registration of a vehicle under section 53 has continued without interruption for a period of not less than six months, the registering authority within whose jurisdiction the vehicle was when the registration was suspended, may, if it is the original registering authority, cancel the registration, and if it is not the original registering authority, shall forward the certificate of registration to that authority which may cancel the registration.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 45,
+    "order": 215,
+    "stem": "section_196",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "196",
+    "article_title": "Provisions as to introduction and passing of Bills"
+  },
+  "id": "constitution_section_196",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "196",
+    "title": "Provisions as to introduction and passing of Bills",
+    "content": "196Provisions as to introduction and passing of Bills\n\nArticle 196 · Part VI · Legislative Procedure\n(1)Subject to the provisions of articles 198 and 207 with respect to Money Bills and other financial Bills, a Bill may originate in either House of the Legislature of a State which has a Legislative Council.\n(2)Subject to the provisions of articles 197 and 198, a Bill shall not be deemed to have been passed by the Houses of the Legislature of a State having a Legislative Council unless it has been agreed to by both Houses, either without amendment or with such amendments only as are agreed to by both Houses.\n(3)A Bill pending in the Legislature of a State shall not lapse by reason of the prorogation of the House or Houses thereof.\n(4)A Bill pending in the Legislative Council of a State which has not been passed by the Legislative Assembly shall not lapse on a dissolution of the Assembly.\n(5)A Bill which is pending in the Legislative Assembly of a State, or which having been passed by the Legislative Assembly is pending in the Legislative Council, shall lapse on a dissolution of the Assembly.\n\n",
+    "html": "<article class=\"provision\" data-n=\"196\" data-report=\"Article 196 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">196</span>Provisions as to introduction and passing of Bills</h3></div><p class=\"prov-cite\">Article 196 · Part VI · Legislative Procedure</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Subject to the provisions of articles 198 and 207 with respect to Money Bills and other financial Bills, a Bill may originate in either House of the Legislature of a State which has a Legislative Council.</p><p><span class=\"lbl\">(2)</span>Subject to the provisions of articles 197 and 198, a Bill shall not be deemed to have been passed by the Houses of the Legislature of a State having a Legislative Council unless it has been agreed to by both Houses, either without amendment or with such amendments only as are agreed to by both Houses.</p><p><span class=\"lbl\">(3)</span>A Bill pending in the Legislature of a State shall not lapse by reason of the prorogation of the House or Houses thereof.</p><p><span class=\"lbl\">(4)</span>A Bill pending in the Legislative Council of a State which has not been passed by the Legislative Assembly shall not lapse on a dissolution of the Assembly.</p><p><span class=\"lbl\">(5)</span>A Bill which is pending in the Legislative Assembly of a State, or which having been passed by the Legislative Assembly is pending in the Legislative Council, shall lapse on a dissolution of the Assembly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">196</span>Provisions as to introduction and passing of Bills</h3></div><p class=\"prov-cite\">Article 196 · Part VI · Legislative Procedure</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Subject to the provisions of articles 198 and 207 with respect to Money Bills and other financial Bills, a Bill may originate in either House of the Legislature of a State which has a Legislative Council.</p><p><span class=\"lbl\">(2)</span>Subject to the provisions of articles 197 and 198, a Bill shall not be deemed to have been passed by the Houses of the Legislature of a State having a Legislative Council unless it has been agreed to by both Houses, either without amendment or with such amendments only as are agreed to by both Houses.</p><p><span class=\"lbl\">(3)</span>A Bill pending in the Legislature of a State shall not lapse by reason of the prorogation of the House or Houses thereof.</p><p><span class=\"lbl\">(4)</span>A Bill pending in the Legislative Council of a State which has not been passed by the Legislative Assembly shall not lapse on a dissolution of the Assembly.</p><p><span class=\"lbl\">(5)</span>A Bill which is pending in the Legislative Assembly of a State, or which having been passed by the Legislative Assembly is pending in the Legislative Council, shall lapse on a dissolution of the Assembly.</p></div>"
+  }
+}

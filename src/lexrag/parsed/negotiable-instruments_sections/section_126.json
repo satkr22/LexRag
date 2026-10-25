@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-126.html",
+    "source_order": 131,
+    "article_order": 1,
+    "order": 131,
+    "stem": "section_126",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of Crossed Cheques",
+    "heading_range": "ss. 123–131A",
+    "heading_source": "manifest",
+    "article_number": "126",
+    "article_title": "Payment of cheque crossed generally."
+  },
+  "id": "negotiable-instruments_section_126",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of Crossed Cheques",
+    "range": "ss. 123–131A"
+  },
+  "article": {
+    "number": "126",
+    "title": "Payment of cheque crossed generally.",
+    "content": "126Payment of cheque crossed generally.\n\nSection 126  ·  Chapter XIV  ·  page 26 of the Act\nWhere a cheque is crossed generally, the banker on whom it is drawn shall not pay it otherwise than to a banker.\nPayment of cheque crossed specially.—Where a cheque is crossed specially, the banker on whom it is drawn shall not pay it otherwise than to the banker to whom it is crossed, or his agent for collection.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>Payment of cheque crossed generally.</h3></div><p class=\"prov-cite\">Section 126  ·  Chapter XIV  ·  page 26 of the Act</p><div class=\"prov-body\"><p>Where a cheque is crossed generally, the banker on whom it is drawn shall not pay it otherwise than to a banker.</p><p>Payment of cheque crossed specially.—Where a cheque is crossed specially, the banker on whom it is drawn shall not pay it otherwise than to the banker to whom it is crossed, or his agent for collection.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>Payment of cheque crossed generally.</h3></div><p class=\"prov-cite\">Section 126  ·  Chapter XIV  ·  page 26 of the Act</p><div class=\"prov-body\"><p>Where a cheque is crossed generally, the banker on whom it is drawn shall not pay it otherwise than to a banker.</p><p>Payment of cheque crossed specially.—Where a cheque is crossed specially, the banker on whom it is drawn shall not pay it otherwise than to the banker to whom it is crossed, or his agent for collection.</p></div>"
+  }
+}

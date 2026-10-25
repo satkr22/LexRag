@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 95,
+    "order": 572,
+    "stem": "section_O21R82",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R82",
+    "article_title": "What Court may order sales."
+  },
+  "id": "cpc_section_O21R82",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R82",
+    "title": "What Court may order sales.",
+    "content": "82What Court may order sales.\n\nOrder 21, Rule 82\nSale of immovable property\nSales of immovable property in execution of decrees may be ordered by any Court other than a Court of Small Causes.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R82\" data-report=\"Order 21, Rule 82 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">82</span>What Court may order sales.</h3></div><p class=\"prov-cite\">Order 21, Rule 82</p><div class=\"prov-body\"><p class=\"sched-title\">Sale of immovable property</p><p>Sales of immovable property in execution of decrees may be ordered by any Court other than a Court of Small Causes.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">82</span>What Court may order sales.</h3></div><p class=\"prov-cite\">Order 21, Rule 82</p><div class=\"prov-body\"><p class=\"sched-title\">Sale of immovable property</p><p>Sales of immovable property in execution of decrees may be ordered by any Court other than a Court of Small Causes.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "motor_vehicle",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor_vehicle_sections/motor-vehicles-08.html",
+    "source_order": 8,
+    "article_order": 12,
+    "order": 133,
+    "stem": "section_123",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Control of Traffic",
+    "heading_range": "ss. 112–138",
+    "heading_source": "group-head",
+    "article_number": "123",
+    "article_title": "Riding on running board, etc."
+  },
+  "id": "motor_vehicle_section_123",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Control of Traffic",
+    "range": "ss. 112–138"
+  },
+  "article": {
+    "number": "123",
+    "title": "Riding on running board, etc.",
+    "content": "123Riding on running board, etc.\n\nSection 123  ·  Chapter VIII  ·  page 79 of the Act\n(1) No person driving or in charge of a motor vehicle shall carry any person or permit any person to be carried on the running board or otherwise than within the body of the vehicle.\n(2) No person shall travel on the running board or on the top or on the bonnet of a motor vehicle.\n\n",
+    "html": "<article class=\"provision\" data-n=\"123\" data-report=\"Section 123 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Riding on running board, etc.</h3></div><p class=\"prov-cite\">Section 123  ·  Chapter VIII  ·  page 79 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person driving or in charge of a motor vehicle shall carry any person or permit any person to be carried on the running board or otherwise than within the body of the vehicle.</p><p class=\"lvl\">(2) No person shall travel on the running board or on the top or on the bonnet of a motor vehicle.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Riding on running board, etc.</h3></div><p class=\"prov-cite\">Section 123  ·  Chapter VIII  ·  page 79 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person driving or in charge of a motor vehicle shall carry any person or permit any person to be carried on the running board or otherwise than within the body of the vehicle.</p><p class=\"lvl\">(2) No person shall travel on the running board or on the top or on the bonnet of a motor vehicle.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-6.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "schedule-article-6",
+    "heading_number": null,
+    "heading_title": "First Division · Part II · Suits Relating to Contracts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "6",
+    "article_title": "Three years."
+  },
+  "id": "limitation_schedule-article-6",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part II · Suits Relating to Contracts",
+    "range": null
+  },
+  "article": {
+    "number": "6",
+    "title": "Three years.",
+    "content": "Article6Three years.\n\nThe Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts\nFor a seaman’s wages\nPeriod of limitationThree years.\n\nTime from which period begins to runThe end of the voyage during which the wages are earned.\n\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>6<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For a seaman’s wages</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The end of the voyage during which the wages are earned.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>6<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For a seaman’s wages</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The end of the voyage during which the wages are earned.</p></div></div></div></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 52,
+    "order": 222,
+    "stem": "section_203",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "203",
+    "article_title": "Procedure in Legislature with respect to estimates"
+  },
+  "id": "constitution_section_203",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "203",
+    "title": "Procedure in Legislature with respect to estimates",
+    "content": "203Procedure in Legislature with respect to estimates\n\nArticle 203 · Part VI · Procedure in Financial Matters\n(1)So much of the estimates as relates to expenditure charged upon the Consolidated Fund of a State shall not be submitted to the vote of the Legislative Assembly, but nothing in this clause shall be construed as preventing the discussion in the Legislature of any of those estimates.\n(2)So much of the said estimates as relates to other expenditure shall be submitted in the form of demands for grants to the Legislative Assembly, and the Legislative Assembly shall have power to assent, or to refuse to assent, to any demand, or to assent to any demand subject to a reduction of the amount specified therein.\n(3)No demand for a grant shall be made except on the recommendation of the Governor.\n\n",
+    "html": "<article class=\"provision\" data-n=\"203\" data-report=\"Article 203 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">203</span>Procedure in Legislature with respect to estimates</h3></div><p class=\"prov-cite\">Article 203 · Part VI · Procedure in Financial Matters</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>So much of the estimates as relates to expenditure charged upon the Consolidated Fund of a State shall not be submitted to the vote of the Legislative Assembly, but nothing in this clause shall be construed as preventing the discussion in the Legislature of any of those estimates.</p><p><span class=\"lbl\">(2)</span>So much of the said estimates as relates to other expenditure shall be submitted in the form of demands for grants to the Legislative Assembly, and the Legislative Assembly shall have power to assent, or to refuse to assent, to any demand, or to assent to any demand subject to a reduction of the amount specified therein.</p><p><span class=\"lbl\">(3)</span>No demand for a grant shall be made except on the recommendation of the Governor.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">203</span>Procedure in Legislature with respect to estimates</h3></div><p class=\"prov-cite\">Article 203 · Part VI · Procedure in Financial Matters</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>So much of the estimates as relates to expenditure charged upon the Consolidated Fund of a State shall not be submitted to the vote of the Legislative Assembly, but nothing in this clause shall be construed as preventing the discussion in the Legislature of any of those estimates.</p><p><span class=\"lbl\">(2)</span>So much of the said estimates as relates to other expenditure shall be submitted in the form of demands for grants to the Legislative Assembly, and the Legislative Assembly shall have power to assent, or to refuse to assent, to any demand, or to assent to any demand subject to a reduction of the amount specified therein.</p><p><span class=\"lbl\">(3)</span>No demand for a grant shall be made except on the recommendation of the Governor.</p></div>"
+  }
+}

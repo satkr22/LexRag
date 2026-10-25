@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-11.html",
+    "source_order": 11,
+    "article_order": 1,
+    "order": 11,
+    "stem": "section_11",
+    "heading_number": "Chapter II",
+    "heading_title": "The Imposition, Acquisition and Transfer of Easements",
+    "heading_range": "ss. 8–19",
+    "heading_source": "manifest",
+    "article_number": "11",
+    "article_title": "Lessee."
+  },
+  "id": "easements_section_11",
+  "heading": {
+    "number": "Chapter II",
+    "title": "The Imposition, Acquisition and Transfer of Easements",
+    "range": "ss. 8–19"
+  },
+  "article": {
+    "number": "11",
+    "title": "Lessee.",
+    "content": "11Lessee.\n\nSection 11  ·  Chapter II  ·  page 7 of the Act\nNo lessee or other person having a derivative interest may impose on the property held by him as such an easement to take effect after the expiration of his own interest, or in derogation of the right of the lessor or the superior proprietor.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Lessee.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p>No lessee or other person having a derivative interest may impose on the property held by him as such an easement to take effect after the expiration of his own interest, or in derogation of the right of the lessor or the superior proprietor.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Lessee.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p>No lessee or other person having a derivative interest may impose on the property held by him as such an easement to take effect after the expiration of his own interest, or in derogation of the right of the lessor or the superior proprietor.</p></div>"
+  }
+}

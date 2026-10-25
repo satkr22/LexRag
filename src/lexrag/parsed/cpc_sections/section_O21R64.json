@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 76,
+    "order": 553,
+    "stem": "section_O21R64",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R64",
+    "article_title": "Power to order property attached to be sold and proceeds to be paid to person entitled."
+  },
+  "id": "cpc_section_O21R64",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R64",
+    "title": "Power to order property attached to be sold and proceeds to be paid to person entitled.",
+    "content": "64Power to order property attached to be sold and proceeds to be paid to person entitled.\n\nOrder 21, Rule 64\nSale generally\nAny Court executing a decree may order that any property attached by it and liable to sale, or such portion thereof as may see necessary to satisfy the decree, shall be sold, and that the proceeds of such sale, or a sufficient portion thereof, shall be paid to the party entitled under the decree to receive the same.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R64\" data-report=\"Order 21, Rule 64 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">64</span>Power to order property attached to be sold and proceeds to be paid to person entitled.</h3></div><p class=\"prov-cite\">Order 21, Rule 64</p><div class=\"prov-body\"><p class=\"sched-title\">Sale generally</p><p>Any Court executing a decree may order that any property attached by it and liable to sale, or such portion thereof as may see necessary to satisfy the decree, shall be sold, and that the proceeds of such sale, or a sufficient portion thereof, shall be paid to the party entitled under the decree to receive the same.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">64</span>Power to order property attached to be sold and proceeds to be paid to person entitled.</h3></div><p class=\"prov-cite\">Order 21, Rule 64</p><div class=\"prov-body\"><p class=\"sched-title\">Sale generally</p><p>Any Court executing a decree may order that any property attached by it and liable to sale, or such portion thereof as may see necessary to satisfy the decree, shall be sold, and that the proceeds of such sale, or a sufficient portion thereof, shall be paid to the party entitled under the decree to receive the same.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-10.html",
+    "source_order": 15,
+    "article_order": 1,
+    "order": 15,
+    "stem": "section_10",
+    "heading_number": "Part I · Chapter III",
+    "heading_title": "Composition of arbitral tribunal",
+    "heading_range": "ss. 10–15",
+    "heading_source": "manifest",
+    "article_number": "10",
+    "article_title": "Number of arbitrators."
+  },
+  "id": "arbitration_section_10",
+  "heading": {
+    "number": "Part I · Chapter III",
+    "title": "Composition of arbitral tribunal",
+    "range": "ss. 10–15"
+  },
+  "article": {
+    "number": "10",
+    "title": "Number of arbitrators.",
+    "content": "10Number of arbitrators.\n\nSection 10  ·  Part I · Chapter III  ·  page 12 of the Act\n(1) The parties are free to determine the number of arbitrators, provided that such number shall not be an even number.\n(2) Failing the determination referred to in sub-section (1), the arbitral tribunal shall consist of a sole arbitrator.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Number of arbitrators.</h3></div><p class=\"prov-cite\">Section 10  ·  Part I · Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The parties are free to determine the number of arbitrators, provided that such number shall not be an even number.</p><p class=\"lvl\">(2) Failing the determination referred to in sub-section (1), the arbitral tribunal shall consist of a sole arbitrator.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Number of arbitrators.</h3></div><p class=\"prov-cite\">Section 10  ·  Part I · Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The parties are free to determine the number of arbitrators, provided that such number shall not be an even number.</p><p class=\"lvl\">(2) Failing the determination referred to in sub-section (1), the arbitral tribunal shall consist of a sole arbitrator.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-13.html",
+    "source_order": 13,
+    "article_order": 15,
+    "order": 186,
+    "stem": "section_O1R12",
+    "heading_number": "Order I",
+    "heading_title": "Parties to Suits",
+    "heading_range": "16 rules",
+    "heading_source": "group-head",
+    "article_number": "O1R12",
+    "article_title": "Appearance of one of several plaintiffs or defendants for others."
+  },
+  "id": "cpc_section_O1R12",
+  "heading": {
+    "number": "Order I",
+    "title": "Parties to Suits",
+    "range": "16 rules"
+  },
+  "article": {
+    "number": "O1R12",
+    "title": "Appearance of one of several plaintiffs or defendants for others.",
+    "content": "12Appearance of one of several plaintiffs or defendants for others.\n\nOrder 1, Rule 12\n(1) Where there are more plaintiffs than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding; and in like manner, where there are more defendants than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding.\n(2) The authority shall be in writing signed by the party giving it and shall be filed in Court.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O1R12\" data-report=\"Order 1, Rule 12 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Appearance of one of several plaintiffs or defendants for others.</h3></div><p class=\"prov-cite\">Order 1, Rule 12</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where there are more plaintiffs than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding; and in like manner, where there are more defendants than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding.</p><p class=\"lvl\">(2) The authority shall be in writing signed by the party giving it and shall be filed in Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Appearance of one of several plaintiffs or defendants for others.</h3></div><p class=\"prov-cite\">Order 1, Rule 12</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where there are more plaintiffs than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding; and in like manner, where there are more defendants than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding.</p><p class=\"lvl\">(2) The authority shall be in writing signed by the party giving it and shall be filed in Court.</p></div>"
+  }
+}

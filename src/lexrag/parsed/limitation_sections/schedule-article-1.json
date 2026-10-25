@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-1.html",
+    "source_order": 1,
+    "article_order": 1,
+    "order": 1,
+    "stem": "schedule-article-1",
+    "heading_number": null,
+    "heading_title": "First Division · Part I · Suits Relating to Accounts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "1",
+    "article_title": "Three years."
+  },
+  "id": "limitation_schedule-article-1",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part I · Suits Relating to Accounts",
+    "range": null
+  },
+  "article": {
+    "number": "1",
+    "title": "Three years.",
+    "content": "\n\nArticle1Three years.\n\n\n\nThe Schedule · First Division—Suits · Part I—Suits Relating to Accounts\n\n\n\nFor the balance due on a mutual, open and current account, where there have been reciprocal\n            demands between the parties.\n\n\nPeriod of limitation\nThree years.\n\n\n\nTime from which period begins to run\nThe close of the year in which the last item admitted or proved is entered in the account; such year to\n                be computed as in the account.\n\n\n\n\n\n\n\n\n\n",
+    "html": "<article class=\"provision\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">Article</span>1<span class=\"badge\">Three years.</span></h3>\n</div>\n<p class=\"prov-cite\">The Schedule · First Division—Suits · Part I—Suits Relating to Accounts</p>\n<div class=\"prov-body\">\n<div class=\"art-row\">\n<p class=\"desc\">For the balance due on a mutual, open and current account, where there have been reciprocal\n            demands between the parties.</p>\n<div class=\"cols\">\n<div><span class=\"k\">Period of limitation</span>\n<p>Three years.</p>\n</div>\n<div><span class=\"k\">Time from which period begins to run</span>\n<p>The close of the year in which the last item admitted or proved is entered in the account; such year to\n                be computed as in the account.</p>\n</div>\n</div>\n</div>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">Article</span>1<span class=\"badge\">Three years.</span></h3>\n</div>\n<p class=\"prov-cite\">The Schedule · First Division—Suits · Part I—Suits Relating to Accounts</p>\n<div class=\"prov-body\">\n<div class=\"art-row\">\n<p class=\"desc\">For the balance due on a mutual, open and current account, where there have been reciprocal\n            demands between the parties.</p>\n<div class=\"cols\">\n<div><span class=\"k\">Period of limitation</span>\n<p>Three years.</p>\n</div>\n<div><span class=\"k\">Time from which period begins to run</span>\n<p>The close of the year in which the last item admitted or proved is entered in the account; such year to\n                be computed as in the account.</p>\n</div>\n</div>\n</div>\n</div>\n"
+  }
+}

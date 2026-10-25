@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 90,
+    "order": 153,
+    "stem": "section_136",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "136",
+    "article_title": "Special leave to appeal by the Supreme Court"
+  },
+  "id": "constitution_section_136",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "136",
+    "title": "Special leave to appeal by the Supreme Court",
+    "content": "\n\n136Special leave to appeal by the Supreme Court\n\n\n\nArticle 136 · Part V\n\n\n(1)Notwithstanding anything in this Chapter, the Supreme Court may, in its\n                discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in\n                any cause or matter passed or made by any court or tribunal in the territory of India.\n\n(2)Nothing in clause (1) shall apply to any judgment, determination, sentence\n                or order passed or made by any court or tribunal constituted by or under any law relating to the Armed\n                Forces.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"136\" data-report=\"Article 136 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">136</span>Special leave to appeal by the Supreme Court</h3>\n</div>\n<p class=\"prov-cite\">Article 136 · Part V</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>Notwithstanding anything in this Chapter, the Supreme Court may, in its\n                discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in\n                any cause or matter passed or made by any court or tribunal in the territory of India.</p>\n<p><span class=\"lbl\">(2)</span>Nothing in clause (1) shall apply to any judgment, determination, sentence\n                or order passed or made by any court or tribunal constituted by or under any law relating to the Armed\n                Forces.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">136</span>Special leave to appeal by the Supreme Court</h3>\n</div>\n<p class=\"prov-cite\">Article 136 · Part V</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>Notwithstanding anything in this Chapter, the Supreme Court may, in its\n                discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in\n                any cause or matter passed or made by any court or tribunal in the territory of India.</p>\n<p><span class=\"lbl\">(2)</span>Nothing in clause (1) shall apply to any judgment, determination, sentence\n                or order passed or made by any court or tribunal constituted by or under any law relating to the Armed\n                Forces.</p>\n</div>\n"
+  }
+}

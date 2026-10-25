@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-49.html",
+    "source_order": 49,
+    "article_order": 2,
+    "order": 688,
+    "stem": "section_O31R2",
+    "heading_number": "Order XXXI",
+    "heading_title": "Suits by or against trustees, executors and administrators",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O31R2",
+    "article_title": "Joinder of trustees, executors and administrators."
+  },
+  "id": "cpc_section_O31R2",
+  "heading": {
+    "number": "Order XXXI",
+    "title": "Suits by or against trustees, executors and administrators",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O31R2",
+    "title": "Joinder of trustees, executors and administrators.",
+    "content": "2Joinder of trustees, executors and administrators.\n\nOrder 31, Rule 2\nWhere there are several trustees, executors or administrators, they shall all be made parties to a suit against one or more of them:\nProvided that the executors who have not proved their testator’s will, and trustees, executors and administrators outside 1[India], need not be made parties.\n\n1 Subs. by Act 2 of 1951, s. 3, for “the States”.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O31R2\" data-report=\"Order 31, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Joinder of trustees, executors and administrators.</h3></div><p class=\"prov-cite\">Order 31, Rule 2</p><div class=\"prov-body\"><p>Where there are several trustees, executors or administrators, they shall all be made parties to a suit against one or more of them:</p><p class=\"prvso\">Provided that the executors who have not proved their testator’s will, and trustees, executors and administrators outside <sup>1</sup>[India], need not be made parties.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 2 of 1951, s. 3, for “the States”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Joinder of trustees, executors and administrators.</h3></div><p class=\"prov-cite\">Order 31, Rule 2</p><div class=\"prov-body\"><p>Where there are several trustees, executors or administrators, they shall all be made parties to a suit against one or more of them:</p><p class=\"prvso\">Provided that the executors who have not proved their testator’s will, and trustees, executors and administrators outside <sup>1</sup>[India], need not be made parties.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 2 of 1951, s. 3, for “the States”.</p></div>"
+  }
+}

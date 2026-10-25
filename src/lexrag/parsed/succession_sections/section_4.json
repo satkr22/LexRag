@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-02.html",
+    "source_order": 2,
+    "article_order": 1,
+    "order": 4,
+    "stem": "section_4",
+    "heading_number": "Part II",
+    "heading_title": "Of Domicile",
+    "heading_range": "ss. 4–19",
+    "heading_source": "group-head",
+    "article_number": "4",
+    "article_title": "Application of Part."
+  },
+  "id": "succession_section_4",
+  "heading": {
+    "number": "Part II",
+    "title": "Of Domicile",
+    "range": "ss. 4–19"
+  },
+  "article": {
+    "number": "4",
+    "title": "Application of Part.",
+    "content": "4Application of Part.\n\nSection 4  ·  Part II  ·  page 18 of the Act\nThis Part shall not apply if the deceased was a Hindu, Muhammadan, Buddhist, Sikh or Jaina.\n\n",
+    "html": "<article class=\"provision\" data-n=\"4\" data-report=\"Section 4 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Application of Part.</h3></div><p class=\"prov-cite\">Section 4  ·  Part II  ·  page 18 of the Act</p><div class=\"prov-body\"><p>This Part shall not apply if the deceased was a Hindu, Muhammadan, Buddhist, Sikh or Jaina.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Application of Part.</h3></div><p class=\"prov-cite\">Section 4  ·  Part II  ·  page 18 of the Act</p><div class=\"prov-body\"><p>This Part shall not apply if the deceased was a Hindu, Muhammadan, Buddhist, Sikh or Jaina.</p></div>"
+  }
+}

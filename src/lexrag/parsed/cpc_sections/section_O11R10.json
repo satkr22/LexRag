@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-23.html",
+    "source_order": 23,
+    "article_order": 10,
+    "order": 325,
+    "stem": "section_O11R10",
+    "heading_number": "Order XI",
+    "heading_title": "Discovery and Inspection",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O11R10",
+    "article_title": "No exception to be taken."
+  },
+  "id": "cpc_section_O11R10",
+  "heading": {
+    "number": "Order XI",
+    "title": "Discovery and Inspection",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O11R10",
+    "title": "No exception to be taken.",
+    "content": "10No exception to be taken.\n\nOrder 11, Rule 10\nNo exceptions shall be taken to any affidavit in answer, but the sufficiency or otherwise of any such affidavit objected to as insufficient shall be determined by the Court.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O11R10\" data-report=\"Order 11, Rule 10 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>No exception to be taken.</h3></div><p class=\"prov-cite\">Order 11, Rule 10</p><div class=\"prov-body\"><p>No exceptions shall be taken to any affidavit in answer, but the sufficiency or otherwise of any such affidavit objected to as insufficient shall be determined by the Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>No exception to be taken.</h3></div><p class=\"prov-cite\">Order 11, Rule 10</p><div class=\"prov-body\"><p>No exceptions shall be taken to any affidavit in answer, but the sufficiency or otherwise of any such affidavit objected to as insufficient shall be determined by the Court.</p></div>"
+  }
+}

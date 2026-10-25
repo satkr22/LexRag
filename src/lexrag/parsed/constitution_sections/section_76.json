@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 25,
+    "order": 88,
+    "stem": "section_76",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "76",
+    "article_title": "Attorney-General for India"
+  },
+  "id": "constitution_section_76",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "76",
+    "title": "Attorney-General for India",
+    "content": "\n\n76Attorney-General for India\n\n\n\nArticle 76 · Part V · The Attorney-General for India\n\n\n(1)The President shall appoint a person who is qualified to be appointed a\n                Judge of the Supreme Court to be Attorney-General for India.\n\n(2)It shall be the duty of the Attorney-General to give advice to the\n                Government of India upon such legal matters, and to perform such other duties of a legal character, as\n                may from time to time be referred or assigned to him by the President, and to discharge the functions\n                conferred on him by or under this Constitution or any other law for the time being in force.\n\n(3)In the performance of his duties the Attorney-General shall have right of\n                audience in all courts in the territory of India.\n\n(4)The Attorney-General shall hold office during the pleasure of the\n                President, and shall receive such remuneration as the President may determine.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"76\" data-report=\"Article 76 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">76</span>Attorney-General for India</h3>\n</div>\n<p class=\"prov-cite\">Article 76 · Part V · The Attorney-General for India</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>The President shall appoint a person who is qualified to be appointed a\n                Judge of the Supreme Court to be Attorney-General for India.</p>\n<p><span class=\"lbl\">(2)</span>It shall be the duty of the Attorney-General to give advice to the\n                Government of India upon such legal matters, and to perform such other duties of a legal character, as\n                may from time to time be referred or assigned to him by the President, and to discharge the functions\n                conferred on him by or under this Constitution or any other law for the time being in force.</p>\n<p><span class=\"lbl\">(3)</span>In the performance of his duties the Attorney-General shall have right of\n                audience in all courts in the territory of India.</p>\n<p><span class=\"lbl\">(4)</span>The Attorney-General shall hold office during the pleasure of the\n                President, and shall receive such remuneration as the President may determine.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">76</span>Attorney-General for India</h3>\n</div>\n<p class=\"prov-cite\">Article 76 · Part V · The Attorney-General for India</p>\n<div class=\"prov-body\">\n<p><span class=\"lbl\">(1)</span>The President shall appoint a person who is qualified to be appointed a\n                Judge of the Supreme Court to be Attorney-General for India.</p>\n<p><span class=\"lbl\">(2)</span>It shall be the duty of the Attorney-General to give advice to the\n                Government of India upon such legal matters, and to perform such other duties of a legal character, as\n                may from time to time be referred or assigned to him by the President, and to discharge the functions\n                conferred on him by or under this Constitution or any other law for the time being in force.</p>\n<p><span class=\"lbl\">(3)</span>In the performance of his duties the Attorney-General shall have right of\n                audience in all courts in the territory of India.</p>\n<p><span class=\"lbl\">(4)</span>The Attorney-General shall hold office during the pleasure of the\n                President, and shall receive such remuneration as the President may determine.</p>\n</div>\n"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 30,
+    "order": 507,
+    "stem": "section_O21R28",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R28",
+    "article_title": "Order of Court which passed decree or of Appellate Court to be binding upon Court applied to."
+  },
+  "id": "cpc_section_O21R28",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R28",
+    "title": "Order of Court which passed decree or of Appellate Court to be binding upon Court applied to.",
+    "content": "28Order of Court which passed decree or of Appellate Court to be binding upon Court applied to.\n\nOrder 21, Rule 28\nAny order of the Court by which the decree was passed, or of such Court of appeal as aforesaid, in relation to the execution of such decree, shall be binding upon the Court to which the decree was sent for execution.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O21R28\" data-report=\"Order 21, Rule 28 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Order of Court which passed decree or of Appellate Court to be binding upon Court applied to.</h3></div><p class=\"prov-cite\">Order 21, Rule 28</p><div class=\"prov-body\"><p>Any order of the Court by which the decree was passed, or of such Court of appeal as aforesaid, in relation to the execution of such decree, shall be binding upon the Court to which the decree was sent for execution.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Order of Court which passed decree or of Appellate Court to be binding upon Court applied to.</h3></div><p class=\"prov-cite\">Order 21, Rule 28</p><div class=\"prov-body\"><p>Any order of the Court by which the decree was passed, or of such Court of appeal as aforesaid, in relation to the execution of such decree, shall be binding upon the Court to which the decree was sent for execution.</p></div>"
+  }
+}

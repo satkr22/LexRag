@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 56,
+    "order": 226,
+    "stem": "section_207",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "207",
+    "article_title": "Special provisions as to financial Bills"
+  },
+  "id": "constitution_section_207",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "207",
+    "title": "Special provisions as to financial Bills",
+    "content": "207Special provisions as to financial Bills\n\nArticle 207 · Part VI · Procedure in Financial Matters\n(1)A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 199 shall not be introduced or moved except on the recommendation of the Governor, and a Bill making such provision shall not be introduced in a Legislative Council:\nProvisoProvided that no recommendation shall be required under this clause for the moving of an amendment making provision for the reduction or abolition of any tax.\n(2)A Bill or amendment shall not be deemed to make provision for any of the matters aforesaid by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.\n(3)A Bill which, if enacted and brought into operation, would involve expenditure from the Consolidated Fund of a State shall not be passed by a House of the Legislature of the State unless the Governor has recommended to that House the consideration of the Bill.\n\n",
+    "html": "<article class=\"provision\" data-n=\"207\" data-report=\"Article 207 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">207</span>Special provisions as to financial Bills</h3></div><p class=\"prov-cite\">Article 207 · Part VI · Procedure in Financial Matters</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 199 shall not be introduced or moved except on the recommendation of the Governor, and a Bill making such provision shall not be introduced in a Legislative Council:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no recommendation shall be required under this clause for the moving of an amendment making provision for the reduction or abolition of any tax.</p><p><span class=\"lbl\">(2)</span>A Bill or amendment shall not be deemed to make provision for any of the matters aforesaid by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.</p><p><span class=\"lbl\">(3)</span>A Bill which, if enacted and brought into operation, would involve expenditure from the Consolidated Fund of a State shall not be passed by a House of the Legislature of the State unless the Governor has recommended to that House the consideration of the Bill.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">207</span>Special provisions as to financial Bills</h3></div><p class=\"prov-cite\">Article 207 · Part VI · Procedure in Financial Matters</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 199 shall not be introduced or moved except on the recommendation of the Governor, and a Bill making such provision shall not be introduced in a Legislative Council:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no recommendation shall be required under this clause for the moving of an amendment making provision for the reduction or abolition of any tax.</p><p><span class=\"lbl\">(2)</span>A Bill or amendment shall not be deemed to make provision for any of the matters aforesaid by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.</p><p><span class=\"lbl\">(3)</span>A Bill which, if enacted and brought into operation, would involve expenditure from the Consolidated Fund of a State shall not be passed by a House of the Legislature of the State unless the Governor has recommended to that House the consideration of the Bill.</p></div>"
+  }
+}

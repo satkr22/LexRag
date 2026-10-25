@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "document_title": null,
+    "source_file": "partnership_sections/section-42.html",
+    "source_order": 44,
+    "article_order": 1,
+    "order": 44,
+    "stem": "section_42",
+    "heading_number": "Chapter VI",
+    "heading_title": "Dissolution of a Firm",
+    "heading_range": "ss. 39–55",
+    "heading_source": "manifest",
+    "article_number": "42",
+    "article_title": "Dissolution on the happening of certain contingencies."
+  },
+  "id": "partnership_section_42",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Dissolution of a Firm",
+    "range": "ss. 39–55"
+  },
+  "article": {
+    "number": "42",
+    "title": "Dissolution on the happening of certain contingencies.",
+    "content": "42Dissolution on the happening of certain contingencies.\n\nSection 42  ·  Chapter VI  ·  page 11 of the Act\nSubject to contract between the partners a firm is dissolved—\n(a) if constituted for a fixed term, by the expiry of that term;\n(b) if constituted to carry out one or more adventures or undertakings, by the completion thereof;\n(c) by the death of a partner; and\n(d) by the adjudication of a partner as an insolvent.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Dissolution on the happening of certain contingencies.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter VI  ·  page 11 of the Act</p><div class=\"prov-body\"><p>Subject to contract between the partners a firm is dissolved—</p><p class=\"lvl\">(a) if constituted for a fixed term, by the expiry of that term;</p><p class=\"lvl\">(b) if constituted to carry out one or more adventures or undertakings, by the completion thereof;</p><p class=\"lvl\">(c) by the death of a partner; and</p><p class=\"lvl\">(d) by the adjudication of a partner as an insolvent.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Dissolution on the happening of certain contingencies.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter VI  ·  page 11 of the Act</p><div class=\"prov-body\"><p>Subject to contract between the partners a firm is dissolved—</p><p class=\"lvl\">(a) if constituted for a fixed term, by the expiry of that term;</p><p class=\"lvl\">(b) if constituted to carry out one or more adventures or undertakings, by the completion thereof;</p><p class=\"lvl\">(c) by the death of a partner; and</p><p class=\"lvl\">(d) by the adjudication of a partner as an insolvent.</p></div>"
+  }
+}

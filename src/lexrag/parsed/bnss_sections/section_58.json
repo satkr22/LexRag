@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-05.html",
+    "source_order": 5,
+    "article_order": 24,
+    "order": 58,
+    "stem": "section_58",
+    "heading_number": "Chapter V",
+    "heading_title": "Arrest of Persons",
+    "heading_range": "35 – 62",
+    "heading_source": "group-head",
+    "article_number": "58",
+    "article_title": "Person arrested not to be detained more than twenty-four hours"
+  },
+  "id": "bnss_section_58",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Arrest of Persons",
+    "range": "35 – 62"
+  },
+  "article": {
+    "number": "58",
+    "title": "Person arrested not to be detained more than twenty-four hours",
+    "content": "\n\n58Person arrested not to be detained more than twenty-four\n                hours\n\n\n\nSection 58 · Chapter V\n\n\nNo police officer shall detain in custody a person arrested without warrant for a longer period than\n                under all the circumstances of the case is reasonable, and such period shall not, in the absence of a\n                special order of a Magistrate under section 187, exceed twenty-four hours exclusive of the time\n                necessary for the journey from the place of arrest to the Magistrate's Court, whether having\n                jurisdiction or not.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"58\" data-report=\"Section 58 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">58</span>Person arrested not to be detained more than twenty-four\n                hours</h3>\n</div>\n<p class=\"prov-cite\">Section 58 · Chapter V</p>\n<div class=\"prov-body\">\n<p>No police officer shall detain in custody a person arrested without warrant for a longer period than\n                under all the circumstances of the case is reasonable, and such period shall not, in the absence of a\n                special order of a Magistrate under section 187, exceed twenty-four hours exclusive of the time\n                necessary for the journey from the place of arrest to the Magistrate's Court, whether having\n                jurisdiction or not.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">58</span>Person arrested not to be detained more than twenty-four\n                hours</h3>\n</div>\n<p class=\"prov-cite\">Section 58 · Chapter V</p>\n<div class=\"prov-body\">\n<p>No police officer shall detain in custody a person arrested without warrant for a longer period than\n                under all the circumstances of the case is reasonable, and such period shall not, in the absence of a\n                special order of a Magistrate under section 187, exceed twenty-four hours exclusive of the time\n                necessary for the journey from the place of arrest to the Magistrate's Court, whether having\n                jurisdiction or not.</p>\n</div>\n"
+  }
+}

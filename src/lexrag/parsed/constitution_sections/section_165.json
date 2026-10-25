@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 14,
+    "order": 184,
+    "stem": "section_165",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "165",
+    "article_title": "Advocate-General for the State"
+  },
+  "id": "constitution_section_165",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "165",
+    "title": "Advocate-General for the State",
+    "content": "165Advocate-General for the State\n\nArticle 165 · Part VI · The Advocate-General for the State\n(1)The Governor of each State shall appoint a person who is qualified to be appointed a Judge of a High Court to be Advocate-General for the State.\n(2)It shall be the duty of the Advocate-General to give advice to the Government of the State upon such legal matters, and to perform such other duties of a legal character, as may from time to time be referred or assigned to him by the Governor, and to discharge the functions conferred on him by or under this Constitution or any other law for the time being in force.\n(3)The Advocate-General shall hold office during the pleasure of the Governor, and shall receive such remuneration as the Governor may determine.\n\n",
+    "html": "<article class=\"provision\" data-n=\"165\" data-report=\"Article 165 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">165</span>Advocate-General for the State</h3></div><p class=\"prov-cite\">Article 165 · Part VI · The Advocate-General for the State</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Governor of each State shall appoint a person who is qualified to be appointed a Judge of a High Court to be Advocate-General for the State.</p><p><span class=\"lbl\">(2)</span>It shall be the duty of the Advocate-General to give advice to the Government of the State upon such legal matters, and to perform such other duties of a legal character, as may from time to time be referred or assigned to him by the Governor, and to discharge the functions conferred on him by or under this Constitution or any other law for the time being in force.</p><p><span class=\"lbl\">(3)</span>The Advocate-General shall hold office during the pleasure of the Governor, and shall receive such remuneration as the Governor may determine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">165</span>Advocate-General for the State</h3></div><p class=\"prov-cite\">Article 165 · Part VI · The Advocate-General for the State</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Governor of each State shall appoint a person who is qualified to be appointed a Judge of a High Court to be Advocate-General for the State.</p><p><span class=\"lbl\">(2)</span>It shall be the duty of the Advocate-General to give advice to the Government of the State upon such legal matters, and to perform such other duties of a legal character, as may from time to time be referred or assigned to him by the Governor, and to discharge the functions conferred on him by or under this Constitution or any other law for the time being in force.</p><p><span class=\"lbl\">(3)</span>The Advocate-General shall hold office during the pleasure of the Governor, and shall receive such remuneration as the Governor may determine.</p></div>"
+  }
+}

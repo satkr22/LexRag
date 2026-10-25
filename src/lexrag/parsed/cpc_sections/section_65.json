@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-03.html",
+    "source_order": 3,
+    "article_order": 31,
+    "order": 69,
+    "stem": "section_65",
+    "heading_number": "Part Ii",
+    "heading_title": "Execution",
+    "heading_range": "ss. 36–74",
+    "heading_source": "group-head",
+    "article_number": "65",
+    "article_title": "Purchaser’s title."
+  },
+  "id": "cpc_section_65",
+  "heading": {
+    "number": "Part Ii",
+    "title": "Execution",
+    "range": "ss. 36–74"
+  },
+  "article": {
+    "number": "65",
+    "title": "Purchaser’s title.",
+    "content": "65Purchaser’s title.\n\nSection 65\nSale\nWhere immovable property is sold in execution of a decree and such sale has become absolute, the property shall be deemed to have vested in the purchaser from the time when the property is sold and not from the time when the sale becomes absolute.\n\n",
+    "html": "<article class=\"provision\" data-n=\"65\" data-report=\"Section 65 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">65</span>Purchaser’s title.</h3></div><p class=\"prov-cite\">Section 65</p><div class=\"prov-body\"><p class=\"sched-title\">Sale</p><p>Where immovable property is sold in execution of a decree and such sale has become absolute, the property shall be deemed to have vested in the purchaser from the time when the property is sold and not from the time when the sale becomes absolute.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">65</span>Purchaser’s title.</h3></div><p class=\"prov-cite\">Section 65</p><div class=\"prov-body\"><p class=\"sched-title\">Sale</p><p>Where immovable property is sold in execution of a decree and such sale has become absolute, the property shall be deemed to have vested in the purchaser from the time when the property is sold and not from the time when the sale becomes absolute.</p></div>"
+  }
+}

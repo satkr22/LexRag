@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-26.html",
+    "source_order": 26,
+    "article_order": 7,
+    "order": 363,
+    "stem": "section_O13R7",
+    "heading_number": "Order XIII",
+    "heading_title": "Production, Impounding and Return of Documents",
+    "heading_range": "11 rules",
+    "heading_source": "group-head",
+    "article_number": "O13R7",
+    "article_title": "Recording of admitted and return of rejected documents."
+  },
+  "id": "cpc_section_O13R7",
+  "heading": {
+    "number": "Order XIII",
+    "title": "Production, Impounding and Return of Documents",
+    "range": "11 rules"
+  },
+  "article": {
+    "number": "O13R7",
+    "title": "Recording of admitted and return of rejected documents.",
+    "content": "7Recording of admitted and return of rejected documents.\n\nOrder 13, Rule 7\n(1) Every documents which has been admitted in evidence, or a copy thereof where a copy has been substituted for the original under rule 5, shall form part of the record of the suit.\n(2) Documents not admitted in evidence shall not form part of the record and shall be returned to the persons respectively producing them.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O13R7\" data-report=\"Order 13, Rule 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Recording of admitted and return of rejected documents.</h3></div><p class=\"prov-cite\">Order 13, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every documents which has been admitted in evidence, or a copy thereof where a copy has been substituted for the original under rule 5, shall form part of the record of the suit.</p><p class=\"lvl\">(2) Documents not admitted in evidence shall not form part of the record and shall be returned to the persons respectively producing them.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Recording of admitted and return of rejected documents.</h3></div><p class=\"prov-cite\">Order 13, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every documents which has been admitted in evidence, or a copy thereof where a copy has been substituted for the original under rule 5, shall form part of the record of the suit.</p><p class=\"lvl\">(2) Documents not admitted in evidence shall not form part of the record and shall be returned to the persons respectively producing them.</p></div>"
+  }
+}

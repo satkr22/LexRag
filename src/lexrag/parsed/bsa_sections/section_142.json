@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "document_title": null,
+    "source_file": "bsa_sections/section-142.html",
+    "source_order": 142,
+    "article_order": 1,
+    "order": 142,
+    "stem": "section_142",
+    "heading_number": "Chapter X",
+    "heading_title": "Of Examination of Witnesses",
+    "heading_range": "140 – 168",
+    "heading_source": "manifest",
+    "article_number": "142",
+    "article_title": "Examination of witnesses"
+  },
+  "id": "bsa_section_142",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Of Examination of Witnesses",
+    "range": "140 – 168"
+  },
+  "article": {
+    "number": "142",
+    "title": "Examination of witnesses",
+    "content": "142Examination of witnesses\n\nSection 142 · Part IV · Chapter X\n(1)The examination of a witness by the party who calls him shall be called his examination-in-chief.\n(2)The examination of a witness by the adverse party shall be called his cross-examination.\n(3)The examination of a witness, subsequent to the cross-examination, by the party who called him, shall be called his re-examination.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Examination of witnesses</h3></div><p class=\"prov-cite\">Section 142 · Part IV · Chapter X</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The examination of a witness by the party who calls him shall be called his examination-in-chief.</p><p><span class=\"lbl\">(2)</span>The examination of a witness by the adverse party shall be called his cross-examination.</p><p><span class=\"lbl\">(3)</span>The examination of a witness, subsequent to the cross-examination, by the party who called him, shall be called his re-examination.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Examination of witnesses</h3></div><p class=\"prov-cite\">Section 142 · Part IV · Chapter X</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The examination of a witness by the party who calls him shall be called his examination-in-chief.</p><p><span class=\"lbl\">(2)</span>The examination of a witness by the adverse party shall be called his cross-examination.</p><p><span class=\"lbl\">(3)</span>The examination of a witness, subsequent to the cross-examination, by the party who called him, shall be called his re-examination.</p></div>"
+  }
+}

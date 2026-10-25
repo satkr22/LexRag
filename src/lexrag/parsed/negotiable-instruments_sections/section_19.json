@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-19.html",
+    "source_order": 20,
+    "article_order": 1,
+    "order": 20,
+    "stem": "section_19",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Notes, Billsand Cheques",
+    "heading_range": "ss. 4–25",
+    "heading_source": "manifest",
+    "article_number": "19",
+    "article_title": "Instruments payable on demand."
+  },
+  "id": "negotiable-instruments_section_19",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Notes, Billsand Cheques",
+    "range": "ss. 4–25"
+  },
+  "article": {
+    "number": "19",
+    "title": "Instruments payable on demand.",
+    "content": "19Instruments payable on demand.\n\nSection 19  ·  Chapter II  ·  page 11 of the Act\nA promissory note or bill of exchange, in which no time for payment is specified, and a cheque, are payable on demand.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Instruments payable on demand.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter II  ·  page 11 of the Act</p><div class=\"prov-body\"><p>A promissory note or bill of exchange, in which no time for payment is specified, and a cheque, are payable on demand.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Instruments payable on demand.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter II  ·  page 11 of the Act</p><div class=\"prov-body\"><p>A promissory note or bill of exchange, in which no time for payment is specified, and a cheque, are payable on demand.</p></div>"
+  }
+}

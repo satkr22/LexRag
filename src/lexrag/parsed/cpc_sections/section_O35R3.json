@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-54.html",
+    "source_order": 54,
+    "article_order": 3,
+    "order": 755,
+    "stem": "section_O35R3",
+    "heading_number": "Order XXXV",
+    "heading_title": "Interpleader",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O35R3",
+    "article_title": "Procedure where defendant is suing plaintiff."
+  },
+  "id": "cpc_section_O35R3",
+  "heading": {
+    "number": "Order XXXV",
+    "title": "Interpleader",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O35R3",
+    "title": "Procedure where defendant is suing plaintiff.",
+    "content": "3Procedure where defendant is suing plaintiff.\n\nOrder 35, Rule 3\nWhere any of the defendants in an interpleader-suit is actually suing the plaintiff in respect the subject-matter of such suit, the Court in which the suit against the plaintiff is pending shall, on being informed by the Court in which the interpleader-suit has been instituted, stay the proceedings as against him; and his costs in the suit so stayed may be provided for in such suit; but if and in so far as, they are not provided for in that suit, they may be added to his costs incurred in the interpleader-suit.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O35R3\" data-report=\"Order 35, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Procedure where defendant is suing plaintiff.</h3></div><p class=\"prov-cite\">Order 35, Rule 3</p><div class=\"prov-body\"><p>Where any of the defendants in an interpleader-suit is actually suing the plaintiff in respect the subject-matter of such suit, the Court in which the suit against the plaintiff is pending shall, on being informed by the Court in which the interpleader-suit has been instituted, stay the proceedings as against him; and his costs in the suit so stayed may be provided for in such suit; but if and in so far as, they are not provided for in that suit, they may be added to his costs incurred in the interpleader-suit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Procedure where defendant is suing plaintiff.</h3></div><p class=\"prov-cite\">Order 35, Rule 3</p><div class=\"prov-body\"><p>Where any of the defendants in an interpleader-suit is actually suing the plaintiff in respect the subject-matter of such suit, the Court in which the suit against the plaintiff is pending shall, on being informed by the Court in which the interpleader-suit has been instituted, stay the proceedings as against him; and his costs in the suit so stayed may be provided for in such suit; but if and in so far as, they are not provided for in that suit, they may be added to his costs incurred in the interpleader-suit.</p></div>"
+  }
+}

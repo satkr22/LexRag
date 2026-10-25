@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "juvenile-justice",
+    "document_title": null,
+    "source_file": "juvenile-justice_sections/section-71.html",
+    "source_order": 71,
+    "article_order": 1,
+    "order": 71,
+    "stem": "section_71",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Adoption",
+    "heading_range": "ss. 56–73",
+    "heading_source": "manifest",
+    "article_number": "71",
+    "article_title": "Annual Report of Authority."
+  },
+  "id": "juvenile-justice_section_71",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Adoption",
+    "range": "ss. 56–73"
+  },
+  "article": {
+    "number": "71",
+    "title": "Annual Report of Authority.",
+    "content": "71Annual Report of Authority.\n\nSection 71  ·  Chapter VIII  ·  pages 36–37 of the Act\n(1) The Authority shall submit an annual report to the Central Government in such manner as may be prescribed.\n(2) The Central Government shall cause the annual report of Authority to be laid before each House of Parliament.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">71</span>Annual Report of Authority.</h3></div><p class=\"prov-cite\">Section 71  ·  Chapter VIII  ·  pages 36–37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Authority shall submit an annual report to the Central Government in such manner as may be prescribed.</p><p class=\"lvl\">(2) The Central Government shall cause the annual report of Authority to be laid before each House of Parliament.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">71</span>Annual Report of Authority.</h3></div><p class=\"prov-cite\">Section 71  ·  Chapter VIII  ·  pages 36–37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Authority shall submit an annual report to the Central Government in such manner as may be prescribed.</p><p class=\"lvl\">(2) The Central Government shall cause the annual report of Authority to be laid before each House of Parliament.</p></div>"
+  }
+}

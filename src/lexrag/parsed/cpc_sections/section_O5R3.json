@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-17.html",
+    "source_order": 17,
+    "article_order": 3,
+    "order": 205,
+    "stem": "section_O5R3",
+    "heading_number": "Order V",
+    "heading_title": "Issue and service of summons",
+    "heading_range": "34 rules",
+    "heading_source": "group-head",
+    "article_number": "O5R3",
+    "article_title": "Court may order defendant or plaintiff to appear in person."
+  },
+  "id": "cpc_section_O5R3",
+  "heading": {
+    "number": "Order V",
+    "title": "Issue and service of summons",
+    "range": "34 rules"
+  },
+  "article": {
+    "number": "O5R3",
+    "title": "Court may order defendant or plaintiff to appear in person.",
+    "content": "3Court may order defendant or plaintiff to appear in person.\n\nOrder 5, Rule 3\n(1) Where the court sees reason to require the personal appearance of the defendant, the summons shall order him to appear in person in Court on the day therein specified.\n(2) Where the Court sees reason to require the personal appearance of the plaintiff on the same day, it shall make an order for such appearance.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O5R3\" data-report=\"Order 5, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Court may order defendant or plaintiff to appear in person.</h3></div><p class=\"prov-cite\">Order 5, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the court sees reason to require the personal appearance of the defendant, the summons shall order him to appear in person in Court on the day therein specified.</p><p class=\"lvl\">(2) Where the Court sees reason to require the personal appearance of the plaintiff on the same day, it shall make an order for such appearance.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Court may order defendant or plaintiff to appear in person.</h3></div><p class=\"prov-cite\">Order 5, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the court sees reason to require the personal appearance of the defendant, the summons shall order him to appear in person in Court on the day therein specified.</p><p class=\"lvl\">(2) Where the Court sees reason to require the personal appearance of the plaintiff on the same day, it shall make an order for such appearance.</p></div>"
+  }
+}

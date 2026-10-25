@@ -1,0 +1,626 @@
+{
+  "act": "rpwd",
+  "source_directory": "src/lexrag/scrapped/rpwd_sections",
+  "output_directory": "src/lexrag/parsed/rpwd_sections",
+  "count": 103,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Equality and non-discrimination.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Women and children with disabilities.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Community life.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Protection from cruelty and inhuman treatment.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Protection from abuse, violence and exploitation.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Protection and safety.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Home and family.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Reproductive rights.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Accessibility in voting.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Access to justice.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Legal capacity.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Provision for guardianship.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Designation of authorities to support.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Duty of educational institutions.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "17",
+      "article_title": "Specific measures to promote and facilitate inclusive education.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 18,
+      "article_number": "18",
+      "article_title": "Adult education.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 19,
+      "article_number": "19",
+      "article_title": "Vocational training and self-employment.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 20,
+      "article_number": "20",
+      "article_title": "Non-discrimination in employment.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 21,
+      "article_number": "21",
+      "article_title": "Equal opportunity policy.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 22,
+      "article_number": "22",
+      "article_title": "Maintenance of records.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 23,
+      "article_number": "23",
+      "article_title": "Appointment of Grievance Redressal Officer.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 24,
+      "article_number": "24",
+      "article_title": "Social security.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 25,
+      "article_number": "25",
+      "article_title": "Healthcare.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 26,
+      "article_number": "26",
+      "article_title": "Insurance schemes.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 27,
+      "article_number": "27",
+      "article_title": "Rehabilitation.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 28,
+      "article_number": "28",
+      "article_title": "Research and development.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 29,
+      "article_number": "29",
+      "article_title": "Culture and recreation.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 30,
+      "article_number": "30",
+      "article_title": "Sporting activities.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 31,
+      "article_number": "31",
+      "article_title": "Free education for children with benchmark disabilities.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 32,
+      "article_number": "32",
+      "article_title": "Reservation in higher educational institutions.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 33,
+      "article_number": "33",
+      "article_title": "Identification of posts for reservation.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 34,
+      "article_number": "34",
+      "article_title": "Reservation.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 35,
+      "article_number": "35",
+      "article_title": "Incentives to employers in private sector.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 36,
+      "article_number": "36",
+      "article_title": "Special employment exchange.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 37,
+      "article_number": "37",
+      "article_title": "Special schemes and development programmes.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 38,
+      "article_number": "38",
+      "article_title": "Special provisions for persons with disabilities with high support.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 39,
+      "article_number": "39",
+      "article_title": "Awareness campaigns.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 40,
+      "article_number": "40",
+      "article_title": "Accessibility.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 41,
+      "article_number": "41",
+      "article_title": "Access to transport.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 42,
+      "article_number": "42",
+      "article_title": "Access to information and communication technology.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 43,
+      "article_number": "43",
+      "article_title": "Consumer goods.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 44,
+      "article_number": "44",
+      "article_title": "Mandatory observance of accessibility norms.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 45,
+      "article_number": "45",
+      "article_title": "Time limit for making existing infrastructure and premises accessible and action for that purpose.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 46,
+      "article_number": "46",
+      "article_title": "Time limit for accessibility by service providers.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 47,
+      "article_number": "47",
+      "article_title": "Human resource development.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 48,
+      "article_number": "48",
+      "article_title": "Social audit.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 49,
+      "article_number": "49",
+      "article_title": "Competent authority.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 50,
+      "article_number": "50",
+      "article_title": "Registration.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 51,
+      "article_number": "51",
+      "article_title": "Application and grant of certificate of registration.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 52,
+      "article_number": "52",
+      "article_title": "Revocation of registration.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 53,
+      "article_number": "53",
+      "article_title": "Appeal.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 54,
+      "article_number": "54",
+      "article_title": "Act not to apply to institutions established or maintained by Central or State Government.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 55,
+      "article_number": "55",
+      "article_title": "Assistance to registered institutions.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 56,
+      "article_number": "56",
+      "article_title": "Guidelines for assessment of specified disabilities.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 57,
+      "article_number": "57",
+      "article_title": "Designation of certifying authorities.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 58,
+      "article_number": "58",
+      "article_title": "Procedure for certification.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 59,
+      "article_number": "59",
+      "article_title": "Appeal against a decision of certifying authority.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 60,
+      "article_number": "60",
+      "article_title": "Constitution of Central Advisory Board on Disability.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 61,
+      "article_number": "61",
+      "article_title": "Terms and conditions of Service of members.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 62,
+      "article_number": "62",
+      "article_title": "Disqualifications.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 63,
+      "article_number": "63",
+      "article_title": "Vacation of seats by Members.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 64,
+      "article_number": "64",
+      "article_title": "Meetings of the Central Advisory Board on disability.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 65,
+      "article_number": "65",
+      "article_title": "Functions of Central Advisory Board on disability.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 66,
+      "article_number": "66",
+      "article_title": "State Advisory Board on disability.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 67,
+      "article_number": "67",
+      "article_title": "Terms and conditions of service of Members.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 68,
+      "article_number": "68",
+      "article_title": "Disqualification.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 69,
+      "article_number": "69",
+      "article_title": "Vacation of seats.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 70,
+      "article_number": "70",
+      "article_title": "Meetings of State Advisory Board on disability.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 71,
+      "article_number": "71",
+      "article_title": "Functions of State Advisory Board on disability.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 72,
+      "article_number": "72",
+      "article_title": "District-level Committee on disability.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 73,
+      "article_number": "73",
+      "article_title": "Vacancies not to invalidate proceedings.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 74,
+      "article_number": "74",
+      "article_title": "Appointment of Chief Commissioner and Commissioners.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 75,
+      "article_number": "75",
+      "article_title": "Functions of Chief Commissioner.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 76,
+      "article_number": "76",
+      "article_title": "Action of appropriate authorities on recommendation of Chief Commissioner.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 77,
+      "article_number": "77",
+      "article_title": "Powers of Chief Commissioner.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 78,
+      "article_number": "78",
+      "article_title": "Annual and special reports by Chief Commissioner.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 79,
+      "article_number": "79",
+      "article_title": "Appointment of State Commissioner in States.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 80,
+      "article_number": "80",
+      "article_title": "Functions of State Commissioner.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 81,
+      "article_number": "81",
+      "article_title": "Action by appropriate authorities on recommendation of State Commissioner.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 82,
+      "article_number": "82",
+      "article_title": "Powers of State Commissioner.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 83,
+      "article_number": "83",
+      "article_title": "Annual and special reports by State Commissioner.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 84,
+      "article_number": "84",
+      "article_title": "Special Court.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 85,
+      "article_number": "85",
+      "article_title": "Special Public Prosecutor.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 86,
+      "article_number": "86",
+      "article_title": "National Fund for persons with disabilities.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 87,
+      "article_number": "87",
+      "article_title": "Accounts and audit.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 88,
+      "article_number": "88",
+      "article_title": "State Fund for persons with disabilities.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 89,
+      "article_number": "89",
+      "article_title": "Punishment for contravention of provisions of Act or rules or regulations made thereunder.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 90,
+      "article_number": "90",
+      "article_title": "Offences by companies.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 91,
+      "article_number": "91",
+      "article_title": "Punishment for fraudulently availing any benefit meant for persons with benchmark disabilities.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 92,
+      "article_number": "92",
+      "article_title": "Punishment for offences of atrocities.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 93,
+      "article_number": "93",
+      "article_title": "Punishment for failure to furnish information.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 94,
+      "article_number": "94",
+      "article_title": "Previous sanction of appropriate Government.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 95,
+      "article_number": "95",
+      "article_title": "Alternative punishments.",
+      "file": "section_95.json"
+    },
+    {
+      "order": 96,
+      "article_number": "96",
+      "article_title": "Application of other laws not barred.",
+      "file": "section_96.json"
+    },
+    {
+      "order": 97,
+      "article_number": "97",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_97.json"
+    },
+    {
+      "order": 98,
+      "article_number": "98",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 99,
+      "article_number": "99",
+      "article_title": "Power to amend Schedule.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 100,
+      "article_number": "100",
+      "article_title": "Power of Central Government to make rules.",
+      "file": "section_100.json"
+    },
+    {
+      "order": 101,
+      "article_number": "101",
+      "article_title": "Power of State Government to make rules.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 102,
+      "article_number": "102",
+      "article_title": "Repeal and savings.",
+      "file": "section_102.json"
+    },
+    {
+      "order": 103,
+      "article_number": "schedule",
+      "article_title": "The Schedule",
+      "file": "section_schedule.json"
+    }
+  ]
+}

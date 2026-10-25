@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-49.html",
+    "source_order": 49,
+    "article_order": 1,
+    "order": 394,
+    "stem": "section_I",
+    "heading_number": "Schedules",
+    "heading_title": "The Schedules",
+    "heading_range": "9 in all",
+    "heading_source": "group-head",
+    "article_number": "I",
+    "article_title": "SCHEDULE I"
+  },
+  "id": "succession_section_I",
+  "heading": {
+    "number": "Schedules",
+    "title": "The Schedules",
+    "range": "9 in all"
+  },
+  "article": {
+    "number": "I",
+    "title": "SCHEDULE I",
+    "content": "Schedule I\n\n(See section 28)  ·  page 97 of the Act\nTable of Consanguinity\n\n\n\n\n\n\n\nGreat Grandfather’s Father.\n\n\n\n\n\n4\n\n\n\n\n\nGreat Grandfather.\nGreat Great Uncle.\n\n\n\n\n3\n5\n\n\n\n\nGrandfather.\nGreat Uncle.\n\n\n\n\n2\n4\n\n\n\n\nFather\nUncle.\nGreat Uncle’s son.\n\n\n\n1\n3\n5\n\n\n\nTHE PERSON WHOSE RELATIVES ARE TO BE RECKONED\nBrother.\nCousin-german.\nSecond Cousin.\n\n\n\n2\n4\n6\n\n\nSon.\n\nNephew.\nSon of the Cousin-german.\n\n\n1\n\n3\n5\n\n\nGrandson.\n\n\nSon of the Nephew or Brother’s\nGrandson of the Cousin-german.\n\n2\n\n\nGrandson.\n\n\nGreat Grandson.\n\n\n\n\n\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"I\" data-report=\"The I Schedule · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\">Schedule I</h3></div><p class=\"prov-cite\">(See section 28)  ·  page 97 of the Act</p><p class=\"sched-title\">Table of Consanguinity</p><div class=\"prov-body\"><table class=\"fee\"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Great Grandfather’s Father.</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>Great Grandfather.</td><td>Great Great Uncle.</td><td></td><td></td><td></td></tr><tr><td>3</td><td>5</td><td></td><td></td><td></td></tr><tr><td>Grandfather.</td><td>Great Uncle.</td><td></td><td></td><td></td></tr><tr><td>2</td><td>4</td><td></td><td></td><td></td></tr><tr><td>Father</td><td>Uncle.</td><td>Great Uncle’s son.</td><td></td><td></td></tr><tr><td>1</td><td>3</td><td>5</td><td></td><td></td></tr><tr><td>THE PERSON WHOSE RELATIVES ARE TO BE RECKONED</td><td>Brother.</td><td>Cousin-german.</td><td>Second Cousin.</td><td></td></tr><tr><td></td><td>2</td><td>4</td><td>6</td><td></td></tr><tr><td>Son.</td><td></td><td>Nephew.</td><td>Son of the Cousin-german.</td><td></td></tr><tr><td>1</td><td></td><td>3</td><td>5</td><td></td></tr><tr><td>Grandson.</td><td></td><td></td><td>Son of the Nephew or Brother’s</td><td>Grandson of the Cousin-german.</td></tr><tr><td>2</td><td></td><td></td><td>Grandson.</td><td></td></tr><tr><td>Great Grandson.</td><td></td><td></td><td></td><td></td></tr></tbody></table></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\">Schedule I</h3></div><p class=\"prov-cite\">(See section 28)  ·  page 97 of the Act</p><p class=\"sched-title\">Table of Consanguinity</p><div class=\"prov-body\"><table class=\"fee\"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Great Grandfather’s Father.</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>Great Grandfather.</td><td>Great Great Uncle.</td><td></td><td></td><td></td></tr><tr><td>3</td><td>5</td><td></td><td></td><td></td></tr><tr><td>Grandfather.</td><td>Great Uncle.</td><td></td><td></td><td></td></tr><tr><td>2</td><td>4</td><td></td><td></td><td></td></tr><tr><td>Father</td><td>Uncle.</td><td>Great Uncle’s son.</td><td></td><td></td></tr><tr><td>1</td><td>3</td><td>5</td><td></td><td></td></tr><tr><td>THE PERSON WHOSE RELATIVES ARE TO BE RECKONED</td><td>Brother.</td><td>Cousin-german.</td><td>Second Cousin.</td><td></td></tr><tr><td></td><td>2</td><td>4</td><td>6</td><td></td></tr><tr><td>Son.</td><td></td><td>Nephew.</td><td>Son of the Cousin-german.</td><td></td></tr><tr><td>1</td><td></td><td>3</td><td>5</td><td></td></tr><tr><td>Grandson.</td><td></td><td></td><td>Son of the Nephew or Brother’s</td><td>Grandson of the Cousin-german.</td></tr><tr><td>2</td><td></td><td></td><td>Grandson.</td><td></td></tr><tr><td>Great Grandson.</td><td></td><td></td><td></td><td></td></tr></tbody></table></div>"
+  }
+}

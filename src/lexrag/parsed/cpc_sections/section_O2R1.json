@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-14.html",
+    "source_order": 14,
+    "article_order": 1,
+    "order": 188,
+    "stem": "section_O2R1",
+    "heading_number": "Order II",
+    "heading_title": "Frame of suit",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O2R1",
+    "article_title": "Frame of suit."
+  },
+  "id": "cpc_section_O2R1",
+  "heading": {
+    "number": "Order II",
+    "title": "Frame of suit",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O2R1",
+    "title": "Frame of suit.",
+    "content": "1Frame of suit.\n\nOrder 2, Rule 1\nEvery suit shall as far as practicable be framed so as to afford ground for final decision upon the subjects in dispute and to prevent further litigation concerning them.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O2R1\" data-report=\"Order 2, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Frame of suit.</h3></div><p class=\"prov-cite\">Order 2, Rule 1</p><div class=\"prov-body\"><p>Every suit shall as far as practicable be framed so as to afford ground for final decision upon the subjects in dispute and to prevent further litigation concerning them.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Frame of suit.</h3></div><p class=\"prov-cite\">Order 2, Rule 1</p><div class=\"prov-body\"><p>Every suit shall as far as practicable be framed so as to afford ground for final decision upon the subjects in dispute and to prevent further litigation concerning them.</p></div>"
+  }
+}

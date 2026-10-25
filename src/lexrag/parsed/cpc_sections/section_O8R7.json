@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-20.html",
+    "source_order": 20,
+    "article_order": 15,
+    "order": 290,
+    "stem": "section_O8R7",
+    "heading_number": "Order VIII",
+    "heading_title": "Written statement, set-off and counter-claim",
+    "heading_range": "19 rules",
+    "heading_source": "group-head",
+    "article_number": "O8R7",
+    "article_title": "Defence or set-off founded upon separate grounds."
+  },
+  "id": "cpc_section_O8R7",
+  "heading": {
+    "number": "Order VIII",
+    "title": "Written statement, set-off and counter-claim",
+    "range": "19 rules"
+  },
+  "article": {
+    "number": "O8R7",
+    "title": "Defence or set-off founded upon separate grounds.",
+    "content": "7Defence or set-off founded upon separate grounds.\n\nOrder 8, Rule 7\nWhere the defendant relies upon several distinct grounds of defence or set-off 1[or counter-claim] founded upon separate and distinct facts, they shall be stated, as far as may be, separately and distinctly.\n\n1 Ins. by Act 104 of 1976, s. 58 (w.e.f. 1-2-1977).\n\n",
+    "html": "<article class=\"provision\" data-n=\"O8R7\" data-report=\"Order 8, Rule 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Defence or set-off founded upon separate grounds.</h3></div><p class=\"prov-cite\">Order 8, Rule 7</p><div class=\"prov-body\"><p>Where the defendant relies upon several distinct grounds of defence or set-off <sup>1</sup>[or counter-claim] founded upon separate and distinct facts, they shall be stated, as far as may be, separately and distinctly.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 58 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Defence or set-off founded upon separate grounds.</h3></div><p class=\"prov-cite\">Order 8, Rule 7</p><div class=\"prov-body\"><p>Where the defendant relies upon several distinct grounds of defence or set-off <sup>1</sup>[or counter-claim] founded upon separate and distinct facts, they shall be stated, as far as may be, separately and distinctly.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 58 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

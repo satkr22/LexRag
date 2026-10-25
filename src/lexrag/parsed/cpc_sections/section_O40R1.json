@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-59.html",
+    "source_order": 59,
+    "article_order": 1,
+    "order": 798,
+    "stem": "section_O40R1",
+    "heading_number": "Order XL",
+    "heading_title": "Appointment of Receivers",
+    "heading_range": "5 rules",
+    "heading_source": "group-head",
+    "article_number": "O40R1",
+    "article_title": "Appointment of receivers."
+  },
+  "id": "cpc_section_O40R1",
+  "heading": {
+    "number": "Order XL",
+    "title": "Appointment of Receivers",
+    "range": "5 rules"
+  },
+  "article": {
+    "number": "O40R1",
+    "title": "Appointment of receivers.",
+    "content": "1Appointment of receivers.\n\nOrder 40, Rule 1\n(1) Where it appears to the Court to be just and convenient, the Court may by order—\n(a) appoint a receiver of any property, whether before or after decree;\n(b) remove any person from the possession or custody of the property;\n(c) commit the same to the possession, custody or management of the receiver; and\n(d) confer upon the receiver all such powers, as to bringing and defending suits and for the realisation, management, protection, preservation and improvement of the property, the collection of the rents and profits thereof, the application and disposal of such rents and profits, and the execution of documents as the owner himself has, or such of those powers as the Court thinks fit.\n(2) Nothing in this rule shall authorise the Court to remove from the possession or custody of property any person whom any party to the suit has not a present right so to remove.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O40R1\" data-report=\"Order 40, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Appointment of receivers.</h3></div><p class=\"prov-cite\">Order 40, Rule 1</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where it appears to the Court to be just and convenient, the Court may by order—</p><p class=\"lvl\">(a) appoint a receiver of any property, whether before or after decree;</p><p class=\"lvl\">(b) remove any person from the possession or custody of the property;</p><p class=\"lvl\">(c) commit the same to the possession, custody or management of the receiver; and</p><p class=\"lvl\">(d) confer upon the receiver all such powers, as to bringing and defending suits and for the realisation, management, protection, preservation and improvement of the property, the collection of the rents and profits thereof, the application and disposal of such rents and profits, and the execution of documents as the owner himself has, or such of those powers as the Court thinks fit.</p><p class=\"lvl\">(2) Nothing in this rule shall authorise the Court to remove from the possession or custody of property any person whom any party to the suit has not a present right so to remove.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Appointment of receivers.</h3></div><p class=\"prov-cite\">Order 40, Rule 1</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where it appears to the Court to be just and convenient, the Court may by order—</p><p class=\"lvl\">(a) appoint a receiver of any property, whether before or after decree;</p><p class=\"lvl\">(b) remove any person from the possession or custody of the property;</p><p class=\"lvl\">(c) commit the same to the possession, custody or management of the receiver; and</p><p class=\"lvl\">(d) confer upon the receiver all such powers, as to bringing and defending suits and for the realisation, management, protection, preservation and improvement of the property, the collection of the rents and profits thereof, the application and disposal of such rents and profits, and the execution of documents as the owner himself has, or such of those powers as the Court thinks fit.</p><p class=\"lvl\">(2) Nothing in this rule shall authorise the Court to remove from the possession or custody of property any person whom any party to the suit has not a present right so to remove.</p></div>"
+  }
+}

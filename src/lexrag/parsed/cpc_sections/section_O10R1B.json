@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-22.html",
+    "source_order": 22,
+    "article_order": 3,
+    "order": 311,
+    "stem": "section_O10R1B",
+    "heading_number": "Order X",
+    "heading_title": "Examination of parties by the court",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O10R1B",
+    "article_title": "Appearance before the conciliatory forum or authority."
+  },
+  "id": "cpc_section_O10R1B",
+  "heading": {
+    "number": "Order X",
+    "title": "Examination of parties by the court",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O10R1B",
+    "title": "Appearance before the conciliatory forum or authority.",
+    "content": "1BAppearance before the conciliatory forum or authority.\n\nOrder 10, Rule 1B\nWhere a suit is referred under rule 1A, the parties shall appear before such forum or authority for conciliation of the suit.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O10R1B\" data-report=\"Order 10, Rule 1B · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1B</span>Appearance before the conciliatory forum or authority.</h3></div><p class=\"prov-cite\">Order 10, Rule 1B</p><div class=\"prov-body\"><p>Where a suit is referred under rule 1A, the parties shall appear before such forum or authority for conciliation of the suit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1B</span>Appearance before the conciliatory forum or authority.</h3></div><p class=\"prov-cite\">Order 10, Rule 1B</p><div class=\"prov-body\"><p>Where a suit is referred under rule 1A, the parties shall appear before such forum or authority for conciliation of the suit.</p></div>"
+  }
+}

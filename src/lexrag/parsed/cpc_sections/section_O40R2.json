@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-59.html",
+    "source_order": 59,
+    "article_order": 2,
+    "order": 799,
+    "stem": "section_O40R2",
+    "heading_number": "Order XL",
+    "heading_title": "Appointment of Receivers",
+    "heading_range": "5 rules",
+    "heading_source": "group-head",
+    "article_number": "O40R2",
+    "article_title": "Remuneration."
+  },
+  "id": "cpc_section_O40R2",
+  "heading": {
+    "number": "Order XL",
+    "title": "Appointment of Receivers",
+    "range": "5 rules"
+  },
+  "article": {
+    "number": "O40R2",
+    "title": "Remuneration.",
+    "content": "2Remuneration.\n\nOrder 40, Rule 2\nThe Court may by general or special order fix the amount to be paid as remuneration for the services of the receiver.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O40R2\" data-report=\"Order 40, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Remuneration.</h3></div><p class=\"prov-cite\">Order 40, Rule 2</p><div class=\"prov-body\"><p>The Court may by general or special order fix the amount to be paid as remuneration for the services of the receiver.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Remuneration.</h3></div><p class=\"prov-cite\">Order 40, Rule 2</p><div class=\"prov-body\"><p>The Court may by general or special order fix the amount to be paid as remuneration for the services of the receiver.</p></div>"
+  }
+}

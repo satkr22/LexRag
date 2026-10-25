@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "document_title": null,
+    "source_file": "bsa_sections/section-66.html",
+    "source_order": 66,
+    "article_order": 1,
+    "order": 66,
+    "stem": "section_66",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "66",
+    "article_title": "Proof as to electronic signature"
+  },
+  "id": "bsa_section_66",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "66",
+    "title": "Proof as to electronic signature",
+    "content": "66Proof as to electronic signature\n\nSection 66 · Part III · Chapter V\nExcept in the case of a secure electronic signature, if the electronic signature of any subscriber is alleged to have been affixed to an electronic record, the fact that such electronic signature is the electronic signature of the subscriber must be proved.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">66</span>Proof as to electronic signature</h3></div><p class=\"prov-cite\">Section 66 · Part III · Chapter V</p><div class=\"prov-body\"><p>Except in the case of a secure electronic signature, if the electronic signature of any subscriber is alleged to have been affixed to an electronic record, the fact that such electronic signature is the electronic signature of the subscriber must be proved.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">66</span>Proof as to electronic signature</h3></div><p class=\"prov-cite\">Section 66 · Part III · Chapter V</p><div class=\"prov-body\"><p>Except in the case of a secure electronic signature, if the electronic signature of any subscriber is alleged to have been affixed to an electronic record, the fact that such electronic signature is the electronic signature of the subscriber must be proved.</p></div>"
+  }
+}

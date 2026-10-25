@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-03.html",
+    "source_order": 3,
+    "article_order": 13,
+    "order": 25,
+    "stem": "section_23",
+    "heading_number": "Part III",
+    "heading_title": "Fundamental Rights",
+    "heading_range": "12 – 35",
+    "heading_source": "group-head",
+    "article_number": "23",
+    "article_title": "Prohibition of traffic in human beings and forced labour"
+  },
+  "id": "constitution_section_23",
+  "heading": {
+    "number": "Part III",
+    "title": "Fundamental Rights",
+    "range": "12 – 35"
+  },
+  "article": {
+    "number": "23",
+    "title": "Prohibition of traffic in human beings and forced labour",
+    "content": "23Prohibition of traffic in human beings and forced labour\n\nArticle 23 · Part III · Right against Exploitation\n(1)Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.\n(2)Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.\n\n",
+    "html": "<article class=\"provision\" data-n=\"23\" data-report=\"Article 23 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Prohibition of traffic in human beings and forced labour</h3></div><p class=\"prov-cite\">Article 23 · Part III · Right against Exploitation</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.</p><p><span class=\"lbl\">(2)</span>Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Prohibition of traffic in human beings and forced labour</h3></div><p class=\"prov-cite\">Article 23 · Part III · Right against Exploitation</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.</p><p><span class=\"lbl\">(2)</span>Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.</p></div>"
+  }
+}

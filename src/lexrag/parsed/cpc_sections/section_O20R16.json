@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 20,
+    "order": 471,
+    "stem": "section_O20R16",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R16",
+    "article_title": "Decree in suit for account between principal and agent."
+  },
+  "id": "cpc_section_O20R16",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R16",
+    "title": "Decree in suit for account between principal and agent.",
+    "content": "16Decree in suit for account between principal and agent.\n\nOrder 20, Rule 16\nIn a suit for an account of pecuniary transactions between a principal and an agent, and in any other suit not hereinbefore provided for, where it is necessary, in order to ascertain the amount of money due to or from any party, that an account should be taken,\nthe Court shall, before passing its final decree, pass a preliminary decree directing such accounts to be taken as it thinks fit.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O20R16\" data-report=\"Order 20, Rule 16 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Decree in suit for account between principal and agent.</h3></div><p class=\"prov-cite\">Order 20, Rule 16</p><div class=\"prov-body\"><p>In a suit for an account of pecuniary transactions between a principal and an agent, and in any other suit not hereinbefore provided for, where it is necessary, in order to ascertain the amount of money due to or from any party, that an account should be taken,</p><p>the Court shall, before passing its final decree, pass a preliminary decree directing such accounts to be taken as it thinks fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Decree in suit for account between principal and agent.</h3></div><p class=\"prov-cite\">Order 20, Rule 16</p><div class=\"prov-body\"><p>In a suit for an account of pecuniary transactions between a principal and an agent, and in any other suit not hereinbefore provided for, where it is necessary, in order to ascertain the amount of money due to or from any party, that an account should be taken,</p><p>the Court shall, before passing its final decree, pass a preliminary decree directing such accounts to be taken as it thinks fit.</p></div>"
+  }
+}

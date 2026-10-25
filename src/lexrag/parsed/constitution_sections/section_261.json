@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-14.html",
+    "source_order": 14,
+    "article_order": 20,
+    "order": 338,
+    "stem": "section_261",
+    "heading_number": "Part XI",
+    "heading_title": "Relations between the Union and the States",
+    "heading_range": "245 – 263",
+    "heading_source": "group-head",
+    "article_number": "261",
+    "article_title": "Public acts, records and judicial proceedings"
+  },
+  "id": "constitution_section_261",
+  "heading": {
+    "number": "Part XI",
+    "title": "Relations between the Union and the States",
+    "range": "245 – 263"
+  },
+  "article": {
+    "number": "261",
+    "title": "Public acts, records and judicial proceedings",
+    "content": "261Public acts, records and judicial proceedings\n\nArticle 261 · Part XI · General\n(1)Full faith and credit shall be given throughout the territory of India to public acts, records and judicial proceedings of the Union and of every State.\n(2)The manner in which and the conditions under which the acts, records and proceedings referred to in clause (1) shall be proved and the effect thereof determined shall be as provided by law made by Parliament.\n(3)Final judgments or orders delivered or passed by civil courts in any part of the territory of India shall be capable of execution anywhere within that territory according to law.\n\n",
+    "html": "<article class=\"provision\" data-n=\"261\" data-report=\"Article 261 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">261</span>Public acts, records and judicial proceedings</h3></div><p class=\"prov-cite\">Article 261 · Part XI · General</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Full faith and credit shall be given throughout the territory of India to public acts, records and judicial proceedings of the Union and of every State.</p><p><span class=\"lbl\">(2)</span>The manner in which and the conditions under which the acts, records and proceedings referred to in clause (1) shall be proved and the effect thereof determined shall be as provided by law made by Parliament.</p><p><span class=\"lbl\">(3)</span>Final judgments or orders delivered or passed by civil courts in any part of the territory of India shall be capable of execution anywhere within that territory according to law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">261</span>Public acts, records and judicial proceedings</h3></div><p class=\"prov-cite\">Article 261 · Part XI · General</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Full faith and credit shall be given throughout the territory of India to public acts, records and judicial proceedings of the Union and of every State.</p><p><span class=\"lbl\">(2)</span>The manner in which and the conditions under which the acts, records and proceedings referred to in clause (1) shall be proved and the effect thereof determined shall be as provided by law made by Parliament.</p><p><span class=\"lbl\">(3)</span>Final judgments or orders delivered or passed by civil courts in any part of the territory of India shall be capable of execution anywhere within that territory according to law.</p></div>"
+  }
+}

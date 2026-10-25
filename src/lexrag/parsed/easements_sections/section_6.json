@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-6.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "section_6",
+    "heading_number": "Chapter I",
+    "heading_title": "Of Easements Generally",
+    "heading_range": "ss. 4–7",
+    "heading_source": "manifest",
+    "article_number": "6",
+    "article_title": "Easement for limited time or on condition."
+  },
+  "id": "easements_section_6",
+  "heading": {
+    "number": "Chapter I",
+    "title": "Of Easements Generally",
+    "range": "ss. 4–7"
+  },
+  "article": {
+    "number": "6",
+    "title": "Easement for limited time or on condition.",
+    "content": "6Easement for limited time or on condition.\n\nSection 6  ·  Chapter I  ·  page 6 of the Act\nAn easement may be permanent, or for a term of years or other limited period, or subject to periodical interruption, or exercisable only at a certain place or at certain times, or between certain hours, or for a particular purpose, or on condition that it shall commence or become void or voidable on the happening of a specified event or the performance or non-performance of a specified act.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Easement for limited time or on condition.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter I  ·  page 6 of the Act</p><div class=\"prov-body\"><p>An easement may be permanent, or for a term of years or other limited period, or subject to periodical interruption, or exercisable only at a certain place or at certain times, or between certain hours, or for a particular purpose, or on condition that it shall commence or become void or voidable on the happening of a specified event or the performance or non-performance of a specified act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Easement for limited time or on condition.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter I  ·  page 6 of the Act</p><div class=\"prov-body\"><p>An easement may be permanent, or for a term of years or other limited period, or subject to periodical interruption, or exercisable only at a certain place or at certain times, or between certain hours, or for a particular purpose, or on condition that it shall commence or become void or voidable on the happening of a specified event or the performance or non-performance of a specified act.</p></div>"
+  }
+}

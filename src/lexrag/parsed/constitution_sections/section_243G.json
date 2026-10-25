@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-10.html",
+    "source_order": 10,
+    "article_order": 8,
+    "order": 277,
+    "stem": "section_243G",
+    "heading_number": "Part IX",
+    "heading_title": "The Panchayats",
+    "heading_range": "243 – 243O",
+    "heading_source": "group-head",
+    "article_number": "243G",
+    "article_title": "Powers, authority and responsibilities of Panchayats"
+  },
+  "id": "constitution_section_243G",
+  "heading": {
+    "number": "Part IX",
+    "title": "The Panchayats",
+    "range": "243 – 243O"
+  },
+  "article": {
+    "number": "243G",
+    "title": "Powers, authority and responsibilities of Panchayats",
+    "content": "243GPowers, authority and responsibilities of Panchayats\n\nArticle 243G · Part IX\nSubject to the provisions of this Constitution, the Legislature of a State may, by law, endow the Panchayats with such powers and authority as may be necessary to enable them to function as institutions of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Panchayats at the appropriate level, subject to such conditions as may be specified therein, with respect to—\n(a)the preparation of plans for economic development and social justice;\n(b)the implementation of schemes for economic development and social justice as may be entrusted to them including those in relation to the matters listed in the Eleventh Schedule.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243G\" data-report=\"Article 243G · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243G</span>Powers, authority and responsibilities of Panchayats</h3></div><p class=\"prov-cite\">Article 243G · Part IX</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, the Legislature of a State may, by law, endow the Panchayats with such powers and authority as may be necessary to enable them to function as institutions of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Panchayats at the appropriate level, subject to such conditions as may be specified therein, with respect to—</p><p><span class=\"lbl\">(a)</span>the preparation of plans for economic development and social justice;</p><p><span class=\"lbl\">(b)</span>the implementation of schemes for economic development and social justice as may be entrusted to them including those in relation to the matters listed in the Eleventh Schedule.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243G</span>Powers, authority and responsibilities of Panchayats</h3></div><p class=\"prov-cite\">Article 243G · Part IX</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, the Legislature of a State may, by law, endow the Panchayats with such powers and authority as may be necessary to enable them to function as institutions of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Panchayats at the appropriate level, subject to such conditions as may be specified therein, with respect to—</p><p><span class=\"lbl\">(a)</span>the preparation of plans for economic development and social justice;</p><p><span class=\"lbl\">(b)</span>the implementation of schemes for economic development and social justice as may be entrusted to them including those in relation to the matters listed in the Eleventh Schedule.</p></div>"
+  }
+}

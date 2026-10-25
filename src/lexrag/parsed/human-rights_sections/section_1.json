@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "human-rights",
+    "document_title": null,
+    "source_file": "human-rights_sections/section-1.html",
+    "source_order": 1,
+    "article_order": 1,
+    "order": 1,
+    "stem": "section_1",
+    "heading_number": "Chapter I",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–2",
+    "heading_source": "manifest",
+    "article_number": "1",
+    "article_title": "Short title, extent and commencement."
+  },
+  "id": "human-rights_section_1",
+  "heading": {
+    "number": "Chapter I",
+    "title": "Preliminary",
+    "range": "ss. 1–2"
+  },
+  "article": {
+    "number": "1",
+    "title": "Short title, extent and commencement.",
+    "content": "1Short title, extent and commencement.\n\nSection 1  ·  Chapter I  ·  page 3 of the Act\n(1) This Act may be called the Protection of Human Rights Act, 1993.\n(2) It extends to the whole of India:\n1* * * * *\n(3) It shall be deemed to have come into force on the 28th day of September, 1993.\n1 The proviso omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019).\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title, extent and commencement.</h3></div><p class=\"prov-cite\">Section 1  ·  Chapter I  ·  page 3 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) This Act may be called the Protection of Human Rights Act, 1993.</p><p class=\"lvl\">(2) It extends to the whole of India:</p><p><sup>1</sup>* * * * *</p><p class=\"lvl\">(3) It shall be deemed to have come into force on the 28th day of September, 1993.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> The proviso omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title, extent and commencement.</h3></div><p class=\"prov-cite\">Section 1  ·  Chapter I  ·  page 3 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) This Act may be called the Protection of Human Rights Act, 1993.</p><p class=\"lvl\">(2) It extends to the whole of India:</p><p><sup>1</sup>* * * * *</p><p class=\"lvl\">(3) It shall be deemed to have come into force on the 28th day of September, 1993.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> The proviso omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019).</p></div></div>"
+  }
+}

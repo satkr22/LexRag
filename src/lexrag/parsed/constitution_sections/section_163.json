@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 12,
+    "order": 182,
+    "stem": "section_163",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "163",
+    "article_title": "Council of Ministers to aid and advise Governor"
+  },
+  "id": "constitution_section_163",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "163",
+    "title": "Council of Ministers to aid and advise Governor",
+    "content": "163Council of Ministers to aid and advise Governor\n\nArticle 163 · Part VI · Council of Ministers\n(1)There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except in so far as he is by or under this Constitution required to exercise his functions or any of them in his discretion.\n(2)If any question arises whether any matter is or is not a matter as respects which the Governor is by or under this Constitution required to act in his discretion, the decision of the Governor in his discretion shall be final, and the validity of anything done by the Governor shall not be called in question on the ground that he ought or ought not to have acted in his discretion.\n(3)The question whether any, and if so what, advice was tendered by Ministers to the Governor shall not be inquired into in any court.\n\n",
+    "html": "<article class=\"provision\" data-n=\"163\" data-report=\"Article 163 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">163</span>Council of Ministers to aid and advise Governor</h3></div><p class=\"prov-cite\">Article 163 · Part VI · Council of Ministers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except in so far as he is by or under this Constitution required to exercise his functions or any of them in his discretion.</p><p><span class=\"lbl\">(2)</span>If any question arises whether any matter is or is not a matter as respects which the Governor is by or under this Constitution required to act in his discretion, the decision of the Governor in his discretion shall be final, and the validity of anything done by the Governor shall not be called in question on the ground that he ought or ought not to have acted in his discretion.</p><p><span class=\"lbl\">(3)</span>The question whether any, and if so what, advice was tendered by Ministers to the Governor shall not be inquired into in any court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">163</span>Council of Ministers to aid and advise Governor</h3></div><p class=\"prov-cite\">Article 163 · Part VI · Council of Ministers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except in so far as he is by or under this Constitution required to exercise his functions or any of them in his discretion.</p><p><span class=\"lbl\">(2)</span>If any question arises whether any matter is or is not a matter as respects which the Governor is by or under this Constitution required to act in his discretion, the decision of the Governor in his discretion shall be final, and the validity of anything done by the Governor shall not be called in question on the ground that he ought or ought not to have acted in his discretion.</p><p><span class=\"lbl\">(3)</span>The question whether any, and if so what, advice was tendered by Ministers to the Governor shall not be inquired into in any court.</p></div>"
+  }
+}

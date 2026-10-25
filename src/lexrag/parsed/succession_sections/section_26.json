@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-04.html",
+    "source_order": 4,
+    "article_order": 4,
+    "order": 26,
+    "stem": "section_26",
+    "heading_number": "Part IV",
+    "heading_title": "Of Consanguinity",
+    "heading_range": "ss. 23–28",
+    "heading_source": "group-head",
+    "article_number": "26",
+    "article_title": "Collateral consanguinity."
+  },
+  "id": "succession_section_26",
+  "heading": {
+    "number": "Part IV",
+    "title": "Of Consanguinity",
+    "range": "ss. 23–28"
+  },
+  "article": {
+    "number": "26",
+    "title": "Collateral consanguinity.",
+    "content": "26Collateral consanguinity.\n\nSection 26  ·  Part IV  ·  page 21 of the Act\n(1) Collateral consanguinity is that which subsists between two persons who are decended from the same stock or ancestor, but neither of whom is descended in a direct line from the other.\n(2) For the purpose of ascertaining in what degree of kindred any collateral relative stands to a person deceased, it is necessary to reckon upwards from the person deceased to the common stock and then downwards to the collateral relative, a degree being allowed for each person, both ascending and descending.\n\n",
+    "html": "<article class=\"provision\" data-n=\"26\" data-report=\"Section 26 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">26</span>Collateral consanguinity.</h3></div><p class=\"prov-cite\">Section 26  ·  Part IV  ·  page 21 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Collateral consanguinity is that which subsists between two persons who are decended from the same stock or ancestor, but neither of whom is descended in a direct line from the other.</p><p class=\"lvl\">(2) For the purpose of ascertaining in what degree of kindred any collateral relative stands to a person deceased, it is necessary to reckon upwards from the person deceased to the common stock and then downwards to the collateral relative, a degree being allowed for each person, both ascending and descending.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">26</span>Collateral consanguinity.</h3></div><p class=\"prov-cite\">Section 26  ·  Part IV  ·  page 21 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Collateral consanguinity is that which subsists between two persons who are decended from the same stock or ancestor, but neither of whom is descended in a direct line from the other.</p><p class=\"lvl\">(2) For the purpose of ascertaining in what degree of kindred any collateral relative stands to a person deceased, it is necessary to reckon upwards from the person deceased to the common stock and then downwards to the collateral relative, a degree being allowed for each person, both ascending and descending.</p></div>"
+  }
+}

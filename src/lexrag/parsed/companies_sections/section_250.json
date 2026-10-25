@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "companies",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-18.html",
+    "source_order": 18,
+    "article_order": 3,
+    "order": 254,
+    "stem": "section_250",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Removal of Names of Companies from the Register of Companies",
+    "heading_range": "ss. 248–252",
+    "heading_source": "group-head",
+    "article_number": "250",
+    "article_title": "Effect of company notified as dissolved."
+  },
+  "id": "companies_section_250",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Removal of Names of Companies from the Register of Companies",
+    "range": "ss. 248–252"
+  },
+  "article": {
+    "number": "250",
+    "title": "Effect of company notified as dissolved.",
+    "content": "250Effect of company notified as dissolved.\n\nSection 250  ·  Chapter XVIII  ·  page 168 of the Act\nWhere a company stands dissolved under section 248, it shall on and from the date mentioned in the notice under sub-section (5) of that section cease to operate as a company and the Certificate of Incorporation issued to it shall be deemed to have been cancelled from such date except for the purpose of realising the amount due to the company and for the payment or discharge of the liabilities or obligations of the company.\n\n",
+    "html": "<article class=\"provision\" data-n=\"250\" data-report=\"Section 250 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">250</span>Effect of company notified as dissolved.</h3></div><p class=\"prov-cite\">Section 250  ·  Chapter XVIII  ·  page 168 of the Act</p><div class=\"prov-body\"><p>Where a company stands dissolved under section 248, it shall on and from the date mentioned in the notice under sub-section (5) of that section cease to operate as a company and the Certificate of Incorporation issued to it shall be deemed to have been cancelled from such date except for the purpose of realising the amount due to the company and for the payment or discharge of the liabilities or obligations of the company.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">250</span>Effect of company notified as dissolved.</h3></div><p class=\"prov-cite\">Section 250  ·  Chapter XVIII  ·  page 168 of the Act</p><div class=\"prov-body\"><p>Where a company stands dissolved under section 248, it shall on and from the date mentioned in the notice under sub-section (5) of that section cease to operate as a company and the Certificate of Incorporation issued to it shall be deemed to have been cancelled from such date except for the purpose of realising the amount due to the company and for the payment or discharge of the liabilities or obligations of the company.</p></div>"
+  }
+}

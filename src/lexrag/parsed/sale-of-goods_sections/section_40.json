@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-40.html",
+    "source_order": 40,
+    "article_order": 1,
+    "order": 40,
+    "stem": "section_40",
+    "heading_number": "Chapter IV",
+    "heading_title": "Performance of the Contract",
+    "heading_range": "ss. 31–44",
+    "heading_source": "manifest",
+    "article_number": "40",
+    "article_title": "Risk where goods are delivered at distant place."
+  },
+  "id": "sale-of-goods_section_40",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Performance of the Contract",
+    "range": "ss. 31–44"
+  },
+  "article": {
+    "number": "40",
+    "title": "Risk where goods are delivered at distant place.",
+    "content": "40Risk where goods are delivered at distant place.\n\nSection 40  ·  Chapter IV  ·  page 11 of the Act\nWhere the seller of goods agrees to deliver them at his own risk at a place other than that where they are when sold, the buyer shall, nevertheless, unless otherwise agreed, take any risk of deterioration in the goods necessarily incident to the course of transit.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Risk where goods are delivered at distant place.</h3></div><p class=\"prov-cite\">Section 40  ·  Chapter IV  ·  page 11 of the Act</p><div class=\"prov-body\"><p>Where the seller of goods agrees to deliver them at his own risk at a place other than that where they are when sold, the buyer shall, nevertheless, unless otherwise agreed, take any risk of deterioration in the goods necessarily incident to the course of transit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Risk where goods are delivered at distant place.</h3></div><p class=\"prov-cite\">Section 40  ·  Chapter IV  ·  page 11 of the Act</p><div class=\"prov-body\"><p>Where the seller of goods agrees to deliver them at his own risk at a place other than that where they are when sold, the buyer shall, nevertheless, unless otherwise agreed, take any risk of deterioration in the goods necessarily incident to the course of transit.</p></div>"
+  }
+}

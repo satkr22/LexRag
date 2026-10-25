@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "technology",
+    "document_title": null,
+    "source_file": "technology_sections/section-11.html",
+    "source_order": 18,
+    "article_order": 1,
+    "order": 18,
+    "stem": "section_11",
+    "heading_number": "Chapter IV",
+    "heading_title": "Attribution, Acknowledgment and Despatch of Electronic Records",
+    "heading_range": "ss. 11–13",
+    "heading_source": "manifest",
+    "article_number": "11",
+    "article_title": "Attribution of electronic records."
+  },
+  "id": "technology_section_11",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Attribution, Acknowledgment and Despatch of Electronic Records",
+    "range": "ss. 11–13"
+  },
+  "article": {
+    "number": "11",
+    "title": "Attribution of electronic records.",
+    "content": "11Attribution of electronic records.\n\nSection 11  ·  Chapter IV  ·  page 11 of the Act\nAn electronic record shall be attributed to the originator–\n(a) if it was sent by the originator himself;\n(b) by a person who had the authority to act on behalf of the originator in respect of that electronic record; or\n(c) by an information system programmed by or on behalf of the originator to operate automatically.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Attribution of electronic records.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter IV  ·  page 11 of the Act</p><div class=\"prov-body\"><p>An electronic record shall be attributed to the originator–</p><p class=\"lvl\">(a) if it was sent by the originator himself;</p><p class=\"lvl\">(b) by a person who had the authority to act on behalf of the originator in respect of that electronic record; or</p><p class=\"lvl\">(c) by an information system programmed by or on behalf of the originator to operate automatically.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Attribution of electronic records.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter IV  ·  page 11 of the Act</p><div class=\"prov-body\"><p>An electronic record shall be attributed to the originator–</p><p class=\"lvl\">(a) if it was sent by the originator himself;</p><p class=\"lvl\">(b) by a person who had the authority to act on behalf of the originator in respect of that electronic record; or</p><p class=\"lvl\">(c) by an information system programmed by or on behalf of the originator to operate automatically.</p></div>"
+  }
+}

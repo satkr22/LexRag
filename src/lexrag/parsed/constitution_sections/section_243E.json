@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-10.html",
+    "source_order": 10,
+    "article_order": 6,
+    "order": 275,
+    "stem": "section_243E",
+    "heading_number": "Part IX",
+    "heading_title": "The Panchayats",
+    "heading_range": "243 – 243O",
+    "heading_source": "group-head",
+    "article_number": "243E",
+    "article_title": "Duration of Panchayats, etc"
+  },
+  "id": "constitution_section_243E",
+  "heading": {
+    "number": "Part IX",
+    "title": "The Panchayats",
+    "range": "243 – 243O"
+  },
+  "article": {
+    "number": "243E",
+    "title": "Duration of Panchayats, etc",
+    "content": "243EDuration of Panchayats, etc\n\nArticle 243E · Part IX\n(1)Every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer.\n(2)No amendment of any law for the time being in force shall have the effect of causing dissolution of a Panchayat at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).\n(3)An election to constitute a Panchayat shall be completed—\n(a)before the expiry of its duration specified in clause (1);\n(b)before the expiration of a period of six months from the date of its dissolution:\nProvisoProvided that where the remainder of the period for which the dissolved Panchayat would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Panchayat for such period.\n(4)A Panchayat constituted upon the dissolution of a Panchayat before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Panchayat would have continued under clause (1) had it not been so dissolved.\n\n",
+    "html": "<article class=\"provision\" data-n=\"243E\" data-report=\"Article 243E · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243E</span>Duration of Panchayats, etc</h3></div><p class=\"prov-cite\">Article 243E · Part IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer.</p><p><span class=\"lbl\">(2)</span>No amendment of any law for the time being in force shall have the effect of causing dissolution of a Panchayat at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).</p><p><span class=\"lbl\">(3)</span>An election to constitute a Panchayat shall be completed—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>before the expiry of its duration specified in clause (1);</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>before the expiration of a period of six months from the date of its dissolution:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the remainder of the period for which the dissolved Panchayat would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Panchayat for such period.</p><p><span class=\"lbl\">(4)</span>A Panchayat constituted upon the dissolution of a Panchayat before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Panchayat would have continued under clause (1) had it not been so dissolved.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243E</span>Duration of Panchayats, etc</h3></div><p class=\"prov-cite\">Article 243E · Part IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer.</p><p><span class=\"lbl\">(2)</span>No amendment of any law for the time being in force shall have the effect of causing dissolution of a Panchayat at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).</p><p><span class=\"lbl\">(3)</span>An election to constitute a Panchayat shall be completed—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>before the expiry of its duration specified in clause (1);</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>before the expiration of a period of six months from the date of its dissolution:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the remainder of the period for which the dissolved Panchayat would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Panchayat for such period.</p><p><span class=\"lbl\">(4)</span>A Panchayat constituted upon the dissolution of a Panchayat before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Panchayat would have continued under clause (1) had it not been so dissolved.</p></div>"
+  }
+}

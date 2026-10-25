@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "document_title": null,
+    "source_file": "partnership_sections/section-8.html",
+    "source_order": 10,
+    "article_order": 1,
+    "order": 10,
+    "stem": "section_8",
+    "heading_number": "Chapter II",
+    "heading_title": "The Nature of Partnership",
+    "heading_range": "ss. 4–8",
+    "heading_source": "manifest",
+    "article_number": "8",
+    "article_title": "Particular partnership."
+  },
+  "id": "partnership_section_8",
+  "heading": {
+    "number": "Chapter II",
+    "title": "The Nature of Partnership",
+    "range": "ss. 4–8"
+  },
+  "article": {
+    "number": "8",
+    "title": "Particular partnership.",
+    "content": "8Particular partnership.\n\nSection 8  ·  Chapter II  ·  page 5 of the Act\nA person may become a partner with another person in particular adventures or undertakings.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Particular partnership.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  page 5 of the Act</p><div class=\"prov-body\"><p>A person may become a partner with another person in particular adventures or undertakings.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Particular partnership.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  page 5 of the Act</p><div class=\"prov-body\"><p>A person may become a partner with another person in particular adventures or undertakings.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-52.html",
+    "source_order": 52,
+    "article_order": 5,
+    "order": 718,
+    "stem": "section_O33R4",
+    "heading_number": "Order XXXIII",
+    "heading_title": "Suits by indigent persons",
+    "heading_range": "22 rules",
+    "heading_source": "group-head",
+    "article_number": "O33R4",
+    "article_title": "Examination of applicant."
+  },
+  "id": "cpc_section_O33R4",
+  "heading": {
+    "number": "Order XXXIII",
+    "title": "Suits by indigent persons",
+    "range": "22 rules"
+  },
+  "article": {
+    "number": "O33R4",
+    "title": "Examination of applicant.",
+    "content": "4Examination of applicant.\n\nOrder 33, Rule 4\n(1) Where the application is in proper form and duly presented, the Court may, if it thinks fit, examine the applicant, or his agent when the applicant is allowed to appear by agent regarding the merits of the claim and the property of the applicant.\n(2) If presented by agent, Court may order applicant to be examined by commission.—Where the application is presented by an agent, the Court may, if it thinks fit, order that the applicant be examined by a commission in the manner in which the examination of an absent witness may be taken.\n\n",
+    "html": "<article class=\"provision\" data-n=\"O33R4\" data-report=\"Order 33, Rule 4 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Examination of applicant.</h3></div><p class=\"prov-cite\">Order 33, Rule 4</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the application is in proper form and duly presented, the Court may, if it thinks fit, examine the applicant, or his agent when the applicant is allowed to appear by agent regarding the merits of the claim and the property of the applicant.</p><p class=\"lvl\">(2) If presented by agent, Court may order applicant to be examined by commission.—Where the application is presented by an agent, the Court may, if it thinks fit, order that the applicant be examined by a commission in the manner in which the examination of an absent witness may be taken.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Examination of applicant.</h3></div><p class=\"prov-cite\">Order 33, Rule 4</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the application is in proper form and duly presented, the Court may, if it thinks fit, examine the applicant, or his agent when the applicant is allowed to appear by agent regarding the merits of the claim and the property of the applicant.</p><p class=\"lvl\">(2) If presented by agent, Court may order applicant to be examined by commission.—Where the application is presented by an agent, the Court may, if it thinks fit, order that the applicant be examined by a commission in the manner in which the examination of an absent witness may be taken.</p></div>"
+  }
+}

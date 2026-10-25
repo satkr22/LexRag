@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 96,
+    "order": 159,
+    "stem": "section_141",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "141",
+    "article_title": "Law declared by Supreme Court to be binding on all courts"
+  },
+  "id": "constitution_section_141",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "141",
+    "title": "Law declared by Supreme Court to be binding on all courts",
+    "content": "\n\n141Law declared by Supreme Court to be binding on all courts\n              \n\n\n\nArticle 141 · Part V\n\n\nThe law declared by the Supreme Court shall be binding on all courts within the territory of India.\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"141\" data-report=\"Article 141 · The Constitution of India\" hidden=\"\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">141</span>Law declared by Supreme Court to be binding on all courts\n              </h3>\n</div>\n<p class=\"prov-cite\">Article 141 · Part V</p>\n<div class=\"prov-body\">\n<p>The law declared by the Supreme Court shall be binding on all courts within the territory of India.</p>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">141</span>Law declared by Supreme Court to be binding on all courts\n              </h3>\n</div>\n<p class=\"prov-cite\">Article 141 · Part V</p>\n<div class=\"prov-body\">\n<p>The law declared by the Supreme Court shall be binding on all courts within the territory of India.</p>\n</div>\n"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-127.html",
+    "source_order": 132,
+    "article_order": 1,
+    "order": 132,
+    "stem": "section_127",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of Crossed Cheques",
+    "heading_range": "ss. 123–131A",
+    "heading_source": "manifest",
+    "article_number": "127",
+    "article_title": "Payment of cheque crossed specially more than once."
+  },
+  "id": "negotiable-instruments_section_127",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of Crossed Cheques",
+    "range": "ss. 123–131A"
+  },
+  "article": {
+    "number": "127",
+    "title": "Payment of cheque crossed specially more than once.",
+    "content": "127Payment of cheque crossed specially more than once.\n\nSection 127  ·  Chapter XIV  ·  page 26 of the Act\nWhere a cheque is crossed specially to more than one banker, except when crossed to an agent for the purpose of collection, the banker on whom it is drawn shall refuse payment thereof.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">127</span>Payment of cheque crossed specially more than once.</h3></div><p class=\"prov-cite\">Section 127  ·  Chapter XIV  ·  page 26 of the Act</p><div class=\"prov-body\"><p>Where a cheque is crossed specially to more than one banker, except when crossed to an agent for the purpose of collection, the banker on whom it is drawn shall refuse payment thereof.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">127</span>Payment of cheque crossed specially more than once.</h3></div><p class=\"prov-cite\">Section 127  ·  Chapter XIV  ·  page 26 of the Act</p><div class=\"prov-body\"><p>Where a cheque is crossed specially to more than one banker, except when crossed to an agent for the purpose of collection, the banker on whom it is drawn shall refuse payment thereof.</p></div>"
+  }
+}

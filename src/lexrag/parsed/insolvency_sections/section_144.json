@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-12.html",
+    "source_order": 12,
+    "article_order": 24,
+    "order": 167,
+    "stem": "section_144",
+    "heading_number": "Part III · Chapter IV",
+    "heading_title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "heading_range": "ss. 121–148",
+    "heading_source": "group-head",
+    "article_number": "144",
+    "article_title": "Fees of bankruptcy trustee."
+  },
+  "id": "insolvency_section_144",
+  "heading": {
+    "number": "Part III · Chapter IV",
+    "title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "range": "ss. 121–148"
+  },
+  "article": {
+    "number": "144",
+    "title": "Fees of bankruptcy trustee.",
+    "content": "144Fees of bankruptcy trustee.\n\nSection 144  ·  Part III · Chapter IV  ·  page 111 of the Act\n(1) A bankruptcy trustee appointed for conducting the bankruptcy process shall charge such fees as may be specified in proportion to the value of the estate of the bankrupt.\n(2) The fees for the conduct of the bankruptcy process shall be paid to the bankruptcy trustee from the distribution of the estate of the bankrupt in the manner provided in section 178.\n\n",
+    "html": "<article class=\"provision\" data-n=\"144\" data-report=\"Section 144 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">144</span>Fees of bankruptcy trustee.</h3></div><p class=\"prov-cite\">Section 144  ·  Part III · Chapter IV  ·  page 111 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A bankruptcy trustee appointed for conducting the bankruptcy process shall charge such fees as may be specified in proportion to the value of the estate of the bankrupt.</p><p class=\"lvl\">(2) The fees for the conduct of the bankruptcy process shall be paid to the bankruptcy trustee from the distribution of the estate of the bankrupt in the manner provided in section 178.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">144</span>Fees of bankruptcy trustee.</h3></div><p class=\"prov-cite\">Section 144  ·  Part III · Chapter IV  ·  page 111 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A bankruptcy trustee appointed for conducting the bankruptcy process shall charge such fees as may be specified in proportion to the value of the estate of the bankrupt.</p><p class=\"lvl\">(2) The fees for the conduct of the bankruptcy process shall be paid to the bankruptcy trustee from the distribution of the estate of the bankrupt in the manner provided in section 178.</p></div>"
+  }
+}

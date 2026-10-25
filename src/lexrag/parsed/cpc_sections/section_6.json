@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-01.html",
+    "source_order": 1,
+    "article_order": 6,
+    "order": 6,
+    "stem": "section_6",
+    "heading_number": "Preliminary",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–8",
+    "heading_source": "group-head",
+    "article_number": "6",
+    "article_title": "Pecuniary jurisdiction."
+  },
+  "id": "cpc_section_6",
+  "heading": {
+    "number": "Preliminary",
+    "title": "Preliminary",
+    "range": "ss. 1–8"
+  },
+  "article": {
+    "number": "6",
+    "title": "Pecuniary jurisdiction.",
+    "content": "6Pecuniary jurisdiction.\n\nSection 6\nSave in so far as is otherwise expressly provided, nothing herein contained shall operate to give any Court jurisdiction over suits the amount or value of the subject-matter of which exceeds the pecuniary limits (if any) of its ordinary jurisdiction.\n\n",
+    "html": "<article class=\"provision\" data-n=\"6\" data-report=\"Section 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Pecuniary jurisdiction.</h3></div><p class=\"prov-cite\">Section 6</p><div class=\"prov-body\"><p>Save in so far as is otherwise expressly provided, nothing herein contained shall operate to give any Court jurisdiction over suits the amount or value of the subject-matter of which exceeds the pecuniary limits (if any) of its ordinary jurisdiction.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Pecuniary jurisdiction.</h3></div><p class=\"prov-cite\">Section 6</p><div class=\"prov-body\"><p>Save in so far as is otherwise expressly provided, nothing herein contained shall operate to give any Court jurisdiction over suits the amount or value of the subject-matter of which exceeds the pecuniary limits (if any) of its ordinary jurisdiction.</p></div>"
+  }
+}

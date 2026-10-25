@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-13.html",
+    "source_order": 14,
+    "article_order": 25,
+    "order": 214,
+    "stem": "section_214",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Determination of Tax in Special Cases",
+    "heading_range": "ss. 190–235",
+    "heading_source": "group-head",
+    "article_number": "214",
+    "article_title": "Tax on investment income and long-term capital gains."
+  },
+  "id": "income-tax-2025_section_214",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Determination of Tax in Special Cases",
+    "range": "ss. 190–235"
+  },
+  "article": {
+    "number": "214",
+    "title": "Tax on investment income and long-term capital gains.",
+    "content": "214Tax on investment income and long-term capital gains.\n\nSection 214  ·  Chapter XIII  ·  E.—Special provisions relating to non-residents and foreign companies  ·  page 262 of the Act\nThe income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.\nSl. No.\nIncome\nRate of Income-tax payable\n\n\n1.\nIncome from investment.\n20%\n\n2.\nIncome from long-term capital gains on specified asset.\n12.5%\n\n3.\nTotal income as reduced by income referred to against serial numbers 1 and 2.\nRates in force.\n\n\n\n\n\n",
+    "html": "<article class=\"provision\" data-n=\"214\" data-report=\"Section 214 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">214</span>Tax on investment income and long-term capital gains.</h3></div><p class=\"prov-cite\">Section 214  ·  Chapter XIII  ·  E.—Special provisions relating to non-residents and foreign companies  ·  page 262 of the Act</p><div class=\"prov-body\"><p>The income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.</p><div class=\"tbl\"><table><thead><tr><th>Sl. No.</th><th>Income</th><th>Rate of Income-tax payable</th></tr></thead><tbody><tr><td>1.</td><td>Income from investment.</td><td>20%</td></tr><tr><td>2.</td><td>Income from long-term capital gains on specified asset.</td><td>12.5%</td></tr><tr><td>3.</td><td>Total income as reduced by income referred to against serial numbers 1 and 2.</td><td>Rates in force.</td></tr></tbody></table></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">214</span>Tax on investment income and long-term capital gains.</h3></div><p class=\"prov-cite\">Section 214  ·  Chapter XIII  ·  E.—Special provisions relating to non-residents and foreign companies  ·  page 262 of the Act</p><div class=\"prov-body\"><p>The income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.</p><div class=\"tbl\"><table><thead><tr><th>Sl. No.</th><th>Income</th><th>Rate of Income-tax payable</th></tr></thead><tbody><tr><td>1.</td><td>Income from investment.</td><td>20%</td></tr><tr><td>2.</td><td>Income from long-term capital gains on specified asset.</td><td>12.5%</td></tr><tr><td>3.</td><td>Total income as reduced by income referred to against serial numbers 1 and 2.</td><td>Rates in force.</td></tr></tbody></table></div></div>"
+  }
+}

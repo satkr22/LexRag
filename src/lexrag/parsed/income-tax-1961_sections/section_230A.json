@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-38a.html",
+    "source_order": 42,
+    "article_order": 98,
+    "order": 655,
+    "stem": "section_230A",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 190–234-I",
+    "heading_source": "group-head",
+    "article_number": "230A",
+    "article_title": "Restrictions on registration of transfers of immovable property in certain cases."
+  },
+  "id": "income-tax-1961_section_230A",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 190–234-I"
+  },
+  "article": {
+    "number": "230A",
+    "title": "Restrictions on registration of transfers of immovable property in certain cases.",
+    "content": "230ARestrictions on registration of transfers of immovable property in certain cases.\n\n[Omitted by the Finance Act, 2001, w.e.f. 1-6-2001.]\n",
+    "html": "<article class=\"provision dead\" data-n=\"230A\" data-report=\"Section 230A · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">230A</span>Restrictions on registration of transfers of immovable property in certain cases.</h3></div><p class=\"repnote\">[Omitted by the Finance Act, 2001, w.e.f. 1-6-2001.]</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">230A</span>Restrictions on registration of transfers of immovable property in certain cases.</h3></div><p class=\"repnote\">[Omitted by the Finance Act, 2001, w.e.f. 1-6-2001.]</p>"
+  }
+}

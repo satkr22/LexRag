@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-132.html",
+    "source_order": 138,
+    "article_order": 1,
+    "order": 138,
+    "stem": "section_132",
+    "heading_number": "Chapter XV",
+    "heading_title": "Of Bills in Sets",
+    "heading_range": "ss. 132–133",
+    "heading_source": "manifest",
+    "article_number": "132",
+    "article_title": "Set of bills."
+  },
+  "id": "negotiable-instruments_section_132",
+  "heading": {
+    "number": "Chapter XV",
+    "title": "Of Bills in Sets",
+    "range": "ss. 132–133"
+  },
+  "article": {
+    "number": "132",
+    "title": "Set of bills.",
+    "content": "132Set of bills.\n\nSection 132  ·  Chapter XV  ·  page 27 of the Act\nBills of exchange may be drawn in parts, each part being numbered and containing a provision that it shall continue payable only so long as the others remain unpaid. All the parts together make a set; but the whole set constitutes only one bill, and is extinguished when one of the parts, if a separate bill, would be extinguished.\nException.—When a person accepts or indorses different parts of the bill in favour of different persons, he and the subsequent endorsers of each part are liable on such part as if it were a separate bill.\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">132</span>Set of bills.</h3></div><p class=\"prov-cite\">Section 132  ·  Chapter XV  ·  page 27 of the Act</p><div class=\"prov-body\"><p>Bills of exchange may be drawn in parts, each part being numbered and containing a provision that it shall continue payable only so long as the others remain unpaid. All the parts together make a set; but the whole set constitutes only one bill, and is extinguished when one of the parts, if a separate bill, would be extinguished.</p><p>Exception.—When a person accepts or indorses different parts of the bill in favour of different persons, he and the subsequent endorsers of each part are liable on such part as if it were a separate bill.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">132</span>Set of bills.</h3></div><p class=\"prov-cite\">Section 132  ·  Chapter XV  ·  page 27 of the Act</p><div class=\"prov-body\"><p>Bills of exchange may be drawn in parts, each part being numbered and containing a provision that it shall continue payable only so long as the others remain unpaid. All the parts together make a set; but the whole set constitutes only one bill, and is extinguished when one of the parts, if a separate bill, would be extinguished.</p><p>Exception.—When a person accepts or indorses different parts of the bill in favour of different persons, he and the subsequent endorsers of each part are liable on such part as if it were a separate bill.</p></div>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "registration",
+    "document_title": null,
+    "source_file": "registration_sections/section-9.html",
+    "source_order": 9,
+    "article_order": 1,
+    "order": 9,
+    "stem": "section_9",
+    "heading_number": "Part II",
+    "heading_title": "Of the Registration-establishment",
+    "heading_range": "ss. 3–16A",
+    "heading_source": "manifest",
+    "article_number": "9",
+    "article_title": "Military cantonments may be declared sub-districts or districts"
+  },
+  "id": "registration_section_9",
+  "heading": {
+    "number": "Part II",
+    "title": "Of the Registration-establishment",
+    "range": "ss. 3–16A"
+  },
+  "article": {
+    "number": "9",
+    "title": "Military cantonments may be declared sub-districts or districts",
+    "content": "9Military cantonments may be declared sub-districts or districts\n\nRep.by the Repealing and Amending Act, 1927 (10 of 1927), s. 3 and Second Schedule.]\n",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Military cantonments may be declared sub-districts or districts</h3></div><p class=\"repnote\">Rep.by the Repealing and Amending Act, 1927 (10 of 1927), s. 3 and Second Schedule.]</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Military cantonments may be declared sub-districts or districts</h3></div><p class=\"repnote\">Rep.by the Repealing and Amending Act, 1927 (10 of 1927), s. 3 and Second Schedule.]</p>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-10.html",
+    "source_order": 10,
+    "article_order": 1,
+    "order": 10,
+    "stem": "schedule-article-10",
+    "heading_number": null,
+    "heading_title": "First Division · Part II · Suits Relating to Contracts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "10",
+    "article_title": "Three years."
+  },
+  "id": "limitation_schedule-article-10",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part II · Suits Relating to Contracts",
+    "range": null
+  },
+  "article": {
+    "number": "10",
+    "title": "Three years.",
+    "content": "\n\nArticle10Three years.\n\n\n\nThe Schedule · First Division—Suits · Part II—Suits Relating to Contracts\n\n\n\nAgainst a carrier for compensation for losing or injuring goods.\n\n\nPeriod of limitation\nThree years.\n\n\n\nTime from which period begins to run\nWhen the loss or injury occurs.\n\n\n\n\n\n\n\n\n\n",
+    "html": "<article class=\"provision\">\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">Article</span>10<span class=\"badge\">Three years.</span></h3>\n</div>\n<p class=\"prov-cite\">The Schedule · First Division—Suits · Part II—Suits Relating to Contracts</p>\n<div class=\"prov-body\">\n<div class=\"art-row\">\n<p class=\"desc\">Against a carrier for compensation for losing or injuring goods.</p>\n<div class=\"cols\">\n<div><span class=\"k\">Period of limitation</span>\n<p>Three years.</p>\n</div>\n<div><span class=\"k\">Time from which period begins to run</span>\n<p>When the loss or injury occurs.</p>\n</div>\n</div>\n</div>\n</div>\n</article>",
+    "inner_html": "\n<div class=\"prov-head\">\n<h3 class=\"prov-title\"><span class=\"n\">Article</span>10<span class=\"badge\">Three years.</span></h3>\n</div>\n<p class=\"prov-cite\">The Schedule · First Division—Suits · Part II—Suits Relating to Contracts</p>\n<div class=\"prov-body\">\n<div class=\"art-row\">\n<p class=\"desc\">Against a carrier for compensation for losing or injuring goods.</p>\n<div class=\"cols\">\n<div><span class=\"k\">Period of limitation</span>\n<p>Three years.</p>\n</div>\n<div><span class=\"k\">Time from which period begins to run</span>\n<p>When the loss or injury occurs.</p>\n</div>\n</div>\n</div>\n</div>\n"
+  }
+}
