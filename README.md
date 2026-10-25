@@ -1,0 +1,1 @@
+# LexRag - Agentic RAG Legal System
