@@ -111,6 +111,33 @@ BLOCK_TAGS = {
 }
 
 
+# def article_content(article: Tag) -> str:
+#     """Extract article text without collapsing its newlines.
+
+#     The source has both pretty-printed and minified pages.  Existing source
+#     newlines are retained, and semantic block boundaries add a newline where
+#     minified markup would otherwise run paragraphs together.  Inline elements
+#     such as ``span`` and ``sup`` do not introduce artificial line breaks.
+#     """
+
+#     parts: list[str] = []
+
+#     def visit(node: Tag) -> None:
+#         for child in node.children:
+#             if isinstance(child, NavigableString):
+#                 parts.append(str(child))
+#             elif isinstance(child, Tag):
+#                 visit(child)
+#                 if child.name in BLOCK_TAGS:
+#                     parts.append("\n")
+
+#     # body = article.find("div", class_="prov-body")
+#     # print(f"\n\n{body}\n\n")
+#     # visit(body)
+#     visit(article)
+#     return "".join(parts)
+
+
 def article_content(article: Tag) -> str:
     """Extract article text without collapsing its newlines.
 
@@ -118,20 +145,34 @@ def article_content(article: Tag) -> str:
     newlines are retained, and semantic block boundaries add a newline where
     minified markup would otherwise run paragraphs together.  Inline elements
     such as ``span`` and ``sup`` do not introduce artificial line breaks.
+
+    Any element with ``class="fnotes"`` that appears inside the
+    ``div.prov-body`` is skipped entirely (its text and any trailing block
+    newline are omitted).
     """
 
     parts: list[str] = []
+
+    def is_fnotes(node: Tag) -> bool:
+        classes = node.get("class") or []
+        # `class` may be a multi-valued attribute; BeautifulSoup returns a list
+        return "fnotes" in classes
 
     def visit(node: Tag) -> None:
         for child in node.children:
             if isinstance(child, NavigableString):
                 parts.append(str(child))
             elif isinstance(child, Tag):
+                # Skip footnote containers (and their trailing newline)
+                if is_fnotes(child):
+                    continue
                 visit(child)
                 if child.name in BLOCK_TAGS:
                     parts.append("\n")
 
-    visit(article)
+    body = article.find("div", class_="prov-body")
+    if body is not None:
+        visit(body)
     return "".join(parts)
 
 
@@ -282,6 +323,7 @@ def iter_page_articles(
                 continue
             for article in reader.find_all("article", class_="provision"):
                 article_position += 1
+                # print(f"\n\n{article}\n\n")
                 yield article, heading, article_position
         return
 
@@ -439,13 +481,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--input-root",
         type=Path,
-        default=Path("src/lexrag/scrapped"),
+        default=Path("src/lexrag/data_ingestion/scrapped"),
         help="Directory containing *_sections directories.",
     )
     parser.add_argument(
         "--output-root",
         type=Path,
-        default=Path("src/lexrag/parsed"),
+        default=Path("src/lexrag/data_ingestion/parsed"),
         help="Directory in which act output directories are created.",
     )
     parser.add_argument(

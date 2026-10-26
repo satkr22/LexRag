@@ -38,10 +38,9 @@ class LegalChunker:
         """Reads all fields directly from root 'id' and 'metadata' dict."""
         meta = data.get("metadata", {})
         return (
-            f"[Act: {meta.get('act', '')} | "
-            f"{meta.get('heading_number', '')}: {meta.get('heading_title', '')} | "
-            f"Section {meta.get('article_number', '')}: {meta.get('article_title', '')} | "
-            f"Section ID: {data.get('id', '')}]"
+            f"[Act: {meta.get('act', '')}\n"
+            f" Chapter: {meta.get('heading_title', '')}\n"
+            f" Section: {meta.get('article_number', '')}::{meta.get('article_title', '')}\n]\n"
         )
 
     def chunk_section(self, data: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -264,8 +263,8 @@ def process_corpus(input_directory: str, output_dir: str):
 if __name__ == "__main__":
     # Replace './legal_data' with the actual path to your scraped JSON files
     # TODO: convert these paths to relative path
-    INPUT_FOLDER = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/parsed"  
-    OUTPUT_FOLDER = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/chunked"
+    INPUT_FOLDER = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/data_ingestion/parsed"  
+    OUTPUT_FOLDER = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/data_ingestion/chunked"
     
     # Run the bulk processing script
     process_corpus(INPUT_FOLDER, OUTPUT_FOLDER)
