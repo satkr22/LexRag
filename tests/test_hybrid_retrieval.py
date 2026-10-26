@@ -78,7 +78,8 @@ def hybrid_search_expanded(client: QdrantClient, query_text: dict, limit: int = 
 def format_hit(rank: int, point) -> str:
     p = point.payload or {}
     text = (p.get("text") or "").replace("\n", " ").strip()
-    snippet = text[:220] + ("..." if len(text) > 220 else "")
+    snippet = text
+    # snippet = text[:220] + ("..." if len(text) > 220 else "")
     return (
         f"  [{rank}] score={point.score:.4f}  "
         f"section={p.get('section_id', '?')}  "
@@ -199,7 +200,7 @@ def main(expanded_flag: Optional[bool]=False):
     client.close()
 
 if __name__ == "__main__":
-    expanded_flag: bool = True
+    expanded_flag: bool = False
     main(expanded_flag)
 
 
