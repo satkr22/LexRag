@@ -9,6 +9,7 @@ from typing import Any, Iterable
 
 from bs4 import BeautifulSoup, NavigableString, Tag  # type: ignore
 
+from category_labels import ACT_CAT_ID_MAPPING
 
 ACT_DIRECTORIES: dict[str, str] = {
     "bns": "bns_sections",
@@ -424,6 +425,9 @@ def parse_act(
             record: dict[str, Any] = {
                 "metadata": {
                     "act": act,
+                    "category_id": ACT_CAT_ID_MAPPING[act]['id'],
+                    "category_label": ACT_CAT_ID_MAPPING[act]['label'],
+                    "category_code": ACT_CAT_ID_MAPPING[act]['category_code'],
                     "document_title": page_title,
                     "source_file": relative_source,
                     "source_order": source_order,
@@ -489,13 +493,6 @@ def parse_args() -> argparse.Namespace:
         type=Path,
         default=Path("src/lexrag/data_ingestion/parsed"),
         help="Directory in which act output directories are created.",
-    )
-    parser.add_argument(
-        "--acts",
-        nargs="+",
-        choices=sorted(ACT_DIRECTORIES),
-        default=sorted(ACT_DIRECTORIES),
-        help="Acts to parse (default: all supported acts).",
     )
     parser.add_argument(
         "--clean",

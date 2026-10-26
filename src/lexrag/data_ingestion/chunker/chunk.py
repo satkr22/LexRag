@@ -184,6 +184,9 @@ class LegalChunker:
             "metadata": {
                 "chunk_id": chunk_id,
                 "section_id": section_id,
+                "category_id": meta.get("category_id", ""),
+                "category_code": meta.get("category_code", ""),
+                "category_label": meta.get("category_label", ""),
                 "chunk_index": chunk_index,
                 "is_intact_section": is_intact,
                 "act": meta.get("act", ""),

@@ -9,13 +9,13 @@ from qdrant_client import QdrantClient, models
 
 COLLECTION_NAME = "legal_docs"
 MODEL_NAME      = "BAAI/bge-large-en-v1.5"
-DB_PATH         = "./qdrant_db"
+DB_PATH         = "./qdrant_db2"
 TOP_K           = 5
 
 def build_client() -> QdrantClient:
     return QdrantClient(
         path=DB_PATH,
-        local_inference_batch_size=8,
+        local_inference_batch_size=16,
         local_inference_providers=["CUDAExecutionProvider"],
     )
 
