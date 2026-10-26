@@ -73,3 +73,5 @@ if __name__ == "__main__":
         
         input_json_path = INPUT_DIR / file
         index_chunks_with_fastembed(client, str(input_json_path))
+        
+    client.close()

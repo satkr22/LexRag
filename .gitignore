@@ -9,3 +9,4 @@ __pycache__
 *.htm
 *.txt
 qdrant_db
+qdrant_db2
