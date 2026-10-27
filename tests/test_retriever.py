@@ -8,8 +8,8 @@ ort.preload_dlls() # CRITICAL: DO NOT REMOVE
 
 from qdrant_client import QdrantClient, models
 
-from src.lexrag.retrieval.query_llm_1.query import generate_response_gemini, generate_response_qwen
-from src.lexrag.retrieval.query_llm_1.data_models import QueryResponse, EnrichedQuery
+from src.lexrag.retrieval.query_llm.query import generate_response_gemini, generate_response_qwen
+from src.lexrag.retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
 
 
 
