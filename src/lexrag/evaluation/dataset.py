@@ -88,9 +88,8 @@ def main() -> None:
             ref_id = f"{ACT_KEY_MAP[act]}_section_{c['section_number']}"
             q_no += 1
             output.append({
-                "q_no": q_no,
                 "question": c["question"].strip(),
-                "referenced_section": [ref_id],
+                "referenced_sections": [ref_id],
                 "referenced_context": c["answer"].strip(), 
             })
 
@@ -98,7 +97,7 @@ def main() -> None:
     assert len(output) == 150, f"expected 150 got {len(output)}"
     acts_count = defaultdict(int)
     for row in output:
-        acts_count[row["referenced_section"][0].split("_")[0]] += 1
+        acts_count[row["referenced_sections"][0].split("_")[0]] += 1
     print(f"\nFinal counts: {dict(acts_count)}")
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
