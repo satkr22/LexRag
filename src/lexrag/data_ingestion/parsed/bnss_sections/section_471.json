@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-34.html",
+    "source_order": 34,
+    "article_order": 19,
+    "order": 471,
+    "stem": "section_471",
+    "heading_number": "Chapter XXXIV",
+    "heading_title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "heading_range": "453 – 477",
+    "heading_source": "group-head",
+    "article_number": "471",
+    "article_title": "Money ordered to be paid recoverable as a fine",
+    "id": "bnss_section_471"
+  },
+  "id": "bnss_section_471",
+  "heading": {
+    "number": "Chapter XXXIV",
+    "title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "range": "453 – 477"
+  },
+  "article": {
+    "number": "471",
+    "title": "Money ordered to be paid recoverable as a fine",
+    "content": "Any money (other than a fine) payable by virtue of any order made under this Sanhita, and the method of recovery of which is not otherwise expressly provided for, shall be recoverable as if it were a fine:\nProvisoProvided that section 461 shall, in its application to an order under section 400, by virtue of this section, be construed as if in the proviso to sub-section (1) of section 461, after the words and figures “under section 395”, the words and figures “or an order for payment of costs under section 400” had been inserted.\n",
+    "html": "<article class=\"provision\" data-n=\"471\" data-report=\"Section 471 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">471</span>Money ordered to be paid recoverable as a fine</h3></div><p class=\"prov-cite\">Section 471 · Chapter XXXIV · General provisions regarding execution</p><div class=\"prov-body\"><p>Any money (other than a fine) payable by virtue of any order made under this Sanhita, and the method of recovery of which is not otherwise expressly provided for, shall be recoverable as if it were a fine:</p><p><span class=\"named\">Proviso</span>Provided that section 461 shall, in its application to an order under section 400, by virtue of this section, be construed as if in the proviso to sub-section (1) of section 461, after the words and figures “under section 395”, the words and figures “or an order for payment of costs under section 400” had been inserted.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">471</span>Money ordered to be paid recoverable as a fine</h3></div><p class=\"prov-cite\">Section 471 · Chapter XXXIV · General provisions regarding execution</p><div class=\"prov-body\"><p>Any money (other than a fine) payable by virtue of any order made under this Sanhita, and the method of recovery of which is not otherwise expressly provided for, shall be recoverable as if it were a fine:</p><p><span class=\"named\">Proviso</span>Provided that section 461 shall, in its application to an order under section 400, by virtue of this section, be construed as if in the proviso to sub-section (1) of section 461, after the words and figures “under section 395”, the words and figures “or an order for payment of costs under section 400” had been inserted.</p></div>"
+  }
+}

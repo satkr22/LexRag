@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_9_chunk_0",
+    "section_id": "easements_section_9",
+    "token_count": 216,
+    "text": "[Act: easements\n Chapter: The Imposition, Acquisition and Transfer of Easements\n Section: 9::Servient owners.\n]\n\n\nSubject to the provisions of section 8, a servient owner may impose on the servient heritage any easement that does not lessen the utility of the existing easement. But he cannot, without the consent of the dominant owner, impose an easement on the servient heritage which would lessen such utility.\nIllustrations\n(a) A has, in respect of his mill, a right to the uninterrupted flow thereto from sunrise to noon of the water of B’s stream. B may grant to C the right to divert the water of the stream from noon to sunset: Provided that A’s supply is not thereby diminished.\n(b) A has, in respect of his house, a right of way over B's land. B may grant to C, as the owner of a neighbouring farm, the right to feed his cattle on the grass growing on the way: Provided that A’s right of way is not thereby obstructed.",
+    "metadata": {
+      "chunk_id": "easements_section_9_chunk_0",
+      "section_id": "easements_section_9",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "The Imposition, Acquisition and Transfer of Easements",
+      "section_number": "9",
+      "section_title": "Servient owners."
+    }
+  }
+]

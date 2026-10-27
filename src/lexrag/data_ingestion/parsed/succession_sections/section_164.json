@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-23.html",
+    "source_order": 23,
+    "article_order": 13,
+    "order": 164,
+    "stem": "section_164",
+    "heading_number": "Part VI · Chapter XVI",
+    "heading_title": "Of Ademption of Legacies",
+    "heading_range": "ss. 152–166",
+    "heading_source": "group-head",
+    "article_number": "164",
+    "article_title": "Change of subject without testator’s knowledge.",
+    "id": "succession_section_164"
+  },
+  "id": "succession_section_164",
+  "heading": {
+    "number": "Part VI · Chapter XVI",
+    "title": "Of Ademption of Legacies",
+    "range": "ss. 152–166"
+  },
+  "article": {
+    "number": "164",
+    "title": "Change of subject without testator’s knowledge.",
+    "content": "Where a thing specifically bequeathed undergoes a change between the date of the will and the testator’s death, and the change takes place without the knowledge or sanction of the testator, the legacy is not adeemed.\nIllustration\nA bequeaths to B “all my 3 per cent. Consols”. The Consols are, without A’s knowledge, sold by his agent, and the proceeds converted into East India Stock. This legacy is not adeemed.\n",
+    "html": "<article class=\"provision\" data-n=\"164\" data-report=\"Section 164 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">164</span>Change of subject without testator’s knowledge.</h3></div><p class=\"prov-cite\">Section 164  ·  Part VI · Chapter XVI  ·  page 58 of the Act</p><div class=\"prov-body\"><p>Where a thing specifically bequeathed undergoes a change between the date of the will and the testator’s death, and the change takes place without the knowledge or sanction of the testator, the legacy is not adeemed.</p><p>Illustration</p><p>A bequeaths to B “all my 3 per cent. Consols”. The Consols are, without A’s knowledge, sold by his agent, and the proceeds converted into East India Stock. This legacy is not adeemed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">164</span>Change of subject without testator’s knowledge.</h3></div><p class=\"prov-cite\">Section 164  ·  Part VI · Chapter XVI  ·  page 58 of the Act</p><div class=\"prov-body\"><p>Where a thing specifically bequeathed undergoes a change between the date of the will and the testator’s death, and the change takes place without the knowledge or sanction of the testator, the legacy is not adeemed.</p><p>Illustration</p><p>A bequeaths to B “all my 3 per cent. Consols”. The Consols are, without A’s knowledge, sold by his agent, and the proceeds converted into East India Stock. This legacy is not adeemed.</p></div>"
+  }
+}

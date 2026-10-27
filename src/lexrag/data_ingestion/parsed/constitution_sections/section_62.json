@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 11,
+    "order": 74,
+    "stem": "section_62",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "62",
+    "article_title": "Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy",
+    "id": "constitution_section_62"
+  },
+  "id": "constitution_section_62",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "62",
+    "title": "Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy",
+    "content": "(1)An election to fill a vacancy caused by the expiration of the term of office of President shall be completed before the expiration of the term.\n(2)An election to fill a vacancy in the office of President occurring by reason of his death, resignation or removal, or otherwise shall be held as soon as possible after, and in no case later than six months from, the date of occurrence of the vacancy; and the person elected to fill the vacancy shall, subject to the provisions of article 56, be entitled to hold office for the full term of five years from the date on which he enters upon his office.\n",
+    "html": "<article class=\"provision\" data-n=\"62\" data-report=\"Article 62 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">62</span>Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy</h3></div><p class=\"prov-cite\">Article 62 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>An election to fill a vacancy caused by the expiration of the term of office of President shall be completed before the expiration of the term.</p><p><span class=\"lbl\">(2)</span>An election to fill a vacancy in the office of President occurring by reason of his death, resignation or removal, or otherwise shall be held as soon as possible after, and in no case later than six months from, the date of occurrence of the vacancy; and the person elected to fill the vacancy shall, subject to the provisions of article 56, be entitled to hold office for the full term of five years from the date on which he enters upon his office.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">62</span>Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy</h3></div><p class=\"prov-cite\">Article 62 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>An election to fill a vacancy caused by the expiration of the term of office of President shall be completed before the expiration of the term.</p><p><span class=\"lbl\">(2)</span>An election to fill a vacancy in the office of President occurring by reason of his death, resignation or removal, or otherwise shall be held as soon as possible after, and in no case later than six months from, the date of occurrence of the vacancy; and the person elected to fill the vacancy shall, subject to the provisions of article 56, be entitled to hold office for the full term of five years from the date on which he enters upon his office.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-57.html",
+    "source_order": 57,
+    "article_order": 13,
+    "order": 784,
+    "stem": "section_O38R12",
+    "heading_number": "Order XXXVIII",
+    "heading_title": "Arrest and Attachment Before Judgment",
+    "heading_range": "14 rules",
+    "heading_source": "group-head",
+    "article_number": "O38R12",
+    "article_title": "Agricultural produce not attachable before judgment.",
+    "id": "cpc_section_O38R12"
+  },
+  "id": "cpc_section_O38R12",
+  "heading": {
+    "number": "Order XXXVIII",
+    "title": "Arrest and Attachment Before Judgment",
+    "range": "14 rules"
+  },
+  "article": {
+    "number": "O38R12",
+    "title": "Agricultural produce not attachable before judgment.",
+    "content": "Nothing in this Order shall be deemed to authorise the plaintiff to apply for the attachment of any agricultural produce in the possession of an agriculturist, or to empower the Court to order the attachment or production of such produce.\n",
+    "html": "<article class=\"provision\" data-n=\"O38R12\" data-report=\"Order 38, Rule 12 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Agricultural produce not attachable before judgment.</h3></div><p class=\"prov-cite\">Order 38, Rule 12</p><div class=\"prov-body\"><p>Nothing in this Order shall be deemed to authorise the plaintiff to apply for the attachment of any agricultural produce in the possession of an agriculturist, or to empower the Court to order the attachment or production of such produce.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Agricultural produce not attachable before judgment.</h3></div><p class=\"prov-cite\">Order 38, Rule 12</p><div class=\"prov-body\"><p>Nothing in this Order shall be deemed to authorise the plaintiff to apply for the attachment of any agricultural produce in the possession of an agriculturist, or to empower the Court to order the attachment or production of such produce.</p></div>"
+  }
+}

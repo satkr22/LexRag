@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-19.html",
+    "source_order": 20,
+    "article_order": 14,
+    "order": 404,
+    "stem": "section_403",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 390–430",
+    "heading_source": "group-head",
+    "article_number": "403",
+    "article_title": "Liability for payment of advance tax.",
+    "id": "income-tax-2025_section_403"
+  },
+  "id": "income-tax-2025_section_403",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 390–430"
+  },
+  "article": {
+    "number": "403",
+    "title": "Liability for payment of advance tax.",
+    "content": "(1) Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.\n(2) For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.\n(3) The provisions of sub-section (1) shall not apply to an individual resident in India, who—\n(a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and\n(b) is of the age of sixty years or more at any time during the tax year.\n",
+    "html": "<article class=\"provision\" data-n=\"403\" data-report=\"Section 403 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">403</span>Liability for payment of advance tax.</h3></div><p class=\"prov-cite\">Section 403  ·  Chapter XIX  ·  C.—Advance payment of tax  ·  page 485 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.</p><p class=\"lvl\">(2) For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.</p><p class=\"lvl\">(3) The provisions of sub-section (1) shall not apply to an individual resident in India, who—</p><p class=\"lvl\">(a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and</p><p class=\"lvl\">(b) is of the age of sixty years or more at any time during the tax year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">403</span>Liability for payment of advance tax.</h3></div><p class=\"prov-cite\">Section 403  ·  Chapter XIX  ·  C.—Advance payment of tax  ·  page 485 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.</p><p class=\"lvl\">(2) For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.</p><p class=\"lvl\">(3) The provisions of sub-section (1) shall not apply to an individual resident in India, who—</p><p class=\"lvl\">(a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and</p><p class=\"lvl\">(b) is of the age of sixty years or more at any time during the tax year.</p></div>"
+  }
+}

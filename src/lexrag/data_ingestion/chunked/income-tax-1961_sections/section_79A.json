@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_79A_chunk_0",
+    "section_id": "income-tax-1961_section_79A",
+    "token_count": 436,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 79A::No set off of losses consequent to search, requisition and survey.\n]\n\n\nNotwithstanding anything contained in this Act, where consequent to a search under section 132 or a requisition under section 132A or a survey under section 133A other than under sub-section (2A) of that section, the total income of any previous year of an assessee includes any undisclosed income, no set off, against such undisclosed income, of any loss, whether brought forward or otherwise, or unabsorbed depreciation under sub-section (2) of section 32, shall be allowed to the assessee under any provision of this Act in computing his total income for such previous year.\nExplanation.—For the purposes of this section, the expression \"undisclosed income\" means,—\n(i) any income of the previous year represented, either wholly or partly, by any money, bullion, jewellery or other valuable article or thing or any entry in the books of account or other documents or transactions found in the course of a search under section 132 or a requisition under section 132A or a survey under section 133A other than under sub-section (2A) of that section, which has,—\n(A) not been recorded on or before the date of search or requisition or survey, as the case may be, in the books of account or other documents maintained in the normal course relating to such previous year; or\n(B) not been disclosed to the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner before the date of search or requisition or survey, as the case may be; or\n(ii) any income of the previous year represented, either wholly or partly, by any entry in respect of an expense recorded in the books of account or other documents maintained in the normal course relating to the previous year which is found to be false and which would not have been found to be so, had the search not been initiated or the survey not been conducted or the requisition not been made.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_79A_chunk_0",
+      "section_id": "income-tax-1961_section_79A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "79A",
+      "section_title": "No set off of losses consequent to search, requisition and survey."
+    }
+  }
+]

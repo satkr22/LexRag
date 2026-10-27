@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-13.html",
+    "source_order": 13,
+    "article_order": 17,
+    "order": 189,
+    "stem": "section_189",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Information to the Police and their Powers to Investigate",
+    "heading_range": "173 – 196",
+    "heading_source": "group-head",
+    "article_number": "189",
+    "article_title": "Release of accused when evidence deficient",
+    "id": "bnss_section_189"
+  },
+  "id": "bnss_section_189",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Information to the Police and their Powers to Investigate",
+    "range": "173 – 196"
+  },
+  "article": {
+    "number": "189",
+    "title": "Release of accused when evidence deficient",
+    "content": "If, upon an investigation under this Chapter, it appears to the officer in charge of the police station that there is not sufficient evidence or reasonable ground of suspicion to justify the forwarding of the accused to a Magistrate, such officer shall, if such person is in custody, release him on his executing a bond or bail bond, as such officer may direct, to appear, if and when so required, before a Magistrate empowered to take cognizance of the offence on a police report, and to try the accused or commit him for trial.\n",
+    "html": "<article class=\"provision\" data-n=\"189\" data-report=\"Section 189 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">189</span>Release of accused when evidence deficient</h3></div><p class=\"prov-cite\">Section 189 · Chapter XIII</p><div class=\"prov-body\"><p>If, upon an investigation under this Chapter, it appears to the officer in charge of the police station that there is not sufficient evidence or reasonable ground of suspicion to justify the forwarding of the accused to a Magistrate, such officer shall, if such person is in custody, release him on his executing a bond or bail bond, as such officer may direct, to appear, if and when so required, before a Magistrate empowered to take cognizance of the offence on a police report, and to try the accused or commit him for trial.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">189</span>Release of accused when evidence deficient</h3></div><p class=\"prov-cite\">Section 189 · Chapter XIII</p><div class=\"prov-body\"><p>If, upon an investigation under this Chapter, it appears to the officer in charge of the police station that there is not sufficient evidence or reasonable ground of suspicion to justify the forwarding of the accused to a Magistrate, such officer shall, if such person is in custody, release him on his executing a bond or bail bond, as such officer may direct, to appear, if and when so required, before a Magistrate empowered to take cognizance of the offence on a police report, and to try the accused or commit him for trial.</p></div>"
+  }
+}

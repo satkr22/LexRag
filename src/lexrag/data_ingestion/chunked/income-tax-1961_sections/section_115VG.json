@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115VG_chunk_0",
+    "section_id": "income-tax-1961_section_115VG",
+    "token_count": 497,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Income of Shipping Companies\n Section: 115VG::Computation of tonnage income.\n]\n\n\n(1) The tonnage income of a tonnage tax company for a previous year shall be the aggregate of the tonnage income of each qualifying ship computed in accordance with the provisions of sub-sections (2) and (3).\n  (2) For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be the daily tonnage income of each such ship multiplied by—\n  (a) the number of days in the previous year; or\n  (b) the number of days in part of the previous year in case the ship is operated by the company as a qualifying ship for only part of the previous year, as the case may be.\n  (3) For the purposes of sub-section (2), the daily tonnage income of a qualifying ship having tonnage referred to in column (1) of the Table below shall be the amount specified in the corresponding entry in column (2) of the Table:\n  (4) For the purposes of this Chapter, the tonnage shall mean the tonnage of a ship 40 [or inland vessel, as the case may be,] indicated in the certificate referred to in section 115VX and includes the deemed tonnage computed in the prescribed manner.\n  Explanation.—For the purposes of this sub-section, \"deemed tonnage\" shall be the tonnage in respect of an arrangement of purchase of slots, slot charter and an arrangement of sharing of break-bulk vessel.\n  (5) The tonnage shall be rounded off to the nearest multiple of hundred tons and for this purpose any tonnage consisting of kilograms shall be ignored and thereafter if such tonnage is not a multiple of hundred, then, if the last figure in that amount is fifty tons or more, the tonnage shall be increased to the next higher tonnage which is a multiple of hundred and if the last figure is less than fifty tons, the tonnage shall be reduced to the next lower tonnage which is a multiple of hundred; and the tonnage so rounded off shall be the tonnage of the ship for the purposes of this section.\n  (6) Notwithstanding anything contained in any other provision of this Act, no deduction or set off shall be allowed in computing the tonnage income under this Chapter.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115VG_chunk_0",
+      "section_id": "income-tax-1961_section_115VG",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-G",
+      "chapter_title": "Special Provisions Relating to Income of Shipping Companies",
+      "section_number": "115VG",
+      "section_title": "Computation of tonnage income."
+    }
+  }
+]

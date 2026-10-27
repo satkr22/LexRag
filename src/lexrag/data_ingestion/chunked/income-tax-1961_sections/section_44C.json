@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_44C_chunk_0",
+    "section_id": "income-tax-1961_section_44C",
+    "token_count": 471,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 44C::Deduction of head office expenditure in the case of non-residents.\n]\n\nNotwithstanding anything to the contrary contained in sections 28 to 43A, in the case of an assessee, being a non-resident, no allowance shall be made, in computing the income chargeable under the head \"Profits and gains of business or profession\", in respect of so much of the expenditure in the nature of head office expenditure as is in excess of the amount computed as hereunder, namely:—\n\n(a) an amount equal to five per cent of the adjusted total income; or\n  (b) [***]\n  (c) the amount of so much of the expenditure in the nature of head office expenditure incurred by the assessee as is attributable to the business or profession of the assessee in India, whichever is the least :\n  Provided that in a case where the adjusted total income of the assessee is a loss, the amount under clause (a) shall be computed at the rate of five per cent of the average adjusted total income of the assessee.\n  Explanation.—For the purposes of this section,—\n  (i) \"adjusted total income\" means the total income computed in accordance with the provisions of this Act, without giving effect to the allowance referred to in this section or in sub-section (2) of section 32 or the deduction referred to in section 32A or section 33 or section 33A or the first proviso to clause (ix) of sub-section (1) of section 36 or any loss carried forward under sub-section (1) of section 72 or sub-section (2) of section 73 or sub-section (1) or sub-section (3) of section 74 or sub-section (3) of section 74A or the deductions under Chapter VI-A;\n  (ii) \"average adjusted total income\" means,—\n  (a) in a case where the total income of the assessee is assessable for each of the three assessment years immediately preceding the relevant assessment year, one-third of the aggregate amount of the adjusted total income in respect of the previous years relevant to the aforesaid three assessment years;",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_44C_chunk_0",
+      "section_id": "income-tax-1961_section_44C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "44C",
+      "section_title": "Deduction of head office expenditure in the case of non-residents."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_44C_chunk_1",
+    "section_id": "income-tax-1961_section_44C",
+    "token_count": 425,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 44C::Deduction of head office expenditure in the case of non-residents.\n]\n\nNotwithstanding anything to the contrary contained in sections 28 to 43A, in the case of an assessee, being a non-resident, no allowance shall be made, in computing the income chargeable under the head \"Profits and gains of business or profession\", in respect of so much of the expenditure in the nature of head office expenditure as is in excess of the amount computed as hereunder, namely:—\n\n(a) an amount equal to five per cent of the adjusted total income; or\n  (b) in a case where the total income of the assessee is assessable only for two of the aforesaid three assessment years, one-half of the aggregate amount of the adjusted total income in respect of the previous years relevant to the aforesaid two assessment years;\n  (c) in a case where the total income of the assessee is assessable only for one of the aforesaid three assessment years, the amount of the adjusted total income in respect of the previous year relevant to that assessment year;\n  (iii) [***]\n  (iv) \"head office expenditure\" means executive and general administration expenditure incurred by the assessee outside India, including expenditure incurred in respect of—\n  (a) rent, rates, taxes, repairs or insurance of any premises outside India used for the purposes of the business or profession;\n  (b) salary, wages, annuity, pension, fees, bonus, commission, gratuity, perquisites or profits in lieu of or in addition to salary, whether paid or allowed to any employee or other person employed in, or managing the affairs of, any office out side India;\n  (c) travelling by any employee or other person employed in, or managing the affairs of, any office outside India; and\n  (d) such other matters connected with executive and general administration as may be prescribed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_44C_chunk_1",
+      "section_id": "income-tax-1961_section_44C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "44C",
+      "section_title": "Deduction of head office expenditure in the case of non-residents."
+    }
+  }
+]

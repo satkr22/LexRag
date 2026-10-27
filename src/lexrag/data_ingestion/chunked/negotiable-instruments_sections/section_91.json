@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_91_chunk_0",
+    "section_id": "negotiable-instruments_section_91",
+    "token_count": 115,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Notice of Dishonour\n Section: 91::Dishonour by non-acceptance.\n]\n\n\nA bill of exchange is said to be dishonoured by non-acceptance when the drawee, or one of several drawees not being partners, makes default in acceptance upon being duly required to accept the bill, or where presentment is excused and the bill is not accepted.\nWhere the drawee is incompetent to contract, or the acceptance is qualified the bill may be treated as dishonoured.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_91_chunk_0",
+      "section_id": "negotiable-instruments_section_91",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Of Notice of Dishonour",
+      "section_number": "91",
+      "section_title": "Dishonour by non-acceptance."
+    }
+  }
+]

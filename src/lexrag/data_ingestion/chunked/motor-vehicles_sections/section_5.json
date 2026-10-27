@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_5_chunk_0",
+    "section_id": "motor-vehicles_section_5",
+    "token_count": 76,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 5::Responsibility of owners of motor vehicles for contravention of sections 3 and 4.\n]\n\n\nNo owner or person in charge of a motor vehicle shall cause or permit any person who does not satisfy the provisions of section 3 or section 4 to drive the vehicle.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_5_chunk_0",
+      "section_id": "motor-vehicles_section_5",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "5",
+      "section_title": "Responsibility of owners of motor vehicles for contravention of sections 3 and 4."
+    }
+  }
+]

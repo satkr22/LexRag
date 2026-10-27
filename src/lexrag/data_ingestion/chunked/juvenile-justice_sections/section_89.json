@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "juvenile-justice_section_89_chunk_0",
+    "section_id": "juvenile-justice_section_89",
+    "token_count": 53,
+    "text": "[Act: juvenile-justice\n Chapter: Other Offences Against Children\n Section: 89::Offence committed by child under this Chapter.\n]\n\n\nAny child who commits any offence under this Chapter shall be considered as a child in conflict with law under this Act.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_89_chunk_0",
+      "section_id": "juvenile-justice_section_89",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Other Offences Against Children",
+      "section_number": "89",
+      "section_title": "Offence committed by child under this Chapter."
+    }
+  }
+]

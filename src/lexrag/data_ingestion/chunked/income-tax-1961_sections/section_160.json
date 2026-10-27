@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_160_chunk_0",
+    "section_id": "income-tax-1961_section_160",
+    "token_count": 506,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 160::Representative assessee.\n]\n\n\n(1) For the purposes of this Act, \"representative assessee\" means—\n  (i) in respect of the income of a non-resident specified in sub-section (1) of section 9, the agent of the non-resident, including a person who is treated as an agent under section 163;\n  (ii) in respect of the income of a minor, lunatic or idiot, the guardian or manager who is entitled to receive or is in receipt of such income on behalf of such minor, lunatic or idiot;\n  (iii) in respect of income which the Court of Wards, the Administrator- General, the Official Trustee or any receiver or manager (including any person, whatever his designation, who in fact manages property on behalf of another) appointed by or under any order of a court, receives or is entitled to receive, on behalf or for the benefit of any person, such Court of Wards, Administrator-General, Official Trustee, receiver or manager;\n  (iv) in respect of income which a trustee appointed under a trust declared by a duly executed instrument in writing whether testamentary or otherwise [including any wakf deed which is valid under the Mussalman Wakf Validating Act, 1913 (6 of 1913),] receives or is entitled to receive on behalf or for the benefit of any person, such trustee or trustees;\n  (v) in respect of income which a trustee appointed under an oral trust receives or is entitled to receive on behalf or for the benefit of any person, such trustee or trustees.\n  Explanation 1.—A trust which is not declared by a duly executed instrument in writing [including any wakf deed which is valid under the Mussalman Wakf Validating Act, 1913 (6 of 1913),] shall be deemed, for the purposes of clause (iv), to be a trust declared by a duly executed instrument in writing if a statement in writing, signed by the trustee or trustees, setting out the purpose or purposes of the trust, particulars as to the trustee or trustees, the beneficiary or beneficiaries and the trust property, is forwarded to the Assessing Officer,—\n  (i) where the trust has been declared before the 1st day of June, 1981, within a period of three months from that day; and",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_160_chunk_0",
+      "section_id": "income-tax-1961_section_160",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "160",
+      "section_title": "Representative assessee."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_160_chunk_1",
+    "section_id": "income-tax-1961_section_160",
+    "token_count": 175,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 160::Representative assessee.\n]\n\n\n(1) For the purposes of this Act, \"representative assessee\" means—\n  (ii) in any other case, within three months from the date of declaration of the trust.\n  Explanation 2.—For the purposes of clause (v), \"oral trust\" means a trust which is not declared by a duly executed instrument in writing [including any wakf deed which is valid under the Mussalman Wakf Validating Act, 1913 (6 of 1913),] and which is not deemed under Explanation 1 to be a trust declared by a duly executed instrument in writing.\n  (2) Every representative assessee shall be deemed to be an assessee for the purposes of this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_160_chunk_1",
+      "section_id": "income-tax-1961_section_160",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "160",
+      "section_title": "Representative assessee."
+    }
+  }
+]

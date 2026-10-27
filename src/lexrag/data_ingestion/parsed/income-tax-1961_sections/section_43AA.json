@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-04b.html",
+    "source_order": 6,
+    "article_order": 7,
+    "order": 87,
+    "stem": "section_43AA",
+    "heading_number": "Chapter IV",
+    "heading_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "heading_range": "ss. 14–59",
+    "heading_source": "group-head",
+    "article_number": "43AA",
+    "article_title": "Taxation of foreign exchange fluctuation.",
+    "id": "income-tax-1961_section_43AA"
+  },
+  "id": "income-tax-1961_section_43AA",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "range": "ss. 14–59"
+  },
+  "article": {
+    "number": "43AA",
+    "title": "Taxation of foreign exchange fluctuation.",
+    "content": "(1) Subject to the provisions of section 43A, any gain or loss arising on account of any change in foreign exchange rates shall be treated as income or loss, as the case may be, and such gain or loss shall be computed in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145.\n(2) For the purposes of sub-section (1), gain or loss arising on account of the effects of change in foreign exchange rates shall be in respect of all foreign currency transactions, including those relating to—\n(i) monetary items and non-monetary items;\n(ii) translation of financial statements of foreign operations;\n(iii) forward exchange contracts;\n(iv) foreign currency translation reserves.\n",
+    "html": "<article class=\"provision\" data-n=\"43AA\" data-report=\"Section 43AA · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43AA</span>Taxation of foreign exchange fluctuation.</h3></div><p class=\"prov-cite\">Section 43AA  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 165 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of section 43A, any gain or loss arising on account of any change in foreign exchange rates shall be treated as income or loss, as the case may be, and such gain or loss shall be computed in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145.</p><p class=\"lvl\">(2) For the purposes of sub-section (1), gain or loss arising on account of the effects of change in foreign exchange rates shall be in respect of all foreign currency transactions, including those relating to—</p><p class=\"lvl\">(i) monetary items and non-monetary items;</p><p class=\"lvl\">(ii) translation of financial statements of foreign operations;</p><p class=\"lvl\">(iii) forward exchange contracts;</p><p class=\"lvl\">(iv) foreign currency translation reserves.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43AA</span>Taxation of foreign exchange fluctuation.</h3></div><p class=\"prov-cite\">Section 43AA  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 165 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of section 43A, any gain or loss arising on account of any change in foreign exchange rates shall be treated as income or loss, as the case may be, and such gain or loss shall be computed in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145.</p><p class=\"lvl\">(2) For the purposes of sub-section (1), gain or loss arising on account of the effects of change in foreign exchange rates shall be in respect of all foreign currency transactions, including those relating to—</p><p class=\"lvl\">(i) monetary items and non-monetary items;</p><p class=\"lvl\">(ii) translation of financial statements of foreign operations;</p><p class=\"lvl\">(iii) forward exchange contracts;</p><p class=\"lvl\">(iv) foreign currency translation reserves.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_245HAA_chunk_0",
+    "section_id": "income-tax-1961_section_245HAA",
+    "token_count": 213,
+    "text": "[Act: income-tax-1961\n Chapter: Settlement of cases\n Section: 245HAA::Credit for tax paid in case of abatement of proceedings.\n]\n\n\nWhere an application made under section 245C on or after the 1st day of June, 2007, is rejected under sub-section (1) of section 245D, or any other application made under section 245C is not allowed to be proceeded with under sub-section (2A) of section 245D or is declared invalid under sub-section (2C) of section 245D or has not been allowed to be further proceeded with under sub-section (2D) of section 245D or an order under sub-section (4) of section 245D has not been passed within the time or period specified under sub-section (4A) of section 245D, the Assessing Officer shall allow the credit for the tax and interest paid on or before the date of making the application or during the pendency of the case before the Settlement Commission.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245HAA_chunk_0",
+      "section_id": "income-tax-1961_section_245HAA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-A",
+      "chapter_title": "Settlement of cases",
+      "section_number": "245HAA",
+      "section_title": "Credit for tax paid in case of abatement of proceedings."
+    }
+  }
+]

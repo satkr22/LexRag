@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-43.html",
+    "source_order": 43,
+    "article_order": 18,
+    "order": 641,
+    "stem": "section_O26R14",
+    "heading_number": "Order XXVI",
+    "heading_title": "Commissions",
+    "heading_range": "29 rules",
+    "heading_source": "group-head",
+    "article_number": "O26R14",
+    "article_title": "Procedure of Commissioner.",
+    "id": "cpc_section_O26R14"
+  },
+  "id": "cpc_section_O26R14",
+  "heading": {
+    "number": "Order XXVI",
+    "title": "Commissions",
+    "range": "29 rules"
+  },
+  "article": {
+    "number": "O26R14",
+    "title": "Procedure of Commissioner.",
+    "content": "(1) The Commissioner shall, after such inquiry as may be necessary, divide the property into as many shares as may be directly by the order under which the commission was issued, and shall allot such shares to the parties, and may, if authorised thereto by the said order, award sums to be paid for the purpose of equalizing the value of the shares.\n(2) The commissioner shall then prepare and sign a report or the Commissioners (where the commission was issued to more than one person and they cannot agree) shall prepare and sign separate reports appointing the share of each party and distinguishing each share (if so directed by the said order) by metes and bounds. Such report or reports shall be annexed to the commission and transmitted to the Court; and the Court, after hearing any objections which the parties may make to the report or reports, shall confirm, vary or set aside the same.\n(3) Where the Court confirms or varies the report or reports it shall pass a decree in accordance with the same as confirmed or varied; but where the Court sets aside the report or reports it shall either issue a new commission or make such other order as it shall think fit.\n",
+    "html": "<article class=\"provision\" data-n=\"O26R14\" data-report=\"Order 26, Rule 14 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Procedure of Commissioner.</h3></div><p class=\"prov-cite\">Order 26, Rule 14</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Commissioner shall, after such inquiry as may be necessary, divide the property into as many shares as may be directly by the order under which the commission was issued, and shall allot such shares to the parties, and may, if authorised thereto by the said order, award sums to be paid for the purpose of equalizing the value of the shares.</p><p class=\"lvl\">(2) The commissioner shall then prepare and sign a report or the Commissioners (where the commission was issued to more than one person and they cannot agree) shall prepare and sign separate reports appointing the share of each party and distinguishing each share (if so directed by the said order) by metes and bounds. Such report or reports shall be annexed to the commission and transmitted to the Court; and the Court, after hearing any objections which the parties may make to the report or reports, shall confirm, vary or set aside the same.</p><p class=\"lvl\">(3) Where the Court confirms or varies the report or reports it shall pass a decree in accordance with the same as confirmed or varied; but where the Court sets aside the report or reports it shall either issue a new commission or make such other order as it shall think fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Procedure of Commissioner.</h3></div><p class=\"prov-cite\">Order 26, Rule 14</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Commissioner shall, after such inquiry as may be necessary, divide the property into as many shares as may be directly by the order under which the commission was issued, and shall allot such shares to the parties, and may, if authorised thereto by the said order, award sums to be paid for the purpose of equalizing the value of the shares.</p><p class=\"lvl\">(2) The commissioner shall then prepare and sign a report or the Commissioners (where the commission was issued to more than one person and they cannot agree) shall prepare and sign separate reports appointing the share of each party and distinguishing each share (if so directed by the said order) by metes and bounds. Such report or reports shall be annexed to the commission and transmitted to the Court; and the Court, after hearing any objections which the parties may make to the report or reports, shall confirm, vary or set aside the same.</p><p class=\"lvl\">(3) Where the Court confirms or varies the report or reports it shall pass a decree in accordance with the same as confirmed or varied; but where the Court sets aside the report or reports it shall either issue a new commission or make such other order as it shall think fit.</p></div>"
+  }
+}

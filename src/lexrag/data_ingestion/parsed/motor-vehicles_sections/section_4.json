@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-02.html",
+    "source_order": 2,
+    "article_order": 2,
+    "order": 6,
+    "stem": "section_4",
+    "heading_number": "Chapter II",
+    "heading_title": "Licensing of Drivers of Motor Vehicles",
+    "heading_range": "ss. 3–28",
+    "heading_source": "group-head",
+    "article_number": "4",
+    "article_title": "Age limit in connection with driving of motor vehicles.",
+    "id": "motor-vehicles_section_4"
+  },
+  "id": "motor-vehicles_section_4",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Licensing of Drivers of Motor Vehicles",
+    "range": "ss. 3–28"
+  },
+  "article": {
+    "number": "4",
+    "title": "Age limit in connection with driving of motor vehicles.",
+    "content": "(1) No person under the age of eighteen years shall drive a motor vehicle in any public place:\nProvided that 5[a motor cycle with engine capacity not exceeding 50cc] may be driven in a public place by a person after attaining the age of sixteen years.\n(2) Subject to the provisions of section 18, no person under the age of twenty years shall drive a transport vehicle in any public place.\n(3) No learner’s licence or driving licence shall be issued to any person to drive a vehicle of the class to which he has made an application unless he is eligible to drive that class of vehicle under this section.\n",
+    "html": "<article class=\"provision\" data-n=\"4\" data-report=\"Section 4 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Age limit in connection with driving of motor vehicles.</h3></div><p class=\"prov-cite\">Section 4  ·  Chapter II  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person under the age of eighteen years shall drive a motor vehicle in any public place:</p><p class=\"prvso\">Provided that <sup>5</sup>[a motor cycle with engine capacity not exceeding 50cc] may be driven in a public place by a person after attaining the age of sixteen years.</p><p class=\"lvl\">(2) Subject to the provisions of section 18, no person under the age of twenty years shall drive a transport vehicle in any public place.</p><p class=\"lvl\">(3) No learner’s licence or driving licence shall be issued to any person to drive a vehicle of the class to which he has made an application unless he is eligible to drive that class of vehicle under this section.</p><div class=\"fnotes\"><p class=\"fn\"><sup>5</sup> Subs. by Act 54 of 1994, s. 4, for “a motor cycle without gear” (w.e.f. 14-11-1994).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Age limit in connection with driving of motor vehicles.</h3></div><p class=\"prov-cite\">Section 4  ·  Chapter II  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person under the age of eighteen years shall drive a motor vehicle in any public place:</p><p class=\"prvso\">Provided that <sup>5</sup>[a motor cycle with engine capacity not exceeding 50cc] may be driven in a public place by a person after attaining the age of sixteen years.</p><p class=\"lvl\">(2) Subject to the provisions of section 18, no person under the age of twenty years shall drive a transport vehicle in any public place.</p><p class=\"lvl\">(3) No learner’s licence or driving licence shall be issued to any person to drive a vehicle of the class to which he has made an application unless he is eligible to drive that class of vehicle under this section.</p><div class=\"fnotes\"><p class=\"fn\"><sup>5</sup> Subs. by Act 54 of 1994, s. 4, for “a motor cycle without gear” (w.e.f. 14-11-1994).</p></div></div>"
+  }
+}

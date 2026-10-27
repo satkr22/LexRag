@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_111_chunk_0",
+    "section_id": "constitution_section_111",
+    "token_count": 191,
+    "text": "[Act: constitution\n Chapter: The Union\n Section: 111::Assent to Bills\n]\n\n\nWhen a Bill has been passed by the Houses of Parliament, it shall be presented to the President, and the President shall declare either that he assents to the Bill, or that he withholds assent therefrom:\nProvisoProvided that the President may, as soon as possible after the presentation to him of a Bill for assent, return the Bill if it is not a Money Bill to the Houses with a message requesting that they will reconsider the Bill or any specified provisions thereof and, in particular, will consider the desirability of introducing any such amendments as he may recommend in his message, and when a Bill is so returned, the Houses shall reconsider the Bill accordingly, and if the Bill is passed again by the Houses with or without amendment and presented to the President for assent, the President shall not withhold assent therefrom.",
+    "metadata": {
+      "chunk_id": "constitution_section_111_chunk_0",
+      "section_id": "constitution_section_111",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part V",
+      "chapter_title": "The Union",
+      "section_number": "111",
+      "section_title": "Assent to Bills"
+    }
+  }
+]

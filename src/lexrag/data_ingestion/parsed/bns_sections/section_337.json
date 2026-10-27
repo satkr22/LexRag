@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-18.html",
+    "source_order": 18,
+    "article_order": 3,
+    "order": 337,
+    "stem": "section_337",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Of Offences Relating to Documents and to Property Marks",
+    "heading_range": "335 – 350",
+    "heading_source": "group-head",
+    "article_number": "337",
+    "article_title": "Forgery of record of Court or of public register, etc.",
+    "id": "bns_section_337"
+  },
+  "id": "bns_section_337",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Of Offences Relating to Documents and to Property Marks",
+    "range": "335 – 350"
+  },
+  "article": {
+    "number": "337",
+    "title": "Forgery of record of Court or of public register, etc.",
+    "content": "Whoever forges a document or an electronic record, purporting to be a record or proceeding of or in a Court or an identity document issued by Government including voter identity card or Aadhaar Card, or a register of birth, marriage or burial, or a register kept by a public servant as such, or a certificate or document purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\nExplanationFor the purposes of this section, “register” includes any list, data or record of any entries maintained in the electronic form as defined in clause (r) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000).\n",
+    "html": "<article class=\"provision\" data-n=\"337\" data-report=\"Section 337 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">337</span>Forgery of record of Court or of public register, etc.</h3></div><p class=\"prov-cite\">Section 337 · Chapter XVIII</p><div class=\"prov-body\"><p>Whoever forges a document or an electronic record, purporting to be a record or proceeding of or in a Court or an identity document issued by Government including voter identity card or Aadhaar Card, or a register of birth, marriage or burial, or a register kept by a public servant as such, or a certificate or document purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.</p><p><span class=\"named\">Explanation</span>For the purposes of this section, “register” includes any list, data or record of any entries maintained in the electronic form as defined in clause (r) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">337</span>Forgery of record of Court or of public register, etc.</h3></div><p class=\"prov-cite\">Section 337 · Chapter XVIII</p><div class=\"prov-body\"><p>Whoever forges a document or an electronic record, purporting to be a record or proceeding of or in a Court or an identity document issued by Government including voter identity card or Aadhaar Card, or a register of birth, marriage or burial, or a register kept by a public servant as such, or a certificate or document purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.</p><p><span class=\"named\">Explanation</span>For the purposes of this section, “register” includes any list, data or record of any entries maintained in the electronic form as defined in clause (r) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000).</p></div>"
+  }
+}

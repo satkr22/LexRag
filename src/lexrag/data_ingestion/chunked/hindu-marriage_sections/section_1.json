@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "hindu-marriage_section_1_chunk_0",
+    "section_id": "hindu-marriage_section_1",
+    "token_count": 112,
+    "text": "[Act: hindu-marriage\n Chapter: Preliminary\n Section: 1::Short title and extent.\n]\n\n\n(1) This Act may be called the Hindu Marriage Act, 1955.\n(2) It extends to the whole of India 2***, and applies also to Hindus domiciled in the territories to which this Act extends who are outside the said territories.\nNote: footnote 1 on page 5 belongs to the Act number line (ACT NO. 25 OF 1955), the territories the Act has been extended to.",
+    "metadata": {
+      "chunk_id": "hindu-marriage_section_1_chunk_0",
+      "section_id": "hindu-marriage_section_1",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "hindu-marriage",
+      "document_title": null,
+      "chapter_number": "Preliminary",
+      "chapter_title": "Preliminary",
+      "section_number": "1",
+      "section_title": "Short title and extent."
+    }
+  }
+]

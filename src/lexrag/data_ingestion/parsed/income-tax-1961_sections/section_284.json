@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-53.html",
+    "source_order": 58,
+    "article_order": 8,
+    "order": 885,
+    "stem": "section_284",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 281–298",
+    "heading_source": "group-head",
+    "article_number": "284",
+    "article_title": "Service of notice in the case of discontinued business.",
+    "id": "income-tax-1961_section_284"
+  },
+  "id": "income-tax-1961_section_284",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Miscellaneous",
+    "range": "ss. 281–298"
+  },
+  "article": {
+    "number": "284",
+    "title": "Service of notice in the case of discontinued business.",
+    "content": "Where an assessment is to be made under section 176, the Assessing Officer may serve on the person whose income is to be assessed, or, in the case of a firm or an association of persons, on any person who was a member of such firm or association at the time of its discontinuance or, in the case of a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under sub-section (2) of section 139, and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under that section.\n",
+    "html": "<article class=\"provision\" data-n=\"284\" data-report=\"Section 284 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">284</span>Service of notice in the case of discontinued business.</h3></div><p class=\"prov-cite\">Section 284  ·  Chapter XXIII  ·  page 1049 of the Act</p><div class=\"prov-body\"><p>Where an assessment is to be made under section 176, the Assessing Officer may serve on the person whose income is to be assessed, or, in the case of a firm or an association of persons, on any person who was a member of such firm or association at the time of its discontinuance or, in the case of a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under sub-section (2) of section 139, and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under that section.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">284</span>Service of notice in the case of discontinued business.</h3></div><p class=\"prov-cite\">Section 284  ·  Chapter XXIII  ·  page 1049 of the Act</p><div class=\"prov-body\"><p>Where an assessment is to be made under section 176, the Assessing Officer may serve on the person whose income is to be assessed, or, in the case of a firm or an association of persons, on any person who was a member of such firm or association at the time of its discontinuance or, in the case of a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under sub-section (2) of section 139, and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under that section.</p></div>"
+  }
+}

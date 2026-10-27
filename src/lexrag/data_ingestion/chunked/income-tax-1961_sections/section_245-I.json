@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_245-I_chunk_0",
+    "section_id": "income-tax-1961_section_245-I",
+    "token_count": 91,
+    "text": "[Act: income-tax-1961\n Chapter: Settlement of cases\n Section: 245-I::Order of settlement to be conclusive.\n]\n\n\nEvery order of settlement passed under sub-section (4) of section 245D shall be conclusive as to the matters stated therein and no matter covered by such order shall, save as otherwise provided in this Chapter, be reopened in any proceeding under this Act or under any other law for the time being in force.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245-I_chunk_0",
+      "section_id": "income-tax-1961_section_245-I",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-A",
+      "chapter_title": "Settlement of cases",
+      "section_number": "245-I",
+      "section_title": "Order of settlement to be conclusive."
+    }
+  }
+]

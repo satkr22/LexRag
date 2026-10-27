@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-25.html",
+    "source_order": 25,
+    "article_order": 9,
+    "order": 354,
+    "stem": "section_O12R7",
+    "heading_number": "Order XII",
+    "heading_title": "Admissions",
+    "heading_range": "11 rules",
+    "heading_source": "group-head",
+    "article_number": "O12R7",
+    "article_title": "Affidavit of signature.",
+    "id": "cpc_section_O12R7"
+  },
+  "id": "cpc_section_O12R7",
+  "heading": {
+    "number": "Order XII",
+    "title": "Admissions",
+    "range": "11 rules"
+  },
+  "article": {
+    "number": "O12R7",
+    "title": "Affidavit of signature.",
+    "content": "An affidavit of the pleader or his clerk, of the due signature of any admissions made in pursuance of any notice to admit documents or facts, shall be sufficient evidenced of such admissions, if evidence thereof is required.\n",
+    "html": "<article class=\"provision\" data-n=\"O12R7\" data-report=\"Order 12, Rule 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Affidavit of signature.</h3></div><p class=\"prov-cite\">Order 12, Rule 7</p><div class=\"prov-body\"><p>An affidavit of the pleader or his clerk, of the due signature of any admissions made in pursuance of any notice to admit documents or facts, shall be sufficient evidenced of such admissions, if evidence thereof is required.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Affidavit of signature.</h3></div><p class=\"prov-cite\">Order 12, Rule 7</p><div class=\"prov-body\"><p>An affidavit of the pleader or his clerk, of the due signature of any admissions made in pursuance of any notice to admit documents or facts, shall be sufficient evidenced of such admissions, if evidence thereof is required.</p></div>"
+  }
+}

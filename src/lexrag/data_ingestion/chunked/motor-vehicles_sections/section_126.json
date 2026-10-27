@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_126_chunk_0",
+    "section_id": "motor-vehicles_section_126",
+    "token_count": 100,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 126::Stationary vehicles.\n]\n\n\nNo person driving or in charge of a motor vehicle shall cause or allow the vehicle to remain stationary in any public place, unless there is in the driver’s seat a person duly licensed to drive the vehicle or unless the mechanism has been stopped and a brake or brakes applied or such other measures taken as to ensure that the vehicle cannot accidentally be put in motion in the absence of the driver.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_126_chunk_0",
+      "section_id": "motor-vehicles_section_126",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "126",
+      "section_title": "Stationary vehicles."
+    }
+  }
+]

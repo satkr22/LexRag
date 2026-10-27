@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-05.html",
+    "source_order": 5,
+    "article_order": 20,
+    "order": 54,
+    "stem": "section_54",
+    "heading_number": "Chapter V",
+    "heading_title": "Arrest of Persons",
+    "heading_range": "35 – 62",
+    "heading_source": "group-head",
+    "article_number": "54",
+    "article_title": "Identification of person arrested",
+    "id": "bnss_section_54"
+  },
+  "id": "bnss_section_54",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Arrest of Persons",
+    "range": "35 – 62"
+  },
+  "article": {
+    "number": "54",
+    "title": "Identification of person arrested",
+    "content": "Where a person is arrested on a charge of committing an offence and his identification by any other person or persons is considered necessary for the purpose of investigation of such offence, the Court, having jurisdiction may, on the request of the officer in charge of a police station, direct the person so arrested to subject himself to identification by any person or persons in such manner as the Court may deem fit:\nProvisoProvided that if the person identifying the person arrested is mentally or physically disabled, such process of identification shall take place under the supervision of a Magistrate who shall take appropriate steps to ensure that such person identifies the person arrested using methods that person is comfortable with and the identification process shall be recorded by any audio-video electronic means.\n",
+    "html": "<article class=\"provision\" data-n=\"54\" data-report=\"Section 54 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54</span>Identification of person arrested</h3></div><p class=\"prov-cite\">Section 54 · Chapter V</p><div class=\"prov-body\"><p>Where a person is arrested on a charge of committing an offence and his identification by any other person or persons is considered necessary for the purpose of investigation of such offence, the Court, having jurisdiction may, on the request of the officer in charge of a police station, direct the person so arrested to subject himself to identification by any person or persons in such manner as the Court may deem fit:</p><p><span class=\"named\">Proviso</span>Provided that if the person identifying the person arrested is mentally or physically disabled, such process of identification shall take place under the supervision of a Magistrate who shall take appropriate steps to ensure that such person identifies the person arrested using methods that person is comfortable with and the identification process shall be recorded by any audio-video electronic means.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54</span>Identification of person arrested</h3></div><p class=\"prov-cite\">Section 54 · Chapter V</p><div class=\"prov-body\"><p>Where a person is arrested on a charge of committing an offence and his identification by any other person or persons is considered necessary for the purpose of investigation of such offence, the Court, having jurisdiction may, on the request of the officer in charge of a police station, direct the person so arrested to subject himself to identification by any person or persons in such manner as the Court may deem fit:</p><p><span class=\"named\">Proviso</span>Provided that if the person identifying the person arrested is mentally or physically disabled, such process of identification shall take place under the supervision of a Magistrate who shall take appropriate steps to ensure that such person identifies the person arrested using methods that person is comfortable with and the identification process shall be recorded by any audio-video electronic means.</p></div>"
+  }
+}

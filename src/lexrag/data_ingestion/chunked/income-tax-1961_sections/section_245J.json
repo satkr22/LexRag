@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_245J_chunk_0",
+    "section_id": "income-tax-1961_section_245J",
+    "token_count": 119,
+    "text": "[Act: income-tax-1961\n Chapter: Settlement of cases\n Section: 245J::Recovery of sums due under order of settlement.\n]\n\n\nAny sum specified in an order of settlement passed under sub-section (4) of section 245D may, subject to such conditions, if any, as may be specified therein, be recovered, and any penalty for default in making payment of such sum may be imposed and recovered in accordance with the provisions of Chapter XVII, by the Assessing Officer having jurisdiction over the person who made the application for settlement under section 245C.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245J_chunk_0",
+      "section_id": "income-tax-1961_section_245J",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-A",
+      "chapter_title": "Settlement of cases",
+      "section_number": "245J",
+      "section_title": "Recovery of sums due under order of settlement."
+    }
+  }
+]

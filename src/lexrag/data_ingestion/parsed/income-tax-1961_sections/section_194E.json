@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-38a.html",
+    "source_order": 42,
+    "article_order": 14,
+    "order": 571,
+    "stem": "section_194E",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 190–234-I",
+    "heading_source": "group-head",
+    "article_number": "194E",
+    "article_title": "Payments to non-resident sportsmen or sports associations.",
+    "id": "income-tax-1961_section_194E"
+  },
+  "id": "income-tax-1961_section_194E",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 190–234-I"
+  },
+  "article": {
+    "number": "194E",
+    "title": "Payments to non-resident sportsmen or sports associations.",
+    "content": "Where any income referred to in section 115BBA is payable to a non-resident sportsman (including an athlete) or an entertainer who is not a citizen of India or a non-resident sports association or institution, the person responsible for making the payment shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of twenty per cent.\n",
+    "html": "<article class=\"provision\" data-n=\"194E\" data-report=\"Section 194E · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">194E</span>Payments to non-resident sportsmen or sports associations.</h3></div><p class=\"prov-cite\">Section 194E  ·  Chapter XVII  ·  B.—Deduction at source  ·  page 723 of the Act</p><div class=\"prov-body\"><p>Where any income referred to in section 115BBA is payable to a non-resident sportsman (including an athlete) or an entertainer who is not a citizen of India or a non-resident sports association or institution, the person responsible for making the payment shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of twenty per cent.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">194E</span>Payments to non-resident sportsmen or sports associations.</h3></div><p class=\"prov-cite\">Section 194E  ·  Chapter XVII  ·  B.—Deduction at source  ·  page 723 of the Act</p><div class=\"prov-body\"><p>Where any income referred to in section 115BBA is payable to a non-resident sportsman (including an athlete) or an entertainer who is not a citizen of India or a non-resident sports association or institution, the person responsible for making the payment shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of twenty per cent.</p></div>"
+  }
+}

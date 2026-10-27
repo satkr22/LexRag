@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_60_chunk_0",
+    "section_id": "easements_section_60",
+    "token_count": 78,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 60::License when revocable.\n]\n\n\nA license may be revoked by the grantor, unless—\n(a) it is coupled with a transfer of property and such transfer is in force;\n(b) the licensee, acting upon the license, has executed a work of a permanent character and incurred expenses in the execution.",
+    "metadata": {
+      "chunk_id": "easements_section_60_chunk_0",
+      "section_id": "easements_section_60",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "60",
+      "section_title": "License when revocable."
+    }
+  }
+]

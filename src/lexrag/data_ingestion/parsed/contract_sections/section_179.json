@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-179.html",
+    "source_order": 181,
+    "article_order": 1,
+    "order": 181,
+    "stem": "section_179",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Bailment",
+    "heading_range": "ss. 148–181",
+    "heading_source": "manifest",
+    "article_number": "179",
+    "article_title": "Pledge where pawnor has only a limited interest.",
+    "id": "contract_section_179"
+  },
+  "id": "contract_section_179",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Bailment",
+    "range": "ss. 148–181"
+  },
+  "article": {
+    "number": "179",
+    "title": "Pledge where pawnor has only a limited interest.",
+    "content": "Where a person pledges goods in which he has only a limited interest, the pledge is valid to the extent of that interest.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">179</span>Pledge where pawnor has only a limited interest.</h3></div><p class=\"prov-cite\">Section 179  ·  Chapter IX  ·  Bailments of Pledges  ·  page 43 of the Act</p><div class=\"prov-body\"><p>Where a person pledges goods in which he has only a limited interest, the pledge is valid to the extent of that interest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">179</span>Pledge where pawnor has only a limited interest.</h3></div><p class=\"prov-cite\">Section 179  ·  Chapter IX  ·  Bailments of Pledges  ·  page 43 of the Act</p><div class=\"prov-body\"><p>Where a person pledges goods in which he has only a limited interest, the pledge is valid to the extent of that interest.</p></div>"
+  }
+}

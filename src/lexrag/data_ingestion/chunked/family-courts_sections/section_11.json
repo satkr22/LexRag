@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "family-courts_section_11_chunk_0",
+    "section_id": "family-courts_section_11",
+    "token_count": 61,
+    "text": "[Act: family-courts\n Chapter: Procedure\n Section: 11::Proceedings to be held in camera.\n]\n\n\nIn every suit or proceedings to which this Act applies, the proceedings may be held in camera if the Family Court so desires and shall be so held if either party so desires.",
+    "metadata": {
+      "chunk_id": "family-courts_section_11_chunk_0",
+      "section_id": "family-courts_section_11",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "family-courts",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Procedure",
+      "section_number": "11",
+      "section_title": "Proceedings to be held in camera."
+    }
+  }
+]

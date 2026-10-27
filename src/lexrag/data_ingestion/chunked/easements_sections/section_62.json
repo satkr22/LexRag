@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_62_chunk_0",
+    "section_id": "easements_section_62",
+    "token_count": 297,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 62::License when deemed revoked.\n]\n\n\nA license is deemed to be revoked—\n(a) when, from a cause preceding the grant of it, the grantor ceases to have any interest in the property affected by the license;\n(b) when the licensee releases it, expressly or impliedly, to the grantor or his representative;\n(c) where it has been granted for a limited period, or acquired on condition that it shall become void on the performance or non-performance of a specified act, and the period expires, or the condition is fulfilled;\n(d) where the property affected by the license is destroyed or by superior force so permanently altered that the licensee can not longer exercise his right;\n(e) where the licensee becomes entitled to the absolute ownership of the property affected by the license;\n(f) where the license is granted for a specified purpose and the purpose is attained, or abandoned, or becomes impracticable;\n(g) where the license is granted to the licensee as holding a particular office, employment or character, and such office, employment or character ceases to exist;\n(h) where the license totally ceases to be used as such for an unbroken period of twenty years, and such cessation is not in pursuance of a contract between the grantor and the licensee;\n(i) in the case of an accessory license, when the interest or right to which it is accessory ceases to exist.",
+    "metadata": {
+      "chunk_id": "easements_section_62_chunk_0",
+      "section_id": "easements_section_62",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "62",
+      "section_title": "License when deemed revoked."
+    }
+  }
+]

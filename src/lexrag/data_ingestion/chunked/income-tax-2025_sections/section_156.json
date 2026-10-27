@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_156_chunk_0",
+    "section_id": "income-tax-2025_section_156",
+    "token_count": 291,
+    "text": "[Act: income-tax-2025\n Chapter: Rebates and Reliefs\n Section: 156::Rebate of income-tax in case of certain individuals.\n]\n\n\n(1) An assessee, being an individual resident in India, shall be entitled to a deduction of 100% of income-tax payable or Rs. 12500, whichever is less, from the income-tax (computed before allowing the deduction under this section) chargeable on the total income for any tax year if such total income does not exceed Rs. 500000.\n(2) Where the total income of a resident individual assessee for any tax year is chargeable to tax under section 202(1), then from income-tax (computed before allowing the deduction under this section) following deductions shall be allowed, if—\n(a) the income does not exceed twelve lakh rupees, 100% of the income-tax payable or Rs. 60000, whichever is less;\n(b) the total income exceeds twelve lakh rupees and the income-tax payable on such total income exceeds the amount by which the total income is in excess of twelve lakh rupees, an amount equal to the amount by which the income-tax payable on such total income is in excess of the amount by which the total income exceeds twelve lakh rupees.\n(3) The deduction under sub-section (2), shall not exceed income-tax payable as per the rates provided in section 202(1).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_156_chunk_0",
+      "section_id": "income-tax-2025_section_156",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Rebates and Reliefs",
+      "section_number": "156",
+      "section_title": "Rebate of income-tax in case of certain individuals."
+    }
+  }
+]

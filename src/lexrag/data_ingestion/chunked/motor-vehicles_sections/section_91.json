@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_91_chunk_0",
+    "section_id": "motor-vehicles_section_91",
+    "token_count": 292,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 91::Restriction of hours of work of drivers.\n]\n\n\n2[(1) The hours of work of any person engaged for operating a transport vehicle shall be such as provided in the Motor Transport Workers Act, 1961 (27 of 1961).]\n(2) A State Government may, by notification in the Official Gazette, grant such exemptions from the provisions of sub-section (1) as it thinks fit, to meet cases of emergency or of delays by reason of circumstances which could not be foreseen.\n(3) A State Government or, if authorised in this behalf by the State Government by rules made under section 96, the State or a Regional Transport Authority may require persons employing any person whose work is subject to any of the provisions of sub-section (1) to fix beforehand the hours of work of such persons so as to conform to those provisions, and may provide for the recording of the hours so fixed.\n(4) No person shall work or shall cause or allow any other person to work outside the hours fixed or recorded for the work of such persons under sub-section (3).\n(5) A State Government may prescribe the circumstances under which and the period during which the driver of a vehicle although not engaged in work is required to remain on or near the vehicle may be deemed to be an interval for rest within the meaning of sub-section (1).",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_91_chunk_0",
+      "section_id": "motor-vehicles_section_91",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "91",
+      "section_title": "Restriction of hours of work of drivers."
+    }
+  }
+]

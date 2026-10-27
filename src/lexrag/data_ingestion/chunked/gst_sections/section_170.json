@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_170_chunk_0",
+    "section_id": "gst_section_170",
+    "token_count": 121,
+    "text": "[Act: gst\n Chapter: Miscellaneous\n Section: 170::Rounding off of tax, etc.\n]\n\n\nThe amount of tax, interest, penalty, fine or any other sum payable, and the amount of refund or any other sum due, under the provisions of this Act shall be rounded off to the nearest rupee and, for this purpose, where such amount contains a part of a rupee consisting of paise, then, if such part is fifty paise or more, it shall be increased to one rupee and if such part is less than fifty paise it shall be ignored.",
+    "metadata": {
+      "chunk_id": "gst_section_170_chunk_0",
+      "section_id": "gst_section_170",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Miscellaneous",
+      "section_number": "170",
+      "section_title": "Rounding off of tax, etc."
+    }
+  }
+]

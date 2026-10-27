@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_74A_chunk_0",
+    "section_id": "income-tax-1961_section_74A",
+    "token_count": 477,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 74A::Losses from certain specified sources falling under the head \"Income from other sources\".\n]\n\n\n(1) [* * *]\n  (2) [* * *]\n  (3) In the case of an assessee, being the owner of horses maintained by him for running in horse races (such horses being hereafter in this sub-section referred to as race horses), the amount of loss incurred by the assessee in the activity of owning and maintaining race horses in any assessment year shall not be set off against income, if any, from any source other than the activity of owning and maintaining race horses in that year and shall, subject to the other provisions of this Chapter, be carried forward to the following assessment year and—\n  (a) it shall be set off against the income, if any, from the activity of owning and maintaining race horses assessable for that assessment year :\n  Provided that the activity of owning and maintaining race horses is carried on by him in the previous year relevant for that assessment year ; and\n  (b) if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following assessment year and so on; so, however, that no portion of the loss shall be carried forward for more than four assessment years immediately succeeding the assessment year for which the loss was first computed.\n  Explanation.—For the purposes of this sub-section—\n  (a) \"amount of loss incurred by the assessee in the activity of owning and maintaining race horses\" means—\n  (i) in a case where the assessee has no income by way of stake money, the amount of expenditure (not being in the nature of capital expenditure) laid out or expended by him wholly and exclusively for the purposes of maintaining race horses;\n  (ii) in a case where the assessee has income by way of stake money, the amount by which such income falls short of the amount of expenditure (not being in the nature of capital expenditure) laid out or expended by the assessee wholly and exclusively for the purposes of maintaining race horses;\n  (b) \"horse race\" means a horse race upon which wagering or betting may be lawfully made;",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_74A_chunk_0",
+      "section_id": "income-tax-1961_section_74A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "74A",
+      "section_title": "Losses from certain specified sources falling under the head \"Income from other sources\"."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_74A_chunk_1",
+    "section_id": "income-tax-1961_section_74A",
+    "token_count": 114,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 74A::Losses from certain specified sources falling under the head \"Income from other sources\".\n]\n\n\n(1) [* * *]\n  (c) \"income by way of stake money\" means the gross amount of prize money received on a race horse or race horses by the owner thereof on account of the horse or horses or any one or more of the horses winning or being placed second or in any lower position in horse races.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_74A_chunk_1",
+      "section_id": "income-tax-1961_section_74A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "74A",
+      "section_title": "Losses from certain specified sources falling under the head \"Income from other sources\"."
+    }
+  }
+]

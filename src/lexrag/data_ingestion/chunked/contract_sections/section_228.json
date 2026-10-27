@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_228_chunk_0",
+    "section_id": "contract_section_228",
+    "token_count": 115,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 228::Principal not bound when excess of agent’s authority is not separable.\n]\n\n\nWhere an agent does more than he is authorized to do, and what he does beyond the scope of his authority cannot be separated from what is within it, the principal is not bound to recognize the transaction.\nIllustration\nA authorizes B to buy 500 sheep for him. B buys 500 sheep and 200 lambs for one sum of 6,000 rupees. A may repudiate the whole transaction.",
+    "metadata": {
+      "chunk_id": "contract_section_228_chunk_0",
+      "section_id": "contract_section_228",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "228",
+      "section_title": "Principal not bound when excess of agent’s authority is not separable."
+    }
+  }
+]

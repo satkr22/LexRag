@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "rti",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": null,
+    "source_file": "rti_sections/section-3.html",
+    "source_order": 5,
+    "article_order": 1,
+    "order": 5,
+    "stem": "section_3",
+    "heading_number": "Chapter II",
+    "heading_title": "Right to Information and Obligations of Public Authorities",
+    "heading_range": "ss. 3–11",
+    "heading_source": "manifest",
+    "article_number": "3",
+    "article_title": "Right to information.",
+    "id": "rti_section_3"
+  },
+  "id": "rti_section_3",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Right to Information and Obligations of Public Authorities",
+    "range": "ss. 3–11"
+  },
+  "article": {
+    "number": "3",
+    "title": "Right to information.",
+    "content": "Subject to the provisions of this Act, all citizens shall have the right to information.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Right to information.</h3></div><p class=\"prov-cite\">Section 3  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Subject to the provisions of this Act, all citizens shall have the right to information.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Right to information.</h3></div><p class=\"prov-cite\">Section 3  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Subject to the provisions of this Act, all citizens shall have the right to information.</p></div>"
+  }
+}

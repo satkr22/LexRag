@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 21,
+    "order": 472,
+    "stem": "section_O20R17",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R17",
+    "article_title": "Special directions as to accounts.",
+    "id": "cpc_section_O20R17"
+  },
+  "id": "cpc_section_O20R17",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R17",
+    "title": "Special directions as to accounts.",
+    "content": "The Court may either by the decree directing an account to be taken or by any subsequent order give special direction with regard to the mode in which the account is to be taken or vouched and in particular may direct that in taking the account the books of account in which the accounts in question have been kept shall be taken as prima facie evidence of the truth of the matters therein contained with liberty to the parties interested to take such objection thereto as they may be advised.\n",
+    "html": "<article class=\"provision\" data-n=\"O20R17\" data-report=\"Order 20, Rule 17 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Special directions as to accounts.</h3></div><p class=\"prov-cite\">Order 20, Rule 17</p><div class=\"prov-body\"><p>The Court may either by the decree directing an account to be taken or by any subsequent order give special direction with regard to the mode in which the account is to be taken or vouched and in particular may direct that in taking the account the books of account in which the accounts in question have been kept shall be taken as prima facie evidence of the truth of the matters therein contained with liberty to the parties interested to take such objection thereto as they may be advised.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Special directions as to accounts.</h3></div><p class=\"prov-cite\">Order 20, Rule 17</p><div class=\"prov-body\"><p>The Court may either by the decree directing an account to be taken or by any subsequent order give special direction with regard to the mode in which the account is to be taken or vouched and in particular may direct that in taking the account the books of account in which the accounts in question have been kept shall be taken as prima facie evidence of the truth of the matters therein contained with liberty to the parties interested to take such objection thereto as they may be advised.</p></div>"
+  }
+}

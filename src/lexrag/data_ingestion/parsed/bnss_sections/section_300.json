@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-23.html",
+    "source_order": 23,
+    "article_order": 12,
+    "order": 300,
+    "stem": "section_300",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Plea Bargaining",
+    "heading_range": "289 – 300",
+    "heading_source": "group-head",
+    "article_number": "300",
+    "article_title": "Non-application of Chapter",
+    "id": "bnss_section_300"
+  },
+  "id": "bnss_section_300",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Plea Bargaining",
+    "range": "289 – 300"
+  },
+  "article": {
+    "number": "300",
+    "title": "Non-application of Chapter",
+    "content": "Nothing in this Chapter shall apply to any juvenile or child as defined in section 2 of the Juvenile Justice (Care and Protection of Children) Act, 2015 (2 of 2016).\n",
+    "html": "<article class=\"provision\" data-n=\"300\" data-report=\"Section 300 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">300</span>Non-application of Chapter</h3></div><p class=\"prov-cite\">Section 300 · Chapter XXIII</p><div class=\"prov-body\"><p>Nothing in this Chapter shall apply to any juvenile or child as defined in section 2 of the Juvenile Justice (Care and Protection of Children) Act, 2015 (2 of 2016).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">300</span>Non-application of Chapter</h3></div><p class=\"prov-cite\">Section 300 · Chapter XXIII</p><div class=\"prov-body\"><p>Nothing in this Chapter shall apply to any juvenile or child as defined in section 2 of the Juvenile Justice (Care and Protection of Children) Act, 2015 (2 of 2016).</p></div>"
+  }
+}

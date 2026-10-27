@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-12.html",
+    "source_order": 13,
+    "article_order": 5,
+    "order": 189,
+    "stem": "section_189",
+    "heading_number": "Chapter XII",
+    "heading_title": "Mode of Payment in Certain Cases, Etc.",
+    "heading_range": "ss. 185–189",
+    "heading_source": "group-head",
+    "article_number": "189",
+    "article_title": "Interpretation.",
+    "id": "income-tax-2025_section_189"
+  },
+  "id": "income-tax-2025_section_189",
+  "heading": {
+    "number": "Chapter XII",
+    "title": "Mode of Payment in Certain Cases, Etc.",
+    "range": "ss. 185–189"
+  },
+  "article": {
+    "number": "189",
+    "title": "Interpretation.",
+    "content": "For the purposes of this Chapter, unless the context otherwise requires,—\n(a) \"banking company\" means a company to which the provisions of the Banking Regulation Act, 1949 (10 of 1949) applies and includes any bank or banking institution referred to in section 51 of that Act;\n(b) \"primary agricultural credit society\", and \"primary co-operative agricultural and rural development bank\" shall have the meanings respectively assigned to them in section 150;\n(c) \"specified sum\" means any sum of money receivable, whether as advance or otherwise, in relation to transfer of an immovable property, whether or not the transfer takes place;\n(d) \"specified advance\" means any sum of money in the nature of advance, by whatever name called, in relation to transfer of an immovable property, whether or not the transfer takes place.\n",
+    "html": "<article class=\"provision\" data-n=\"189\" data-report=\"Section 189 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">189</span>Interpretation.</h3></div><p class=\"prov-cite\">Section 189  ·  Chapter XII  ·  page 230 of the Act</p><div class=\"prov-body\"><p>For the purposes of this Chapter, unless the context otherwise requires,—</p><p class=\"lvl\">(a) \"banking company\" means a company to which the provisions of the Banking Regulation Act, 1949 (10 of 1949) applies and includes any bank or banking institution referred to in section 51 of that Act;</p><p class=\"lvl\">(b) \"primary agricultural credit society\", and \"primary co-operative agricultural and rural development bank\" shall have the meanings respectively assigned to them in section 150;</p><p class=\"lvl\">(c) \"specified sum\" means any sum of money receivable, whether as advance or otherwise, in relation to transfer of an immovable property, whether or not the transfer takes place;</p><p class=\"lvl\">(d) \"specified advance\" means any sum of money in the nature of advance, by whatever name called, in relation to transfer of an immovable property, whether or not the transfer takes place.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">189</span>Interpretation.</h3></div><p class=\"prov-cite\">Section 189  ·  Chapter XII  ·  page 230 of the Act</p><div class=\"prov-body\"><p>For the purposes of this Chapter, unless the context otherwise requires,—</p><p class=\"lvl\">(a) \"banking company\" means a company to which the provisions of the Banking Regulation Act, 1949 (10 of 1949) applies and includes any bank or banking institution referred to in section 51 of that Act;</p><p class=\"lvl\">(b) \"primary agricultural credit society\", and \"primary co-operative agricultural and rural development bank\" shall have the meanings respectively assigned to them in section 150;</p><p class=\"lvl\">(c) \"specified sum\" means any sum of money receivable, whether as advance or otherwise, in relation to transfer of an immovable property, whether or not the transfer takes place;</p><p class=\"lvl\">(d) \"specified advance\" means any sum of money in the nature of advance, by whatever name called, in relation to transfer of an immovable property, whether or not the transfer takes place.</p></div>"
+  }
+}

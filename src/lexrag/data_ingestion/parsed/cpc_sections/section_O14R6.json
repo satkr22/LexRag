@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-28.html",
+    "source_order": 28,
+    "article_order": 6,
+    "order": 381,
+    "stem": "section_O14R6",
+    "heading_number": "Order XIV",
+    "heading_title": "Settlement of Issues and Determination of Suit on Issues of Law or on Issues agreed upon",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O14R6",
+    "article_title": "Questions of fact or law may by agreement be stated in form of issues.",
+    "id": "cpc_section_O14R6"
+  },
+  "id": "cpc_section_O14R6",
+  "heading": {
+    "number": "Order XIV",
+    "title": "Settlement of Issues and Determination of Suit on Issues of Law or on Issues agreed upon",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O14R6",
+    "title": "Questions of fact or law may by agreement be stated in form of issues.",
+    "content": "(1) Where the parties to a suit are agreed as to the question of fact or of law to be decided between them, they may state the same in the form of an issue, and enter into an agreement in writing that, upon the finding of the Court in the affirmative or the negative or such issue,—\n(a) a sum of money specified in the agreement or to be ascertained by the Court, or in such manner as the Court may direct, shall be paid by one of the parties to the other of them, or that one of them be declared entitled to some right or subject some liability specified in the agreement;\n(b) some property specified in the agreement and in dispute in the suit shall be delivered by one of the parties to the other of them, or as that other may direct; or\n(c) one or more of the parties shall do or abstain from doing some particular act specified in the agreement and relating to the matter in dispute.\n",
+    "html": "<article class=\"provision\" data-n=\"O14R6\" data-report=\"Order 14, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Questions of fact or law may by agreement be stated in form of issues.</h3></div><p class=\"prov-cite\">Order 14, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the parties to a suit are agreed as to the question of fact or of law to be decided between them, they may state the same in the form of an issue, and enter into an agreement in writing that, upon the finding of the Court in the affirmative or the negative or such issue,—</p><p class=\"lvl\">(a) a sum of money specified in the agreement or to be ascertained by the Court, or in such manner as the Court may direct, shall be paid by one of the parties to the other of them, or that one of them be declared entitled to some right or subject some liability specified in the agreement;</p><p class=\"lvl\">(b) some property specified in the agreement and in dispute in the suit shall be delivered by one of the parties to the other of them, or as that other may direct; or</p><p class=\"lvl\">(c) one or more of the parties shall do or abstain from doing some particular act specified in the agreement and relating to the matter in dispute.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Questions of fact or law may by agreement be stated in form of issues.</h3></div><p class=\"prov-cite\">Order 14, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the parties to a suit are agreed as to the question of fact or of law to be decided between them, they may state the same in the form of an issue, and enter into an agreement in writing that, upon the finding of the Court in the affirmative or the negative or such issue,—</p><p class=\"lvl\">(a) a sum of money specified in the agreement or to be ascertained by the Court, or in such manner as the Court may direct, shall be paid by one of the parties to the other of them, or that one of them be declared entitled to some right or subject some liability specified in the agreement;</p><p class=\"lvl\">(b) some property specified in the agreement and in dispute in the suit shall be delivered by one of the parties to the other of them, or as that other may direct; or</p><p class=\"lvl\">(c) one or more of the parties shall do or abstain from doing some particular act specified in the agreement and relating to the matter in dispute.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "consumer_section_100_chunk_0",
+    "section_id": "consumer_section_100",
+    "token_count": 54,
+    "text": "[Act: consumer\n Chapter: Miscellaneous\n Section: 100::Act not in derogation of any other law.\n]\n\n\nThe provisions of this Act shall be in addition to and not in derogation of the provisions of any other law for the time being in force.",
+    "metadata": {
+      "chunk_id": "consumer_section_100_chunk_0",
+      "section_id": "consumer_section_100",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "consumer",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "100",
+      "section_title": "Act not in derogation of any other law."
+    }
+  }
+]

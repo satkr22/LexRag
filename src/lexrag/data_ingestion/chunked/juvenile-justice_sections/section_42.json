@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "juvenile-justice_section_42_chunk_0",
+    "section_id": "juvenile-justice_section_42",
+    "token_count": 121,
+    "text": "[Act: juvenile-justice\n Chapter: Rehabilitation and Social Re-integration\n Section: 42::Penalty for non-registration of child care institutions.\n]\n\n\nAny person, or persons, in-charge of an institution housing children in need of care and protection and children in conflict with law, who fails to comply with the provisions of sub-section (1) of section 41, shall be punished with imprisonment which may extend to one year or a fine of not less than one lakh rupees or both:\nProvided that every thirty days delay in applying for registration shall be considered as a separate offence.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_42_chunk_0",
+      "section_id": "juvenile-justice_section_42",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Rehabilitation and Social Re-integration",
+      "section_number": "42",
+      "section_title": "Penalty for non-registration of child care institutions."
+    }
+  }
+]

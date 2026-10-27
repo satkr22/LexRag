@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 23,
+    "order": 474,
+    "stem": "section_O20R19",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R19",
+    "article_title": "Decree when set-off or counter-claim is allowed.",
+    "id": "cpc_section_O20R19"
+  },
+  "id": "cpc_section_O20R19",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R19",
+    "title": "Decree when set-off or counter-claim is allowed.",
+    "content": "(1) Where the defendant has been allowed a set-off 1[or counter-claim] against the claim of the plaintiff, the decree shall state what amount is due to the plaintiff and what amount is due to the defendant, and shall be for the recovery of any sum which appears to be due to either party.\n(2) Appeal from decree relating to set-off or counter-claim.—Any decree passed in a suit in which a set-off 1[or counter-claim] is claimed shall be subject to the same provisions in respect of appeal to which it would have been subject if no set-off 1[or counter-claim] had been claimed.\n(3) The provisions of this rule shall apply whether the set-off is admissible under rule 6 of Order VIII or otherwise.\n",
+    "html": "<article class=\"provision\" data-n=\"O20R19\" data-report=\"Order 20, Rule 19 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Decree when set-off or counter-claim is allowed.</h3></div><p class=\"prov-cite\">Order 20, Rule 19</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the defendant has been allowed a set-off <sup>1</sup>[or counter-claim] against the claim of the plaintiff, the decree shall state what amount is due to the plaintiff and what amount is due to the defendant, and shall be for the recovery of any sum which appears to be due to either party.</p><p class=\"lvl\">(2) Appeal from decree relating to set-off or counter-claim.—Any decree passed in a suit in which a set-off <sup>1</sup>[or counter-claim] is claimed shall be subject to the same provisions in respect of appeal to which it would have been subject if no set-off <sup>1</sup>[or counter-claim] had been claimed.</p><p class=\"lvl\">(3) The provisions of this rule shall apply whether the set-off is admissible under rule 6 of Order VIII or otherwise.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 70 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Decree when set-off or counter-claim is allowed.</h3></div><p class=\"prov-cite\">Order 20, Rule 19</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the defendant has been allowed a set-off <sup>1</sup>[or counter-claim] against the claim of the plaintiff, the decree shall state what amount is due to the plaintiff and what amount is due to the defendant, and shall be for the recovery of any sum which appears to be due to either party.</p><p class=\"lvl\">(2) Appeal from decree relating to set-off or counter-claim.—Any decree passed in a suit in which a set-off <sup>1</sup>[or counter-claim] is claimed shall be subject to the same provisions in respect of appeal to which it would have been subject if no set-off <sup>1</sup>[or counter-claim] had been claimed.</p><p class=\"lvl\">(3) The provisions of this rule shall apply whether the set-off is admissible under rule 6 of Order VIII or otherwise.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 70 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

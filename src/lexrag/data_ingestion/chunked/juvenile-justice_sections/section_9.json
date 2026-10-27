@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "juvenile-justice_section_9_chunk_0",
+    "section_id": "juvenile-justice_section_9",
+    "token_count": 401,
+    "text": "[Act: juvenile-justice\n Chapter: Juvenile Justice Board\n Section: 9::Procedure to be followed by a Magistrate who has not been empowered under this Act.\n]\n\n\n(1) When a Magistrate, not empowered to exercise the powers of the Board under this Act is of the opinion that the person alleged to have committed the offence and brought before him is a child, he shall, without any delay, record such opinion and forward the child immediately along with the record of such proceedings to the Board having jurisdiction.\n(2) In case a person alleged to have committed an offence claims before a court other than a Board, that the person is a child or was a child on the date of commission of the offence, or if the court itself is of the opinion that the person was a child on the date of commission of the offence, the said court shall make an inquiry, take such evidence as may be necessary (but not an affidavit) to determine the age of such person, and shall record a finding on the matter, stating the age of the person as nearly as may be:\nProvided that such a claim may be raised before any court and it shall be recognised at any stage, even after final disposal of the case, and such a claim shall be determined in accordance with the provisions contained in this Act and the rules made thereunder even if the person has ceased to be a child on or before the date of commencement of this Act.\n(3) If the court finds that a person has committed an offence and was a child on the date of commission of such offence, it shall forward the child to the Board for passing appropriate orders and the sentence, if any, passed by the court shall be deemed to have no effect.\n(4) In case a person under this section is required to be kept in protective custody, while the person’s claim of being a child is being inquired into, such person may be placed, in the intervening period in a place of safety.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_9_chunk_0",
+      "section_id": "juvenile-justice_section_9",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Juvenile Justice Board",
+      "section_number": "9",
+      "section_title": "Procedure to be followed by a Magistrate who has not been empowered under this Act."
+    }
+  }
+]

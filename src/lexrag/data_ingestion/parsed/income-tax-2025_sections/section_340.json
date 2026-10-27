@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-17.html",
+    "source_order": 18,
+    "article_order": 39,
+    "order": 340,
+    "stem": "section_340",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Special Provisions Relating to Certain Persons",
+    "heading_range": "ss. 302–355",
+    "heading_source": "group-head",
+    "article_number": "340",
+    "article_title": "Deemed corpus donation.",
+    "id": "income-tax-2025_section_340"
+  },
+  "id": "income-tax-2025_section_340",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Special Provisions Relating to Certain Persons",
+    "range": "ss. 302–355"
+  },
+  "article": {
+    "number": "340",
+    "title": "Deemed corpus donation.",
+    "content": "Where the property of a registered non-profit organisation includes any temple, mosque, gurudwara, church or other place notified under section 133(1)\n(b)(vi), any sum or sums received by such registered non-profit organisation as donation for the purpose of renovation or repair of such temple, mosque, gurudwara, church or other place, may, at its option, be deemed as forming part of the corpus under section 339, if it—\n(a) maintains such corpus as separately identifiable;\n(b) applies such corpus only for the purpose for which the donation was made;\n(c) invests or deposits such corpus in any of the modes permitted under section 350; and\n(d) does not apply such corpus for making donation to any person.\n",
+    "html": "<article class=\"provision\" data-n=\"340\" data-report=\"Section 340 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">340</span>Deemed corpus donation.</h3></div><p class=\"prov-cite\">Section 340  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 2.—Income of registered non-profit organisation  ·  page 405 of the Act</p><div class=\"prov-body\"><p>Where the property of a registered non-profit organisation includes any temple, mosque, gurudwara, church or other place notified under section 133(1)</p><p class=\"lvl\">(b)(vi), any sum or sums received by such registered non-profit organisation as donation for the purpose of renovation or repair of such temple, mosque, gurudwara, church or other place, may, at its option, be deemed as forming part of the corpus under section 339, if it—</p><p class=\"lvl\">(a) maintains such corpus as separately identifiable;</p><p class=\"lvl\">(b) applies such corpus only for the purpose for which the donation was made;</p><p class=\"lvl\">(c) invests or deposits such corpus in any of the modes permitted under section 350; and</p><p class=\"lvl\">(d) does not apply such corpus for making donation to any person.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">340</span>Deemed corpus donation.</h3></div><p class=\"prov-cite\">Section 340  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 2.—Income of registered non-profit organisation  ·  page 405 of the Act</p><div class=\"prov-body\"><p>Where the property of a registered non-profit organisation includes any temple, mosque, gurudwara, church or other place notified under section 133(1)</p><p class=\"lvl\">(b)(vi), any sum or sums received by such registered non-profit organisation as donation for the purpose of renovation or repair of such temple, mosque, gurudwara, church or other place, may, at its option, be deemed as forming part of the corpus under section 339, if it—</p><p class=\"lvl\">(a) maintains such corpus as separately identifiable;</p><p class=\"lvl\">(b) applies such corpus only for the purpose for which the donation was made;</p><p class=\"lvl\">(c) invests or deposits such corpus in any of the modes permitted under section 350; and</p><p class=\"lvl\">(d) does not apply such corpus for making donation to any person.</p></div>"
+  }
+}

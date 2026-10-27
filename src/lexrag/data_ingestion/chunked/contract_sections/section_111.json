@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_111_chunk_0",
+    "section_id": "contract_section_111",
+    "token_count": 28,
+    "text": "[Act: contract\n Chapter: Sales of Goods\n Section: 111::Warranty of soundness implied on sale of provisions.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "contract_section_111_chunk_0",
+      "section_id": "contract_section_111",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Sales of Goods",
+      "section_number": "111",
+      "section_title": "Warranty of soundness implied on sale of provisions."
+    }
+  }
+]

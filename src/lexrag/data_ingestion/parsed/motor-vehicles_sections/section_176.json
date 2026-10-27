@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-12.html",
+    "source_order": 12,
+    "article_order": 12,
+    "order": 192,
+    "stem": "section_176",
+    "heading_number": "Chapter XII",
+    "heading_title": "Claims Tribunals",
+    "heading_range": "ss. 165–176",
+    "heading_source": "group-head",
+    "article_number": "176",
+    "article_title": "Power of State Government to make rules.",
+    "id": "motor-vehicles_section_176"
+  },
+  "id": "motor-vehicles_section_176",
+  "heading": {
+    "number": "Chapter XII",
+    "title": "Claims Tribunals",
+    "range": "ss. 165–176"
+  },
+  "article": {
+    "number": "176",
+    "title": "Power of State Government to make rules.",
+    "content": "A State Government may make rules for the purpose of carrying into effect the provisions of sections 165 to 174, and in particular, such rules may provide for all or any of the following matters, namely:—\n(a) the form of application for claims for compensation and the particulars it may contain, and the fees, if any, to be paid in respect of such applications;\n(b) the procedure to be followed by a Claims Tribunal in holding an inquiry under this Chapter;\n(c) the powers vested in a Civil Court which may be exercised by a Claims Tribunal;\n(d) the form and the manner in which and the fees (if any) on payment of which an appeal may be preferred against an award of a Claims Tribunal; and\n(e) any other matter which is to be, or may be, prescribed.\n",
+    "html": "<article class=\"provision\" data-n=\"176\" data-report=\"Section 176 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">176</span>Power of State Government to make rules.</h3></div><p class=\"prov-cite\">Section 176  ·  Chapter XII  ·  pages 99–100 of the Act</p><div class=\"prov-body\"><p>A State Government may make rules for the purpose of carrying into effect the provisions of sections 165 to 174, and in particular, such rules may provide for all or any of the following matters, namely:—</p><p class=\"lvl\">(a) the form of application for claims for compensation and the particulars it may contain, and the fees, if any, to be paid in respect of such applications;</p><p class=\"lvl\">(b) the procedure to be followed by a Claims Tribunal in holding an inquiry under this Chapter;</p><p class=\"lvl\">(c) the powers vested in a Civil Court which may be exercised by a Claims Tribunal;</p><p class=\"lvl\">(d) the form and the manner in which and the fees (if any) on payment of which an appeal may be preferred against an award of a Claims Tribunal; and</p><p class=\"lvl\">(e) any other matter which is to be, or may be, prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">176</span>Power of State Government to make rules.</h3></div><p class=\"prov-cite\">Section 176  ·  Chapter XII  ·  pages 99–100 of the Act</p><div class=\"prov-body\"><p>A State Government may make rules for the purpose of carrying into effect the provisions of sections 165 to 174, and in particular, such rules may provide for all or any of the following matters, namely:—</p><p class=\"lvl\">(a) the form of application for claims for compensation and the particulars it may contain, and the fees, if any, to be paid in respect of such applications;</p><p class=\"lvl\">(b) the procedure to be followed by a Claims Tribunal in holding an inquiry under this Chapter;</p><p class=\"lvl\">(c) the powers vested in a Civil Court which may be exercised by a Claims Tribunal;</p><p class=\"lvl\">(d) the form and the manner in which and the fees (if any) on payment of which an appeal may be preferred against an award of a Claims Tribunal; and</p><p class=\"lvl\">(e) any other matter which is to be, or may be, prescribed.</p></div>"
+  }
+}

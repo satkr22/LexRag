@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-13.html",
+    "source_order": 13,
+    "article_order": 21,
+    "order": 226,
+    "stem": "section_226",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Of Contempts of the Lawful Authority of Public Servants",
+    "heading_range": "206 – 226",
+    "heading_source": "group-head",
+    "article_number": "226",
+    "article_title": "Attempt to commit suicide to compel or restrain exercise of lawful power",
+    "id": "bns_section_226"
+  },
+  "id": "bns_section_226",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Of Contempts of the Lawful Authority of Public Servants",
+    "range": "206 – 226"
+  },
+  "article": {
+    "number": "226",
+    "title": "Attempt to commit suicide to compel or restrain exercise of lawful power",
+    "content": "Whoever attempts to commit suicide with the intent to compel or restrain any public servant from discharging his official duty shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service.\n",
+    "html": "<article class=\"provision\" data-n=\"226\" data-report=\"Section 226 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">226</span>Attempt to commit suicide to compel or restrain exercise of lawful power</h3></div><p class=\"prov-cite\">Section 226 · Chapter XIII</p><div class=\"prov-body\"><p>Whoever attempts to commit suicide with the intent to compel or restrain any public servant from discharging his official duty shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">226</span>Attempt to commit suicide to compel or restrain exercise of lawful power</h3></div><p class=\"prov-cite\">Section 226 · Chapter XIII</p><div class=\"prov-body\"><p>Whoever attempts to commit suicide with the intent to compel or restrain any public servant from discharging his official duty shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service.</p></div>"
+  }
+}

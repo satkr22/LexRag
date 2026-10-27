@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "technology",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "technology_sections/section-19.html",
+    "source_order": 26,
+    "article_order": 1,
+    "order": 26,
+    "stem": "section_19",
+    "heading_number": "Chapter VI",
+    "heading_title": "Regulation of Certifying Authorities",
+    "heading_range": "ss. 17–34",
+    "heading_source": "manifest",
+    "article_number": "19",
+    "article_title": "Recognition of foreign Certifying Authorities.",
+    "id": "technology_section_19"
+  },
+  "id": "technology_section_19",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Regulation of Certifying Authorities",
+    "range": "ss. 17–34"
+  },
+  "article": {
+    "number": "19",
+    "title": "Recognition of foreign Certifying Authorities.",
+    "content": "(1) Subject to such conditions and restrictions as may be specified by regulations, the Controller may with the previous approval of the Central Government, and by notification in the Official Gazette, recognise any foreign Certifying Authority as a Certifying Authority for the purposes of this Act.\n(2) Where any Certifying Authority is recognised under sub-section (1), the 2[electronic signature] Certificate issued by such Certifying Authority shall be valid for the purposes of this Act.\n(3) The Controller may, if he is satisfied that any Certifying Authority has contravened any of the conditions and restrictions subject to which it was granted recognition under sub-section (1) he may, for reasons to be recorded in writing, by notification in the Official Gazette, revoke such recognition.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Recognition of foreign Certifying Authorities.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter VI  ·  page 13 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to such conditions and restrictions as may be specified by regulations, the Controller may with the previous approval of the Central Government, and by notification in the Official Gazette, recognise any foreign Certifying Authority as a Certifying Authority for the purposes of this Act.</p><p class=\"lvl\">(2) Where any Certifying Authority is recognised under sub-section (1), the <sup>2</sup>[electronic signature] Certificate issued by such Certifying Authority shall be valid for the purposes of this Act.</p><p class=\"lvl\">(3) The Controller may, if he is satisfied that any Certifying Authority has contravened any of the conditions and restrictions subject to which it was granted recognition under sub-section (1) he may, for reasons to be recorded in writing, by notification in the Official Gazette, revoke such recognition.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Subs. by Act 10 of 2009, s. 2, for “digital signature” (w.e.f. 27-10-2009).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Recognition of foreign Certifying Authorities.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter VI  ·  page 13 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to such conditions and restrictions as may be specified by regulations, the Controller may with the previous approval of the Central Government, and by notification in the Official Gazette, recognise any foreign Certifying Authority as a Certifying Authority for the purposes of this Act.</p><p class=\"lvl\">(2) Where any Certifying Authority is recognised under sub-section (1), the <sup>2</sup>[electronic signature] Certificate issued by such Certifying Authority shall be valid for the purposes of this Act.</p><p class=\"lvl\">(3) The Controller may, if he is satisfied that any Certifying Authority has contravened any of the conditions and restrictions subject to which it was granted recognition under sub-section (1) he may, for reasons to be recorded in writing, by notification in the Official Gazette, revoke such recognition.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Subs. by Act 10 of 2009, s. 2, for “digital signature” (w.e.f. 27-10-2009).</p></div></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_168_chunk_0",
+    "section_id": "income-tax-1961_section_168",
+    "token_count": 325,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 168::Executors.\n]\n\n\n(1) Subject as hereinafter provided, the income of the estate of a deceased person shall be chargeable to tax in the hands of the executor,—\n(a) if there is only one executor, then, as if the executor were an individual; or\n(b) if there are more executors than one, then, as if the executors were an association of persons; and for the purposes of this Act, the executor shall be deemed to be resident or non-resident according as the deceased person was a resident or non-resident during the previous year in which his death took place.\n(2) The assessment of an executor under this section shall be made separately from any assessment that may be made on him in respect of his own income.\n(3) Separate assessments shall be made under this section on the total income of each completed previous year or part thereof as is included in the period from the date of the death to the date of complete distribution to the beneficiaries of the estate according to their several interests.\n(4) In computing the total income of any previous year under this section, any income of the estate of that previous year distributed to, or applied to the benefit of, any specific legatee of the estate during that previous year shall be excluded; but the income so excluded shall be included in the total income of the previous year of such specific legatee.\nExplanation.—In this section, \"executor\" includes an administrator or other person administering the estate of a deceased person.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_168_chunk_0",
+      "section_id": "income-tax-1961_section_168",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "168",
+      "section_title": "Executors."
+    }
+  }
+]

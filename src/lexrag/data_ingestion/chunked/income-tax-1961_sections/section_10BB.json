@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_10BB_chunk_0",
+    "section_id": "income-tax-1961_section_10BB",
+    "token_count": 116,
+    "text": "[Act: income-tax-1961\n Chapter: Incomes Which Do not Form Part of Total Income\n Section: 10BB::Meaning of computer programmes in certain cases.\n]\n\n\nThe profits and gains derived by an undertaking from the production of computer programmes under section 10B, as it stood prior to its substitution by section 7 of the Finance Act, 2000 (10 of 2000), shall be construed as if for the words \"computer programmes\", the words \"computer programmes or processing or management of electronic data\" had been substituted in that section.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_10BB_chunk_0",
+      "section_id": "income-tax-1961_section_10BB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter III",
+      "chapter_title": "Incomes Which Do not Form Part of Total Income",
+      "section_number": "10BB",
+      "section_title": "Meaning of computer programmes in certain cases."
+    }
+  }
+]

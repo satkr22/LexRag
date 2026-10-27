@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "family-courts_section_13_chunk_0",
+    "section_id": "family-courts_section_13",
+    "token_count": 89,
+    "text": "[Act: family-courts\n Chapter: Procedure\n Section: 13::Right to legal representation.\n]\n\n\nNotwithstanding anything contained in any law, no party to a suit or proceeding before a Family Court shall be entitled, as of right, to be represented by a legal practitioner:\nProvided that if the Family Court considers it necessary in the interest of justice, it may seek the assistance of a legal expert as amicus curiae.",
+    "metadata": {
+      "chunk_id": "family-courts_section_13_chunk_0",
+      "section_id": "family-courts_section_13",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "family-courts",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Procedure",
+      "section_number": "13",
+      "section_title": "Right to legal representation."
+    }
+  }
+]

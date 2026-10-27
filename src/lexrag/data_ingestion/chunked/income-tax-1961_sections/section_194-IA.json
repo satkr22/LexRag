@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194-IA_chunk_0",
+    "section_id": "income-tax-1961_section_194-IA",
+    "token_count": 486,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194-IA::Payment on transfer of certain immovable property other than agricultural land.\n]\n\n\n(1) Any person, being a transferee, responsible for paying (other than the person referred to in section 194LA) to a resident transferor any sum by way of consideration for transfer of any immovable property (other than agricultural land), shall, at the time of credit of such sum to the account of the transferor or at the time of payment of such sum in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct an amount equal to one per cent of such sum or the stamp duty value of such property, whichever is higher, as income-tax thereon.\n(2) No deduction under sub-section (1) shall be made where the consideration for the transfer of an immovable property and the stamp duty value of such property, are both, less than fifty lakh rupees:\n41[Provided that where there is more than one transferor or transferee in respect of any immovable property, then the consideration shall be the aggregate of the amounts paid or payable by all the transferees to the transferor or all the transferors for transfer of such immovable property.]\n(3) The provisions of section 203A shall not apply to a person required to deduct tax in accordance with the provisions of this section.\nExplanation.—For the purposes of this section,—\n(a) \"agricultural land\" means agricultural land in India, not being a land situate in any area referred to in items (a) and (b) of sub-clause (iii) of clause\n(14) of section 2;\n(aa) \"consideration for transfer of any immovable property\" shall include all charges of the nature of club membership fee, car parking fee, electricity or water facility fee, maintenance fee, advance fee or any other charges of similar nature, which are incidental to transfer of the immovable property;\n(b) \"immovable property\" means any land (other than agricultural land) or any building or part of a building;\n(c) \"stamp duty value\" shall have the same meaning as assigned to it in clause (f) of the Explanation to clause (vii) of sub-section (2) of section 56.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194-IA_chunk_0",
+      "section_id": "income-tax-1961_section_194-IA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194-IA",
+      "section_title": "Payment on transfer of certain immovable property other than agricultural land."
+    }
+  }
+]

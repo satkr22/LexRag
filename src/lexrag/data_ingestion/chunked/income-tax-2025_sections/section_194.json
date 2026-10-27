@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_194_chunk_0",
+    "section_id": "income-tax-2025_section_194",
+    "token_count": 488,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 194::Tax on certain incomes.\n]\n\n\n(1) Irrespective of anything contained in any other provision of this Act, where the total income of an assessee as mentioned in column B of the Table below, includes income of the nature specified in column C of the said Table, the income-tax payable by such assessee, for a tax year, shall be the aggregate of —\n  (a) income-tax calculated on income mentioned in column C, at the rate mentioned in column D, subject to the conditions specified in column E; and\n  (b) income-tax with which the assessee would have been chargeable had his total income been reduced by income mentioned in column C thereof.\n  (2) For the purposes of this section,—\n  (a) \"carbon credit\", in respect of one unit, means reduction of one tonne of carbon dioxide emissions or emissions of its equivalent gases which is validated by the United Nations Framework on Climate Change and which can be traded in market at its prevailing market price;\n  (b) \"computer resource\" shall have the same meaning as assigned to it in section 2(1)(k) of the Information Technology Act, 2000 (21 of 2000);\n  (c) \"developed\" means at least 75% of the expenditure incurred in India by the eligible assessee for any invention in respect of which patent is granted under the Patents Act, 1970 (39 of 1970) (herein referred to as the Patents Act);\n  (d) \"horse race\" shall have the meaning assigned to it in section 94(6);\n  (e) \"internet\" means the combination of computer facilities and electromagnetic transmission media including related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information based on a protocol for controlling such transmission;\n  (f) \"invention\" shall have the same meaning as assigned to it in section 2(1)(j) of the Patents Act;\n  (g) \"lump sum\" includes an advance payment on account of such royalties which is not returnable;\n  (h) \"online game\" means a game that is offered on the internet and is accessible by a user through a computer resource including any telecommunication device;",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_194_chunk_0",
+      "section_id": "income-tax-2025_section_194",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "194",
+      "section_title": "Tax on certain incomes."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_194_chunk_1",
+    "section_id": "income-tax-2025_section_194",
+    "token_count": 492,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 194::Tax on certain incomes.\n]\n\n\n(1) Irrespective of anything contained in any other provision of this Act, where the total income of an assessee as mentioned in column B of the Table below, includes income of the nature specified in column C of the said Table, the income-tax payable by such assessee, for a tax year, shall be the aggregate of —\n  (i) \"patent\" shall have the same meaning as assigned to it in section 2(1)(m) of the Patents Act;\n  (j) \"patented article\" and \"patented process\" shall have the same meanings as respectively assigned to them in section 2(1)(o) of the Patents Act;\n  (k) \"patentee\" means the person, being the true and first inventor of the invention, whose name is entered in the patent register as the patentee, as per the Patents Act, and includes every such person, being the true and first inventor of the invention, where more than one person is registered as patentee under that Act in respect of that patent;\n  (l) \"royalty\", in respect of a patent, means consideration (including any lump sum consideration but excluding any consideration which would be the income of the recipient chargeable under the head \"Capital gains\" or consideration for sale of product manufactured with the use of patented process or the patented article for commercial use) for the—\n  (i) transfer of all or any rights (including the granting of a licence) in respect of a patent; or\n  (ii) imparting of any information concerning the working of, or the use of, a patent; or\n  (iii) use of any patent; or\n  (iv) rendering of any services in connection with the activities referred to in sub-clauses (i) to (iii);\n  (m) \"true and first inventor\" shall have the same meaning as assigned to it in section 2(1)(y) of the Patents Act; and\n  (n) for the purposes of sub-section (1) (Table: Sl. No. 4), the term \"transfer\" as defined in section 2(109), shall apply to any virtual digital asset, whether capital asset or not.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_194_chunk_1",
+      "section_id": "income-tax-2025_section_194",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "194",
+      "section_title": "Tax on certain incomes."
+    }
+  }
+]

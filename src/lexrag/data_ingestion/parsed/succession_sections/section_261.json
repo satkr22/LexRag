@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-36.html",
+    "source_order": 36,
+    "article_order": 1,
+    "order": 262,
+    "stem": "section_261",
+    "heading_number": "Part IX · Chapter III",
+    "heading_title": "Alteration and Revocation of Grants",
+    "heading_range": "ss. 261–263",
+    "heading_source": "group-head",
+    "article_number": "261",
+    "article_title": "What errors may be rectified by Court.",
+    "id": "succession_section_261"
+  },
+  "id": "succession_section_261",
+  "heading": {
+    "number": "Part IX · Chapter III",
+    "title": "Alteration and Revocation of Grants",
+    "range": "ss. 261–263"
+  },
+  "article": {
+    "number": "261",
+    "title": "What errors may be rectified by Court.",
+    "content": "Errors in names and descriptions, or in setting forth the time and place of the deceased’s death or the purpose in a limited grant, may be rectified by the Court and the grant of probate or letters of administration may be altered and amended accordingly.\n",
+    "html": "<article class=\"provision\" data-n=\"261\" data-report=\"Section 261 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">261</span>What errors may be rectified by Court.</h3></div><p class=\"prov-cite\">Section 261  ·  Part IX · Chapter III  ·  page 74 of the Act</p><div class=\"prov-body\"><p>Errors in names and descriptions, or in setting forth the time and place of the deceased’s death or the purpose in a limited grant, may be rectified by the Court and the grant of probate or letters of administration may be altered and amended accordingly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">261</span>What errors may be rectified by Court.</h3></div><p class=\"prov-cite\">Section 261  ·  Part IX · Chapter III  ·  page 74 of the Act</p><div class=\"prov-body\"><p>Errors in names and descriptions, or in setting forth the time and place of the deceased’s death or the purpose in a limited grant, may be rectified by the Court and the grant of probate or letters of administration may be altered and amended accordingly.</p></div>"
+  }
+}

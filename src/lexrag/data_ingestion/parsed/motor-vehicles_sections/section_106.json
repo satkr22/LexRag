@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-06.html",
+    "source_order": 6,
+    "article_order": 10,
+    "order": 114,
+    "stem": "section_106",
+    "heading_number": "Chapter VI",
+    "heading_title": "Special Provisions Relating to State Transport Undertakings",
+    "heading_range": "ss. 97–108",
+    "heading_source": "group-head",
+    "article_number": "106",
+    "article_title": "Disposal of article found in vehicles.",
+    "id": "motor-vehicles_section_106"
+  },
+  "id": "motor-vehicles_section_106",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Special Provisions Relating to State Transport Undertakings",
+    "range": "ss. 97–108"
+  },
+  "article": {
+    "number": "106",
+    "title": "Disposal of article found in vehicles.",
+    "content": "Where any article found in any transport vehicle operated by the State transport undertaking is not claimed by its owner within the prescribed period, the State transport undertaking may sell the article in the prescribed manner and the sale proceeds thereof, after deducting the costs incidental to sale, shall be paid to the owner on demand.\n",
+    "html": "<article class=\"provision\" data-n=\"106\" data-report=\"Section 106 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Disposal of article found in vehicles.</h3></div><p class=\"prov-cite\">Section 106  ·  Chapter VI  ·  page 72 of the Act</p><div class=\"prov-body\"><p>Where any article found in any transport vehicle operated by the State transport undertaking is not claimed by its owner within the prescribed period, the State transport undertaking may sell the article in the prescribed manner and the sale proceeds thereof, after deducting the costs incidental to sale, shall be paid to the owner on demand.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Disposal of article found in vehicles.</h3></div><p class=\"prov-cite\">Section 106  ·  Chapter VI  ·  page 72 of the Act</p><div class=\"prov-body\"><p>Where any article found in any transport vehicle operated by the State transport undertaking is not claimed by its owner within the prescribed period, the State transport undertaking may sell the article in the prescribed manner and the sale proceeds thereof, after deducting the costs incidental to sale, shall be paid to the owner on demand.</p></div>"
+  }
+}

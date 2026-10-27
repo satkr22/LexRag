@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-03.html",
+    "source_order": 3,
+    "article_order": 8,
+    "order": 21,
+    "stem": "section_21",
+    "heading_number": "Chapter III",
+    "heading_title": "General Exceptions",
+    "heading_range": "14 – 44",
+    "heading_source": "group-head",
+    "article_number": "21",
+    "article_title": "Act of a child above seven and under twelve years of age of immature understanding",
+    "id": "bns_section_21"
+  },
+  "id": "bns_section_21",
+  "heading": {
+    "number": "Chapter III",
+    "title": "General Exceptions",
+    "range": "14 – 44"
+  },
+  "article": {
+    "number": "21",
+    "title": "Act of a child above seven and under twelve years of age of immature understanding",
+    "content": "Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.\n",
+    "html": "<article class=\"provision\" data-n=\"21\" data-report=\"Section 21 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">21</span>Act of a child above seven and under twelve years of age of immature understanding</h3></div><p class=\"prov-cite\">Section 21 · Chapter III</p><div class=\"prov-body\"><p>Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">21</span>Act of a child above seven and under twelve years of age of immature understanding</h3></div><p class=\"prov-cite\">Section 21 · Chapter III</p><div class=\"prov-body\"><p>Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_153_chunk_0",
+    "section_id": "motor-vehicles_section_153",
+    "token_count": 304,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 153::Settlement between insurers and insured persons.\n]\n\n\n(1) No settlement made by an insurer in respect of any claim which might be made by a third party in respect of any liability of the nature referred to in clause (b) of sub-section (1) of section 147 shall be valid unless such third party is a party to the settlement.\n(2) The Claims Tribunal shall ensure that the settlement is bona fide and was not made under undue influence and the compensation is made in accordance with the payment schedule referred to in sub-section (1) of section 164.\n(3) Where a person who is insured under a policy issued for the purpose of this Chapter has become insolvent, or where, if such insured person is a company, a winding-up order has been made or a resolution for a voluntary winding-up has been passed with respect to the company, no agreement made between the insurer and the insured person after the liability has been incurred to a third party and after the commencement of the insolvency or winding-up, as the case may be, nor any waiver, assignment or other disposition made by or payment made to the insured person after the commencement aforesaid, shall be effective to defeat the rights transferred to the third party under this Chapter, but those rights shall be the same as if no such agreement, waiver, assignment or disposition or payment has been made.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_153_chunk_0",
+      "section_id": "motor-vehicles_section_153",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "153",
+      "section_title": "Settlement between insurers and insured persons."
+    }
+  }
+]

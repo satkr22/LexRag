@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-35.html",
+    "source_order": 35,
+    "article_order": 11,
+    "order": 488,
+    "stem": "section_488",
+    "heading_number": "Chapter XXXV",
+    "heading_title": "Provisions as to Bail and Bonds",
+    "heading_range": "478 – 496",
+    "heading_source": "group-head",
+    "article_number": "488",
+    "article_title": "Power to order sufficient bail when that first taken is insufficient",
+    "id": "bnss_section_488"
+  },
+  "id": "bnss_section_488",
+  "heading": {
+    "number": "Chapter XXXV",
+    "title": "Provisions as to Bail and Bonds",
+    "range": "478 – 496"
+  },
+  "article": {
+    "number": "488",
+    "title": "Power to order sufficient bail when that first taken is insufficient",
+    "content": "If, through mistake, fraud or otherwise, insufficient sureties have been accepted, or if they afterwards become insufficient, the Court may issue a warrant of arrest directing that the person released on bail be brought before it and may order him to find sufficient sureties, and, on his failing so to do, may commit him to jail.\n",
+    "html": "<article class=\"provision\" data-n=\"488\" data-report=\"Section 488 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">488</span>Power to order sufficient bail when that first taken is insufficient</h3></div><p class=\"prov-cite\">Section 488 · Chapter XXXV</p><div class=\"prov-body\"><p>If, through mistake, fraud or otherwise, insufficient sureties have been accepted, or if they afterwards become insufficient, the Court may issue a warrant of arrest directing that the person released on bail be brought before it and may order him to find sufficient sureties, and, on his failing so to do, may commit him to jail.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">488</span>Power to order sufficient bail when that first taken is insufficient</h3></div><p class=\"prov-cite\">Section 488 · Chapter XXXV</p><div class=\"prov-body\"><p>If, through mistake, fraud or otherwise, insufficient sureties have been accepted, or if they afterwards become insufficient, the Court may issue a warrant of arrest directing that the person released on bail be brought before it and may order him to find sufficient sureties, and, on his failing so to do, may commit him to jail.</p></div>"
+  }
+}

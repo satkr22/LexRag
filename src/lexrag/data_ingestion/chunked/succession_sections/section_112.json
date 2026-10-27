@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_112_chunk_0",
+    "section_id": "succession_section_112",
+    "token_count": 502,
+    "text": "[Act: succession\n Chapter: Of void Bequests\n Section: 112::Bequest to person by particular description, who is not in existence at testator’s death.\n]\n\n\nWhere a bequest is made to a person by a particular description, and there is no person in existence at the testator's death who answers the description, the bequest is void.\nException.—If property is bequeathed to a person described as standing in a particular degree of kindred to a specified individual, but his possession of it is deferred until a time later than the death of the testator, by reason of a prior bequest or otherwise; and if a person answering the description is a live at the death of the testator, or comes into existence between that event and such later time, the property shall, at such later time, go to that person, or, if he is dead, to his representatives.\nIllustrations\n(i) A bequeaths 1,000 rupees to the eldest son of B. At the death of the testator, B has no son. The bequest is void.\n(ii) A bequeaths 1,000 rupees to B for life, and after his death to the eldest son of C. At the death of the testator, C had no son. Afterwards, during the life of B, a son is born to C. Upon B’s death the legacy goes to C’s son.\n(iii) A bequeaths 1,000 rupees to B for life, and after his death to the eldest son of C. At the death of the testator, C had no son. Afterwards, during the life of B, a son, named D, is born to C. D dies, then B dies. The legacy goes to the representative of D.\n(iv) A bequeaths his estate of Green Acre to be for life, and at his decease, to the eldest son of C. Up to the death of B, C has had no son. The bequest to C’s eldest son is void.\n(v) A bequeaths 1,000 rupees to the eldest son of C, to be paid to him after the death of B. At the death of the testator C has no son, but a son is afterwards born to him during the life of B and is alive at B’s death. C’s son is entitled to the 1,000 rupees.",
+    "metadata": {
+      "chunk_id": "succession_section_112_chunk_0",
+      "section_id": "succession_section_112",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter VII",
+      "chapter_title": "Of void Bequests",
+      "section_number": "112",
+      "section_title": "Bequest to person by particular description, who is not in existence at testator’s death."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-58.html",
+    "source_order": 58,
+    "article_order": 11,
+    "order": 796,
+    "stem": "section_O39R9",
+    "heading_number": "Order XXXIX",
+    "heading_title": "Temporary Injunctions and Interlocutory Orders",
+    "heading_range": "12 rules",
+    "heading_source": "group-head",
+    "article_number": "O39R9",
+    "article_title": "When party may be put in immediate possession of land the subject-matter of suit.",
+    "id": "cpc_section_O39R9"
+  },
+  "id": "cpc_section_O39R9",
+  "heading": {
+    "number": "Order XXXIX",
+    "title": "Temporary Injunctions and Interlocutory Orders",
+    "range": "12 rules"
+  },
+  "article": {
+    "number": "O39R9",
+    "title": "When party may be put in immediate possession of land the subject-matter of suit.",
+    "content": "Where land paying revenue to Government, or a tenure liable to sale, is the subject-matter of a suit, if the party in possesion of such land or tenure neglects to pay the Government revenue, or the rent due to the proprietor of the tenure, as the case may be, and such land or tenure is consequently ordered to be sold, any other party to the suit claiming to have an interest in such land or tenure may, upon payment of the revenue or rent due previously to the sale (and with or without security at the discretion of the Court), be put in immediate possession of the land or tenure,\nand the Court in its decree may award against the defaulter the amount so paid, with interest thereon at such rate as the Court thinks fit, or may charge the amount so paid, with interest thereon at such rate as the Court orders, in any adjustment of accounts which may be directed in the decree passed in the suit.\n",
+    "html": "<article class=\"provision\" data-n=\"O39R9\" data-report=\"Order 39, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>When party may be put in immediate possession of land the subject-matter of suit.</h3></div><p class=\"prov-cite\">Order 39, Rule 9</p><div class=\"prov-body\"><p>Where land paying revenue to Government, or a tenure liable to sale, is the subject-matter of a suit, if the party in possesion of such land or tenure neglects to pay the Government revenue, or the rent due to the proprietor of the tenure, as the case may be, and such land or tenure is consequently ordered to be sold, any other party to the suit claiming to have an interest in such land or tenure may, upon payment of the revenue or rent due previously to the sale (and with or without security at the discretion of the Court), be put in immediate possession of the land or tenure,</p><p>and the Court in its decree may award against the defaulter the amount so paid, with interest thereon at such rate as the Court thinks fit, or may charge the amount so paid, with interest thereon at such rate as the Court orders, in any adjustment of accounts which may be directed in the decree passed in the suit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>When party may be put in immediate possession of land the subject-matter of suit.</h3></div><p class=\"prov-cite\">Order 39, Rule 9</p><div class=\"prov-body\"><p>Where land paying revenue to Government, or a tenure liable to sale, is the subject-matter of a suit, if the party in possesion of such land or tenure neglects to pay the Government revenue, or the rent due to the proprietor of the tenure, as the case may be, and such land or tenure is consequently ordered to be sold, any other party to the suit claiming to have an interest in such land or tenure may, upon payment of the revenue or rent due previously to the sale (and with or without security at the discretion of the Court), be put in immediate possession of the land or tenure,</p><p>and the Court in its decree may award against the defaulter the amount so paid, with interest thereon at such rate as the Court thinks fit, or may charge the amount so paid, with interest thereon at such rate as the Court orders, in any adjustment of accounts which may be directed in the decree passed in the suit.</p></div>"
+  }
+}

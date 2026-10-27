@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "llp",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "llp_sections/section-8.html",
+    "source_order": 11,
+    "article_order": 1,
+    "order": 11,
+    "stem": "section_8",
+    "heading_number": "Chapter II",
+    "heading_title": "Nature of Limited Liability Partnership",
+    "heading_range": "ss. 3–10",
+    "heading_source": "manifest",
+    "article_number": "8",
+    "article_title": "Liabilities of designated partners.",
+    "id": "llp_section_8"
+  },
+  "id": "llp_section_8",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Nature of Limited Liability Partnership",
+    "range": "ss. 3–10"
+  },
+  "article": {
+    "number": "8",
+    "title": "Liabilities of designated partners.",
+    "content": "Unless expressly provided otherwise in this Act, a designated partner shall be—\n(a) responsible for the doing of all acts, matters and things as are required to be done by the limited liability partnership in respect of compliance of the provisions of this Act including filing of any document, return, statement and the like report pursuant to the provisions of this Act and as may be specified in the limited liability partnership agreement; and\n(b) liable to all penalties imposed on the limited liability partnership for any contravention of those provisions.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Liabilities of designated partners.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  page 8 of the Act</p><div class=\"prov-body\"><p>Unless expressly provided otherwise in this Act, a designated partner shall be—</p><p class=\"lvl\">(a) responsible for the doing of all acts, matters and things as are required to be done by the limited liability partnership in respect of compliance of the provisions of this Act including filing of any document, return, statement and the like report pursuant to the provisions of this Act and as may be specified in the limited liability partnership agreement; and</p><p class=\"lvl\">(b) liable to all penalties imposed on the limited liability partnership for any contravention of those provisions.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Liabilities of designated partners.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  page 8 of the Act</p><div class=\"prov-body\"><p>Unless expressly provided otherwise in this Act, a designated partner shall be—</p><p class=\"lvl\">(a) responsible for the doing of all acts, matters and things as are required to be done by the limited liability partnership in respect of compliance of the provisions of this Act including filing of any document, return, statement and the like report pursuant to the provisions of this Act and as may be specified in the limited liability partnership agreement; and</p><p class=\"lvl\">(b) liable to all penalties imposed on the limited liability partnership for any contravention of those provisions.</p></div>"
+  }
+}

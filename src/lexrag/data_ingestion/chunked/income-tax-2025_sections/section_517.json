@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_517_chunk_0",
+    "section_id": "income-tax-2025_section_517",
+    "token_count": 39,
+    "text": "[Act: income-tax-2025\n Chapter: Miscellaneous\n Section: 517::Receipt to be given.\n]\n\n\nA receipt shall be given for any money paid or recovered under this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_517_chunk_0",
+      "section_id": "income-tax-2025_section_517",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "517",
+      "section_title": "Receipt to be given."
+    }
+  }
+]

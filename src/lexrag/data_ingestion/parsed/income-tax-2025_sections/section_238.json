@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-14.html",
+    "source_order": 15,
+    "article_order": 3,
+    "order": 238,
+    "stem": "section_238",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Tax Administration",
+    "heading_range": "ss. 236–261",
+    "heading_source": "group-head",
+    "article_number": "238",
+    "article_title": "Control of income-tax authorities.",
+    "id": "income-tax-2025_section_238"
+  },
+  "id": "income-tax-2025_section_238",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Tax Administration",
+    "range": "ss. 236–261"
+  },
+  "article": {
+    "number": "238",
+    "title": "Control of income-tax authorities.",
+    "content": "The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.\n",
+    "html": "<article class=\"provision\" data-n=\"238\" data-report=\"Section 238 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">238</span>Control of income-tax authorities.</h3></div><p class=\"prov-cite\">Section 238  ·  Chapter XIV  ·  A.—Authorities, jurisdiction and functions  ·  page 289 of the Act</p><div class=\"prov-body\"><p>The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">238</span>Control of income-tax authorities.</h3></div><p class=\"prov-cite\">Section 238  ·  Chapter XIV  ·  A.—Authorities, jurisdiction and functions  ·  page 289 of the Act</p><div class=\"prov-body\"><p>The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.</p></div>"
+  }
+}

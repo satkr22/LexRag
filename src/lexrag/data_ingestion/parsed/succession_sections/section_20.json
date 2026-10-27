@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-03.html",
+    "source_order": 3,
+    "article_order": 1,
+    "order": 20,
+    "stem": "section_20",
+    "heading_number": "Part III",
+    "heading_title": "Marriage",
+    "heading_range": "ss. 20–22",
+    "heading_source": "group-head",
+    "article_number": "20",
+    "article_title": "Interests and powers not acquired nor lost by marriage.",
+    "id": "succession_section_20"
+  },
+  "id": "succession_section_20",
+  "heading": {
+    "number": "Part III",
+    "title": "Marriage",
+    "range": "ss. 20–22"
+  },
+  "article": {
+    "number": "20",
+    "title": "Interests and powers not acquired nor lost by marriage.",
+    "content": "(1) No person shall, by marriage, acquire any interest in the property of the person whom he or she marries or become incapable of doing any act in respect of his or her own property which he or she could have done if unmarried.\n(2) This section—\n(a) shall not apply to any marriage contracted before, the first day of January, 1866;\n(b) shall not apply, and shall be deemed never to have applied, to any marriage, one or both of the parties to which professed at the time of the marriage the Hindu, Muhammadan, Buddhist, Sikh or Jaina religion.\n",
+    "html": "<article class=\"provision\" data-n=\"20\" data-report=\"Section 20 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Interests and powers not acquired nor lost by marriage.</h3></div><p class=\"prov-cite\">Section 20  ·  Part III  ·  page 20 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person shall, by marriage, acquire any interest in the property of the person whom he or she marries or become incapable of doing any act in respect of his or her own property which he or she could have done if unmarried.</p><p class=\"lvl\">(2) This section—</p><p class=\"lvl\">(a) shall not apply to any marriage contracted before, the first day of January, 1866;</p><p class=\"lvl\">(b) shall not apply, and shall be deemed never to have applied, to any marriage, one or both of the parties to which professed at the time of the marriage the Hindu, Muhammadan, Buddhist, Sikh or Jaina religion.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Interests and powers not acquired nor lost by marriage.</h3></div><p class=\"prov-cite\">Section 20  ·  Part III  ·  page 20 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person shall, by marriage, acquire any interest in the property of the person whom he or she marries or become incapable of doing any act in respect of his or her own property which he or she could have done if unmarried.</p><p class=\"lvl\">(2) This section—</p><p class=\"lvl\">(a) shall not apply to any marriage contracted before, the first day of January, 1866;</p><p class=\"lvl\">(b) shall not apply, and shall be deemed never to have applied, to any marriage, one or both of the parties to which professed at the time of the marriage the Hindu, Muhammadan, Buddhist, Sikh or Jaina religion.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_15_chunk_0",
+    "section_id": "technology_section_15",
+    "token_count": 178,
+    "text": "[Act: technology\n Chapter: Secure Electronic Records and Secure Electronic Signature1\n Section: 15::Secure electronic signature.\n]\n\n\n2[15. Secure electronic signature.– An electronic signature shall be deemed to be a secure electronic signature if–\n(i) the signature creation data, at the time of affixing signature, was under the exclusive control of signatory and no other person; and\n(ii) the signature creation data was stored and affixed in such exclusive manner as may be prescribed.\nExplanation.–In case of digital signature, the “signature creation data” means the private key of the subscriber.\nSubstituted by Act 10 of 2009, s. 11, for sections 15 and 16 (w.e.f. 27-10-2009).\nNote: the substitution bracket opened at section 15 closes at the end of section 16.",
+    "metadata": {
+      "chunk_id": "technology_section_15_chunk_0",
+      "section_id": "technology_section_15",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Secure Electronic Records and Secure Electronic Signature1",
+      "section_number": "15",
+      "section_title": "Secure electronic signature."
+    }
+  }
+]

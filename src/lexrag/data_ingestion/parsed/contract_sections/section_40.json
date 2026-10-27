@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-40.html",
+    "source_order": 41,
+    "article_order": 1,
+    "order": 41,
+    "stem": "section_40",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of the Performance of Contracts",
+    "heading_range": "ss. 37–67",
+    "heading_source": "manifest",
+    "article_number": "40",
+    "article_title": "Person by whom promise is to be performed.",
+    "id": "contract_section_40"
+  },
+  "id": "contract_section_40",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of the Performance of Contracts",
+    "range": "ss. 37–67"
+  },
+  "article": {
+    "number": "40",
+    "title": "Person by whom promise is to be performed.",
+    "content": "If it appears from the nature of the case that it was the intention of the parties to any contract that any promise contained in it should be performed by the promisor himself, such promise must be performed by the promisor. In other cases, the promisor or his representatives may employ a competent person to perform it.\nIllustrations\n(a)A promises to pay B a sum of money. A may perform this promise, either by personally paying the money to B or by causing it to be paid to B by another ; and, if A dies before the time appointed for payment, his representatives must perform the promise, or employ some proper person to do so.\n(b)A promises to paint a picture for B. A must perform this promise personally.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Person by whom promise is to be performed.</h3></div><p class=\"prov-cite\">Section 40  ·  Chapter IV  ·  By whom contracts must be performed  ·  page 22 of the Act</p><div class=\"prov-body\"><p>If it appears from the nature of the case that it was the intention of the parties to any contract that any promise contained in it should be performed by the promisor himself, such promise must be performed by the promisor. In other cases, the promisor or his representatives may employ a competent person to perform it.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A promises to pay B a sum of money. A may perform this promise, either by personally paying the money to B or by causing it to be paid to B by another ; and, if A dies before the time appointed for payment, his representatives must perform the promise, or employ some proper person to do so.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A promises to paint a picture for B. A must perform this promise personally.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">40</span>Person by whom promise is to be performed.</h3></div><p class=\"prov-cite\">Section 40  ·  Chapter IV  ·  By whom contracts must be performed  ·  page 22 of the Act</p><div class=\"prov-body\"><p>If it appears from the nature of the case that it was the intention of the parties to any contract that any promise contained in it should be performed by the promisor himself, such promise must be performed by the promisor. In other cases, the promisor or his representatives may employ a competent person to perform it.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A promises to pay B a sum of money. A may perform this promise, either by personally paying the money to B or by causing it to be paid to B by another ; and, if A dies before the time appointed for payment, his representatives must perform the promise, or employ some proper person to do so.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A promises to paint a picture for B. A must perform this promise personally.</p></div>"
+  }
+}

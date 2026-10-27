@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-126.html",
+    "source_order": 127,
+    "article_order": 1,
+    "order": 127,
+    "stem": "section_126",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Of Indemnity and Guarantee",
+    "heading_range": "ss. 124–147",
+    "heading_source": "manifest",
+    "article_number": "126",
+    "article_title": "“Contract of guarantee”, “surety”, “principal debtor” and “creditor”.",
+    "id": "contract_section_126"
+  },
+  "id": "contract_section_126",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Of Indemnity and Guarantee",
+    "range": "ss. 124–147"
+  },
+  "article": {
+    "number": "126",
+    "title": "“Contract of guarantee”, “surety”, “principal debtor” and “creditor”.",
+    "content": "A “contract of guarantee” is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the “surety”; the person in respect of whose default the guarantee is given is called the “principal debtor”, and the person to whom the guarantee is given is called the “creditor”. A guarantee may be either oral or written.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>“Contract of guarantee”, “surety”, “principal debtor” and “creditor”.</h3></div><p class=\"prov-cite\">Section 126  ·  Chapter VIII  ·  page 34 of the Act</p><div class=\"prov-body\"><p>A “contract of guarantee” is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the “surety”; the person in respect of whose default the guarantee is given is called the “principal debtor”, and the person to whom the guarantee is given is called the “creditor”. A guarantee may be either oral or written.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>“Contract of guarantee”, “surety”, “principal debtor” and “creditor”.</h3></div><p class=\"prov-cite\">Section 126  ·  Chapter VIII  ·  page 34 of the Act</p><div class=\"prov-body\"><p>A “contract of guarantee” is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the “surety”; the person in respect of whose default the guarantee is given is called the “principal debtor”, and the person to whom the guarantee is given is called the “creditor”. A guarantee may be either oral or written.</p></div>"
+  }
+}

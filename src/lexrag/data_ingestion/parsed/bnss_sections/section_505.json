@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-36.html",
+    "source_order": 36,
+    "article_order": 9,
+    "order": 505,
+    "stem": "section_505",
+    "heading_number": "Chapter XXXVI",
+    "heading_title": "Disposal of Property",
+    "heading_range": "497 – 505",
+    "heading_source": "group-head",
+    "article_number": "505",
+    "article_title": "Power to sell perishable property",
+    "id": "bnss_section_505"
+  },
+  "id": "bnss_section_505",
+  "heading": {
+    "number": "Chapter XXXVI",
+    "title": "Disposal of Property",
+    "range": "497 – 505"
+  },
+  "article": {
+    "number": "505",
+    "title": "Power to sell perishable property",
+    "content": "If the person entitled to the possession of such property is unknown or absent and the property is subject to speedy and natural decay, or if the Magistrate to whom its seizure is reported is of opinion that its sale would be for the benefit of the owner, or that the value of such property is less than ten thousand rupees, the Magistrate may at any time direct it to be sold; and the provisions of sections 503 and 504 shall, as nearly as may be practicable, apply to the net proceeds of such sale.\n",
+    "html": "<article class=\"provision\" data-n=\"505\" data-report=\"Section 505 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">505</span>Power to sell perishable property</h3></div><p class=\"prov-cite\">Section 505 · Chapter XXXVI</p><div class=\"prov-body\"><p>If the person entitled to the possession of such property is unknown or absent and the property is subject to speedy and natural decay, or if the Magistrate to whom its seizure is reported is of opinion that its sale would be for the benefit of the owner, or that the value of such property is less than ten thousand rupees, the Magistrate may at any time direct it to be sold; and the provisions of sections 503 and 504 shall, as nearly as may be practicable, apply to the net proceeds of such sale.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">505</span>Power to sell perishable property</h3></div><p class=\"prov-cite\">Section 505 · Chapter XXXVI</p><div class=\"prov-body\"><p>If the person entitled to the possession of such property is unknown or absent and the property is subject to speedy and natural decay, or if the Magistrate to whom its seizure is reported is of opinion that its sale would be for the benefit of the owner, or that the value of such property is less than ten thousand rupees, the Magistrate may at any time direct it to be sold; and the provisions of sections 503 and 504 shall, as nearly as may be practicable, apply to the net proceeds of such sale.</p></div>"
+  }
+}

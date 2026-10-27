@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "easements",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-42.html",
+    "source_order": 42,
+    "article_order": 1,
+    "order": 42,
+    "stem": "section_42",
+    "heading_number": "Chapter V",
+    "heading_title": "The Extinction, Suspension and Revival of Easements",
+    "heading_range": "ss. 37–51",
+    "heading_source": "manifest",
+    "article_number": "42",
+    "article_title": "Extinction of useless easement.",
+    "id": "easements_section_42"
+  },
+  "id": "easements_section_42",
+  "heading": {
+    "number": "Chapter V",
+    "title": "The Extinction, Suspension and Revival of Easements",
+    "range": "ss. 37–51"
+  },
+  "article": {
+    "number": "42",
+    "title": "Extinction of useless easement.",
+    "content": "An easement is extinguished when it becomes incapable of being at any time under any circumstances beneficial to the dominant owner.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Extinction of useless easement.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter V  ·  page 16 of the Act</p><div class=\"prov-body\"><p>An easement is extinguished when it becomes incapable of being at any time under any circumstances beneficial to the dominant owner.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Extinction of useless easement.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter V  ·  page 16 of the Act</p><div class=\"prov-body\"><p>An easement is extinguished when it becomes incapable of being at any time under any circumstances beneficial to the dominant owner.</p></div>"
+  }
+}

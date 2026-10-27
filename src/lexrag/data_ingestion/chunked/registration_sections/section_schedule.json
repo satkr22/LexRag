@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "registration_section_schedule_chunk_0",
+    "section_id": "registration_section_schedule",
+    "token_count": 21,
+    "text": "[Act: registration\n Chapter: Schedules · The Schedule\n Section: schedule::The Schedule\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "registration_section_schedule_chunk_0",
+      "section_id": "registration_section_schedule",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "registration",
+      "document_title": null,
+      "chapter_number": null,
+      "chapter_title": "Schedules · The Schedule",
+      "section_number": "schedule",
+      "section_title": "The Schedule"
+    }
+  }
+]

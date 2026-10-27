@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_130A_chunk_0",
+    "section_id": "income-tax-1961_section_130A",
+    "token_count": 33,
+    "text": "[Act: income-tax-1961\n Chapter: Income-tax Authorities\n Section: 130A::Income-tax Officer competent to perform any function or functions.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_130A_chunk_0",
+      "section_id": "income-tax-1961_section_130A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Income-tax Authorities",
+      "section_number": "130A",
+      "section_title": "Income-tax Officer competent to perform any function or functions."
+    }
+  }
+]

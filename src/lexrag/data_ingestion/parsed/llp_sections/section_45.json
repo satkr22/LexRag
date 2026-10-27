@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "llp",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "llp_sections/section-45.html",
+    "source_order": 49,
+    "article_order": 1,
+    "order": 49,
+    "stem": "section_45",
+    "heading_number": "Chapter IX",
+    "heading_title": "Investigation",
+    "heading_range": "ss. 43–54",
+    "heading_source": "manifest",
+    "article_number": "45",
+    "article_title": "Firm, body corporate or association not to be appointed as inspector.",
+    "id": "llp_section_45"
+  },
+  "id": "llp_section_45",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Investigation",
+    "range": "ss. 43–54"
+  },
+  "article": {
+    "number": "45",
+    "title": "Firm, body corporate or association not to be appointed as inspector.",
+    "content": "No firm, body corporate or other association shall be appointed as an inspector.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>Firm, body corporate or association not to be appointed as inspector.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter IX  ·  page 19 of the Act</p><div class=\"prov-body\"><p>No firm, body corporate or other association shall be appointed as an inspector.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>Firm, body corporate or association not to be appointed as inspector.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter IX  ·  page 19 of the Act</p><div class=\"prov-body\"><p>No firm, body corporate or other association shall be appointed as an inspector.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-75.html",
+    "source_order": 75,
+    "article_order": 1,
+    "order": 75,
+    "stem": "section_75",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "75",
+    "article_title": "Certified copies of public documents",
+    "id": "bsa_section_75"
+  },
+  "id": "bsa_section_75",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "75",
+    "title": "Certified copies of public documents",
+    "content": "Every public officer having the custody of a public document, which any person has a right to inspect, shall give that person on demand a copy of it on payment of the legal fees therefor, together with a certificate written at the foot of such copy that it is a true copy of such document or part thereof, as the case may be, and such certificate shall be dated and subscribed by such officer with his name and his official title, and shall be sealed, whenever such officer is authorised by law to make use of a seal; and such copies so certified shall be called certified copies.\nExplanationAny officer who, by the ordinary course of official duty, is authorised to deliver such copies, shall be deemed to have the custody of such documents within the meaning of this section.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Certified copies of public documents</h3></div><p class=\"prov-cite\">Section 75 · Part III · Chapter V · Public documents</p><div class=\"prov-body\"><p>Every public officer having the custody of a public document, which any person has a right to inspect, shall give that person on demand a copy of it on payment of the legal fees therefor, together with a certificate written at the foot of such copy that it is a true copy of such document or part thereof, as the case may be, and such certificate shall be dated and subscribed by such officer with his name and his official title, and shall be sealed, whenever such officer is authorised by law to make use of a seal; and such copies so certified shall be called certified copies.</p><p><span class=\"named\">Explanation</span>Any officer who, by the ordinary course of official duty, is authorised to deliver such copies, shall be deemed to have the custody of such documents within the meaning of this section.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Certified copies of public documents</h3></div><p class=\"prov-cite\">Section 75 · Part III · Chapter V · Public documents</p><div class=\"prov-body\"><p>Every public officer having the custody of a public document, which any person has a right to inspect, shall give that person on demand a copy of it on payment of the legal fees therefor, together with a certificate written at the foot of such copy that it is a true copy of such document or part thereof, as the case may be, and such certificate shall be dated and subscribed by such officer with his name and his official title, and shall be sealed, whenever such officer is authorised by law to make use of a seal; and such copies so certified shall be called certified copies.</p><p><span class=\"named\">Explanation</span>Any officer who, by the ordinary course of official duty, is authorised to deliver such copies, shall be deemed to have the custody of such documents within the meaning of this section.</p></div>"
+  }
+}

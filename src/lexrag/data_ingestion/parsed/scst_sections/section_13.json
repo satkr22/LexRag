@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "scst",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "scst_sections/section-13.html",
+    "source_order": 13,
+    "article_order": 1,
+    "order": 13,
+    "stem": "section_13",
+    "heading_number": "Chapter III",
+    "heading_title": "Externment",
+    "heading_range": "ss. 10–13",
+    "heading_source": "manifest",
+    "article_number": "13",
+    "article_title": "Penalty for non-compliance of order under section 10.",
+    "id": "scst_section_13"
+  },
+  "id": "scst_section_13",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Externment",
+    "range": "ss. 10–13"
+  },
+  "article": {
+    "number": "13",
+    "title": "Penalty for non-compliance of order under section 10.",
+    "content": "Any person contravening an order of the Special Court made under section 10 shall be punishable with imprisonment for a term which may extend to one year and with fine.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Penalty for non-compliance of order under section 10.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>Any person contravening an order of the Special Court made under section 10 shall be punishable with imprisonment for a term which may extend to one year and with fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Penalty for non-compliance of order under section 10.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>Any person contravening an order of the Special Court made under section 10 shall be punishable with imprisonment for a term which may extend to one year and with fine.</p></div>"
+  }
+}

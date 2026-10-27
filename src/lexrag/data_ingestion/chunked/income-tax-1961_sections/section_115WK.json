@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115WK_chunk_0",
+    "section_id": "income-tax-1961_section_115WK",
+    "token_count": 346,
+    "text": "[Act: income-tax-1961\n Chapter: Income-tax on Fringe Benefits\n Section: 115WK::Interest for default in furnishing return of fringe benefits.\n]\n\n\n(1) Where the return of fringe benefits for any assessment year under sub-section (1) or sub-section (3) of section 115WD or in response to a notice under sub-section (2) of that section, is furnished after the due date, or is not furnished, the employer shall be liable to pay simple interest at the rate of one per cent for every month or part of a month comprised in the period commencing on the date immediately following the due date, and,—\n(a) where the return is furnished after the due date, ending on the date of furnishing of the return; or\n(b) where no return has been furnished, ending on the date of completion of the assessment under section 115WF, on the amount of the tax on the value of fringe benefits as determined under sub-section (1) of section 115WE or regular assessment as reduced by the advance tax paid under section 115WJ.\nExplanation 1.—In this section, \"due date\" means the date specified in the Explanation to sub-section (1) of section 115WD as applicable in the case of the employer.\nExplanation 2.—Where, in relation to an assessment year, an assessment is made for the first time under section 115WG, the assessment so made shall be regarded as a regular assessment for the purposes of this section.\n(2) The provisions contained in sub-sections (2) to (4) of section 234A shall, so far as may be, apply to this section.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115WK_chunk_0",
+      "section_id": "income-tax-1961_section_115WK",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-H",
+      "chapter_title": "Income-tax on Fringe Benefits",
+      "section_number": "115WK",
+      "section_title": "Interest for default in furnishing return of fringe benefits."
+    }
+  }
+]

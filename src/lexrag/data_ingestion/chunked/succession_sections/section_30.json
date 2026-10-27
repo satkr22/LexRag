@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_30_chunk_0",
+    "section_id": "succession_section_30",
+    "token_count": 235,
+    "text": "[Act: succession\n Chapter: Preliminary\n Section: 30::As to what property deceased considered to have died intestate.\n]\n\n\nA person is deemed to die intestate in respect of all property of which he has not made a testamentary disposition which is capable of taking effect.\nIllustrations\n(i) A has left no will. He has died intestate in respect of the whole of his property.\n(ii) A has left a will, whereby he has appointed B his executor; but the will contains no other provision. A has died intestate in respect of the distribution of his property.\n(iii) A has bequeathed his whole property for an illegal purpose. A has died intestate in respect of the distribution of his property.\n(iv) A has bequeathed 1,000 rupees to B and 1,000 rupees to the eldest son of C, and has made no other bequest; and has died leaving the sum of 2,000 rupees and no other property. C died before A without having ever had a son. A has died intestate in respect of the distribution of 1,000 rupees.",
+    "metadata": {
+      "chunk_id": "succession_section_30_chunk_0",
+      "section_id": "succession_section_30",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part V · Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "30",
+      "section_title": "As to what property deceased considered to have died intestate."
+    }
+  }
+]

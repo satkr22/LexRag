@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-06.html",
+    "source_order": 6,
+    "article_order": 16,
+    "order": 78,
+    "stem": "section_78",
+    "heading_number": "Chapter VI",
+    "heading_title": "Processes to Compel Appearance",
+    "heading_range": "63 – 93",
+    "heading_source": "group-head",
+    "article_number": "78",
+    "article_title": "Person arrested to be brought before Court without delay",
+    "id": "bnss_section_78"
+  },
+  "id": "bnss_section_78",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Processes to Compel Appearance",
+    "range": "63 – 93"
+  },
+  "article": {
+    "number": "78",
+    "title": "Person arrested to be brought before Court without delay",
+    "content": "The police officer or other person executing a warrant of arrest shall (subject to the provisions of section 73 as to security) without unnecessary delay bring the person arrested before the Court before which he is required by law to produce such person:\nProvisoProvided that such delay shall not, in any case, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.\n",
+    "html": "<article class=\"provision\" data-n=\"78\" data-report=\"Section 78 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">78</span>Person arrested to be brought before Court without delay</h3></div><p class=\"prov-cite\">Section 78 · Chapter VI · Warrant of arrest</p><div class=\"prov-body\"><p>The police officer or other person executing a warrant of arrest shall (subject to the provisions of section 73 as to security) without unnecessary delay bring the person arrested before the Court before which he is required by law to produce such person:</p><p><span class=\"named\">Proviso</span>Provided that such delay shall not, in any case, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">78</span>Person arrested to be brought before Court without delay</h3></div><p class=\"prov-cite\">Section 78 · Chapter VI · Warrant of arrest</p><div class=\"prov-body\"><p>The police officer or other person executing a warrant of arrest shall (subject to the provisions of section 73 as to security) without unnecessary delay bring the person arrested before the Court before which he is required by law to produce such person:</p><p><span class=\"named\">Proviso</span>Provided that such delay shall not, in any case, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.</p></div>"
+  }
+}

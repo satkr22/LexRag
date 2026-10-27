@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-06.html",
+    "source_order": 6,
+    "article_order": 5,
+    "order": 99,
+    "stem": "section_93",
+    "heading_number": "Part V",
+    "heading_title": "Special Proceedings",
+    "heading_range": "ss. 89–93",
+    "heading_source": "group-head",
+    "article_number": "93",
+    "article_title": "Exercise of powers of Advocate-General outside presidency-towns.",
+    "id": "cpc_section_93"
+  },
+  "id": "cpc_section_93",
+  "heading": {
+    "number": "Part V",
+    "title": "Special Proceedings",
+    "range": "ss. 89–93"
+  },
+  "article": {
+    "number": "93",
+    "title": "Exercise of powers of Advocate-General outside presidency-towns.",
+    "content": "1[Public nuisances and other wrongful acts affecting the public]\nThe powers conferred by sections 91 and 92 on the Advocate-General may, outside the presidency-towns, be, with the previous sanction of the State Government, exercised also by the Collector or by such officer as the State Government may appoint in this behalf.\n",
+    "html": "<article class=\"provision\" data-n=\"93\" data-report=\"Section 93 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">93</span>Exercise of powers of Advocate-General outside presidency-towns.</h3></div><p class=\"prov-cite\">Section 93</p><div class=\"prov-body\"><p class=\"sched-title\"><sup>1</sup>[Public nuisances and other wrongful acts affecting the public]</p><p>The powers conferred by sections 91 and 92 on the Advocate-General may, outside the presidency-towns, be, with the previous sanction of the State Government, exercised also by the Collector or by such officer as the State Government may appoint in this behalf.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">93</span>Exercise of powers of Advocate-General outside presidency-towns.</h3></div><p class=\"prov-cite\">Section 93</p><div class=\"prov-body\"><p class=\"sched-title\"><sup>1</sup>[Public nuisances and other wrongful acts affecting the public]</p><p>The powers conferred by sections 91 and 92 on the Advocate-General may, outside the presidency-towns, be, with the previous sanction of the State Government, exercised also by the Collector or by such officer as the State Government may appoint in this behalf.</p></div>"
+  }
+}

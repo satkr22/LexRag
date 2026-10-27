@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_301_chunk_0",
+    "section_id": "constitution_section_301",
+    "token_count": 57,
+    "text": "[Act: constitution\n Chapter: Trade, Commerce and Intercourse within the Territory of India\n Section: 301::Freedom of trade, commerce and intercourse\n]\n\n\nSubject to the other provisions of this Part, trade, commerce and intercourse throughout the territory of India shall be free.",
+    "metadata": {
+      "chunk_id": "constitution_section_301_chunk_0",
+      "section_id": "constitution_section_301",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part XIII",
+      "chapter_title": "Trade, Commerce and Intercourse within the Territory of India",
+      "section_number": "301",
+      "section_title": "Freedom of trade, commerce and intercourse"
+    }
+  }
+]

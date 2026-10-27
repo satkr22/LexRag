@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-31.html",
+    "source_order": 31,
+    "article_order": 17,
+    "order": 429,
+    "stem": "section_429",
+    "heading_number": "Chapter XXXI",
+    "heading_title": "Appeals",
+    "heading_range": "413 – 435",
+    "heading_source": "group-head",
+    "article_number": "429",
+    "article_title": "Order of High Court on appeal to be certified to lower Court",
+    "id": "bnss_section_429"
+  },
+  "id": "bnss_section_429",
+  "heading": {
+    "number": "Chapter XXXI",
+    "title": "Appeals",
+    "range": "413 – 435"
+  },
+  "article": {
+    "number": "429",
+    "title": "Order of High Court on appeal to be certified to lower Court",
+    "content": "(1)Whenever a case is decided on appeal by the High Court under this Chapter, it shall certify its judgment or order to the Court by which the finding, sentence or order appealed against was recorded or passed and if such Court is that of a Judicial Magistrate other than the Chief Judicial Magistrate, the High Court's judgment or order shall be sent through the Chief Judicial Magistrate, and if such Court is that of an Executive Magistrate, the High Court's judgment or order shall be sent through the District Magistrate.\n(2)The Court to which the High Court certifies its judgment or order shall thereupon make such orders as are conformable to the judgment or order of the High Court; and if necessary, the record shall be amended in accordance therewith.\n",
+    "html": "<article class=\"provision\" data-n=\"429\" data-report=\"Section 429 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">429</span>Order of High Court on appeal to be certified to lower Court</h3></div><p class=\"prov-cite\">Section 429 · Chapter XXXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whenever a case is decided on appeal by the High Court under this Chapter, it shall certify its judgment or order to the Court by which the finding, sentence or order appealed against was recorded or passed and if such Court is that of a Judicial Magistrate other than the Chief Judicial Magistrate, the High Court's judgment or order shall be sent through the Chief Judicial Magistrate, and if such Court is that of an Executive Magistrate, the High Court's judgment or order shall be sent through the District Magistrate.</p><p><span class=\"lbl\">(2)</span>The Court to which the High Court certifies its judgment or order shall thereupon make such orders as are conformable to the judgment or order of the High Court; and if necessary, the record shall be amended in accordance therewith.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">429</span>Order of High Court on appeal to be certified to lower Court</h3></div><p class=\"prov-cite\">Section 429 · Chapter XXXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whenever a case is decided on appeal by the High Court under this Chapter, it shall certify its judgment or order to the Court by which the finding, sentence or order appealed against was recorded or passed and if such Court is that of a Judicial Magistrate other than the Chief Judicial Magistrate, the High Court's judgment or order shall be sent through the Chief Judicial Magistrate, and if such Court is that of an Executive Magistrate, the High Court's judgment or order shall be sent through the District Magistrate.</p><p><span class=\"lbl\">(2)</span>The Court to which the High Court certifies its judgment or order shall thereupon make such orders as are conformable to the judgment or order of the High Court; and if necessary, the record shall be amended in accordance therewith.</p></div>"
+  }
+}

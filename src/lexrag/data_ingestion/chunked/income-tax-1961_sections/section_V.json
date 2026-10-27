@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_V_chunk_0",
+    "section_id": "income-tax-1961_section_V",
+    "token_count": 512,
+    "text": "[Act: income-tax-1961\n Chapter: The Schedules\n Section: V::THE FIFTH SCHEDULE\n]\n\n\n(1) Iron and steel (metal), ferro-alloys and special steels.\n  (2) Aluminium, copper, lead and zinc (metals).\n  (3) Coal, lignite, iron ore, bauxite, manganese ore, dolomite, limestone, magnesite and mineral oil.\n  (4) Industrial machinery specified under the heading \"8. Industrial machinery\", sub-heading \"A. Major items of specialised equipment used in specific industries\", of the First Schedule to the Industries (Development and Regulation) Act, 1951 (65 of 1951).\n  (5) Boilers and steam generating plants, steam engines and turbines and internal combustion engines.\n  (6) Flame and drip proof motors.\n  (7) Equipment for the generation and transmission of electricity including transformers, cables and transmission towers.\n  (8) Machine tools and precision tools (including their attachments and accessories, cutting tools and small tools), dies and jigs.\n  (9) Tractors, earth-moving machinery and agricultural implements.\n  (10) Motor trucks and buses.\n  (11) Steel castings and forgings and malleable iron and steel castings.\n  (12) Cement and refractories.\n  (13) Fertilisers, namely, ammonium sulphate, ammonium sulphate nitrate (double salt), ammonium nitrate, calcium ammonium nitrate (nitrolime stone), ammonium chloride, superphosphate, urea and complex fertilisers of synthetic origin containing both nitrogen and phosphorus, such as ammonium phosphates, ammonium sulphate phosphate and ammo-nium nitro phosphate.\n  (14) Soda ash.\n  (15) Pesticides.\n  (16) Paper and pulp including newsprint.\n  (17) Electronic equipment, namely, radar equipment, computers, electronic accounting and business machines, electronic communication equipment, electronic control instruments and basic components, such as valves, transistors, resistors, condensers, coils, magnetic materials and microwave components.\n  (18) Petrochemicals including corresponding products manufactured from other basic raw materials like calcium carbide, ethyl alcohol or hydrocarbons from other sources.\n  (19) Ships.\n  (20) Automobile ancillaries.\n  (21) Seamless tubes.\n  (22) Gears.\n  (23) Ball, roller and tapered bearings.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_V_chunk_0",
+      "section_id": "income-tax-1961_section_V",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "V",
+      "section_title": "THE FIFTH SCHEDULE"
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_V_chunk_1",
+    "section_id": "income-tax-1961_section_V",
+    "token_count": 282,
+    "text": "[Act: income-tax-1961\n Chapter: The Schedules\n Section: V::THE FIFTH SCHEDULE\n]\n\n\n(1) Iron and steel (metal), ferro-alloys and special steels.\n  (24) Component parts of the articles mentioned in item Nos. (4), (5), (7) and (9), that is to say, such parts as are essential for the working of the machinery referred to in the items aforesaid and have been given for that purpose some special shape or quality which would not be essential for their use for any other purpose and are in complete finished form and ready for fitment.\n  (25) Cotton seed oil.\n  (26) Tea.\n  (27) Printing machinery.\n  (28) Processed seeds.\n  (29) Processed concentrates for cattle and poultry feed.\n  (30) Processed (including frozen) fish and fish products.\n  (31) Vegetable oils and oil-cakes manufactured by the solvent extraction process from seeds other than cotton seed.\n  (32) Textiles (including those dyed, printed or otherwise processed) made wholly or mainly of cotton, including cotton yarn, hosiery and rope.\n  (33) Textiles (including those dyed, printed or otherwise processed) made wholly or mainly of jute, including jute twine and jute rope.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_V_chunk_1",
+      "section_id": "income-tax-1961_section_V",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "V",
+      "section_title": "THE FIFTH SCHEDULE"
+    }
+  }
+]

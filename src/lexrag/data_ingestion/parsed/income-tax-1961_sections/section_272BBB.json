@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-48.html",
+    "source_order": 53,
+    "article_order": 39,
+    "order": 831,
+    "stem": "section_272BBB",
+    "heading_number": "Chapter XXI",
+    "heading_title": "Penalties Imposable",
+    "heading_range": "ss. 270–275",
+    "heading_source": "group-head",
+    "article_number": "272BBB",
+    "article_title": "Penalty for failure to comply with the provisions of section 206CA.",
+    "id": "income-tax-1961_section_272BBB"
+  },
+  "id": "income-tax-1961_section_272BBB",
+  "heading": {
+    "number": "Chapter XXI",
+    "title": "Penalties Imposable",
+    "range": "ss. 270–275"
+  },
+  "article": {
+    "number": "272BBB",
+    "title": "Penalty for failure to comply with the provisions of section 206CA.",
+    "content": "(1) If a person fails to comply before the 1st day of October, 2004 with the provisions of section 206CA, he shall, on an order passed by the Assessing Officer, pay, by way of penalty, a sum of ten thousand rupees.\n(2) No order under sub-section (1) shall be passed unless the person on whom the penalty is proposed to be imposed, is given an opportunity of being heard in the matter.\n",
+    "html": "<article class=\"provision\" data-n=\"272BBB\" data-report=\"Section 272BBB · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">272BBB</span>Penalty for failure to comply with the provisions of section 206CA.</h3></div><p class=\"prov-cite\">Section 272BBB  ·  Chapter XXI  ·  page 996 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If a person fails to comply before the 1st day of October, 2004 with the provisions of section 206CA, he shall, on an order passed by the Assessing Officer, pay, by way of penalty, a sum of ten thousand rupees.</p><p class=\"lvl\">(2) No order under sub-section (1) shall be passed unless the person on whom the penalty is proposed to be imposed, is given an opportunity of being heard in the matter.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">272BBB</span>Penalty for failure to comply with the provisions of section 206CA.</h3></div><p class=\"prov-cite\">Section 272BBB  ·  Chapter XXI  ·  page 996 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If a person fails to comply before the 1st day of October, 2004 with the provisions of section 206CA, he shall, on an order passed by the Assessing Officer, pay, by way of penalty, a sum of ten thousand rupees.</p><p class=\"lvl\">(2) No order under sub-section (1) shall be passed unless the person on whom the penalty is proposed to be imposed, is given an opportunity of being heard in the matter.</p></div>"
+  }
+}

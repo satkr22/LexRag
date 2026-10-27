@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_162_chunk_0",
+    "section_id": "motor-vehicles_section_162",
+    "token_count": 162,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 162::Scheme for golden hour.\n]\n\n\n(1) Notwithstanding anything contained in the General Insurance Companies (Nationalisation) Act, 1972 (57 of 1972) or any other law for the time being in force or any instrument having the force of law, the insurance companies for the time being carrying on general insurance business in India shall provide in accordance with the provisions of this Act and the schemes made under this Act for treatment of road accident victims, including during the golden hour.\n(2) The Central Government shall make a scheme for the cashless treatment of victims of the accident during the golden hour and such scheme may contain provisions for creation of a fund for such treatment.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_162_chunk_0",
+      "section_id": "motor-vehicles_section_162",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "162",
+      "section_title": "Scheme for golden hour."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_101_chunk_0",
+    "section_id": "income-tax-2025_section_101",
+    "token_count": 55,
+    "text": "[Act: income-tax-2025\n Chapter: Aggregation of Income\n Section: 101::Total income.\n]\n\n\nIn computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_101_chunk_0",
+      "section_id": "income-tax-2025_section_101",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income",
+      "section_number": "101",
+      "section_title": "Total income."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-15.html",
+    "source_order": 19,
+    "article_order": 32,
+    "order": 340,
+    "stem": "section_115BBJ",
+    "heading_number": "Chapter XII",
+    "heading_title": "Determination of Tax in Certain Special Cases",
+    "heading_range": "ss. 110–115BBJ",
+    "heading_source": "group-head",
+    "article_number": "115BBJ",
+    "article_title": "Tax on winnings from online games.",
+    "id": "income-tax-1961_section_115BBJ"
+  },
+  "id": "income-tax-1961_section_115BBJ",
+  "heading": {
+    "number": "Chapter XII",
+    "title": "Determination of Tax in Certain Special Cases",
+    "range": "ss. 110–115BBJ"
+  },
+  "article": {
+    "number": "115BBJ",
+    "title": "Tax on winnings from online games.",
+    "content": "Notwithstanding anything contained in any other provisions of this Act, where the total income of an assessee includes any income by way of winnings from any online game, the income-tax payable shall be the aggregate of—\n(i) the amount of income-tax calculated on net winnings from such online games during the previous year, computed in the manner as may be prescribed, at the rate of thirty per cent; and\n(ii) the amount of income-tax with which the assessee would have been chargeable had his total income been reduced by the net winnings referred to in clause (i).\nExplanation.—For the purposes of this section,—\n(i) \"computer resource\" shall have the same meaning as assigned to it in clause (e) of the Explanation to section 144B;\n(ii) \"internet\" means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information based on a protocol for controlling such transmission;\n(iii) \"online game\" means a game that is offered on the internet and is accessible by a user through a computer resource including any telecommunication device.\n",
+    "html": "<article class=\"provision\" data-n=\"115BBJ\" data-report=\"Section 115BBJ · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115BBJ</span>Tax on winnings from online games.</h3></div><p class=\"prov-cite\">Section 115BBJ  ·  Chapter XII  ·  page 462 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in any other provisions of this Act, where the total income of an assessee includes any income by way of winnings from any online game, the income-tax payable shall be the aggregate of—</p><p class=\"lvl\">(i) the amount of income-tax calculated on net winnings from such online games during the previous year, computed in the manner as may be prescribed, at the rate of thirty per cent; and</p><p class=\"lvl\">(ii) the amount of income-tax with which the assessee would have been chargeable had his total income been reduced by the net winnings referred to in clause (i).</p><p class=\"prvso\">Explanation.—For the purposes of this section,—</p><p class=\"lvl\">(i) \"computer resource\" shall have the same meaning as assigned to it in clause (e) of the Explanation to section 144B;</p><p class=\"lvl\">(ii) \"internet\" means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information based on a protocol for controlling such transmission;</p><p class=\"lvl\">(iii) \"online game\" means a game that is offered on the internet and is accessible by a user through a computer resource including any telecommunication device.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115BBJ</span>Tax on winnings from online games.</h3></div><p class=\"prov-cite\">Section 115BBJ  ·  Chapter XII  ·  page 462 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in any other provisions of this Act, where the total income of an assessee includes any income by way of winnings from any online game, the income-tax payable shall be the aggregate of—</p><p class=\"lvl\">(i) the amount of income-tax calculated on net winnings from such online games during the previous year, computed in the manner as may be prescribed, at the rate of thirty per cent; and</p><p class=\"lvl\">(ii) the amount of income-tax with which the assessee would have been chargeable had his total income been reduced by the net winnings referred to in clause (i).</p><p class=\"prvso\">Explanation.—For the purposes of this section,—</p><p class=\"lvl\">(i) \"computer resource\" shall have the same meaning as assigned to it in clause (e) of the Explanation to section 144B;</p><p class=\"lvl\">(ii) \"internet\" means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information based on a protocol for controlling such transmission;</p><p class=\"lvl\">(iii) \"online game\" means a game that is offered on the internet and is accessible by a user through a computer resource including any telecommunication device.</p></div>"
+  }
+}

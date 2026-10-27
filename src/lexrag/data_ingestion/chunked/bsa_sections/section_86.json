@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_86_chunk_0",
+    "section_id": "bsa_section_86",
+    "token_count": 157,
+    "text": "[Act: bsa\n Chapter: Of Documentary Evidence\n Section: 86::Presumption as to electronic records and electronic signatures\n]\n\n\n(1)In any proceeding involving a secure electronic record, the Court shall presume unless contrary is proved, that the secure electronic record has not been altered since the specific point of time to which the secure status relates.\n(2)In any proceeding, involving secure electronic signature, the Court shall presume unless the contrary is proved that—\n(a)the secure electronic signature is affixed by subscriber with the intention of signing or approving the electronic record;\n(b)except in the case of a secure electronic record or a secure electronic signature, nothing in this section shall create any presumption, relating to authenticity and integrity of the electronic record or any electronic signature.",
+    "metadata": {
+      "chunk_id": "bsa_section_86_chunk_0",
+      "section_id": "bsa_section_86",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Documentary Evidence",
+      "section_number": "86",
+      "section_title": "Presumption as to electronic records and electronic signatures"
+    }
+  }
+]

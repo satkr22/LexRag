@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_522_chunk_0",
+    "section_id": "income-tax-2025_section_522",
+    "token_count": 312,
+    "text": "[Act: income-tax-2025\n Chapter: Miscellaneous\n Section: 522::Circumstances in which return of income, assessment, approvals, etc., not to be invalid.\n]\n\n\n(1) No return of income, assessment, notice, summons or other proceedings relating thereto, furnished or made or issued or taken, or purported to have been furnished or made or issued or taken, in pursuance of any of the provisions of this Act, shall be invalid or shall be deemed to be invalid merely by reason of any mistake, defect or omission in such return of income, assessment, notice, summons or other proceeding, if such return of income, assessment, notice, summons or other proceeding is in substance and effect in conformity with or according to the intent and purposes of this Act.\n(2) No assessment under any of the provisions of this Act shall be invalid on the ground of any mistake, defect or omission in respect of quoting of a computer generated Document Identification Number, if the assessment order is referenced by such number in any manner.\n(3) Irrespective of anything contained in this Act, any approval given by an income-tax authority in relation to any assessment, reassessment or recomputation proceedings shall be deemed to be administrative and supervisory in nature and, shall not be invalid by reason of any insufficiency of the reasons recorded or by reason of any defect in the form or manner of its authentication or communication including whether digital signature have been appended to such\napproval or not, where such approval has been granted electronically.]",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_522_chunk_0",
+      "section_id": "income-tax-2025_section_522",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "522",
+      "section_title": "Circumstances in which return of income, assessment, approvals, etc., not to be invalid."
+    }
+  }
+]

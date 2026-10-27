@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-50.html",
+    "source_order": 50,
+    "article_order": 14,
+    "order": 703,
+    "stem": "section_O32R12",
+    "heading_number": "Order XXXII",
+    "heading_title": "Suits by or against minors and persons of unsound mind",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O32R12",
+    "article_title": "Course to be followed by minor plaintiff or applicant on attaining majority.",
+    "id": "cpc_section_O32R12"
+  },
+  "id": "cpc_section_O32R12",
+  "heading": {
+    "number": "Order XXXII",
+    "title": "Suits by or against minors and persons of unsound mind",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O32R12",
+    "title": "Course to be followed by minor plaintiff or applicant on attaining majority.",
+    "content": "(1) A minor plaintiff or a minor not a party to a suit on whose behalf an application is pending shall, on attaining majority, elect whether he will proceed with the suit or application.\n(2) Where be elects to proceed with the suit or application, he shall apply for an order discharging the next friend and for leave to proceed in his own name.\n(3) The title of the suit or application shall in such case be corrected so as to read henceforth thus:\n“A.B., late a minor by C.D., his next friend, but now having attained majority.”.\n(4) Where he elects to abandon the suit or application, he shall, if a sole plaintiff or sole applicant, apply for an order to dismiss the suit or application on repayment of the costs incurred by the defendant or opposite party or which may have been paid by his next friend.\n(5) Any application under this rule may be made ex parte but no order discharging a next friend and permitting a minor plaintiff to proceed in his own name shall be made without notice to the next friend.\n",
+    "html": "<article class=\"provision\" data-n=\"O32R12\" data-report=\"Order 32, Rule 12 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Course to be followed by minor plaintiff or applicant on attaining majority.</h3></div><p class=\"prov-cite\">Order 32, Rule 12</p><div class=\"prov-body\"><p class=\"lvl\">(1) A minor plaintiff or a minor not a party to a suit on whose behalf an application is pending shall, on attaining majority, elect whether he will proceed with the suit or application.</p><p class=\"lvl\">(2) Where be elects to proceed with the suit or application, he shall apply for an order discharging the next friend and for leave to proceed in his own name.</p><p class=\"lvl\">(3) The title of the suit or application shall in such case be corrected so as to read henceforth thus:</p><p>“A.B., late a minor by C.D., his next friend, but now having attained majority.”.</p><p class=\"lvl\">(4) Where he elects to abandon the suit or application, he shall, if a sole plaintiff or sole applicant, apply for an order to dismiss the suit or application on repayment of the costs incurred by the defendant or opposite party or which may have been paid by his next friend.</p><p class=\"lvl\">(5) Any application under this rule may be made ex parte but no order discharging a next friend and permitting a minor plaintiff to proceed in his own name shall be made without notice to the next friend.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Course to be followed by minor plaintiff or applicant on attaining majority.</h3></div><p class=\"prov-cite\">Order 32, Rule 12</p><div class=\"prov-body\"><p class=\"lvl\">(1) A minor plaintiff or a minor not a party to a suit on whose behalf an application is pending shall, on attaining majority, elect whether he will proceed with the suit or application.</p><p class=\"lvl\">(2) Where be elects to proceed with the suit or application, he shall apply for an order discharging the next friend and for leave to proceed in his own name.</p><p class=\"lvl\">(3) The title of the suit or application shall in such case be corrected so as to read henceforth thus:</p><p>“A.B., late a minor by C.D., his next friend, but now having attained majority.”.</p><p class=\"lvl\">(4) Where he elects to abandon the suit or application, he shall, if a sole plaintiff or sole applicant, apply for an order to dismiss the suit or application on repayment of the costs incurred by the defendant or opposite party or which may have been paid by his next friend.</p><p class=\"lvl\">(5) Any application under this rule may be made ex parte but no order discharging a next friend and permitting a minor plaintiff to proceed in his own name shall be made without notice to the next friend.</p></div>"
+  }
+}

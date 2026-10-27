@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-17.html",
+    "source_order": 17,
+    "article_order": 3,
+    "order": 223,
+    "stem": "section_198",
+    "heading_number": "Part IV · Chapter II",
+    "heading_title": "Powers and Functions of the Board",
+    "heading_range": "ss. 196–198",
+    "heading_source": "group-head",
+    "article_number": "198",
+    "article_title": "Condonation of delay.",
+    "id": "insolvency_section_198"
+  },
+  "id": "insolvency_section_198",
+  "heading": {
+    "number": "Part IV · Chapter II",
+    "title": "Powers and Functions of the Board",
+    "range": "ss. 196–198"
+  },
+  "article": {
+    "number": "198",
+    "title": "Condonation of delay.",
+    "content": "Notwithstanding anything contained in this Code, where the Board does not perform any act within the period specified under this Code, the relevant Adjudicating Authority may, for reasons to be recorded in writing, condone the delay.\n",
+    "html": "<article class=\"provision\" data-n=\"198\" data-report=\"Section 198 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">198</span>Condonation of delay.</h3></div><p class=\"prov-cite\">Section 198  ·  Part IV · Chapter II  ·  page 132 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in this Code, where the Board does not perform any act within the period specified under this Code, the relevant Adjudicating Authority may, for reasons to be recorded in writing, condone the delay.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">198</span>Condonation of delay.</h3></div><p class=\"prov-cite\">Section 198  ·  Part IV · Chapter II  ·  page 132 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in this Code, where the Board does not perform any act within the period specified under this Code, the relevant Adjudicating Authority may, for reasons to be recorded in writing, condone the delay.</p></div>"
+  }
+}

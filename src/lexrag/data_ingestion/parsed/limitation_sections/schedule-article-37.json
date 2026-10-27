@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-37.html",
+    "source_order": 37,
+    "article_order": 1,
+    "order": 37,
+    "stem": "schedule-article-37",
+    "heading_number": null,
+    "heading_title": "First Division · Part II · Suits Relating to Contracts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "37",
+    "article_title": "Three years.",
+    "id": "limitation_schedule-article-37"
+  },
+  "id": "limitation_schedule-article-37",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part II · Suits Relating to Contracts",
+    "range": null
+  },
+  "article": {
+    "number": "37",
+    "title": "Three years.",
+    "content": "On a promissory note or bond payable by instalments, which provides that, if default be made in payment of one or more instalments, the whole shall be due.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the default is made, unless where the payee or obligee waives the benefit of the provision and then when fresh default is made in respect of which there is no such waiver.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>37<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">On a promissory note or bond payable by instalments, which provides that, if default be made in payment of one or more instalments, the whole shall be due.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the default is made, unless where the payee or obligee waives the benefit of the provision and then when fresh default is made in respect of which there is no such waiver.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>37<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">On a promissory note or bond payable by instalments, which provides that, if default be made in payment of one or more instalments, the whole shall be due.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the default is made, unless where the payee or obligee waives the benefit of the provision and then when fresh default is made in respect of which there is no such waiver.</p></div></div></div></div>"
+  }
+}

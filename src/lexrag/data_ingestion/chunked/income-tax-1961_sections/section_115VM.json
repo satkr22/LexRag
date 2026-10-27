@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115VM_chunk_0",
+    "section_id": "income-tax-1961_section_115VM",
+    "token_count": 177,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Income of Shipping Companies\n Section: 115VM::Exclusion of loss.\n]\n\n\n(1) Section 72 shall apply in respect of any losses that have accrued to a company before its option for tonnage tax scheme and which are attributable to its tonnage tax business, as if such losses had been set off against the relevant shipping income in any of the previous years when the company is under the tonnage tax scheme.\n(2) The losses referred to in sub-section (1) shall not be available for set off against any income other than relevant shipping income in any previous year beginning on or after the company exercises its option under section 115VP.\n(3) Any apportionment necessary to determine the losses referred to in sub-section (1) shall be made on a reasonable basis.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115VM_chunk_0",
+      "section_id": "income-tax-1961_section_115VM",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-G",
+      "chapter_title": "Special Provisions Relating to Income of Shipping Companies",
+      "section_number": "115VM",
+      "section_title": "Exclusion of loss."
+    }
+  }
+]

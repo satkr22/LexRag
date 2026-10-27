@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "insolvency_section_45_chunk_0",
+    "section_id": "insolvency_section_45",
+    "token_count": 207,
+    "text": "[Act: insolvency\n Chapter: Liquidation Process\n Section: 45::Avoidance of undervalued transactions.\n]\n\n\n(1) If the liquidator or the resolution professional, as the case may be, on an examination of the transactions of the corporate debtor referred to in sub-section (2) 1*** determines that certain transactions were made during the relevant period under section 46, which were undervalued, he shall make an application to the Adjudicating Authority to declare such transactions as void and reverse the effect of such transaction in accordance with this Chapter.\n(2) A transaction shall be considered undervalued where the corporate debtor—\n(a) makes a gift to a person; or\n(b) enters into a transaction with a person which involves the transfer of one or more assets by the corporate debtor for a consideration the value of which is significantly less than the value of the consideration provided by the corporate debtor, and such transaction has not taken place in the ordinary course of business of the corporate debtor.",
+    "metadata": {
+      "chunk_id": "insolvency_section_45_chunk_0",
+      "section_id": "insolvency_section_45",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter III",
+      "chapter_title": "Liquidation Process",
+      "section_number": "45",
+      "section_title": "Avoidance of undervalued transactions."
+    }
+  }
+]

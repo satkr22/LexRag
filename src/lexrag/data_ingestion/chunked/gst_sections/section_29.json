@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "gst_section_29_chunk_0",
+    "section_id": "gst_section_29",
+    "token_count": 481,
+    "text": "[Act: gst\n Chapter: Registration\n Section: 29::Cancellation or suspension of registration.\n]\n\n\n(1) The proper officer may, either on his own motion or on an application filed by the registered person or by his legal heirs, in case of death of such person, cancel the registration, in such manner and within such period as may be prescribed, having regard to the circumstances where,––\n  (a) the business has been discontinued, transferred fully for any reason including death of the proprietor, amalgamated with other legal entity, demerged or otherwise disposed of; or\n  (b) there is any change in the constitution of the business; or\n  2 [(c) the taxable person is no longer liable to be registered under section 22 or section 24 or intends to optout of the registration voluntarily made under sub-section (3) of section 25:]\n  1 [Provided that during pendency of the proceedings relating to cancellation of registration filed by the registered person, the registration may be suspended for such period and in such manner as may be prescribed.]\n  (2) The proper officer may cancel the registration of a person from such date, including any retrospective date, as he may deem fit, where,––\n  (a) a registered person has contravened such provisions of the Act or the rules made thereunder as may be prescribed; or\n  (b) a person paying tax under section 10 has not furnished 3 [the return for a financial year beyond three months from the due date of furnishing the said return]; or\n  (c) any registered person, other than a person specified in clause (b), has not furnished returns for 4 [such continuous tax period as may be prescribed]; or\n  (d) any person who has taken voluntary registration under sub-section (3) of section 25 has not commenced business within six months from the date of registration; or\n  (e) registration has been obtained by means of fraud, wilful misstatement or suppression of facts:\n  Provided that the proper officer shall not cancel the registration without giving the person an opportunity of being heard:\n  1 [Provided further that during pendency of the proceedings relating to cancellation of registration, the proper officer may suspend the registration for such period and in such manner as may be prescribed.]",
+    "metadata": {
+      "chunk_id": "gst_section_29_chunk_0",
+      "section_id": "gst_section_29",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Registration",
+      "section_number": "29",
+      "section_title": "Cancellation or suspension of registration."
+    }
+  },
+  {
+    "chunk_id": "gst_section_29_chunk_1",
+    "section_id": "gst_section_29",
+    "token_count": 386,
+    "text": "[Act: gst\n Chapter: Registration\n Section: 29::Cancellation or suspension of registration.\n]\n\n\n(1) The proper officer may, either on his own motion or on an application filed by the registered person or by his legal heirs, in case of death of such person, cancel the registration, in such manner and within such period as may be prescribed, having regard to the circumstances where,––\n  (3) The cancellation of registration under this section shall not affect the liability of the person to pay tax and other dues under this Act or to discharge any obligation under this Act or the rules made thereunder for any period prior to the date of cancellation whether or not such tax and other dues are determined before or after the date of cancellation.\n  (4) The cancellation of registration under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, as the case may be, shall be deemed to be a cancellation of registration under this Act.\n  (5) Every registered person whose registration is cancelled shall pay an amount, by way of debit in the electronic credit ledger or electronic cash ledger, equivalent to the credit of input tax in respect of inputs held in stock and inputs contained in semi-finished or finished goods held in stock or capital goods or plant and machinery on the day immediately preceding the date of such cancellation or the output tax payable on such goods, whichever is higher, calculated in such manner as may be prescribed:\n  Provided that in case of capital goods or plant and machinery, the taxable person shall pay an amount equal to the input tax credit taken on the said capital goods or plant and machinery, reduced by such percentage points as may be prescribed or the tax on the transaction value of such capital goods or plant and machinery under section 15, whichever is higher.\n  (6) The amount payable under sub-section (5) shall be calculated in such manner as may be prescribed.",
+    "metadata": {
+      "chunk_id": "gst_section_29_chunk_1",
+      "section_id": "gst_section_29",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Registration",
+      "section_number": "29",
+      "section_title": "Cancellation or suspension of registration."
+    }
+  }
+]

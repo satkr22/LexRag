@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_167C_chunk_0",
+    "section_id": "income-tax-1961_section_167C",
+    "token_count": 204,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 167C::Liability of partners of limited liability partnership in liquidation.\n]\n\n\nNotwithstanding anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax due from a limited liability partnership in respect of any income of any previous year or from any other person in respect of any income of any previous year during which such other person was a limited liability partnership cannot be recovered, in such case, every person who was a partner of the limited liability partnership at any time during the relevant previous year, shall be jointly and severally liable for the payment of such tax unless he proves that the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on his part in relation to the affairs of the limited liability partnership.\nExplanation.—For the purposes of this section, the expression \"tax due\" includes penalty, interest or any other sum payable under the Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_167C_chunk_0",
+      "section_id": "income-tax-1961_section_167C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "167C",
+      "section_title": "Liability of partners of limited liability partnership in liquidation."
+    }
+  }
+]

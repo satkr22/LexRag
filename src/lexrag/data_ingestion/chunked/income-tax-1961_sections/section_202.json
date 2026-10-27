@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_202_chunk_0",
+    "section_id": "income-tax-1961_section_202",
+    "token_count": 57,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 202::Deduction only one mode of recovery.\n]\n\n\nThe power to recover tax by deduction under the foregoing provisions of this Chapter shall be without prejudice to any other mode of recovery.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_202_chunk_0",
+      "section_id": "income-tax-1961_section_202",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "202",
+      "section_title": "Deduction only one mode of recovery."
+    }
+  }
+]

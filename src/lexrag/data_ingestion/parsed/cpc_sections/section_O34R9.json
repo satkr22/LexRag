@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-53.html",
+    "source_order": 53,
+    "article_order": 10,
+    "order": 745,
+    "stem": "section_O34R9",
+    "heading_number": "Order XXXIV",
+    "heading_title": "Suits relating to mortgages of immovable property",
+    "heading_range": "17 rules",
+    "heading_source": "group-head",
+    "article_number": "O34R9",
+    "article_title": "Decree where nothing is found due or where mortgagee has been overpaid.",
+    "id": "cpc_section_O34R9"
+  },
+  "id": "cpc_section_O34R9",
+  "heading": {
+    "number": "Order XXXIV",
+    "title": "Suits relating to mortgages of immovable property",
+    "range": "17 rules"
+  },
+  "article": {
+    "number": "O34R9",
+    "title": "Decree where nothing is found due or where mortgagee has been overpaid.",
+    "content": "Notwithstanding anything hereinbefore contained, if it appears, upon taking the account referred to in rule 7, that nothing is due to the defendant or that he has been overpaid, the Court shall pass a decree directing the defendant, if so require, to re-transfer the property and to pay to the plaintiff the amount which may be found due to him; and the plaintiff shall, if necessary, be put in possession of the mortgaged property.\n",
+    "html": "<article class=\"provision\" data-n=\"O34R9\" data-report=\"Order 34, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Decree where nothing is found due or where mortgagee has been overpaid.</h3></div><p class=\"prov-cite\">Order 34, Rule 9</p><div class=\"prov-body\"><p>Notwithstanding anything hereinbefore contained, if it appears, upon taking the account referred to in rule 7, that nothing is due to the defendant or that he has been overpaid, the Court shall pass a decree directing the defendant, if so require, to re-transfer the property and to pay to the plaintiff the amount which may be found due to him; and the plaintiff shall, if necessary, be put in possession of the mortgaged property.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Decree where nothing is found due or where mortgagee has been overpaid.</h3></div><p class=\"prov-cite\">Order 34, Rule 9</p><div class=\"prov-body\"><p>Notwithstanding anything hereinbefore contained, if it appears, upon taking the account referred to in rule 7, that nothing is due to the defendant or that he has been overpaid, the Court shall pass a decree directing the defendant, if so require, to re-transfer the property and to pay to the plaintiff the amount which may be found due to him; and the plaintiff shall, if necessary, be put in possession of the mortgaged property.</p></div>"
+  }
+}

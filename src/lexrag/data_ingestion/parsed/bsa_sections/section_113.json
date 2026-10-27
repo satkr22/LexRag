@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-113.html",
+    "source_order": 113,
+    "article_order": 1,
+    "order": 113,
+    "stem": "section_113",
+    "heading_number": "Chapter VII",
+    "heading_title": "Of the Burden of Proof",
+    "heading_range": "104 – 120",
+    "heading_source": "manifest",
+    "article_number": "113",
+    "article_title": "Burden of proof as to ownership",
+    "id": "bsa_section_113"
+  },
+  "id": "bsa_section_113",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Of the Burden of Proof",
+    "range": "104 – 120"
+  },
+  "article": {
+    "number": "113",
+    "title": "Burden of proof as to ownership",
+    "content": "When the question is whether any person is owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">113</span>Burden of proof as to ownership</h3></div><p class=\"prov-cite\">Section 113 · Part IV · Chapter VII</p><div class=\"prov-body\"><p>When the question is whether any person is owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">113</span>Burden of proof as to ownership</h3></div><p class=\"prov-cite\">Section 113 · Part IV · Chapter VII</p><div class=\"prov-body\"><p>When the question is whether any person is owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner.</p></div>"
+  }
+}

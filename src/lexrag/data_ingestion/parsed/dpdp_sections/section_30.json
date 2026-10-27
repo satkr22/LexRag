@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "dpdp",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "dpdp_sections/section-30.html",
+    "source_order": 30,
+    "article_order": 1,
+    "order": 30,
+    "stem": "section_30",
+    "heading_number": "Chapter VII",
+    "heading_title": "Appeal and Alternate Dispute Resolution",
+    "heading_range": "ss. 29–32",
+    "heading_source": "manifest",
+    "article_number": "30",
+    "article_title": "Orders passed by Appellate Tribunal to be executable as decree.",
+    "id": "dpdp_section_30"
+  },
+  "id": "dpdp_section_30",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Appeal and Alternate Dispute Resolution",
+    "range": "ss. 29–32"
+  },
+  "article": {
+    "number": "30",
+    "title": "Orders passed by Appellate Tribunal to be executable as decree.",
+    "content": "(1) An order passed by the Appellate Tribunal under this Act shall be executable by it as a decree of civil court, and for this purpose, the Appellate Tribunal shall have all the powers of a civil court.\n(2) Notwithstanding anything contained in sub-section (1), the Appellate Tribunal may transmit any order made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>Orders passed by Appellate Tribunal to be executable as decree.</h3></div><p class=\"prov-cite\">Section 30  ·  Chapter VII  ·  page 19 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An order passed by the Appellate Tribunal under this Act shall be executable by it as a decree of civil court, and for this purpose, the Appellate Tribunal shall have all the powers of a civil court.</p><p class=\"lvl\">(2) Notwithstanding anything contained in sub-section (1), the Appellate Tribunal may transmit any order made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>Orders passed by Appellate Tribunal to be executable as decree.</h3></div><p class=\"prov-cite\">Section 30  ·  Chapter VII  ·  page 19 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An order passed by the Appellate Tribunal under this Act shall be executable by it as a decree of civil court, and for this purpose, the Appellate Tribunal shall have all the powers of a civil court.</p><p class=\"lvl\">(2) Notwithstanding anything contained in sub-section (1), the Appellate Tribunal may transmit any order made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.</p></div>"
+  }
+}

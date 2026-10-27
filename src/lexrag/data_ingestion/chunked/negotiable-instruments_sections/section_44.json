@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_44_chunk_0",
+    "section_id": "negotiable-instruments_section_44",
+    "token_count": 241,
+    "text": "[Act: negotiable-instruments\n Chapter: Parties to Notes, Bills and Cheques.\n Section: 44::Partial absence or failure of money-consideration.\n]\n\n\nWhen the consideration for which a person signed a promissory note, bill of exchange or cheque consisted of money, and was originally absent in part or has subsequently failed in part, the sum which a holder standing in immediate relation with such signer is entitled to receive from him is proportionally reduced.\nExplanation.—The drawer of a bill of exchange stands in immediate relation with the acceptor. The maker of a promissory note, bill of exchange or cheque stands in immediate relation with the payee, and the indorser with his indorsee. Other signers may by agreement stand in immediate relation with a holder.\nIllustration\nA draws a bill on B for Rs. 500 payable to the order of A, B accepts the bill, but subsequently dishonours, it by non-payment. A sues B on the bill, B proves that it was accepted for value as to Rs. 400, and as an accommodation to the plaintiff as to the residue. A can only recover Rs. 400.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_44_chunk_0",
+      "section_id": "negotiable-instruments_section_44",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Parties to Notes, Bills and Cheques.",
+      "section_number": "44",
+      "section_title": "Partial absence or failure of money-consideration."
+    }
+  }
+]

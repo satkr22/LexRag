@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-85.html",
+    "source_order": 85,
+    "article_order": 1,
+    "order": 85,
+    "stem": "section_85",
+    "heading_number": "Chapter VI",
+    "heading_title": "Product Liability",
+    "heading_range": "ss. 82–87",
+    "heading_source": "manifest",
+    "article_number": "85",
+    "article_title": "Liability of product service provider.",
+    "id": "consumer_section_85"
+  },
+  "id": "consumer_section_85",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Product Liability",
+    "range": "ss. 82–87"
+  },
+  "article": {
+    "number": "85",
+    "title": "Liability of product service provider.",
+    "content": "A product service provider shall be liable in a product liability action, if—\n(a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise; or\n(b) there was an act of omission or commission or negligence or conscious withholding any information which caused harm; or\n(c) the service provider did not issue adequate instructions or warnings to prevent any harm; or\n(d) the service did not conform to express warranty or the terms and conditions of the contract.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>Liability of product service provider.</h3></div><p class=\"prov-cite\">Section 85  ·  Chapter VI  ·  page 32 of the Act</p><div class=\"prov-body\"><p>A product service provider shall be liable in a product liability action, if—</p><p class=\"lvl\">(a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise; or</p><p class=\"lvl\">(b) there was an act of omission or commission or negligence or conscious withholding any information which caused harm; or</p><p class=\"lvl\">(c) the service provider did not issue adequate instructions or warnings to prevent any harm; or</p><p class=\"lvl\">(d) the service did not conform to express warranty or the terms and conditions of the contract.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>Liability of product service provider.</h3></div><p class=\"prov-cite\">Section 85  ·  Chapter VI  ·  page 32 of the Act</p><div class=\"prov-body\"><p>A product service provider shall be liable in a product liability action, if—</p><p class=\"lvl\">(a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise; or</p><p class=\"lvl\">(b) there was an act of omission or commission or negligence or conscious withholding any information which caused harm; or</p><p class=\"lvl\">(c) the service provider did not issue adequate instructions or warnings to prevent any harm; or</p><p class=\"lvl\">(d) the service did not conform to express warranty or the terms and conditions of the contract.</p></div>"
+  }
+}

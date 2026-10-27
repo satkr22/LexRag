@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-25.html",
+    "source_order": 25,
+    "article_order": 6,
+    "order": 452,
+    "stem": "section_401",
+    "heading_number": "Chapter XXIV",
+    "heading_title": "Registration Offices and Fees",
+    "heading_range": "ss. 396–404",
+    "heading_source": "group-head",
+    "article_number": "401",
+    "article_title": "Provision of value added services through electronic form.",
+    "id": "companies_section_401"
+  },
+  "id": "companies_section_401",
+  "heading": {
+    "number": "Chapter XXIV",
+    "title": "Registration Offices and Fees",
+    "range": "ss. 396–404"
+  },
+  "article": {
+    "number": "401",
+    "title": "Provision of value added services through electronic form.",
+    "content": "The Central Government may provide such value added services through the electronic form and levy such fee thereon as may be prescribed.\n",
+    "html": "<article class=\"provision\" data-n=\"401\" data-report=\"Section 401 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">401</span>Provision of value added services through electronic form.</h3></div><p class=\"prov-cite\">Section 401  ·  Chapter XXIV  ·  page 229 of the Act</p><div class=\"prov-body\"><p>The Central Government may provide such value added services through the electronic form and levy such fee thereon as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">401</span>Provision of value added services through electronic form.</h3></div><p class=\"prov-cite\">Section 401  ·  Chapter XXIV  ·  page 229 of the Act</p><div class=\"prov-body\"><p>The Central Government may provide such value added services through the electronic form and levy such fee thereon as may be prescribed.</p></div>"
+  }
+}

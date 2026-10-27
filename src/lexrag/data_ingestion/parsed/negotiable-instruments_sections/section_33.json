@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-33.html",
+    "source_order": 34,
+    "article_order": 1,
+    "order": 34,
+    "stem": "section_33",
+    "heading_number": "Chapter III",
+    "heading_title": "Parties to Notes, Bills and Cheques.",
+    "heading_range": "ss. 26–45A",
+    "heading_source": "manifest",
+    "article_number": "33",
+    "article_title": "Only drawee can be acceptor except in need or for honour.",
+    "id": "negotiable-instruments_section_33"
+  },
+  "id": "negotiable-instruments_section_33",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Parties to Notes, Bills and Cheques.",
+    "range": "ss. 26–45A"
+  },
+  "article": {
+    "number": "33",
+    "title": "Only drawee can be acceptor except in need or for honour.",
+    "content": "No person except the drawee of a bill exchange, or all or some of several drawees, or a person named therein as a drawee in case of need, or an acceptor for honour, can bind himself by an acceptance.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Only drawee can be acceptor except in need or for honour.</h3></div><p class=\"prov-cite\">Section 33  ·  Chapter III  ·  page 13 of the Act</p><div class=\"prov-body\"><p>No person except the drawee of a bill exchange, or all or some of several drawees, or a person named therein as a drawee in case of need, or an acceptor for honour, can bind himself by an acceptance.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Only drawee can be acceptor except in need or for honour.</h3></div><p class=\"prov-cite\">Section 33  ·  Chapter III  ·  page 13 of the Act</p><div class=\"prov-body\"><p>No person except the drawee of a bill exchange, or all or some of several drawees, or a person named therein as a drawee in case of need, or an acceptor for honour, can bind himself by an acceptance.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_2_chunk_0",
+    "section_id": "constitution_section_2",
+    "token_count": 52,
+    "text": "[Act: constitution\n Chapter: The Union and its Territory\n Section: 2::Admission or establishment of new States\n]\n\n\nParliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.",
+    "metadata": {
+      "chunk_id": "constitution_section_2_chunk_0",
+      "section_id": "constitution_section_2",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part I",
+      "chapter_title": "The Union and its Territory",
+      "section_number": "2",
+      "section_title": "Admission or establishment of new States"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-50.html",
+    "source_order": 50,
+    "article_order": 5,
+    "order": 694,
+    "stem": "section_O32R3A",
+    "heading_number": "Order XXXII",
+    "heading_title": "Suits by or against minors and persons of unsound mind",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O32R3A",
+    "article_title": "Decree against minor not to be set aside unless prejudice has been caused to his interest.",
+    "id": "cpc_section_O32R3A"
+  },
+  "id": "cpc_section_O32R3A",
+  "heading": {
+    "number": "Order XXXII",
+    "title": "Suits by or against minors and persons of unsound mind",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O32R3A",
+    "title": "Decree against minor not to be set aside unless prejudice has been caused to his interest.",
+    "content": "(1) No decree passed against a minor shall be set aside merely on the ground that the next friend or guardian for the suit of the minor had an interest in the subject-matter of the suit adverse to that of the minor, but the fact that by reasons of such adverse interest of the next friend or guardian for the suit, prejudice has been caused to the interests of the minor, shall be a ground for setting aside the decree.\n(2) Nothing in this rule shall preclude the minor from obtaining any relief available under any law by reason of the misconduct or gross negligence on the part of the next friend or guardian for the suit resulting in prejudice to the interests of the minor.]\n",
+    "html": "<article class=\"provision\" data-n=\"O32R3A\" data-report=\"Order 32, Rule 3A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3A</span>Decree against minor not to be set aside unless prejudice has been caused to his interest.</h3></div><p class=\"prov-cite\">Order 32, Rule 3A</p><div class=\"prov-body\"><p class=\"lvl\">(1) No decree passed against a minor shall be set aside merely on the ground that the next friend or guardian for the suit of the minor had an interest in the subject-matter of the suit adverse to that of the minor, but the fact that by reasons of such adverse interest of the next friend or guardian for the suit, prejudice has been caused to the interests of the minor, shall be a ground for setting aside the decree.</p><p class=\"lvl\">(2) Nothing in this rule shall preclude the minor from obtaining any relief available under any law by reason of the misconduct or gross negligence on the part of the next friend or guardian for the suit resulting in prejudice to the interests of the minor.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Ins. by s. 79, ibid. (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3A</span>Decree against minor not to be set aside unless prejudice has been caused to his interest.</h3></div><p class=\"prov-cite\">Order 32, Rule 3A</p><div class=\"prov-body\"><p class=\"lvl\">(1) No decree passed against a minor shall be set aside merely on the ground that the next friend or guardian for the suit of the minor had an interest in the subject-matter of the suit adverse to that of the minor, but the fact that by reasons of such adverse interest of the next friend or guardian for the suit, prejudice has been caused to the interests of the minor, shall be a ground for setting aside the decree.</p><p class=\"lvl\">(2) Nothing in this rule shall preclude the minor from obtaining any relief available under any law by reason of the misconduct or gross negligence on the part of the next friend or guardian for the suit resulting in prejudice to the interests of the minor.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Ins. by s. 79, ibid. (w.e.f. 1-2-1977).</p></div>"
+  }
+}

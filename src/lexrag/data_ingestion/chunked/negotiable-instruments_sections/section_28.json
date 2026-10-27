@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_28_chunk_0",
+    "section_id": "negotiable-instruments_section_28",
+    "token_count": 98,
+    "text": "[Act: negotiable-instruments\n Chapter: Parties to Notes, Bills and Cheques.\n Section: 28::Liability of agent signing.\n]\n\n\nAn agent who signs his name to a promissory note, bill of exchange or cheque without indicating thereon that he signs as agent, or that he does not intend thereby to incur personal responsibility, is liable personally on the instrument, except to those who induced him to sign upon the belief that the principal only would be held liable.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_28_chunk_0",
+      "section_id": "negotiable-instruments_section_28",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Parties to Notes, Bills and Cheques.",
+      "section_number": "28",
+      "section_title": "Liability of agent signing."
+    }
+  }
+]

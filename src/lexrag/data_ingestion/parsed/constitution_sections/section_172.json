@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 21,
+    "order": 191,
+    "stem": "section_172",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "172",
+    "article_title": "Duration of State Legislatures",
+    "id": "constitution_section_172"
+  },
+  "id": "constitution_section_172",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "172",
+    "title": "Duration of State Legislatures",
+    "content": "(1)Every Legislative Assembly of every State, unless sooner dissolved, shall continue for 1[five years] from the date appointed for its first meeting and no longer and the expiration of the said period of 1[five years] shall operate as a dissolution of the Assembly:\nProvisoProvided that the said period may, while a Proclamation of Emergency is in operation, be extended by Parliament by law for a period not exceeding one year at a time and not extending in any case beyond a period of six months after the Proclamation has ceased to operate.\n(2)The Legislative Council of a State shall not be subject to dissolution, but as nearly as possible one-third of the members thereof shall retire as soon as may be on the expiration of every second year in accordance with the provisions made in that behalf by Parliament by law.\n",
+    "html": "<article class=\"provision\" data-n=\"172\" data-report=\"Article 172 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">172</span>Duration of State Legislatures</h3></div><p class=\"prov-cite\">Article 172 · Part VI · General</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Every Legislative Assembly of every State, unless sooner dissolved, shall continue for <sup>1</sup>[five years] from the date appointed for its first meeting and no longer and the expiration of the said period of <sup>1</sup>[five years] shall operate as a dissolution of the Assembly:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the said period may, while a Proclamation of Emergency is in operation, be extended by Parliament by law for a period not exceeding one year at a time and not extending in any case beyond a period of six months after the Proclamation has ceased to operate.</p><p><span class=\"lbl\">(2)</span>The Legislative Council of a State shall not be subject to dissolution, but as nearly as possible one-third of the members thereof shall retire as soon as may be on the expiration of every second year in accordance with the provisions made in that behalf by Parliament by law.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 30, for \"five years\" (w.e.f. 3-1-1977) and further subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 24, for \"six years\" (w.e.f. 6-9-1979).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">172</span>Duration of State Legislatures</h3></div><p class=\"prov-cite\">Article 172 · Part VI · General</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Every Legislative Assembly of every State, unless sooner dissolved, shall continue for <sup>1</sup>[five years] from the date appointed for its first meeting and no longer and the expiration of the said period of <sup>1</sup>[five years] shall operate as a dissolution of the Assembly:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the said period may, while a Proclamation of Emergency is in operation, be extended by Parliament by law for a period not exceeding one year at a time and not extending in any case beyond a period of six months after the Proclamation has ceased to operate.</p><p><span class=\"lbl\">(2)</span>The Legislative Council of a State shall not be subject to dissolution, but as nearly as possible one-third of the members thereof shall retire as soon as may be on the expiration of every second year in accordance with the provisions made in that behalf by Parliament by law.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 30, for \"five years\" (w.e.f. 3-1-1977) and further subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 24, for \"six years\" (w.e.f. 6-9-1979).</p></div>"
+  }
+}

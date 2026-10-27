@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-111.html",
+    "source_order": 116,
+    "article_order": 1,
+    "order": 116,
+    "stem": "section_111",
+    "heading_number": "Chapter XI",
+    "heading_title": "Of Acceptance and Payment for Honour and Reference in Case of Need",
+    "heading_range": "ss. 108–116",
+    "heading_source": "manifest",
+    "article_number": "111",
+    "article_title": "Liability of acceptor for honour.",
+    "id": "negotiable-instruments_section_111"
+  },
+  "id": "negotiable-instruments_section_111",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Of Acceptance and Payment for Honour and Reference in Case of Need",
+    "range": "ss. 108–116"
+  },
+  "article": {
+    "number": "111",
+    "title": "Liability of acceptor for honour.",
+    "content": "An acceptor for honour binds himself to all parties subsequent to the party for whose honour he accepts to pay the amount of the bill if the drawee do not; and such party and all prior parties are liable in their respective capacities to compensate the acceptor for honour for all loss or damage sustained by him in consequence of such acceptance.\nBut an acceptor for honour is not liable to the holder of the bill unless it is presented, or (in case the address given by such acceptor on the bill is a place other than the place where the bill is made payable) forwarded for presentment, not later than the day next after the day of its maturity.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">111</span>Liability of acceptor for honour.</h3></div><p class=\"prov-cite\">Section 111  ·  Chapter XI  ·  page 24 of the Act</p><div class=\"prov-body\"><p>An acceptor for honour binds himself to all parties subsequent to the party for whose honour he accepts to pay the amount of the bill if the drawee do not; and such party and all prior parties are liable in their respective capacities to compensate the acceptor for honour for all loss or damage sustained by him in consequence of such acceptance.</p><p>But an acceptor for honour is not liable to the holder of the bill unless it is presented, or (in case the address given by such acceptor on the bill is a place other than the place where the bill is made payable) forwarded for presentment, not later than the day next after the day of its maturity.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">111</span>Liability of acceptor for honour.</h3></div><p class=\"prov-cite\">Section 111  ·  Chapter XI  ·  page 24 of the Act</p><div class=\"prov-body\"><p>An acceptor for honour binds himself to all parties subsequent to the party for whose honour he accepts to pay the amount of the bill if the drawee do not; and such party and all prior parties are liable in their respective capacities to compensate the acceptor for honour for all loss or damage sustained by him in consequence of such acceptance.</p><p>But an acceptor for honour is not liable to the holder of the bill unless it is presented, or (in case the address given by such acceptor on the bill is a place other than the place where the bill is made payable) forwarded for presentment, not later than the day next after the day of its maturity.</p></div>"
+  }
+}

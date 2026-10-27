@@ -1,0 +1,130 @@
+[
+  {
+    "question": "During a criminal investigation, a suspect makes a confession before a Magistrate after being threatened by investigators. The prosecution wants to rely on the confession during trial. What procedural safeguards govern the recording of the confession, and how does the law determine whether the confession is admissible?",
+    "referenced_sections": [
+      "bnss_section_183",
+      "bsa_section_22"
+    ],
+    "answer": "BNSS Section 183 governs the recording of confessions and statements by a Magistrate or other authorized officer, including safeguards applicable to recording a confession. BSA Section 22 addresses confessions caused by inducement, threat, coercion, or promise and their irrelevance in criminal proceedings when the statutory conditions apply. The court must examine both compliance with the applicable recording safeguards and whether the confession was caused by a prohibited inducement, threat, coercion, or promise. Recording a confession before a Magistrate does not automatically make a confession admissible if the requirements of the evidence law are not satisfied."
+  },
+  {
+    "question": "Police officers conduct a search and seizure during a criminal investigation and record the entire process using audio-video equipment. At trial, the prosecution seeks to introduce the resulting electronic recordings to establish how the search was conducted and what was recovered. What procedural requirement governs the recording of the search, and what must be considered before admitting the electronic recordings as evidence?",
+    "referenced_sections": [
+      "bnss_section_105",
+      "bsa_section_63"
+    ],
+    "answer": "BNSS Section 105 addresses the recording of search and seizure through audio-video electronic means. BSA Section 63 establishes provisions governing the admissibility of electronic records, subject to its statutory requirements. The court must consider whether the search and seizure were recorded in accordance with the applicable procedural requirements and whether the electronic recordings satisfy the requirements for admissibility under the evidence law, including applicable certification requirements. Compliance with the search procedure and admissibility of the resulting electronic records are related but distinct questions."
+  },
+  {
+    "question": "During an investigation, an accused person allegedly confesses to a police officer, and the officer records the statement in the case diary. The prosecution later attempts to use the confession as proof of guilt. Which procedural restriction governs the use of statements made to police during an investigation, and how does the evidence law treat confessions made to police officers?",
+    "referenced_sections": [
+      "bnss_section_181",
+      "bsa_section_23"
+    ],
+    "answer": "BNSS Section 181 governs statements made to police during an investigation and their use in subsequent proceedings. BSA Section 23 addresses confessions made to police officers and imposes restrictions on their use as evidence, subject to the statutory exceptions. The prosecution cannot assume that a confession becomes admissible merely because a police officer recorded it in an official record. The court must apply the restrictions governing police statements and police confessions, including any applicable statutory exception."
+  },
+  {
+    "question": "An accused person disputes a handwritten document that the prosecution claims was written by the accused. During the investigation, a Magistrate orders the accused to provide specimen handwriting and signatures for comparison. How does criminal procedure authorize obtaining these specimens, and what evidentiary principles can help the court determine whether the disputed document was written or signed by the accused?",
+    "referenced_sections": [
+      "bnss_section_349",
+      "bsa_section_41"
+    ],
+    "answer": "BNSS Section 349 empowers a Magistrate to order a person to provide specimen signatures or handwriting, subject to the statutory conditions. BSA Section 41 concerns opinions regarding handwriting and signatures and their relevance. The specimens obtained through the prescribed procedure may provide material for comparison with the disputed document. The court must evaluate the resulting opinion evidence in accordance with the evidence law and the circumstances of the case rather than treating the existence of specimen samples as conclusive proof of authorship."
+  },
+  {
+    "question": "After completing a criminal investigation, the police submit their final report and include electronic records obtained from a surveillance system. The accused challenges the use of those records because the prosecution has not established that they satisfy the applicable requirements for electronic evidence. What must the police report contain under criminal procedure, and what additional evidentiary requirements must be considered before relying on the electronic records?",
+    "referenced_sections": [
+      "bnss_section_193",
+      "bsa_section_63"
+    ],
+    "answer": "BNSS Section 193 governs the report of a police officer upon completion of an investigation. BSA Section 63 governs the admissibility of electronic records and imposes applicable requirements for their use as evidence. Submission of an electronic record with the police report does not by itself establish its admissibility. The court must consider the investigation report under the procedural law and independently determine whether the electronic records satisfy the applicable evidentiary requirements, including certification where required."
+  },
+  {
+    "question": "During a criminal trial, the prosecution presents a witness who claims to have personally seen the accused commit the offence. The accused argues that the witness is merely repeating what another person told them. How does criminal procedure regulate the taking of evidence in the accused's presence, and what rule governs whether the witness's account qualifies as direct oral evidence?",
+    "referenced_sections": [
+      "bnss_section_308",
+      "bsa_section_55"
+    ],
+    "answer": "BNSS Section 308 requires evidence to be taken in the presence of the accused, subject to the statutory provisions governing exceptions. BSA Section 55 establishes that oral evidence must be direct. The court must consider whether the evidence was recorded in accordance with the applicable trial procedure and whether the witness is testifying directly to something personally perceived or merely repeating another person's account. Compliance with the procedural requirements does not eliminate the need to satisfy the rule governing direct oral evidence."
+  },
+  {
+    "question": "In a criminal trial, the prosecution produces a certified copy of an official government record instead of the original document. The accused objects that the original has not been produced and that the contents have not been proved. How does criminal procedure address formal proof of certain documents, and what rules govern the use of certified copies of public documents?",
+    "referenced_sections": [
+      "bnss_section_330",
+      "bsa_section_76"
+    ],
+    "answer": "BNSS Section 330 provides for the absence of formal proof of certain documents in circumstances covered by that provision. BSA Section 76 governs proof of documents through certified copies. Whether the document can be proved through a certified copy depends on its legal classification, the requirements for certification, and the applicable statutory conditions. The procedural provision concerning formal proof and the evidence-law provision concerning certified copies must be considered together. Neither provision should be interpreted as making every photocopy or purported certified copy automatically admissible."
+  },
+  {
+    "question": "During examination by the court, an accused person states that the act was committed under circumstances falling within a statutory exception to criminal liability. The prosecution argues that the accused must establish the exception. How does the court's examination of the accused fit into the trial procedure, and which evidentiary rule governs the burden of proving that the accused's case falls within an exception?",
+    "referenced_sections": [
+      "bnss_section_351",
+      "bsa_section_108"
+    ],
+    "answer": "BNSS Section 351 governs the court's power to examine the accused, including the opportunity to explain circumstances appearing in the evidence against them. BSA Section 108 addresses the burden of proving that a case falls within an exception to the general rules of criminal liability. The court must distinguish the procedural opportunity given to the accused to explain the circumstances from the evidentiary burden applicable to a claimed exception. The accused's examination does not, by itself, establish that an exception applies or determine whether the burden has been discharged."
+  },
+  {
+    "question": "A prosecution witness gives a statement to the police during an investigation and later testifies at trial with a materially different account. The defence seeks to use the earlier statement to challenge the witness's credibility. What rules govern the recording and use of statements made to police, and under what circumstances may an earlier statement be used to corroborate or otherwise support the witness's later testimony?",
+    "referenced_sections": [
+      "bnss_section_181",
+      "bsa_section_160"
+    ],
+    "answer": "BNSS Section 181 governs statements made to police during an investigation and restricts their use in subsequent proceedings, subject to applicable exceptions. BSA Section 160 concerns the use of former statements of a witness to corroborate later testimony about the same fact. The court must distinguish between using an earlier statement to corroborate consistent testimony and attempting to use it to contradict a witness. The applicable restrictions on police statements must be observed, and the corroboration provision cannot automatically be treated as permission to use every prior police statement for every purpose."
+  },
+  {
+    "question": "An accused person makes a confession implicating both themselves and another person who is being tried jointly for the same offence. The prosecution seeks to rely on that confession against both accused persons. What procedural safeguards apply when the confession is recorded, and what evidentiary rule governs the effect of a proved confession on the person making it and the jointly tried accused?",
+    "referenced_sections": [
+      "bnss_section_183",
+      "bsa_section_24"
+    ],
+    "answer": "BNSS Section 183 governs the recording of confessions and statements under the applicable procedural safeguards. BSA Section 24 addresses the consideration of a proved confession affecting the person who made it and other persons jointly under trial for the same offence. The court must first determine whether the confession was properly recorded and is legally available for consideration. It must then apply the evidentiary rules governing the confession's effect on the maker and the jointly tried accused. A confession implicating another accused does not automatically establish that person's guilt."
+  },
+  {
+    "question": "In a criminal trial, the prosecution presents witnesses and documentary evidence to establish the accused's involvement in an offence. The defence argues that the prosecution has not produced sufficient evidence to establish guilt. How does criminal procedure provide for the presentation of prosecution evidence, and what general rule determines the burden of proving the facts asserted by the prosecution?",
+    "referenced_sections": [
+      "bnss_section_267",
+      "bsa_section_104"
+    ],
+    "answer": "BNSS Section 267 governs evidence for the prosecution in the procedural context specified by that provision. BSA Section 104 establishes the general rule concerning the burden of proof. The prosecution must present its evidence through the prescribed trial procedure, while the applicable burden-of-proof rules determine which party must establish the relevant facts. The court must assess the evidence as a whole and apply the criminal standard of proof where applicable. Merely presenting prosecution evidence does not establish guilt unless the applicable evidentiary requirements are satisfied."
+  },
+  {
+    "question": "A witness who is serving a sentence in prison possesses information relevant to a criminal trial. Because transporting the witness to court would create practical difficulties, the court considers obtaining the witness's testimony through a commission. What procedural mechanism permits examination of a prisoner in this situation, and how must the court assess the witness's eligibility to testify?",
+    "referenced_sections": [
+      "bnss_section_306",
+      "bsa_section_124"
+    ],
+    "answer": "BNSS Section 306 provides for issuing a commission to examine a witness who is in prison, subject to the statutory requirements. BSA Section 124 addresses who may testify. The procedural mechanism allows the court to consider obtaining testimony without requiring the ordinary physical attendance of the prisoner in court. The court must also consider whether the person is competent to testify under the evidence law. Imprisonment alone does not establish that a person is incompetent to be a witness."
+  },
+  {
+    "question": "In a criminal prosecution involving suspected counterfeit currency, the court receives technical findings from officers of a government mint regarding the characteristics of the seized notes. The defence disputes the technical conclusions and asks the court to consider whether they qualify as expert evidence. Which procedural provision addresses evidence from mint officers, and what evidentiary principles govern the relevance and evaluation of expert opinions?",
+    "referenced_sections": [
+      "bnss_section_328",
+      "bsa_section_39"
+    ],
+    "answer": "BNSS Section 328 addresses evidence given by officers of a Mint. BSA Section 39 governs the relevance of opinions of experts. The court must consider the specific statutory provisions governing evidence from mint officers and determine how the technical findings may be used in the proceedings. The evidence law governs the relevance of expert opinions and their evaluation in the circumstances of the case. The court should assess the basis and relevance of the technical conclusions rather than assuming that an official position makes every conclusion conclusive."
+  },
+  {
+    "question": "During a criminal investigation, the police discover a contract and related business records that may establish a connection between the accused and the alleged offence. The accused disputes the authenticity and legal significance of the documents. What procedural power allows the authorities to require production of relevant documents, and what evidentiary rules determine whether the documents are public or private and how their status affects proof?",
+    "referenced_sections": [
+      "bnss_section_94",
+      "bsa_section_74"
+    ],
+    "answer": "BNSS Section 94 provides for issuing a summons to produce a document or other thing in accordance with the statutory requirements. BSA Section 74 distinguishes public and private documents. The production procedure provides a mechanism for obtaining relevant material, while the evidence law determines the legal classification of the documents. Their classification affects the applicable rules for proving their contents and authenticity. The fact that a document has been summoned and produced does not, by itself, resolve every question concerning its admissibility or evidentiary weight."
+  },
+  {
+    "question": "In a criminal trial, a disputed signature on a financial document is central to determining whether the accused participated in the alleged offence. The accused has provided specimen signatures during the investigation, and the prosecution seeks an expert comparison. What procedural authority governs the collection of specimen signatures, and what evidentiary rule allows the court to compare a disputed signature with signatures that have been admitted or proved?",
+    "referenced_sections": [
+      "bnss_section_349",
+      "bsa_section_72"
+    ],
+    "answer": "BNSS Section 349 empowers a Magistrate to order the provision of specimen signatures or handwriting under the statutory conditions. BSA Section 72 governs the comparison of signatures, writing, or seals with others admitted or proved. Specimen signatures obtained through the prescribed procedure may provide material for the comparison contemplated by the evidence law. The court must consider whether the specimens were lawfully obtained, whether the comparison satisfies the applicable evidentiary requirements, and what weight the comparison deserves in light of the other evidence."
+  },
+  {
+    "question": "During a criminal investigation, a court orders a person to produce an electronic record that may establish the accused's communications with another individual. The person produces the record, but the prosecution has not yet established whether it can be admitted as evidence. How does criminal procedure authorize the production of the record, and what additional requirements govern the admissibility of electronic records?",
+    "referenced_sections": [
+      "bnss_section_94",
+      "bsa_section_63"
+    ],
+    "answer": "BNSS Section 94 provides the procedural mechanism for requiring the production of a document or other thing. BSA Section 63 governs the admissibility of electronic records and establishes applicable statutory requirements, including certification requirements where applicable. The production order addresses how the record may be obtained, while the evidence law addresses whether it can be admitted. The prosecution must satisfy the applicable admissibility requirements rather than assuming that compliance with the production order automatically proves the authenticity or admissibility of the electronic record."
+  }
+]

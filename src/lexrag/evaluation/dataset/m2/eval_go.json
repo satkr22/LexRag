@@ -1,0 +1,77 @@
+[
+  {
+    "question": "In a prosecution for theft of movable property taken dishonestly without consent, what rule governs whether the court must presume the existence of certain facts such as the accused's possession of recently stolen goods, and how does that interact with the definition of the offence itself?",
+    "referenced_sections": ["bns_section_303", "bsa_section_119"],
+    "answer": "Theft is defined as dishonestly taking movable property out of another's possession without consent by moving it. The court may presume the existence of certain facts (including that a person in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen) unless the contrary is proved."
+  },
+  {
+    "question": "When a person is charged with rape, what statutory presumption arises regarding the absence of consent, and how does the definition of the offence itself describe the act that triggers liability?",
+    "referenced_sections": ["bns_section_63", "bsa_section_120"],
+    "answer": "Rape is defined as sexual intercourse by a man with a woman under specified circumstances without her consent or against her will. In a prosecution for rape, the court shall presume that the woman did not consent if she states in her evidence before the court that she did not consent."
+  },
+  {
+    "question": "For an offence of culpable homicide amounting to murder, what is the burden of proof when the accused claims an exception such as private defence, and how is murder itself defined in relation to culpable homicide?",
+    "referenced_sections": ["bns_section_101", "bsa_section_108"],
+    "answer": "Murder is culpable homicide committed with intention to cause death or with knowledge that the act is imminently dangerous and likely to cause death, subject to exceptions. When the accused claims that his case falls within any of the general exceptions or any special exception or proviso, the burden of proving the existence of circumstances bringing the case within the exception lies upon him."
+  },
+  {
+    "question": "In a case involving the offence of giving false evidence, what is the rule regarding the burden of proving a fact that is especially within the knowledge of a person, and how does that interact with the definition of the offence of intentionally giving false evidence?",
+    "referenced_sections": ["bns_section_227", "bsa_section_109"],
+    "answer": "Giving false evidence consists of intentionally making a false statement under oath or affirmation in a judicial proceeding. When any fact is especially within the knowledge of any person, the burden of proving that fact is upon him."
+  },
+  {
+    "question": "Where a person is prosecuted for the offence of criminal conspiracy, what evidential rule allows things said or done by a conspirator in reference to the common design to be relevant against co-conspirators, and how is the offence of criminal conspiracy defined?",
+    "referenced_sections": ["bns_section_61", "bsa_section_8"],
+    "answer": "Criminal conspiracy is an agreement between two or more persons to do an illegal act or an act by illegal means. Things said, done or written by any one of the conspirators in reference to their common intention after the time when such intention was first entertained by any one of them are relevant as against each of the persons believed to be so conspiring."
+  },
+  {
+    "question": "In a prosecution for the offence of dowry death, what statutory presumption arises regarding the cause of death, and how is the offence itself defined in terms of the time period and circumstances of the woman's death?",
+    "referenced_sections": ["bns_section_80", "bsa_section_118"],
+    "answer": "Dowry death is the death of a woman caused by burns, bodily injury or occurring otherwise than under normal circumstances within seven years of marriage, where it is shown that she was subjected to cruelty or harassment by her husband or any relative of her husband for or in connection with any demand for dowry. The court shall presume that such death was caused by the husband or relative if the conditions are met."
+  },
+  {
+    "question": "When a person is charged with the offence of promoting enmity between different groups on grounds of religion, race or place of birth, what rule of evidence makes statements as to any law contained in law books relevant, and how does the offence definition require the act to be prejudicial to maintenance of harmony?",
+    "referenced_sections": ["bns_section_196", "bsa_section_32"],
+    "answer": "The offence consists of promoting enmity between different groups on grounds of religion, race, place of birth, residence, language etc., and doing acts prejudicial to the maintenance of harmony. Statements as to any law contained in law books (including those in electronic or digital form) are relevant when the Court has to form an opinion as to a point of foreign law or of science or art."
+  },
+  {
+    "question": "In a trial for the offence of voluntarily causing grievous hurt by use of acid, what is the rule regarding the number of witnesses required to prove a fact, and how is the offence defined in terms of the injury caused?",
+    "referenced_sections": ["bns_section_124", "bsa_section_139"],
+    "answer": "The offence is voluntarily causing grievous hurt by throwing acid or using any other means with the intention of causing or with the knowledge that it is likely to cause such hurt. No particular number of witnesses is required for the proof of any fact; the court may act on the testimony of a single witness if it is found to be wholly reliable."
+  },
+  {
+    "question": "For the offence of fabricating false evidence, what evidential provision allows the court to take judicial notice of certain facts without formal proof, and how is the offence defined as making a false entry or statement intending it to appear in a judicial proceeding?",
+    "referenced_sections": ["bns_section_228", "bsa_section_52"],
+    "answer": "Fabricating false evidence is causing any circumstance to exist or making any false entry in any book or record or electronic record or making any document containing a false statement intending that such circumstance, entry or statement may appear in evidence in a judicial proceeding. The court shall take judicial notice of facts such as the existence of laws, the course of proceedings of Parliament, and the seals of courts."
+  },
+  {
+    "question": "In a case of the offence of criminal intimidation, what rule governs the production of documents by a witness who is not a party, and how is the offence defined as threatening another with injury to person, reputation or property?",
+    "referenced_sections": ["bns_section_351", "bsa_section_135"],
+    "answer": "Criminal intimidation is intentionally threatening another with injury to his person, reputation or property, or to the person or reputation of anyone in whom that person is interested, with intent to cause alarm. A witness who is not a party to the suit cannot be compelled to produce his title-deeds to any property or any document which might tend to criminate him."
+  },
+  {
+    "question": "When prosecuting the offence of abetment of suicide of a child or person of unsound mind, what presumption arises regarding the abetment of suicide by a married woman in certain circumstances, and how is the offence defined in terms of the victim's status?",
+    "referenced_sections": ["bns_section_107", "bsa_section_117"],
+    "answer": "Abetment of suicide of a child or person of unsound mind is punishable when a person abets the commission of suicide by a person under eighteen years of age or by a person of unsound mind. Where a married woman commits suicide within seven years of marriage and it is shown that her husband or relative subjected her to cruelty, the court may presume that such suicide had been abetted by her husband or relative."
+  },
+  {
+    "question": "In a prosecution for the offence of dishonestly making a false claim in court, what is the rule regarding the relevancy of judgments other than those that bar a second suit or trial, and how is the offence defined as causing a decree to be passed for a sum not due?",
+    "referenced_sections": ["bns_section_246", "bsa_section_37"],
+    "answer": "The offence is dishonestly making a false claim in a court of justice with intent to injure or annoy any person. Judgments, orders or decrees other than those mentioned in the sections dealing with judgments that bar a second suit or trial, or those in probate, matrimonial, admiralty or insolvency jurisdiction, are relevant if they relate to matters of a public nature relevant to the inquiry."
+  },
+  {
+    "question": "For the offence of rash driving or riding on a public way, what evidential rule makes facts showing the existence of a state of mind or body relevant, and how is the offence defined as driving in a manner so rash or negligent as to endanger human life?",
+    "referenced_sections": ["bns_section_281", "bsa_section_12"],
+    "answer": "The offence is driving or riding on a public way so rashly or negligently as to endanger human life or to be likely to cause hurt or injury to any other person. Facts showing the existence of any state of mind (such as intention, knowledge, good faith, negligence) or of body or bodily feeling are relevant when the existence of any such state of mind or body is in issue or relevant."
+  },
+  {
+    "question": "In a trial concerning the offence of house-trespass after preparation for hurt, assault or wrongful restraint, what is the rule for secondary evidence of documents, and how is the offence defined as entering or remaining in a building after preparing to cause hurt?",
+    "referenced_sections": ["bns_section_333", "bsa_section_58"],
+    "answer": "House-trespass after preparation for hurt is committed when a person commits house-trespass having made preparation for causing hurt to any person or for assaulting any person or for wrongfully restraining any person. Secondary evidence means and includes certified copies, copies made from the original by mechanical processes, counterparts of documents, and oral accounts of the contents of a document given by some person who has seen it."
+  },
+  {
+    "question": "When a person is charged with the offence of causing disappearance of evidence of an offence or giving false information to screen an offender, what rule governs the admissibility of electronic records, and how is the offence defined as causing any evidence of the commission of an offence to disappear?",
+    "referenced_sections": ["bns_section_238", "bsa_section_63"],
+    "answer": "The offence is causing any evidence of the commission of an offence to disappear with the intention of screening the offender from legal punishment, or giving false information respecting the offence. Any information contained in an electronic record which is printed on paper, stored, recorded or copied in optical or magnetic media produced by a computer is deemed to be a document and is admissible in evidence without further proof or production of the original."
+  }
+]

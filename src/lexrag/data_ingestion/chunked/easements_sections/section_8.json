@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_8_chunk_0",
+    "section_id": "easements_section_8",
+    "token_count": 289,
+    "text": "[Act: easements\n Chapter: The Imposition, Acquisition and Transfer of Easements\n Section: 8::Who may impose easements.\n]\n\n\nAn easement may be imposed by any one in the circumstances, and to the extent, in and to which he may transfer his interest in the heritage on which the liability is to be imposed.\nIllustrations\n(a) A is tenant of B’s land under a lease for an unexpired term of twenty years, and has power to transfer his interest under the lease. A may impose an easement on the land to continue during the time that the lease exists or for any shorter period.\n(b) A is tenant for his life of certain land with remainder to B absolutely. A cannot, unless with B’s consent, impose an easement thereon which will continue after the determination of his life-interest.\n(c) A, B and C are co-owners of certain land. A cannot, without the consent of B and C, impose an easement on the land or on any part thereof.\n(d) A and B are lessees of the same lessor, A of a field X for a term of five years, and B of a field Y for a term of ten years. A’s interest under his lease is transferable; B’s is not. A may impose on X, in favour of B, a right of way terminable with A’s lease.",
+    "metadata": {
+      "chunk_id": "easements_section_8_chunk_0",
+      "section_id": "easements_section_8",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "The Imposition, Acquisition and Transfer of Easements",
+      "section_number": "8",
+      "section_title": "Who may impose easements."
+    }
+  }
+]

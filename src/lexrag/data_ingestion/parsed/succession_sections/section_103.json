@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-13.html",
+    "source_order": 13,
+    "article_order": 30,
+    "order": 103,
+    "stem": "section_103",
+    "heading_number": "Part VI · Chapter VI",
+    "heading_title": "Of the construction of Wills",
+    "heading_range": "ss. 74–111",
+    "heading_source": "group-head",
+    "article_number": "103",
+    "article_title": "Property to which residuary legatee entitled.",
+    "id": "succession_section_103"
+  },
+  "id": "succession_section_103",
+  "heading": {
+    "number": "Part VI · Chapter VI",
+    "title": "Of the construction of Wills",
+    "range": "ss. 74–111"
+  },
+  "article": {
+    "number": "103",
+    "title": "Property to which residuary legatee entitled.",
+    "content": "Under a residuary bequest, the legatee is entitled to all property belonging to the testator at the time of his death, of which he has not made any other testamentary disposition which is capable of taking effect.\nIllustration\nA by his will bequeaths certain legacies, of which one is void under section 118, and another lapses by the death of the legatee. He bequeaths the residue of his property to B. After the date of his will A purchases a zamindari, which belongs to him at the time of his death. B is entitled to the two legacies and the zamindari as part of the residue.\n",
+    "html": "<article class=\"provision\" data-n=\"103\" data-report=\"Section 103 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">103</span>Property to which residuary legatee entitled.</h3></div><p class=\"prov-cite\">Section 103  ·  Part VI · Chapter VI  ·  page 39 of the Act</p><div class=\"prov-body\"><p>Under a residuary bequest, the legatee is entitled to all property belonging to the testator at the time of his death, of which he has not made any other testamentary disposition which is capable of taking effect.</p><p>Illustration</p><p>A by his will bequeaths certain legacies, of which one is void under section 118, and another lapses by the death of the legatee. He bequeaths the residue of his property to B. After the date of his will A purchases a zamindari, which belongs to him at the time of his death. B is entitled to the two legacies and the zamindari as part of the residue.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">103</span>Property to which residuary legatee entitled.</h3></div><p class=\"prov-cite\">Section 103  ·  Part VI · Chapter VI  ·  page 39 of the Act</p><div class=\"prov-body\"><p>Under a residuary bequest, the legatee is entitled to all property belonging to the testator at the time of his death, of which he has not made any other testamentary disposition which is capable of taking effect.</p><p>Illustration</p><p>A by his will bequeaths certain legacies, of which one is void under section 118, and another lapses by the death of the legatee. He bequeaths the residue of his property to B. After the date of his will A purchases a zamindari, which belongs to him at the time of his death. B is entitled to the two legacies and the zamindari as part of the residue.</p></div>"
+  }
+}

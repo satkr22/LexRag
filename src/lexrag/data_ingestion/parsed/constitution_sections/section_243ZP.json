@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-12.html",
+    "source_order": 12,
+    "article_order": 9,
+    "order": 312,
+    "stem": "section_243ZP",
+    "heading_number": "Part IXB",
+    "heading_title": "The Co-operative Societies",
+    "heading_range": "243ZH – 243ZT",
+    "heading_source": "group-head",
+    "article_number": "243ZP",
+    "article_title": "Returns",
+    "id": "constitution_section_243ZP"
+  },
+  "id": "constitution_section_243ZP",
+  "heading": {
+    "number": "Part IXB",
+    "title": "The Co-operative Societies",
+    "range": "243ZH – 243ZT"
+  },
+  "article": {
+    "number": "243ZP",
+    "title": "Returns",
+    "content": "Every co-operative society shall file returns, within six months of the close of every financial year, to the authority designated by the State Government including the following matters, namely:—\n(a)annual report of its activities;\n(b)its audited statement of accounts;\n(c)plan for surplus disposal as approved by the general body of the co-operative society;\n(d)list of amendments to the bye-laws of the co-operative society, if any;\n(e)declaration regarding date of holding of its general body meeting and conduct of elections when due; and\n(f)any other information required by the Registrar in pursuance of any of the provisions of the State Act.\n",
+    "html": "<article class=\"provision\" data-n=\"243ZP\" data-report=\"Article 243ZP · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243ZP</span>Returns</h3></div><p class=\"prov-cite\">Article 243ZP · Part IXB</p><div class=\"prov-body\"><p>Every co-operative society shall file returns, within six months of the close of every financial year, to the authority designated by the State Government including the following matters, namely:—</p><p><span class=\"lbl\">(a)</span>annual report of its activities;</p><p><span class=\"lbl\">(b)</span>its audited statement of accounts;</p><p><span class=\"lbl\">(c)</span>plan for surplus disposal as approved by the general body of the co-operative society;</p><p><span class=\"lbl\">(d)</span>list of amendments to the bye-laws of the co-operative society, if any;</p><p><span class=\"lbl\">(e)</span>declaration regarding date of holding of its general body meeting and conduct of elections when due; and</p><p><span class=\"lbl\">(f)</span>any other information required by the Registrar in pursuance of any of the provisions of the State Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243ZP</span>Returns</h3></div><p class=\"prov-cite\">Article 243ZP · Part IXB</p><div class=\"prov-body\"><p>Every co-operative society shall file returns, within six months of the close of every financial year, to the authority designated by the State Government including the following matters, namely:—</p><p><span class=\"lbl\">(a)</span>annual report of its activities;</p><p><span class=\"lbl\">(b)</span>its audited statement of accounts;</p><p><span class=\"lbl\">(c)</span>plan for surplus disposal as approved by the general body of the co-operative society;</p><p><span class=\"lbl\">(d)</span>list of amendments to the bye-laws of the co-operative society, if any;</p><p><span class=\"lbl\">(e)</span>declaration regarding date of holding of its general body meeting and conduct of elections when due; and</p><p><span class=\"lbl\">(f)</span>any other information required by the Registrar in pursuance of any of the provisions of the State Act.</p></div>"
+  }
+}

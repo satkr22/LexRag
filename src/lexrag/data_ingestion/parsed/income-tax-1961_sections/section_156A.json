@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-33.html",
+    "source_order": 37,
+    "article_order": 43,
+    "order": 501,
+    "stem": "section_156A",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Procedure for Assessment",
+    "heading_range": "ss. 139–158",
+    "heading_source": "group-head",
+    "article_number": "156A",
+    "article_title": "Modification and revision of notice in certain cases.",
+    "id": "income-tax-1961_section_156A"
+  },
+  "id": "income-tax-1961_section_156A",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Procedure for Assessment",
+    "range": "ss. 139–158"
+  },
+  "article": {
+    "number": "156A",
+    "title": "Modification and revision of notice in certain cases.",
+    "content": "(1) Where any tax, interest, penalty, fine or any other sum in respect of which a notice of demand has been issued under section 156, is reduced as a result of an order of the Adjudicating Authority as defined in clause (1) of section 5 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Assessing Officer shall modify the demand payable in conformity with such order and shall thereafter serve on the assessee a notice of demand specifying the sum payable, if any, and such notice of demand shall be deemed to be a notice under section 156 and the provisions of this Act shall accordingly, apply in relation to such notice.\n(2) Where the order referred to in sub-section (1) is modified by the National Company Law Appellate Tribunal or the Supreme Court, as the case may be, the modified notice of demand as referred to in sub-section (1), issued by the Assessing Officer shall be revised accordingly.\n",
+    "html": "<article class=\"provision\" data-n=\"156A\" data-report=\"Section 156A · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">156A</span>Modification and revision of notice in certain cases.</h3></div><p class=\"prov-cite\">Section 156A  ·  Chapter XIV  ·  D.—Disclosure of information  ·  page 648 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where any tax, interest, penalty, fine or any other sum in respect of which a notice of demand has been issued under section 156, is reduced as a result of an order of the Adjudicating Authority as defined in clause (1) of section 5 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Assessing Officer shall modify the demand payable in conformity with such order and shall thereafter serve on the assessee a notice of demand specifying the sum payable, if any, and such notice of demand shall be deemed to be a notice under section 156 and the provisions of this Act shall accordingly, apply in relation to such notice.</p><p class=\"lvl\">(2) Where the order referred to in sub-section (1) is modified by the National Company Law Appellate Tribunal or the Supreme Court, as the case may be, the modified notice of demand as referred to in sub-section (1), issued by the Assessing Officer shall be revised accordingly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">156A</span>Modification and revision of notice in certain cases.</h3></div><p class=\"prov-cite\">Section 156A  ·  Chapter XIV  ·  D.—Disclosure of information  ·  page 648 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where any tax, interest, penalty, fine or any other sum in respect of which a notice of demand has been issued under section 156, is reduced as a result of an order of the Adjudicating Authority as defined in clause (1) of section 5 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Assessing Officer shall modify the demand payable in conformity with such order and shall thereafter serve on the assessee a notice of demand specifying the sum payable, if any, and such notice of demand shall be deemed to be a notice under section 156 and the provisions of this Act shall accordingly, apply in relation to such notice.</p><p class=\"lvl\">(2) Where the order referred to in sub-section (1) is modified by the National Company Law Appellate Tribunal or the Supreme Court, as the case may be, the modified notice of demand as referred to in sub-section (1), issued by the Assessing Officer shall be revised accordingly.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_196D_chunk_0",
+    "section_id": "income-tax-1961_section_196D",
+    "token_count": 439,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 196D::Income of Foreign Institutional Investors from securities.\n]\n\n\n(1) Where any income in respect of securities referred to in clause (a) of sub-section (1) of section 115AD, not being income by way of interest referred to in section 194LD, is payable to a Foreign Institutional Investor, the person responsible for making the payment shall, at the time of credit of such income to the account of the payee or at the time of payment thereof by any mode, whichever is earlier, deduct income-tax thereon at the rate of twenty per cent:\nProvided that where an agreement referred to in sub-section (1) of section 90 or sub-section (1) of section 90A applies to the payee and if the payee has furnished a certificate referred to in sub-section (4) of section 90 or sub-section (4) of section 90A, as the case may be, then, income-tax thereon shall be deducted at the rate of twenty per cent or at the rate or rates of income-tax provided in such agreement for such income, whichever is lower.\n(1A) Where any income in respect of securities referred to in clause (a) of sub-section (1) of section 115AD, not being income by way of interest referred to in section 194LD, is payable to a specified fund [referred to in clause (c) of the Explanation to clause (4D) of section 10], the person responsible for making the payment shall, at the time of credit of such income to the account of the payee, or at the time of payment thereof by any mode, whichever is earlier, deduct the income-tax thereon at the rate of ten per cent:\nProvided that no deduction shall be made in respect of an income exempt under clause (4D) of section 10.\n(2) No deduction of tax shall be made from any income, by way of capital gains arising from the transfer of securities referred to in section 115AD, payable to a Foreign Institutional Investor.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_196D_chunk_0",
+      "section_id": "income-tax-1961_section_196D",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "196D",
+      "section_title": "Income of Foreign Institutional Investors from securities."
+    }
+  }
+]

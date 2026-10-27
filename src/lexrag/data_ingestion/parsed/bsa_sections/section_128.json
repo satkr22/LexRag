@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-128.html",
+    "source_order": 128,
+    "article_order": 1,
+    "order": 128,
+    "stem": "section_128",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Witnesses",
+    "heading_range": "124 – 139",
+    "heading_source": "manifest",
+    "article_number": "128",
+    "article_title": "Communications during marriage",
+    "id": "bsa_section_128"
+  },
+  "id": "bsa_section_128",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Witnesses",
+    "range": "124 – 139"
+  },
+  "article": {
+    "number": "128",
+    "title": "Communications during marriage",
+    "content": "No person who is or has been married, shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married; nor shall he be permitted to disclose any such communication, unless the person who made it, or his representative in interest, consents, except in suits between married persons, or proceedings in which one married person is prosecuted for any crime committed against the other.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">128</span>Communications during marriage</h3></div><p class=\"prov-cite\">Section 128 · Part IV · Chapter IX</p><div class=\"prov-body\"><p>No person who is or has been married, shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married; nor shall he be permitted to disclose any such communication, unless the person who made it, or his representative in interest, consents, except in suits between married persons, or proceedings in which one married person is prosecuted for any crime committed against the other.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">128</span>Communications during marriage</h3></div><p class=\"prov-cite\">Section 128 · Part IV · Chapter IX</p><div class=\"prov-body\"><p>No person who is or has been married, shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married; nor shall he be permitted to disclose any such communication, unless the person who made it, or his representative in interest, consents, except in suits between married persons, or proceedings in which one married person is prosecuted for any crime committed against the other.</p></div>"
+  }
+}

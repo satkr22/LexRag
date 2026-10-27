@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_105_chunk_0",
+    "section_id": "income-tax-1961_section_105",
+    "token_count": 32,
+    "text": "[Act: income-tax-1961\n Chapter: Additional Income-tax on Undistributed Profits\n Section: 105::Special provisions for certain companies.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_105_chunk_0",
+      "section_id": "income-tax-1961_section_105",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Additional Income-tax on Undistributed Profits",
+      "section_number": "105",
+      "section_title": "Special provisions for certain companies."
+    }
+  }
+]

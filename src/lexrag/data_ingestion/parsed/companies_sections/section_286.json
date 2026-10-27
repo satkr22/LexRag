@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 17,
+    "order": 290,
+    "stem": "section_286",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "286",
+    "article_title": "Obligations of directors and managers.",
+    "id": "companies_section_286"
+  },
+  "id": "companies_section_286",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "286",
+    "title": "Obligations of directors and managers.",
+    "content": "In the case of a limited company, any person who is or has been a director or manager, whose liability is unlimited under the provisions of this Act, shall, in addition to his liability, if any, to contribute as an ordinary member, be liable to make a further contribution as if he were at the commencement of winding up, a member of an unlimited company:\nProvided that —\n(a) a person who has been a director or manager shall not be liable to make such further contribution, if he has ceased to hold office for a year or upwards before the commencement of the winding up;\n(b) a person who has been a director or manager shall not be liable to make such further contribution in respect of any debt or liability of the company contracted after he ceased to hold office;\n(c) subject to the articles of the company, a director or manager shall not be liable to make such further contribution unless the Tribunal deems it necessary to require the contribution in order to satisfy the debts and liabilities of the company, and the costs, charges and expenses of the winding up.\n",
+    "html": "<article class=\"provision\" data-n=\"286\" data-report=\"Section 286 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">286</span>Obligations of directors and managers.</h3></div><p class=\"prov-cite\">Section 286  ·  Chapter XX  ·  Part I  ·  page 176 of the Act</p><div class=\"prov-body\"><p>In the case of a limited company, any person who is or has been a director or manager, whose liability is unlimited under the provisions of this Act, shall, in addition to his liability, if any, to contribute as an ordinary member, be liable to make a further contribution as if he were at the commencement of winding up, a member of an unlimited company:</p><p class=\"prvso\">Provided that —</p><p class=\"lvl\">(a) a person who has been a director or manager shall not be liable to make such further contribution, if he has ceased to hold office for a year or upwards before the commencement of the winding up;</p><p class=\"lvl\">(b) a person who has been a director or manager shall not be liable to make such further contribution in respect of any debt or liability of the company contracted after he ceased to hold office;</p><p class=\"lvl\">(c) subject to the articles of the company, a director or manager shall not be liable to make such further contribution unless the Tribunal deems it necessary to require the contribution in order to satisfy the debts and liabilities of the company, and the costs, charges and expenses of the winding up.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">286</span>Obligations of directors and managers.</h3></div><p class=\"prov-cite\">Section 286  ·  Chapter XX  ·  Part I  ·  page 176 of the Act</p><div class=\"prov-body\"><p>In the case of a limited company, any person who is or has been a director or manager, whose liability is unlimited under the provisions of this Act, shall, in addition to his liability, if any, to contribute as an ordinary member, be liable to make a further contribution as if he were at the commencement of winding up, a member of an unlimited company:</p><p class=\"prvso\">Provided that —</p><p class=\"lvl\">(a) a person who has been a director or manager shall not be liable to make such further contribution, if he has ceased to hold office for a year or upwards before the commencement of the winding up;</p><p class=\"lvl\">(b) a person who has been a director or manager shall not be liable to make such further contribution in respect of any debt or liability of the company contracted after he ceased to hold office;</p><p class=\"lvl\">(c) subject to the articles of the company, a director or manager shall not be liable to make such further contribution unless the Tribunal deems it necessary to require the contribution in order to satisfy the debts and liabilities of the company, and the costs, charges and expenses of the winding up.</p></div>"
+  }
+}

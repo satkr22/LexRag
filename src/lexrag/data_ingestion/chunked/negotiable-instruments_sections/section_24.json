@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_24_chunk_0",
+    "section_id": "negotiable-instruments_section_24",
+    "token_count": 111,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Notes, Billsand Cheques\n Section: 24::Calculating maturity of bill or note payable so many days after date or sight.\n]\n\n\nIn calculating the date at which a promissory note or bill of exchange made payable a certain number of days after date or after sight or after a certain event is at maturity, the day of the date, or of presentment for acceptance or sight, or of protest for non-acceptance, or on which the event happens, shall be excluded.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_24_chunk_0",
+      "section_id": "negotiable-instruments_section_24",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Notes, Billsand Cheques",
+      "section_number": "24",
+      "section_title": "Calculating maturity of bill or note payable so many days after date or sight."
+    }
+  }
+]

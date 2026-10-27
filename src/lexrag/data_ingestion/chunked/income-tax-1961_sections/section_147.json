@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_147_chunk_0",
+    "section_id": "income-tax-1961_section_147",
+    "token_count": 189,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 147::Income escaping assessment.\n]\n\n\nIf any income chargeable to tax, in the case of an assessee, has escaped assessment for any assessment year, the Assessing Officer may, subject to the provisions of sections 148 to 153, assess or reassess such income or recompute the loss or the depreciation allowance or any other allowance or deduction for such assessment year (hereafter in this section and in sections 148 to 153 referred to as the relevant assessment year).\nExplanation.—For the purposes of assessment or reassessment or recomputation under this section, the Assessing Officer may assess or reassess the income in respect of any issue, which has escaped assessment, and such issue comes to his notice subsequently in the course of the proceedings under this section, irrespective of the fact that the provisions of section 148A have not been complied with.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_147_chunk_0",
+      "section_id": "income-tax-1961_section_147",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "147",
+      "section_title": "Income escaping assessment."
+    }
+  }
+]

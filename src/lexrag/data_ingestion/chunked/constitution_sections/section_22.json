@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "constitution_section_22_chunk_0",
+    "section_id": "constitution_section_22",
+    "token_count": 465,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 22::Protection against arrest and detention in certain cases\n]\n\n\n(1) No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice.\n\n(2) Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate.\n\n(3) Nothing in clauses (1) and (2) shall apply—\n  (a) to any person who for the time being is an enemy alien; or\n  (b) to any person who is arrested or detained under any law providing for preventive detention.\n\n(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless—\n  (a) an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention:\n    Proviso Provided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7); or\n  (b) such person is detained in accordance with the provisions of any law made by Parliament under sub-clauses (a) and (b) of clause (7).\n\n(5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order.\n\n(6) Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose.",
+    "metadata": {
+      "chunk_id": "constitution_section_22_chunk_0",
+      "section_id": "constitution_section_22",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "22",
+      "section_title": "Protection against arrest and detention in certain cases"
+    }
+  },
+  {
+    "chunk_id": "constitution_section_22_chunk_1",
+    "section_id": "constitution_section_22",
+    "token_count": 197,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 22::Protection against arrest and detention in certain cases\n]\n\n\n(6) Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose.\n\n(7) Parliament may by law prescribe—\n  (a) the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4);\n  (b) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and\n  (c) the procedure to be followed by an Advisory Board in an inquiry under sub-clause (a) of clause (4).",
+    "metadata": {
+      "chunk_id": "constitution_section_22_chunk_1",
+      "section_id": "constitution_section_22",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "22",
+      "section_title": "Protection against arrest and detention in certain cases"
+    }
+  }
+]

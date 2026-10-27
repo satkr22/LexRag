@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-35.html",
+    "source_order": 35,
+    "article_order": 1,
+    "order": 449,
+    "stem": "section_O19R1",
+    "heading_number": "Order XIX",
+    "heading_title": "Affidavits",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O19R1",
+    "article_title": "Power to order any point to be proved by affidavit.",
+    "id": "cpc_section_O19R1"
+  },
+  "id": "cpc_section_O19R1",
+  "heading": {
+    "number": "Order XIX",
+    "title": "Affidavits",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O19R1",
+    "title": "Power to order any point to be proved by affidavit.",
+    "content": "Any Court may at any time for sufficient reason order that any particular fact or facts may be proved by affidavit, or that the affidavit of any witness may be read at the hearing, on such conditions as the Court thinks reasonable:\nProvided that where it appears to the Court that either party bona fide desires the production of a witness for cross-examination, and that such witness can be produced, an order shall not be made authorising the evidence of such witness to be given by affidavit.\n",
+    "html": "<article class=\"provision\" data-n=\"O19R1\" data-report=\"Order 19, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Power to order any point to be proved by affidavit.</h3></div><p class=\"prov-cite\">Order 19, Rule 1</p><div class=\"prov-body\"><p>Any Court may at any time for sufficient reason order that any particular fact or facts may be proved by affidavit, or that the affidavit of any witness may be read at the hearing, on such conditions as the Court thinks reasonable:</p><p class=\"prvso\">Provided that where it appears to the Court that either party bona fide desires the production of a witness for cross-examination, and that such witness can be produced, an order shall not be made authorising the evidence of such witness to be given by affidavit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Power to order any point to be proved by affidavit.</h3></div><p class=\"prov-cite\">Order 19, Rule 1</p><div class=\"prov-body\"><p>Any Court may at any time for sufficient reason order that any particular fact or facts may be proved by affidavit, or that the affidavit of any witness may be read at the hearing, on such conditions as the Court thinks reasonable:</p><p class=\"prvso\">Provided that where it appears to the Court that either party bona fide desires the production of a witness for cross-examination, and that such witness can be produced, an order shall not be made authorising the evidence of such witness to be given by affidavit.</p></div>"
+  }
+}

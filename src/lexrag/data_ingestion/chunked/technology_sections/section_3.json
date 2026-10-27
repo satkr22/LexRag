@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_3_chunk_0",
+    "section_id": "technology_section_3",
+    "token_count": 234,
+    "text": "[Act: technology\n Chapter: Digital Signature and Electronic Signature2\n Section: 3::Authentication of electronic records.\n]\n\n\n(1) Subject to the provisions of this section any subscriber may authenticate an electronic record by affixing his digital signature.\n(2) The authentication of the electronic record shall be effected by the use of asymmetric crypto system and hash function which envelop and transform the initial electronic record into another electronic record.\nExplanation.–For the purposes of this sub-section, “hash function” means an algorithm mapping or translation of one sequence of bits into another, generally smaller, set known as “hash result” such that an electronic record yields the same hash result every time the algorithm is executed with the same electronic record as its input making it computationally infeasible–\n(a) to derive or reconstruct the original electronic record from the hash result produced by the algorithm;\n(b) that two electronic records can produce the same hash result using the algorithm.\n(3) Any person by the use of a public key of the subscriber can verify the electronic record.\n(4) The private key and the public key are unique to the subscriber and constitute a functioning key pair.",
+    "metadata": {
+      "chunk_id": "technology_section_3_chunk_0",
+      "section_id": "technology_section_3",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Digital Signature and Electronic Signature2",
+      "section_number": "3",
+      "section_title": "Authentication of electronic records."
+    }
+  }
+]

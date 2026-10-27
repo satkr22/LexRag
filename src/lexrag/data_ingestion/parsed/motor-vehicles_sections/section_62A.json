@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-04.html",
+    "source_order": 4,
+    "article_order": 25,
+    "order": 66,
+    "stem": "section_62A",
+    "heading_number": "Chapter IV",
+    "heading_title": "Registration of Motor Vehicles",
+    "heading_range": "ss. 39–65",
+    "heading_source": "group-head",
+    "article_number": "62A",
+    "article_title": "Prohibition of registration and issuance of certificate of fitness to oversized vehicles.",
+    "id": "motor-vehicles_section_62A"
+  },
+  "id": "motor-vehicles_section_62A",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Registration of Motor Vehicles",
+    "range": "ss. 39–65"
+  },
+  "article": {
+    "number": "62A",
+    "title": "Prohibition of registration and issuance of certificate of fitness to oversized vehicles.",
+    "content": "(1) No registering authority shall register any motor vehicle that contravenes any rule made under clause (a) of sub-section (1) of section 110.\n(2) No prescribed authority or authorised testing station shall issue a certificate of fitness under section 56 to any motor vehicle that contravenes any rule made under section 110.\n",
+    "html": "<article class=\"provision\" data-n=\"62A\" data-report=\"Section 62A · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">62A</span><sup>1</sup>[Prohibition of registration and issuance of certificate of fitness to oversized vehicles.</h3></div><p class=\"prov-cite\">Section 62A  ·  Chapter IV  ·  page 43 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No registering authority shall register any motor vehicle that contravenes any rule made under clause (a) of sub-section (1) of section 110.</p><p class=\"lvl\">(2) No prescribed authority or authorised testing station shall issue a certificate of fitness under section 56 to any motor vehicle that contravenes any rule made under section 110.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 32 of 2019, s. 25 (w.e.f. 1-4-2021).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">62A</span><sup>1</sup>[Prohibition of registration and issuance of certificate of fitness to oversized vehicles.</h3></div><p class=\"prov-cite\">Section 62A  ·  Chapter IV  ·  page 43 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No registering authority shall register any motor vehicle that contravenes any rule made under clause (a) of sub-section (1) of section 110.</p><p class=\"lvl\">(2) No prescribed authority or authorised testing station shall issue a certificate of fitness under section 56 to any motor vehicle that contravenes any rule made under section 110.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 32 of 2019, s. 25 (w.e.f. 1-4-2021).</p></div></div>"
+  }
+}

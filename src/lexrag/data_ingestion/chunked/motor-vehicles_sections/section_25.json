@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_25_chunk_0",
+    "section_id": "motor-vehicles_section_25",
+    "token_count": 406,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 25::Transfer of endorsement and issue of driving licence free from endorsement.\n]\n\n\n(1) An endorsement on any driving licence shall be transferred to any new or duplicate driving licence obtained by the holder thereof until the holder becomes entitled under the provisions of this section to have a driving licence issued to him free from endorsement.\n(2) Where a driving licence is required to be endorsed and the driving licence is not in the possession of the Court or authority by which the endorsement is to be made, then—\n(a) if the person in respect of whom the endorsement is to be made is at the time the holder of a driving licence, he shall produce the driving licence to the Court or authority within five days, or such longer time as the Court or authority may fix; or\n(b) if, not being then the holder of a driving licence, he subsequently obtains a driving licence, he shall within five days after obtaining the driving licence produce it to the Court or authority, and if the driving licence is not produced within the time specified, it shall, on the expiration of such time, be of no effect until it is produced for the purpose of endorsement.\n(3) A person whose driving licence has been endorsed shall, if during a continuous period of three years after such endorsement no further endorsement has been made against him, be entitled on surrendering his driving licence and on payment of a fee of five rupees, to receive a new driving licence free from all endorsements:\nProvided that if the endorsement is only in respect of an offence contravening the speed limits referred to in section 112, such person shall be entitled to receive a new driving licence free from such endorsements on the expiration of one year of the date of the endorsement:\nProvided further that in reckoning the said period of three years and one year, respectively, any period during which the said person was disqualified for holding or obtaining a driving licence shall be excluded.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_25_chunk_0",
+      "section_id": "motor-vehicles_section_25",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "25",
+      "section_title": "Transfer of endorsement and issue of driving licence free from endorsement."
+    }
+  }
+]

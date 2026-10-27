@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-44.html",
+    "source_order": 44,
+    "article_order": 10,
+    "order": 662,
+    "stem": "section_O27R8",
+    "heading_number": "Order XXVII",
+    "heading_title": "Suits by or against the government or public officers in their official capacity",
+    "heading_range": "12 rules",
+    "heading_source": "group-head",
+    "article_number": "O27R8",
+    "article_title": "Procedure in suits against public officer.",
+    "id": "cpc_section_O27R8"
+  },
+  "id": "cpc_section_O27R8",
+  "heading": {
+    "number": "Order XXVII",
+    "title": "Suits by or against the government or public officers in their official capacity",
+    "range": "12 rules"
+  },
+  "article": {
+    "number": "O27R8",
+    "title": "Procedure in suits against public officer.",
+    "content": "(1) Where the Government undertakes the defence of a suit against a public officer, the 1[Government pleader] upon being furnished with authority to appear and answer the plaint, shall apply to the court, and upon such application the Court shall cause a note of his authority to be entered in the register of civil suits.\n(2) Where no application under sub-rule (1) is made by the 1[Government pleader] on or before the day fixed in the notice for the defendant to appear and answer, the case shall proceed as in a suit between private parties:\nProvided that the defendant shall not be liable to arrest, nor his property to attachment, otherwise than in execution of a decree.\n",
+    "html": "<article class=\"provision\" data-n=\"O27R8\" data-report=\"Order 27, Rule 8 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Procedure in suits against public officer.</h3></div><p class=\"prov-cite\">Order 27, Rule 8</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the Government undertakes the defence of a suit against a public officer, the <sup>1</sup>[Government pleader] upon being furnished with authority to appear and answer the plaint, shall apply to the court, and upon such application the Court shall cause a note of his authority to be entered in the register of civil suits.</p><p class=\"lvl\">(2) Where no application under sub-rule (1) is made by the <sup>1</sup>[Government pleader] on or before the day fixed in the notice for the defendant to appear and answer, the case shall proceed as in a suit between private parties:</p><p class=\"prvso\">Provided that the defendant shall not be liable to arrest, nor his property to attachment, otherwise than in execution of a decree.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the A.O. 1950, for “Crown pleader” which had been subs. by the A. O. 1937, for “Government pleader”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Procedure in suits against public officer.</h3></div><p class=\"prov-cite\">Order 27, Rule 8</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the Government undertakes the defence of a suit against a public officer, the <sup>1</sup>[Government pleader] upon being furnished with authority to appear and answer the plaint, shall apply to the court, and upon such application the Court shall cause a note of his authority to be entered in the register of civil suits.</p><p class=\"lvl\">(2) Where no application under sub-rule (1) is made by the <sup>1</sup>[Government pleader] on or before the day fixed in the notice for the defendant to appear and answer, the case shall proceed as in a suit between private parties:</p><p class=\"prvso\">Provided that the defendant shall not be liable to arrest, nor his property to attachment, otherwise than in execution of a decree.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the A.O. 1950, for “Crown pleader” which had been subs. by the A. O. 1937, for “Government pleader”.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-50.html",
+    "source_order": 55,
+    "article_order": 1,
+    "order": 867,
+    "stem": "section_280A-280X",
+    "heading_number": "Chapter XXII-A",
+    "heading_title": "Annuity Deposits",
+    "heading_range": "s. 280A-280X",
+    "heading_source": "group-head",
+    "article_number": "280A-280X",
+    "article_title": "",
+    "id": "income-tax-1961_section_280A-280X"
+  },
+  "id": "income-tax-1961_section_280A-280X",
+  "heading": {
+    "number": "Chapter XXII-A",
+    "title": "Annuity Deposits",
+    "range": "s. 280A-280X"
+  },
+  "article": {
+    "number": "280A-280X",
+    "title": "",
+    "content": "",
+    "html": "<article class=\"provision dead\" data-n=\"280A-280X\" data-report=\"Section 280A-280X · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280A-280X</span></h3></div><p class=\"repnote\">[Chapter XXII-A, consisting of sections 280A, 280B , 280C , 280D , 280E, 280F, 280G, 280H, 280-I, 280J, 280K, 280L, 280M, 280N, 280-O, 280P, 280Q, 280R, 280S, 280T, 280U, 280V, 280W and 280X, omitted by the Finance Act, 1988, w.e.f. 1-4-1988. The Chapter was inserted by the Finance Act, 1964, w.e.f. 1-4-1964 and has not been in operation since 1-4-1969 when the requirement as to annuity deposit was discontinued by the Finance Act, 1968, w.e.f. 1-4-1968 through an amendment made in section 280C.]</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280A-280X</span></h3></div><p class=\"repnote\">[Chapter XXII-A, consisting of sections 280A, 280B , 280C , 280D , 280E, 280F, 280G, 280H, 280-I, 280J, 280K, 280L, 280M, 280N, 280-O, 280P, 280Q, 280R, 280S, 280T, 280U, 280V, 280W and 280X, omitted by the Finance Act, 1988, w.e.f. 1-4-1988. The Chapter was inserted by the Finance Act, 1964, w.e.f. 1-4-1964 and has not been in operation since 1-4-1969 when the requirement as to annuity deposit was discontinued by the Finance Act, 1968, w.e.f. 1-4-1968 through an amendment made in section 280C.]</p>"
+  }
+}

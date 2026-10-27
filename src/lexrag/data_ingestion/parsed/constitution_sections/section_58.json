@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 7,
+    "order": 70,
+    "stem": "section_58",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "58",
+    "article_title": "Qualifications for election as President",
+    "id": "constitution_section_58"
+  },
+  "id": "constitution_section_58",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "58",
+    "title": "Qualifications for election as President",
+    "content": "(1)No person shall be eligible for election as President unless he—\n(a)is a citizen of India,\n(b)has completed the age of thirty-five years, and\n(c)is qualified for election as a member of the House of the People.\n(2)A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.\nExplanationFor the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor 1*** of any State or is a Minister either for the Union or for any State.\n",
+    "html": "<article class=\"provision\" data-n=\"58\" data-report=\"Article 58 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">58</span>Qualifications for election as President</h3></div><p class=\"prov-cite\">Article 58 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>No person shall be eligible for election as President unless he—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>is a citizen of India,</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>has completed the age of thirty-five years, and</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>is qualified for election as a member of the House of the People.</p><p><span class=\"lbl\">(2)</span>A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.</p><p><span class=\"named\">Explanation</span>For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor <sup>1</sup>*** of any State or is a Minister either for the Union or for any State.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> The words \"or Rajpramukh or Uparajpramukh\" omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">58</span>Qualifications for election as President</h3></div><p class=\"prov-cite\">Article 58 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>No person shall be eligible for election as President unless he—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>is a citizen of India,</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>has completed the age of thirty-five years, and</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>is qualified for election as a member of the House of the People.</p><p><span class=\"lbl\">(2)</span>A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.</p><p><span class=\"named\">Explanation</span>For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor <sup>1</sup>*** of any State or is a Minister either for the Union or for any State.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> The words \"or Rajpramukh or Uparajpramukh\" omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).</p></div>"
+  }
+}

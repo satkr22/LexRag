@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-53.html",
+    "source_order": 58,
+    "article_order": 1,
+    "order": 878,
+    "stem": "section_281",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 281–298",
+    "heading_source": "group-head",
+    "article_number": "281",
+    "article_title": "Certain transfers to be void.",
+    "id": "income-tax-1961_section_281"
+  },
+  "id": "income-tax-1961_section_281",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Miscellaneous",
+    "range": "ss. 281–298"
+  },
+  "article": {
+    "number": "281",
+    "title": "Certain transfers to be void.",
+    "content": "(1) Where, during the pendency of any proceeding under this Act or after the completion thereof, but before the service of notice under rule 2 of the Second Schedule, any assessee creates a charge on, or parts with the possession (by way of sale, mortgage, gift, exchange or any other mode of transfer whatsoever) of, any of his assets in favour of any other person, such charge or transfer shall be void as against any claim in respect of any tax or any other sum payable by the assessee as a result of the completion of the said proceeding or otherwise :\nProvided that such charge or transfer shall not be void if it is made—\n(i) for adequate consideration and without notice of the pendency of such proceeding or, as the case may be, without notice of such tax or other sum payable by the assessee ; or\n(ii) with the previous permission of the Assessing Officer.\n(2) This section applies to cases where the amount of tax or other sum payable or likely to be payable exceeds five thousand rupees and the assets charged or transferred exceed ten thousand rupees in value.\nExplanation.—In this section, \"assets\" means land, building, machinery, plant, shares, securities and fixed deposits in banks, to the extent to which any of the assets aforesaid does not form part of the stock-in-trade of the business of the assessee.\n",
+    "html": "<article class=\"provision\" data-n=\"281\" data-report=\"Section 281 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">281</span>Certain transfers to be void.</h3></div><p class=\"prov-cite\">Section 281  ·  Chapter XXIII  ·  page 1042 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where, during the pendency of any proceeding under this Act or after the completion thereof, but before the service of notice under rule 2 of the Second Schedule, any assessee creates a charge on, or parts with the possession (by way of sale, mortgage, gift, exchange or any other mode of transfer whatsoever) of, any of his assets in favour of any other person, such charge or transfer shall be void as against any claim in respect of any tax or any other sum payable by the assessee as a result of the completion of the said proceeding or otherwise :</p><p class=\"prvso\">Provided that such charge or transfer shall not be void if it is made—</p><p class=\"lvl\">(i) for adequate consideration and without notice of the pendency of such proceeding or, as the case may be, without notice of such tax or other sum payable by the assessee ; or</p><p class=\"lvl\">(ii) with the previous permission of the Assessing Officer.</p><p class=\"lvl\">(2) This section applies to cases where the amount of tax or other sum payable or likely to be payable exceeds five thousand rupees and the assets charged or transferred exceed ten thousand rupees in value.</p><p class=\"prvso\">Explanation.—In this section, \"assets\" means land, building, machinery, plant, shares, securities and fixed deposits in banks, to the extent to which any of the assets aforesaid does not form part of the stock-in-trade of the business of the assessee.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">281</span>Certain transfers to be void.</h3></div><p class=\"prov-cite\">Section 281  ·  Chapter XXIII  ·  page 1042 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where, during the pendency of any proceeding under this Act or after the completion thereof, but before the service of notice under rule 2 of the Second Schedule, any assessee creates a charge on, or parts with the possession (by way of sale, mortgage, gift, exchange or any other mode of transfer whatsoever) of, any of his assets in favour of any other person, such charge or transfer shall be void as against any claim in respect of any tax or any other sum payable by the assessee as a result of the completion of the said proceeding or otherwise :</p><p class=\"prvso\">Provided that such charge or transfer shall not be void if it is made—</p><p class=\"lvl\">(i) for adequate consideration and without notice of the pendency of such proceeding or, as the case may be, without notice of such tax or other sum payable by the assessee ; or</p><p class=\"lvl\">(ii) with the previous permission of the Assessing Officer.</p><p class=\"lvl\">(2) This section applies to cases where the amount of tax or other sum payable or likely to be payable exceeds five thousand rupees and the assets charged or transferred exceed ten thousand rupees in value.</p><p class=\"prvso\">Explanation.—In this section, \"assets\" means land, building, machinery, plant, shares, securities and fixed deposits in banks, to the extent to which any of the assets aforesaid does not form part of the stock-in-trade of the business of the assessee.</p></div>"
+  }
+}

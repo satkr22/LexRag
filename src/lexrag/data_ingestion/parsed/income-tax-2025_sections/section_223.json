@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-13.html",
+    "source_order": 14,
+    "article_order": 34,
+    "order": 223,
+    "stem": "section_223",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Determination of Tax in Special Cases",
+    "heading_range": "ss. 190–235",
+    "heading_source": "group-head",
+    "article_number": "223",
+    "article_title": "Tax on income of unit holder and business trust.",
+    "id": "income-tax-2025_section_223"
+  },
+  "id": "income-tax-2025_section_223",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Determination of Tax in Special Cases",
+    "range": "ss. 190–235"
+  },
+  "article": {
+    "number": "223",
+    "title": "Tax on income of unit holder and business trust.",
+    "content": "(1) Irrespective of anything contained in any other provisions of this Act, any income distributed by a business trust to its unit holders shall be deemed to be of the same nature and in the same proportion in the hands of the unit holder as it had been received by, or accrued to, the business trust.\n(2) Subject to the provisions of sections 196, 197 and 198, the total income of a business trust shall be charged to tax at the maximum marginal rate.\n(3) If in any tax year, the distributed income or any part thereof, received by a unit holder from the business trust is of the nature as referred to in Schedule V (Table: Sl. No. 3) or (Table: Sl. No. 4), then, such distributed income or part thereof shall be deemed to be income of such unit holder and shall be charged to tax as income of the tax year.\n(4) The provisions of sub-section (1) shall not apply in respect of any sum referred to in section 92(2)(k) received by a unit holder from a business trust.\n(5) Any person responsible for making payment of the income distributed on behalf of a business trust to a unit holder, shall furnish a statement to the unit holder and the prescribed authority, within such time and in such form and manner, as may be prescribed, giving the details of the nature of the income paid during the tax year and such other details, as may be prescribed.\n",
+    "html": "<article class=\"provision\" data-n=\"223\" data-report=\"Section 223 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">223</span>Tax on income of unit holder and business trust.</h3></div><p class=\"prov-cite\">Section 223  ·  Chapter XIII  ·  F.—Special provisions relating to pass-through entities  ·  page 271 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Irrespective of anything contained in any other provisions of this Act, any income distributed by a business trust to its unit holders shall be deemed to be of the same nature and in the same proportion in the hands of the unit holder as it had been received by, or accrued to, the business trust.</p><p class=\"lvl\">(2) Subject to the provisions of sections 196, 197 and 198, the total income of a business trust shall be charged to tax at the maximum marginal rate.</p><p class=\"lvl\">(3) If in any tax year, the distributed income or any part thereof, received by a unit holder from the business trust is of the nature as referred to in Schedule V (Table: Sl. No. 3) or (Table: Sl. No. 4), then, such distributed income or part thereof shall be deemed to be income of such unit holder and shall be charged to tax as income of the tax year.</p><p class=\"lvl\">(4) The provisions of sub-section (1) shall not apply in respect of any sum referred to in section 92(2)(k) received by a unit holder from a business trust.</p><p class=\"lvl\">(5) Any person responsible for making payment of the income distributed on behalf of a business trust to a unit holder, shall furnish a statement to the unit holder and the prescribed authority, within such time and in such form and manner, as may be prescribed, giving the details of the nature of the income paid during the tax year and such other details, as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">223</span>Tax on income of unit holder and business trust.</h3></div><p class=\"prov-cite\">Section 223  ·  Chapter XIII  ·  F.—Special provisions relating to pass-through entities  ·  page 271 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Irrespective of anything contained in any other provisions of this Act, any income distributed by a business trust to its unit holders shall be deemed to be of the same nature and in the same proportion in the hands of the unit holder as it had been received by, or accrued to, the business trust.</p><p class=\"lvl\">(2) Subject to the provisions of sections 196, 197 and 198, the total income of a business trust shall be charged to tax at the maximum marginal rate.</p><p class=\"lvl\">(3) If in any tax year, the distributed income or any part thereof, received by a unit holder from the business trust is of the nature as referred to in Schedule V (Table: Sl. No. 3) or (Table: Sl. No. 4), then, such distributed income or part thereof shall be deemed to be income of such unit holder and shall be charged to tax as income of the tax year.</p><p class=\"lvl\">(4) The provisions of sub-section (1) shall not apply in respect of any sum referred to in section 92(2)(k) received by a unit holder from a business trust.</p><p class=\"lvl\">(5) Any person responsible for making payment of the income distributed on behalf of a business trust to a unit holder, shall furnish a statement to the unit holder and the prescribed authority, within such time and in such form and manner, as may be prescribed, giving the details of the nature of the income paid during the tax year and such other details, as may be prescribed.</p></div>"
+  }
+}

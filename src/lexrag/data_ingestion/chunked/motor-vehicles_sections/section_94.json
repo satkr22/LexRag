@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_94_chunk_0",
+    "section_id": "motor-vehicles_section_94",
+    "token_count": 141,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 94::Bar on jurisdiction of Civil Courts.\n]\n\n\nNo Civil Court shall have jurisdiction to entertain any question relating to the grant of a permit 1[or licence issued under any scheme] under this Act, and no injunction in respect of any action taken or to be taken by the duly constituted authorities under this Act with regard to the grant of a permit 3[or licence issued under any scheme], shall be entertained by any Civil Court.\nNote: the marker 3 on page 67 has no footnote on that page; the footnote shown is footnote 3 of page 66, the nearest match in the print.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_94_chunk_0",
+      "section_id": "motor-vehicles_section_94",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "94",
+      "section_title": "Bar on jurisdiction of Civil Courts."
+    }
+  }
+]

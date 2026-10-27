@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-12.html",
+    "source_order": 12,
+    "article_order": 17,
+    "order": 160,
+    "stem": "section_137",
+    "heading_number": "Part III · Chapter IV",
+    "heading_title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "heading_range": "ss. 121–148",
+    "heading_source": "group-head",
+    "article_number": "137",
+    "article_title": "Completion of administration.",
+    "id": "insolvency_section_137"
+  },
+  "id": "insolvency_section_137",
+  "heading": {
+    "number": "Part III · Chapter IV",
+    "title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "range": "ss. 121–148"
+  },
+  "article": {
+    "number": "137",
+    "title": "Completion of administration.",
+    "content": "(1) The bankruptcy trustee shall convene a meeting of the committee of creditors on completion of the administration and distribution of the estate of the bankrupt in accordance with the provisions of Chapter V.\n(2) The bankruptcy trustee shall provide the committee of creditors with a report of the administration of the estate of the bankrupt in the meeting of the said committee.\n(3) The committee of creditors shall approve the report submitted by the bankruptcy trustee under sub-section (2) within seven days of the receipt of the report and determine whether the bankruptcy trustee should be released under section 148.\n(4) The bankruptcy trustee shall retain sufficient sums from the estate of the bankrupt to meet the expenses of convening and conducting the meeting required under this section during the administration of the estate.\n",
+    "html": "<article class=\"provision\" data-n=\"137\" data-report=\"Section 137 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">137</span>Completion of administration.</h3></div><p class=\"prov-cite\">Section 137  ·  Part III · Chapter IV  ·  page 109 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankruptcy trustee shall convene a meeting of the committee of creditors on completion of the administration and distribution of the estate of the bankrupt in accordance with the provisions of Chapter V.</p><p class=\"lvl\">(2) The bankruptcy trustee shall provide the committee of creditors with a report of the administration of the estate of the bankrupt in the meeting of the said committee.</p><p class=\"lvl\">(3) The committee of creditors shall approve the report submitted by the bankruptcy trustee under sub-section (2) within seven days of the receipt of the report and determine whether the bankruptcy trustee should be released under section 148.</p><p class=\"lvl\">(4) The bankruptcy trustee shall retain sufficient sums from the estate of the bankrupt to meet the expenses of convening and conducting the meeting required under this section during the administration of the estate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">137</span>Completion of administration.</h3></div><p class=\"prov-cite\">Section 137  ·  Part III · Chapter IV  ·  page 109 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankruptcy trustee shall convene a meeting of the committee of creditors on completion of the administration and distribution of the estate of the bankrupt in accordance with the provisions of Chapter V.</p><p class=\"lvl\">(2) The bankruptcy trustee shall provide the committee of creditors with a report of the administration of the estate of the bankrupt in the meeting of the said committee.</p><p class=\"lvl\">(3) The committee of creditors shall approve the report submitted by the bankruptcy trustee under sub-section (2) within seven days of the receipt of the report and determine whether the bankruptcy trustee should be released under section 148.</p><p class=\"lvl\">(4) The bankruptcy trustee shall retain sufficient sums from the estate of the bankrupt to meet the expenses of convening and conducting the meeting required under this section during the administration of the estate.</p></div>"
+  }
+}

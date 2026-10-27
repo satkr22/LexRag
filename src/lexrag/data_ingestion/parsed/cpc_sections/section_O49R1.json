@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-68.html",
+    "source_order": 68,
+    "article_order": 1,
+    "order": 891,
+    "stem": "section_O49R1",
+    "heading_number": "Order XLIX",
+    "heading_title": "Chartered High Courts",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O49R1",
+    "article_title": "Who may serve processes of High Court.",
+    "id": "cpc_section_O49R1"
+  },
+  "id": "cpc_section_O49R1",
+  "heading": {
+    "number": "Order XLIX",
+    "title": "Chartered High Courts",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O49R1",
+    "title": "Who may serve processes of High Court.",
+    "content": "Notice to produce documents, summonses to witnesses, and every other judical process, issued in the exercise of the original civil jurisdiction of the High Court, and of its matrimonial, testamentary and intestate jurisdictions, except summonses to defendants, writs of execution and notices to respondents may be served by the attorneys in the suits, or by persons employed by them, or by such other persons as the High Court, by any rule or order, directs.\n",
+    "html": "<article class=\"provision\" data-n=\"O49R1\" data-report=\"Order 49, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Who may serve processes of High Court.</h3></div><p class=\"prov-cite\">Order 49, Rule 1</p><div class=\"prov-body\"><p>Notice to produce documents, summonses to witnesses, and every other judical process, issued in the exercise of the original civil jurisdiction of the High Court, and of its matrimonial, testamentary and intestate jurisdictions, except summonses to defendants, writs of execution and notices to respondents may be served by the attorneys in the suits, or by persons employed by them, or by such other persons as the High Court, by any rule or order, directs.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Who may serve processes of High Court.</h3></div><p class=\"prov-cite\">Order 49, Rule 1</p><div class=\"prov-body\"><p>Notice to produce documents, summonses to witnesses, and every other judical process, issued in the exercise of the original civil jurisdiction of the High Court, and of its matrimonial, testamentary and intestate jurisdictions, except summonses to defendants, writs of execution and notices to respondents may be served by the attorneys in the suits, or by persons employed by them, or by such other persons as the High Court, by any rule or order, directs.</p></div>"
+  }
+}

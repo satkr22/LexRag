@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-05.html",
+    "source_order": 5,
+    "article_order": 27,
+    "order": 61,
+    "stem": "section_61",
+    "heading_number": "Chapter V",
+    "heading_title": "Arrest of Persons",
+    "heading_range": "35 – 62",
+    "heading_source": "group-head",
+    "article_number": "61",
+    "article_title": "Power, on escape, to pursue and retake",
+    "id": "bnss_section_61"
+  },
+  "id": "bnss_section_61",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Arrest of Persons",
+    "range": "35 – 62"
+  },
+  "article": {
+    "number": "61",
+    "title": "Power, on escape, to pursue and retake",
+    "content": "(1)If a person in lawful custody escapes or is rescued, the person from whose custody he escaped or was rescued may immediately pursue and arrest him in any place in India.\n(2)The provisions of section 44 shall apply to arrests under sub-section (1) although the person making any such arrest is not acting under a warrant and is not a police officer having authority to arrest.\n",
+    "html": "<article class=\"provision\" data-n=\"61\" data-report=\"Section 61 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">61</span>Power, on escape, to pursue and retake</h3></div><p class=\"prov-cite\">Section 61 · Chapter V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If a person in lawful custody escapes or is rescued, the person from whose custody he escaped or was rescued may immediately pursue and arrest him in any place in India.</p><p><span class=\"lbl\">(2)</span>The provisions of section 44 shall apply to arrests under sub-section (1) although the person making any such arrest is not acting under a warrant and is not a police officer having authority to arrest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">61</span>Power, on escape, to pursue and retake</h3></div><p class=\"prov-cite\">Section 61 · Chapter V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If a person in lawful custody escapes or is rescued, the person from whose custody he escaped or was rescued may immediately pursue and arrest him in any place in India.</p><p><span class=\"lbl\">(2)</span>The provisions of section 44 shall apply to arrests under sub-section (1) although the person making any such arrest is not acting under a warrant and is not a police officer having authority to arrest.</p></div>"
+  }
+}

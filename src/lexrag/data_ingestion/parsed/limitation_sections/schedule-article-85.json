@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-85.html",
+    "source_order": 85,
+    "article_order": 1,
+    "order": 85,
+    "stem": "schedule-article-85",
+    "heading_number": null,
+    "heading_title": "First Division · Part VII · Suits Relating to Tort",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "85",
+    "article_title": "Three years.",
+    "id": "limitation_schedule-article-85"
+  },
+  "id": "limitation_schedule-article-85",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part VII · Suits Relating to Tort",
+    "range": null
+  },
+  "article": {
+    "number": "85",
+    "title": "Three years.",
+    "content": "For compensation for obstructing a way or a water-course.\nPeriod of limitationThree years.\n\nTime from which period begins to runThe date of the obstruction.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>85<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part VII—Suits Relating to Tort</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For compensation for obstructing a way or a water-course.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the obstruction.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>85<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part VII—Suits Relating to Tort</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For compensation for obstructing a way or a water-course.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the obstruction.</p></div></div></div></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_269S_chunk_0",
+    "section_id": "income-tax-1961_section_269S",
+    "token_count": 32,
+    "text": "[Act: income-tax-1961\n Chapter: None\n Section: 269S::Chapter not to extend to State of Jammu and Kashmir.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_269S_chunk_0",
+      "section_id": "income-tax-1961_section_269S",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX-A",
+      "chapter_title": null,
+      "section_number": "269S",
+      "section_title": "Chapter not to extend to State of Jammu and Kashmir."
+    }
+  }
+]

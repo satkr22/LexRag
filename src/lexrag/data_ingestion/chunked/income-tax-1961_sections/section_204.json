@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_204_chunk_0",
+    "section_id": "income-tax-1961_section_204",
+    "token_count": 469,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 204::Meaning of \"person responsible for paying\".\n]\n\nFor the purposes of the foregoing provisions of this Chapter and section 285, the expression \"person responsible for paying\" means—\n\n(i) in the case of payments of income chargeable under the head \"Salaries\", other than payments by the Central Government or the Government of a State, the employer himself or, if the employer is a company, the company itself, including the principal officer thereof;\n  (ii) in the case of payments of income chargeable under the head \"Interest on securities\", other than payments made by or on behalf of the Central Government or the Government of a State, the local authority, corporation or company, including the principal officer thereof;\n  (iia) in the case of any sum payable to a non-resident Indian, being any sum representing consideration for the transfer by him of any foreign exchange asset, which is not a short-term capital asset, the authorised person responsible for remitting such sum to the non-resident Indian or for crediting such sum to his Non-resident (External) Account maintained in accordance with the Foreign Exchange Management Act, 1999 (42 of 1999), and any rules made thereunder;\n  (iib) in the case of furnishing of information relating to payment to a non-resident, not being a company, or to a foreign company, of any sum, whether or not chargeable under the provisions of this Act, the payer himself, or, if the payer is a company, the company itself including the principal officer thereof;\n  (iii) in the case of credit, or, as the case may be, payment of any other sum chargeable under the provisions of this Act, the payer himself, or, if the payer is a company, the company itself including the principal officer thereof;\n  (iv) in the case of credit, or as the case may be, payment of any sum chargeable under the provisions of this Act made by or on behalf of the Central Government or the Government of a State, the drawing and disbursing officer or any other person, by whatever name called, responsible for crediting, or as the case may be, paying such sum;",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_204_chunk_0",
+      "section_id": "income-tax-1961_section_204",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "204",
+      "section_title": "Meaning of \"person responsible for paying\"."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_204_chunk_1",
+    "section_id": "income-tax-1961_section_204",
+    "token_count": 237,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 204::Meaning of \"person responsible for paying\".\n]\n\nFor the purposes of the foregoing provisions of this Chapter and section 285, the expression \"person responsible for paying\" means—\n\n(i) in the case of payments of income chargeable under the head \"Salaries\", other than payments by the Central Government or the Government of a State, the employer himself or, if the employer is a company, the company itself, including the principal officer thereof;\n  (v) in the case of a person not resident in India, the person himself or any person authorised by such person or the agent of such person in India including any person treated as an agent under section 163.\n  Explanation.—For the purposes of this section,—\n  (a) \"non-resident Indian\" and \"foreign exchange asset\" shall have the meanings assigned to them in Chapter XII-A;\n  (b) \"authorised person\" shall have the meaning assigned to it in clause (c) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_204_chunk_1",
+      "section_id": "income-tax-1961_section_204",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "204",
+      "section_title": "Meaning of \"person responsible for paying\"."
+    }
+  }
+]

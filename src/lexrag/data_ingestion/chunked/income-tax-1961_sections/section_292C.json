@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_292C_chunk_0",
+    "section_id": "income-tax-1961_section_292C",
+    "token_count": 372,
+    "text": "[Act: income-tax-1961\n Chapter: Miscellaneous\n Section: 292C::Presumption as to assets, books of account, etc.\n]\n\n\n(1) Where any books of account, other documents, money, bullion, jewellery or other valuable article or thing are or is found in the possession or control of any person in the course of a search under section 132 or survey under section 133A, it may, in any proceeding under this Act, be presumed—\n(i) that such books of account, other documents, money, bullion, jewellery or other valuable article or thing belong or belongs to such person;\n(ii) that the contents of such books of account and other documents are true; and\n(iii) that the signature and every other part of such books of account and other documents which purport to be in the handwriting of any particular person or which may reasonably be assumed to have been signed by, or to be in the handwriting of, any particular person, are in that person's handwriting, and in the case of a document stamped, executed or attested, that it was duly stamped and executed or attested by the person by whom it purports to have been so executed or attested.\n(2) Where any books of account, other documents or assets have been delivered to the requisitioning officer in accordance with the provisions of section 132A, then, the provisions of sub-section (1) shall apply as if such books of account, other documents or assets which had been taken into custody from the person referred to in clause (a) or clause (b) or clause (c), as the case may be, of sub-section (1) of section 132A, had been found in the possession or control of that person in the course of a search under section 132.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_292C_chunk_0",
+      "section_id": "income-tax-1961_section_292C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "292C",
+      "section_title": "Presumption as to assets, books of account, etc."
+    }
+  }
+]

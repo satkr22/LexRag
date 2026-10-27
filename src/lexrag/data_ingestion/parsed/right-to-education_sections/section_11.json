@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "right-to-education",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "right-to-education_sections/section-11.html",
+    "source_order": 11,
+    "article_order": 1,
+    "order": 11,
+    "stem": "section_11",
+    "heading_number": "Chapter III",
+    "heading_title": "Duties of Appropriate Government, Local Authority and Parents",
+    "heading_range": "ss. 6–11",
+    "heading_source": "manifest",
+    "article_number": "11",
+    "article_title": "Appropriate Government to provide for pre-school education.",
+    "id": "right-to-education_section_11"
+  },
+  "id": "right-to-education_section_11",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Duties of Appropriate Government, Local Authority and Parents",
+    "range": "ss. 6–11"
+  },
+  "article": {
+    "number": "11",
+    "title": "Appropriate Government to provide for pre-school education.",
+    "content": "With a view to prepare children above the age of three years for elementary education and to provide early childhood care and education for all children until they complete the age of six years, the appropriate Government may make necessary arrangement for providing free pre-school education for such children.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Appropriate Government to provide for pre-school education.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter III  ·  page 7 of the Act</p><div class=\"prov-body\"><p>With a view to prepare children above the age of three years for elementary education and to provide early childhood care and education for all children until they complete the age of six years, the appropriate Government may make necessary arrangement for providing free pre-school education for such children.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Appropriate Government to provide for pre-school education.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter III  ·  page 7 of the Act</p><div class=\"prov-body\"><p>With a view to prepare children above the age of three years for elementary education and to provide early childhood care and education for all children until they complete the age of six years, the appropriate Government may make necessary arrangement for providing free pre-school education for such children.</p></div>"
+  }
+}

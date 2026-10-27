@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-20.html",
+    "source_order": 20,
+    "article_order": 3,
+    "order": 263,
+    "stem": "section_263",
+    "heading_number": "Chapter XX",
+    "heading_title": "Trial of Warrant-Cases by Magistrates",
+    "heading_range": "261 – 273",
+    "heading_source": "group-head",
+    "article_number": "263",
+    "article_title": "Framing of charge",
+    "id": "bnss_section_263"
+  },
+  "id": "bnss_section_263",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Trial of Warrant-Cases by Magistrates",
+    "range": "261 – 273"
+  },
+  "article": {
+    "number": "263",
+    "title": "Framing of charge",
+    "content": "(1)If, upon such consideration, examination, if any, and hearing, the Magistrate is of opinion that there is ground for presuming that the accused has committed an offence triable under this Chapter, which such Magistrate is competent to try and which, in his opinion, could be adequately punished by him, he shall frame in writing a charge against the accused within a period of sixty days from the date of first hearing on charge.\n(2)The charge shall then be read and explained to the accused, and he shall be asked whether he pleads guilty of the offence charged or claims to be tried.\n",
+    "html": "<article class=\"provision\" data-n=\"263\" data-report=\"Section 263 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">263</span>Framing of charge</h3></div><p class=\"prov-cite\">Section 263 · Chapter XX · Cases instituted on a police report</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If, upon such consideration, examination, if any, and hearing, the Magistrate is of opinion that there is ground for presuming that the accused has committed an offence triable under this Chapter, which such Magistrate is competent to try and which, in his opinion, could be adequately punished by him, he shall frame in writing a charge against the accused within a period of sixty days from the date of first hearing on charge.</p><p><span class=\"lbl\">(2)</span>The charge shall then be read and explained to the accused, and he shall be asked whether he pleads guilty of the offence charged or claims to be tried.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">263</span>Framing of charge</h3></div><p class=\"prov-cite\">Section 263 · Chapter XX · Cases instituted on a police report</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If, upon such consideration, examination, if any, and hearing, the Magistrate is of opinion that there is ground for presuming that the accused has committed an offence triable under this Chapter, which such Magistrate is competent to try and which, in his opinion, could be adequately punished by him, he shall frame in writing a charge against the accused within a period of sixty days from the date of first hearing on charge.</p><p><span class=\"lbl\">(2)</span>The charge shall then be read and explained to the accused, and he shall be asked whether he pleads guilty of the offence charged or claims to be tried.</p></div>"
+  }
+}

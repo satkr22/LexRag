@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115E_chunk_0",
+    "section_id": "income-tax-1961_section_115E",
+    "token_count": 287,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Certain Incomes of Non-residents\n Section: 115E::Tax on investment income and long-term capital gains.\n]\n\n\nWhere the total income of an assessee, being a non-resident Indian, includes—\n(a) any income from investment or income from long-term capital gains of an asset other than a specified asset;\n(b) income by way of long-term capital gains, the tax payable by him shall be the aggregate of—\n(i) the amount of income-tax calculated on the income in respect of investment income referred to in clause (a), if any, included in the total income, at the rate of twenty per cent;\n35[(ii) the amount of income-tax calculated on the income by way of long-term capital gains referred to in clause (b), if any, included in the total income,––\n(A) at the rate of ten per cent for any transfer which takes place before the 23rd day of July, 2024; and\n(B) at the rate of twelve and one-half per cent for any transfer which takes place on or after the 23rd day of July, 2024; and]\n(iii) the amount of income-tax with which he would have been chargeable had his total income been reduced by the amount of income referred to in clauses (a) and (b).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115E_chunk_0",
+      "section_id": "income-tax-1961_section_115E",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-A",
+      "chapter_title": "Special Provisions Relating to Certain Incomes of Non-residents",
+      "section_number": "115E",
+      "section_title": "Tax on investment income and long-term capital gains."
+    }
+  }
+]

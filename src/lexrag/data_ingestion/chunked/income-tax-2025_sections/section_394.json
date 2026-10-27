@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_394_chunk_0",
+    "section_id": "income-tax-2025_section_394",
+    "token_count": 146,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 394::Collection of tax at source.\n]\n\n\n(1) Every person, as specified in column C of the Table below shall collect tax—\n  (a) on receipts specified in column B;\n  (b) at the rate as specified in column D; and\n  (c) at the time of debiting of the amount payable by the buyer or licensee or lessee to the account of the buyer or licensee or lessee or at the time of receipt of such amount from the said buyer or licensee or lessee in cash or by way of a cheque or a draft or any other mode, whichever is earlier.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_394_chunk_0",
+      "section_id": "income-tax-2025_section_394",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "394",
+      "section_title": "Collection of tax at source."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_394_chunk_1",
+    "section_id": "income-tax-2025_section_394",
+    "token_count": 489,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 394::Collection of tax at source.\n]\n\n\nTAX COLLECTION AT SOURCE\n  (2) Irrespective of anything contained in sub-section (1) (Table: Sl. Nos. 1 to 5), the collection of tax shall not to be made in respect of receipts specified in sub-section (1) (Table: Sl. Nos. 1 to 5) in respect of the buyer, who is a resident in India, if he furnishes a written declaration in duplicate in such form and manner, as may be prescribed, to the person responsible for collecting tax, mentioning that such goods are to be utilised—\n  (a) for the purposes of manufacturing, processing or producing articles or things or for generating power; and\n  (b) not for trading purposes.\n  (3) Where no collection of tax is to be made under sub-section (2), the person responsible for collecting tax shall deliver or cause to be delivered, one copy of the declaration referred to in that sub-section, to the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, on or before the seventh day of the month following the month of receipt of that declaration.\n  (4) The collection of tax shall not be made by the authorised dealer in respect of receipt specified in sub-section (1) (Table: Sl. No.7),—\n  (a) on such amount on which tax has been collected by the seller in respect of receipt referred to in sub-section (1) (Table: Sl. No. 8);\n  (b) if the amount being remitted out is a loan obtained from any financial institution as defined in section 129(3)(b), for the purpose of pursuing any education.\n  (5) The collection of tax shall not be made by the authorised dealer or seller, in respect of receipt specified in sub-section (1) (Table: Sl. Nos. 7 and 8), if the buyer is liable to deduct tax at source under any other provisions of this Act and he has deducted such tax.\n  (6) For the purposes of this section, \"forest produce\" shall have the same meaning as defined in any State Act for the time being in force, or in the Indian Forest Act, 1927 (16 of 1927).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_394_chunk_1",
+      "section_id": "income-tax-2025_section_394",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "394",
+      "section_title": "Collection of tax at source."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-06.html",
+    "source_order": 6,
+    "article_order": 43,
+    "order": 142,
+    "stem": "section_142",
+    "heading_number": "Chapter VI",
+    "heading_title": "Of Offences Affecting the Human Body",
+    "heading_range": "100 – 146",
+    "heading_source": "group-head",
+    "article_number": "142",
+    "article_title": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person",
+    "id": "bns_section_142"
+  },
+  "id": "bns_section_142",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Of Offences Affecting the Human Body",
+    "range": "100 – 146"
+  },
+  "article": {
+    "number": "142",
+    "title": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person",
+    "content": "Whoever, knowing that any person has been kidnapped or has been abducted, wrongfully conceals or confines such person, shall be punished in the same manner as if he had kidnapped or abducted such person with the same intention or knowledge, or for the same purpose as that with or for which he conceals or detains such person in confinement.\n",
+    "html": "<article class=\"provision\" data-n=\"142\" data-report=\"Section 142 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Wrongfully concealing or keeping in confinement, kidnapped or abducted person</h3></div><p class=\"prov-cite\">Section 142 · Chapter VI · Of kidnapping, abduction, slavery and forced labour</p><div class=\"prov-body\"><p>Whoever, knowing that any person has been kidnapped or has been abducted, wrongfully conceals or confines such person, shall be punished in the same manner as if he had kidnapped or abducted such person with the same intention or knowledge, or for the same purpose as that with or for which he conceals or detains such person in confinement.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Wrongfully concealing or keeping in confinement, kidnapped or abducted person</h3></div><p class=\"prov-cite\">Section 142 · Chapter VI · Of kidnapping, abduction, slavery and forced labour</p><div class=\"prov-body\"><p>Whoever, knowing that any person has been kidnapped or has been abducted, wrongfully conceals or confines such person, shall be punished in the same manner as if he had kidnapped or abducted such person with the same intention or knowledge, or for the same purpose as that with or for which he conceals or detains such person in confinement.</p></div>"
+  }
+}

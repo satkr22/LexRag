@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_4_chunk_0",
+    "section_id": "motor-vehicles_section_4",
+    "token_count": 163,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 4::Age limit in connection with driving of motor vehicles.\n]\n\n\n(1) No person under the age of eighteen years shall drive a motor vehicle in any public place:\nProvided that 5[a motor cycle with engine capacity not exceeding 50cc] may be driven in a public place by a person after attaining the age of sixteen years.\n(2) Subject to the provisions of section 18, no person under the age of twenty years shall drive a transport vehicle in any public place.\n(3) No learner’s licence or driving licence shall be issued to any person to drive a vehicle of the class to which he has made an application unless he is eligible to drive that class of vehicle under this section.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_4_chunk_0",
+      "section_id": "motor-vehicles_section_4",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "4",
+      "section_title": "Age limit in connection with driving of motor vehicles."
+    }
+  }
+]

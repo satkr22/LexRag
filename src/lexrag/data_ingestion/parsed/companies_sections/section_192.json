@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-12.html",
+    "source_order": 12,
+    "article_order": 20,
+    "order": 196,
+    "stem": "section_192",
+    "heading_number": "Chapter XII",
+    "heading_title": "Meetings of Board and Its Powers",
+    "heading_range": "ss. 173–195",
+    "heading_source": "group-head",
+    "article_number": "192",
+    "article_title": "Restriction on non-cash transactions involving directors.",
+    "id": "companies_section_192"
+  },
+  "id": "companies_section_192",
+  "heading": {
+    "number": "Chapter XII",
+    "title": "Meetings of Board and Its Powers",
+    "range": "ss. 173–195"
+  },
+  "article": {
+    "number": "192",
+    "title": "Restriction on non-cash transactions involving directors.",
+    "content": "(1) No company shall enter into an arrangement by which—\n(a) a director of the company or its holding, subsidiary or associate company or a person connected with him acquires or is to acquire assets for consideration other than cash, from the company; or\n(b) the company acquires or is to acquire assets for consideration other than cash, from such director or person so connected, unless prior approval for such arrangement is accorded by a resolution of the company in general meeting and if the director or connected person is a director of its holding company, approval under this sub-section shall also be required to be obtained by passing a resolution in general meeting of the holding company.\n(2) The notice for approval of the resolution by the company or holding company in general meeting under sub-section (1) shall include the particulars of the arrangement along with the value of the assets involved in such arrangement duly calculated by a registered valuer.\n(3) Any arrangement entered into by a company or its holding company in contravention of the provisions of this section shall be voidable at the instance of the company unless—\n(a) the restitution of any money or other consideration which is the subject matter of the arrangement is no longer possible and the company has been indemnified by any other person for any loss or damage caused to it; or\n(b) any rights are acquired bona fide for value and without notice of the contravention of the provisions of this section by any other person.\n",
+    "html": "<article class=\"provision\" data-n=\"192\" data-report=\"Section 192 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">192</span>Restriction on non-cash transactions involving directors.</h3></div><p class=\"prov-cite\">Section 192  ·  Chapter XII  ·  page 131 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No company shall enter into an arrangement by which—</p><p class=\"lvl\">(a) a director of the company or its holding, subsidiary or associate company or a person connected with him acquires or is to acquire assets for consideration other than cash, from the company; or</p><p class=\"lvl\">(b) the company acquires or is to acquire assets for consideration other than cash, from such director or person so connected, unless prior approval for such arrangement is accorded by a resolution of the company in general meeting and if the director or connected person is a director of its holding company, approval under this sub-section shall also be required to be obtained by passing a resolution in general meeting of the holding company.</p><p class=\"lvl\">(2) The notice for approval of the resolution by the company or holding company in general meeting under sub-section (1) shall include the particulars of the arrangement along with the value of the assets involved in such arrangement duly calculated by a registered valuer.</p><p class=\"lvl\">(3) Any arrangement entered into by a company or its holding company in contravention of the provisions of this section shall be voidable at the instance of the company unless—</p><p class=\"lvl\">(a) the restitution of any money or other consideration which is the subject matter of the arrangement is no longer possible and the company has been indemnified by any other person for any loss or damage caused to it; or</p><p class=\"lvl\">(b) any rights are acquired bona fide for value and without notice of the contravention of the provisions of this section by any other person.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">192</span>Restriction on non-cash transactions involving directors.</h3></div><p class=\"prov-cite\">Section 192  ·  Chapter XII  ·  page 131 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No company shall enter into an arrangement by which—</p><p class=\"lvl\">(a) a director of the company or its holding, subsidiary or associate company or a person connected with him acquires or is to acquire assets for consideration other than cash, from the company; or</p><p class=\"lvl\">(b) the company acquires or is to acquire assets for consideration other than cash, from such director or person so connected, unless prior approval for such arrangement is accorded by a resolution of the company in general meeting and if the director or connected person is a director of its holding company, approval under this sub-section shall also be required to be obtained by passing a resolution in general meeting of the holding company.</p><p class=\"lvl\">(2) The notice for approval of the resolution by the company or holding company in general meeting under sub-section (1) shall include the particulars of the arrangement along with the value of the assets involved in such arrangement duly calculated by a registered valuer.</p><p class=\"lvl\">(3) Any arrangement entered into by a company or its holding company in contravention of the provisions of this section shall be voidable at the instance of the company unless—</p><p class=\"lvl\">(a) the restitution of any money or other consideration which is the subject matter of the arrangement is no longer possible and the company has been indemnified by any other person for any loss or damage caused to it; or</p><p class=\"lvl\">(b) any rights are acquired bona fide for value and without notice of the contravention of the provisions of this section by any other person.</p></div>"
+  }
+}

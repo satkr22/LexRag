@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_56_chunk_0",
+    "section_id": "motor-vehicles_section_56",
+    "token_count": 512,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 56::Certificate of fitness of transport vehicles.\n]\n\n\n(1) Subject to the provisions of sections 59 and 60, a transport vehicle shall not be deemed to be validly registered for the purposes of section 39, unless it carries a certificate of fitness in such form containing such particulars and information as may be prescribed by the Central Government, issued by the prescribed authority, or by an authorised testing station mentioned in sub-section (2), to the effect that the vehicle complies for the time being with all the requirements of this Act and the rules made thereunder:\n  Provided that where the prescribed authority or the authorised testing station refuses is issue such certificate, it shall supply the owner of the vehicle with its reasons in writing for such refusal.\n  1 [Provided further that no certificate of fitness shall be granted to a vehicle, after such date as may be notified by the Central Government, unless such vehicle has been tested at an automated testing station.]\n  2 [(2) The “authorised testing station” referred to in sub-section (1) means any facility, including automated testing facilities, authorised by the State Government, where fitness testing may be conducted in accordance with the rules made by the Central Government for recognition, regulation and control of such stations.]\n  (3) Subject to the provisions of sub-section (4), a certificate of fitness shall remain effective for such period as may be prescribed by the Central Government having regard to the objects of this Act.\n  (4) The prescribed authority may for reasons to be recorded in writing cancel a certificate of fitness at any time, if satisfied that the vehicle to which it relates no longer complies with all the requirements of this Act and the rules made thereunder; and on such cancellation the certificate of registration of the vehicle and any permit granted in respect of the vehicle under Chapter V shall be deemed to be suspended until a new certificate of fitness has been obtained:\n  3 [Provided that no such cancellation shall be made by the prescribed authority unless,—\n  (a) such prescribed authority holds such technical qualification as may be prescribed by the Central Government and where the prescribed authority does not hold the technical qualification, such cancellation is made on the basis of the report of an officer having such qualification; and\n  (b) the reasons recorded in writing cancelling a certificate of fitness are confirmed by an authorised testing station chosen by the owner of the vehicle whose certificate of fitness is sought to be cancelled:",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_56_chunk_0",
+      "section_id": "motor-vehicles_section_56",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "56",
+      "section_title": "Certificate of fitness of transport vehicles."
+    }
+  },
+  {
+    "chunk_id": "motor-vehicles_section_56_chunk_1",
+    "section_id": "motor-vehicles_section_56",
+    "token_count": 270,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 56::Certificate of fitness of transport vehicles.\n]\n\n\n(1) Subject to the provisions of sections 59 and 60, a transport vehicle shall not be deemed to be validly registered for the purposes of section 39, unless it carries a certificate of fitness in such form containing such particulars and information as may be prescribed by the Central Government, issued by the prescribed authority, or by an authorised testing station mentioned in sub-section (2), to the effect that the vehicle complies for the time being with all the requirements of this Act and the rules made thereunder:\n  Provided further that if the cancellation is confirmed by the authorised testing station, the cost of undertaking the test shall be borne by the owner of the vehicle being tested and in the alternative by the prescribed authority.]\n  (5) A certificate of fitness issued under this Act shall, while it remains effective, be valid throughout India.\n  4 [(6) All transport vehicles with a valid certificate of fitness issued under this section shall carry, on their bodies, in a clear and visible manner such distinguishing mark as may be prescribed by the Central Government.\n  (7) Subject to such conditions as the Central Government may prescribe, the provisions of this section may be extended to non-transport vehicles.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_56_chunk_1",
+      "section_id": "motor-vehicles_section_56",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "56",
+      "section_title": "Certificate of fitness of transport vehicles."
+    }
+  }
+]

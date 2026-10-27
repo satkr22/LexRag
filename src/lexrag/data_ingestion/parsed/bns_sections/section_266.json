@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-14.html",
+    "source_order": 14,
+    "article_order": 40,
+    "order": 266,
+    "stem": "section_266",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of False Evidence and Offences Against Public Justice",
+    "heading_range": "227 – 269",
+    "heading_source": "group-head",
+    "article_number": "266",
+    "article_title": "Violation of condition of remission of punishment",
+    "id": "bns_section_266"
+  },
+  "id": "bns_section_266",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of False Evidence and Offences Against Public Justice",
+    "range": "227 – 269"
+  },
+  "article": {
+    "number": "266",
+    "title": "Violation of condition of remission of punishment",
+    "content": "Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.\n",
+    "html": "<article class=\"provision\" data-n=\"266\" data-report=\"Section 266 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">266</span>Violation of condition of remission of punishment</h3></div><p class=\"prov-cite\">Section 266 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">266</span>Violation of condition of remission of punishment</h3></div><p class=\"prov-cite\">Section 266 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-14.html",
+    "source_order": 14,
+    "article_order": 5,
+    "order": 192,
+    "stem": "section_O2R5",
+    "heading_number": "Order II",
+    "heading_title": "Frame of suit",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O2R5",
+    "article_title": "Claims by or against executor, administrator or heir.",
+    "id": "cpc_section_O2R5"
+  },
+  "id": "cpc_section_O2R5",
+  "heading": {
+    "number": "Order II",
+    "title": "Frame of suit",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O2R5",
+    "title": "Claims by or against executor, administrator or heir.",
+    "content": "No claim by or against an executor, administrator or heir, as such, shall be joined with claims by or against him personally, unless the last mentioned claims are alleged to arise with reference to the estate in respect of which the plaintiff or defendant sues or is sued as executor, administrator or heir, or are such as he was entitled to, or liable for, jointly with the deceased person whom he represents.\n",
+    "html": "<article class=\"provision\" data-n=\"O2R5\" data-report=\"Order 2, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Claims by or against executor, administrator or heir.</h3></div><p class=\"prov-cite\">Order 2, Rule 5</p><div class=\"prov-body\"><p>No claim by or against an executor, administrator or heir, as such, shall be joined with claims by or against him personally, unless the last mentioned claims are alleged to arise with reference to the estate in respect of which the plaintiff or defendant sues or is sued as executor, administrator or heir, or are such as he was entitled to, or liable for, jointly with the deceased person whom he represents.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Claims by or against executor, administrator or heir.</h3></div><p class=\"prov-cite\">Order 2, Rule 5</p><div class=\"prov-body\"><p>No claim by or against an executor, administrator or heir, as such, shall be joined with claims by or against him personally, unless the last mentioned claims are alleged to arise with reference to the estate in respect of which the plaintiff or defendant sues or is sued as executor, administrator or heir, or are such as he was entitled to, or liable for, jointly with the deceased person whom he represents.</p></div>"
+  }
+}

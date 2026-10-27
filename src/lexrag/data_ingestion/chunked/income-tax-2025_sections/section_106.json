@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_106_chunk_0",
+    "section_id": "income-tax-2025_section_106",
+    "token_count": 185,
+    "text": "[Act: income-tax-2025\n Chapter: Aggregation of Income\n Section: 106::Amount borrowed or repaid through negotiable instrument, hundi, etc.\n]\n\n\n(1) Where any amount (including interest thereof) is borrowed or repaid through a negotiable instrument or on a hundi, otherwise than an account payee cheque, or through any mode as specified by the Board in this behalf, the amount so borrowed or repaid (including interest paid on the borrowed amount) shall be deemed to be the income of the person borrowing or repaying, as the case may be, for the tax year in which the amount was borrowed or repaid.\n(2) Where the amount borrowed under sub-section (1) has been deemed to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under that sub-section on repayment of such amount.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_106_chunk_0",
+      "section_id": "income-tax-2025_section_106",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income",
+      "section_number": "106",
+      "section_title": "Amount borrowed or repaid through negotiable instrument, hundi, etc."
+    }
+  }
+]

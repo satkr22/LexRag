@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-13.html",
+    "source_order": 13,
+    "article_order": 43,
+    "order": 235,
+    "stem": "section_205",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Offences, Penalties and Procedure",
+    "heading_range": "ss. 177–210D",
+    "heading_source": "group-head",
+    "article_number": "205",
+    "article_title": "Presumption of unfitness to drive.",
+    "id": "motor-vehicles_section_205"
+  },
+  "id": "motor-vehicles_section_205",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Offences, Penalties and Procedure",
+    "range": "ss. 177–210D"
+  },
+  "article": {
+    "number": "205",
+    "title": "Presumption of unfitness to drive.",
+    "content": "In any proceeding for an offence punishable under section 185 if it is proved that the accused, when requested by a police officer at any time so to do, had refused, omitted or failed to consent to the taking of or providing a specimen of his breath for a breath test or a specimen of his blood for a laboratory test, his refusal, omission or failure may, unless reasonable cause therefor is shown, be presumed to be a circumstance supporting any evidence given on behalf of the prosecution, or rebutting any evidence given on behalf of the defence, with respect to his condition at that time.\n",
+    "html": "<article class=\"provision\" data-n=\"205\" data-report=\"Section 205 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">205</span>Presumption of unfitness to drive.</h3></div><p class=\"prov-cite\">Section 205  ·  Chapter XIII  ·  page 112 of the Act</p><div class=\"prov-body\"><p>In any proceeding for an offence punishable under section 185 if it is proved that the accused, when requested by a police officer at any time so to do, had refused, omitted or failed to consent to the taking of or providing a specimen of his breath for a breath test or a specimen of his blood for a laboratory test, his refusal, omission or failure may, unless reasonable cause therefor is shown, be presumed to be a circumstance supporting any evidence given on behalf of the prosecution, or rebutting any evidence given on behalf of the defence, with respect to his condition at that time.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">205</span>Presumption of unfitness to drive.</h3></div><p class=\"prov-cite\">Section 205  ·  Chapter XIII  ·  page 112 of the Act</p><div class=\"prov-body\"><p>In any proceeding for an offence punishable under section 185 if it is proved that the accused, when requested by a police officer at any time so to do, had refused, omitted or failed to consent to the taking of or providing a specimen of his breath for a breath test or a specimen of his blood for a laboratory test, his refusal, omission or failure may, unless reasonable cause therefor is shown, be presumed to be a circumstance supporting any evidence given on behalf of the prosecution, or rebutting any evidence given on behalf of the defence, with respect to his condition at that time.</p></div>"
+  }
+}

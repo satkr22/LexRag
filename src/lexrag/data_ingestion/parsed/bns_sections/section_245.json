@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-14.html",
+    "source_order": 14,
+    "article_order": 19,
+    "order": 245,
+    "stem": "section_245",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of False Evidence and Offences Against Public Justice",
+    "heading_range": "227 – 269",
+    "heading_source": "group-head",
+    "article_number": "245",
+    "article_title": "Fraudulently suffering decree for sum not due",
+    "id": "bns_section_245"
+  },
+  "id": "bns_section_245",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of False Evidence and Offences Against Public Justice",
+    "range": "227 – 269"
+  },
+  "article": {
+    "number": "245",
+    "title": "Fraudulently suffering decree for sum not due",
+    "content": "Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due or for a larger sum than is due to such person or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\nIllustrations\nA institutes a suit against Z. Z, knowing that A is likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit of B, who has no just claim against him, in order that B, either on his own account or for the benefit of Z, may share in the proceeds of any sale of Z’s property which may be made under A’s decree. Z has committed an offence under this section.\n",
+    "html": "<article class=\"provision\" data-n=\"245\" data-report=\"Section 245 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245</span>Fraudulently suffering decree for sum not due</h3></div><p class=\"prov-cite\">Section 245 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due or for a larger sum than is due to such person or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A institutes a suit against Z. Z, knowing that A is likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit of B, who has no just claim against him, in order that B, either on his own account or for the benefit of Z, may share in the proceeds of any sale of Z’s property which may be made under A’s decree. Z has committed an offence under this section.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245</span>Fraudulently suffering decree for sum not due</h3></div><p class=\"prov-cite\">Section 245 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due or for a larger sum than is due to such person or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A institutes a suit against Z. Z, knowing that A is likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit of B, who has no just claim against him, in order that B, either on his own account or for the benefit of Z, may share in the proceeds of any sale of Z’s property which may be made under A’s decree. Z has committed an offence under this section.</p></div>"
+  }
+}

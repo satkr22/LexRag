@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_93_chunk_0",
+    "section_id": "succession_section_93",
+    "token_count": 378,
+    "text": "[Act: succession\n Chapter: Of the construction of Wills\n Section: 93::Bequest to “heirs,” etc., of particular person without qualifying terms.\n]\n\n\nWhere a bequest is made to the “heirs” or “right heirs” or “relations” or “nearest relations” or “family” or “kindred” or “nearest of kin” or “next-of-kin” of a particular person without any qualifying terms, and the class so designated forms the direct and independent object of the bequest, the property bequeathed shall be distributed as if it had belonged to such person and he had died intestate in respect of it, leaving assets for the payment of his debts independently of such property.\nIllustrations\n(i) A leaves his property “to my own nearest relations”. The property goes to those who would be entitled to it if A had died intestate, leaving assets for the payment of his debts independently of such property.\n(ii) A bequeaths 10,000 rupees “to B for his life, and, after the death of B, to my own right heirs”. The legacy after B’s death belongs to those who would be entitled to it if it had formed part of A’s unbequeathed property.\n(iii) A leaves his property to B; but if B dies before him, to B’s next-of-kin; B dies before A; the property devolves as if it had belonged to B, and he had died intestate, leaving assets for the payment of his debts independently of such property.\n(iv) A leaves 10,000 rupees “to B for his life, and after his decease to the heirs of C”. The legacy goes as if it had belonged to C, and he had died intestate, leaving assets for the payment of his debt independently of the legacy.",
+    "metadata": {
+      "chunk_id": "succession_section_93_chunk_0",
+      "section_id": "succession_section_93",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter VI",
+      "chapter_title": "Of the construction of Wills",
+      "section_number": "93",
+      "section_title": "Bequest to “heirs,” etc., of particular person without qualifying terms."
+    }
+  }
+]

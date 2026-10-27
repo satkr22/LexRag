@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_116_chunk_0",
+    "section_id": "succession_section_116",
+    "token_count": 316,
+    "text": "[Act: succession\n Chapter: Of void Bequests\n Section: 116::Bequest to take effect on failure of prior bequest.\n]\n\n\nWhere by reason of any of the rules contained in sections 113 and 114, any bequest in favour of a person or of a class of persons is void in regard to such person or the whole of such class, any bequest contained in the same will and intended to take effect after or upon failure of such prior bequest is also void.]\nIllustrations\n(i) A fund is bequeathed to A for his life, and after his death to such of his sons as shall first attain the age of 25, for his life, and after the decease of such son to B. A and B survive the testator. The bequest to B is intended to take effect after the bequest to such of the sons of A as shall first attain the age of 25, which bequest is void under section 114. The bequest to B is void.\n(ii) A fund is bequeathed to A for his life, and after his death to such of his sons as shall first attain the age of 25, and, if no son of A shall attain that age, to B. A and B survive the testator. The bequest to B is intended to take effect upon failure of the bequest to such of A’s sons as shall first attain the age of 25, which bequest is void under section 114. The bequest to B is void.",
+    "metadata": {
+      "chunk_id": "succession_section_116_chunk_0",
+      "section_id": "succession_section_116",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter VII",
+      "chapter_title": "Of void Bequests",
+      "section_number": "116",
+      "section_title": "Bequest to take effect on failure of prior bequest."
+    }
+  }
+]

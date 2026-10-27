@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-13.html",
+    "source_order": 13,
+    "article_order": 11,
+    "order": 182,
+    "stem": "section_159",
+    "heading_number": "Part III · Chapter V",
+    "heading_title": "Administration and Distribution of the Estate of the Bankrupt",
+    "heading_range": "ss. 149–178",
+    "heading_source": "group-head",
+    "article_number": "159",
+    "article_title": "After-acquired property of bankrupt.",
+    "id": "insolvency_section_159"
+  },
+  "id": "insolvency_section_159",
+  "heading": {
+    "number": "Part III · Chapter V",
+    "title": "Administration and Distribution of the Estate of the Bankrupt",
+    "range": "ss. 149–178"
+  },
+  "article": {
+    "number": "159",
+    "title": "After-acquired property of bankrupt.",
+    "content": "(1) The bankruptcy trustee shall be entitled to claim for the estate of the bankrupt, any after-acquired property by giving a notice to the bankrupt.\n(2) A notice under sub-section (1) shall not be served in respect of—\n(a) excluded assets; or\n(b) any property which is acquired by or devolves upon the bankrupt after a discharge order is passed under section 138.\n(3) The notice under sub-section (2) shall be given within fifteen days from the day on which the acquisition or devolution of the after-acquired property comes to the knowledge of the bankruptcy trustee.\n(4) For the purposes of sub-section (3)—\n(a) anything which comes to the knowledge of the bankruptcy trustee shall be deemed to have come to the knowledge of the successor of the bankruptcy trustee at the same time; and\n(b) anything which comes to the knowledge of a person before he is appointed as a bankruptcy trustee shall be deemed to have come to his knowledge on the date of his appointment as bankruptcy trustee.\n(5) The bankruptcy trustee shall not be entitled, by virtue of this section, to claim from any person who has acquired any right over after-acquired property, in good faith, for value and without notice of the bankruptcy.\n(6) A notice may be served after the expiry of the period under sub-section (3) only with the approval of the Adjudicating Authority.\nExplanation.—For the purposes of this section, the term “after-acquired property” means any property which has been acquired by or has devolved upon the bankrupt after the bankruptcy commencement date.\n",
+    "html": "<article class=\"provision\" data-n=\"159\" data-report=\"Section 159 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">159</span>After-acquired property of bankrupt.</h3></div><p class=\"prov-cite\">Section 159  ·  Part III · Chapter V  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankruptcy trustee shall be entitled to claim for the estate of the bankrupt, any after-acquired property by giving a notice to the bankrupt.</p><p class=\"lvl\">(2) A notice under sub-section (1) shall not be served in respect of—</p><p class=\"lvl\">(a) excluded assets; or</p><p class=\"lvl\">(b) any property which is acquired by or devolves upon the bankrupt after a discharge order is passed under section 138.</p><p class=\"lvl\">(3) The notice under sub-section (2) shall be given within fifteen days from the day on which the acquisition or devolution of the after-acquired property comes to the knowledge of the bankruptcy trustee.</p><p class=\"lvl\">(4) For the purposes of sub-section (3)—</p><p class=\"lvl\">(a) anything which comes to the knowledge of the bankruptcy trustee shall be deemed to have come to the knowledge of the successor of the bankruptcy trustee at the same time; and</p><p class=\"lvl\">(b) anything which comes to the knowledge of a person before he is appointed as a bankruptcy trustee shall be deemed to have come to his knowledge on the date of his appointment as bankruptcy trustee.</p><p class=\"lvl\">(5) The bankruptcy trustee shall not be entitled, by virtue of this section, to claim from any person who has acquired any right over after-acquired property, in good faith, for value and without notice of the bankruptcy.</p><p class=\"lvl\">(6) A notice may be served after the expiry of the period under sub-section (3) only with the approval of the Adjudicating Authority.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the term “after-acquired property” means any property which has been acquired by or has devolved upon the bankrupt after the bankruptcy commencement date.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">159</span>After-acquired property of bankrupt.</h3></div><p class=\"prov-cite\">Section 159  ·  Part III · Chapter V  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankruptcy trustee shall be entitled to claim for the estate of the bankrupt, any after-acquired property by giving a notice to the bankrupt.</p><p class=\"lvl\">(2) A notice under sub-section (1) shall not be served in respect of—</p><p class=\"lvl\">(a) excluded assets; or</p><p class=\"lvl\">(b) any property which is acquired by or devolves upon the bankrupt after a discharge order is passed under section 138.</p><p class=\"lvl\">(3) The notice under sub-section (2) shall be given within fifteen days from the day on which the acquisition or devolution of the after-acquired property comes to the knowledge of the bankruptcy trustee.</p><p class=\"lvl\">(4) For the purposes of sub-section (3)—</p><p class=\"lvl\">(a) anything which comes to the knowledge of the bankruptcy trustee shall be deemed to have come to the knowledge of the successor of the bankruptcy trustee at the same time; and</p><p class=\"lvl\">(b) anything which comes to the knowledge of a person before he is appointed as a bankruptcy trustee shall be deemed to have come to his knowledge on the date of his appointment as bankruptcy trustee.</p><p class=\"lvl\">(5) The bankruptcy trustee shall not be entitled, by virtue of this section, to claim from any person who has acquired any right over after-acquired property, in good faith, for value and without notice of the bankruptcy.</p><p class=\"lvl\">(6) A notice may be served after the expiry of the period under sub-section (3) only with the approval of the Adjudicating Authority.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the term “after-acquired property” means any property which has been acquired by or has devolved upon the bankrupt after the bankruptcy commencement date.</p></div>"
+  }
+}

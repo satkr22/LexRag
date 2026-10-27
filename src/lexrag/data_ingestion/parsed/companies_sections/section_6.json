@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-02.html",
+    "source_order": 2,
+    "article_order": 5,
+    "order": 7,
+    "stem": "section_6",
+    "heading_number": "Chapter II",
+    "heading_title": "Incorporation of Company and Matters Incidental Thereto",
+    "heading_range": "ss. 3–22",
+    "heading_source": "group-head",
+    "article_number": "6",
+    "article_title": "Act to override memorandum, articles, etc.",
+    "id": "companies_section_6"
+  },
+  "id": "companies_section_6",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Incorporation of Company and Matters Incidental Thereto",
+    "range": "ss. 3–22"
+  },
+  "article": {
+    "number": "6",
+    "title": "Act to override memorandum, articles, etc.",
+    "content": "Save as otherwise expressly provided in this Act—\n(a) the provisions of this Act shall have effect notwithstanding anything to the contrary contained in the memorandum or articles of a company, or in any agreement executed by it, or in any resolution passed by the company in general meeting or by its Board of Directors, whether the same be registered, executed or passed, as the case may be, before or after the commencement of this Act; and\n(b) any provision contained in the memorandum, articles, agreement or resolution shall, to the extent to which it is repugnant to the provisions of this Act, become or be void, as the case may be.\n",
+    "html": "<article class=\"provision\" data-n=\"6\" data-report=\"Section 6 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Act to override memorandum, articles, etc.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter II  ·  page 30 of the Act</p><div class=\"prov-body\"><p>Save as otherwise expressly provided in this Act—</p><p class=\"lvl\">(a) the provisions of this Act shall have effect notwithstanding anything to the contrary contained in the memorandum or articles of a company, or in any agreement executed by it, or in any resolution passed by the company in general meeting or by its Board of Directors, whether the same be registered, executed or passed, as the case may be, before or after the commencement of this Act; and</p><p class=\"lvl\">(b) any provision contained in the memorandum, articles, agreement or resolution shall, to the extent to which it is repugnant to the provisions of this Act, become or be void, as the case may be.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Act to override memorandum, articles, etc.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter II  ·  page 30 of the Act</p><div class=\"prov-body\"><p>Save as otherwise expressly provided in this Act—</p><p class=\"lvl\">(a) the provisions of this Act shall have effect notwithstanding anything to the contrary contained in the memorandum or articles of a company, or in any agreement executed by it, or in any resolution passed by the company in general meeting or by its Board of Directors, whether the same be registered, executed or passed, as the case may be, before or after the commencement of this Act; and</p><p class=\"lvl\">(b) any provision contained in the memorandum, articles, agreement or resolution shall, to the extent to which it is repugnant to the provisions of this Act, become or be void, as the case may be.</p></div>"
+  }
+}

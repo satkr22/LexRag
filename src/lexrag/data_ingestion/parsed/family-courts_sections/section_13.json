@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "family-courts",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": null,
+    "source_file": "family-courts_sections/section-13.html",
+    "source_order": 13,
+    "article_order": 1,
+    "order": 13,
+    "stem": "section_13",
+    "heading_number": "Chapter IV",
+    "heading_title": "Procedure",
+    "heading_range": "ss. 9–18",
+    "heading_source": "manifest",
+    "article_number": "13",
+    "article_title": "Right to legal representation.",
+    "id": "family-courts_section_13"
+  },
+  "id": "family-courts_section_13",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Procedure",
+    "range": "ss. 9–18"
+  },
+  "article": {
+    "number": "13",
+    "title": "Right to legal representation.",
+    "content": "Notwithstanding anything contained in any law, no party to a suit or proceeding before a Family Court shall be entitled, as of right, to be represented by a legal practitioner:\nProvided that if the Family Court considers it necessary in the interest of justice, it may seek the assistance of a legal expert as amicus curiae.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Right to legal representation.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter IV  ·  page 6 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in any law, no party to a suit or proceeding before a Family Court shall be entitled, as of right, to be represented by a legal practitioner:</p><p class=\"prvso\">Provided that if the Family Court considers it necessary in the interest of justice, it may seek the assistance of a legal expert as amicus curiae.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Right to legal representation.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter IV  ·  page 6 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in any law, no party to a suit or proceeding before a Family Court shall be entitled, as of right, to be represented by a legal practitioner:</p><p class=\"prvso\">Provided that if the Family Court considers it necessary in the interest of justice, it may seek the assistance of a legal expert as amicus curiae.</p></div>"
+  }
+}

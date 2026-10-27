@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_269SS_chunk_0",
+    "section_id": "income-tax-1961_section_269SS",
+    "token_count": 483,
+    "text": "[Act: income-tax-1961\n Chapter: None\n Section: 269SS::REQUIREMENT AS TO MODE OF ACCEPTANCE, PAYMENT OR REPAYMENT IN CERTAIN CASES TO COUNTERACT EVASION OF Mode of taking or accepting certain loans, deposits and specified sum.\n]\n\nNo person shall take or accept from any other person (herein referred to as the depositor), any loan or deposit or any specified sum, otherwise than by an account payee cheque or account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as may be prescribed, if,—\n\n(a) the amount of such loan or deposit or specified sum or the aggregate amount of such loan, deposit and specified sum; or\n  (b) on the date of taking or accepting such loan or deposit or specified sum, any loan or deposit or specified sum taken or accepted earlier by such person from the depositor is remaining unpaid (whether repayment has fallen due or not), the amount or the aggregate amount remaining unpaid; or\n  (c) the amount or the aggregate amount referred to in clause (a) together with the amount or the aggregate amount referred to in clause (b), is twenty thousand rupees or more:\n  Provided that the provisions of this section shall not apply to any loan or deposit or specified sum taken or accepted from, or any loan or deposit or specified sum taken or accepted by,—\n  (a) the Government;\n  (b) any banking company, post office savings bank or co-operative bank;\n  (c) any corporation established by a Central, State or Provincial Act;\n  (d) any Government company as defined in clause (45) of section 2 of the Companies Act, 2013 (18 of 2013);\n  (e) such other institution, association or body or class of institutions, associations or bodies which the Central Government may, for reasons to be recorded in writing, notify in this behalf in the Official Gazette:\n  Provided further that the provisions of this section shall not apply to any loan or deposit or specified sum, where the person from whom the loan or deposit or specified sum is taken or accepted and the person by whom the loan or deposit or specified sum is taken or accepted, are both having agricultural income and neither of them has any income chargeable to tax under this Act:",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_269SS_chunk_0",
+      "section_id": "income-tax-1961_section_269SS",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX-B",
+      "chapter_title": null,
+      "section_number": "269SS",
+      "section_title": "REQUIREMENT AS TO MODE OF ACCEPTANCE, PAYMENT OR REPAYMENT IN CERTAIN CASES TO COUNTERACT EVASION OF Mode of taking or accepting certain loans, deposits and specified sum."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_269SS_chunk_1",
+    "section_id": "income-tax-1961_section_269SS",
+    "token_count": 425,
+    "text": "[Act: income-tax-1961\n Chapter: None\n Section: 269SS::REQUIREMENT AS TO MODE OF ACCEPTANCE, PAYMENT OR REPAYMENT IN CERTAIN CASES TO COUNTERACT EVASION OF Mode of taking or accepting certain loans, deposits and specified sum.\n]\n\nNo person shall take or accept from any other person (herein referred to as the depositor), any loan or deposit or any specified sum, otherwise than by an account payee cheque or account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as may be prescribed, if,—\n\n(a) the amount of such loan or deposit or specified sum or the aggregate amount of such loan, deposit and specified sum; or\n  Provided also that the provisions of this section shall have effect, as if for the words \"twenty thousand rupees\", the words \"two lakh rupees\" had been substituted in the case of any deposit or loan where,––\n  (a) such deposit is accepted by a primary agricultural credit society or a primary co-operative agricultural and rural development bank from its member; or\n  (b) such loan is taken from a primary agricultural credit society or a primary co-operative agricultural and rural development bank by its member.\n  Explanation.—For the purposes of this section,—\n  (i) banking company\" means a company to which the provisions of the Banking Regulation Act, 1949 (10 of 1949) applies and includes any bank or banking institution referred to in section 51 of that Act;\n  (ii) \"co-operative bank\", \"primary agricultural credit society\" and \"primary co-operative agricultural and rural development bank\" shall have the meanings respectively assigned to them in the Explanation to sub-section (4) of section 80P;\n  (iii) \"loan or deposit\" means loan or deposit of money;\n  (iv) \"specified sum\" means any sum of money receivable, whether as advance or otherwise, in relation to transfer of an immovable property, whether or not the transfer takes place.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_269SS_chunk_1",
+      "section_id": "income-tax-1961_section_269SS",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX-B",
+      "chapter_title": null,
+      "section_number": "269SS",
+      "section_title": "REQUIREMENT AS TO MODE OF ACCEPTANCE, PAYMENT OR REPAYMENT IN CERTAIN CASES TO COUNTERACT EVASION OF Mode of taking or accepting certain loans, deposits and specified sum."
+    }
+  }
+]

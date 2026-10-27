@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_181_chunk_0",
+    "section_id": "motor-vehicles_section_181",
+    "token_count": 87,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 181::Driving vehicles in contravention of section 3 or section 4.\n]\n\n\nWhoever, drives a motor vehicle in contravention of section 3 or section 4 shall be punishable with imprisonment for a term which may extend to three months, or with fine 5[of five thousand rupees], or with both.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_181_chunk_0",
+      "section_id": "motor-vehicles_section_181",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "181",
+      "section_title": "Driving vehicles in contravention of section 3 or section 4."
+    }
+  }
+]

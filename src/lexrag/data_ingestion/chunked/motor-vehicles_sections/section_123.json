@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_123_chunk_0",
+    "section_id": "motor-vehicles_section_123",
+    "token_count": 90,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 123::Riding on running board, etc.\n]\n\n\n(1) No person driving or in charge of a motor vehicle shall carry any person or permit any person to be carried on the running board or otherwise than within the body of the vehicle.\n(2) No person shall travel on the running board or on the top or on the bonnet of a motor vehicle.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_123_chunk_0",
+      "section_id": "motor-vehicles_section_123",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "123",
+      "section_title": "Riding on running board, etc."
+    }
+  }
+]

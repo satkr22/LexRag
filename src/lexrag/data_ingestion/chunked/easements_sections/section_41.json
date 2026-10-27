@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_41_chunk_0",
+    "section_id": "easements_section_41",
+    "token_count": 101,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 41::Extinction on termination of necessity.\n]\n\n\nAn easement of necessity is extinguished when the necessity comes to an end.\nIllustration\nA grants B a field inaccessible except by passing over A’s adjoining land. B afterwards purchases a part of that land over which he can pass to his field. The right of way over A’s land which B had acquired is extinguished.",
+    "metadata": {
+      "chunk_id": "easements_section_41_chunk_0",
+      "section_id": "easements_section_41",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "41",
+      "section_title": "Extinction on termination of necessity."
+    }
+  }
+]

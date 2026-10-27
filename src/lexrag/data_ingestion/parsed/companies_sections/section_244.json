@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-16.html",
+    "source_order": 16,
+    "article_order": 4,
+    "order": 248,
+    "stem": "section_244",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Prevention of Oppression and Mismanagement",
+    "heading_range": "ss. 241–246",
+    "heading_source": "group-head",
+    "article_number": "244",
+    "article_title": "Right to apply under section 241.",
+    "id": "companies_section_244"
+  },
+  "id": "companies_section_244",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Prevention of Oppression and Mismanagement",
+    "range": "ss. 241–246"
+  },
+  "article": {
+    "number": "244",
+    "title": "Right to apply under section 241.",
+    "content": "(1) The following members of a company shall have the right to apply under section 241, namely:—\n(a) in the case of a company having a share capital, not less than one hundred members of the company or not less than one-tenth of the total number of its members, whichever is less, or any member or members holding not less than one-tenth of the issued share capital of the company, subject to the condition that the applicant or applicants has or have paid all calls and other sums due on his or their shares;\n(b) in the case of a company not having a share capital, not less than one-fifth of the total number of its members:\nProvided that the Tribunal may, on an application made to it in this behalf, waive all or any of the requirements specified in clause (a) or clause (b) so as to enable the members to apply under section 241.\nExplanation.—For the purposes of this sub-section, where any share or shares are held by two or more persons jointly, they shall be counted only as one member.\n(2) Where any members of a company are entitled to make an application under sub-section (1), any one or more of them having obtained the consent in writing of the rest, may make the application on behalf and for the benefit of all of them.\n",
+    "html": "<article class=\"provision\" data-n=\"244\" data-report=\"Section 244 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">244</span>Right to apply under section 241.</h3></div><p class=\"prov-cite\">Section 244  ·  Chapter XVI  ·  pages 163–164 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The following members of a company shall have the right to apply under section 241, namely:—</p><p class=\"lvl\">(a) in the case of a company having a share capital, not less than one hundred members of the company or not less than one-tenth of the total number of its members, whichever is less, or any member or members holding not less than one-tenth of the issued share capital of the company, subject to the condition that the applicant or applicants has or have paid all calls and other sums due on his or their shares;</p><p class=\"lvl\">(b) in the case of a company not having a share capital, not less than one-fifth of the total number of its members:</p><p class=\"prvso\">Provided that the Tribunal may, on an application made to it in this behalf, waive all or any of the requirements specified in clause (a) or clause (b) so as to enable the members to apply under section 241.</p><p class=\"prvso\">Explanation.—For the purposes of this sub-section, where any share or shares are held by two or more persons jointly, they shall be counted only as one member.</p><p class=\"lvl\">(2) Where any members of a company are entitled to make an application under sub-section (1), any one or more of them having obtained the consent in writing of the rest, may make the application on behalf and for the benefit of all of them.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">244</span>Right to apply under section 241.</h3></div><p class=\"prov-cite\">Section 244  ·  Chapter XVI  ·  pages 163–164 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The following members of a company shall have the right to apply under section 241, namely:—</p><p class=\"lvl\">(a) in the case of a company having a share capital, not less than one hundred members of the company or not less than one-tenth of the total number of its members, whichever is less, or any member or members holding not less than one-tenth of the issued share capital of the company, subject to the condition that the applicant or applicants has or have paid all calls and other sums due on his or their shares;</p><p class=\"lvl\">(b) in the case of a company not having a share capital, not less than one-fifth of the total number of its members:</p><p class=\"prvso\">Provided that the Tribunal may, on an application made to it in this behalf, waive all or any of the requirements specified in clause (a) or clause (b) so as to enable the members to apply under section 241.</p><p class=\"prvso\">Explanation.—For the purposes of this sub-section, where any share or shares are held by two or more persons jointly, they shall be counted only as one member.</p><p class=\"lvl\">(2) Where any members of a company are entitled to make an application under sub-section (1), any one or more of them having obtained the consent in writing of the rest, may make the application on behalf and for the benefit of all of them.</p></div>"
+  }
+}

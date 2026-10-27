@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-15.html",
+    "source_order": 15,
+    "article_order": 35,
+    "order": 375,
+    "stem": "section_294",
+    "heading_number": "Part XII",
+    "heading_title": "Finance, Property, Contracts and Suits",
+    "heading_range": "264 – 300A",
+    "heading_source": "group-head",
+    "article_number": "294",
+    "article_title": "Succession to property, assets, rights, liabilities and obligations in certain cases",
+    "id": "constitution_section_294"
+  },
+  "id": "constitution_section_294",
+  "heading": {
+    "number": "Part XII",
+    "title": "Finance, Property, Contracts and Suits",
+    "range": "264 – 300A"
+  },
+  "article": {
+    "number": "294",
+    "title": "Succession to property, assets, rights, liabilities and obligations in certain cases",
+    "content": "As from the commencement of this Constitution—\n(a)all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of the Dominion of India and all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of each Governor’s Province shall vest respectively in the Union and the corresponding State; and\n(b)all rights, liabilities and obligations of the Government of the Dominion of India and of the Government of each Governor’s Province, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations respectively of the Government of India and the Government of each corresponding State,\nsubject to any adjustment made or to be made by reason of the creation before the commencement of this Constitution of the Dominion of Pakistan or of the Provinces of West Bengal, East Bengal, West Punjab and East Punjab.\n",
+    "html": "<article class=\"provision\" data-n=\"294\" data-report=\"Article 294 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">294</span>Succession to property, assets, rights, liabilities and obligations in certain cases</h3></div><p class=\"prov-cite\">Article 294 · Part XII</p><div class=\"prov-body\"><p>As from the commencement of this Constitution—</p><p><span class=\"lbl\">(a)</span>all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of the Dominion of India and all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of each Governor’s Province shall vest respectively in the Union and the corresponding State; and</p><p><span class=\"lbl\">(b)</span>all rights, liabilities and obligations of the Government of the Dominion of India and of the Government of each Governor’s Province, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations respectively of the Government of India and the Government of each corresponding State,</p><p>subject to any adjustment made or to be made by reason of the creation before the commencement of this Constitution of the Dominion of Pakistan or of the Provinces of West Bengal, East Bengal, West Punjab and East Punjab.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">294</span>Succession to property, assets, rights, liabilities and obligations in certain cases</h3></div><p class=\"prov-cite\">Article 294 · Part XII</p><div class=\"prov-body\"><p>As from the commencement of this Constitution—</p><p><span class=\"lbl\">(a)</span>all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of the Dominion of India and all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of each Governor’s Province shall vest respectively in the Union and the corresponding State; and</p><p><span class=\"lbl\">(b)</span>all rights, liabilities and obligations of the Government of the Dominion of India and of the Government of each Governor’s Province, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations respectively of the Government of India and the Government of each corresponding State,</p><p>subject to any adjustment made or to be made by reason of the creation before the commencement of this Constitution of the Dominion of Pakistan or of the Provinces of West Bengal, East Bengal, West Punjab and East Punjab.</p></div>"
+  }
+}

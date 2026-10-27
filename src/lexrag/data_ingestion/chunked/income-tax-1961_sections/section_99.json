@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_99_chunk_0",
+    "section_id": "income-tax-1961_section_99",
+    "token_count": 118,
+    "text": "[Act: income-tax-1961\n Chapter: General Anti-avoidance Rule\n Section: 99::Treatment of connected person and accommodating party.\n]\n\n\nFor the purposes of this Chapter, in determining whether a tax benefit exists,—\n(i) the parties who are connected persons in relation to each other may be treated as one and the same person;\n(ii) any accommodating party may be disregarded;\n(iii) the accommodating party and any other party may be treated as one and the same person;\n(iv) the arrangement may be considered or looked through by disregarding any corporate structure.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_99_chunk_0",
+      "section_id": "income-tax-1961_section_99",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter X-A",
+      "chapter_title": "General Anti-avoidance Rule",
+      "section_number": "99",
+      "section_title": "Treatment of connected person and accommodating party."
+    }
+  }
+]

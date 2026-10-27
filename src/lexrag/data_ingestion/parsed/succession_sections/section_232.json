@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-34.html",
+    "source_order": 34,
+    "article_order": 15,
+    "order": 232,
+    "stem": "section_232",
+    "heading_number": "Part IX · Chapter I",
+    "heading_title": "Of Grant of Probate and Letters of Administration",
+    "heading_range": "ss. 218–236A",
+    "heading_source": "group-head",
+    "article_number": "232",
+    "article_title": "Grant of administration to universal or residuary legatees.",
+    "id": "succession_section_232"
+  },
+  "id": "succession_section_232",
+  "heading": {
+    "number": "Part IX · Chapter I",
+    "title": "Of Grant of Probate and Letters of Administration",
+    "range": "ss. 218–236A"
+  },
+  "article": {
+    "number": "232",
+    "title": "Grant of administration to universal or residuary legatees.",
+    "content": "When—\n(a) the deceased has made a will, but has not appointed an executor, or\n(b) the deceased has appointed an executor who is legally incapable or refuses to act, or who has died before the testator or before he has proved the will, or\n(c) the executor dies after having proved the will, but before he has administered all the estate of the deceased, an universal or a residuary legatee may be admitted to prove the will, and letters of administration with the will annexed may be granted to him of the whole estate, or of so much thereof as may be unadministered.\n",
+    "html": "<article class=\"provision\" data-n=\"232\" data-report=\"Section 232 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">232</span>Grant of administration to universal or residuary legatees.</h3></div><p class=\"prov-cite\">Section 232  ·  Part IX · Chapter I  ·  page 71 of the Act</p><div class=\"prov-body\"><p>When—</p><p class=\"lvl\">(a) the deceased has made a will, but has not appointed an executor, or</p><p class=\"lvl\">(b) the deceased has appointed an executor who is legally incapable or refuses to act, or who has died before the testator or before he has proved the will, or</p><p class=\"lvl\">(c) the executor dies after having proved the will, but before he has administered all the estate of the deceased, an universal or a residuary legatee may be admitted to prove the will, and letters of administration with the will annexed may be granted to him of the whole estate, or of so much thereof as may be unadministered.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">232</span>Grant of administration to universal or residuary legatees.</h3></div><p class=\"prov-cite\">Section 232  ·  Part IX · Chapter I  ·  page 71 of the Act</p><div class=\"prov-body\"><p>When—</p><p class=\"lvl\">(a) the deceased has made a will, but has not appointed an executor, or</p><p class=\"lvl\">(b) the deceased has appointed an executor who is legally incapable or refuses to act, or who has died before the testator or before he has proved the will, or</p><p class=\"lvl\">(c) the executor dies after having proved the will, but before he has administered all the estate of the deceased, an universal or a residuary legatee may be admitted to prove the will, and letters of administration with the will annexed may be granted to him of the whole estate, or of so much thereof as may be unadministered.</p></div>"
+  }
+}

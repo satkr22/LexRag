@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-02.html",
+    "source_order": 2,
+    "article_order": 24,
+    "order": 28,
+    "stem": "section_25A",
+    "heading_number": "Chapter II",
+    "heading_title": "Licensing of Drivers of Motor Vehicles",
+    "heading_range": "ss. 3–28",
+    "heading_source": "group-head",
+    "article_number": "25A",
+    "article_title": "National Register of Driving Licences.",
+    "id": "motor-vehicles_section_25A"
+  },
+  "id": "motor-vehicles_section_25A",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Licensing of Drivers of Motor Vehicles",
+    "range": "ss. 3–28"
+  },
+  "article": {
+    "number": "25A",
+    "title": "National Register of Driving Licences.",
+    "content": "(1) The Central Government shall maintain a National Register of Driving Licences in such form and manner as may be prescribed.\n(2) All State Registers of Driving Licences shall be subsumed under the National Register of Driving Licences by a date to be notified by the Central Government.\n(3) No driving licence issued, or renewed, under this Act shall be valid unless it has been issued a unique driving licence number under the National Register of Driving Licences.\n(4) All State Governments and licensing authorities under this Act shall transmit all information including contained data in the State Register of Driving Licences in such form and manner as may be prescribed by the Central Government.\n(5) The State Governments shall be entitled to access the National Register and update their records in such manner as may be prescribed by the Central Government.]\n",
+    "html": "<article class=\"provision\" data-n=\"25A\" data-report=\"Section 25A · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25A</span><sup>1</sup>[National Register of Driving Licences.</h3></div><p class=\"prov-cite\">Section 25A  ·  Chapter II  ·  page 25 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall maintain a National Register of Driving Licences in such form and manner as may be prescribed.</p><p class=\"lvl\">(2) All State Registers of Driving Licences shall be subsumed under the National Register of Driving Licences by a date to be notified by the Central Government.</p><p class=\"lvl\">(3) No driving licence issued, or renewed, under this Act shall be valid unless it has been issued a unique driving licence number under the National Register of Driving Licences.</p><p class=\"lvl\">(4) All State Governments and licensing authorities under this Act shall transmit all information including contained data in the State Register of Driving Licences in such form and manner as may be prescribed by the Central Government.</p><p class=\"lvl\">(5) The State Governments shall be entitled to access the National Register and update their records in such manner as may be prescribed by the Central Government.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 32 of 2019, s. 12 (w.e.f. 1-4-2021).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25A</span><sup>1</sup>[National Register of Driving Licences.</h3></div><p class=\"prov-cite\">Section 25A  ·  Chapter II  ·  page 25 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall maintain a National Register of Driving Licences in such form and manner as may be prescribed.</p><p class=\"lvl\">(2) All State Registers of Driving Licences shall be subsumed under the National Register of Driving Licences by a date to be notified by the Central Government.</p><p class=\"lvl\">(3) No driving licence issued, or renewed, under this Act shall be valid unless it has been issued a unique driving licence number under the National Register of Driving Licences.</p><p class=\"lvl\">(4) All State Governments and licensing authorities under this Act shall transmit all information including contained data in the State Register of Driving Licences in such form and manner as may be prescribed by the Central Government.</p><p class=\"lvl\">(5) The State Governments shall be entitled to access the National Register and update their records in such manner as may be prescribed by the Central Government.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 32 of 2019, s. 12 (w.e.f. 1-4-2021).</p></div></div>"
+  }
+}

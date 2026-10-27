@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-13.html",
+    "source_order": 13,
+    "article_order": 26,
+    "order": 218,
+    "stem": "section_194C",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Offences, Penalties and Procedure",
+    "heading_range": "ss. 177–210D",
+    "heading_source": "group-head",
+    "article_number": "194C",
+    "article_title": "Penalty for violation of safety measures for motor cycle drivers and pillion riders.",
+    "id": "motor-vehicles_section_194C"
+  },
+  "id": "motor-vehicles_section_194C",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Offences, Penalties and Procedure",
+    "range": "ss. 177–210D"
+  },
+  "article": {
+    "number": "194C",
+    "title": "Penalty for violation of safety measures for motor cycle drivers and pillion riders.",
+    "content": "Whoever drives a motor cycle or causes or allows a motor cycle to be driven in contravention of the provisions of section 128 or the rules or regulations made thereunder shall be 4[liable for a penalty] of one thousand rupees and he shall be disqualified for holding licence for a period of three months.\n",
+    "html": "<article class=\"provision\" data-n=\"194C\" data-report=\"Section 194C · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">194C</span>Penalty for violation of safety measures for motor cycle drivers and pillion riders.</h3></div><p class=\"prov-cite\">Section 194C  ·  Chapter XIII  ·  page 107 of the Act</p><div class=\"prov-body\"><p>Whoever drives a motor cycle or causes or allows a motor cycle to be driven in contravention of the provisions of section 128 or the rules or regulations made thereunder shall be <sup>4</sup>[liable for a penalty] of one thousand rupees and he shall be disqualified for holding licence for a period of three months.</p><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Subs. by Act 8 of 2026, s. 2 and Sch. for “punishable with a fine” (w.e.f. 15-8-2026).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">194C</span>Penalty for violation of safety measures for motor cycle drivers and pillion riders.</h3></div><p class=\"prov-cite\">Section 194C  ·  Chapter XIII  ·  page 107 of the Act</p><div class=\"prov-body\"><p>Whoever drives a motor cycle or causes or allows a motor cycle to be driven in contravention of the provisions of section 128 or the rules or regulations made thereunder shall be <sup>4</sup>[liable for a penalty] of one thousand rupees and he shall be disqualified for holding licence for a period of three months.</p><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Subs. by Act 8 of 2026, s. 2 and Sch. for “punishable with a fine” (w.e.f. 15-8-2026).</p></div></div>"
+  }
+}

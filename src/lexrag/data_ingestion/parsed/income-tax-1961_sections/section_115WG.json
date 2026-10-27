@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-31.html",
+    "source_order": 35,
+    "article_order": 8,
+    "order": 417,
+    "stem": "section_115WG",
+    "heading_number": "Chapter XII-H",
+    "heading_title": "Income-tax on Fringe Benefits",
+    "heading_range": "ss. 115W–115WM",
+    "heading_source": "group-head",
+    "article_number": "115WG",
+    "article_title": "Fringe benefits escaping assessment.",
+    "id": "income-tax-1961_section_115WG"
+  },
+  "id": "income-tax-1961_section_115WG",
+  "heading": {
+    "number": "Chapter XII-H",
+    "title": "Income-tax on Fringe Benefits",
+    "range": "ss. 115W–115WM"
+  },
+  "article": {
+    "number": "115WG",
+    "title": "Fringe benefits escaping assessment.",
+    "content": "If the Assessing Officer has reason to believe that any fringe benefits chargeable to tax have escaped assessment for any assessment year, he may, subject to the provisions of sections 115WH, 150 and 153, assess or reassess such fringe benefits and also any other fringe benefits chargeable to tax which have escaped assessment and which come to his notice subsequently in the course of the proceedings under this section, for the assessment year concerned (hereafter referred to as the relevant assessment year).\nExplanation.—For the purposes of this section, the following shall also be deemed to be cases where fringe benefits chargeable to tax have escaped assessment, namely:—\n(a) where no return of fringe benefits has been furnished by the assessee;\n(b) where a return of fringe benefits has been furnished by the assessee but no assessment has been made and it is noticed by the Assessing Officer that the assessee has understated the value of fringe benefits in the return;\n(c) where an assessment has been made, but the fringe benefits chargeable to tax have been under-assessed.\n",
+    "html": "<article class=\"provision\" data-n=\"115WG\" data-report=\"Section 115WG · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115WG</span>Fringe benefits escaping assessment.</h3></div><p class=\"prov-cite\">Section 115WG  ·  Chapter XII-H  ·  C.—Procedure for filing of return in respect of fringe benefits, assessment and payment of tax in respect thereof  ·  page 547 of the Act</p><div class=\"prov-body\"><p>If the Assessing Officer has reason to believe that any fringe benefits chargeable to tax have escaped assessment for any assessment year, he may, subject to the provisions of sections 115WH, 150 and 153, assess or reassess such fringe benefits and also any other fringe benefits chargeable to tax which have escaped assessment and which come to his notice subsequently in the course of the proceedings under this section, for the assessment year concerned (hereafter referred to as the relevant assessment year).</p><p class=\"prvso\">Explanation.—For the purposes of this section, the following shall also be deemed to be cases where fringe benefits chargeable to tax have escaped assessment, namely:—</p><p class=\"lvl\">(a) where no return of fringe benefits has been furnished by the assessee;</p><p class=\"lvl\">(b) where a return of fringe benefits has been furnished by the assessee but no assessment has been made and it is noticed by the Assessing Officer that the assessee has understated the value of fringe benefits in the return;</p><p class=\"lvl\">(c) where an assessment has been made, but the fringe benefits chargeable to tax have been under-assessed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115WG</span>Fringe benefits escaping assessment.</h3></div><p class=\"prov-cite\">Section 115WG  ·  Chapter XII-H  ·  C.—Procedure for filing of return in respect of fringe benefits, assessment and payment of tax in respect thereof  ·  page 547 of the Act</p><div class=\"prov-body\"><p>If the Assessing Officer has reason to believe that any fringe benefits chargeable to tax have escaped assessment for any assessment year, he may, subject to the provisions of sections 115WH, 150 and 153, assess or reassess such fringe benefits and also any other fringe benefits chargeable to tax which have escaped assessment and which come to his notice subsequently in the course of the proceedings under this section, for the assessment year concerned (hereafter referred to as the relevant assessment year).</p><p class=\"prvso\">Explanation.—For the purposes of this section, the following shall also be deemed to be cases where fringe benefits chargeable to tax have escaped assessment, namely:—</p><p class=\"lvl\">(a) where no return of fringe benefits has been furnished by the assessee;</p><p class=\"lvl\">(b) where a return of fringe benefits has been furnished by the assessee but no assessment has been made and it is noticed by the Assessing Officer that the assessee has understated the value of fringe benefits in the return;</p><p class=\"lvl\">(c) where an assessment has been made, but the fringe benefits chargeable to tax have been under-assessed.</p></div>"
+  }
+}

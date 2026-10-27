@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-23.html",
+    "source_order": 23,
+    "article_order": 10,
+    "order": 298,
+    "stem": "section_298",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Plea Bargaining",
+    "heading_range": "289 – 300",
+    "heading_source": "group-head",
+    "article_number": "298",
+    "article_title": "Savings",
+    "id": "bnss_section_298"
+  },
+  "id": "bnss_section_298",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Plea Bargaining",
+    "range": "289 – 300"
+  },
+  "article": {
+    "number": "298",
+    "title": "Savings",
+    "content": "The provisions of this Chapter shall have effect notwithstanding anything inconsistent therewith contained in any other provisions of this Sanhita and nothing in such other provisions shall be construed to constrain the meaning of any provision of this Chapter.\nExplanationFor the purposes of this Chapter, the expression “Public Prosecutor” has the meaning assigned to it under clause (v) of section 2 and includes an Assistant Public Prosecutor appointed under section 19.\n",
+    "html": "<article class=\"provision\" data-n=\"298\" data-report=\"Section 298 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">298</span>Savings</h3></div><p class=\"prov-cite\">Section 298 · Chapter XXIII</p><div class=\"prov-body\"><p>The provisions of this Chapter shall have effect notwithstanding anything inconsistent therewith contained in any other provisions of this Sanhita and nothing in such other provisions shall be construed to constrain the meaning of any provision of this Chapter.</p><p><span class=\"named\">Explanation</span>For the purposes of this Chapter, the expression “Public Prosecutor” has the meaning assigned to it under clause (v) of section 2 and includes an Assistant Public Prosecutor appointed under section 19.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">298</span>Savings</h3></div><p class=\"prov-cite\">Section 298 · Chapter XXIII</p><div class=\"prov-body\"><p>The provisions of this Chapter shall have effect notwithstanding anything inconsistent therewith contained in any other provisions of this Sanhita and nothing in such other provisions shall be construed to constrain the meaning of any provision of this Chapter.</p><p><span class=\"named\">Explanation</span>For the purposes of this Chapter, the expression “Public Prosecutor” has the meaning assigned to it under clause (v) of section 2 and includes an Assistant Public Prosecutor appointed under section 19.</p></div>"
+  }
+}

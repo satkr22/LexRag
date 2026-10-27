@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-42.html",
+    "source_order": 42,
+    "article_order": 1,
+    "order": 42,
+    "stem": "section_42",
+    "heading_number": "Chapter II",
+    "heading_title": "Relevancy of Facts",
+    "heading_range": "3 – 50",
+    "heading_source": "manifest",
+    "article_number": "42",
+    "article_title": "Opinion as to existence of general custom or right, when relevant",
+    "id": "bsa_section_42"
+  },
+  "id": "bsa_section_42",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Relevancy of Facts",
+    "range": "3 – 50"
+  },
+  "article": {
+    "number": "42",
+    "title": "Opinion as to existence of general custom or right, when relevant",
+    "content": "When the Court has to form an opinion as to the existence of any general custom or right, the opinions, as to the existence of such custom or right, of persons who would be likely to know of its existence if it existed, are relevant.\nExplanationThe expression “general custom or right” includes customs or rights common to any considerable class of persons.\nIllustrations\nThe right of the villagers of a particular village to use the water of a particular well is a general right within the meaning of this section.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Opinion as to existence of general custom or right, when relevant</h3></div><p class=\"prov-cite\">Section 42 · Part II · Chapter II · Opinions of third persons when relevant</p><div class=\"prov-body\"><p>When the Court has to form an opinion as to the existence of any general custom or right, the opinions, as to the existence of such custom or right, of persons who would be likely to know of its existence if it existed, are relevant.</p><p><span class=\"named\">Explanation</span>The expression “general custom or right” includes customs or rights common to any considerable class of persons.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">The right of the villagers of a particular village to use the water of a particular well is a general right within the meaning of this section.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Opinion as to existence of general custom or right, when relevant</h3></div><p class=\"prov-cite\">Section 42 · Part II · Chapter II · Opinions of third persons when relevant</p><div class=\"prov-body\"><p>When the Court has to form an opinion as to the existence of any general custom or right, the opinions, as to the existence of such custom or right, of persons who would be likely to know of its existence if it existed, are relevant.</p><p><span class=\"named\">Explanation</span>The expression “general custom or right” includes customs or rights common to any considerable class of persons.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">The right of the villagers of a particular village to use the water of a particular well is a general right within the meaning of this section.</p></div>"
+  }
+}

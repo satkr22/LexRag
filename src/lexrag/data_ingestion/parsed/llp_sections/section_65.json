@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "llp",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "llp_sections/section-65.html",
+    "source_order": 69,
+    "article_order": 1,
+    "order": 69,
+    "stem": "section_65",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Winding Up and Dissolution",
+    "heading_range": "ss. 63–65",
+    "heading_source": "manifest",
+    "article_number": "65",
+    "article_title": "Rules for winding up and dissolution.",
+    "id": "llp_section_65"
+  },
+  "id": "llp_section_65",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Winding Up and Dissolution",
+    "range": "ss. 63–65"
+  },
+  "article": {
+    "number": "65",
+    "title": "Rules for winding up and dissolution.",
+    "content": "The Central Government may make rules for the provisions in relation to winding up and dissolution of limited liability partnerships.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">65</span>Rules for winding up and dissolution.</h3></div><p class=\"prov-cite\">Section 65  ·  Chapter XIII  ·  page 25 of the Act</p><div class=\"prov-body\"><p>The Central Government may make rules for the provisions in relation to winding up and dissolution of limited liability partnerships.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">65</span>Rules for winding up and dissolution.</h3></div><p class=\"prov-cite\">Section 65  ·  Chapter XIII  ·  page 25 of the Act</p><div class=\"prov-body\"><p>The Central Government may make rules for the provisions in relation to winding up and dissolution of limited liability partnerships.</p></div>"
+  }
+}

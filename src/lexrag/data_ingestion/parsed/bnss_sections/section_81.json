@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-06.html",
+    "source_order": 6,
+    "article_order": 19,
+    "order": 81,
+    "stem": "section_81",
+    "heading_number": "Chapter VI",
+    "heading_title": "Processes to Compel Appearance",
+    "heading_range": "63 – 93",
+    "heading_source": "group-head",
+    "article_number": "81",
+    "article_title": "Warrant directed to police officer for execution outside jurisdiction",
+    "id": "bnss_section_81"
+  },
+  "id": "bnss_section_81",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Processes to Compel Appearance",
+    "range": "63 – 93"
+  },
+  "article": {
+    "number": "81",
+    "title": "Warrant directed to police officer for execution outside jurisdiction",
+    "content": "(1)When a warrant directed to a police officer is to be executed beyond the local jurisdiction of the Court issuing the same, he shall ordinarily take it for endorsement either to an Executive Magistrate or to a police officer not below the rank of an officer in charge of a police station, within the local limits of whose jurisdiction the warrant is to be executed.\n(2)Such Magistrate or police officer shall endorse his name thereon and such endorsement shall be sufficient authority to the police officer to whom the warrant is directed to execute the same, and the local police shall, if so required, assist such officer in executing such warrant.\n(3)Whenever there is reason to believe that the delay occasioned by obtaining the endorsement of the Magistrate or police officer within whose local jurisdiction the warrant is to be executed will prevent such execution, the police officer to whom it is directed may execute the same without such endorsement in any place beyond the local jurisdiction of the Court which issued it.\n",
+    "html": "<article class=\"provision\" data-n=\"81\" data-report=\"Section 81 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">81</span>Warrant directed to police officer for execution outside jurisdiction</h3></div><p class=\"prov-cite\">Section 81 · Chapter VI · Warrant of arrest</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a warrant directed to a police officer is to be executed beyond the local jurisdiction of the Court issuing the same, he shall ordinarily take it for endorsement either to an Executive Magistrate or to a police officer not below the rank of an officer in charge of a police station, within the local limits of whose jurisdiction the warrant is to be executed.</p><p><span class=\"lbl\">(2)</span>Such Magistrate or police officer shall endorse his name thereon and such endorsement shall be sufficient authority to the police officer to whom the warrant is directed to execute the same, and the local police shall, if so required, assist such officer in executing such warrant.</p><p><span class=\"lbl\">(3)</span>Whenever there is reason to believe that the delay occasioned by obtaining the endorsement of the Magistrate or police officer within whose local jurisdiction the warrant is to be executed will prevent such execution, the police officer to whom it is directed may execute the same without such endorsement in any place beyond the local jurisdiction of the Court which issued it.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">81</span>Warrant directed to police officer for execution outside jurisdiction</h3></div><p class=\"prov-cite\">Section 81 · Chapter VI · Warrant of arrest</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a warrant directed to a police officer is to be executed beyond the local jurisdiction of the Court issuing the same, he shall ordinarily take it for endorsement either to an Executive Magistrate or to a police officer not below the rank of an officer in charge of a police station, within the local limits of whose jurisdiction the warrant is to be executed.</p><p><span class=\"lbl\">(2)</span>Such Magistrate or police officer shall endorse his name thereon and such endorsement shall be sufficient authority to the police officer to whom the warrant is directed to execute the same, and the local police shall, if so required, assist such officer in executing such warrant.</p><p><span class=\"lbl\">(3)</span>Whenever there is reason to believe that the delay occasioned by obtaining the endorsement of the Magistrate or police officer within whose local jurisdiction the warrant is to be executed will prevent such execution, the police officer to whom it is directed may execute the same without such endorsement in any place beyond the local jurisdiction of the Court which issued it.</p></div>"
+  }
+}

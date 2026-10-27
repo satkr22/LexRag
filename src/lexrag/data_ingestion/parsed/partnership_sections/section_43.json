@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "partnership_sections/section-43.html",
+    "source_order": 45,
+    "article_order": 1,
+    "order": 45,
+    "stem": "section_43",
+    "heading_number": "Chapter VI",
+    "heading_title": "Dissolution of a Firm",
+    "heading_range": "ss. 39–55",
+    "heading_source": "manifest",
+    "article_number": "43",
+    "article_title": "Dissolution by notice of partnership at will.",
+    "id": "partnership_section_43"
+  },
+  "id": "partnership_section_43",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Dissolution of a Firm",
+    "range": "ss. 39–55"
+  },
+  "article": {
+    "number": "43",
+    "title": "Dissolution by notice of partnership at will.",
+    "content": "(1) Where the partnership is at will, the firm may be dissolved by any partner giving notice in writing to all the other partners of his intention to dissolve the firm.\n(2) The firm is dissolved as from the date mentioned in the notice as the date of dissolution or, if no date is so mentioned, as from the date of the communication of the notice.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Dissolution by notice of partnership at will.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter VI  ·  page 11 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the partnership is at will, the firm may be dissolved by any partner giving notice in writing to all the other partners of his intention to dissolve the firm.</p><p class=\"lvl\">(2) The firm is dissolved as from the date mentioned in the notice as the date of dissolution or, if no date is so mentioned, as from the date of the communication of the notice.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Dissolution by notice of partnership at will.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter VI  ·  page 11 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the partnership is at will, the firm may be dissolved by any partner giving notice in writing to all the other partners of his intention to dissolve the firm.</p><p class=\"lvl\">(2) The firm is dissolved as from the date mentioned in the notice as the date of dissolution or, if no date is so mentioned, as from the date of the communication of the notice.</p></div>"
+  }
+}

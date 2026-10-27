@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_159_chunk_0",
+    "section_id": "motor-vehicles_section_159",
+    "token_count": 84,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 159::Information to be given regarding accident.\n]\n\n\nThe police officer shall, during the investigation, prepare an accident information report to facilitate the settlement of claim in such form and manner, within three months and containing such particulars and submit the same to the Claims Tribunal and such other agency as may be prescribed.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_159_chunk_0",
+      "section_id": "motor-vehicles_section_159",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "159",
+      "section_title": "Information to be given regarding accident."
+    }
+  }
+]

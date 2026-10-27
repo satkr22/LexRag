@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_129_chunk_0",
+    "section_id": "succession_section_129",
+    "token_count": 201,
+    "text": "[Act: succession\n Chapter: Of Conditional Bequests\n Section: 129::Bequest to A and on failure of prior bequest to B.\n]\n\n\nWhere there is a bequest to one person and a bequest of the same thing to another, if the prior bequest shall fail, the second bequest shall take effect upon the failure of the prior bequest although the failure may not have occurred in the manner contemplated by the testator.\nIllustrations\n(i) A bequeaths a sum of money to his own children surviving him, and, if they all die under 18, to B. A dies without having ever had a child. The bequest to B takes effect.\n(ii) A bequeaths a sum of money to B, on condition that he shall execute a certain document within three months after A’s death, and, if he should neglect to do so, to C. B dies in the testator’s lifetime. The bequest to C takes effect.",
+    "metadata": {
+      "chunk_id": "succession_section_129_chunk_0",
+      "section_id": "succession_section_129",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter XI",
+      "chapter_title": "Of Conditional Bequests",
+      "section_number": "129",
+      "section_title": "Bequest to A and on failure of prior bequest to B."
+    }
+  }
+]

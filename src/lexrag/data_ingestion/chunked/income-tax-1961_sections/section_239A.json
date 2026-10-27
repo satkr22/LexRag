@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_239A_chunk_0",
+    "section_id": "income-tax-1961_section_239A",
+    "token_count": 254,
+    "text": "[Act: income-tax-1961\n Chapter: Refunds\n Section: 239A::Refund for denying liability to deduct tax in certain cases.\n]\n\n\n(1) Where under an agreement or other arrangement, in writing, the tax deductible on any income, other than interest, under section 195 is to be borne by the person by whom the income is payable, and such person having paid such tax to the credit of the Central Government claims that no tax was required to be deducted on such income, may, within a period of thirty days from the date of payment of such tax, file an application before the Assessing Officer for refund of such tax in such form and such manner as may be prescribed.\n(2) The Assessing Officer shall, by an order in writing, allow or reject the application:\nProvided that no application under sub-section (1) shall be rejected unless an opportunity of being heard has been given to the applicant.\n(3) The Assessing Officer may, before passing an order under sub-section (2), make such inquiry as he considers necessary.\n(4) The order under sub-section (2) shall be passed within six months from the end of the month in which application under sub-section (1) is received.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_239A_chunk_0",
+      "section_id": "income-tax-1961_section_239A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Refunds",
+      "section_number": "239A",
+      "section_title": "Refund for denying liability to deduct tax in certain cases."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-21.html",
+    "source_order": 21,
+    "article_order": 2,
+    "order": 296,
+    "stem": "section_O9R2",
+    "heading_number": "Order IX",
+    "heading_title": "Appearance of parties and consequence of non-appearance",
+    "heading_range": "14 rules",
+    "heading_source": "group-head",
+    "article_number": "O9R2",
+    "article_title": "Dismissal of suit where summons not served in consequence of plaintiff's failure to pay costs.",
+    "id": "cpc_section_O9R2"
+  },
+  "id": "cpc_section_O9R2",
+  "heading": {
+    "number": "Order IX",
+    "title": "Appearance of parties and consequence of non-appearance",
+    "range": "14 rules"
+  },
+  "article": {
+    "number": "O9R2",
+    "title": "Dismissal of suit where summons not served in consequence of plaintiff's failure to pay costs.",
+    "content": "Where on the day so fixed it is found that summons has not been served upon the defendant in consequence of the failure of the plaintiff to pay the court-fee or postal charges, if any, chargeable for such service, or failure to present copies of the plaint as required by rule 9 of Order VII, the Court may make an order that the suit be dismissed:\nProvided that no such order shall be made, if notwithstanding such failure, the defendant attends in person or by agent when he is allowed to appear by agent on the day fixed for him to appear and answer.]\n",
+    "html": "<article class=\"provision\" data-n=\"O9R2\" data-report=\"Order 9, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Dismissal of suit where summons not served in consequence of plaintiff's failure to pay costs.</h3></div><p class=\"prov-cite\">Order 9, Rule 2</p><div class=\"prov-body\"><p>Where on the day so fixed it is found that summons has not been served upon the defendant in consequence of the failure of the plaintiff to pay the court-fee or postal charges, if any, chargeable for such service, or failure to present copies of the plaint as required by rule 9 of Order VII, the Court may make an order that the suit be dismissed:</p><p class=\"prvso\">Provided that no such order shall be made, if notwithstanding such failure, the defendant attends in person or by agent when he is allowed to appear by agent on the day fixed for him to appear and answer.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 22 of 2002, s. 10 for rule 2 (w.e.f. 1-7-2002).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Dismissal of suit where summons not served in consequence of plaintiff's failure to pay costs.</h3></div><p class=\"prov-cite\">Order 9, Rule 2</p><div class=\"prov-body\"><p>Where on the day so fixed it is found that summons has not been served upon the defendant in consequence of the failure of the plaintiff to pay the court-fee or postal charges, if any, chargeable for such service, or failure to present copies of the plaint as required by rule 9 of Order VII, the Court may make an order that the suit be dismissed:</p><p class=\"prvso\">Provided that no such order shall be made, if notwithstanding such failure, the defendant attends in person or by agent when he is allowed to appear by agent on the day fixed for him to appear and answer.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 22 of 2002, s. 10 for rule 2 (w.e.f. 1-7-2002).</p></div>"
+  }
+}

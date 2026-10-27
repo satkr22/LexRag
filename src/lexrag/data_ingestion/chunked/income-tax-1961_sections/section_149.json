@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_149_chunk_0",
+    "section_id": "income-tax-1961_section_149",
+    "token_count": 275,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 149::Time limit for notices under sections 148 and 148A.\n]\n\n\n(1) No notice under section 148 shall be issued for the relevant assessment year,—\n(a) if three years and three months have elapsed from the end of the relevant assessment year, unless the case falls under clause (b);\n(b) if three years and three months, but not more than five years and three months, have elapsed from the end of the relevant assessment year unless the Assessing Officer has in his possession books of account or other documents or evidence related to any asset or expenditure or transaction or entries which show that the income chargeable to tax, which has escaped assessment, amounts to or is likely to amount to fifty lakh rupees or more.\n(2) No notice to show cause under section 148A shall be issued for the relevant assessment year,—\n(a) if three years have elapsed from the end of the relevant assessment year, unless the case falls under clause (b);\n(b) if three years, but not more than five years, have elapsed from the end of the relevant assessment year unless the income chargeable to tax which has escaped assessment, as per the information with the Assessing Officer, amounts to or is likely to amount to fifty lakh rupees or more.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_149_chunk_0",
+      "section_id": "income-tax-1961_section_149",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "149",
+      "section_title": "Time limit for notices under sections 148 and 148A."
+    }
+  }
+]

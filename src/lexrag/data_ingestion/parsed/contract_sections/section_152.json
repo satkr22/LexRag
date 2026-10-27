@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-152.html",
+    "source_order": 153,
+    "article_order": 1,
+    "order": 153,
+    "stem": "section_152",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Bailment",
+    "heading_range": "ss. 148–181",
+    "heading_source": "manifest",
+    "article_number": "152",
+    "article_title": "Bailee when not liable for loss, etc., of thing bailed.",
+    "id": "contract_section_152"
+  },
+  "id": "contract_section_152",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Bailment",
+    "range": "ss. 148–181"
+  },
+  "article": {
+    "number": "152",
+    "title": "Bailee when not liable for loss, etc., of thing bailed.",
+    "content": "The bailee, in the absence of any special contract, is not responsible for the loss, destruction or deterioration of the thing bailed, if he has taken the amount of care of it described in section 151.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">152</span>Bailee when not liable for loss, etc., of thing bailed.</h3></div><p class=\"prov-cite\">Section 152  ·  Chapter IX  ·  page 39 of the Act</p><div class=\"prov-body\"><p>The bailee, in the absence of any special contract, is not responsible for the loss, destruction or deterioration of the thing bailed, if he has taken the amount of care of it described in section 151.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">152</span>Bailee when not liable for loss, etc., of thing bailed.</h3></div><p class=\"prov-cite\">Section 152  ·  Chapter IX  ·  page 39 of the Act</p><div class=\"prov-body\"><p>The bailee, in the absence of any special contract, is not responsible for the loss, destruction or deterioration of the thing bailed, if he has taken the amount of care of it described in section 151.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-04b.html",
+    "source_order": 6,
+    "article_order": 11,
+    "order": 91,
+    "stem": "section_43CB",
+    "heading_number": "Chapter IV",
+    "heading_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "heading_range": "ss. 14–59",
+    "heading_source": "group-head",
+    "article_number": "43CB",
+    "article_title": "Computation of income from construction and service contracts.",
+    "id": "income-tax-1961_section_43CB"
+  },
+  "id": "income-tax-1961_section_43CB",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "range": "ss. 14–59"
+  },
+  "article": {
+    "number": "43CB",
+    "title": "Computation of income from construction and service contracts.",
+    "content": "(1) The profits and gains arising from a construction contract or a contract for providing services shall be determined on the basis of percentage of completion method in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145:\nProvided that profits and gains arising from a contract for providing services,—\n(i) with duration of not more than ninety days shall be determined on the basis of project completion method;\n(ii) involving indeterminate number of acts over a specific period of time shall be determined on the basis of straight line method.\n(2) For the purposes of percentage of completion method, project completion method or straight line method referred to in sub-section (1)—\n(i) the contract revenue shall include retention money;\n(ii) the contract costs shall not be reduced by any incidental income in the nature of interest, dividends or capital gains.\n",
+    "html": "<article class=\"provision\" data-n=\"43CB\" data-report=\"Section 43CB · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43CB</span>Computation of income from construction and service contracts.</h3></div><p class=\"prov-cite\">Section 43CB  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 170 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The profits and gains arising from a construction contract or a contract for providing services shall be determined on the basis of percentage of completion method in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145:</p><p class=\"prvso\">Provided that profits and gains arising from a contract for providing services,—</p><p class=\"lvl\">(i) with duration of not more than ninety days shall be determined on the basis of project completion method;</p><p class=\"lvl\">(ii) involving indeterminate number of acts over a specific period of time shall be determined on the basis of straight line method.</p><p class=\"lvl\">(2) For the purposes of percentage of completion method, project completion method or straight line method referred to in sub-section (1)—</p><p class=\"lvl\">(i) the contract revenue shall include retention money;</p><p class=\"lvl\">(ii) the contract costs shall not be reduced by any incidental income in the nature of interest, dividends or capital gains.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43CB</span>Computation of income from construction and service contracts.</h3></div><p class=\"prov-cite\">Section 43CB  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 170 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The profits and gains arising from a construction contract or a contract for providing services shall be determined on the basis of percentage of completion method in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145:</p><p class=\"prvso\">Provided that profits and gains arising from a contract for providing services,—</p><p class=\"lvl\">(i) with duration of not more than ninety days shall be determined on the basis of project completion method;</p><p class=\"lvl\">(ii) involving indeterminate number of acts over a specific period of time shall be determined on the basis of straight line method.</p><p class=\"lvl\">(2) For the purposes of percentage of completion method, project completion method or straight line method referred to in sub-section (1)—</p><p class=\"lvl\">(i) the contract revenue shall include retention money;</p><p class=\"lvl\">(ii) the contract costs shall not be reduced by any incidental income in the nature of interest, dividends or capital gains.</p></div>"
+  }
+}

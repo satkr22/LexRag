@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "right-to-education",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "right-to-education_sections/section-33.html",
+    "source_order": 33,
+    "article_order": 1,
+    "order": 33,
+    "stem": "section_33",
+    "heading_number": "Chapter VI",
+    "heading_title": "Protection of Right of Children",
+    "heading_range": "ss. 31–34",
+    "heading_source": "manifest",
+    "article_number": "33",
+    "article_title": "Constitution of National Advisory Council.",
+    "id": "right-to-education_section_33"
+  },
+  "id": "right-to-education_section_33",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Protection of Right of Children",
+    "range": "ss. 31–34"
+  },
+  "article": {
+    "number": "33",
+    "title": "Constitution of National Advisory Council.",
+    "content": "(1) The Central Government shall constitute, by notification, a National Advisory Council, consisting of such number of Members, not exceeding fifteen, as the Central Government may deem necessary, to be appointed from amongst persons having knowledge and practical experience in the field of elementary education and child development.\n(2) The functions of the National Advisory Council shall be to advise the Central Government on implementation of the provisions of the Act in an effective manner.\n(3) The allowances and other terms and conditions of the appointment of Members of the National Advisory Council shall be such as may be prescribed.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Constitution of National Advisory Council.</h3></div><p class=\"prov-cite\">Section 33  ·  Chapter VI  ·  pages 13–14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall constitute, by notification, a National Advisory Council, consisting of such number of Members, not exceeding fifteen, as the Central Government may deem necessary, to be appointed from amongst persons having knowledge and practical experience in the field of elementary education and child development.</p><p class=\"lvl\">(2) The functions of the National Advisory Council shall be to advise the Central Government on implementation of the provisions of the Act in an effective manner.</p><p class=\"lvl\">(3) The allowances and other terms and conditions of the appointment of Members of the National Advisory Council shall be such as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Constitution of National Advisory Council.</h3></div><p class=\"prov-cite\">Section 33  ·  Chapter VI  ·  pages 13–14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall constitute, by notification, a National Advisory Council, consisting of such number of Members, not exceeding fifteen, as the Central Government may deem necessary, to be appointed from amongst persons having knowledge and practical experience in the field of elementary education and child development.</p><p class=\"lvl\">(2) The functions of the National Advisory Council shall be to advise the Central Government on implementation of the provisions of the Act in an effective manner.</p><p class=\"lvl\">(3) The allowances and other terms and conditions of the appointment of Members of the National Advisory Council shall be such as may be prescribed.</p></div>"
+  }
+}

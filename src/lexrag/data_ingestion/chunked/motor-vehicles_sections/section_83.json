@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_83_chunk_0",
+    "section_id": "motor-vehicles_section_83",
+    "token_count": 60,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 83::Replacement of vehicles.\n]\n\n\nThe holder of a permit may, with the permission of the authority by which the permit was granted, replace any vehicle covered by the permit by any other vehicle of the same nature.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_83_chunk_0",
+      "section_id": "motor-vehicles_section_83",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "83",
+      "section_title": "Replacement of vehicles."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_128_chunk_0",
+    "section_id": "contract_section_128",
+    "token_count": 110,
+    "text": "[Act: contract\n Chapter: Of Indemnity and Guarantee\n Section: 128::Surety’s liability.\n]\n\n\nThe liability of the surety is co- extensive with that of the principal debtor, unless it is otherwise provided by the contract.\nIllustration\nA guarantees to B the payment of a bill of exchange by C, the acceptor. The bill is dishonoured by C. A is liable, not only for the amount of the bill, but also for any interest and charges which may have become due on it.",
+    "metadata": {
+      "chunk_id": "contract_section_128_chunk_0",
+      "section_id": "contract_section_128",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Of Indemnity and Guarantee",
+      "section_number": "128",
+      "section_title": "Surety’s liability."
+    }
+  }
+]

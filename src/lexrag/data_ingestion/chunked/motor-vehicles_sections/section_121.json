@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_121_chunk_0",
+    "section_id": "motor-vehicles_section_121",
+    "token_count": 209,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 121::Signals and signalling devices.\n]\n\n\nThe driver of a motor vehicle shall make such signals and on such occasions as may be prescribed by the Central Government:\nProvided that the signal of an intention to turn to the right or left or to stop—\n(a) in the case of a motor vehicle with a right-hand steering control, may be given by a mechanical or electrical device of a prescribed nature affixed to the vehicle; and\n(b) in the case of a motor vehicle with a left-hand steering control, shall be given by a mechanical or electrical device of a prescribed nature affixed to the vehicle:\nProvided further that the State Government may, having regard to the width and condition of the roads in any area or route, by notification in the Official Gazette, exempt subject to such conditions as may be specified therein any motor vehicle or class or description of motor vehicles from the operation of this section for the purpose of plying in that area or route.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_121_chunk_0",
+      "section_id": "motor-vehicles_section_121",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "121",
+      "section_title": "Signals and signalling devices."
+    }
+  }
+]

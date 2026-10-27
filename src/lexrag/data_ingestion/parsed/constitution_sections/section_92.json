@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 41,
+    "order": 104,
+    "stem": "section_92",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "92",
+    "article_title": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration",
+    "id": "constitution_section_92"
+  },
+  "id": "constitution_section_92",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "92",
+    "title": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration",
+    "content": "(1)At any sitting of the Council of States, while any resolution for the removal of the Vice-President from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, the Deputy Chairman, shall not, though he is present, preside, and the provisions of clause (2) of article 91 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Chairman, or, as the case may be, the Deputy Chairman, is absent.\n(2)The Chairman shall have the right to speak in, and otherwise to take part in the proceedings of, the Council of States while any resolution for the removal of the Vice-President from his office is under consideration in the Council, but, notwithstanding anything in article 100, shall not be entitled to vote at all on such resolution or on any other matter during such proceedings.\n",
+    "html": "<article class=\"provision\" data-n=\"92\" data-report=\"Article 92 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration</h3></div><p class=\"prov-cite\">Article 92 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>At any sitting of the Council of States, while any resolution for the removal of the Vice-President from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, the Deputy Chairman, shall not, though he is present, preside, and the provisions of clause (2) of article 91 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Chairman, or, as the case may be, the Deputy Chairman, is absent.</p><p><span class=\"lbl\">(2)</span>The Chairman shall have the right to speak in, and otherwise to take part in the proceedings of, the Council of States while any resolution for the removal of the Vice-President from his office is under consideration in the Council, but, notwithstanding anything in article 100, shall not be entitled to vote at all on such resolution or on any other matter during such proceedings.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration</h3></div><p class=\"prov-cite\">Article 92 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>At any sitting of the Council of States, while any resolution for the removal of the Vice-President from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, the Deputy Chairman, shall not, though he is present, preside, and the provisions of clause (2) of article 91 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Chairman, or, as the case may be, the Deputy Chairman, is absent.</p><p><span class=\"lbl\">(2)</span>The Chairman shall have the right to speak in, and otherwise to take part in the proceedings of, the Council of States while any resolution for the removal of the Vice-President from his office is under consideration in the Council, but, notwithstanding anything in article 100, shall not be entitled to vote at all on such resolution or on any other matter during such proceedings.</p></div>"
+  }
+}

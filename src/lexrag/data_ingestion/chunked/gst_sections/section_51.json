@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "gst_section_51_chunk_0",
+    "section_id": "gst_section_51",
+    "token_count": 496,
+    "text": "[Act: gst\n Chapter: Payment of Tax\n Section: 51::Tax deduction at source.\n]\n\n\n(1) Notwithstanding anything to the contrary contained in this Act, the Government may mandate,––\n  (a) a department or establishment of the Central Government or State Government; or\n  (b) local authority; or\n  (c) Governmental agencies; or\n  (d) such persons or category of persons as may be notified by the Government on the recommendations of the Council, (hereafter in this section referred to as “the deductor”), to deduct tax at the rate of one per cent. from the payment made or credited to the supplier (hereafter in this section referred to as “the deductee”) of taxable goods or services or both, where the total value of such supply, under a contract, exceeds two lakh and fifty thousand rupees:\n  Provided that no deduction shall be made if the location of the supplier and the place of supply is in a State or Union territory which is different from the State or as the case may be, Union territory of registration of the recipient.\n  Explanation.––For the purpose of deduction of tax specified above, the value of supply shall be taken as the amount excluding the central tax, State tax, Union territory tax, integrated tax and cess indicated in the invoice.\n  (2) The amount deducted as tax under this section shall be paid to the Government by the deductor within ten days after the end of the month in which such deduction is made, in such manner as may be prescribed.\n  4 [(3) A certificate of tax deduction at source shall be issued in such form and in such manner as may be prescribed.] 5 * * * * *\n  (5) The deductee shall claim credit, in his electronic cash ledger, of the tax deducted and reflected in the return of the deductor furnished under sub-section (3) of section 39, in such manner as may be prescribed.\n  (6) If any deductor fails to pay to the Government the amount deducted as tax under sub-section (1), he shall pay interest in accordance with the provisions of sub-section (1) of section 50, in addition to the amount of tax deducted.\n  (7) The determination of the amount in default under this section shall be made in the manner specified in section 73 or section 74 1 [or section 74A].",
+    "metadata": {
+      "chunk_id": "gst_section_51_chunk_0",
+      "section_id": "gst_section_51",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Payment of Tax",
+      "section_number": "51",
+      "section_title": "Tax deduction at source."
+    }
+  },
+  {
+    "chunk_id": "gst_section_51_chunk_1",
+    "section_id": "gst_section_51",
+    "token_count": 109,
+    "text": "[Act: gst\n Chapter: Payment of Tax\n Section: 51::Tax deduction at source.\n]\n\n\n(1) Notwithstanding anything to the contrary contained in this Act, the Government may mandate,––\n  (8) The refund to the deductor or the deductee arising on account of excess or erroneous deduction shall be dealt with in accordance with the provisions of section 54:\n  Provided that no refund to the deductor shall be granted, if the amount deducted has been credited to the electronic cash ledger of the deductee.",
+    "metadata": {
+      "chunk_id": "gst_section_51_chunk_1",
+      "section_id": "gst_section_51",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Payment of Tax",
+      "section_number": "51",
+      "section_title": "Tax deduction at source."
+    }
+  }
+]

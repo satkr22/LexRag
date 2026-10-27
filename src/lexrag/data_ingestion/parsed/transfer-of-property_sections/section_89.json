@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-89.html",
+    "source_order": 97,
+    "article_order": 1,
+    "order": 97,
+    "stem": "section_89",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Mortgages of Immoveable Property and Charges",
+    "heading_range": "ss. 58–104",
+    "heading_source": "manifest",
+    "article_number": "89",
+    "article_title": "Procedure when defendant pay amount due",
+    "id": "transfer-of-property_section_89"
+  },
+  "id": "transfer-of-property_section_89",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Mortgages of Immoveable Property and Charges",
+    "range": "ss. 58–104"
+  },
+  "article": {
+    "number": "89",
+    "title": "Procedure when defendant pay amount due",
+    "content": "",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">89</span>Procedure when defendant pay amount due</h3></div><p class=\"repnote\">Rep. by s. 156 and V Schedule, ibid.</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">89</span>Procedure when defendant pay amount due</h3></div><p class=\"repnote\">Rep. by s. 156 and V Schedule, ibid.</p>"
+  }
+}

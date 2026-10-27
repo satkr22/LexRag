@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-06.html",
+    "source_order": 6,
+    "article_order": 5,
+    "order": 104,
+    "stem": "section_104",
+    "heading_number": "Chapter VI",
+    "heading_title": "Of Offences Affecting the Human Body",
+    "heading_range": "100 – 146",
+    "heading_source": "group-head",
+    "article_number": "104",
+    "article_title": "Punishment for murder by life-convict",
+    "id": "bns_section_104"
+  },
+  "id": "bns_section_104",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Of Offences Affecting the Human Body",
+    "range": "100 – 146"
+  },
+  "article": {
+    "number": "104",
+    "title": "Punishment for murder by life-convict",
+    "content": "Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life.\n",
+    "html": "<article class=\"provision\" data-n=\"104\" data-report=\"Section 104 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Punishment for murder by life-convict</h3></div><p class=\"prov-cite\">Section 104 · Chapter VI · Of offences affecting life</p><div class=\"prov-body\"><p>Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Punishment for murder by life-convict</h3></div><p class=\"prov-cite\">Section 104 · Chapter VI · Of offences affecting life</p><div class=\"prov-body\"><p>Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life.</p></div>"
+  }
+}

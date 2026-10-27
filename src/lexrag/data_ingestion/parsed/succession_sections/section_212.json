@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-32.html",
+    "source_order": 32,
+    "article_order": 2,
+    "order": 212,
+    "stem": "section_212",
+    "heading_number": "Part VIII",
+    "heading_title": "Representative Title to Property of Deceased on Succession",
+    "heading_range": "ss. 211–216",
+    "heading_source": "group-head",
+    "article_number": "212",
+    "article_title": "Right to intestate’s property.",
+    "id": "succession_section_212"
+  },
+  "id": "succession_section_212",
+  "heading": {
+    "number": "Part VIII",
+    "title": "Representative Title to Property of Deceased on Succession",
+    "range": "ss. 211–216"
+  },
+  "article": {
+    "number": "212",
+    "title": "Right to intestate’s property.",
+    "content": "(1) No right to any part of the property of a person who has died intestate can be established in any Court of Justice, unless letters of administration have first been granted by a Court of competent jurisdiction.\n(2) This section shall not apply in the case of the intestacy of a Hindu, Muhammadan, Buddhist, Sikh, Jaina, 2[Indian Christian or Parsi].\n",
+    "html": "<article class=\"provision\" data-n=\"212\" data-report=\"Section 212 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">212</span>Right to intestate’s property.</h3></div><p class=\"prov-cite\">Section 212  ·  Part VIII  ·  page 67 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No right to any part of the property of a person who has died intestate can be established in any Court of Justice, unless letters of administration have first been granted by a Court of competent jurisdiction.</p><p class=\"lvl\">(2) This section shall not apply in the case of the intestacy of a Hindu, Muhammadan, Buddhist, Sikh, Jaina, <sup>2</sup>[Indian Christian or Parsi].</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 16 of 1962, s. 3, for “or Indian Christian”.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">212</span>Right to intestate’s property.</h3></div><p class=\"prov-cite\">Section 212  ·  Part VIII  ·  page 67 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No right to any part of the property of a person who has died intestate can be established in any Court of Justice, unless letters of administration have first been granted by a Court of competent jurisdiction.</p><p class=\"lvl\">(2) This section shall not apply in the case of the intestacy of a Hindu, Muhammadan, Buddhist, Sikh, Jaina, <sup>2</sup>[Indian Christian or Parsi].</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 16 of 1962, s. 3, for “or Indian Christian”.</p></div></div>"
+  }
+}

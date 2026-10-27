@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-60.html",
+    "source_order": 60,
+    "article_order": 10,
+    "order": 812,
+    "stem": "section_O41R9",
+    "heading_number": "Order XLI",
+    "heading_title": "Appeals from Original Decrees",
+    "heading_range": "41 rules",
+    "heading_source": "group-head",
+    "article_number": "O41R9",
+    "article_title": "Registry of memorandum of appeal.",
+    "id": "cpc_section_O41R9"
+  },
+  "id": "cpc_section_O41R9",
+  "heading": {
+    "number": "Order XLI",
+    "title": "Appeals from Original Decrees",
+    "range": "41 rules"
+  },
+  "article": {
+    "number": "O41R9",
+    "title": "Registry of memorandum of appeal.",
+    "content": "Procedure on admission of appeal\n(1) The Court from whose decree an appeal lies shall entertain the memorandum of appeal and shall endorse thereon the date of presentation and shall register the appeal in a book of appeal kept for that purpose.\n(2) Such book shall be called the register of appeal.]\n",
+    "html": "<article class=\"provision\" data-n=\"O41R9\" data-report=\"Order 41, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Registry of memorandum of appeal.</h3></div><p class=\"prov-cite\">Order 41, Rule 9</p><div class=\"prov-body\"><p class=\"sched-title\">Procedure on admission of appeal</p><p class=\"lvl\">(1) The Court from whose decree an appeal lies shall entertain the memorandum of appeal and shall endorse thereon the date of presentation and shall register the appeal in a book of appeal kept for that purpose.</p><p class=\"lvl\">(2) Such book shall be called the register of appeal.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 46 of 1999, s. 31, for rule 9 (w.e.f. 1-7-2002).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Registry of memorandum of appeal.</h3></div><p class=\"prov-cite\">Order 41, Rule 9</p><div class=\"prov-body\"><p class=\"sched-title\">Procedure on admission of appeal</p><p class=\"lvl\">(1) The Court from whose decree an appeal lies shall entertain the memorandum of appeal and shall endorse thereon the date of presentation and shall register the appeal in a book of appeal kept for that purpose.</p><p class=\"lvl\">(2) Such book shall be called the register of appeal.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 46 of 1999, s. 31, for rule 9 (w.e.f. 1-7-2002).</p></div>"
+  }
+}

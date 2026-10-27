@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_151_chunk_0",
+    "section_id": "constitution_section_151",
+    "token_count": 110,
+    "text": "[Act: constitution\n Chapter: The Union\n Section: 151::Audit reports\n]\n\n\n(1)The reports of the Comptroller and Auditor-General of India relating to the accounts of the Union shall be submitted to the President, who shall cause them to be laid before each House of Parliament.\n(2)The reports of the Comptroller and Auditor-General of India relating to the accounts of a State shall be submitted to the Governor 1*** of the State, who shall cause them to be laid before the Legislature of the State.",
+    "metadata": {
+      "chunk_id": "constitution_section_151_chunk_0",
+      "section_id": "constitution_section_151",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part V",
+      "chapter_title": "The Union",
+      "section_number": "151",
+      "section_title": "Audit reports"
+    }
+  }
+]

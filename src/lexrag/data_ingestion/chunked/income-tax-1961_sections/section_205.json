@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_205_chunk_0",
+    "section_id": "income-tax-1961_section_205",
+    "token_count": 72,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 205::Bar against direct demand on assessee.\n]\n\n\nWhere tax is deductible at the source under the foregoing provisions of this Chapter, the assessee shall not be called upon to pay the tax himself to the extent to which tax has been deducted from that income.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_205_chunk_0",
+      "section_id": "income-tax-1961_section_205",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "205",
+      "section_title": "Bar against direct demand on assessee."
+    }
+  }
+]

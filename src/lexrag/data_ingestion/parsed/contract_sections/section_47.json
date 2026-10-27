@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-47.html",
+    "source_order": 48,
+    "article_order": 1,
+    "order": 48,
+    "stem": "section_47",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of the Performance of Contracts",
+    "heading_range": "ss. 37–67",
+    "heading_source": "manifest",
+    "article_number": "47",
+    "article_title": "Time and place for performance of promise, where time is specified and no application to be made.",
+    "id": "contract_section_47"
+  },
+  "id": "contract_section_47",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of the Performance of Contracts",
+    "range": "ss. 37–67"
+  },
+  "article": {
+    "number": "47",
+    "title": "Time and place for performance of promise, where time is specified and no application to be made.",
+    "content": "When a promise is to be performed on a certain day, and the promisor has undertaken to perform it without application by the promisee, the promisor may perform it at any time during the usual hours of business on such day and at the place at which the promise ought to be performed.\nIllustration\nA promises to deliver goods at B’s warehouse on the first January. On that day A brings the goods to B’s warehouse, but after the usual hour for closing it, and they are not received. A has not performed his promise.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">47</span>Time and place for performance of promise, where time is specified and no application to be made.</h3></div><p class=\"prov-cite\">Section 47  ·  Chapter IV  ·  Time and place for performance  ·  page 23 of the Act</p><div class=\"prov-body\"><p>When a promise is to be performed on a certain day, and the promisor has undertaken to perform it without application by the promisee, the promisor may perform it at any time during the usual hours of business on such day and at the place at which the promise ought to be performed.</p><p class=\"illus-head\">Illustration</p><p class=\"illus\">A promises to deliver goods at B’s warehouse on the first January. On that day A brings the goods to B’s warehouse, but after the usual hour for closing it, and they are not received. A has not performed his promise.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">47</span>Time and place for performance of promise, where time is specified and no application to be made.</h3></div><p class=\"prov-cite\">Section 47  ·  Chapter IV  ·  Time and place for performance  ·  page 23 of the Act</p><div class=\"prov-body\"><p>When a promise is to be performed on a certain day, and the promisor has undertaken to perform it without application by the promisee, the promisor may perform it at any time during the usual hours of business on such day and at the place at which the promise ought to be performed.</p><p class=\"illus-head\">Illustration</p><p class=\"illus\">A promises to deliver goods at B’s warehouse on the first January. On that day A brings the goods to B’s warehouse, but after the usual hour for closing it, and they are not received. A has not performed his promise.</p></div>"
+  }
+}

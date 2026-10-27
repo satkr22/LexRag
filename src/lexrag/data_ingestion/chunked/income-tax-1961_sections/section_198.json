@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_198_chunk_0",
+    "section_id": "income-tax-1961_section_198",
+    "token_count": 176,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 198::Tax deducted is income received.\n]\n\n\nAll sums deducted in accordance with the foregoing provisions of this Chapter 55[and income-tax paid outside India, by way of deduction, in respect of which an assessee is allowed a credit against the tax payable under this Act], shall, for the purpose of computing the income of an assessee, be deemed to be income received :\nProvided that the sum being the tax paid, under sub-section (1A) of section 192 for the purpose of computing the income of an assessee, shall not be deemed to be income received:\nProvided further that the sum deducted in accordance with the provisions of section 194N for the purpose of computing the income of an assessee, shall not be deemed to be income received.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_198_chunk_0",
+      "section_id": "income-tax-1961_section_198",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "198",
+      "section_title": "Tax deducted is income received."
+    }
+  }
+]

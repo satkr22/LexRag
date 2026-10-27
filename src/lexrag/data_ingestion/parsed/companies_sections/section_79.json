@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-06.html",
+    "source_order": 6,
+    "article_order": 3,
+    "order": 82,
+    "stem": "section_79",
+    "heading_number": "Chapter VI",
+    "heading_title": "Registration of Charges",
+    "heading_range": "ss. 77–87",
+    "heading_source": "group-head",
+    "article_number": "79",
+    "article_title": "Section 77 to apply in certain matters.",
+    "id": "companies_section_79"
+  },
+  "id": "companies_section_79",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Registration of Charges",
+    "range": "ss. 77–87"
+  },
+  "article": {
+    "number": "79",
+    "title": "Section 77 to apply in certain matters.",
+    "content": "The provisions of section 77 relating to registration of charges shall, so far as may be, apply to—\n(a) a company acquiring any property subject to a charge within the meaning of that section; or\n(b) any modification in the terms or conditions or the extent or operation of any charge registered under that section.\n",
+    "html": "<article class=\"provision\" data-n=\"79\" data-report=\"Section 79 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>Section 77 to apply in certain matters.</h3></div><p class=\"prov-cite\">Section 79  ·  Chapter VI  ·  page 64 of the Act</p><div class=\"prov-body\"><p>The provisions of section 77 relating to registration of charges shall, so far as may be, apply to—</p><p class=\"lvl\">(a) a company acquiring any property subject to a charge within the meaning of that section; or</p><p class=\"lvl\">(b) any modification in the terms or conditions or the extent or operation of any charge registered under that section.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>Section 77 to apply in certain matters.</h3></div><p class=\"prov-cite\">Section 79  ·  Chapter VI  ·  page 64 of the Act</p><div class=\"prov-body\"><p>The provisions of section 77 relating to registration of charges shall, so far as may be, apply to—</p><p class=\"lvl\">(a) a company acquiring any property subject to a charge within the meaning of that section; or</p><p class=\"lvl\">(b) any modification in the terms or conditions or the extent or operation of any charge registered under that section.</p></div>"
+  }
+}

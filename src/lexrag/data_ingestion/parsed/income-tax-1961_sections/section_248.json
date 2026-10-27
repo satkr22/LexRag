@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-44.html",
+    "source_order": 49,
+    "article_order": 4,
+    "order": 722,
+    "stem": "section_248",
+    "heading_number": "Chapter XX",
+    "heading_title": "Appeals and Revision",
+    "heading_range": "ss. 246–269",
+    "heading_source": "group-head",
+    "article_number": "248",
+    "article_title": "Appeal by a person denying liability to deduct tax in certain cases.",
+    "id": "income-tax-1961_section_248"
+  },
+  "id": "income-tax-1961_section_248",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Appeals and Revision",
+    "range": "ss. 246–269"
+  },
+  "article": {
+    "number": "248",
+    "title": "Appeal by a person denying liability to deduct tax in certain cases.",
+    "content": "Where under an agreement or other arrangement, the tax deductible on any income, other than interest, under section 195 is to be borne by the person by whom the income is payable, and such person having paid such tax to the credit of the Central Government, claims that no tax was required to be deducted on such income, he may appeal to the Commissioner (Appeals) for a declaration that no tax was deductible on such income:\nProvided that no appeal shall be filed where tax is paid to the credit of the Central Government on or after the 1st day of April, 2022.\n",
+    "html": "<article class=\"provision\" data-n=\"248\" data-report=\"Section 248 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">248</span>Appeal by a person denying liability to deduct tax in certain cases.</h3></div><p class=\"prov-cite\">Section 248  ·  Chapter XX  ·  A.—Appealsto the Joint Commissioner (Appeals) and Commissioner (Appeals)  ·  page 883 of the Act</p><div class=\"prov-body\"><p>Where under an agreement or other arrangement, the tax deductible on any income, other than interest, under section 195 is to be borne by the person by whom the income is payable, and such person having paid such tax to the credit of the Central Government, claims that no tax was required to be deducted on such income, he may appeal to the Commissioner (Appeals) for a declaration that no tax was deductible on such income:</p><p class=\"prvso\">Provided that no appeal shall be filed where tax is paid to the credit of the Central Government on or after the 1st day of April, 2022.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">248</span>Appeal by a person denying liability to deduct tax in certain cases.</h3></div><p class=\"prov-cite\">Section 248  ·  Chapter XX  ·  A.—Appealsto the Joint Commissioner (Appeals) and Commissioner (Appeals)  ·  page 883 of the Act</p><div class=\"prov-body\"><p>Where under an agreement or other arrangement, the tax deductible on any income, other than interest, under section 195 is to be borne by the person by whom the income is payable, and such person having paid such tax to the credit of the Central Government, claims that no tax was required to be deducted on such income, he may appeal to the Commissioner (Appeals) for a declaration that no tax was deductible on such income:</p><p class=\"prvso\">Provided that no appeal shall be filed where tax is paid to the credit of the Central Government on or after the 1st day of April, 2022.</p></div>"
+  }
+}

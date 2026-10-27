@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-05.html",
+    "source_order": 5,
+    "article_order": 22,
+    "order": 92,
+    "stem": "section_85",
+    "heading_number": "Chapter V",
+    "heading_title": "Control of Transport Vehicles",
+    "heading_range": "ss. 66–96",
+    "heading_source": "group-head",
+    "article_number": "85",
+    "article_title": "General form of permits.",
+    "id": "motor-vehicles_section_85"
+  },
+  "id": "motor-vehicles_section_85",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Control of Transport Vehicles",
+    "range": "ss. 66–96"
+  },
+  "article": {
+    "number": "85",
+    "title": "General form of permits.",
+    "content": "Every permit issued under this Act shall be complete in itself and shall contain all the necessary particulars of the permit and the conditions attached thereto.\n",
+    "html": "<article class=\"provision\" data-n=\"85\" data-report=\"Section 85 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>General form of permits.</h3></div><p class=\"prov-cite\">Section 85  ·  Chapter V  ·  page 60 of the Act</p><div class=\"prov-body\"><p>Every permit issued under this Act shall be complete in itself and shall contain all the necessary particulars of the permit and the conditions attached thereto.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>General form of permits.</h3></div><p class=\"prov-cite\">Section 85  ·  Chapter V  ·  page 60 of the Act</p><div class=\"prov-body\"><p>Every permit issued under this Act shall be complete in itself and shall contain all the necessary particulars of the permit and the conditions attached thereto.</p></div>"
+  }
+}

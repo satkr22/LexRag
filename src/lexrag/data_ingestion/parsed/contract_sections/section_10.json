@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-10.html",
+    "source_order": 10,
+    "article_order": 1,
+    "order": 10,
+    "stem": "section_10",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Contracts, Voidable Contracts and Void Agreements",
+    "heading_range": "ss. 10–30",
+    "heading_source": "manifest",
+    "article_number": "10",
+    "article_title": "What agreements are contracts.",
+    "id": "contract_section_10"
+  },
+  "id": "contract_section_10",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Contracts, Voidable Contracts and Void Agreements",
+    "range": "ss. 10–30"
+  },
+  "article": {
+    "number": "10",
+    "title": "What agreements are contracts.",
+    "content": "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.\nNothing herein contained shall affect any law in force in 1[India] and not hereby expressly repealed by which any contract is required to be made in writing2 or in the presence of witnesses, or any law relating to the registration of documents.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>What agreements are contracts.</h3></div><p class=\"prov-cite\">Section 10  ·  Chapter II  ·  page 13 of the Act</p><div class=\"prov-body\"><p>All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.</p><p>Nothing herein contained shall affect any law in force in <sup>1</sup>[India] and not hereby expressly repealed by which any contract is required to be made in writing<sup>2</sup> or in the presence of witnesses, or any law relating to the registration of documents.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by Act 3 of 1951, s. 3 and Sch., for “Part A States and Part C States” which had been subs. by the A.O. 1950, for “the Provinces”.</p><p class=\"fn\"><sup>2</sup> See e.g., s. 25, infra; the Copyright Act, 1957 (14 of 1957), s. 19; the Carriers Act, 1865 (3 of 1865) ss. 6 and 7; the Companies Act, 1956 (1 of 1956), ss. 12, 30, 46 and 109.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>What agreements are contracts.</h3></div><p class=\"prov-cite\">Section 10  ·  Chapter II  ·  page 13 of the Act</p><div class=\"prov-body\"><p>All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.</p><p>Nothing herein contained shall affect any law in force in <sup>1</sup>[India] and not hereby expressly repealed by which any contract is required to be made in writing<sup>2</sup> or in the presence of witnesses, or any law relating to the registration of documents.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by Act 3 of 1951, s. 3 and Sch., for “Part A States and Part C States” which had been subs. by the A.O. 1950, for “the Provinces”.</p><p class=\"fn\"><sup>2</sup> See e.g., s. 25, infra; the Copyright Act, 1957 (14 of 1957), s. 19; the Carriers Act, 1865 (3 of 1865) ss. 6 and 7; the Companies Act, 1956 (1 of 1956), ss. 12, 30, 46 and 109.</p></div></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-92.html",
+    "source_order": 92,
+    "article_order": 1,
+    "order": 92,
+    "stem": "section_92",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "92",
+    "article_title": "Presumption as to documents thirty years old",
+    "id": "bsa_section_92"
+  },
+  "id": "bsa_section_92",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "92",
+    "title": "Presumption as to documents thirty years old",
+    "content": "Where any document, purporting or proved to be thirty years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the signature and every other part of such document, which purports to be in the handwriting of any particular person, is in that person’s handwriting, and, in the case of a document executed or attested, that it was duly executed and attested by the persons by whom it purports to be executed and attested.\nExplanationThe Explanation to section 80 shall also apply to this section.\nIllustrations\n(a)A has been in possession of landed property for a long time. He produces from his custody deeds relating to the land showing his titles to it. The custody shall be proper.\n(b)A produces deeds relating to landed property of which he is the mortgagee. The mortgagor is in possession. The custody shall be proper.\n(c)A, a connection of B, produces deeds relating to lands in B's possession, which were deposited with him by B for safe custody. The custody shall be proper.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>Presumption as to documents thirty years old</h3></div><p class=\"prov-cite\">Section 92 · Part III · Chapter V · Presumptions as to documents</p><div class=\"prov-body\"><p>Where any document, purporting or proved to be thirty years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the signature and every other part of such document, which purports to be in the handwriting of any particular person, is in that person’s handwriting, and, in the case of a document executed or attested, that it was duly executed and attested by the persons by whom it purports to be executed and attested.</p><p><span class=\"named\">Explanation</span>The Explanation to section 80 shall also apply to this section.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A has been in possession of landed property for a long time. He produces from his custody deeds relating to the land showing his titles to it. The custody shall be proper.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A produces deeds relating to landed property of which he is the mortgagee. The mortgagor is in possession. The custody shall be proper.</p><p class=\"lvl illus\"><span class=\"lbl\">(c)</span>A, a connection of B, produces deeds relating to lands in B's possession, which were deposited with him by B for safe custody. The custody shall be proper.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>Presumption as to documents thirty years old</h3></div><p class=\"prov-cite\">Section 92 · Part III · Chapter V · Presumptions as to documents</p><div class=\"prov-body\"><p>Where any document, purporting or proved to be thirty years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the signature and every other part of such document, which purports to be in the handwriting of any particular person, is in that person’s handwriting, and, in the case of a document executed or attested, that it was duly executed and attested by the persons by whom it purports to be executed and attested.</p><p><span class=\"named\">Explanation</span>The Explanation to section 80 shall also apply to this section.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A has been in possession of landed property for a long time. He produces from his custody deeds relating to the land showing his titles to it. The custody shall be proper.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A produces deeds relating to landed property of which he is the mortgagee. The mortgagor is in possession. The custody shall be proper.</p><p class=\"lvl illus\"><span class=\"lbl\">(c)</span>A, a connection of B, produces deeds relating to lands in B's possession, which were deposited with him by B for safe custody. The custody shall be proper.</p></div>"
+  }
+}

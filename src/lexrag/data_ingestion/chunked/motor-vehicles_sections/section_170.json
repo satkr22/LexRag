@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_170_chunk_0",
+    "section_id": "motor-vehicles_section_170",
+    "token_count": 178,
+    "text": "[Act: motor-vehicles\n Chapter: Claims Tribunals\n Section: 170::Impleading insurer in certain cases.\n]\n\n\nWhere in the course of any inquiry, the Claims Tribunal is satisfied that—\n(a) there is collusion between the person making the claim and the person against whom the claim is made; or\n(b) the person against whom the claim is made has failed to contest the claim,\nit may, for reasons to be recorded in writing, direct that the insurer who may be liable in respect of such claim, shall be impleaded as a party to the proceeding and the insurer so impleaded shall thereupon have, without prejudice to the provisions contained in sub-section (2) of 1[section 150], the right to contest the claim on all or any of the grounds that are available to the person against whom the claim has been made.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_170_chunk_0",
+      "section_id": "motor-vehicles_section_170",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Claims Tribunals",
+      "section_number": "170",
+      "section_title": "Impleading insurer in certain cases."
+    }
+  }
+]

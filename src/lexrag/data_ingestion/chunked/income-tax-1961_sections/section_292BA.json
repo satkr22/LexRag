@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_292BA_chunk_0",
+    "section_id": "income-tax-1961_section_292BA",
+    "token_count": 122,
+    "text": "[Act: income-tax-1961\n Chapter: Miscellaneous\n Section: 292BA::Assessments not to be invalid on certain grounds.\n]\n\n\nNotwithstanding anything contained in any judgment, order or decree of any court, for the removal of doubts, it is hereby clarified for the purposes of section 292B that no assessment under any of the provisions of this Act shall be invalid or shall be deemed to have been invalid on the ground of any mistake, defect or omission in respect of quoting of a computer generated Document Identification Number, if the assessment order is referenced by such\nnumber in any manner.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_292BA_chunk_0",
+      "section_id": "income-tax-1961_section_292BA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "292BA",
+      "section_title": "Assessments not to be invalid on certain grounds."
+    }
+  }
+]

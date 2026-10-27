@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_34_chunk_0",
+    "section_id": "technology_section_34",
+    "token_count": 227,
+    "text": "[Act: technology\n Chapter: Regulation of Certifying Authorities\n Section: 34::Disclosure.\n]\n\n\n(1) Every Certifying Authority shall disclose in the manner specified by regulations–\n(a) its 2[electronic signature] Certificate 3***;\n(b) any certification practice statement relevant thereto;\n(c) notice of the revocation or suspension of its Certifying Authority certificate, if any; and\n(d) any other fact that materially and adversely affects either the reliability of a 2[electronic signature] Certificate, which that Authority has issued, or the Authority's ability to perform its services.\n(2) Where in the opinion of the Certifying Authority any event has occurred or any situation has arisen which may materially and adversely affect the integrity of its computer system or the conditions subject to which a 2[electronic signature] Certificate was granted, then, the Certifying Authority shall–\n(a) use reasonable efforts to notify any person who is likely to be affected by that occurrence; or\n(b) act in accordance with the procedure specified in its certification practice statement to deal with such event or situation.",
+    "metadata": {
+      "chunk_id": "technology_section_34_chunk_0",
+      "section_id": "technology_section_34",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Regulation of Certifying Authorities",
+      "section_number": "34",
+      "section_title": "Disclosure."
+    }
+  }
+]

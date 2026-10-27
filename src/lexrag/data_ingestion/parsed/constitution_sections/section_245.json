@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-14.html",
+    "source_order": 14,
+    "article_order": 1,
+    "order": 319,
+    "stem": "section_245",
+    "heading_number": "Part XI",
+    "heading_title": "Relations between the Union and the States",
+    "heading_range": "245 – 263",
+    "heading_source": "group-head",
+    "article_number": "245",
+    "article_title": "Extent of laws made by Parliament and by the Legislatures of States",
+    "id": "constitution_section_245"
+  },
+  "id": "constitution_section_245",
+  "heading": {
+    "number": "Part XI",
+    "title": "Relations between the Union and the States",
+    "range": "245 – 263"
+  },
+  "article": {
+    "number": "245",
+    "title": "Extent of laws made by Parliament and by the Legislatures of States",
+    "content": "(1)Subject to the provisions of this Constitution, Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State.\n(2)No law made by Parliament shall be deemed to be invalid on the ground that it would have extra-territorial operation.\n",
+    "html": "<article class=\"provision\" data-n=\"245\" data-report=\"Article 245 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245</span>Extent of laws made by Parliament and by the Legislatures of States</h3></div><p class=\"prov-cite\">Article 245 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Subject to the provisions of this Constitution, Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State.</p><p><span class=\"lbl\">(2)</span>No law made by Parliament shall be deemed to be invalid on the ground that it would have extra-territorial operation.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245</span>Extent of laws made by Parliament and by the Legislatures of States</h3></div><p class=\"prov-cite\">Article 245 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Subject to the provisions of this Constitution, Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State.</p><p><span class=\"lbl\">(2)</span>No law made by Parliament shall be deemed to be invalid on the ground that it would have extra-territorial operation.</p></div>"
+  }
+}

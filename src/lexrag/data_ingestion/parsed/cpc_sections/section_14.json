@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-02.html",
+    "source_order": 2,
+    "article_order": 6,
+    "order": 14,
+    "stem": "section_14",
+    "heading_number": "Part I",
+    "heading_title": "Suits in General",
+    "heading_range": "ss. 9–35B",
+    "heading_source": "group-head",
+    "article_number": "14",
+    "article_title": "Presumption as to foreign judgments.",
+    "id": "cpc_section_14"
+  },
+  "id": "cpc_section_14",
+  "heading": {
+    "number": "Part I",
+    "title": "Suits in General",
+    "range": "ss. 9–35B"
+  },
+  "article": {
+    "number": "14",
+    "title": "Presumption as to foreign judgments.",
+    "content": "Jurisdiction of The Courts and res judicata\nThe Court shall presume upon the production of any document purporting to be a certified copy of a foreign judgment, that such judgment was pronounced by a Court of competent jurisdiction, unless the contrary appears on the record; but such presumption may be displaced by proving want of jurisdiction.\n",
+    "html": "<article class=\"provision\" data-n=\"14\" data-report=\"Section 14 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Presumption as to foreign judgments.</h3></div><p class=\"prov-cite\">Section 14</p><div class=\"prov-body\"><p class=\"sched-title\">Jurisdiction of The Courts and res judicata</p><p>The Court shall presume upon the production of any document purporting to be a certified copy of a foreign judgment, that such judgment was pronounced by a Court of competent jurisdiction, unless the contrary appears on the record; but such presumption may be displaced by proving want of jurisdiction.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Presumption as to foreign judgments.</h3></div><p class=\"prov-cite\">Section 14</p><div class=\"prov-body\"><p class=\"sched-title\">Jurisdiction of The Courts and res judicata</p><p>The Court shall presume upon the production of any document purporting to be a certified copy of a foreign judgment, that such judgment was pronounced by a Court of competent jurisdiction, unless the contrary appears on the record; but such presumption may be displaced by proving want of jurisdiction.</p></div>"
+  }
+}

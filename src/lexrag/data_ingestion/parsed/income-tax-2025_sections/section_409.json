@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-19.html",
+    "source_order": 20,
+    "article_order": 20,
+    "order": 410,
+    "stem": "section_409",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 390–430",
+    "heading_source": "group-head",
+    "article_number": "409",
+    "article_title": "When assessee is deemed to be in default.",
+    "id": "income-tax-2025_section_409"
+  },
+  "id": "income-tax-2025_section_409",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 390–430"
+  },
+  "article": {
+    "number": "409",
+    "title": "When assessee is deemed to be in default.",
+    "content": "A person shall be deemed to be an assessee in default, if such person—\n(a) does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or\n(b) does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or\n(c) does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9), in respect of such instalment or instalments.\n",
+    "html": "<article class=\"provision\" data-n=\"409\" data-report=\"Section 409 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">409</span>When assessee is deemed to be in default.</h3></div><p class=\"prov-cite\">Section 409  ·  Chapter XIX  ·  C.—Advance payment of tax  ·  page 491 of the Act</p><div class=\"prov-body\"><p>A person shall be deemed to be an assessee in default, if such person—</p><p class=\"lvl\">(a) does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or</p><p class=\"lvl\">(b) does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or</p><p class=\"lvl\">(c) does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9), in respect of such instalment or instalments.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">409</span>When assessee is deemed to be in default.</h3></div><p class=\"prov-cite\">Section 409  ·  Chapter XIX  ·  C.—Advance payment of tax  ·  page 491 of the Act</p><div class=\"prov-body\"><p>A person shall be deemed to be an assessee in default, if such person—</p><p class=\"lvl\">(a) does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or</p><p class=\"lvl\">(b) does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or</p><p class=\"lvl\">(c) does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9), in respect of such instalment or instalments.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "specific-relief_section_21_chunk_0",
+    "section_id": "specific-relief_section_21",
+    "token_count": 321,
+    "text": "[Act: specific-relief\n Chapter: Specific Performance of Contracts\n Section: 21::Power to award compensation in certain cases.\n]\n\n\n(1) In a suit for specific performance of a contract, the plaintiff may also claim compensation for its breach 1[in addition to] such performance.\n(2) If, in any such suit, the court decides that specific performance ought not to be granted, but that there is a contract between the parties which has been broken by the defendant, and that the plaintiff is entitled to compensation for that breach, it shall award him such compensation accordingly.\n(3) If, in any such suit, the court decides that specific performance ought to be granted, but that it is not sufficient to satisfy the justice of the case, and that some compensation for breach of the contract should also be made to the plaintiff, it shall award him such compensation accordingly.\n(4) In determining the amount of any compensation awarded under this section, the court shall be guided by the principles specified in section 73 of the Indian Contract Act, 1872 (9 of 1872).\n(5) No compensation shall be awarded under this section unless the plaintiff has claimed such compensation in his plaint:\nProvided that where the plaintiff has not claimed any such compensation in the plaint, the court shall, at any stage of the proceeding, allow him to amend the plaint on such terms as may be just, for including a claim for such compensation.\nExplanation.—The circumstances that the contract has become incapable of specific performance does not preclude the court from exercising the jurisdiction conferred by this section.",
+    "metadata": {
+      "chunk_id": "specific-relief_section_21_chunk_0",
+      "section_id": "specific-relief_section_21",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "specific-relief",
+      "document_title": null,
+      "chapter_number": "Part II · Chapter II",
+      "chapter_title": "Specific Performance of Contracts",
+      "section_number": "21",
+      "section_title": "Power to award compensation in certain cases."
+    }
+  }
+]

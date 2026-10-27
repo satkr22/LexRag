@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_124_chunk_0",
+    "section_id": "motor-vehicles_section_124",
+    "token_count": 213,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 124::Prohibition against travelling without pass or ticket.\n]\n\n\nNo person shall enter or remain in any stage carriage for the purposes of travelling therein unless he has with him a proper pass or ticket:\nProvided that where arrangements for the supply of tickets are made in the stage carriage by which a person has to travel, a person may enter such stage carriage but as soon as may be after his entry therein, be shall make the payment of his fare to the conductor or the driver who performs the functions of a conductor and obtain from such conductor or driver, as the case may be, a ticket for his journey.\nExplanation.—In this section,—\n(a) “pass” means a duty, privilege or courtesy pass entitling the person to whom it is given to travel in a stage carriage gratuitously and includes a pass issued on payment for travel in a stage carriage for the period specified therein;\n(b) “ticket” includes a single ticket, a return ticket or a season ticket.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_124_chunk_0",
+      "section_id": "motor-vehicles_section_124",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "124",
+      "section_title": "Prohibition against travelling without pass or ticket."
+    }
+  }
+]

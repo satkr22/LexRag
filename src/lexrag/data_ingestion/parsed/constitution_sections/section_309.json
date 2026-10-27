@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-17.html",
+    "source_order": 17,
+    "article_order": 2,
+    "order": 391,
+    "stem": "section_309",
+    "heading_number": "Part XIV",
+    "heading_title": "Services under the Union and the States",
+    "heading_range": "308 – 323",
+    "heading_source": "group-head",
+    "article_number": "309",
+    "article_title": "Recruitment and conditions of service of persons serving the Union or a State",
+    "id": "constitution_section_309"
+  },
+  "id": "constitution_section_309",
+  "heading": {
+    "number": "Part XIV",
+    "title": "Services under the Union and the States",
+    "range": "308 – 323"
+  },
+  "article": {
+    "number": "309",
+    "title": "Recruitment and conditions of service of persons serving the Union or a State",
+    "content": "Subject to the provisions of this Constitution, Acts of the appropriate Legislature may regulate the recruitment, and conditions of service of persons appointed, to public services and posts in connection with the affairs of the Union or of any State:\nProvisoProvided that it shall be competent for the President or such person as he may direct in the case of services and posts in connection with the affairs of the Union, and for the Governor 1*** of a State or such person as he may direct in the case of services and posts in connection with the affairs of the State, to make rules regulating the recruitment, and the conditions of service of persons appointed, to such services and posts until provision in that behalf is made by or under an Act of the appropriate Legislature under this article, and any rules so made shall have effect subject to the provisions of any such Act.\n",
+    "html": "<article class=\"provision\" data-n=\"309\" data-report=\"Article 309 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">309</span>Recruitment and conditions of service of persons serving the Union or a State</h3></div><p class=\"prov-cite\">Article 309 · Part XIV</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, Acts of the appropriate Legislature may regulate the recruitment, and conditions of service of persons appointed, to public services and posts in connection with the affairs of the Union or of any State:</p><p><span class=\"named\">Proviso</span>Provided that it shall be competent for the President or such person as he may direct in the case of services and posts in connection with the affairs of the Union, and for the Governor <sup>1</sup>*** of a State or such person as he may direct in the case of services and posts in connection with the affairs of the State, to make rules regulating the recruitment, and the conditions of service of persons appointed, to such services and posts until provision in that behalf is made by or under an Act of the appropriate Legislature under this article, and any rules so made shall have effect subject to the provisions of any such Act.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> The words \"or Rajpramukh\" omitted by s. 29 and Sch., ibid (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">309</span>Recruitment and conditions of service of persons serving the Union or a State</h3></div><p class=\"prov-cite\">Article 309 · Part XIV</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, Acts of the appropriate Legislature may regulate the recruitment, and conditions of service of persons appointed, to public services and posts in connection with the affairs of the Union or of any State:</p><p><span class=\"named\">Proviso</span>Provided that it shall be competent for the President or such person as he may direct in the case of services and posts in connection with the affairs of the Union, and for the Governor <sup>1</sup>*** of a State or such person as he may direct in the case of services and posts in connection with the affairs of the State, to make rules regulating the recruitment, and the conditions of service of persons appointed, to such services and posts until provision in that behalf is made by or under an Act of the appropriate Legislature under this article, and any rules so made shall have effect subject to the provisions of any such Act.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> The words \"or Rajpramukh\" omitted by s. 29 and Sch., ibid (w.e.f. 1-11-1956).</p></div>"
+  }
+}

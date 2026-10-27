@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_24_chunk_0",
+    "section_id": "gst_section_24",
+    "token_count": 333,
+    "text": "[Act: gst\n Chapter: Registration\n Section: 24::Compulsory registration in certain cases.\n]\n\n\nNotwithstanding anything contained in sub-section (1) of section 22, the following categories of persons shall be required to be registered under this Act,––\n(i) persons making any inter-State taxable supply;\n(ii) casual taxable persons making taxable supply;\n(iii) persons who are required to pay tax under reverse charge;\n(iv) person who are required to pay tax under sub-section (5) of section 9;\n(v) non-resident taxable persons making taxable supply;\n(vi) persons who are required to deduct tax under section 51, whether or not separately registered under this Act;\n(vii) persons who make taxable supply of goods or services or both on behalf of other taxable persons whether as an agent or otherwise;\n(viii) Input Service Distributor, whether or not separately registered under this Act;\n(ix) persons who supply goods or services or both, other than supplies specified under sub-section (5) of section 9, through such electronic commerce operator who is required to collect tax at source under section 52;\n(x) every electronic commerce operator 1[who is required to collect tax at source under section 52];\n(xi) every person supplying online information and database access or retrieval services from a place outside India to a person in India, other than a registered person; 2***\n3[(xia) every person supplying online money gaming from a place outside India to a person in India; and]\n(xii) such other person or class of persons as may be notified by the Government on the recommendations of the Council.",
+    "metadata": {
+      "chunk_id": "gst_section_24_chunk_0",
+      "section_id": "gst_section_24",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Registration",
+      "section_number": "24",
+      "section_title": "Compulsory registration in certain cases."
+    }
+  }
+]

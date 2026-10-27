@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_240_chunk_0",
+    "section_id": "income-tax-1961_section_240",
+    "token_count": 184,
+    "text": "[Act: income-tax-1961\n Chapter: Refunds\n Section: 240::Refund on appeal, etc.\n]\n\n\nWhere, as a result of any order passed in appeal or other proceeding under this Act, refund of any amount becomes due to the assessee, the Assessing Officer shall, except as other-wise provided in this Act, refund the amount to the assessee without his having to make any claim in that behalf:\nProvided that where, by the order aforesaid,—\n(a) an assessment is set aside or cancelled and an order of fresh assessment is directed to be made, the refund, if any, shall become due only on the making of such fresh assessment;\n(b) the assessment is annulled, the refund shall become due only of the amount, if any, of the tax paid in excess of the tax chargeable on the total income returned by the assessee.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_240_chunk_0",
+      "section_id": "income-tax-1961_section_240",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Refunds",
+      "section_number": "240",
+      "section_title": "Refund on appeal, etc."
+    }
+  }
+]

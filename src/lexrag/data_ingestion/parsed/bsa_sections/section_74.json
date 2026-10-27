@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-74.html",
+    "source_order": 74,
+    "article_order": 1,
+    "order": 74,
+    "stem": "section_74",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "74",
+    "article_title": "Public and private documents",
+    "id": "bsa_section_74"
+  },
+  "id": "bsa_section_74",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "74",
+    "title": "Public and private documents",
+    "content": "(1)The following documents are public documents:—\n(a)documents forming the acts, or records of the acts—\n(i)of the sovereign authority;\n(ii)of official bodies and tribunals; and\n(iii)of public officers, legislative, judicial and executive of India or of a foreign country;\n(b)public records kept in any State or Union territory of private documents.\n(2)All other documents except the documents referred to in sub-section (1) are private.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">74</span>Public and private documents</h3></div><p class=\"prov-cite\">Section 74 · Part III · Chapter V · Public documents</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The following documents are public documents:—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>documents forming the acts, or records of the acts—</p><p class=\"lvl2\"><span class=\"lbl\">(i)</span>of the sovereign authority;</p><p class=\"lvl2\"><span class=\"lbl\">(ii)</span>of official bodies and tribunals; and</p><p class=\"lvl2\"><span class=\"lbl\">(iii)</span>of public officers, legislative, judicial and executive of India or of a foreign country;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>public records kept in any State or Union territory of private documents.</p><p><span class=\"lbl\">(2)</span>All other documents except the documents referred to in sub-section (1) are private.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">74</span>Public and private documents</h3></div><p class=\"prov-cite\">Section 74 · Part III · Chapter V · Public documents</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The following documents are public documents:—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>documents forming the acts, or records of the acts—</p><p class=\"lvl2\"><span class=\"lbl\">(i)</span>of the sovereign authority;</p><p class=\"lvl2\"><span class=\"lbl\">(ii)</span>of official bodies and tribunals; and</p><p class=\"lvl2\"><span class=\"lbl\">(iii)</span>of public officers, legislative, judicial and executive of India or of a foreign country;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>public records kept in any State or Union territory of private documents.</p><p><span class=\"lbl\">(2)</span>All other documents except the documents referred to in sub-section (1) are private.</p></div>"
+  }
+}

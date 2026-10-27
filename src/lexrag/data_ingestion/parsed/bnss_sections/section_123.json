@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-08.html",
+    "source_order": 8,
+    "article_order": 13,
+    "order": 123,
+    "stem": "section_123",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "heading_range": "111 – 124",
+    "heading_source": "group-head",
+    "article_number": "123",
+    "article_title": "Procedure in respect of letter of request",
+    "id": "bnss_section_123"
+  },
+  "id": "bnss_section_123",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "range": "111 – 124"
+  },
+  "article": {
+    "number": "123",
+    "title": "Procedure in respect of letter of request",
+    "content": "Every letter of request, summons or warrant, received by the Central Government from, and every letter of request, summons or warrant, to be transmitted to a contracting State under this Chapter shall be transmitted to a contracting State or, as the case may be, sent to the concerned Court in India in such form and in such manner as the Central Government may, by notification, specify in this behalf.\n",
+    "html": "<article class=\"provision\" data-n=\"123\" data-report=\"Section 123 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Procedure in respect of letter of request</h3></div><p class=\"prov-cite\">Section 123 · Chapter VIII</p><div class=\"prov-body\"><p>Every letter of request, summons or warrant, received by the Central Government from, and every letter of request, summons or warrant, to be transmitted to a contracting State under this Chapter shall be transmitted to a contracting State or, as the case may be, sent to the concerned Court in India in such form and in such manner as the Central Government may, by notification, specify in this behalf.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Procedure in respect of letter of request</h3></div><p class=\"prov-cite\">Section 123 · Chapter VIII</p><div class=\"prov-body\"><p>Every letter of request, summons or warrant, received by the Central Government from, and every letter of request, summons or warrant, to be transmitted to a contracting State under this Chapter shall be transmitted to a contracting State or, as the case may be, sent to the concerned Court in India in such form and in such manner as the Central Government may, by notification, specify in this behalf.</p></div>"
+  }
+}

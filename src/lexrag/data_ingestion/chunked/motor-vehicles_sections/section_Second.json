@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_Second_chunk_0",
+    "section_id": "motor-vehicles_section_Second",
+    "token_count": 23,
+    "text": "[Act: motor-vehicles\n Chapter: The Schedules\n Section: Second::THE SECOND SCHEDULE\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_Second_chunk_0",
+      "section_id": "motor-vehicles_section_Second",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "Second",
+      "section_title": "THE SECOND SCHEDULE"
+    }
+  }
+]

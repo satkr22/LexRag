@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-34.html",
+    "source_order": 34,
+    "article_order": 6,
+    "order": 433,
+    "stem": "section_O18R5",
+    "heading_number": "Order XVIII",
+    "heading_title": "Hearing of the suit and examination of witnesses",
+    "heading_range": "21 rules",
+    "heading_source": "group-head",
+    "article_number": "O18R5",
+    "article_title": "How evidence shall be taken in appealable cases.",
+    "id": "cpc_section_O18R5"
+  },
+  "id": "cpc_section_O18R5",
+  "heading": {
+    "number": "Order XVIII",
+    "title": "Hearing of the suit and examination of witnesses",
+    "range": "21 rules"
+  },
+  "article": {
+    "number": "O18R5",
+    "title": "How evidence shall be taken in appealable cases.",
+    "content": "In case in which an appeal is allowed, the evidence of each witness shall be,—\n(a) taken down in the language of the Court,—\n(i) in writing by, or in the presence and under the personal direction and superintendence of, the Judge, or\n(ii) from the dictation of the Judge directly on a typewriter; or\n(b) if the Judge, for reasons to be recorded, so directs, recorded mechanically in the language of the Court in the presence of the Judge.]\n",
+    "html": "<article class=\"provision\" data-n=\"O18R5\" data-report=\"Order 18, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>How evidence shall be taken in appealable cases.</h3></div><p class=\"prov-cite\">Order 18, Rule 5</p><div class=\"prov-body\"><p>In case in which an appeal is allowed, the evidence of each witness shall be,—</p><p class=\"lvl\">(a) taken down in the language of the Court,—</p><p class=\"lvl\">(i) in writing by, or in the presence and under the personal direction and superintendence of, the Judge, or</p><p class=\"lvl\">(ii) from the dictation of the Judge directly on a typewriter; or</p><p class=\"lvl\">(b) if the Judge, for reasons to be recorded, so directs, recorded mechanically in the language of the Court in the presence of the Judge.]</p></div><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 69, for rule 5 (w.e.f. 1-2-1977).</p><p class=\"fn loose\">The provisions of rule so far as they relate to the manner of taking evidence, are not applicable to the Chief Court of Oudh, see the Oudh Courts Act, 1925 (U. P. Act 4 of 1925), s. 16.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>How evidence shall be taken in appealable cases.</h3></div><p class=\"prov-cite\">Order 18, Rule 5</p><div class=\"prov-body\"><p>In case in which an appeal is allowed, the evidence of each witness shall be,—</p><p class=\"lvl\">(a) taken down in the language of the Court,—</p><p class=\"lvl\">(i) in writing by, or in the presence and under the personal direction and superintendence of, the Judge, or</p><p class=\"lvl\">(ii) from the dictation of the Judge directly on a typewriter; or</p><p class=\"lvl\">(b) if the Judge, for reasons to be recorded, so directs, recorded mechanically in the language of the Court in the presence of the Judge.]</p></div><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 69, for rule 5 (w.e.f. 1-2-1977).</p><p class=\"fn loose\">The provisions of rule so far as they relate to the manner of taking evidence, are not applicable to the Chief Court of Oudh, see the Oudh Courts Act, 1925 (U. P. Act 4 of 1925), s. 16.</p></div>"
+  }
+}

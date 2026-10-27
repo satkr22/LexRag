@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-37.html",
+    "source_order": 41,
+    "article_order": 6,
+    "order": 554,
+    "stem": "section_188",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Special Provisions Applicable to Firms",
+    "heading_range": "ss. 182–189A",
+    "heading_source": "group-head",
+    "article_number": "188",
+    "article_title": "Succession of one firm by another firm.",
+    "id": "income-tax-1961_section_188"
+  },
+  "id": "income-tax-1961_section_188",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Special Provisions Applicable to Firms",
+    "range": "ss. 182–189A"
+  },
+  "article": {
+    "number": "188",
+    "title": "Succession of one firm by another firm.",
+    "content": "Where a firm carrying on a business or profession is succeeded by another firm, and the case is not one covered by section 187, separate assessments shall be made on the predecessor firm and the successor firm in accordance with the provisions of section 170.\n",
+    "html": "<article class=\"provision\" data-n=\"188\" data-report=\"Section 188 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">188</span>Succession of one firm by another firm.</h3></div><p class=\"prov-cite\">Section 188  ·  Chapter XVI  ·  C.—Changes in constitution, succession and dissolution  ·  page 703 of the Act</p><div class=\"prov-body\"><p>Where a firm carrying on a business or profession is succeeded by another firm, and the case is not one covered by section 187, separate assessments shall be made on the predecessor firm and the successor firm in accordance with the provisions of section 170.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">188</span>Succession of one firm by another firm.</h3></div><p class=\"prov-cite\">Section 188  ·  Chapter XVI  ·  C.—Changes in constitution, succession and dissolution  ·  page 703 of the Act</p><div class=\"prov-body\"><p>Where a firm carrying on a business or profession is succeeded by another firm, and the case is not one covered by section 187, separate assessments shall be made on the predecessor firm and the successor firm in accordance with the provisions of section 170.</p></div>"
+  }
+}

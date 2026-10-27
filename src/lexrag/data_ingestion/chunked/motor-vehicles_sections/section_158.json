@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_158_chunk_0",
+    "section_id": "motor-vehicles_section_158",
+    "token_count": 502,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 158::Production of certain certificates, licence and permit in certain cases.\n]\n\n\n(1) Any person driving a motor vehicle in any public place shall, on being so required by a police officer in uniform authorised in this behalf by the State Government, produce—\n  (a) the certificate of insurance;\n  (b) the certificate of registration;\n  (c) the pollution under control certificate;\n  (d) the driving licence;\n  (e) in the case of a transport vehicle, also the certificate of fitness referred to in section 56, and the permit; and\n  (f) any certificate or authorisation of exemption that has been granted under this Act, relating to the use of the vehicle.\n  (2) Where, owing to the presence of a motor vehicle in a public place, an accident occurs involving death or bodily injury to another person, if the driver of the vehicle does not at that time produce the required certificate, driving licence and permit referred to in sub-section (1) to a police officer, he or the owner shall produce the said certificates, licence and permit at the police station at which the driver makes the report required by section 134.\n  (3) No person shall be liable to conviction for offences under sub-section (1) or sub-section (2) by reason of the failure to produce the required certificate if, within seven days from the date on which its production was required under sub-section (1), or as the case may be, from the date of occurrence of the accident, he produces the certificate at such police station as may have been specified by him to the police officer who required its production or, as the case may be, to the police officer at the site of the accident or to the officer-in-charge of the police station at which he reported the accident:\n  Provided that except to such extent and with such modifications as may be prescribed, the provisions of this sub-section shall not apply to the driver of a transport vehicle.\n  (4) The owner of a motor vehicle shall give such information as he may be required by or on behalf of a police officer empowered in this behalf by the State Government for the purpose of determining whether the vehicle was or was not being driven in contravention of section 146 and on any occasion when the driver was required under this section to produce the certificate of insurance.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_158_chunk_0",
+      "section_id": "motor-vehicles_section_158",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "158",
+      "section_title": "Production of certain certificates, licence and permit in certain cases."
+    }
+  },
+  {
+    "chunk_id": "motor-vehicles_section_158_chunk_1",
+    "section_id": "motor-vehicles_section_158",
+    "token_count": 128,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 158::Production of certain certificates, licence and permit in certain cases.\n]\n\n\n(1) Any person driving a motor vehicle in any public place shall, on being so required by a police officer in uniform authorised in this behalf by the State Government, produce—\n  (5) In this section, the expression “produce the certificate of insurance” means production for examination the relevant certificate of insurance or such other evidence as may be prescribed to prove that the vehicle was not being driven in contravention of section 146.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_158_chunk_1",
+      "section_id": "motor-vehicles_section_158",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "158",
+      "section_title": "Production of certain certificates, licence and permit in certain cases."
+    }
+  }
+]

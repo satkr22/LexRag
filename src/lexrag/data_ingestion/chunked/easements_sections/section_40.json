@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_40_chunk_0",
+    "section_id": "easements_section_40",
+    "token_count": 87,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 40::Extinction on expiration of limited period or happening of dissolving condition.\n]\n\n\nAn easement is extinguished where it has been imposed for a limited period, or acquired on condition that it shall become void on the performance or non-performance of a specified act, and the period expires or the condition is fulfilled.",
+    "metadata": {
+      "chunk_id": "easements_section_40_chunk_0",
+      "section_id": "easements_section_40",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "40",
+      "section_title": "Extinction on expiration of limited period or happening of dissolving condition."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-36.html",
+    "source_order": 36,
+    "article_order": 1,
+    "order": 36,
+    "stem": "section_36",
+    "heading_number": "Chapter IV",
+    "heading_title": "Consumer Disputer Redressal Commission",
+    "heading_range": "ss. 28–73",
+    "heading_source": "manifest",
+    "article_number": "36",
+    "article_title": "Proceedings before District Commission.",
+    "id": "consumer_section_36"
+  },
+  "id": "consumer_section_36",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Consumer Disputer Redressal Commission",
+    "range": "ss. 28–73"
+  },
+  "article": {
+    "number": "36",
+    "title": "Proceedings before District Commission.",
+    "content": "(1) Every proceeding before the District Commission shall be conducted by the President of that Commission and atleast one member thereof, sitting together:\nProvided that where a member, for any reason, is unable to conduct a proceeding till it is completed, the President and the other member shall continue the proceeding from the stage at which it was last heard by the previous member.\n(2) On receipt of a complaint made under section 35, the District Commission may, by order, admit the complaint for being proceeded with or reject the same:\nProvided that a complaint shall not be rejected under this section unless an opportunity of being heard has been given to the complainant:\nProvided further that the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed.\n(3) Where the District Commission does not decide the issue of admissibility of the complaint within the period so specified, it shall be deemed to have been admitted.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Proceedings before District Commission.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter IV  ·  page 19 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every proceeding before the District Commission shall be conducted by the President of that Commission and atleast one member thereof, sitting together:</p><p class=\"prvso\">Provided that where a member, for any reason, is unable to conduct a proceeding till it is completed, the President and the other member shall continue the proceeding from the stage at which it was last heard by the previous member.</p><p class=\"lvl\">(2) On receipt of a complaint made under section 35, the District Commission may, by order, admit the complaint for being proceeded with or reject the same:</p><p class=\"prvso\">Provided that a complaint shall not be rejected under this section unless an opportunity of being heard has been given to the complainant:</p><p class=\"prvso\">Provided further that the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed.</p><p class=\"lvl\">(3) Where the District Commission does not decide the issue of admissibility of the complaint within the period so specified, it shall be deemed to have been admitted.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Proceedings before District Commission.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter IV  ·  page 19 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every proceeding before the District Commission shall be conducted by the President of that Commission and atleast one member thereof, sitting together:</p><p class=\"prvso\">Provided that where a member, for any reason, is unable to conduct a proceeding till it is completed, the President and the other member shall continue the proceeding from the stage at which it was last heard by the previous member.</p><p class=\"lvl\">(2) On receipt of a complaint made under section 35, the District Commission may, by order, admit the complaint for being proceeded with or reject the same:</p><p class=\"prvso\">Provided that a complaint shall not be rejected under this section unless an opportunity of being heard has been given to the complainant:</p><p class=\"prvso\">Provided further that the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed.</p><p class=\"lvl\">(3) Where the District Commission does not decide the issue of admissibility of the complaint within the period so specified, it shall be deemed to have been admitted.</p></div>"
+  }
+}

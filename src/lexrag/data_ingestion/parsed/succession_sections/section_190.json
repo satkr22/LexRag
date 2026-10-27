@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-29.html",
+    "source_order": 29,
+    "article_order": 11,
+    "order": 190,
+    "stem": "section_190",
+    "heading_number": "Part VI · Chapter XXII",
+    "heading_title": "Of Election",
+    "heading_range": "ss. 180–190",
+    "heading_source": "group-head",
+    "article_number": "190",
+    "article_title": "Postponement of election in case of disability.",
+    "id": "succession_section_190"
+  },
+  "id": "succession_section_190",
+  "heading": {
+    "number": "Part VI · Chapter XXII",
+    "title": "Of Election",
+    "range": "ss. 180–190"
+  },
+  "article": {
+    "number": "190",
+    "title": "Postponement of election in case of disability.",
+    "content": "In case of disability the election shall be postponed until the disability ceases, or until the election is made by some competent authority.\n",
+    "html": "<article class=\"provision\" data-n=\"190\" data-report=\"Section 190 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">190</span>Postponement of election in case of disability.</h3></div><p class=\"prov-cite\">Section 190  ·  Part VI · Chapter XXII  ·  page 63 of the Act</p><div class=\"prov-body\"><p>In case of disability the election shall be postponed until the disability ceases, or until the election is made by some competent authority.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">190</span>Postponement of election in case of disability.</h3></div><p class=\"prov-cite\">Section 190  ·  Part VI · Chapter XXII  ·  page 63 of the Act</p><div class=\"prov-body\"><p>In case of disability the election shall be postponed until the disability ceases, or until the election is made by some competent authority.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_188_chunk_0",
+    "section_id": "motor-vehicles_section_188",
+    "token_count": 66,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 188::Punishment for abetment of certain offences.\n]\n\n\nWhoever abets the commission of an offence under section 184, section 185 or section 186 shall be punishable with the punishment provided for the offence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_188_chunk_0",
+      "section_id": "motor-vehicles_section_188",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "188",
+      "section_title": "Punishment for abetment of certain offences."
+    }
+  }
+]

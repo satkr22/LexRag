@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 19,
+    "order": 292,
+    "stem": "section_288",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "288",
+    "article_title": "Submission of periodical reports to Tribunal.",
+    "id": "companies_section_288"
+  },
+  "id": "companies_section_288",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "288",
+    "title": "Submission of periodical reports to Tribunal.",
+    "content": "(1) The Company Liquidator shall make periodical reports to the Tribunal and in any case make a report at the end of each quarter with respect to the progress of the winding up of the company in such form and manner as may be prescribed.\n(2) The Tribunal may, on an application by the Company Liquidator, review the orders made by it and make such modifications as it thinks fit.\n",
+    "html": "<article class=\"provision\" data-n=\"288\" data-report=\"Section 288 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">288</span>Submission of periodical reports to Tribunal.</h3></div><p class=\"prov-cite\">Section 288  ·  Chapter XX  ·  Part I  ·  page 176 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Company Liquidator shall make periodical reports to the Tribunal and in any case make a report at the end of each quarter with respect to the progress of the winding up of the company in such form and manner as may be prescribed.</p><p class=\"lvl\">(2) The Tribunal may, on an application by the Company Liquidator, review the orders made by it and make such modifications as it thinks fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">288</span>Submission of periodical reports to Tribunal.</h3></div><p class=\"prov-cite\">Section 288  ·  Chapter XX  ·  Part I  ·  page 176 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Company Liquidator shall make periodical reports to the Tribunal and in any case make a report at the end of each quarter with respect to the progress of the winding up of the company in such form and manner as may be prescribed.</p><p class=\"lvl\">(2) The Tribunal may, on an application by the Company Liquidator, review the orders made by it and make such modifications as it thinks fit.</p></div>"
+  }
+}

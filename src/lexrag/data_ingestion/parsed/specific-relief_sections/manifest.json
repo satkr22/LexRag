@@ -1,0 +1,302 @@
+{
+  "act": "specific-relief",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/specific-relief_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/specific-relief_sections",
+  "count": 49,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Savings.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Specific relief to be granted only for enforcing individual civil rights and not for enforcing penal laws.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Recovery of specific immovable property.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Suit by person dispossessed of immovable property.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Recovery of specific movable property.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Liability of person in possession, not as owner, to deliver to persons entitled to immediate possession.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Defences respecting suits for relief based on contract.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "1 [Specific performance in respect of contracts.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Cases in which specific performance of contracts connected with trusts enforceable.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Specific performance of part of contract.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Rights of purchaser or lessee against person with no title or imperfect title.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "1 [Contracts not specifically enforceable.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "14A",
+      "article_title": "Power of court to engage experts.",
+      "file": "section_14A.json"
+    },
+    {
+      "order": 16,
+      "article_number": "15",
+      "article_title": "Who may obtain specific performance.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 17,
+      "article_number": "16",
+      "article_title": "Personal bars to relief.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 18,
+      "article_number": "17",
+      "article_title": "Contract to sell or let property by one who has no title, not specifically enforceable.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 19,
+      "article_number": "18",
+      "article_title": "Non-enforcement except with variation.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 20,
+      "article_number": "19",
+      "article_title": "Relief against parties and persons claiming under them by subsequent title.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 21,
+      "article_number": "20",
+      "article_title": "3 [Substituted performance of contract.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 22,
+      "article_number": "20A",
+      "article_title": "Special provisions for contract relating to infrastructure project.",
+      "file": "section_20A.json"
+    },
+    {
+      "order": 23,
+      "article_number": "20B",
+      "article_title": "Special Courts.",
+      "file": "section_20B.json"
+    },
+    {
+      "order": 24,
+      "article_number": "20C",
+      "article_title": "Expeditious disposal of suits.",
+      "file": "section_20C.json"
+    },
+    {
+      "order": 25,
+      "article_number": "21",
+      "article_title": "Power to award compensation in certain cases.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 26,
+      "article_number": "22",
+      "article_title": "Power to grant relief for possession, partition, refund of earnest money, etc.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 27,
+      "article_number": "23",
+      "article_title": "Liquidation of damages not a bar to specific performance.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 28,
+      "article_number": "24",
+      "article_title": "Bar of suit for compensation for breach after dismissal of suit for specific performance.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 29,
+      "article_number": "25",
+      "article_title": "Application of preceding sections to certain awards and testamentary directions to execute settlements.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 30,
+      "article_number": "26",
+      "article_title": "When instrument may be rectified.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 31,
+      "article_number": "27",
+      "article_title": "When rescission may be adjudged or refused.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 32,
+      "article_number": "28",
+      "article_title": "Rescission in certain circumstances of contracts for the sale or lease of immovable property, the specific performance of which has been decreed.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 33,
+      "article_number": "29",
+      "article_title": "Alternative prayer for rescission in suit for specific performance.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 34,
+      "article_number": "30",
+      "article_title": "Court may require parties rescinding to do equity.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 35,
+      "article_number": "31",
+      "article_title": "When cancellation may be ordered.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 36,
+      "article_number": "32",
+      "article_title": "What instruments may be partially cancelled.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 37,
+      "article_number": "33",
+      "article_title": "Power to require benefit to be restored or compensation to be made when instrument is cancelled or is successfully resisted as being void or voidable.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 38,
+      "article_number": "34",
+      "article_title": "Discretion of court as to declaration of status or right.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 39,
+      "article_number": "35",
+      "article_title": "Effect of declaration.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 40,
+      "article_number": "36",
+      "article_title": "Preventive relief how granted.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 41,
+      "article_number": "37",
+      "article_title": "Temporary and perpetual injunctions.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 42,
+      "article_number": "38",
+      "article_title": "Perpetual injunction when granted.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 43,
+      "article_number": "39",
+      "article_title": "Mandatory injunctions.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 44,
+      "article_number": "40",
+      "article_title": "Damages in lieu of, or in addition to, injunction.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 45,
+      "article_number": "41",
+      "article_title": "Injunction when refused.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 46,
+      "article_number": "42",
+      "article_title": "Injunction to perform negative agreement.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 47,
+      "article_number": "43",
+      "article_title": "[Repealed.]",
+      "file": "section_43.json"
+    },
+    {
+      "order": 48,
+      "article_number": "44",
+      "article_title": "[Repealed.]",
+      "file": "section_44.json"
+    },
+    {
+      "order": 49,
+      "article_number": "schedule",
+      "article_title": "The Schedule 1",
+      "file": "section_schedule.json"
+    }
+  ]
+}

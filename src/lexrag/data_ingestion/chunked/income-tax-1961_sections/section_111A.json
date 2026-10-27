@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_111A_chunk_0",
+    "section_id": "income-tax-1961_section_111A",
+    "token_count": 160,
+    "text": "[Act: income-tax-1961\n Chapter: Determination of Tax in Certain Special Cases\n Section: 111A::Tax on short-term capital gains in certain cases.\n]\n\n\n(1) Where the total income of an assessee includes any income charge- able under the head \"Capital gains\", arising from the transfer of a short-term capital asset, being an equity share in a company or a unit of an equity oriented fund or a unit of a business trust and—\n  (a) the transaction of sale of such equity share or unit is entered into on or after the date on which Chapter VII of the Finance (No. 2) Act, 2004 comes into force; and\n  (b) such transaction is chargeable to securities transaction tax under that Chapter,",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_111A_chunk_0",
+      "section_id": "income-tax-1961_section_111A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Determination of Tax in Certain Special Cases",
+      "section_number": "111A",
+      "section_title": "Tax on short-term capital gains in certain cases."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_111A_chunk_1",
+    "section_id": "income-tax-1961_section_111A",
+    "token_count": 506,
+    "text": "[Act: income-tax-1961\n Chapter: Determination of Tax in Certain Special Cases\n Section: 111A::Tax on short-term capital gains in certain cases.\n]\n\n\n18 [the tax payable by the assessee on the total income shall be the aggregate of—\n  (i) the amount of income-tax calculated on such short-term capital gains—\n  (a) at the rate of fifteen per cent for any transfer which takes place before the 23rd day of July, 2024; and\n  (b) at the rate of twenty per cent for any transfer which takes place on or after the 23rd day of July, 2024;\n  (ii) the amount of income-tax payable on the balance amount of the total income as if such balance amount were the total income of the assessee:]\n  Provided that in the case of an individual or a Hindu undivided family, being a resident, where the total income as reduced by such short-term capital gains is below the maximum amount which is not chargeable to income-tax, then, such short-term capital gains shall be reduced by the amount by which the total income as so reduced falls short of the maximum amount which is not chargeable to income-tax and the tax on the balance of such short-term capital gains shall be computed at the 19 [rate as applicable in clause (i)]:\n  Provided further that nothing contained in clause (b) shall apply to a transaction undertaken on a recognised stock exchange located in any International Financial Services Centre and where the consideration for such transaction is paid or payable in foreign currency.\n  (2) Where the gross total income of an assessee includes any short-term capital gains referred to in sub-section (1), the deduction under Chapter VI-A shall be allowed from the gross total income as reduced by such capital gains.\n  (3) [***]\n  Explanation.—For the purposes of this section,—\n  (a) \"equity oriented fund\" shall have the meaning assigned to it in clause (a) of the Explanation to section 112A;\n  (b) \"International Financial Services Centre\" shall have the same meaning as assigned to it in clause (q) of section 2 of the Special Economic Zones Act, 2005 (28 of 2005);\n  (c) \"recognised stock exchange\" shall have the meaning assigned to it in clause (ii) of the Explanation 1 to sub-section (5) of section 43.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_111A_chunk_1",
+      "section_id": "income-tax-1961_section_111A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Determination of Tax in Certain Special Cases",
+      "section_number": "111A",
+      "section_title": "Tax on short-term capital gains in certain cases."
+    }
+  }
+]

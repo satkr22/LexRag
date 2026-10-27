@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-41.html",
+    "source_order": 41,
+    "article_order": 3,
+    "order": 620,
+    "stem": "section_O24R3",
+    "heading_number": "Order XXIV",
+    "heading_title": "Payment into Court",
+    "heading_range": "4 rules",
+    "heading_source": "group-head",
+    "article_number": "O24R3",
+    "article_title": "Interest on deposit not allowed to plaintiff after notice.",
+    "id": "cpc_section_O24R3"
+  },
+  "id": "cpc_section_O24R3",
+  "heading": {
+    "number": "Order XXIV",
+    "title": "Payment into Court",
+    "range": "4 rules"
+  },
+  "article": {
+    "number": "O24R3",
+    "title": "Interest on deposit not allowed to plaintiff after notice.",
+    "content": "No interest shall be allowed to the plaintiff on any sum deposited by the defendant from the date of the receipt of such notice, whether the sum deposited is in full of the claim or falls short thereof.\n",
+    "html": "<article class=\"provision\" data-n=\"O24R3\" data-report=\"Order 24, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Interest on deposit not allowed to plaintiff after notice.</h3></div><p class=\"prov-cite\">Order 24, Rule 3</p><div class=\"prov-body\"><p>No interest shall be allowed to the plaintiff on any sum deposited by the defendant from the date of the receipt of such notice, whether the sum deposited is in full of the claim or falls short thereof.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Interest on deposit not allowed to plaintiff after notice.</h3></div><p class=\"prov-cite\">Order 24, Rule 3</p><div class=\"prov-body\"><p>No interest shall be allowed to the plaintiff on any sum deposited by the defendant from the date of the receipt of such notice, whether the sum deposited is in full of the claim or falls short thereof.</p></div>"
+  }
+}

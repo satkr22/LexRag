@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-14.html",
+    "source_order": 14,
+    "article_order": 2,
+    "order": 228,
+    "stem": "section_228",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of False Evidence and Offences Against Public Justice",
+    "heading_range": "227 – 269",
+    "heading_source": "group-head",
+    "article_number": "228",
+    "article_title": "Fabricating false evidence",
+    "id": "bns_section_228"
+  },
+  "id": "bns_section_228",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of False Evidence and Offences Against Public Justice",
+    "range": "227 – 269"
+  },
+  "article": {
+    "number": "228",
+    "title": "Fabricating false evidence",
+    "content": "Whoever causes any circumstance to exist or makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement, intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said “to fabricate false evidence”.\nIllustrations\n(a)A puts jewels into a box belonging to Z, with the intention that they may be found in that box, and that this circumstance may cause Z to be convicted of theft. A has fabricated false evidence.\n(b)A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court. A has fabricated false evidence.\n(c)A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z’s handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search. A has fabricated false evidence.\n",
+    "html": "<article class=\"provision\" data-n=\"228\" data-report=\"Section 228 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">228</span>Fabricating false evidence</h3></div><p class=\"prov-cite\">Section 228 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever causes any circumstance to exist or makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement, intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said “to fabricate false evidence”.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A puts jewels into a box belonging to Z, with the intention that they may be found in that box, and that this circumstance may cause Z to be convicted of theft. A has fabricated false evidence.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court. A has fabricated false evidence.</p><p class=\"lvl illus\"><span class=\"lbl\">(c)</span>A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z’s handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search. A has fabricated false evidence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">228</span>Fabricating false evidence</h3></div><p class=\"prov-cite\">Section 228 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever causes any circumstance to exist or makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement, intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said “to fabricate false evidence”.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A puts jewels into a box belonging to Z, with the intention that they may be found in that box, and that this circumstance may cause Z to be convicted of theft. A has fabricated false evidence.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court. A has fabricated false evidence.</p><p class=\"lvl illus\"><span class=\"lbl\">(c)</span>A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z’s handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search. A has fabricated false evidence.</p></div>"
+  }
+}

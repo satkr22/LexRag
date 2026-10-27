@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_80_chunk_0",
+    "section_id": "gst_section_80",
+    "token_count": 166,
+    "text": "[Act: gst\n Chapter: Demands and Recovery\n Section: 80::Payment of tax and other amount in instalments.\n]\n\n\nOn an application filed by a taxable person, the Commissioner may, for reasons to be recorded in writing, extend the time for payment or allow payment of any amount due under this Act, other than the amount due as per the liability self-assessed in any return, by such person in monthly instalments not exceeding twenty four, subject to payment of interest under section 50 and subject to such conditions and limitations as may be prescribed:\nProvided that where there is default in payment of any one instalment on its due date, the whole outstanding balance payable on such date shall become due and payable forthwith and shall, without any further notice being served on the person, be liable for recovery.",
+    "metadata": {
+      "chunk_id": "gst_section_80_chunk_0",
+      "section_id": "gst_section_80",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Demands and Recovery",
+      "section_number": "80",
+      "section_title": "Payment of tax and other amount in instalments."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-13.html",
+    "source_order": 14,
+    "article_order": 24,
+    "order": 213,
+    "stem": "section_213",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Determination of Tax in Special Cases",
+    "heading_range": "ss. 190–235",
+    "heading_source": "group-head",
+    "article_number": "213",
+    "article_title": "Special provision for computation of total income of non-residents.",
+    "id": "income-tax-2025_section_213"
+  },
+  "id": "income-tax-2025_section_213",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Determination of Tax in Special Cases",
+    "range": "ss. 190–235"
+  },
+  "article": {
+    "number": "213",
+    "title": "Special provision for computation of total income of non-residents.",
+    "content": "(1) No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.\n(2) In the case of an assessee, being a non-resident Indian, where—\n(a) the gross total income consists only of investment income or income by way of long-term capital gains or both, then no deduction shall be allowed under Chapter VIII;\n(b) the gross total income includes any income referred to in clause (a),—\n(i) the gross total income shall be reduced by such income; and\n(ii) the deductions under Chapter VIII shall be allowed as if the gross total income as so reduced was the gross total income of the assessee.\n",
+    "html": "<article class=\"provision\" data-n=\"213\" data-report=\"Section 213 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">213</span>Special provision for computation of total income of non-residents.</h3></div><p class=\"prov-cite\">Section 213  ·  Chapter XIII  ·  E.—Special provisions relating to non-residents and foreign companies  ·  page 261 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.</p><p class=\"lvl\">(2) In the case of an assessee, being a non-resident Indian, where—</p><p class=\"lvl\">(a) the gross total income consists only of investment income or income by way of long-term capital gains or both, then no deduction shall be allowed under Chapter VIII;</p><p class=\"lvl\">(b) the gross total income includes any income referred to in clause (a),—</p><p class=\"lvl\">(i) the gross total income shall be reduced by such income; and</p><p class=\"lvl\">(ii) the deductions under Chapter VIII shall be allowed as if the gross total income as so reduced was the gross total income of the assessee.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">213</span>Special provision for computation of total income of non-residents.</h3></div><p class=\"prov-cite\">Section 213  ·  Chapter XIII  ·  E.—Special provisions relating to non-residents and foreign companies  ·  page 261 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.</p><p class=\"lvl\">(2) In the case of an assessee, being a non-resident Indian, where—</p><p class=\"lvl\">(a) the gross total income consists only of investment income or income by way of long-term capital gains or both, then no deduction shall be allowed under Chapter VIII;</p><p class=\"lvl\">(b) the gross total income includes any income referred to in clause (a),—</p><p class=\"lvl\">(i) the gross total income shall be reduced by such income; and</p><p class=\"lvl\">(ii) the deductions under Chapter VIII shall be allowed as if the gross total income as so reduced was the gross total income of the assessee.</p></div>"
+  }
+}

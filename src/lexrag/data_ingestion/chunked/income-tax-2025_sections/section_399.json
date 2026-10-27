@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_399_chunk_0",
+    "section_id": "income-tax-2025_section_399",
+    "token_count": 371,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 399::Processing.\n]\n\n\n(1) All statements of tax deducted at source or tax collected at source including a correction statement shall be processed in the following manner:—\n(a) the amounts deductible or collectible under this Chapter shall be computed after making the following adjustments:—\n(i) any arithmetical error in the statement; or\n(ii) an incorrect claim apparent from any information in the statement;\n(b) the interest, if any, shall be computed on the basis of the amounts deductible or collectible as reflected in the statement;\n(c) the fee, if any, shall be computed as per the provisions of section 93[427(1) and (2)];\n(d) (i) the amount payable by; or\n(ii) the amount of refund due to, the deductor or collector shall be determined after adjustment of the amount computed under clauses (b) and (c) against any amount paid under section\n397(3) or 398 or 93[427(1) and (2)] and any amount paid otherwise by way of tax or interest or fee;\n(e) an intimation shall be prepared or generated and sent to the deductor or collector specifying the amount determined to be payable by, or the amount of refund due to, him under clause (d);\n(f) the amount of refund due to a deductor or collector in pursuance of the determination under clause (d) shall be granted to the deductor or collector.\n(2) The intimation under this section shall be sent within one year from the end of the tax year in which the statement is filed.\n(3) The Board may make a scheme for centralised processing of statements, as required under sub-section (1).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_399_chunk_0",
+      "section_id": "income-tax-2025_section_399",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "399",
+      "section_title": "Processing."
+    }
+  }
+]

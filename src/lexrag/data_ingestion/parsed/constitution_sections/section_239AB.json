@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-09.html",
+    "source_order": 9,
+    "article_order": 4,
+    "order": 265,
+    "stem": "section_239AB",
+    "heading_number": "Part VIII",
+    "heading_title": "The Union Territories",
+    "heading_range": "239 – 242",
+    "heading_source": "group-head",
+    "article_number": "239AB",
+    "article_title": "Provision in case of failure of constitutional machinery",
+    "id": "constitution_section_239AB"
+  },
+  "id": "constitution_section_239AB",
+  "heading": {
+    "number": "Part VIII",
+    "title": "The Union Territories",
+    "range": "239 – 242"
+  },
+  "article": {
+    "number": "239AB",
+    "title": "Provision in case of failure of constitutional machinery",
+    "content": "If the President, on receipt of a report from the Lieutenant Governor or otherwise, is satisfied—\n(a)that a situation has arisen in which the administration of the National Capital Territory cannot be carried on in accordance with the provisions of article 239AA or of any law made in pursuance of that article; or\n(b)that for the proper administration of the National Capital Territory it is necessary or expedient so to do,\nthe President may by order suspend the operation of any provision of article 239AA or of all or any of the provisions of any law made in pursuance of that article for such period and subject to such conditions as may be specified in such law and make such incidental and consequential provisions as may appear to him to be necessary or expedient for administering the National Capital Territory in accordance with the provisions of article 239 and article 239AA.\n",
+    "html": "<article class=\"provision\" data-n=\"239AB\" data-report=\"Article 239AB · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">239AB</span>Provision in case of failure of constitutional machinery</h3></div><p class=\"prov-cite\">Article 239AB · Part VIII</p><div class=\"prov-body\"><p>If the President, on receipt of a report from the Lieutenant Governor or otherwise, is satisfied—</p><p><span class=\"lbl\">(a)</span>that a situation has arisen in which the administration of the National Capital Territory cannot be carried on in accordance with the provisions of article 239AA or of any law made in pursuance of that article; or</p><p><span class=\"lbl\">(b)</span>that for the proper administration of the National Capital Territory it is necessary or expedient so to do,</p><p>the President may by order suspend the operation of any provision of article 239AA or of all or any of the provisions of any law made in pursuance of that article for such period and subject to such conditions as may be specified in such law and make such incidental and consequential provisions as may appear to him to be necessary or expedient for administering the National Capital Territory in accordance with the provisions of article 239 and article 239AA.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Arts. 239AA and 239 AB ins. by the Constitution (Sixty-ninth Amendment) Act, 1991, s. 2 (w.e.f. 1-2-1992).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">239AB</span>Provision in case of failure of constitutional machinery</h3></div><p class=\"prov-cite\">Article 239AB · Part VIII</p><div class=\"prov-body\"><p>If the President, on receipt of a report from the Lieutenant Governor or otherwise, is satisfied—</p><p><span class=\"lbl\">(a)</span>that a situation has arisen in which the administration of the National Capital Territory cannot be carried on in accordance with the provisions of article 239AA or of any law made in pursuance of that article; or</p><p><span class=\"lbl\">(b)</span>that for the proper administration of the National Capital Territory it is necessary or expedient so to do,</p><p>the President may by order suspend the operation of any provision of article 239AA or of all or any of the provisions of any law made in pursuance of that article for such period and subject to such conditions as may be specified in such law and make such incidental and consequential provisions as may appear to him to be necessary or expedient for administering the National Capital Territory in accordance with the provisions of article 239 and article 239AA.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Arts. 239AA and 239 AB ins. by the Constitution (Sixty-ninth Amendment) Act, 1991, s. 2 (w.e.f. 1-2-1992).</p></div>"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_54ED_chunk_0",
+    "section_id": "income-tax-1961_section_54ED",
+    "token_count": 495,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 54ED::Capital gain on transfer of certain listed securities or unit not to be charged in certain cases.\n]\n\n\n(1) Where the capital gain arises from the transfer before the 1st day of April, 2006, of a long-term capital asset, being listed securities or unit (the capital asset so transferred being hereafter in this section referred to as the original asset), and the assessee has, within a period of six months after the date of such transfer, invested the whole or any part of the capital gain in acquiring equity shares forming part of an eligible issue of capital (such equity shares being hereafter in this section referred to as the specified equity shares), the said capital gain shall be dealt with in accordance with the following provisions of this section, that is to say,—\n  (a) if the cost of the specified equity shares is not less than the capital gain arising from the transfer of the original asset, the whole of such capital gain shall not be charged under section 45;\n  (b) if the cost of the specified equity shares is less than the capital gain arising from the transfer of the original asset, so much of the capital gain as bears to the whole of the capital gain the same proportion as the cost of the specified equity shares acquired bears to the whole of the capital gain shall not be charged under section 45.\n  Explanation.—For the purposes of this sub-section,—\n  (i) \"eligible issue of capital\" means an issue of equity shares which satisfies the following conditions, namely:—\n  (a) the issue is made by a public company formed and registered in India;\n  (b) the shares forming part of the issue are offered for subscription to the public;\n  (ii) \"listed securities\" shall have the same meaning as in clause (a) of the Explanation to sub-section (1) of section 112;\n  (iii) \"unit\" shall have the meaning assigned to it in clause (b) of the Explanation to section 115AB.\n  (2) Where the specified equity shares are sold or otherwise transferred within a period of one year from the date of their acquisition, the amount of capital gain arising from the transfer of the original asset not charged under section 45 on the basis of the cost of such specified equity shares as provided in clause",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_54ED_chunk_0",
+      "section_id": "income-tax-1961_section_54ED",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "54ED",
+      "section_title": "Capital gain on transfer of certain listed securities or unit not to be charged in certain cases."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_54ED_chunk_1",
+    "section_id": "income-tax-1961_section_54ED",
+    "token_count": 331,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 54ED::Capital gain on transfer of certain listed securities or unit not to be charged in certain cases.\n]\n\n\n(1) Where the capital gain arises from the transfer before the 1st day of April, 2006, of a long-term capital asset, being listed securities or unit (the capital asset so transferred being hereafter in this section referred to as the original asset), and the assessee has, within a period of six months after the date of such transfer, invested the whole or any part of the capital gain in acquiring equity shares forming part of an eligible issue of capital (such equity shares being hereafter in this section referred to as the specified equity shares), the said capital gain shall be dealt with in accordance with the following provisions of this section, that is to say,—\n  (a) or, as the case may be, clause (b), of sub-section (1) shall be deemed to be the income chargeable under the head \"Capital gains\" relating to long-term capital assets of the previous year in which such equity shares are sold or otherwise transferred.\n  (3) Where the cost of the specified equity shares has been taken into account for the purposes of clause (a) or clause (b) of sub-section (1),—\n  (a) [***]\n  (b) a deduction from the income with reference to such cost shall not be allowed under section 80C for any assessment year beginning on or after the 1st day of April, 2006.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_54ED_chunk_1",
+      "section_id": "income-tax-1961_section_54ED",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "54ED",
+      "section_title": "Capital gain on transfer of certain listed securities or unit not to be charged in certain cases."
+    }
+  }
+]

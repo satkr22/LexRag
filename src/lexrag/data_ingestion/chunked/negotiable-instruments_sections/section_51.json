@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_51_chunk_0",
+    "section_id": "negotiable-instruments_section_51",
+    "token_count": 183,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Negotiation\n Section: 51::Who may negotiate.\n]\n\n\nEvery sole maker, drawer, payee or indorsee, or all of several joint makers, drawers, payees or indorsees, of a negotiable instrument may, if the negotiability of such instrument has not been restricted or excluded as mentioned in section 50, indorse and negotiate the same.\nExplanation.—Nothing in this section enables a maker or drawer to indorse or negotiate an instrument, unless he is in lawful possession or is holder thereof; or enables a payee or indorsee to indorse or negotiate an instrument, unless he is holder thereof.\nIllustration\nA bill is drawn payable to A or order. A indorses it to B, the indorsement not containing the words “or order” or any equivalent words. B may negotiate the instrument.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_51_chunk_0",
+      "section_id": "negotiable-instruments_section_51",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Of Negotiation",
+      "section_number": "51",
+      "section_title": "Who may negotiate."
+    }
+  }
+]

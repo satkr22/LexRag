@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80DDB_chunk_0",
+    "section_id": "income-tax-1961_section_80DDB",
+    "token_count": 497,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80DDB::Deduction in respect of medical treatment, etc.\n]\n\nWhere an assessee who is resident in India has, during the previous year, actually paid any amount for the medical treatment of such disease or ailment as may be specified in the rules made in this behalf by the Board—\n\n(a) for himself or a dependant, in case the assessee is an individual; or\n  (b) for any member of a Hindu undivided family, in case the assessee is a Hindu undivided family, the assessee shall be allowed a deduction of the amount actually paid or a sum of forty thousand rupees, whichever is less, in respect of that previous year in which such amount was actually paid :\n  Provided that no such deduction shall be allowed unless the assessee obtains the prescription for such medical treatment from a neurologist, an oncologist, a urologist, a haematologist, an immunologist or such other specialist, as may be prescribed :\n  Provided further that the deduction under this section shall be reduced by the amount received, if any, under an insurance from an insurer, or reimbursed by an employer, for the medical treatment of the person referred to in clause (a) or clause (b) :\n  Provided also that where the amount actually paid is in respect of the assessee or his dependant or any member of a Hindu undivided family of the assessee and who is a senior citizen, the provisions of this section shall have effect as if for the words \"forty thousand rupees\", the words \"one hundred thousand rupees\" had been substituted :\n  Explanation.—For the purposes of this section,—\n  (i) \"dependant\" means—\n  (a) in the case of an individual, the spouse, children, parents, brothers and sisters of the individual or any of them,\n  (b) in the case of a Hindu undivided family, a member of the Hindu undivided family, dependant wholly or mainly on such individual or Hindu undivided family for his support and maintenance;\n  (ii) [***]\n  (iii) \"insurer\" shall have the meaning assigned to it in clause (9) of section 2 of the Insurance Act, 1938 (4 of 1938);",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80DDB_chunk_0",
+      "section_id": "income-tax-1961_section_80DDB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80DDB",
+      "section_title": "Deduction in respect of medical treatment, etc."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_80DDB_chunk_1",
+    "section_id": "income-tax-1961_section_80DDB",
+    "token_count": 146,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80DDB::Deduction in respect of medical treatment, etc.\n]\n\nWhere an assessee who is resident in India has, during the previous year, actually paid any amount for the medical treatment of such disease or ailment as may be specified in the rules made in this behalf by the Board—\n\n(a) for himself or a dependant, in case the assessee is an individual; or\n  (iv) \"senior citizen\" means an individual resident in India who is of the age of sixty years or more at any time during the relevant previous year;\n  (v) [***]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80DDB_chunk_1",
+      "section_id": "income-tax-1961_section_80DDB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80DDB",
+      "section_title": "Deduction in respect of medical treatment, etc."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_271GA_chunk_0",
+    "section_id": "income-tax-1961_section_271GA",
+    "token_count": 156,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 271GA::Penalty for failure to furnish information or document under section 285A.\n]\n\n\nIf any Indian concern, which is required to furnish any information or document under section 285A, fails to do so, the income-tax authority, as may be prescribed under the said section, may direct that such Indian concern shall pay, by way of penalty,—\n(i) a sum equal to two per cent of the value of the transaction in respect of which such failure has taken place, if such transaction had the effect of directly or indirectly transferring the right of management or control in relation to the Indian concern;\n(ii) a sum of five hundred thousand rupees in any other case.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_271GA_chunk_0",
+      "section_id": "income-tax-1961_section_271GA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "271GA",
+      "section_title": "Penalty for failure to furnish information or document under section 285A."
+    }
+  }
+]

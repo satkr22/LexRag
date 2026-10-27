@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "constitution_section_19_chunk_0",
+    "section_id": "constitution_section_19",
+    "token_count": 480,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 19::Protection of certain rights regarding freedom of speech, etc\n]\n\n\n(1) All citizens shall have the right—\n  (a) to freedom of speech and expression;\n  (b) to assemble peaceably and without arms;\n  (c) to form associations or unions 1 [or co-operative societies];\n  (d) to move freely throughout the territory of India;\n  (e) to reside and settle in any part of the territory of India; and\n  (f) 2 ***\n  (g) to practise any profession, or to carry on any occupation, trade or business.\n\n(2) 3 [Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of 4 [the sovereignty and integrity of India], the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.]\n\n(3) Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of 5 [the sovereignty and integrity of India or] public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause.\n\n(4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of 6 [the sovereignty and integrity of India or] public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.\n\n(5) Nothing in 7 [sub-clauses (d) and (e)] of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.",
+    "metadata": {
+      "chunk_id": "constitution_section_19_chunk_0",
+      "section_id": "constitution_section_19",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "19",
+      "section_title": "Protection of certain rights regarding freedom of speech, etc"
+    }
+  },
+  {
+    "chunk_id": "constitution_section_19_chunk_1",
+    "section_id": "constitution_section_19",
+    "token_count": 207,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 19::Protection of certain rights regarding freedom of speech, etc\n]\n\n\n(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, 8 [nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,—\n  (i) the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business; or\n  (ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise.]",
+    "metadata": {
+      "chunk_id": "constitution_section_19_chunk_1",
+      "section_id": "constitution_section_19",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "19",
+      "section_title": "Protection of certain rights regarding freedom of speech, etc"
+    }
+  }
+]

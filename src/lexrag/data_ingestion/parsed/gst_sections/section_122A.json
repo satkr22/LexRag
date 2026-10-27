@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "gst",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Central Goods and Services Tax Act, 2017",
+    "source_file": "gst_sections/gst-19.html",
+    "source_order": 19,
+    "article_order": 2,
+    "order": 133,
+    "stem": "section_122A",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Offences and Penalties",
+    "heading_range": "ss. 122–138",
+    "heading_source": "group-head",
+    "article_number": "122A",
+    "article_title": "Penalty for failure to register certain machines used in manufacture of goods as per special procedure.",
+    "id": "gst_section_122A"
+  },
+  "id": "gst_section_122A",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Offences and Penalties",
+    "range": "ss. 122–138"
+  },
+  "article": {
+    "number": "122A",
+    "title": "Penalty for failure to register certain machines used in manufacture of goods as per special procedure.",
+    "content": "(1) Notwithstanding anything contained in this Act, where any person, who is engaged in the manufacture of goods in respect of which any special procedure relating to registration of machines has been notified under section 148, acts in contravention of the said special procedure, he shall, in addition to any penalty that is paid or is payable by him under Chapter XV or any other provisions of this Chapter, be liable to pay a penalty equal to an amount of one lakh rupees for every machine not so registered.\n(2) In addition to the penalty under sub-section (1), every machine not so registered shall be liable for seizure and confiscation:\nProvided that such machine shall not be confiscated where—\n(a) the penalty so imposed is paid; and\n(b) the registration of such machine is made in accordance with the special procedure within three days of the receipt of communication of the order of penalty.]\n",
+    "html": "<article class=\"provision\" data-n=\"122A\" data-report=\"Section 122A · The Central Goods and Services Tax Act, 2017\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">122A</span><sup>1</sup>[Penalty for failure to register certain machines used in manufacture of goods as per special procedure.</h3></div><p class=\"prov-cite\">Section 122A  ·  Chapter XIX  ·  page 99 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in this Act, where any person, who is engaged in the manufacture of goods in respect of which any special procedure relating to registration of machines has been notified under section 148, acts in contravention of the said special procedure, he shall, in addition to any penalty that is paid or is payable by him under Chapter XV or any other provisions of this Chapter, be liable to pay a penalty equal to an amount of one lakh rupees for every machine not so registered.</p><p class=\"lvl\">(2) In addition to the penalty under sub-section (1), every machine not so registered shall be liable for seizure and confiscation:</p><p class=\"prvso\">Provided that such machine shall not be confiscated where—</p><p class=\"lvl\">(a) the penalty so imposed is paid; and</p><p class=\"lvl\">(b) the registration of such machine is made in accordance with the special procedure within three days of the receipt of communication of the order of penalty.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 8 of 2024, s. 13 (w.e.f. 1-10-2024).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">122A</span><sup>1</sup>[Penalty for failure to register certain machines used in manufacture of goods as per special procedure.</h3></div><p class=\"prov-cite\">Section 122A  ·  Chapter XIX  ·  page 99 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in this Act, where any person, who is engaged in the manufacture of goods in respect of which any special procedure relating to registration of machines has been notified under section 148, acts in contravention of the said special procedure, he shall, in addition to any penalty that is paid or is payable by him under Chapter XV or any other provisions of this Chapter, be liable to pay a penalty equal to an amount of one lakh rupees for every machine not so registered.</p><p class=\"lvl\">(2) In addition to the penalty under sub-section (1), every machine not so registered shall be liable for seizure and confiscation:</p><p class=\"prvso\">Provided that such machine shall not be confiscated where—</p><p class=\"lvl\">(a) the penalty so imposed is paid; and</p><p class=\"lvl\">(b) the registration of such machine is made in accordance with the special procedure within three days of the receipt of communication of the order of penalty.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 8 of 2024, s. 13 (w.e.f. 1-10-2024).</p></div></div>"
+  }
+}

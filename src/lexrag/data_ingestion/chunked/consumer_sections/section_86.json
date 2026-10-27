@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "consumer_section_86_chunk_0",
+    "section_id": "consumer_section_86",
+    "token_count": 268,
+    "text": "[Act: consumer\n Chapter: Product Liability\n Section: 86::Liability of product sellers.\n]\n\n\nA product seller who is not a product manufacturer shall be liable in a product liability action, if—\n(a) he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm; or\n(b) he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm; or\n(c) he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm; or\n(d) the product has been sold by him and the identity of product manufacturer of such product is not known, or if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him; or\n(e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm.",
+    "metadata": {
+      "chunk_id": "consumer_section_86_chunk_0",
+      "section_id": "consumer_section_86",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "consumer",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Product Liability",
+      "section_number": "86",
+      "section_title": "Liability of product sellers."
+    }
+  }
+]

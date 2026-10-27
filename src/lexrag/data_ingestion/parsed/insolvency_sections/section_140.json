@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-12.html",
+    "source_order": 12,
+    "article_order": 20,
+    "order": 163,
+    "stem": "section_140",
+    "heading_number": "Part III · Chapter IV",
+    "heading_title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "heading_range": "ss. 121–148",
+    "heading_source": "group-head",
+    "article_number": "140",
+    "article_title": "Disqualification of bankrupt.",
+    "id": "insolvency_section_140"
+  },
+  "id": "insolvency_section_140",
+  "heading": {
+    "number": "Part III · Chapter IV",
+    "title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "range": "ss. 121–148"
+  },
+  "article": {
+    "number": "140",
+    "title": "Disqualification of bankrupt.",
+    "content": "(1) The bankrupt shall, from the bankruptcy commencement date, be subject to the disqualifications mentioned in this section.\n(2) In addition to any disqualification under any other law for the time being in force, a bankrupt shall be disqualified from—\n(a) being appointed or acting as a trustee or representative in respect of any trust, estate or settlement;\n(b) being appointed or acting as a public servant;\n(c) being elected to any public office where the appointment to such office is by election; and\n(d) being elected or sitting or voting as a member of any local authority.\n(3) Any disqualification to which a bankrupt may be subject under this section shall cease to have effect, if—\n(a) the bankruptcy order against him is modified or recalled under section 142; or\n(b) he is discharged under section 138.\nExplanation.—For the purposes of this section, the term “public servant” shall have the same meaning as assigned to it in section 21 of the Indian Penal Code (45 of 1860).\n",
+    "html": "<article class=\"provision\" data-n=\"140\" data-report=\"Section 140 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">140</span>Disqualification of bankrupt.</h3></div><p class=\"prov-cite\">Section 140  ·  Part III · Chapter IV  ·  page 110 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankrupt shall, from the bankruptcy commencement date, be subject to the disqualifications mentioned in this section.</p><p class=\"lvl\">(2) In addition to any disqualification under any other law for the time being in force, a bankrupt shall be disqualified from—</p><p class=\"lvl\">(a) being appointed or acting as a trustee or representative in respect of any trust, estate or settlement;</p><p class=\"lvl\">(b) being appointed or acting as a public servant;</p><p class=\"lvl\">(c) being elected to any public office where the appointment to such office is by election; and</p><p class=\"lvl\">(d) being elected or sitting or voting as a member of any local authority.</p><p class=\"lvl\">(3) Any disqualification to which a bankrupt may be subject under this section shall cease to have effect, if—</p><p class=\"lvl\">(a) the bankruptcy order against him is modified or recalled under section 142; or</p><p class=\"lvl\">(b) he is discharged under section 138.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the term “public servant” shall have the same meaning as assigned to it in section 21 of the Indian Penal Code (45 of 1860).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">140</span>Disqualification of bankrupt.</h3></div><p class=\"prov-cite\">Section 140  ·  Part III · Chapter IV  ·  page 110 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankrupt shall, from the bankruptcy commencement date, be subject to the disqualifications mentioned in this section.</p><p class=\"lvl\">(2) In addition to any disqualification under any other law for the time being in force, a bankrupt shall be disqualified from—</p><p class=\"lvl\">(a) being appointed or acting as a trustee or representative in respect of any trust, estate or settlement;</p><p class=\"lvl\">(b) being appointed or acting as a public servant;</p><p class=\"lvl\">(c) being elected to any public office where the appointment to such office is by election; and</p><p class=\"lvl\">(d) being elected or sitting or voting as a member of any local authority.</p><p class=\"lvl\">(3) Any disqualification to which a bankrupt may be subject under this section shall cease to have effect, if—</p><p class=\"lvl\">(a) the bankruptcy order against him is modified or recalled under section 142; or</p><p class=\"lvl\">(b) he is discharged under section 138.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the term “public servant” shall have the same meaning as assigned to it in section 21 of the Indian Penal Code (45 of 1860).</p></div>"
+  }
+}

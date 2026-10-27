@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "registration",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "registration_sections/section-39.html",
+    "source_order": 42,
+    "article_order": 1,
+    "order": 42,
+    "stem": "section_39",
+    "heading_number": "Part VII",
+    "heading_title": "Of Enforcing the Appearance of Executants and Witnesses",
+    "heading_range": "ss. 36–39",
+    "heading_source": "manifest",
+    "article_number": "39",
+    "article_title": "Law as to summonses, commissions and witnesses.",
+    "id": "registration_section_39"
+  },
+  "id": "registration_section_39",
+  "heading": {
+    "number": "Part VII",
+    "title": "Of Enforcing the Appearance of Executants and Witnesses",
+    "range": "ss. 36–39"
+  },
+  "article": {
+    "number": "39",
+    "title": "Law as to summonses, commissions and witnesses.",
+    "content": "The law in force for the time being as to summonses, commissions and compelling the attendance of witnesses, and for their remuneration in suits before Civil Courts, shall, save as aforesaid and mutatis mutandis, apply to any summons or commission issued and any person summoned to appear under the provisions of this Act.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">39</span>Law as to summonses, commissions and witnesses.</h3></div><p class=\"prov-cite\">Section 39  ·  Part VII  ·  pages 24–25 of the Act</p><div class=\"prov-body\"><p>The law in force for the time being as to summonses, commissions and compelling the attendance of witnesses, and for their remuneration in suits before Civil Courts, shall, save as aforesaid and mutatis mutandis, apply to any summons or commission issued and any person summoned to appear under the provisions of this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">39</span>Law as to summonses, commissions and witnesses.</h3></div><p class=\"prov-cite\">Section 39  ·  Part VII  ·  pages 24–25 of the Act</p><div class=\"prov-body\"><p>The law in force for the time being as to summonses, commissions and compelling the attendance of witnesses, and for their remuneration in suits before Civil Courts, shall, save as aforesaid and mutatis mutandis, apply to any summons or commission issued and any person summoned to appear under the provisions of this Act.</p></div>"
+  }
+}

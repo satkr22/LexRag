@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-13.html",
+    "source_order": 13,
+    "article_order": 5,
+    "order": 78,
+    "stem": "section_78",
+    "heading_number": "Part VI · Chapter VI",
+    "heading_title": "Of the construction of Wills",
+    "heading_range": "ss. 74–111",
+    "heading_source": "group-head",
+    "article_number": "78",
+    "article_title": "Rejection of erroneous particulars in description of subject.",
+    "id": "succession_section_78"
+  },
+  "id": "succession_section_78",
+  "heading": {
+    "number": "Part VI · Chapter VI",
+    "title": "Of the construction of Wills",
+    "range": "ss. 74–111"
+  },
+  "article": {
+    "number": "78",
+    "title": "Rejection of erroneous particulars in description of subject.",
+    "content": "If the thing which the testator intended to bequeath can be sufficiently identified from the description of it given in the will, but some parts of the description do not apply, such parts of the description shall be rejected as erroneous, and the bequest shall take effect.\nIllustrations\n(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands lying in L but had no marsh-lands in the occupation of X. The words “in the occupation of X” shall be rejected as erroneous, and the marsh-lands of the testator lying in L will pass by the bequest.\n(ii) The testator bequeaths to A “my zamindari of Rampur”. He had an estate at Rampur but it was a taluq and not a zamindari. The taluq passes by this bequest.\n",
+    "html": "<article class=\"provision\" data-n=\"78\" data-report=\"Section 78 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">78</span>Rejection of erroneous particulars in description of subject.</h3></div><p class=\"prov-cite\">Section 78  ·  Part VI · Chapter VI  ·  page 33 of the Act</p><div class=\"prov-body\"><p>If the thing which the testator intended to bequeath can be sufficiently identified from the description of it given in the will, but some parts of the description do not apply, such parts of the description shall be rejected as erroneous, and the bequest shall take effect.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands lying in L but had no marsh-lands in the occupation of X. The words “in the occupation of X” shall be rejected as erroneous, and the marsh-lands of the testator lying in L will pass by the bequest.</p><p class=\"lvl\">(ii) The testator bequeaths to A “my zamindari of Rampur”. He had an estate at Rampur but it was a taluq and not a zamindari. The taluq passes by this bequest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">78</span>Rejection of erroneous particulars in description of subject.</h3></div><p class=\"prov-cite\">Section 78  ·  Part VI · Chapter VI  ·  page 33 of the Act</p><div class=\"prov-body\"><p>If the thing which the testator intended to bequeath can be sufficiently identified from the description of it given in the will, but some parts of the description do not apply, such parts of the description shall be rejected as erroneous, and the bequest shall take effect.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands lying in L but had no marsh-lands in the occupation of X. The words “in the occupation of X” shall be rejected as erroneous, and the marsh-lands of the testator lying in L will pass by the bequest.</p><p class=\"lvl\">(ii) The testator bequeaths to A “my zamindari of Rampur”. He had an estate at Rampur but it was a taluq and not a zamindari. The taluq passes by this bequest.</p></div>"
+  }
+}

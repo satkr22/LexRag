@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_25_chunk_0",
+    "section_id": "easements_section_25",
+    "token_count": 70,
+    "text": "[Act: easements\n Chapter: The Incidents of Easements\n Section: 25::Liability for expenses necessary for preservation of easement.\n]\n\n\nThe expenses incurred in constructing works, or making repairs, or doing any other act necessary for the use or preservation of an easement, must be defrayed by the dominant owner.",
+    "metadata": {
+      "chunk_id": "easements_section_25_chunk_0",
+      "section_id": "easements_section_25",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "The Incidents of Easements",
+      "section_number": "25",
+      "section_title": "Liability for expenses necessary for preservation of easement."
+    }
+  }
+]

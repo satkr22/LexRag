@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "companies_section_106_chunk_0",
+    "section_id": "companies_section_106",
+    "token_count": 188,
+    "text": "[Act: companies\n Chapter: Management and Administration\n Section: 106::Restriction on voting rights.\n]\n\n\n(1) Notwithstanding anything contained in this Act, the articles of a company may provide that no member shall exercise any voting right in respect of any shares registered in his name on which any calls or other sums presently payable by him have not been paid, or in regard to which the company has exercised any right of lien.\n(2) A company shall not, except on the grounds specified in sub-section (1), prohibit any member from exercising his voting right on any other ground.\n(3) On a poll taken at a meeting of a company, a member entitled to more than one vote, or his proxy, where allowed, or other person entitled to vote for him, as the case may be, need not, if he votes, use all his votes or cast in the same way all the votes he uses.",
+    "metadata": {
+      "chunk_id": "companies_section_106_chunk_0",
+      "section_id": "companies_section_106",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "companies",
+      "document_title": "The Companies Act, 2013",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Management and Administration",
+      "section_number": "106",
+      "section_title": "Restriction on voting rights."
+    }
+  }
+]

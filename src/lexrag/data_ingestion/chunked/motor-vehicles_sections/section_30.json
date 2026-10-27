@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_30_chunk_0",
+    "section_id": "motor-vehicles_section_30",
+    "token_count": 248,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Conductors of Stage Carriages\n Section: 30::Grant of conductor’s licence.\n]\n\n\n(1) Any person who possesses such minimum educational qualification as may be prescribed by the State Government and is not disqualified under sub-section (1) of section 31 and who is not for the time being disqualified for holding or obtaining a conductor’s licence may apply to the licensing authority having jurisdiction in the area in which he ordinarily resides or carries on business for the issue to him of a conductor’s licence.\n(2) Every application under sub-section (1) shall be in such form and shall contain such information as may be prescribed.\n(3) Every application for a conductor’s licence shall be accompanied by a medical certificate in such form as may be prescribed, signed by a registered medical practitioner and shall also be accompanied by two clear copies of a recent photograph of the applicant.\n(4) A conductor’s licence issued under this Chapter shall be in such form and contain such particulars as may be prescribed and shall be effective throughout the State in which it is issued.\n(5) The fee for a conductor’s licence and for each renewal thereof shall be one-half of that for a driving licence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_30_chunk_0",
+      "section_id": "motor-vehicles_section_30",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter III",
+      "chapter_title": "Licensing of Conductors of Stage Carriages",
+      "section_number": "30",
+      "section_title": "Grant of conductor’s licence."
+    }
+  }
+]

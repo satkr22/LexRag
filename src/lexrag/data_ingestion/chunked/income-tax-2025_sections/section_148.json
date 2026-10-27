@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_148_chunk_0",
+    "section_id": "income-tax-2025_section_148",
+    "token_count": 211,
+    "text": "[Act: income-tax-2025\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 148::Deduction in respect of certain inter-corporate dividends.\n]\n\n\n(1) If the gross total income of a domestic company in any tax year includes any income by way of dividends from—\n(a) any other domestic company; or\n(b) a foreign company; or\n(c) a business trust, such domestic company shall be allowed a deduction of an amount equal to so much of the income by way of dividends received from the person mentioned in clause (a) or (b) or (c) as does not exceed the amount of dividend distributed by it at least one month before the due date for filing the return of income under section 263(1).\n(2) Where any deduction, in respect of the amount of dividend distributed by the domestic company, has been allowed under sub-section (1) in any tax year, no deduction shall be allowed in respect of such amount in any other tax year.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_148_chunk_0",
+      "section_id": "income-tax-2025_section_148",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "148",
+      "section_title": "Deduction in respect of certain inter-corporate dividends."
+    }
+  }
+]

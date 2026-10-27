@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-05.html",
+    "source_order": 5,
+    "article_order": 37,
+    "order": 99,
+    "stem": "section_99",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Offences Against Woman and Child",
+    "heading_range": "63 – 99",
+    "heading_source": "group-head",
+    "article_number": "99",
+    "article_title": "Buying child for purposes of prostitution, etc.",
+    "id": "bns_section_99"
+  },
+  "id": "bns_section_99",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Offences Against Woman and Child",
+    "range": "63 – 99"
+  },
+  "article": {
+    "number": "99",
+    "title": "Buying child for purposes of prostitution, etc.",
+    "content": "Whoever buys, hires or otherwise obtains possession of any child with intent that such child shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such child will at any age be employed or used for any such purpose, shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may extend to fourteen years, and shall also be liable to fine.\nExplanation 1Any prostitute or any person keeping or managing a brothel, who buys, hires or otherwise obtains possession of a female under the age of eighteen years shall, until the contrary is proved, be presumed to have obtained possession of such female with the intent that she shall be used for the purpose of prostitution.\nExplanation 2“Illicit intercourse” has the same meaning as in section 98.\n",
+    "html": "<article class=\"provision\" data-n=\"99\" data-report=\"Section 99 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Buying child for purposes of prostitution, etc.</h3></div><p class=\"prov-cite\">Section 99 · Chapter V · Of offences against child</p><div class=\"prov-body\"><p>Whoever buys, hires or otherwise obtains possession of any child with intent that such child shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such child will at any age be employed or used for any such purpose, shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may extend to fourteen years, and shall also be liable to fine.</p><p><span class=\"named\">Explanation 1</span>Any prostitute or any person keeping or managing a brothel, who buys, hires or otherwise obtains possession of a female under the age of eighteen years shall, until the contrary is proved, be presumed to have obtained possession of such female with the intent that she shall be used for the purpose of prostitution.</p><p><span class=\"named\">Explanation 2</span>“Illicit intercourse” has the same meaning as in section 98.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Buying child for purposes of prostitution, etc.</h3></div><p class=\"prov-cite\">Section 99 · Chapter V · Of offences against child</p><div class=\"prov-body\"><p>Whoever buys, hires or otherwise obtains possession of any child with intent that such child shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such child will at any age be employed or used for any such purpose, shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may extend to fourteen years, and shall also be liable to fine.</p><p><span class=\"named\">Explanation 1</span>Any prostitute or any person keeping or managing a brothel, who buys, hires or otherwise obtains possession of a female under the age of eighteen years shall, until the contrary is proved, be presumed to have obtained possession of such female with the intent that she shall be used for the purpose of prostitution.</p><p><span class=\"named\">Explanation 2</span>“Illicit intercourse” has the same meaning as in section 98.</p></div>"
+  }
+}

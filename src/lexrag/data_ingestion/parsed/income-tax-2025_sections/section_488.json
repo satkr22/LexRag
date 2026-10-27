@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-22.html",
+    "source_order": 23,
+    "article_order": 16,
+    "order": 489,
+    "stem": "section_488",
+    "heading_number": "Chapter XXII",
+    "heading_title": "Offences and Prosecution",
+    "heading_range": "ss. 473–498",
+    "heading_source": "group-head",
+    "article_number": "488",
+    "article_title": "Offences by Hindu undivided family.",
+    "id": "income-tax-2025_section_488"
+  },
+  "id": "income-tax-2025_section_488",
+  "heading": {
+    "number": "Chapter XXII",
+    "title": "Offences and Prosecution",
+    "range": "ss. 473–498"
+  },
+  "article": {
+    "number": "488",
+    "title": "Offences by Hindu undivided family.",
+    "content": "(1) Where an offence under this Act has been committed by a Hindu undivided family, the karta thereof shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(2) Nothing contained in sub-section (1) shall render the karta liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.\n(3) Irrespective of anything contained in sub-sections (1) and (2), where an offence under this Act, has been committed by a Hindu undivided family and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any member of the Hindu undivided family, such member shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n",
+    "html": "<article class=\"provision\" data-n=\"488\" data-report=\"Section 488 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">488</span>Offences by Hindu undivided family.</h3></div><p class=\"prov-cite\">Section 488  ·  Chapter XXII  ·  page 574 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where an offence under this Act has been committed by a Hindu undivided family, the karta thereof shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p><p class=\"lvl\">(2) Nothing contained in sub-section (1) shall render the karta liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p><p class=\"lvl\">(3) Irrespective of anything contained in sub-sections (1) and (2), where an offence under this Act, has been committed by a Hindu undivided family and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any member of the Hindu undivided family, such member shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">488</span>Offences by Hindu undivided family.</h3></div><p class=\"prov-cite\">Section 488  ·  Chapter XXII  ·  page 574 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where an offence under this Act has been committed by a Hindu undivided family, the karta thereof shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p><p class=\"lvl\">(2) Nothing contained in sub-section (1) shall render the karta liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p><p class=\"lvl\">(3) Irrespective of anything contained in sub-sections (1) and (2), where an offence under this Act, has been committed by a Hindu undivided family and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any member of the Hindu undivided family, such member shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p></div>"
+  }
+}

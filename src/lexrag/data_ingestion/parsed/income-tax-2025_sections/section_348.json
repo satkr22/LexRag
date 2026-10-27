@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-17.html",
+    "source_order": 18,
+    "article_order": 47,
+    "order": 348,
+    "stem": "section_348",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Special Provisions Relating to Certain Persons",
+    "heading_range": "ss. 302–355",
+    "heading_source": "group-head",
+    "article_number": "348",
+    "article_title": "Audit.",
+    "id": "income-tax-2025_section_348"
+  },
+  "id": "income-tax-2025_section_348",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Special Provisions Relating to Certain Persons",
+    "range": "ss. 302–355"
+  },
+  "article": {
+    "number": "348",
+    "title": "Audit.",
+    "content": "Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, the accounts of such registered non-profit organisation for that tax year shall be audited by an accountant and the person in receipt of the income shall be required to furnish a report of an audit of such income by such date in the prescribed form, duly signed and verified by such accountant and setting forth such particulars, as may be prescribed.\n",
+    "html": "<article class=\"provision\" data-n=\"348\" data-report=\"Section 348 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">348</span>Audit.</h3></div><p class=\"prov-cite\">Section 348  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 4.—Compliances  ·  page 413 of the Act</p><div class=\"prov-body\"><p>Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, the accounts of such registered non-profit organisation for that tax year shall be audited by an accountant and the person in receipt of the income shall be required to furnish a report of an audit of such income by such date in the prescribed form, duly signed and verified by such accountant and setting forth such particulars, as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">348</span>Audit.</h3></div><p class=\"prov-cite\">Section 348  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 4.—Compliances  ·  page 413 of the Act</p><div class=\"prov-body\"><p>Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, the accounts of such registered non-profit organisation for that tax year shall be audited by an accountant and the person in receipt of the income shall be required to furnish a report of an audit of such income by such date in the prescribed form, duly signed and verified by such accountant and setting forth such particulars, as may be prescribed.</p></div>"
+  }
+}

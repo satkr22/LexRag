@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "insolvency_section_11_chunk_0",
+    "section_id": "insolvency_section_11",
+    "token_count": 298,
+    "text": "[Act: insolvency\n Chapter: Corporate Insolvency Resolution Process\n Section: 11::Persons not entitled to make application.\n]\n\n\nThe following persons shall not be entitled to make an application to initiate corporate insolvency resolution process under this Chapter, namely:—\n(a) a corporate debtor undergoing a corporate insolvency resolution process 4[or a pre-packaged insolvency resolution process]; or\n4[(aa) a financial creditor or an operational creditor of a corporate debtor undergoing a pre-packaged insolvency resolution process; or]\n(b) a corporate debtor having completed corporate insolvency resolution process twelve months preceding the date of making of the application; or\n4[(ba) a corporate debtor in respect of whom a resolution plan has been approved under Chapter III-A, twelve months preceding the date of making of the application; or]\n(c) a corporate debtor or a financial creditor who has violated any of the terms of resolution plan which was approved twelve months before the date of making of an application under this Chapter; or\n(d) a corporate debtor in respect of whom a liquidation order has been made.\n5[Explanation I].—For the purposes of this section, a corporate debtor includes a corporate applicant in respect of such corporate debtor.\n4[Explanation II.—For the purposes of this section, it is hereby clarified that nothing in this section shall prevent a corporate debtor referred to in clauses (a) to (d) from initiating corporate insolvency resolution process against another corporate debtor.]",
+    "metadata": {
+      "chunk_id": "insolvency_section_11_chunk_0",
+      "section_id": "insolvency_section_11",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter II",
+      "chapter_title": "Corporate Insolvency Resolution Process",
+      "section_number": "11",
+      "section_title": "Persons not entitled to make application."
+    }
+  }
+]

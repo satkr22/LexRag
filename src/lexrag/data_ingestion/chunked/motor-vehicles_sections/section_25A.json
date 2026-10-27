@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_25A_chunk_0",
+    "section_id": "motor-vehicles_section_25A",
+    "token_count": 196,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 25A::National Register of Driving Licences.\n]\n\n\n(1) The Central Government shall maintain a National Register of Driving Licences in such form and manner as may be prescribed.\n(2) All State Registers of Driving Licences shall be subsumed under the National Register of Driving Licences by a date to be notified by the Central Government.\n(3) No driving licence issued, or renewed, under this Act shall be valid unless it has been issued a unique driving licence number under the National Register of Driving Licences.\n(4) All State Governments and licensing authorities under this Act shall transmit all information including contained data in the State Register of Driving Licences in such form and manner as may be prescribed by the Central Government.\n(5) The State Governments shall be entitled to access the National Register and update their records in such manner as may be prescribed by the Central Government.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_25A_chunk_0",
+      "section_id": "motor-vehicles_section_25A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "25A",
+      "section_title": "National Register of Driving Licences."
+    }
+  }
+]

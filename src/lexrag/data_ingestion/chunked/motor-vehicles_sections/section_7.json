@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_7_chunk_0",
+    "section_id": "motor-vehicles_section_7",
+    "token_count": 143,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 7::Restrictions on the granting of learner’s licences for certain vehicles.\n]\n\n\n1[(1) No person shall be granted a learner’s licence to drive a transport vehicle unless he has held a driving licence to drive a light motor vehicle for at least one year:]\n2[Provided that nothing contained in this sub-section shall apply to an e-cart or e-rickshaw.]\n(2) No person under the age of eighteen years shall be granted a learner’s licence to drive a motor cycle without gear except with the consent in writing of the person having the care of the person desiring the learner’s licence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_7_chunk_0",
+      "section_id": "motor-vehicles_section_7",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "7",
+      "section_title": "Restrictions on the granting of learner’s licences for certain vehicles."
+    }
+  }
+]

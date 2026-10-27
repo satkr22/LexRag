@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-31.html",
+    "source_order": 31,
+    "article_order": 19,
+    "order": 413,
+    "stem": "section_O16R17",
+    "heading_number": "Order XVI",
+    "heading_title": "Summoning and Attendance of Witnesses",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O16R17",
+    "article_title": "Application of rules 10 to 13.",
+    "id": "cpc_section_O16R17"
+  },
+  "id": "cpc_section_O16R17",
+  "heading": {
+    "number": "Order XVI",
+    "title": "Summoning and Attendance of Witnesses",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O16R17",
+    "title": "Application of rules 10 to 13.",
+    "content": "The provisions of rules 10 to 13 shall, so far as they are applicable, be deemed to apply to any person who having attended in compliance with a summons departs, without lawful excuse, in contravention of rule 16.\n",
+    "html": "<article class=\"provision\" data-n=\"O16R17\" data-report=\"Order 16, Rule 17 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Application of rules 10 to 13.</h3></div><p class=\"prov-cite\">Order 16, Rule 17</p><div class=\"prov-body\"><p>The provisions of rules 10 to 13 shall, so far as they are applicable, be deemed to apply to any person who having attended in compliance with a summons departs, without lawful excuse, in contravention of rule 16.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Application of rules 10 to 13.</h3></div><p class=\"prov-cite\">Order 16, Rule 17</p><div class=\"prov-body\"><p>The provisions of rules 10 to 13 shall, so far as they are applicable, be deemed to apply to any person who having attended in compliance with a summons departs, without lawful excuse, in contravention of rule 16.</p></div>"
+  }
+}

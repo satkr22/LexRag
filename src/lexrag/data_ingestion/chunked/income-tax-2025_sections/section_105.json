@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_105_chunk_0",
+    "section_id": "income-tax-2025_section_105",
+    "token_count": 158,
+    "text": "[Act: income-tax-2025\n Chapter: Aggregation of Income\n Section: 105::Unexplained expenditure.\n]\n\n\n(1) Where any expenditure has been incurred by the assessee in any tax year, and—\n(a) the assessee offers no explanation about the source of such expenditure or part thereof; or\n(b) the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer, then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year.\n(2) Irrespective of any other provision of this Act, the amount deemed as income in sub-section (1) shall not be allowed as a deduction under this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_105_chunk_0",
+      "section_id": "income-tax-2025_section_105",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income",
+      "section_number": "105",
+      "section_title": "Unexplained expenditure."
+    }
+  }
+]

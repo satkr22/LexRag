@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_46_chunk_0",
+    "section_id": "motor-vehicles_section_46",
+    "token_count": 80,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 46::Effectiveness in India of registration.\n]\n\n\nSubject to the provisions of section 47, a motor vehicle registered in accordance with this Chapter in any State shall not require to be registered elsewhere in India and a certificate of registration issued or in force under this Act in respect of such vehicle shall be effective throughout India.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_46_chunk_0",
+      "section_id": "motor-vehicles_section_46",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "46",
+      "section_title": "Effectiveness in India of registration."
+    }
+  }
+]

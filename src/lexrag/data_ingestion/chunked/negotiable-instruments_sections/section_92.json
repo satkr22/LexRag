@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_92_chunk_0",
+    "section_id": "negotiable-instruments_section_92",
+    "token_count": 83,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Notice of Dishonour\n Section: 92::Dishonour by non-payment.\n]\n\n\nA promissory note, bill of exchange or cheque is said to be dishonoured by non-payment when the maker of the note, acceptor of the bill or drawee of the cheque makes default in payment upon being duly required to pay the same.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_92_chunk_0",
+      "section_id": "negotiable-instruments_section_92",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Of Notice of Dishonour",
+      "section_number": "92",
+      "section_title": "Dishonour by non-payment."
+    }
+  }
+]

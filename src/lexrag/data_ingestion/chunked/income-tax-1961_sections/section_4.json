@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_4_chunk_0",
+    "section_id": "income-tax-1961_section_4",
+    "token_count": 184,
+    "text": "[Act: income-tax-1961\n Chapter: Basis of Charge\n Section: 4::Charge of income-tax.\n]\n\n\n(1) Where any Central Act enacts that income-tax shall be charged for any assessment year at any rate or rates, income-tax at that rate or those rates shall be charged for that year in accordance with, and subject to the provisions (including provisions for the levy of additional income-tax) of, this Act in respect of the total income of the previous year of every person :\nProvided that where by virtue of any provision of this Act income-tax is to be charged in respect of the income of a period other than the previous year, income-tax shall be charged accordingly.\n(2) In respect of income chargeable under sub-section (1), income-tax shall be deducted at the source or paid in advance, where it is so deductible or payable under any provision of this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_4_chunk_0",
+      "section_id": "income-tax-1961_section_4",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Basis of Charge",
+      "section_number": "4",
+      "section_title": "Charge of income-tax."
+    }
+  }
+]

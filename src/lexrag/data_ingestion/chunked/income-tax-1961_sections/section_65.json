@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_65_chunk_0",
+    "section_id": "income-tax-1961_section_65",
+    "token_count": 235,
+    "text": "[Act: income-tax-1961\n Chapter: Income of Other Persons, Included in Assessee's Total Income\n Section: 65::Liability of person in respect of income included in the income of another person.\n]\n\n\nWhere, by reason of the provisions contained in this Chapter or in clause (i) of section 27, the income from any asset or from membership in a firm of a person other than the assessee is included in the total income of the assessee, the person in whose name such asset stands or who is a member of the firm shall, notwithstanding anything to the contrary contained in any other law for the time being in force, be liable, on the service of a notice of demand by the Assessing Officer in this behalf, to pay that portion of the tax levied on the assessee which is attributable to the income so included, and the provisions of Chapter XVII-D shall, so far as may be, apply accordingly :\nProvided that where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay the tax which is attributable to the income from the assets so included.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_65_chunk_0",
+      "section_id": "income-tax-1961_section_65",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Income of Other Persons, Included in Assessee's Total Income",
+      "section_number": "65",
+      "section_title": "Liability of person in respect of income included in the income of another person."
+    }
+  }
+]

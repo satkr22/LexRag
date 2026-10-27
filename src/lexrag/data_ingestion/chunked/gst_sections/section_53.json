@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_53_chunk_0",
+    "section_id": "gst_section_53",
+    "token_count": 137,
+    "text": "[Act: gst\n Chapter: Payment of Tax\n Section: 53::Transfer of input tax credit.\n]\n\n\nOn utilisation of input tax credit availed under this Act for payment of tax dues under the Integrated Goods and Services Tax Act in accordance with the provisions of sub-section (5) of section 49, as reflected in the valid return furnished under sub-section (1) of section 39, the amount collected as central tax shall stand reduced by an amount equal to such credit so utilised and the Central Government shall transfer an amount equal to the amount so reduced from the central tax account to the integrated tax account in such manner and within such time as may be prescribed.",
+    "metadata": {
+      "chunk_id": "gst_section_53_chunk_0",
+      "section_id": "gst_section_53",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Payment of Tax",
+      "section_number": "53",
+      "section_title": "Transfer of input tax credit."
+    }
+  }
+]

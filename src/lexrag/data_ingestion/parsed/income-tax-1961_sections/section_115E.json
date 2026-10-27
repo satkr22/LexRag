@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-16.html",
+    "source_order": 20,
+    "article_order": 3,
+    "order": 343,
+    "stem": "section_115E",
+    "heading_number": "Chapter XII-A",
+    "heading_title": "Special Provisions Relating to Certain Incomes of Non-residents",
+    "heading_range": "ss. 115C–115-I",
+    "heading_source": "group-head",
+    "article_number": "115E",
+    "article_title": "Tax on investment income and long-term capital gains.",
+    "id": "income-tax-1961_section_115E"
+  },
+  "id": "income-tax-1961_section_115E",
+  "heading": {
+    "number": "Chapter XII-A",
+    "title": "Special Provisions Relating to Certain Incomes of Non-residents",
+    "range": "ss. 115C–115-I"
+  },
+  "article": {
+    "number": "115E",
+    "title": "Tax on investment income and long-term capital gains.",
+    "content": "Where the total income of an assessee, being a non-resident Indian, includes—\n(a) any income from investment or income from long-term capital gains of an asset other than a specified asset;\n(b) income by way of long-term capital gains, the tax payable by him shall be the aggregate of—\n(i) the amount of income-tax calculated on the income in respect of investment income referred to in clause (a), if any, included in the total income, at the rate of twenty per cent;\n35[(ii) the amount of income-tax calculated on the income by way of long-term capital gains referred to in clause (b), if any, included in the total income,––\n(A) at the rate of ten per cent for any transfer which takes place before the 23rd day of July, 2024; and\n(B) at the rate of twelve and one-half per cent for any transfer which takes place on or after the 23rd day of July, 2024; and]\n(iii) the amount of income-tax with which he would have been chargeable had his total income been reduced by the amount of income referred to in clauses (a) and (b).\n",
+    "html": "<article class=\"provision\" data-n=\"115E\" data-report=\"Section 115E · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115E</span>Tax on investment income and long-term capital gains.</h3></div><p class=\"prov-cite\">Section 115E  ·  Chapter XII-A  ·  page 465 of the Act</p><div class=\"prov-body\"><p>Where the total income of an assessee, being a non-resident Indian, includes—</p><p class=\"lvl\">(a) any income from investment or income from long-term capital gains of an asset other than a specified asset;</p><p class=\"lvl\">(b) income by way of long-term capital gains, the tax payable by him shall be the aggregate of—</p><p class=\"lvl\">(i) the amount of income-tax calculated on the income in respect of investment income referred to in clause (a), if any, included in the total income, at the rate of twenty per cent;</p><p class=\"lvl\"><sup>35</sup>[(ii) the amount of income-tax calculated on the income by way of long-term capital gains referred to in clause (b), if any, included in the total income,––</p><p class=\"lvl\">(A) at the rate of ten per cent for any transfer which takes place before the 23rd day of July, 2024; and</p><p class=\"lvl\">(B) at the rate of twelve and one-half per cent for any transfer which takes place on or after the 23rd day of July, 2024; and]</p><p class=\"lvl\">(iii) the amount of income-tax with which he would have been chargeable had his total income been reduced by the amount of income referred to in clauses (a) and (b).</p><div class=\"fnotes\"><p class=\"fn\"><sup>35</sup> Sub. by the Act No. 15 of 2024, w.r.e.f. 23-7-2024.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115E</span>Tax on investment income and long-term capital gains.</h3></div><p class=\"prov-cite\">Section 115E  ·  Chapter XII-A  ·  page 465 of the Act</p><div class=\"prov-body\"><p>Where the total income of an assessee, being a non-resident Indian, includes—</p><p class=\"lvl\">(a) any income from investment or income from long-term capital gains of an asset other than a specified asset;</p><p class=\"lvl\">(b) income by way of long-term capital gains, the tax payable by him shall be the aggregate of—</p><p class=\"lvl\">(i) the amount of income-tax calculated on the income in respect of investment income referred to in clause (a), if any, included in the total income, at the rate of twenty per cent;</p><p class=\"lvl\"><sup>35</sup>[(ii) the amount of income-tax calculated on the income by way of long-term capital gains referred to in clause (b), if any, included in the total income,––</p><p class=\"lvl\">(A) at the rate of ten per cent for any transfer which takes place before the 23rd day of July, 2024; and</p><p class=\"lvl\">(B) at the rate of twelve and one-half per cent for any transfer which takes place on or after the 23rd day of July, 2024; and]</p><p class=\"lvl\">(iii) the amount of income-tax with which he would have been chargeable had his total income been reduced by the amount of income referred to in clauses (a) and (b).</p><div class=\"fnotes\"><p class=\"fn\"><sup>35</sup> Sub. by the Act No. 15 of 2024, w.r.e.f. 23-7-2024.</p></div></div>"
+  }
+}

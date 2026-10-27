@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "dpdp_section_12_chunk_0",
+    "section_id": "dpdp_section_12",
+    "token_count": 227,
+    "text": "[Act: dpdp\n Chapter: Rights and Duties of Data Principal\n Section: 12::Right to correction and erasure of personal data.\n]\n\n\n(1) A Data Principal shall have the right to correction, completion, updating and erasure of her personal data for the processing of which she has previously given consent, including consent as referred to in clause (a) of section 7, in accordance with any requirement or procedure under any law for the time being in force.\n(2) A Data Fiduciary shall, upon receiving a request for correction, completion or updating from a Data Principal,—\n(a) correct the inaccurate or misleading personal data;\n(b) complete the incomplete personal data; and\n(c) update the personal data.\n(3) A Data Principal shall make a request in such manner as may be prescribed to the Data Fiduciary for erasure of her personal data, and upon receipt of such a request, the Data Fiduciary shall erase her personal data unless retention of the same is necessary for the specified purpose or for compliance with any law for the time being in force.",
+    "metadata": {
+      "chunk_id": "dpdp_section_12_chunk_0",
+      "section_id": "dpdp_section_12",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Rights and Duties of Data Principal",
+      "section_number": "12",
+      "section_title": "Right to correction and erasure of personal data."
+    }
+  }
+]

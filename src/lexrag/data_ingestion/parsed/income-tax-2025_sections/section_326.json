@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-17.html",
+    "source_order": 18,
+    "article_order": 25,
+    "order": 326,
+    "stem": "section_326",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Special Provisions Relating to Certain Persons",
+    "heading_range": "ss. 302–355",
+    "heading_source": "group-head",
+    "article_number": "326",
+    "article_title": "Assessment when section 325 not complied with.",
+    "id": "income-tax-2025_section_326"
+  },
+  "id": "income-tax-2025_section_326",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Special Provisions Relating to Certain Persons",
+    "range": "ss. 302–355"
+  },
+  "article": {
+    "number": "326",
+    "title": "Assessment when section 325 not complied with.",
+    "content": "Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year,—\n(a) no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and\n(b) such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.\n",
+    "html": "<article class=\"provision\" data-n=\"326\" data-report=\"Section 326 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">326</span>Assessment when section 325 not complied with.</h3></div><p class=\"prov-cite\">Section 326  ·  Chapter XVII  ·  A.—Association of persons, firm, Hindu undivided family, etc. — 14.—Assessment of firms  ·  page 390 of the Act</p><div class=\"prov-body\"><p>Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year,—</p><p class=\"lvl\">(a) no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and</p><p class=\"lvl\">(b) such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">326</span>Assessment when section 325 not complied with.</h3></div><p class=\"prov-cite\">Section 326  ·  Chapter XVII  ·  A.—Association of persons, firm, Hindu undivided family, etc. — 14.—Assessment of firms  ·  page 390 of the Act</p><div class=\"prov-body\"><p>Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year,—</p><p class=\"lvl\">(a) no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and</p><p class=\"lvl\">(b) such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.</p></div>"
+  }
+}

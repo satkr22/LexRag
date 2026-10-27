@@ -1,0 +1,782 @@
+{
+  "act": "technology",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/technology_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/technology_sections",
+  "count": 129,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "first-schedule",
+      "article_title": "The First Schedule 1",
+      "file": "section_first-schedule.json"
+    },
+    {
+      "order": 2,
+      "article_number": "fourth-schedule",
+      "article_title": "The Fourth Schedule",
+      "file": "section_fourth-schedule.json"
+    },
+    {
+      "order": 3,
+      "article_number": "second-schedule",
+      "article_title": "The Second Schedule 1",
+      "file": "section_second-schedule.json"
+    },
+    {
+      "order": 4,
+      "article_number": "1",
+      "article_title": "Short title, extent, commencement and application.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 5,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 6,
+      "article_number": "3",
+      "article_title": "Authentication of electronic records.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 7,
+      "article_number": "3A",
+      "article_title": "Electronic signature.",
+      "file": "section_3A.json"
+    },
+    {
+      "order": 8,
+      "article_number": "4",
+      "article_title": "Legal recognition of electronic records.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 9,
+      "article_number": "5",
+      "article_title": "Legal recognition of 1 [electronic signatures].",
+      "file": "section_5.json"
+    },
+    {
+      "order": 10,
+      "article_number": "6",
+      "article_title": "Use of electronic records and 1 [electronic signatures] in Government and its agencies.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 11,
+      "article_number": "6A",
+      "article_title": "Delivery of services by service provider.",
+      "file": "section_6A.json"
+    },
+    {
+      "order": 12,
+      "article_number": "7",
+      "article_title": "Retention of electronic records.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 13,
+      "article_number": "7A",
+      "article_title": "Audit of documents, etc., maintained in electronic form.",
+      "file": "section_7A.json"
+    },
+    {
+      "order": 14,
+      "article_number": "8",
+      "article_title": "Publication of rule, regulation, etc., in Electronic Gazette.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 15,
+      "article_number": "9",
+      "article_title": "Sections 6, 7 and 8 not to confer right to insist document should be accepted in electronic form.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 16,
+      "article_number": "10",
+      "article_title": "Power to make rules by Central Government in respect of 1 [electronic signature].",
+      "file": "section_10.json"
+    },
+    {
+      "order": 17,
+      "article_number": "10A",
+      "article_title": "Validity of contracts formed through electronic means.",
+      "file": "section_10A.json"
+    },
+    {
+      "order": 18,
+      "article_number": "11",
+      "article_title": "Attribution of electronic records.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 19,
+      "article_number": "12",
+      "article_title": "Acknowledgment of receipt.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 20,
+      "article_number": "13",
+      "article_title": "Time and place of despatch and receipt of electronic record.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 21,
+      "article_number": "14",
+      "article_title": "Secure electronic record.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 22,
+      "article_number": "15",
+      "article_title": "Secure electronic signature.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 23,
+      "article_number": "16",
+      "article_title": "Security procedures and practices.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 24,
+      "article_number": "17",
+      "article_title": "Appointment of Controller and other officers.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 25,
+      "article_number": "18",
+      "article_title": "Functions of Controller.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 26,
+      "article_number": "19",
+      "article_title": "Recognition of foreign Certifying Authorities.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 27,
+      "article_number": "20",
+      "article_title": "Controller to act as repository.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 28,
+      "article_number": "21",
+      "article_title": "Licence to issue 1 [electronic signature] Certificates.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 29,
+      "article_number": "22",
+      "article_title": "Application for licence.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 30,
+      "article_number": "23",
+      "article_title": "Renewal of licence.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 31,
+      "article_number": "24",
+      "article_title": "Procedure for grant or rejection of licence.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 32,
+      "article_number": "25",
+      "article_title": "Suspension of licence.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 33,
+      "article_number": "26",
+      "article_title": "Notice of suspension or revocation of licence.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 34,
+      "article_number": "27",
+      "article_title": "Power to delegate.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 35,
+      "article_number": "28",
+      "article_title": "Power to investigate contraventions.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 36,
+      "article_number": "29",
+      "article_title": "Access to computers and data.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 37,
+      "article_number": "30",
+      "article_title": "Certifying Authority to follow certain procedures.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 38,
+      "article_number": "31",
+      "article_title": "Certifying Authority to ensure compliance of the Act, etc.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 39,
+      "article_number": "32",
+      "article_title": "Display of licence.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 40,
+      "article_number": "33",
+      "article_title": "Surrender of licence.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 41,
+      "article_number": "34",
+      "article_title": "Disclosure.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 42,
+      "article_number": "35",
+      "article_title": "Certifying authority to issue 2 [electronic signature] Certificate.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 43,
+      "article_number": "36",
+      "article_title": "Representations upon issuance of Digital Signature Certificate.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 44,
+      "article_number": "37",
+      "article_title": "Suspension of Digital Signature Certificate.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 45,
+      "article_number": "38",
+      "article_title": "Revocation of Digital Signature Certificate.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 46,
+      "article_number": "39",
+      "article_title": "Notice of suspension or revocation.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 47,
+      "article_number": "40",
+      "article_title": "Generating key pair.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 48,
+      "article_number": "40A",
+      "article_title": "Duties of subscriber of Electronic Signature Certificate.",
+      "file": "section_40A.json"
+    },
+    {
+      "order": 49,
+      "article_number": "41",
+      "article_title": "Acceptance of Digital Signature Certificate.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 50,
+      "article_number": "42",
+      "article_title": "Control of private key.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 51,
+      "article_number": "43",
+      "article_title": "6 [Penalty and compensation] for damage to computer, computer system, etc.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 52,
+      "article_number": "43A",
+      "article_title": "Compensation for failure to protect data.",
+      "file": "section_43A.json"
+    },
+    {
+      "order": 53,
+      "article_number": "44",
+      "article_title": "Penalty for failure to furnish information, return, etc.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 54,
+      "article_number": "45",
+      "article_title": "Residuary penalty.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 55,
+      "article_number": "46",
+      "article_title": "Power to adjudicate.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 56,
+      "article_number": "47",
+      "article_title": "Factors to be taken into account by the adjudicating officer.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 57,
+      "article_number": "48",
+      "article_title": "Establishment of 1 [Appellate Tribunal].",
+      "file": "section_48.json"
+    },
+    {
+      "order": 58,
+      "article_number": "49",
+      "article_title": "Composition of Cyber Appellate Tribunal.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 59,
+      "article_number": "50",
+      "article_title": "Qualifications for appointment as Chairperson and Members of Cyber Appellate Tribunal.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 60,
+      "article_number": "51",
+      "article_title": "Term of office, conditions of service, etc., of Chairperson and Members.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 61,
+      "article_number": "52",
+      "article_title": "Salary, allowances and other terms and conditions of service of Chairperson and Members.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 62,
+      "article_number": "52A",
+      "article_title": "Powers of superintendence, direction, etc.",
+      "file": "section_52A.json"
+    },
+    {
+      "order": 63,
+      "article_number": "52B",
+      "article_title": "Distribution of business among Benches.",
+      "file": "section_52B.json"
+    },
+    {
+      "order": 64,
+      "article_number": "52C",
+      "article_title": "Power of Chairperson to transfer cases.",
+      "file": "section_52C.json"
+    },
+    {
+      "order": 65,
+      "article_number": "52D",
+      "article_title": "Decision by majority.",
+      "file": "section_52D.json"
+    },
+    {
+      "order": 66,
+      "article_number": "53",
+      "article_title": "Filling up of vacancies.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 67,
+      "article_number": "54",
+      "article_title": "Resignation and removal.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 68,
+      "article_number": "55",
+      "article_title": "Orders constituting Appellate Tribunal to be final and not to invalidate its proceedings.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 69,
+      "article_number": "56",
+      "article_title": "Staff of the Cyber Appellate Tribunal.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 70,
+      "article_number": "57",
+      "article_title": "Appeal to 2 [Appellate Tribunal].",
+      "file": "section_57.json"
+    },
+    {
+      "order": 71,
+      "article_number": "58",
+      "article_title": "Procedure and powers of the 2 [Appellate Tribunal].",
+      "file": "section_58.json"
+    },
+    {
+      "order": 72,
+      "article_number": "59",
+      "article_title": "Right to legal representation.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 73,
+      "article_number": "60",
+      "article_title": "Limitation.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 74,
+      "article_number": "61",
+      "article_title": "Civil court not to have jurisdiction.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 75,
+      "article_number": "62",
+      "article_title": "Appeal to High Court.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 76,
+      "article_number": "63",
+      "article_title": "Compounding of contraventions.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 77,
+      "article_number": "64",
+      "article_title": "Recovery of 3 [penalty or compensation].",
+      "file": "section_64.json"
+    },
+    {
+      "order": 78,
+      "article_number": "65",
+      "article_title": "Tampering with computer source documents.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 79,
+      "article_number": "66",
+      "article_title": "Computer related offences.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 80,
+      "article_number": "66A",
+      "article_title": "Punishment for sending offensive messages through communication service, etc.",
+      "file": "section_66A.json"
+    },
+    {
+      "order": 81,
+      "article_number": "66B",
+      "article_title": "Punishment for dishonestly receiving stolen computer resource or communication device.",
+      "file": "section_66B.json"
+    },
+    {
+      "order": 82,
+      "article_number": "66C",
+      "article_title": "Punishment for identity theft.",
+      "file": "section_66C.json"
+    },
+    {
+      "order": 83,
+      "article_number": "66D",
+      "article_title": "Punishment for cheating by personation by using computer resource.",
+      "file": "section_66D.json"
+    },
+    {
+      "order": 84,
+      "article_number": "66E",
+      "article_title": "Punishment for violation of privacy.",
+      "file": "section_66E.json"
+    },
+    {
+      "order": 85,
+      "article_number": "66F",
+      "article_title": "Punishment for cyber terrorism.",
+      "file": "section_66F.json"
+    },
+    {
+      "order": 86,
+      "article_number": "67",
+      "article_title": "Punishment for publishing or transmitting obscene material in electronic form.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 87,
+      "article_number": "67A",
+      "article_title": "Punishment for publishing or transmitting of material containing sexually explicit act, etc., in electronic form.",
+      "file": "section_67A.json"
+    },
+    {
+      "order": 88,
+      "article_number": "67B",
+      "article_title": "Punishment for publishing or transmitting of material depicting children in sexually explicit act, etc., in electronic form.",
+      "file": "section_67B.json"
+    },
+    {
+      "order": 89,
+      "article_number": "67C",
+      "article_title": "Preservation and retention of information by intermediaries.",
+      "file": "section_67C.json"
+    },
+    {
+      "order": 90,
+      "article_number": "68",
+      "article_title": "Power of Controller to give directions.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 91,
+      "article_number": "69",
+      "article_title": "Power to issue directions for interception or monitoring or decryption of any information through any computer resource.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 92,
+      "article_number": "69A",
+      "article_title": "Power to issue directions for blocking for public access of any information through any computer resource.",
+      "file": "section_69A.json"
+    },
+    {
+      "order": 93,
+      "article_number": "69B",
+      "article_title": "Power to authorise to monitor and collect traffic data or information through any computer resource for cyber security.",
+      "file": "section_69B.json"
+    },
+    {
+      "order": 94,
+      "article_number": "70",
+      "article_title": "Protected system.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 95,
+      "article_number": "70A",
+      "article_title": "National nodal agency.",
+      "file": "section_70A.json"
+    },
+    {
+      "order": 96,
+      "article_number": "70B",
+      "article_title": "Indian Computer Emergency Response Team to serve as national agency for incident response.",
+      "file": "section_70B.json"
+    },
+    {
+      "order": 97,
+      "article_number": "71",
+      "article_title": "Penalty for misrepresentation.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 98,
+      "article_number": "72",
+      "article_title": "Penalty for Breach of confidentiality and privacy.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 99,
+      "article_number": "72A",
+      "article_title": "5 [Penalty] for disclosure of information in breach of lawful contract.",
+      "file": "section_72A.json"
+    },
+    {
+      "order": 100,
+      "article_number": "73",
+      "article_title": "Penalty for publishing 2 [electronic signature] Certificate false in certain particulars.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 101,
+      "article_number": "74",
+      "article_title": "Publication for fraudulent purpose.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 102,
+      "article_number": "75",
+      "article_title": "Act to apply for offence or contravention committed outside India.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 103,
+      "article_number": "76",
+      "article_title": "Confiscation.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 104,
+      "article_number": "77",
+      "article_title": "Compensation, penalties or confiscation not to interfere with other punishment.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 105,
+      "article_number": "77A",
+      "article_title": "Compounding of offences.",
+      "file": "section_77A.json"
+    },
+    {
+      "order": 106,
+      "article_number": "77B",
+      "article_title": "Offences with three years imprisonment to be bailable.",
+      "file": "section_77B.json"
+    },
+    {
+      "order": 107,
+      "article_number": "78",
+      "article_title": "Power to investigate offences.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 108,
+      "article_number": "79",
+      "article_title": "Exemption from liability of intermediary in certain cases.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 109,
+      "article_number": "79A",
+      "article_title": "Central Government to notify Examiner of Electronic Evidence.",
+      "file": "section_79A.json"
+    },
+    {
+      "order": 110,
+      "article_number": "80",
+      "article_title": "Power of police officer and other officers to enter, search, etc.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 111,
+      "article_number": "81",
+      "article_title": "Act to have overriding effect.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 112,
+      "article_number": "81A",
+      "article_title": "Application of the Act to electronic cheque and truncated cheque.",
+      "file": "section_81A.json"
+    },
+    {
+      "order": 113,
+      "article_number": "82",
+      "article_title": "Controller, Deputy Controller and Assistant Controller to be public servants.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 114,
+      "article_number": "83",
+      "article_title": "Power to give directions.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 115,
+      "article_number": "84",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 116,
+      "article_number": "84A",
+      "article_title": "Modes or methods for encryption.",
+      "file": "section_84A.json"
+    },
+    {
+      "order": 117,
+      "article_number": "84B",
+      "article_title": "Punishment for abetment of offences.",
+      "file": "section_84B.json"
+    },
+    {
+      "order": 118,
+      "article_number": "84C",
+      "article_title": "Punishment for attempt to commit offences.",
+      "file": "section_84C.json"
+    },
+    {
+      "order": 119,
+      "article_number": "85",
+      "article_title": "Offences by companies.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 120,
+      "article_number": "86",
+      "article_title": "Removal of difficulties.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 121,
+      "article_number": "87",
+      "article_title": "Power of Central Government to make rules.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 122,
+      "article_number": "88",
+      "article_title": "Constitution of Advisory Committee.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 123,
+      "article_number": "89",
+      "article_title": "Power of Controller to make regulations.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 124,
+      "article_number": "90",
+      "article_title": "Power of State Government to make rules.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 125,
+      "article_number": "91",
+      "article_title": "Amendment of Act 45 of 1860.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 126,
+      "article_number": "92",
+      "article_title": "Amendment of Act 1 of 1872.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 127,
+      "article_number": "93",
+      "article_title": "Amendment of Act 18 of 1891.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 128,
+      "article_number": "94",
+      "article_title": "Amendment of Act 2 of 1934.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 129,
+      "article_number": "third-schedule",
+      "article_title": "The Third Schedule",
+      "file": "section_third-schedule.json"
+    }
+  ]
+}

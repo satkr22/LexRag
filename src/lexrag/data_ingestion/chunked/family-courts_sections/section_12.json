@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "family-courts_section_12_chunk_0",
+    "section_id": "family-courts_section_12",
+    "token_count": 104,
+    "text": "[Act: family-courts\n Chapter: Procedure\n Section: 12::Assistance of medical and welfare experts.\n]\n\n\nIn every suit or proceedings, it shall be open to a Family Court to secure the services of a medical expert or such person (preferably a woman where available), whether related to the parties or not, including a person professionally engaged in promoting the welfare of the family as the Court may think fit, for the purposes of assisting the Family Court in discharging the functions imposed by this Act.",
+    "metadata": {
+      "chunk_id": "family-courts_section_12_chunk_0",
+      "section_id": "family-courts_section_12",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "family-courts",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Procedure",
+      "section_number": "12",
+      "section_title": "Assistance of medical and welfare experts."
+    }
+  }
+]

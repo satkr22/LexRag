@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_90_chunk_0",
+    "section_id": "bsa_section_90",
+    "token_count": 89,
+    "text": "[Act: bsa\n Chapter: Of Documentary Evidence\n Section: 90::Presumption as to electronic messages\n]\n\n\nThe Court may presume that an electronic message, forwarded by the originator through an electronic mail server to the addressee to whom the message purports to be addressed corresponds with the message as fed into his computer for transmission; but the Court shall not make any presumption as to the person by whom such message was sent.",
+    "metadata": {
+      "chunk_id": "bsa_section_90_chunk_0",
+      "section_id": "bsa_section_90",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Documentary Evidence",
+      "section_number": "90",
+      "section_title": "Presumption as to electronic messages"
+    }
+  }
+]

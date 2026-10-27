@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-23.html",
+    "source_order": 24,
+    "article_order": 28,
+    "order": 527,
+    "stem": "section_526",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 499–536",
+    "heading_source": "group-head",
+    "article_number": "526",
+    "article_title": "Bar of suits in civil courts.",
+    "id": "income-tax-2025_section_526"
+  },
+  "id": "income-tax-2025_section_526",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Miscellaneous",
+    "range": "ss. 499–536"
+  },
+  "article": {
+    "number": "526",
+    "title": "Bar of suits in civil courts.",
+    "content": "No suit shall be brought in any civil court to set aside or modify any proceeding taken or order made under this Act, and no prosecution, suit or other proceeding shall lie against the Government or any officer of the Government for anything in good faith done or intended to be done under this Act.\n",
+    "html": "<article class=\"provision\" data-n=\"526\" data-report=\"Section 526 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">526</span>Bar of suits in civil courts.</h3></div><p class=\"prov-cite\">Section 526  ·  Chapter XXIII  ·  page 614 of the Act</p><div class=\"prov-body\"><p>No suit shall be brought in any civil court to set aside or modify any proceeding taken or order made under this Act, and no prosecution, suit or other proceeding shall lie against the Government or any officer of the Government for anything in good faith done or intended to be done under this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">526</span>Bar of suits in civil courts.</h3></div><p class=\"prov-cite\">Section 526  ·  Chapter XXIII  ·  page 614 of the Act</p><div class=\"prov-body\"><p>No suit shall be brought in any civil court to set aside or modify any proceeding taken or order made under this Act, and no prosecution, suit or other proceeding shall lie against the Government or any officer of the Government for anything in good faith done or intended to be done under this Act.</p></div>"
+  }
+}

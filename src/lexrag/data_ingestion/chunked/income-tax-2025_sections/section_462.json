@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_462_chunk_0",
+    "section_id": "income-tax-2025_section_462",
+    "token_count": 90,
+    "text": "[Act: income-tax-2025\n Chapter: Penalties\n Section: 462::Penalty for failure to furnish information or furnishing inaccurate information under section 397(3)(d).\n]\n\n\nIf any person, who is required to furnish information under section 397(3)(d), fails to furnish such information, or furnishes inaccurate information, the Assessing Officer may impose a penalty of Rs. 100000 on such person.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_462_chunk_0",
+      "section_id": "income-tax-2025_section_462",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties",
+      "section_number": "462",
+      "section_title": "Penalty for failure to furnish information or furnishing inaccurate information under section 397(3)(d)."
+    }
+  }
+]

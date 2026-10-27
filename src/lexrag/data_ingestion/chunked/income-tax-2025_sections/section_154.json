@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_154_chunk_0",
+    "section_id": "income-tax-2025_section_154",
+    "token_count": 295,
+    "text": "[Act: income-tax-2025\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 154::Deduction in case of a person with disability.\n]\n\n\n(1) An individual, being resident in India, who is certified by a medical authority, at any time during the tax year, as a person with disability or person with severe disability, shall be allowed a deduction of Rs. 75000 or Rs. 125000, respectively, while computing his total income.\n(2) The deduction under sub-section (1) shall be allowed only if all of the following conditions are fulfilled:—\n(a) the individual furnishes a copy of the certificate issued by the medical authority;\n(b) if the certificate specifies that the disability needs reassessment of its extent after a period stipulated in it, the deduction shall not be allowed for any tax year succeeding the tax year in which the certificate expires, unless a new disability certificate is obtained and furnished; and\n(c) the certificate referred to in clauses (a) and (b) of this sub-section is furnished in the form and manner, as may be prescribed, along with the return of income under section 263 for the tax year in which the deduction is claimed.\n(3) For the purposes of this section, \"disability\", \"medical authority\", \"person with disability\" or \"person with severe disability\" shall have the same meanings as provided in section 127.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_154_chunk_0",
+      "section_id": "income-tax-2025_section_154",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "154",
+      "section_title": "Deduction in case of a person with disability."
+    }
+  }
+]

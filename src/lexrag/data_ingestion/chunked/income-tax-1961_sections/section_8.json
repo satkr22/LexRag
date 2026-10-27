@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_8_chunk_0",
+    "section_id": "income-tax-1961_section_8",
+    "token_count": 169,
+    "text": "[Act: income-tax-1961\n Chapter: Basis of Charge\n Section: 8::Dividend income.\n]\n\n\nFor the purposes of inclusion in the total income of an assessee,—\n(a) any dividend declared by a company or distributed or paid by it within the meaning of sub-clause (a) or sub-clause (b) or sub-clause (c) or sub-clause (d) or sub-clause (e) of clause (22) of section 2 shall be deemed to be the income of the previous year in which it is so declared, distributed or paid, as the case may be ;\n(b) any interim dividend shall be deemed to be the income of the previous year in which the amount of such dividend is unconditionally made available by the company to the member who is entitled to it.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_8_chunk_0",
+      "section_id": "income-tax-1961_section_8",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Basis of Charge",
+      "section_number": "8",
+      "section_title": "Dividend income."
+    }
+  }
+]

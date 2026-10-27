@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_158BD_chunk_0",
+    "section_id": "income-tax-1961_section_158BD",
+    "token_count": 409,
+    "text": "[Act: income-tax-1961\n Chapter: Special Procedure for Assessment of Search Cases\n Section: 158BD::Undisclosed income of any other person.\n]\n\n\nWhere the Assessing Officer is satisfied that any undisclosed incomebelongs to or pertains to or relates to any person (herein referred to as the \"other person\"), other than the person (herein referred to as the \"specified person\" for the purposes of this section) with respect to whom search was initiated under section 132 or requisition was made under section 132A, then any money, bullion, jewellery, virtual digital asset or other valuable article or thing or any books of account or other documents seized or requisitioned or any other material or information relating to the aforesaid undisclosed income shall be handed over to the Assessing Officer having jurisdiction over such other person and that Assessing Officer shall proceed under section 158BC against such other person and the provisions of this Chapter shall apply accordingly:\nProvided that,—\n(a) where there is one specified person relevant to such other person, the block period for such other person shall be the same as that for the specified person; and\n(b) where there is more than one specified persons relevant to such other person, the block period for such other persons shall be the same as that for the specified person in whose case the block period ends on a later date:\nProvided further that in case of such other person, for the purposes of abatement under sub-sections (2) and (3) of section 158BA, the reference to the date of initiation of the search under section 132 or making of requisition under section 132A shall be construed as reference to the date on which such money, bullion, jewellery, virtual digital asset or other valuable article or thing or any books of account or other documents seized or requisitioned or any other material or information relating to the aforesaid undisclosed income were received by the Assessing Officer having jurisdiction over such other person.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_158BD_chunk_0",
+      "section_id": "income-tax-1961_section_158BD",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV-B",
+      "chapter_title": "Special Procedure for Assessment of Search Cases",
+      "section_number": "158BD",
+      "section_title": "Undisclosed income of any other person."
+    }
+  }
+]

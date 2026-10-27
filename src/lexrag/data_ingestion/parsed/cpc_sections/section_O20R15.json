@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 19,
+    "order": 470,
+    "stem": "section_O20R15",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R15",
+    "article_title": "Decree in suit for dissolution of partnership.",
+    "id": "cpc_section_O20R15"
+  },
+  "id": "cpc_section_O20R15",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R15",
+    "title": "Decree in suit for dissolution of partnership.",
+    "content": "Where a suit is for the dissolution of a partnership, or the taking of partnership accounts, the Court, before passing a final decree, may pass a preliminary decree declaring the proportionate shares of the parties, fixing the day on which the partnership shall stand dissolved or be deemed to have been dissolved, and directing such accounts to be taken, and other acts to be done, as it thinks fit.\n",
+    "html": "<article class=\"provision\" data-n=\"O20R15\" data-report=\"Order 20, Rule 15 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Decree in suit for dissolution of partnership.</h3></div><p class=\"prov-cite\">Order 20, Rule 15</p><div class=\"prov-body\"><p>Where a suit is for the dissolution of a partnership, or the taking of partnership accounts, the Court, before passing a final decree, may pass a preliminary decree declaring the proportionate shares of the parties, fixing the day on which the partnership shall stand dissolved or be deemed to have been dissolved, and directing such accounts to be taken, and other acts to be done, as it thinks fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Decree in suit for dissolution of partnership.</h3></div><p class=\"prov-cite\">Order 20, Rule 15</p><div class=\"prov-body\"><p>Where a suit is for the dissolution of a partnership, or the taking of partnership accounts, the Court, before passing a final decree, may pass a preliminary decree declaring the proportionate shares of the parties, fixing the day on which the partnership shall stand dissolved or be deemed to have been dissolved, and directing such accounts to be taken, and other acts to be done, as it thinks fit.</p></div>"
+  }
+}

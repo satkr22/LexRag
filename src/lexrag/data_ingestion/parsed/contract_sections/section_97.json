@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-97.html",
+    "source_order": 98,
+    "article_order": 1,
+    "order": 98,
+    "stem": "section_97",
+    "heading_number": "Chapter VII",
+    "heading_title": "Sales of Goods",
+    "heading_range": "ss. 76–123",
+    "heading_source": "manifest",
+    "article_number": "97",
+    "article_title": "Seller’s lien where payment to be made at future day, and buyer allows goods to remain in seller’s possession.",
+    "id": "contract_section_97"
+  },
+  "id": "contract_section_97",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Sales of Goods",
+    "range": "ss. 76–123"
+  },
+  "article": {
+    "number": "97",
+    "title": "Seller’s lien where payment to be made at future day, and buyer allows goods to remain in seller’s possession.",
+    "content": "",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Seller’s lien where payment to be made at future day, and buyer allows goods to remain in seller’s possession.</h3></div><p class=\"repnote\">Rep. by the Indian Sale of Goods Act, 1930 (3 of 1930), s. 65.</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Seller’s lien where payment to be made at future day, and buyer allows goods to remain in seller’s possession.</h3></div><p class=\"repnote\">Rep. by the Indian Sale of Goods Act, 1930 (3 of 1930), s. 65.</p>"
+  }
+}

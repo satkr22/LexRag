@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "right-to-education_section_1_chunk_0",
+    "section_id": "right-to-education_section_1",
+    "token_count": 164,
+    "text": "[Act: right-to-education\n Chapter: Preliminary\n Section: 1::[Short title, extent, application and commencement].\n]\n\n\n(1) This Act may be called the Right of Children to Free and Compulsory Education Act, 2009.\n(2) It shall extend to the whole of India 2***.\n(3) It shall come into force on such date3 as the Central Government may, by notification in the Official Gazette, appoint.\n4[(4) Subject to the provisions of articles 29 and 30 of the Constitution, the provisions of this Act shall apply to conferment of rights on children to free and compulsory education.\n(5) Nothing contained in this Act shall apply to Madrasas, Vedic Pathsalas and educational institutions primarily imparting religious instruction.]",
+    "metadata": {
+      "chunk_id": "right-to-education_section_1_chunk_0",
+      "section_id": "right-to-education_section_1",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "right-to-education",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "1",
+      "section_title": "[Short title, extent, application and commencement]."
+    }
+  }
+]

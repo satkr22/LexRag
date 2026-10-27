@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-16.html",
+    "source_order": 16,
+    "article_order": 1,
+    "order": 16,
+    "stem": "section_16",
+    "heading_number": "Chapter III",
+    "heading_title": "Cenral Consumer Protection Authority",
+    "heading_range": "ss. 10–27",
+    "heading_source": "manifest",
+    "article_number": "16",
+    "article_title": "Power of District Collector.",
+    "id": "consumer_section_16"
+  },
+  "id": "consumer_section_16",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Cenral Consumer Protection Authority",
+    "range": "ss. 10–27"
+  },
+  "article": {
+    "number": "16",
+    "title": "Power of District Collector.",
+    "content": "The District Collector (by whatever name called) may, on a complaint or on a reference made to him by the Central Authority or the Commissioner of a regional office, inquire into or investigate complaints regarding violation of rights of consumers as a class, on matters relating to violations of consumer rights, unfair trade practices and false or misleading advertisements, within his jurisdiction and submit his report to the Central Authority or to the Commissioner of a regional office, as the case may be.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Power of District Collector.</h3></div><p class=\"prov-cite\">Section 16  ·  Chapter III  ·  page 14 of the Act</p><div class=\"prov-body\"><p>The District Collector (by whatever name called) may, on a complaint or on a reference made to him by the Central Authority or the Commissioner of a regional office, inquire into or investigate complaints regarding violation of rights of consumers as a class, on matters relating to violations of consumer rights, unfair trade practices and false or misleading advertisements, within his jurisdiction and submit his report to the Central Authority or to the Commissioner of a regional office, as the case may be.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Power of District Collector.</h3></div><p class=\"prov-cite\">Section 16  ·  Chapter III  ·  page 14 of the Act</p><div class=\"prov-body\"><p>The District Collector (by whatever name called) may, on a complaint or on a reference made to him by the Central Authority or the Commissioner of a regional office, inquire into or investigate complaints regarding violation of rights of consumers as a class, on matters relating to violations of consumer rights, unfair trade practices and false or misleading advertisements, within his jurisdiction and submit his report to the Central Authority or to the Commissioner of a regional office, as the case may be.</p></div>"
+  }
+}

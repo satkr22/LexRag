@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_163_chunk_0",
+    "section_id": "motor-vehicles_section_163",
+    "token_count": 489,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 163::Refund in certain cases of compensation paid under section 161.\n]\n\n\n(1) The payment of compensation in respect of the death of, or grievous hurt to, any person under section 161 shall be subject to the condition that if any compensation (hereafter in this sub-section referred to as the other compensation) or other amount in lieu of or by way of satisfaction of a claim for compensation is awarded or paid in respect of such death or grievous hurt under any other provision of this Act or any other law for the time being in force or otherwise, so much of the other compensation or other amount aforesaid as is equal to the compensation paid under section 161, shall be refunded to the insurer.\n(2) Before awarding compensation in respect of an accident involving the death of, or bodily injury to, any person arising out of the use of a motor vehicle under any provision of this Act other than section 161 or any other law for the time being in force, the Claims Tribunal, court or other authority awarding such compensation shall verify as to whether in respect of such death or bodily injury compensation has already been paid under section 161 or an application for payment of compensation is pending under that section, and such Tribunal, court or other authority shall—\n(a) if compensation has already been paid under section 161, direct the person liable to pay the compensation awarded by it to refund to the insurer, so much thereof as is required to be refunded in accordance with the provisions of sub-section (1);\n(b) if an application for payment of compensation is pending under section 161 forward the particulars as to the compensation awarded by it to the insurer.\nExplanation.—For the purpose of this sub-section, an application for compensation under section 161 shall be deemed to be pending—\n(i) if such application has been rejected, till the date of the rejection of the application; and\n(ii) in any other case, till the date of payment of compensation in pursuance of the application.\n1[(3) Notwithstanding anything contained in sub-section (1), ex gratia payments awarded or received in respect of the death of, or grievous hurt, to any person, shall not be liable to be refunded to the Motor Vehicle Accident Fund constituted under section 164B.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_163_chunk_0",
+      "section_id": "motor-vehicles_section_163",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "163",
+      "section_title": "Refund in certain cases of compensation paid under section 161."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_50D_chunk_0",
+    "section_id": "income-tax-1961_section_50D",
+    "token_count": 123,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 50D::Fair market value deemed to be full value of consideration in certain cases.\n]\n\n\nWhere the consideration received or accruing as a result of the transfer of a capital asset by an assessee is not ascertainable or cannot be determined, then, for the purpose of computing income chargeable to tax as capital gains, the fair market value of the said asset on the date of transfer shall be deemed to be the full value of the consideration received or accruing as a result of such transfer.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_50D_chunk_0",
+      "section_id": "income-tax-1961_section_50D",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "50D",
+      "section_title": "Fair market value deemed to be full value of consideration in certain cases."
+    }
+  }
+]

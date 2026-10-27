@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_101_chunk_0",
+    "section_id": "income-tax-1961_section_101",
+    "token_count": 54,
+    "text": "[Act: income-tax-1961\n Chapter: General Anti-avoidance Rule\n Section: 101::Framing of guidelines.\n]\n\n\nThe provisions of this Chapter shall be applied in accordance with such guidelines and subject to such conditions, as may be prescribed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_101_chunk_0",
+      "section_id": "income-tax-1961_section_101",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter X-A",
+      "chapter_title": "General Anti-avoidance Rule",
+      "section_number": "101",
+      "section_title": "Framing of guidelines."
+    }
+  }
+]

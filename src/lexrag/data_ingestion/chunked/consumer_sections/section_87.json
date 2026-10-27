@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "consumer_section_87_chunk_0",
+    "section_id": "consumer_section_87",
+    "token_count": 318,
+    "text": "[Act: consumer\n Chapter: Product Liability\n Section: 87::Exceptions to product liability action.\n]\n\n\n(1) A product liability action cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified.\n(2) In any product liability action based on the failure to provide adequate warnings or instructions, the product manufacturer shall not be liable, if—\n(a) the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer;\n(b) the product was sold as a component or material to be used in another product and necessary warnings or instructions were given by the product manufacturer to the purchaser of such component or material, but the harm was caused to the complainant by use of the end product in which such component or material was used;\n(c) the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts; or\n(d) the complainant, while using such product, was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner.\n(3) A product manufacturer shall not be liable for failure to instruct or warn about a danger which is obvious or commonly known to the user or consumer of such product or which, such user or consumer, ought to have known, taking into account the characteristics of such product.",
+    "metadata": {
+      "chunk_id": "consumer_section_87_chunk_0",
+      "section_id": "consumer_section_87",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "consumer",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Product Liability",
+      "section_number": "87",
+      "section_title": "Exceptions to product liability action."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-61.html",
+    "source_order": 61,
+    "article_order": 1,
+    "order": 61,
+    "stem": "section_61",
+    "heading_number": "Chapter VI",
+    "heading_title": "Suits for Breach of the Contract",
+    "heading_range": "ss. 55–61",
+    "heading_source": "manifest",
+    "article_number": "61",
+    "article_title": "Interest by way of damages and special damages.",
+    "id": "sale-of-goods_section_61"
+  },
+  "id": "sale-of-goods_section_61",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Suits for Breach of the Contract",
+    "range": "ss. 55–61"
+  },
+  "article": {
+    "number": "61",
+    "title": "Interest by way of damages and special damages.",
+    "content": "(1) Nothing in this Act shall affect the right of the seller or the buyer to recover interest or special damages in any case where by law interest or special damages may be recoverable, or to recover the money paid where the consideration for the payment of it has failed.\n(2) In the absence of a contract to the contrary, the Court may award interest at such rate as it thinks fit on the amount of the price—\n(a) to the seller in a suit by him for the amount of the price— from the date of the tender of the goods or from the date on which the price was payable;\n(b) to the buyer in a suit by him for the refund of the price in a case of a breach of the contract on the part of the seller—from the date on which the payment was made.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">61</span>Interest by way of damages and special damages.</h3></div><p class=\"prov-cite\">Section 61  ·  Chapter VI  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Nothing in this Act shall affect the right of the seller or the buyer to recover interest or special damages in any case where by law interest or special damages may be recoverable, or to recover the money paid where the consideration for the payment of it has failed.</p><p class=\"lvl\">(2) In the absence of a contract to the contrary, the Court may award interest at such rate as it thinks fit on the amount of the price—</p><p class=\"lvl\">(a) to the seller in a suit by him for the amount of the price— from the date of the tender of the goods or from the date on which the price was payable;</p><p class=\"lvl\">(b) to the buyer in a suit by him for the refund of the price in a case of a breach of the contract on the part of the seller—from the date on which the payment was made.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">61</span>Interest by way of damages and special damages.</h3></div><p class=\"prov-cite\">Section 61  ·  Chapter VI  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Nothing in this Act shall affect the right of the seller or the buyer to recover interest or special damages in any case where by law interest or special damages may be recoverable, or to recover the money paid where the consideration for the payment of it has failed.</p><p class=\"lvl\">(2) In the absence of a contract to the contrary, the Court may award interest at such rate as it thinks fit on the amount of the price—</p><p class=\"lvl\">(a) to the seller in a suit by him for the amount of the price— from the date of the tender of the goods or from the date on which the price was payable;</p><p class=\"lvl\">(b) to the buyer in a suit by him for the refund of the price in a case of a breach of the contract on the part of the seller—from the date on which the payment was made.</p></div>"
+  }
+}

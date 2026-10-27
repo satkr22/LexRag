@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_156_chunk_0",
+    "section_id": "income-tax-1961_section_156",
+    "token_count": 361,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 156::Notice of demand.\n]\n\n\n(1) When any tax, interest, penalty, fine or any other sum is payable in consequence of any order passed under this Act, the Assessing Officer shall serve upon the assessee a notice of demand in the prescribed form specifying the sum so payable :\nProvided that where any sum is determined to be payable by the assessee or the deductor or the collector under sub-section (1) of section 143 or sub-section (1) of section 200A or sub-section (1) of section 206CB, the intimation under those sub-sections shall be deemed to be a notice of demand for the purposes of this section.\n(2) Where the income of the assessee of any assessment year, beginning on or after the 1st day of April, 2021, includes income of the nature specified in clause (vi) of sub-section (2) of section 17 and such specified security or sweat equity shares referred to in the said clause are allotted or transferred directly or indirectly by the current employer, being an eligible start-up referred to in section 80-IAC, the tax or interest on such income included in the notice of demand referred to in sub-section (1) shall be payable by the assessee within fourteen days—\n(i) after the expiry of forty-eight months from the end of the relevant assessment year; or\n(ii) from the date of the sale of such specified security or sweat equity share by the assessee; or\n(iii) from the date of the assessee ceasing to be the employee of the employer who allotted or transferred him such specified security or sweat equity share, whichever is the earliest.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_156_chunk_0",
+      "section_id": "income-tax-1961_section_156",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "156",
+      "section_title": "Notice of demand."
+    }
+  }
+]

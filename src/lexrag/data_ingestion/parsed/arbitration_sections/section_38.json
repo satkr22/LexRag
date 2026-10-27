@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-38.html",
+    "source_order": 47,
+    "article_order": 1,
+    "order": 47,
+    "stem": "section_38",
+    "heading_number": "Part I · Chapter X",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 38–43",
+    "heading_source": "manifest",
+    "article_number": "38",
+    "article_title": "Deposits.",
+    "id": "arbitration_section_38"
+  },
+  "id": "arbitration_section_38",
+  "heading": {
+    "number": "Part I · Chapter X",
+    "title": "Miscellaneous",
+    "range": "ss. 38–43"
+  },
+  "article": {
+    "number": "38",
+    "title": "Deposits.",
+    "content": "(1) The arbitral tribunal may fix the amount of the deposit or supplementary deposit, as the case may be, as an advance for the costs referred to in sub-section (8) of section 31, which it expects will be incurred in respect of the claim submitted to it:\nProvided that where, apart from the claim, a counter-claim has been submitted to the arbitral tribunal, it may fix separate amount of deposit for the claim and counter-claim.\n(2) The deposit referred to in sub-section (1) shall be payable in equal shares by the parties:\nProvided that where one party fails to pay his share of the deposit, the other party may pay that share:\nProvided further that where the other party also does not pay the aforesaid share in respect of the claim or the counter-claim, the arbitral tribunal may suspend or terminate the arbitral proceedings in respect of such claim or counter-claim, as the case may be.\n(3) Upon termination of the arbitral proceedings, the arbitral tribunal shall render an accounting to the parties of the deposits received and shall return any unexpended balance to the party or parties, as the case may be.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>Deposits.</h3></div><p class=\"prov-cite\">Section 38  ·  Part I · Chapter X  ·  page 26 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The arbitral tribunal may fix the amount of the deposit or supplementary deposit, as the case may be, as an advance for the costs referred to in sub-section (8) of section 31, which it expects will be incurred in respect of the claim submitted to it:</p><p class=\"prvso\">Provided that where, apart from the claim, a counter-claim has been submitted to the arbitral tribunal, it may fix separate amount of deposit for the claim and counter-claim.</p><p class=\"lvl\">(2) The deposit referred to in sub-section (1) shall be payable in equal shares by the parties:</p><p class=\"prvso\">Provided that where one party fails to pay his share of the deposit, the other party may pay that share:</p><p class=\"prvso\">Provided further that where the other party also does not pay the aforesaid share in respect of the claim or the counter-claim, the arbitral tribunal may suspend or terminate the arbitral proceedings in respect of such claim or counter-claim, as the case may be.</p><p class=\"lvl\">(3) Upon termination of the arbitral proceedings, the arbitral tribunal shall render an accounting to the parties of the deposits received and shall return any unexpended balance to the party or parties, as the case may be.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>Deposits.</h3></div><p class=\"prov-cite\">Section 38  ·  Part I · Chapter X  ·  page 26 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The arbitral tribunal may fix the amount of the deposit or supplementary deposit, as the case may be, as an advance for the costs referred to in sub-section (8) of section 31, which it expects will be incurred in respect of the claim submitted to it:</p><p class=\"prvso\">Provided that where, apart from the claim, a counter-claim has been submitted to the arbitral tribunal, it may fix separate amount of deposit for the claim and counter-claim.</p><p class=\"lvl\">(2) The deposit referred to in sub-section (1) shall be payable in equal shares by the parties:</p><p class=\"prvso\">Provided that where one party fails to pay his share of the deposit, the other party may pay that share:</p><p class=\"prvso\">Provided further that where the other party also does not pay the aforesaid share in respect of the claim or the counter-claim, the arbitral tribunal may suspend or terminate the arbitral proceedings in respect of such claim or counter-claim, as the case may be.</p><p class=\"lvl\">(3) Upon termination of the arbitral proceedings, the arbitral tribunal shall render an accounting to the parties of the deposits received and shall return any unexpended balance to the party or parties, as the case may be.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-06.html",
+    "source_order": 6,
+    "article_order": 11,
+    "order": 115,
+    "stem": "section_107",
+    "heading_number": "Chapter VI",
+    "heading_title": "Special Provisions Relating to State Transport Undertakings",
+    "heading_range": "ss. 97–108",
+    "heading_source": "group-head",
+    "article_number": "107",
+    "article_title": "Power of State Government to make rules.",
+    "id": "motor-vehicles_section_107"
+  },
+  "id": "motor-vehicles_section_107",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Special Provisions Relating to State Transport Undertakings",
+    "range": "ss. 97–108"
+  },
+  "article": {
+    "number": "107",
+    "title": "Power of State Government to make rules.",
+    "content": "(1) The State Government may make rules for the purpose of carrying into effect the provisions of this Chapter.\n(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—\n(a) the form in which any proposal regarding a scheme may be published under section 99;\n(b) the manner in which objections may be filed under sub-section (1) of section 100;\n(c) the manner in which objections may be considered and disposed of under sub-section (2) of section 100;\n(d) the form in which any approved scheme may be published under sub-section (3) of section 100;\n(e) the manner in which application under sub-section (1) of section 103 may be made;\n(f) the period within which the owner may claim any article found left in any transport vehicle under section 106 and the manner of sale of such article;\n(g) the manner of service of orders under this Chapter;\n(h) any other matter which has to be, or may be, prescribed.\n",
+    "html": "<article class=\"provision\" data-n=\"107\" data-report=\"Section 107 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">107</span>Power of State Government to make rules.</h3></div><p class=\"prov-cite\">Section 107  ·  Chapter VI  ·  page 72 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government may make rules for the purpose of carrying into effect the provisions of this Chapter.</p><p class=\"lvl\">(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</p><p class=\"lvl\">(a) the form in which any proposal regarding a scheme may be published under section 99;</p><p class=\"lvl\">(b) the manner in which objections may be filed under sub-section (1) of section 100;</p><p class=\"lvl\">(c) the manner in which objections may be considered and disposed of under sub-section (2) of section 100;</p><p class=\"lvl\">(d) the form in which any approved scheme may be published under sub-section (3) of section 100;</p><p class=\"lvl\">(e) the manner in which application under sub-section (1) of section 103 may be made;</p><p class=\"lvl\">(f) the period within which the owner may claim any article found left in any transport vehicle under section 106 and the manner of sale of such article;</p><p class=\"lvl\">(g) the manner of service of orders under this Chapter;</p><p class=\"lvl\">(h) any other matter which has to be, or may be, prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">107</span>Power of State Government to make rules.</h3></div><p class=\"prov-cite\">Section 107  ·  Chapter VI  ·  page 72 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government may make rules for the purpose of carrying into effect the provisions of this Chapter.</p><p class=\"lvl\">(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</p><p class=\"lvl\">(a) the form in which any proposal regarding a scheme may be published under section 99;</p><p class=\"lvl\">(b) the manner in which objections may be filed under sub-section (1) of section 100;</p><p class=\"lvl\">(c) the manner in which objections may be considered and disposed of under sub-section (2) of section 100;</p><p class=\"lvl\">(d) the form in which any approved scheme may be published under sub-section (3) of section 100;</p><p class=\"lvl\">(e) the manner in which application under sub-section (1) of section 103 may be made;</p><p class=\"lvl\">(f) the period within which the owner may claim any article found left in any transport vehicle under section 106 and the manner of sale of such article;</p><p class=\"lvl\">(g) the manner of service of orders under this Chapter;</p><p class=\"lvl\">(h) any other matter which has to be, or may be, prescribed.</p></div>"
+  }
+}

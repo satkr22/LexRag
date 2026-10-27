@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_20_chunk_0",
+    "section_id": "constitution_section_20",
+    "token_count": 123,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 20::Protection in respect of conviction for offences\n]\n\n\n(1)No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence.\n(2)No person shall be prosecuted and punished for the same offence more than once.\n(3)No person accused of any offence shall be compelled to be a witness against himself.",
+    "metadata": {
+      "chunk_id": "constitution_section_20_chunk_0",
+      "section_id": "constitution_section_20",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "20",
+      "section_title": "Protection in respect of conviction for offences"
+    }
+  }
+]

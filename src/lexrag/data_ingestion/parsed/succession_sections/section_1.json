@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-01.html",
+    "source_order": 1,
+    "article_order": 1,
+    "order": 1,
+    "stem": "section_1",
+    "heading_number": "Part I",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–3",
+    "heading_source": "group-head",
+    "article_number": "1",
+    "article_title": "Short title.",
+    "id": "succession_section_1"
+  },
+  "id": "succession_section_1",
+  "heading": {
+    "number": "Part I",
+    "title": "Preliminary",
+    "range": "ss. 1–3"
+  },
+  "article": {
+    "number": "1",
+    "title": "Short title.",
+    "content": "This Act may be called the Indian Succession Act, 1925.\nNote: footnote 1 on page 17 is printed against the Act number and records the territories the Act has been extended to; footnote 2 is the omission marked 2*** in the long title and in the preamble.\n",
+    "html": "<article class=\"provision\" data-n=\"1\" data-report=\"Section 1 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title.</h3></div><p class=\"prov-cite\">Section 1  ·  Part I  ·  page 17 of the Act</p><div class=\"prov-body\"><p>This Act may be called the Indian Succession Act, 1925.</p><p class=\"snote\">Note: footnote 1 on page 17 is printed against the Act number and records the territories the Act has been extended to; footnote 2 is the omission marked 2*** in the long title and in the preamble.</p><div class=\"fnotes shown\"><p class=\"fn loose\">The Act has been extended to Berar by the Berar Laws Act, 1941 (4 of 1941), to Manipur by the Union Territories (Laws) Amendment Act, 1956 (68 of 1956) and to Dadra and Nagar Haveli (w.e.f. 1-7-1965) by Reg. 6 of 1963, s. 2 and Sch. I.</p><p class=\"fn loose\">The words “in the Provinces of India” omitted by the A.O. 1950.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title.</h3></div><p class=\"prov-cite\">Section 1  ·  Part I  ·  page 17 of the Act</p><div class=\"prov-body\"><p>This Act may be called the Indian Succession Act, 1925.</p><p class=\"snote\">Note: footnote 1 on page 17 is printed against the Act number and records the territories the Act has been extended to; footnote 2 is the omission marked 2*** in the long title and in the preamble.</p><div class=\"fnotes shown\"><p class=\"fn loose\">The Act has been extended to Berar by the Berar Laws Act, 1941 (4 of 1941), to Manipur by the Union Territories (Laws) Amendment Act, 1956 (68 of 1956) and to Dadra and Nagar Haveli (w.e.f. 1-7-1965) by Reg. 6 of 1963, s. 2 and Sch. I.</p><p class=\"fn loose\">The words “in the Provinces of India” omitted by the A.O. 1950.</p></div></div>"
+  }
+}

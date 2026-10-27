@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-03.html",
+    "source_order": 3,
+    "article_order": 3,
+    "order": 41,
+    "stem": "section_38",
+    "heading_number": "Part Ii",
+    "heading_title": "Execution",
+    "heading_range": "ss. 36–74",
+    "heading_source": "group-head",
+    "article_number": "38",
+    "article_title": "Court by which decree may be executed.",
+    "id": "cpc_section_38"
+  },
+  "id": "cpc_section_38",
+  "heading": {
+    "number": "Part Ii",
+    "title": "Execution",
+    "range": "ss. 36–74"
+  },
+  "article": {
+    "number": "38",
+    "title": "Court by which decree may be executed.",
+    "content": "Courts by which decrees may be executed\nA decree may be executed either by the Court which passed it, or by the Court to which it is sent for execution.\n",
+    "html": "<article class=\"provision\" data-n=\"38\" data-report=\"Section 38 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>Court by which decree may be executed.</h3></div><p class=\"prov-cite\">Section 38</p><div class=\"prov-body\"><p class=\"sched-title\">Courts by which decrees may be executed</p><p>A decree may be executed either by the Court which passed it, or by the Court to which it is sent for execution.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>Court by which decree may be executed.</h3></div><p class=\"prov-cite\">Section 38</p><div class=\"prov-body\"><p class=\"sched-title\">Courts by which decrees may be executed</p><p>A decree may be executed either by the Court which passed it, or by the Court to which it is sent for execution.</p></div>"
+  }
+}

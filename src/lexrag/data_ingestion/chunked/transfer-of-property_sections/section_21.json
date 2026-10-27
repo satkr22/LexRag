@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_21_chunk_0",
+    "section_id": "transfer-of-property_section_21",
+    "token_count": 188,
+    "text": "[Act: transfer-of-property\n Chapter: Of Transfers of Property by Act of Parties1\n Section: 21::Contingent interest.\n]\n\n\nWhere, on a transfer of property, an interest therein is created in favour of a person to take effect only on the happening of a specified uncertain event, or if a specified uncertain event shall not happen, such person thereby acquires a contingent interest in the property. Such interest becomes a vested interest, in the former case, on the happening of the event, in the latter, when the happening of the event becomes impossible.\nException.—Where, under a transfer of property, a person becomes entitled to an interest therein upon attaining a particular age, and the transferor also gives to him absolutely the income to arise from such interest before he reaches that age, or directs the income or so much thereof as may be necessary to be applied for his benefit, such interest is not contingent.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_21_chunk_0",
+      "section_id": "transfer-of-property_section_21",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Transfers of Property by Act of Parties1",
+      "section_number": "21",
+      "section_title": "Contingent interest."
+    }
+  }
+]

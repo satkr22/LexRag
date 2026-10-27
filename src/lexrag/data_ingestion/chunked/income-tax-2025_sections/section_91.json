@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_91_chunk_0",
+    "section_id": "income-tax-2025_section_91",
+    "token_count": 227,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 91::Reference to Valuation Officer.\n]\n\n\n(1) For ascertaining the fair market value of a capital asset for this Chapter, the Assessing Officer may refer the valuation of the capital asset to a Valuation Officer,—\n(a) if the value of the asset claimed by the assessee is as per the estimate by a registered valuer, but the Assessing Officer is of the opinion that the value so claimed is at variance with its fair market value;\n(b) in any other case, if the Assessing Officer is of the opinion that—\n(i) the fair market value of the asset exceeds the value claimed by the assessee by more than the percentage of value of such asset or amount, as may be prescribed; or\n(ii) having regard to the nature of the asset and other relevant circumstances, it is necessary so to do.\n(2) The provisions of section 269(3) to (8) shall, with necessary modifications, apply in relation to such reference made under sub-section (1).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_91_chunk_0",
+      "section_id": "income-tax-2025_section_91",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "91",
+      "section_title": "Reference to Valuation Officer."
+    }
+  }
+]

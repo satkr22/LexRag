@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-05.html",
+    "source_order": 5,
+    "article_order": 21,
+    "order": 83,
+    "stem": "section_83",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Offences Against Woman and Child",
+    "heading_range": "63 – 99",
+    "heading_source": "group-head",
+    "article_number": "83",
+    "article_title": "Marriage ceremony fraudulently gone through without lawful marriage",
+    "id": "bns_section_83"
+  },
+  "id": "bns_section_83",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Offences Against Woman and Child",
+    "range": "63 – 99"
+  },
+  "article": {
+    "number": "83",
+    "title": "Marriage ceremony fraudulently gone through without lawful marriage",
+    "content": "Whoever, dishonestly or with a fraudulent intention, goes through the ceremony of being married, knowing that he is not thereby lawfully married, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n",
+    "html": "<article class=\"provision\" data-n=\"83\" data-report=\"Section 83 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">83</span>Marriage ceremony fraudulently gone through without lawful marriage</h3></div><p class=\"prov-cite\">Section 83 · Chapter V · Of offences relating to marriage</p><div class=\"prov-body\"><p>Whoever, dishonestly or with a fraudulent intention, goes through the ceremony of being married, knowing that he is not thereby lawfully married, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">83</span>Marriage ceremony fraudulently gone through without lawful marriage</h3></div><p class=\"prov-cite\">Section 83 · Chapter V · Of offences relating to marriage</p><div class=\"prov-body\"><p>Whoever, dishonestly or with a fraudulent intention, goes through the ceremony of being married, knowing that he is not thereby lawfully married, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.</p></div>"
+  }
+}

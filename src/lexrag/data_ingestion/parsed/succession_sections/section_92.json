@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-13.html",
+    "source_order": 13,
+    "article_order": 19,
+    "order": 92,
+    "stem": "section_92",
+    "heading_number": "Part VI · Chapter VI",
+    "heading_title": "Of the construction of Wills",
+    "heading_range": "ss. 74–111",
+    "heading_source": "group-head",
+    "article_number": "92",
+    "article_title": "Implied gift to objects of power in default of appointment.",
+    "id": "succession_section_92"
+  },
+  "id": "succession_section_92",
+  "heading": {
+    "number": "Part VI · Chapter VI",
+    "title": "Of the construction of Wills",
+    "range": "ss. 74–111"
+  },
+  "article": {
+    "number": "92",
+    "title": "Implied gift to objects of power in default of appointment.",
+    "content": "Where property is bequeathed to or for the benefit of certain objects as a specified person may appoint or for the benefit of certain objects in such proportions as a specified person may appoint, and the will does not provide for the event of no appointment being made; if the power given by the will is not exercised, the property belongs to all the objects of the power in equal shares.\nIllustration\nA, by his will bequeaths a fund to his wife, for her life, and directs that at her death it shall be divided among his children in such proportions as she shall appoint. The widow dies without having made any appointment. The fund will be divided equally among the children.\n",
+    "html": "<article class=\"provision\" data-n=\"92\" data-report=\"Section 92 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>Implied gift to objects of power in default of appointment.</h3></div><p class=\"prov-cite\">Section 92  ·  Part VI · Chapter VI  ·  page 35 of the Act</p><div class=\"prov-body\"><p>Where property is bequeathed to or for the benefit of certain objects as a specified person may appoint or for the benefit of certain objects in such proportions as a specified person may appoint, and the will does not provide for the event of no appointment being made; if the power given by the will is not exercised, the property belongs to all the objects of the power in equal shares.</p><p>Illustration</p><p>A, by his will bequeaths a fund to his wife, for her life, and directs that at her death it shall be divided among his children in such proportions as she shall appoint. The widow dies without having made any appointment. The fund will be divided equally among the children.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>Implied gift to objects of power in default of appointment.</h3></div><p class=\"prov-cite\">Section 92  ·  Part VI · Chapter VI  ·  page 35 of the Act</p><div class=\"prov-body\"><p>Where property is bequeathed to or for the benefit of certain objects as a specified person may appoint or for the benefit of certain objects in such proportions as a specified person may appoint, and the will does not provide for the event of no appointment being made; if the power given by the will is not exercised, the property belongs to all the objects of the power in equal shares.</p><p>Illustration</p><p>A, by his will bequeaths a fund to his wife, for her life, and directs that at her death it shall be divided among his children in such proportions as she shall appoint. The widow dies without having made any appointment. The fund will be divided equally among the children.</p></div>"
+  }
+}

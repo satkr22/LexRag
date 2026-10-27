@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_194A_chunk_0",
+    "section_id": "motor-vehicles_section_194A",
+    "token_count": 118,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 194A::Carriage of excess passengers.\n]\n\n\nWhoever drives a transport vehicle or causes or allows a transport vehicle to be driven while carrying more passengers than is authorised in the registration certificate of such transport vehicle or the permit conditions applicable to such transport vehicle shall be 4[liable for a penalty] of two hundred rupees per excess passenger:\nProvided that such transport vehicle shall not be allowed to move before the excess passengers are off-loaded and an alternative transport is arranged for such passengers.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_194A_chunk_0",
+      "section_id": "motor-vehicles_section_194A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "194A",
+      "section_title": "Carriage of excess passengers."
+    }
+  }
+]

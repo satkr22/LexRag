@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-34.html",
+    "source_order": 34,
+    "article_order": 5,
+    "order": 222,
+    "stem": "section_222",
+    "heading_number": "Part IX · Chapter I",
+    "heading_title": "Of Grant of Probate and Letters of Administration",
+    "heading_range": "ss. 218–236A",
+    "heading_source": "group-head",
+    "article_number": "222",
+    "article_title": "Probate only to appointed executor.",
+    "id": "succession_section_222"
+  },
+  "id": "succession_section_222",
+  "heading": {
+    "number": "Part IX · Chapter I",
+    "title": "Of Grant of Probate and Letters of Administration",
+    "range": "ss. 218–236A"
+  },
+  "article": {
+    "number": "222",
+    "title": "Probate only to appointed executor.",
+    "content": "(1) Probate shall be granted only to an executor appointed by the will.\n(2) The appointment may be expressed or by necessary implication.\nIllustrations\n(i) A wills that C be his executor if B will not. B is appointed executor by implication.\n(ii) A gives a legacy to B and several legacies to other persons, among the rest to his daughter-in-law C, and adds “but should the within-named C be not living I do constitute and appoint B my whole and sole executrix”. C is appointed executrix by implication.\n(iii) A appoints several persons executors of his will and codicils and his nephew residuary legatee, and in another codicil are these words,—“I appoint my nephew my residuary legatee to discharge all lawful demands against my will and codicils signed of different dates”. The nephew is appointed an executor by implication.\n",
+    "html": "<article class=\"provision\" data-n=\"222\" data-report=\"Section 222 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">222</span>Probate only to appointed executor.</h3></div><p class=\"prov-cite\">Section 222  ·  Part IX · Chapter I  ·  page 70 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Probate shall be granted only to an executor appointed by the will.</p><p class=\"lvl\">(2) The appointment may be expressed or by necessary implication.</p><p>Illustrations</p><p class=\"lvl\">(i) A wills that C be his executor if B will not. B is appointed executor by implication.</p><p class=\"lvl\">(ii) A gives a legacy to B and several legacies to other persons, among the rest to his daughter-in-law C, and adds “but should the within-named C be not living I do constitute and appoint B my whole and sole executrix”. C is appointed executrix by implication.</p><p class=\"lvl\">(iii) A appoints several persons executors of his will and codicils and his nephew residuary legatee, and in another codicil are these words,—“I appoint my nephew my residuary legatee to discharge all lawful demands against my will and codicils signed of different dates”. The nephew is appointed an executor by implication.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">222</span>Probate only to appointed executor.</h3></div><p class=\"prov-cite\">Section 222  ·  Part IX · Chapter I  ·  page 70 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Probate shall be granted only to an executor appointed by the will.</p><p class=\"lvl\">(2) The appointment may be expressed or by necessary implication.</p><p>Illustrations</p><p class=\"lvl\">(i) A wills that C be his executor if B will not. B is appointed executor by implication.</p><p class=\"lvl\">(ii) A gives a legacy to B and several legacies to other persons, among the rest to his daughter-in-law C, and adds “but should the within-named C be not living I do constitute and appoint B my whole and sole executrix”. C is appointed executrix by implication.</p><p class=\"lvl\">(iii) A appoints several persons executors of his will and codicils and his nephew residuary legatee, and in another codicil are these words,—“I appoint my nephew my residuary legatee to discharge all lawful demands against my will and codicils signed of different dates”. The nephew is appointed an executor by implication.</p></div>"
+  }
+}

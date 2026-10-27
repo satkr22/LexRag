@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-04b.html",
+    "source_order": 6,
+    "article_order": 34,
+    "order": 114,
+    "stem": "section_46A",
+    "heading_number": "Chapter IV",
+    "heading_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "heading_range": "ss. 14–59",
+    "heading_source": "group-head",
+    "article_number": "46A",
+    "article_title": "Capital gains on purchase by company of its own shares or other specified securities.",
+    "id": "income-tax-1961_section_46A"
+  },
+  "id": "income-tax-1961_section_46A",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "range": "ss. 14–59"
+  },
+  "article": {
+    "number": "46A",
+    "title": "Capital gains on purchase by company of its own shares or other specified securities.",
+    "content": "Where a shareholder or a holder of other specified securities receives any consideration from any company for purchase of its own shares or other specified securities held by such shareholder or holder of other specified securities, then, subject to the provisions of section 48, the difference between the cost of acquisition and the value of consideration received by the shareholder or the holder of other specified securities, as the case may be, shall be deemed to be the capital gains arising to such shareholder or the holder of other specified securities, as the case may be, in the year in which such shares or other specified securities were purchased by the company:\n70[Provided that where the shareholder receives any consideration of the nature referred to in sub-clause (f) of clause (22) of section 2 from any company, in respect of any buy-back of shares, that takes place on or after the 1st day of October, 2024, then for the purposes of this section, the value of consideration received by the shareholder shall be deemed to be nil.]\nExplanation.—For the purposes of this section, \"specified securities\" shall have the meaning assigned to it in Explanation to section 77A of the Companies Act, 1956 (1 of 1956).\n",
+    "html": "<article class=\"provision\" data-n=\"46A\" data-report=\"Section 46A · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46A</span>Capital gains on purchase by company of its own shares or other specified securities.</h3></div><p class=\"prov-cite\">Section 46A  ·  Chapter IV  ·  E.—Capital gains  ·  page 195 of the Act</p><div class=\"prov-body\"><p>Where a shareholder or a holder of other specified securities receives any consideration from any company for purchase of its own shares or other specified securities held by such shareholder or holder of other specified securities, then, subject to the provisions of section 48, the difference between the cost of acquisition and the value of consideration received by the shareholder or the holder of other specified securities, as the case may be, shall be deemed to be the capital gains arising to such shareholder or the holder of other specified securities, as the case may be, in the year in which such shares or other specified securities were purchased by the company:</p><p class=\"prvso\"><sup>70</sup>[Provided that where the shareholder receives any consideration of the nature referred to in sub-clause (f) of clause (22) of section 2 from any company, in respect of any buy-back of shares, that takes place on or after the 1st day of October, 2024, then for the purposes of this section, the value of consideration received by the shareholder shall be deemed to be nil.]</p><p class=\"prvso\">Explanation.—For the purposes of this section, \"specified securities\" shall have the meaning assigned to it in Explanation to section 77A of the Companies Act, 1956 (1 of 1956).</p><div class=\"fnotes\"><p class=\"fn\"><sup>70</sup> Ins. by Act No. 15 of 2024, w.e.f. 1-10-2024.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46A</span>Capital gains on purchase by company of its own shares or other specified securities.</h3></div><p class=\"prov-cite\">Section 46A  ·  Chapter IV  ·  E.—Capital gains  ·  page 195 of the Act</p><div class=\"prov-body\"><p>Where a shareholder or a holder of other specified securities receives any consideration from any company for purchase of its own shares or other specified securities held by such shareholder or holder of other specified securities, then, subject to the provisions of section 48, the difference between the cost of acquisition and the value of consideration received by the shareholder or the holder of other specified securities, as the case may be, shall be deemed to be the capital gains arising to such shareholder or the holder of other specified securities, as the case may be, in the year in which such shares or other specified securities were purchased by the company:</p><p class=\"prvso\"><sup>70</sup>[Provided that where the shareholder receives any consideration of the nature referred to in sub-clause (f) of clause (22) of section 2 from any company, in respect of any buy-back of shares, that takes place on or after the 1st day of October, 2024, then for the purposes of this section, the value of consideration received by the shareholder shall be deemed to be nil.]</p><p class=\"prvso\">Explanation.—For the purposes of this section, \"specified securities\" shall have the meaning assigned to it in Explanation to section 77A of the Companies Act, 1956 (1 of 1956).</p><div class=\"fnotes\"><p class=\"fn\"><sup>70</sup> Ins. by Act No. 15 of 2024, w.e.f. 1-10-2024.</p></div></div>"
+  }
+}

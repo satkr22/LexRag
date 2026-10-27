@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-45.html",
+    "source_order": 50,
+    "article_order": 14,
+    "order": 763,
+    "stem": "section_269M",
+    "heading_number": "Chapter XX-A",
+    "heading_title": null,
+    "heading_range": "ss. 269A–269S",
+    "heading_source": "group-head",
+    "article_number": "269M",
+    "article_title": "Powers of competent authority.",
+    "id": "income-tax-1961_section_269M"
+  },
+  "id": "income-tax-1961_section_269M",
+  "heading": {
+    "number": "Chapter XX-A",
+    "title": null,
+    "range": "ss. 269A–269S"
+  },
+  "article": {
+    "number": "269M",
+    "title": "Powers of competent authority.",
+    "content": "The competent authority shall have, for the purposes of this Chapter, all the powers that a Principal Commissioner or Commissioner has, for the purposes of this Act, under section 131.\n",
+    "html": "<article class=\"provision\" data-n=\"269M\" data-report=\"Section 269M · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">269M</span>Powers of competent authority.</h3></div><p class=\"prov-cite\">Section 269M  ·  Chapter XX-A  ·  page 925 of the Act</p><div class=\"prov-body\"><p>The competent authority shall have, for the purposes of this Chapter, all the powers that a Principal Commissioner or Commissioner has, for the purposes of this Act, under section 131.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">269M</span>Powers of competent authority.</h3></div><p class=\"prov-cite\">Section 269M  ·  Chapter XX-A  ·  page 925 of the Act</p><div class=\"prov-body\"><p>The competent authority shall have, for the purposes of this Chapter, all the powers that a Principal Commissioner or Commissioner has, for the purposes of this Act, under section 131.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "insolvency_section_8_chunk_0",
+    "section_id": "insolvency_section_8",
+    "token_count": 274,
+    "text": "[Act: insolvency\n Chapter: Corporate Insolvency Resolution Process\n Section: 8::Insolvency resolution by operational creditor.\n]\n\n\n(1) An operational creditor may, on the occurrence of a default, deliver a demand notice of unpaid operational debtor copy of an invoice demanding payment of the amount involved in the default to the corporate debtor in such form and manner as may be prescribed.\n(2) The corporate debtor shall, within a period of ten days of the receipt of the demand notice or copy of the invoice mentioned in sub-section (1) bring to the notice of the operational creditor—\n(a) existence of a dispute, 1[if any, or] record of the pendency of the suit or arbitration proceedings filed before the receipt of such notice or invoice in relation to such dispute;\n(b) the 2[payment] of unpaid operational debt—\n(i) by sending an attested copy of the record of electronic transfer of the unpaid amount from the bank account of the corporate debtor; or\n(ii) by sending an attested copy of record that the operational creditor has encashed a cheque issued by the corporate debtor.\nExplanation.—For the purposes of this section, a “demand notice” means a notice served by an operational creditor to the corporate debtor demanding 2[payment] of the operational debt in respect of which the default has occurred.",
+    "metadata": {
+      "chunk_id": "insolvency_section_8_chunk_0",
+      "section_id": "insolvency_section_8",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter II",
+      "chapter_title": "Corporate Insolvency Resolution Process",
+      "section_number": "8",
+      "section_title": "Insolvency resolution by operational creditor."
+    }
+  }
+]

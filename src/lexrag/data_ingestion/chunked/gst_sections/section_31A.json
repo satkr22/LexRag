@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_31A_chunk_0",
+    "section_id": "gst_section_31A",
+    "token_count": 97,
+    "text": "[Act: gst\n Chapter: Tax Invoice, Credit and Debit Notes\n Section: 31A::Facility of digital payment to recipient.\n]\n\n\nThe Government may, on the recommendations of the Council, prescribe a class of registered persons who shall provide prescribed modes of electronic payment to the recipient of supply of goods or services or both made by him and give option to such recipient to make payment accordingly, in such manner and subject to such conditions and restrictions, as may be prescribed.]",
+    "metadata": {
+      "chunk_id": "gst_section_31A_chunk_0",
+      "section_id": "gst_section_31A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Tax Invoice, Credit and Debit Notes",
+      "section_number": "31A",
+      "section_title": "Facility of digital payment to recipient."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 2,
+    "order": 65,
+    "stem": "section_53",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "53",
+    "article_title": "Executive power of the Union",
+    "id": "constitution_section_53"
+  },
+  "id": "constitution_section_53",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "53",
+    "title": "Executive power of the Union",
+    "content": "(1)The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with this Constitution.\n(2)Without prejudice to the generality of the foregoing provision, the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.\n(3)Nothing in this article shall—\n(a)be deemed to transfer to the President any functions conferred by any existing law on the Government of any State or other authority; or\n(b)prevent Parliament from conferring by law functions on authorities other than the President.\n",
+    "html": "<article class=\"provision\" data-n=\"53\" data-report=\"Article 53 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Executive power of the Union</h3></div><p class=\"prov-cite\">Article 53 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with this Constitution.</p><p><span class=\"lbl\">(2)</span>Without prejudice to the generality of the foregoing provision, the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.</p><p><span class=\"lbl\">(3)</span>Nothing in this article shall—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>be deemed to transfer to the President any functions conferred by any existing law on the Government of any State or other authority; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>prevent Parliament from conferring by law functions on authorities other than the President.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Executive power of the Union</h3></div><p class=\"prov-cite\">Article 53 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with this Constitution.</p><p><span class=\"lbl\">(2)</span>Without prejudice to the generality of the foregoing provision, the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.</p><p><span class=\"lbl\">(3)</span>Nothing in this article shall—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>be deemed to transfer to the President any functions conferred by any existing law on the Government of any State or other authority; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>prevent Parliament from conferring by law functions on authorities other than the President.</p></div>"
+  }
+}

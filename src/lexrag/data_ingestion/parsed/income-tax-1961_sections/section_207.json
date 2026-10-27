@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-38a.html",
+    "source_order": 42,
+    "article_order": 72,
+    "order": 629,
+    "stem": "section_207",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 190–234-I",
+    "heading_source": "group-head",
+    "article_number": "207",
+    "article_title": "Liability for payment of advance tax.",
+    "id": "income-tax-1961_section_207"
+  },
+  "id": "income-tax-1961_section_207",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 190–234-I"
+  },
+  "article": {
+    "number": "207",
+    "title": "Liability for payment of advance tax.",
+    "content": "(1) Tax shall be payable in advance during any financial year, in accordance with the provisions of sections 208 to 219 (both inclusive), in respect of the total income of the assessee which would be chargeable to tax for the assessment year immediately following that financial year, such income being hereafter in this Chapter referred to as \"current income\".\n(2) The provisions of sub-section (1) shall not apply to an individual resident in India, who—\n(a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and\n(b) is of the age of sixty years or more at any time during the previous year.\n",
+    "html": "<article class=\"provision\" data-n=\"207\" data-report=\"Section 207 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">207</span>Liability for payment of advance tax.</h3></div><p class=\"prov-cite\">Section 207  ·  Chapter XVII  ·  C.—Advance payment of tax  ·  page 785 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Tax shall be payable in advance during any financial year, in accordance with the provisions of sections 208 to 219 (both inclusive), in respect of the total income of the assessee which would be chargeable to tax for the assessment year immediately following that financial year, such income being hereafter in this Chapter referred to as \"current income\".</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply to an individual resident in India, who—</p><p class=\"lvl\">(a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and</p><p class=\"lvl\">(b) is of the age of sixty years or more at any time during the previous year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">207</span>Liability for payment of advance tax.</h3></div><p class=\"prov-cite\">Section 207  ·  Chapter XVII  ·  C.—Advance payment of tax  ·  page 785 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Tax shall be payable in advance during any financial year, in accordance with the provisions of sections 208 to 219 (both inclusive), in respect of the total income of the assessee which would be chargeable to tax for the assessment year immediately following that financial year, such income being hereafter in this Chapter referred to as \"current income\".</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply to an individual resident in India, who—</p><p class=\"lvl\">(a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and</p><p class=\"lvl\">(b) is of the age of sixty years or more at any time during the previous year.</p></div>"
+  }
+}

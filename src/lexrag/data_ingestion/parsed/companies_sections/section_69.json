@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 27,
+    "order": 71,
+    "stem": "section_69",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "69",
+    "article_title": "Transfer of certain sums to capital redemption reserve account.",
+    "id": "companies_section_69"
+  },
+  "id": "companies_section_69",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "69",
+    "title": "Transfer of certain sums to capital redemption reserve account.",
+    "content": "(1) Where a company purchases its own shares out of free reserves or securities premium account, a sum equal to the nominal value of the shares so purchased shall be transferred to the capital redemption reserve account and details of such transfer shall be disclosed in the balance sheet.\n(2) The capital redemption reserve account may be applied by the company, in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.\n",
+    "html": "<article class=\"provision\" data-n=\"69\" data-report=\"Section 69 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">69</span>Transfer of certain sums to capital redemption reserve account.</h3></div><p class=\"prov-cite\">Section 69  ·  Chapter IV  ·  pages 59–60 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where a company purchases its own shares out of free reserves or securities premium account, a sum equal to the nominal value of the shares so purchased shall be transferred to the capital redemption reserve account and details of such transfer shall be disclosed in the balance sheet.</p><p class=\"lvl\">(2) The capital redemption reserve account may be applied by the company, in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">69</span>Transfer of certain sums to capital redemption reserve account.</h3></div><p class=\"prov-cite\">Section 69  ·  Chapter IV  ·  pages 59–60 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where a company purchases its own shares out of free reserves or securities premium account, a sum equal to the nominal value of the shares so purchased shall be transferred to the capital redemption reserve account and details of such transfer shall be disclosed in the balance sheet.</p><p class=\"lvl\">(2) The capital redemption reserve account may be applied by the company, in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-120.html",
+    "source_order": 120,
+    "article_order": 1,
+    "order": 120,
+    "stem": "schedule-article-120",
+    "heading_number": null,
+    "heading_title": "Third Division · Part I · Applications in Specified Cases",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "120",
+    "article_title": "Ninety days.",
+    "id": "limitation_schedule-article-120"
+  },
+  "id": "limitation_schedule-article-120",
+  "heading": {
+    "number": null,
+    "title": "Third Division · Part I · Applications in Specified Cases",
+    "range": null
+  },
+  "article": {
+    "number": "120",
+    "title": "Ninety days.",
+    "content": "Under the Code of Civil Procedure, 1908 (5 of 1908), to have the legalrepresentative of a deceased plaintiff or appellant or of a deceased defendant or respondent, made a party.\nPeriod of limitationNinety days.\n\nTime from which period begins to runThe date of death of the plaintiff, appellant, defendant or respondent, as the case may be.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>120<span class=\"badge\">Ninety days.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  Third Division—Applications · Part I—Applications in Specified Cases</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">Under the Code of Civil Procedure, 1908 (5 of 1908), to have the legalrepresentative of a deceased plaintiff or appellant or of a deceased defendant or respondent, made a party.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Ninety days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of death of the plaintiff, appellant, defendant or respondent, as the case may be.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>120<span class=\"badge\">Ninety days.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  Third Division—Applications · Part I—Applications in Specified Cases</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">Under the Code of Civil Procedure, 1908 (5 of 1908), to have the legalrepresentative of a deceased plaintiff or appellant or of a deceased defendant or respondent, made a party.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Ninety days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of death of the plaintiff, appellant, defendant or respondent, as the case may be.</p></div></div></div></div>"
+  }
+}

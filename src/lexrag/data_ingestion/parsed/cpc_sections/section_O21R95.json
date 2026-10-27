@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 108,
+    "order": 585,
+    "stem": "section_O21R95",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R95",
+    "article_title": "Delivery of property in occupancy of judgment-debtor",
+    "id": "cpc_section_O21R95"
+  },
+  "id": "cpc_section_O21R95",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R95",
+    "title": "Delivery of property in occupancy of judgment-debtor",
+    "content": "Where the immovable property sold is in the occupancy of the judgment-debtor or of some person on his behalf or of some person claiming under a title created by the judgment-debtor subsequently to the attachment of such property and a certificate in respect thereof has been granted under rule 94, the Court shall, on the application of the purchaser, order delivery to be made by putting such purchaser or any person whom he may appoint to receive delivery on his behalf in possession of the property, and, if need be, by removing any person who refuses to vacate the same.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R95\" data-report=\"Order 21, Rule 95 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">95</span>Delivery of property in occupancy of judgment-debtor</h3></div><p class=\"prov-cite\">Order 21, Rule 95</p><div class=\"prov-body\"><p>Where the immovable property sold is in the occupancy of the judgment-debtor or of some person on his behalf or of some person claiming under a title created by the judgment-debtor subsequently to the attachment of such property and a certificate in respect thereof has been granted under rule 94, the Court shall, on the application of the purchaser, order delivery to be made by putting such purchaser or any person whom he may appoint to receive delivery on his behalf in possession of the property, and, if need be, by removing any person who refuses to vacate the same.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">95</span>Delivery of property in occupancy of judgment-debtor</h3></div><p class=\"prov-cite\">Order 21, Rule 95</p><div class=\"prov-body\"><p>Where the immovable property sold is in the occupancy of the judgment-debtor or of some person on his behalf or of some person claiming under a title created by the judgment-debtor subsequently to the attachment of such property and a certificate in respect thereof has been granted under rule 94, the Court shall, on the application of the purchaser, order delivery to be made by putting such purchaser or any person whom he may appoint to receive delivery on his behalf in possession of the property, and, if need be, by removing any person who refuses to vacate the same.</p></div>"
+  }
+}

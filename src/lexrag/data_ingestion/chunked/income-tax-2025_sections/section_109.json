@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_109_chunk_0",
+    "section_id": "income-tax-2025_section_109",
+    "token_count": 211,
+    "text": "[Act: income-tax-2025\n Chapter: Set Off, or Carry Forward and Set Off of Losses\n Section: 109::Set off of losses under any other head of income.\n]\n\n\n(1) Subject to the provisions of this Chapter, for any tax year, if income computed under any head of income (other than \"Capital gains\") is a loss, such loss shall be set off against income of the assessee under any other head, including \"Capital gains\", if any, assessable for that tax year, subject to the following conditions:—\n(a) loss under the head \"Profits and gains of business or profession\" shall not be set off against income assessable under the head \"Salaries\"; and\n(b) loss under the head \"Income from house property\" shall be set off to the extent of Rs. 200000 against income under any other head.\n(2) For any tax year, the loss under the head \"Capital gains\" shall not be set off against income under any other head.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_109_chunk_0",
+      "section_id": "income-tax-2025_section_109",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Set Off, or Carry Forward and Set Off of Losses",
+      "section_number": "109",
+      "section_title": "Set off of losses under any other head of income."
+    }
+  }
+]

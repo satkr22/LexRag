@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 39,
+    "order": 312,
+    "stem": "section_308",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "308",
+    "article_title": "Commencement of voluntary winding up.",
+    "id": "companies_section_308"
+  },
+  "id": "companies_section_308",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "308",
+    "title": "Commencement of voluntary winding up.",
+    "content": "",
+    "html": "<article class=\"provision dead\" data-n=\"308\" data-report=\"Section 308 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">308</span>Commencement of voluntary winding up.</h3></div><p class=\"repnote\">Omitted by s. 255 and the Eleventh Schedule, ibid. (w.e.f. 15-11-2016).</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">308</span>Commencement of voluntary winding up.</h3></div><p class=\"repnote\">Omitted by s. 255 and the Eleventh Schedule, ibid. (w.e.f. 15-11-2016).</p>"
+  }
+}

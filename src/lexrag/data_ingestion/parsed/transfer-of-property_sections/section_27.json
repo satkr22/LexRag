@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-27.html",
+    "source_order": 27,
+    "article_order": 1,
+    "order": 27,
+    "stem": "section_27",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Transfers of Property by Act of Parties1",
+    "heading_range": "ss. 5–53A",
+    "heading_source": "manifest",
+    "article_number": "27",
+    "article_title": "Conditional transfer to one person coupled with transfer to another on failure of prior disposition.",
+    "id": "transfer-of-property_section_27"
+  },
+  "id": "transfer-of-property_section_27",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Transfers of Property by Act of Parties1",
+    "range": "ss. 5–53A"
+  },
+  "article": {
+    "number": "27",
+    "title": "Conditional transfer to one person coupled with transfer to another on failure of prior disposition.",
+    "content": "Where, on a transfer of property, an interest therein is created in favour of one person, and by the same transaction an ulterior disposition of the same interest is made in favour of another, if the prior disposition under the transfer shall fail, the ulterior disposition shall take effect upon the failure of the prior disposition, although the failure may not have occurred in the manner contemplated by the transferor. But, where the intention of the parties to the transaction is that the ulterior disposition shall take effect only in the event of the prior disposition failing in a particular manner, the ulterior disposition shall not take effect unless the prior disposition fails in that manner.\nIllustrations\n(a) A transfers Rs. 500 to B on condition that he shall execute a certain lease within three months after A’s death, and, if he should neglect to do so, to C. B dies in A's life-time. The disposition in favour of C takes effect.\n(b) A transfers property to his wife; but, in case she should die in his life-time, transfers to B that which he had transferred to her. A and his wife perish together, under circumstances which make it impossible to prove that she died before him. The disposition in favour of B does not take effect.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">27</span>Conditional transfer to one person coupled with transfer to another on failure of prior disposition.</h3></div><p class=\"prov-cite\">Section 27  ·  Chapter II  ·  (A) Transfer of Property, whether moveable or immoveable  ·  page 14 of the Act</p><div class=\"prov-body\"><p>Where, on a transfer of property, an interest therein is created in favour of one person, and by the same transaction an ulterior disposition of the same interest is made in favour of another, if the prior disposition under the transfer shall fail, the ulterior disposition shall take effect upon the failure of the prior disposition, although the failure may not have occurred in the manner contemplated by the transferor. But, where the intention of the parties to the transaction is that the ulterior disposition shall take effect only in the event of the prior disposition failing in a particular manner, the ulterior disposition shall not take effect unless the prior disposition fails in that manner.</p><p>Illustrations</p><p class=\"lvl\">(a) A transfers Rs. 500 to B on condition that he shall execute a certain lease within three months after A’s death, and, if he should neglect to do so, to C. B dies in A's life-time. The disposition in favour of C takes effect.</p><p class=\"lvl\">(b) A transfers property to his wife; but, in case she should die in his life-time, transfers to B that which he had transferred to her. A and his wife perish together, under circumstances which make it impossible to prove that she died before him. The disposition in favour of B does not take effect.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">27</span>Conditional transfer to one person coupled with transfer to another on failure of prior disposition.</h3></div><p class=\"prov-cite\">Section 27  ·  Chapter II  ·  (A) Transfer of Property, whether moveable or immoveable  ·  page 14 of the Act</p><div class=\"prov-body\"><p>Where, on a transfer of property, an interest therein is created in favour of one person, and by the same transaction an ulterior disposition of the same interest is made in favour of another, if the prior disposition under the transfer shall fail, the ulterior disposition shall take effect upon the failure of the prior disposition, although the failure may not have occurred in the manner contemplated by the transferor. But, where the intention of the parties to the transaction is that the ulterior disposition shall take effect only in the event of the prior disposition failing in a particular manner, the ulterior disposition shall not take effect unless the prior disposition fails in that manner.</p><p>Illustrations</p><p class=\"lvl\">(a) A transfers Rs. 500 to B on condition that he shall execute a certain lease within three months after A’s death, and, if he should neglect to do so, to C. B dies in A's life-time. The disposition in favour of C takes effect.</p><p class=\"lvl\">(b) A transfers property to his wife; but, in case she should die in his life-time, transfers to B that which he had transferred to her. A and his wife perish together, under circumstances which make it impossible to prove that she died before him. The disposition in favour of B does not take effect.</p></div>"
+  }
+}

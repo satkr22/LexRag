@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "partnership_sections/section-28.html",
+    "source_order": 30,
+    "article_order": 1,
+    "order": 30,
+    "stem": "section_28",
+    "heading_number": "Chapter IV",
+    "heading_title": "Relations of Partners to Third Parties",
+    "heading_range": "ss. 18–30",
+    "heading_source": "manifest",
+    "article_number": "28",
+    "article_title": "Holding out.",
+    "id": "partnership_section_28"
+  },
+  "id": "partnership_section_28",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Relations of Partners to Third Parties",
+    "range": "ss. 18–30"
+  },
+  "article": {
+    "number": "28",
+    "title": "Holding out.",
+    "content": "(1) Anyone who by words spoken or written or by conduct represents himself, or knowingly permits himself to be represented, to be a partner in a firm, is liable as a partner in that firm to anyone who has on the faith of any such representation given credit to the firm, whether the person representing himself or represented to be a partner does or does not know that the representation has reached the person so giving credit.\n(2) Where after a partner’s death the business is continued in the old firm name, the continued use of that name or of the deceased partner’s name as a part thereof shall not itself make his legal representative or his estate liable for any act of the firm done after his death.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Holding out.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter IV  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Anyone who by words spoken or written or by conduct represents himself, or knowingly permits himself to be represented, to be a partner in a firm, is liable as a partner in that firm to anyone who has on the faith of any such representation given credit to the firm, whether the person representing himself or represented to be a partner does or does not know that the representation has reached the person so giving credit.</p><p class=\"lvl\">(2) Where after a partner’s death the business is continued in the old firm name, the continued use of that name or of the deceased partner’s name as a part thereof shall not itself make his legal representative or his estate liable for any act of the firm done after his death.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Holding out.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter IV  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Anyone who by words spoken or written or by conduct represents himself, or knowingly permits himself to be represented, to be a partner in a firm, is liable as a partner in that firm to anyone who has on the faith of any such representation given credit to the firm, whether the person representing himself or represented to be a partner does or does not know that the representation has reached the person so giving credit.</p><p class=\"lvl\">(2) Where after a partner’s death the business is continued in the old firm name, the continued use of that name or of the deceased partner’s name as a part thereof shall not itself make his legal representative or his estate liable for any act of the firm done after his death.</p></div>"
+  }
+}

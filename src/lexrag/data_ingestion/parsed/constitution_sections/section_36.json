@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-04.html",
+    "source_order": 4,
+    "article_order": 1,
+    "order": 43,
+    "stem": "section_36",
+    "heading_number": "Part IV",
+    "heading_title": "Directive Principles of State Policy",
+    "heading_range": "36 – 51",
+    "heading_source": "group-head",
+    "article_number": "36",
+    "article_title": "Definition",
+    "id": "constitution_section_36"
+  },
+  "id": "constitution_section_36",
+  "heading": {
+    "number": "Part IV",
+    "title": "Directive Principles of State Policy",
+    "range": "36 – 51"
+  },
+  "article": {
+    "number": "36",
+    "title": "Definition",
+    "content": "In this Part, unless the context otherwise requires, “the State” has the same meaning as in Part III.\n",
+    "html": "<article class=\"provision\" data-n=\"36\" data-report=\"Article 36 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Definition</h3></div><p class=\"prov-cite\">Article 36 · Part IV</p><div class=\"prov-body\"><p>In this Part, unless the context otherwise requires, “the State” has the same meaning as in Part III.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Definition</h3></div><p class=\"prov-cite\">Article 36 · Part IV</p><div class=\"prov-body\"><p>In this Part, unless the context otherwise requires, “the State” has the same meaning as in Part III.</p></div>"
+  }
+}

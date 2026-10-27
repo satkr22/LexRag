@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_2A_chunk_0",
+    "section_id": "motor-vehicles_section_2A",
+    "token_count": 153,
+    "text": "[Act: motor-vehicles\n Chapter: Preliminary\n Section: 2A::E-cart and e-rickshaw.\n]\n\n\n(1) Save as otherwise provided in the proviso to sub-section (1) of section 7 and sub-section (10) of section 9, the provisions of this Act shall apply to e-cart and e-rickshaw.\n(2) For the purposes of this section, “e-cart or e-rickshaw” means a special purpose battery powered vehicle of power not exceeding 4000 watts, having three wheels for carrying goods or passengers, as the case may be, for hire or reward, manufactured, constructed or adapted, equipped and maintained in accordance with such specifications, as may be prescribed in this behalf.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_2A_chunk_0",
+      "section_id": "motor-vehicles_section_2A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2A",
+      "section_title": "E-cart and e-rickshaw."
+    }
+  }
+]

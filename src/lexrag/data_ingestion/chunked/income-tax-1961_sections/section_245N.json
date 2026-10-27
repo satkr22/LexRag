@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_245N_chunk_0",
+    "section_id": "income-tax-1961_section_245N",
+    "token_count": 495,
+    "text": "[Act: income-tax-1961\n Chapter: Advance Rulings\n Section: 245N::Definitions.\n]\n\nIn this Chapter, unless the context otherwise requires,—\n\n(a) \"advance ruling\" means—\n  (i) a determination by the Authority in relation to a transaction which has been undertaken or is proposed to be undertaken by a non-resident applicant; or\n  (ii) a determination by the Authority in relation to the tax liability of a non-resident arising out of a transac-tion which has been undertaken or is proposed to be undertaken by a resident applicant with such non-resident; or\n  (iia) a determination by the Authority in relation to the tax liability of a resident applicant, arising out of a transaction which has been undertaken or is proposed to be undertaken by such applicant; and such determination shall include the determination of any question of law or of fact specified in the application;\n  (iii) a determination or decision by the Authority in respect of an issue relating to computation of total income which is pending before any income-tax authority or the Appellate Tribunal and such determination or decision shall include the determination or decision of any question of law or of fact relating to such computation of total income specified in the application;\n  (iv) a determination or decision by the Authority whether an arrangement, which is proposed to be undertaken by any person being a resident or a non-resident, is an impermissible avoidance arrangement as referred to in Chapter X-A or not:\n  Provided that where an advance ruling has been pronounced, before the date on which the Finance Bill, 2003 receives the assent of the President, by the Authority in respect of an application by a resident applicant referred to in sub-clause (ii) of this clause as it stood immediately before such date, such ruling shall be binding on the persons specified in section 245S;\n  (b) \"applicant\" means—\n  (A) any person who—\n  (I) is a non-resident referred to in sub-clause (i) of clause (a); or\n  (II) is a resident referred to in sub-clause (ii) of clause (a); or\n  (III) is a resident referred to in sub-clause (iia) of clause (a) falling within any such class or category of persons as the Central Government may, by notification in the Official Gazette, specify; or",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245N_chunk_0",
+      "section_id": "income-tax-1961_section_245N",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-B",
+      "chapter_title": "Advance Rulings",
+      "section_number": "245N",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_245N_chunk_1",
+    "section_id": "income-tax-1961_section_245N",
+    "token_count": 369,
+    "text": "[Act: income-tax-1961\n Chapter: Advance Rulings\n Section: 245N::Definitions.\n]\n\nIn this Chapter, unless the context otherwise requires,—\n\n(a) \"advance ruling\" means—\n  (IV) is a resident falling within any such class or category of persons as the Central Government may, by notification in the Official Gazette, specify in this behalf; or\n  (V) is referred to in sub-clause (iv) of clause (a), and makes an application under sub-section (1) of section 245Q;\n  (B) an applicant as defined in clause (c) of section 28E of the Customs Act, 1962 (52 of 1962);\n  (C) an applicant as defined in clause (c) of section 23A of the Central Excise Act, 1944 (1 of 1944);\n  (D) an applicant as defined in clause (b) of section 96A of the Finance Act, 1994 (32 of 1994);\n  (c) \"application\" means an application made to the Authori-ty or the Board for Advance Rulings under sub-section (1) of section 245Q;\n  (ca) \"Board for Advance Rulings\" means the Board for Advance Rulings constituted by the Central Government under section 245-OB;\n  (d) \"Authority\" means the Authority for Advance Rulings constituted under section 245-O;\n  (e) \"Chairman\" means the Chairman of the Authority;\n  (f) \"Member\" means a Member of the Authority and includes the Chairman and Vice-chairman or a Member of the Board for Advance Rulings;\n  (g) \"Vice-chairman\" means the Vice-chairman of the Authority.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245N_chunk_1",
+      "section_id": "income-tax-1961_section_245N",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-B",
+      "chapter_title": "Advance Rulings",
+      "section_number": "245N",
+      "section_title": "Definitions."
+    }
+  }
+]

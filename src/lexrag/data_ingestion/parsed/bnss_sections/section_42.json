@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-05.html",
+    "source_order": 5,
+    "article_order": 8,
+    "order": 42,
+    "stem": "section_42",
+    "heading_number": "Chapter V",
+    "heading_title": "Arrest of Persons",
+    "heading_range": "35 – 62",
+    "heading_source": "group-head",
+    "article_number": "42",
+    "article_title": "Protection of members of Armed Forces from arrest",
+    "id": "bnss_section_42"
+  },
+  "id": "bnss_section_42",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Arrest of Persons",
+    "range": "35 – 62"
+  },
+  "article": {
+    "number": "42",
+    "title": "Protection of members of Armed Forces from arrest",
+    "content": "(1)Notwithstanding anything contained in section 35 and sections 39 to 41 (both inclusive), no member of the Armed Forces of the Union shall be arrested for anything done or purported to be done by him in the discharge of his official duties except after obtaining the consent of the Central Government.\n(2)The State Government may, by notification, direct that the provisions of sub-section (1) shall apply to such class or category of the members of the Force charged with the maintenance of public order as may be specified therein, wherever they may be serving, and thereupon the provisions of that sub-section shall apply as if for the expression “Central Government” occurring therein, the expression “State Government” were substituted.\n",
+    "html": "<article class=\"provision\" data-n=\"42\" data-report=\"Section 42 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Protection of members of Armed Forces from arrest</h3></div><p class=\"prov-cite\">Section 42 · Chapter V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything contained in section 35 and sections 39 to 41 (both inclusive), no member of the Armed Forces of the Union shall be arrested for anything done or purported to be done by him in the discharge of his official duties except after obtaining the consent of the Central Government.</p><p><span class=\"lbl\">(2)</span>The State Government may, by notification, direct that the provisions of sub-section (1) shall apply to such class or category of the members of the Force charged with the maintenance of public order as may be specified therein, wherever they may be serving, and thereupon the provisions of that sub-section shall apply as if for the expression “Central Government” occurring therein, the expression “State Government” were substituted.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Protection of members of Armed Forces from arrest</h3></div><p class=\"prov-cite\">Section 42 · Chapter V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything contained in section 35 and sections 39 to 41 (both inclusive), no member of the Armed Forces of the Union shall be arrested for anything done or purported to be done by him in the discharge of his official duties except after obtaining the consent of the Central Government.</p><p><span class=\"lbl\">(2)</span>The State Government may, by notification, direct that the provisions of sub-section (1) shall apply to such class or category of the members of the Force charged with the maintenance of public order as may be specified therein, wherever they may be serving, and thereupon the provisions of that sub-section shall apply as if for the expression “Central Government” occurring therein, the expression “State Government” were substituted.</p></div>"
+  }
+}

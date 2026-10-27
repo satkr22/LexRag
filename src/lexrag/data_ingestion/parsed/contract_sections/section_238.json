@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-238.html",
+    "source_order": 240,
+    "article_order": 1,
+    "order": 240,
+    "stem": "section_238",
+    "heading_number": "Chapter X",
+    "heading_title": "Agency",
+    "heading_range": "ss. 182–238",
+    "heading_source": "manifest",
+    "article_number": "238",
+    "article_title": "Effect, on agreement, of misrepresentation or fraud by agent.",
+    "id": "contract_section_238"
+  },
+  "id": "contract_section_238",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Agency",
+    "range": "ss. 182–238"
+  },
+  "article": {
+    "number": "238",
+    "title": "Effect, on agreement, of misrepresentation or fraud by agent.",
+    "content": "Misrepresentation made, or frauds committed, by agents acting in the course of their business for their principals, have the same effect on agreements made by such agents as if such misrepresentations or frauds had been made or committed by the principals; but misrepresentations made, or frauds committed, by agents, in matters which do not fall within their authority, do not affect their principals.\nIllustrations\n(a)A, being B’s agent for the sale of goods, induces C to buy them by a misrepresentation, which he was not authorized by B to make. The contract is voidable, as between B and C, at the option of C.\n(b)A, the captain of B’s ship, signs bills of lading without having received on board the goods mentioned therein. The bills of lading are void as between B and the pretended cosignor.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">238</span>Effect, on agreement, of misrepresentation or fraud by agent.</h3></div><p class=\"prov-cite\">Section 238  ·  Chapter X  ·  Effect of agency on contracts with third persons  ·  page 51 of the Act</p><div class=\"prov-body\"><p>Misrepresentation made, or frauds committed, by agents acting in the course of their business for their principals, have the same effect on agreements made by such agents as if such misrepresentations or frauds had been made or committed by the principals; but misrepresentations made, or frauds committed, by agents, in matters which do not fall within their authority, do not affect their principals.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A, being B’s agent for the sale of goods, induces C to buy them by a misrepresentation, which he was not authorized by B to make. The contract is voidable, as between B and C, at the option of C.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A, the captain of B’s ship, signs bills of lading without having received on board the goods mentioned therein. The bills of lading are void as between B and the pretended cosignor.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">238</span>Effect, on agreement, of misrepresentation or fraud by agent.</h3></div><p class=\"prov-cite\">Section 238  ·  Chapter X  ·  Effect of agency on contracts with third persons  ·  page 51 of the Act</p><div class=\"prov-body\"><p>Misrepresentation made, or frauds committed, by agents acting in the course of their business for their principals, have the same effect on agreements made by such agents as if such misrepresentations or frauds had been made or committed by the principals; but misrepresentations made, or frauds committed, by agents, in matters which do not fall within their authority, do not affect their principals.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A, being B’s agent for the sale of goods, induces C to buy them by a misrepresentation, which he was not authorized by B to make. The contract is voidable, as between B and C, at the option of C.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A, the captain of B’s ship, signs bills of lading without having received on board the goods mentioned therein. The bills of lading are void as between B and the pretended cosignor.</p></div>"
+  }
+}

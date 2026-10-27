@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 49,
+    "order": 526,
+    "stem": "section_O21R46",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R46",
+    "article_title": "Attachment of debt, share and other property not in possession of judgment-debtor.",
+    "id": "cpc_section_O21R46"
+  },
+  "id": "cpc_section_O21R46",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R46",
+    "title": "Attachment of debt, share and other property not in possession of judgment-debtor.",
+    "content": "(1) In the case of—\n(a) a debt not secured by a negotiable instrument,\n(b) a share in the capital of a corporation,\n(c) other movable property not in the possession of the judgment-debtor, except property deposited in, or in the custody of, any Court,\nthe attachment shall be made by a written order prohibiting,—\n(i) in the case of the debt, the credit or from recovering the debt and the debtor from making payment thereof until the further order of the Court;\n(ii) in the case of the share, the person in whose name the share may be standing from transferring the same or receiving any dividend thereon;\n(iii) in the case of the other movable property except as aforesaid, the person in possession of the same from giving it over to the judgment-debtor.\n(2) A copy of such order shall be affixed on some conspicuous part of the court-house, and another copy shall be sent in the case of the debt, to the debtor; in the case of the share, to the proper officer of the corporation, and, in the case of the other movable property (except as aforesaid), to the person in possession of the same.\n(3) A debtor prohibited under clause (i) of sub-rule (1) may pay the amount of his debt into Court, and such payment shall discharge him as effectually as payment to the party entitled to receive the same.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R46\" data-report=\"Order 21, Rule 46 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46</span>Attachment of debt, share and other property not in possession of judgment-debtor.</h3></div><p class=\"prov-cite\">Order 21, Rule 46</p><div class=\"prov-body\"><p class=\"lvl\">(1) In the case of—</p><p class=\"lvl\">(a) a debt not secured by a negotiable instrument,</p><p class=\"lvl\">(b) a share in the capital of a corporation,</p><p class=\"lvl\">(c) other movable property not in the possession of the judgment-debtor, except property deposited in, or in the custody of, any Court,</p><p>the attachment shall be made by a written order prohibiting,—</p><p class=\"lvl\">(i) in the case of the debt, the credit or from recovering the debt and the debtor from making payment thereof until the further order of the Court;</p><p class=\"lvl\">(ii) in the case of the share, the person in whose name the share may be standing from transferring the same or receiving any dividend thereon;</p><p class=\"lvl\">(iii) in the case of the other movable property except as aforesaid, the person in possession of the same from giving it over to the judgment-debtor.</p><p class=\"lvl\">(2) A copy of such order shall be affixed on some conspicuous part of the court-house, and another copy shall be sent in the case of the debt, to the debtor; in the case of the share, to the proper officer of the corporation, and, in the case of the other movable property (except as aforesaid), to the person in possession of the same.</p><p class=\"lvl\">(3) A debtor prohibited under clause (i) of sub-rule (1) may pay the amount of his debt into Court, and such payment shall discharge him as effectually as payment to the party entitled to receive the same.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46</span>Attachment of debt, share and other property not in possession of judgment-debtor.</h3></div><p class=\"prov-cite\">Order 21, Rule 46</p><div class=\"prov-body\"><p class=\"lvl\">(1) In the case of—</p><p class=\"lvl\">(a) a debt not secured by a negotiable instrument,</p><p class=\"lvl\">(b) a share in the capital of a corporation,</p><p class=\"lvl\">(c) other movable property not in the possession of the judgment-debtor, except property deposited in, or in the custody of, any Court,</p><p>the attachment shall be made by a written order prohibiting,—</p><p class=\"lvl\">(i) in the case of the debt, the credit or from recovering the debt and the debtor from making payment thereof until the further order of the Court;</p><p class=\"lvl\">(ii) in the case of the share, the person in whose name the share may be standing from transferring the same or receiving any dividend thereon;</p><p class=\"lvl\">(iii) in the case of the other movable property except as aforesaid, the person in possession of the same from giving it over to the judgment-debtor.</p><p class=\"lvl\">(2) A copy of such order shall be affixed on some conspicuous part of the court-house, and another copy shall be sent in the case of the debt, to the debtor; in the case of the share, to the proper officer of the corporation, and, in the case of the other movable property (except as aforesaid), to the person in possession of the same.</p><p class=\"lvl\">(3) A debtor prohibited under clause (i) of sub-rule (1) may pay the amount of his debt into Court, and such payment shall discharge him as effectually as payment to the party entitled to receive the same.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_210A_chunk_0",
+    "section_id": "motor-vehicles_section_210A",
+    "token_count": 125,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 210A::Power of State Government to increase fine or penalties.\n]\n\n\nSubject to conditions made by the Central Government, a State Government, shall, by notification in the Official Gazette, specify a multiplier, not less than one and not greater than ten, 3[to be applied to each fine or penalty under this Act and such modified fine or penalty], shall be in force in such State and different multipliers may be applied to different classes of motor vehicles as may be classified by the State Government for the purpose of this section.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_210A_chunk_0",
+      "section_id": "motor-vehicles_section_210A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "210A",
+      "section_title": "Power of State Government to increase fine or penalties."
+    }
+  }
+]

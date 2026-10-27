@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_15_chunk_0",
+    "section_id": "motor-vehicles_section_15",
+    "token_count": 494,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 15::Renewal of driving licences.\n]\n\n\n(1) Any licensing authority may, on application made to it, renew a driving licence issued under the provisions of this Act with effect from the date of its 10 [renewal]:\n  1 [Provided that in any case where the application for the renewal of a licence is made within a period of one year prior to date of its expiry, the driving licence shall be renewed with effect from the date of its expiry:]\n  Provided further that where the application is for the renewal of a licence to drive a transport vehicle or where in any other case the applicant has attained the age of forty years, the same shall be accompanied by a medical certificate in the same form and in the same manner as is referred to in sub-section (3) of section 8, and the provisions of sub-section (4) of section 8 shall, so far as may be, apply in relation to every such case as they apply in relation to a learner’s licence.\n  (2) An application for the renewal of a driving licence shall be made in such form and accompanied by such documents as may be prescribed by the Central Government.\n  (3) Where an application for the renewal of a driving licence is made previous to, or not more than 2 [one year] after the date of its expiry, the fee payable for such renewal shall be such as may be prescribed by the Central Government in this behalf.\n  (4) Where an application for the renewal of a driving licence is made more than 2 [one year] after the date of its expiry, the fee payable for such renewal shall be such amount as may be prescribed by the Central Government:\n  Provided that the fee referred to in sub-section (3) may be accepted by the licensing authority in respect of an application for the renewal of a driving licence made under this sub-section if it is satisfied that the applicant was prevented by good and sufficient cause from applying within the time specified in sub-section (3):\n  Provided further that if the application is made more than 3 [one year after the driving licence has ceased to be effective, the licensing authority shall] refuse to renew the driving licence, unless the applicant undergoes and passes to its satisfaction the test of competence to drive referred to in sub-section (3) of section 9.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_15_chunk_0",
+      "section_id": "motor-vehicles_section_15",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "15",
+      "section_title": "Renewal of driving licences."
+    }
+  },
+  {
+    "chunk_id": "motor-vehicles_section_15_chunk_1",
+    "section_id": "motor-vehicles_section_15",
+    "token_count": 140,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 15::Renewal of driving licences.\n]\n\n\n(1) Any licensing authority may, on application made to it, renew a driving licence issued under the provisions of this Act with effect from the date of its 10 [renewal]:\n  (5) Where the application for renewal has been rejected, the fee paid shall be refunded to such extent and in such manner as may be prescribed by the Central Government.\n  (6) Where the authority renewing the driving licence is not the authority which issued the driving licence it shall intimate the fact of renewal to the authority which issued the driving licence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_15_chunk_1",
+      "section_id": "motor-vehicles_section_15",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "15",
+      "section_title": "Renewal of driving licences."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_6_chunk_0",
+    "section_id": "negotiable-instruments_section_6",
+    "token_count": 310,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Notes, Billsand Cheques\n Section: 6::1 [“Cheque.”\n]\n\n\nA “cheque” is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand and it includes the electronic image of a truncated cheque and a cheque in the electronic form.\nExplanation I.—For the purposes of this section, the expressions—\n2[(a) “a cheque in the electronic form” means a cheque drawn in electronic form by using any computer resource and signed in a secure system with digital signature (with or without biometrics signature) and asymmetric crypto system or with electronic signature, as the case may be;]\n(b) “a truncated cheque” means a cheque which is truncated during the course of a clearing cycle, either by the clearing house or by the bank whether paying or receiving payment, immediately on generation of an electronic image for transmission, substituting the further physical movement of the cheque in writing.\nExplanation II.— For the purposes of this section, the expression “clearing house” means the clearing house managed by the Reserve Bank of India or a clearing house recognised as such by the Reserve Bank of India.]\n3[Explanation III.—For the purposes of this section, the expressions “asymmetric crypto system”, “computer resource”, “digital signature”, “electronic form” and “electronic signature” shall have the same meanings respectively assigned to them in the Information Technology Act, 2000(21 of 2000).]",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_6_chunk_0",
+      "section_id": "negotiable-instruments_section_6",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Notes, Billsand Cheques",
+      "section_number": "6",
+      "section_title": "1 [“Cheque.”"
+    }
+  }
+]

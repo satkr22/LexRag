@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-30.html",
+    "source_order": 34,
+    "article_order": 2,
+    "order": 383,
+    "stem": "section_115VA",
+    "heading_number": "Chapter XII-G",
+    "heading_title": "Special Provisions Relating to Income of Shipping Companies",
+    "heading_range": "ss. 115V–115VZC",
+    "heading_source": "group-head",
+    "article_number": "115VA",
+    "article_title": "Computation of profits and gains from the business of operating qualifying ships.",
+    "id": "income-tax-1961_section_115VA"
+  },
+  "id": "income-tax-1961_section_115VA",
+  "heading": {
+    "number": "Chapter XII-G",
+    "title": "Special Provisions Relating to Income of Shipping Companies",
+    "range": "ss. 115V–115VZC"
+  },
+  "article": {
+    "number": "115VA",
+    "title": "Computation of profits and gains from the business of operating qualifying ships.",
+    "content": "Notwithstanding anything to the contrary contained in sections 28 to 43C, in the case of a company, the income from the business of operating qualifying ships, may, at its option, be computed in accordance with the provisions of this Chapter and such income shall be deemed to be the profits and gains of such business chargeable to tax under the head \"Profits and gains of business or profession\".\n",
+    "html": "<article class=\"provision\" data-n=\"115VA\" data-report=\"Section 115VA · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VA</span>Computation of profits and gains from the business of operating qualifying ships.</h3></div><p class=\"prov-cite\">Section 115VA  ·  Chapter XII-G  ·  B.—Computation of tonnage income from business of operating qualifying ships  ·  page 510 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything to the contrary contained in sections 28 to 43C, in the case of a company, the income from the business of operating qualifying ships, may, at its option, be computed in accordance with the provisions of this Chapter and such income shall be deemed to be the profits and gains of such business chargeable to tax under the head \"Profits and gains of business or profession\".</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VA</span>Computation of profits and gains from the business of operating qualifying ships.</h3></div><p class=\"prov-cite\">Section 115VA  ·  Chapter XII-G  ·  B.—Computation of tonnage income from business of operating qualifying ships  ·  page 510 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything to the contrary contained in sections 28 to 43C, in the case of a company, the income from the business of operating qualifying ships, may, at its option, be computed in accordance with the provisions of this Chapter and such income shall be deemed to be the profits and gains of such business chargeable to tax under the head \"Profits and gains of business or profession\".</p></div>"
+  }
+}

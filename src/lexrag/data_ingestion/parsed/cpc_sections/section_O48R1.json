@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-67.html",
+    "source_order": 67,
+    "article_order": 1,
+    "order": 888,
+    "stem": "section_O48R1",
+    "heading_number": "Order XLVIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O48R1",
+    "article_title": "Process to be served at expense of party issuing.",
+    "id": "cpc_section_O48R1"
+  },
+  "id": "cpc_section_O48R1",
+  "heading": {
+    "number": "Order XLVIII",
+    "title": "Miscellaneous",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O48R1",
+    "title": "Process to be served at expense of party issuing.",
+    "content": "(1) Every process issued under this Code shall be served at the expense of the party on whose behalf it is issued, unless the Court otherwise directs.\n(2) Costs of service.—The court-fee chargeable for such service shall be paid within a time to be fixed-before the process is issued.\n",
+    "html": "<article class=\"provision\" data-n=\"O48R1\" data-report=\"Order 48, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Process to be served at expense of party issuing.</h3></div><p class=\"prov-cite\">Order 48, Rule 1</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every process issued under this Code shall be served at the expense of the party on whose behalf it is issued, unless the Court otherwise directs.</p><p class=\"lvl\">(2) Costs of service.—The court-fee chargeable for such service shall be paid within a time to be fixed-before the process is issued.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Process to be served at expense of party issuing.</h3></div><p class=\"prov-cite\">Order 48, Rule 1</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every process issued under this Code shall be served at the expense of the party on whose behalf it is issued, unless the Court otherwise directs.</p><p class=\"lvl\">(2) Costs of service.—The court-fee chargeable for such service shall be paid within a time to be fixed-before the process is issued.</p></div>"
+  }
+}

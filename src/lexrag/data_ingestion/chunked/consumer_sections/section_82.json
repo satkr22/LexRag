@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "consumer_section_82_chunk_0",
+    "section_id": "consumer_section_82",
+    "token_count": 65,
+    "text": "[Act: consumer\n Chapter: Product Liability\n Section: 82::Application of Chapter.\n]\n\n\nThis Chapter shall apply to every claim for compensation under a product liability action by a complainant for any harm caused by a defective product manufactured by a product manufacturer or serviced by a product service provider or sold by a product seller.",
+    "metadata": {
+      "chunk_id": "consumer_section_82_chunk_0",
+      "section_id": "consumer_section_82",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "consumer",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Product Liability",
+      "section_number": "82",
+      "section_title": "Application of Chapter."
+    }
+  }
+]

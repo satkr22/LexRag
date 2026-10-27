@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-13.html",
+    "source_order": 13,
+    "article_order": 10,
+    "order": 182,
+    "stem": "section_182",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Information to the Police and their Powers to Investigate",
+    "heading_range": "173 – 196",
+    "heading_source": "group-head",
+    "article_number": "182",
+    "article_title": "No inducement to be offered",
+    "id": "bnss_section_182"
+  },
+  "id": "bnss_section_182",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Information to the Police and their Powers to Investigate",
+    "range": "173 – 196"
+  },
+  "article": {
+    "number": "182",
+    "title": "No inducement to be offered",
+    "content": "(1)No police officer or other person in authority shall offer or make, or cause to be offered or made, any such inducement, threat or promise as is mentioned in section 22 of the Bharatiya Sakshya Adhiniyam, 2023.\n(2)But no police officer or other person shall prevent, by any caution or otherwise, any person from making in the course of any investigation under this Chapter any statement which he may be disposed to make of his own free will:\nProvisoProvided that nothing in this sub-section shall affect the provisions of sub-section (4) of section 183.\n",
+    "html": "<article class=\"provision\" data-n=\"182\" data-report=\"Section 182 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">182</span>No inducement to be offered</h3></div><p class=\"prov-cite\">Section 182 · Chapter XIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>No police officer or other person in authority shall offer or make, or cause to be offered or made, any such inducement, threat or promise as is mentioned in section 22 of the Bharatiya Sakshya Adhiniyam, 2023.</p><p><span class=\"lbl\">(2)</span>But no police officer or other person shall prevent, by any caution or otherwise, any person from making in the course of any investigation under this Chapter any statement which he may be disposed to make of his own free will:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that nothing in this sub-section shall affect the provisions of sub-section (4) of section 183.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">182</span>No inducement to be offered</h3></div><p class=\"prov-cite\">Section 182 · Chapter XIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>No police officer or other person in authority shall offer or make, or cause to be offered or made, any such inducement, threat or promise as is mentioned in section 22 of the Bharatiya Sakshya Adhiniyam, 2023.</p><p><span class=\"lbl\">(2)</span>But no police officer or other person shall prevent, by any caution or otherwise, any person from making in the course of any investigation under this Chapter any statement which he may be disposed to make of his own free will:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that nothing in this sub-section shall affect the provisions of sub-section (4) of section 183.</p></div>"
+  }
+}

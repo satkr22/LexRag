@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80M_chunk_0",
+    "section_id": "income-tax-1961_section_80M",
+    "token_count": 245,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80M::Deduction in respect of certain inter-corporate dividends.\n]\n\n\n(1) Where the gross total income of a domestic company in any previous year includes any income by way of dividends from any other domestic company or a foreign company or a business trust, there shall, in accordance with and subject to the provisions of this section, be allowed in computing the total income of such domestic company, a deduction of an amount equal to so much of the amount of income by way of dividends received from such other domestic company or foreign company or business trust as does not exceed the amount of dividend distributed by it on or before the due date.\n(2) Where any deduction, in respect of the amount of dividend distributed by the domestic company, has been allowed under sub-section (1) in any previous year, no deduction shall be allowed in respect of such amount in any other previous year.\nExplanation.—For the purposes of this section, the expression \"due date\" means the date one month prior to the date for furnishing the return of income under sub-section (1) of section 139.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80M_chunk_0",
+      "section_id": "income-tax-1961_section_80M",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80M",
+      "section_title": "Deduction in respect of certain inter-corporate dividends."
+    }
+  }
+]

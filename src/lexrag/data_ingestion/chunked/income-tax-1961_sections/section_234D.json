@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_234D_chunk_0",
+    "section_id": "income-tax-1961_section_234D",
+    "token_count": 379,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 234D::Interest on excess refund.\n]\n\n\n(1) Subject to the other provisions of this Act, where any refund is granted to the assessee under sub-section (1) of section 143, and—\n(a) no refund is due on regular assessment; or\n(b) the amount refunded under sub-section (1) of section 143 exceeds the amount refundable on regular assessment, the assessee shall be liable to pay simple interest at the rate of one-half per cent on the whole or the excess amount so refunded, for every month or part of a month comprised in the period from the date of grant of refund to the date of such regular assessment.\n(2) Where, as a result of an order under section 154 or section 155 or section 250 or section 254 or section 260 or section 262 or section 263 or section 264 or an order of the Settlement Commission under sub-section (4) of section 245D, the amount of refund granted under sub-section (1) of section 143 is held to be correctly allowed, either in whole or in part, as the case may be, then, the interest chargeable, if any, under sub-section (1) shall be reduced accordingly.\nExplanation 1.—Where, in relation to an assessment year, an assessment is made for the first time under section 147 or section 153A, the assessment so made shall be regarded as a regular assessment for the purposes of this section.\nExplanation 2.—For the removal of doubts, it is hereby declared that the provisions of this section shall also apply to an assessment year commencing before the 1st day of June, 2003 if the proceedings in respect of such assessment year is completed after the said date.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_234D_chunk_0",
+      "section_id": "income-tax-1961_section_234D",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "234D",
+      "section_title": "Interest on excess refund."
+    }
+  }
+]

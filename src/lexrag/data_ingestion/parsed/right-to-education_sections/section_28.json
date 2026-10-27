@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "right-to-education",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "right-to-education_sections/section-28.html",
+    "source_order": 28,
+    "article_order": 1,
+    "order": 28,
+    "stem": "section_28",
+    "heading_number": "Chapter IV",
+    "heading_title": "Responsibilities of Schools and Teachers",
+    "heading_range": "ss. 12–28",
+    "heading_source": "manifest",
+    "article_number": "28",
+    "article_title": "Prohibition of private tuition by teacher.",
+    "id": "right-to-education_section_28"
+  },
+  "id": "right-to-education_section_28",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Responsibilities of Schools and Teachers",
+    "range": "ss. 12–28"
+  },
+  "article": {
+    "number": "28",
+    "title": "Prohibition of private tuition by teacher.",
+    "content": "No teacher shall engage himself or herself in private tuition or private teaching activity.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Prohibition of private tuition by teacher.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter IV  ·  page 12 of the Act</p><div class=\"prov-body\"><p>No teacher shall engage himself or herself in private tuition or private teaching activity.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Prohibition of private tuition by teacher.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter IV  ·  page 12 of the Act</p><div class=\"prov-body\"><p>No teacher shall engage himself or herself in private tuition or private teaching activity.</p></div>"
+  }
+}

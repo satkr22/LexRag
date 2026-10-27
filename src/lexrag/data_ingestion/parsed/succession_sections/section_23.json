@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-04.html",
+    "source_order": 4,
+    "article_order": 1,
+    "order": 23,
+    "stem": "section_23",
+    "heading_number": "Part IV",
+    "heading_title": "Of Consanguinity",
+    "heading_range": "ss. 23–28",
+    "heading_source": "group-head",
+    "article_number": "23",
+    "article_title": "Application of Part.",
+    "id": "succession_section_23"
+  },
+  "id": "succession_section_23",
+  "heading": {
+    "number": "Part IV",
+    "title": "Of Consanguinity",
+    "range": "ss. 23–28"
+  },
+  "article": {
+    "number": "23",
+    "title": "Application of Part.",
+    "content": "Nothing in this Part shall apply to any will made or intestacy occurring before the first day of January, 1866, or to intestate or testamentary succession to the property of any Hindu, Muhammadan, Buddhist, Sikh, Jaina or Parsi.\n",
+    "html": "<article class=\"provision\" data-n=\"23\" data-report=\"Section 23 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Application of Part.</h3></div><p class=\"prov-cite\">Section 23  ·  Part IV  ·  page 20 of the Act</p><div class=\"prov-body\"><p>Nothing in this Part shall apply to any will made or intestacy occurring before the first day of January, 1866, or to intestate or testamentary succession to the property of any Hindu, Muhammadan, Buddhist, Sikh, Jaina or Parsi.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Application of Part.</h3></div><p class=\"prov-cite\">Section 23  ·  Part IV  ·  page 20 of the Act</p><div class=\"prov-body\"><p>Nothing in this Part shall apply to any will made or intestacy occurring before the first day of January, 1866, or to intestate or testamentary succession to the property of any Hindu, Muhammadan, Buddhist, Sikh, Jaina or Parsi.</p></div>"
+  }
+}

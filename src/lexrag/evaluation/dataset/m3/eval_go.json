@@ -1,0 +1,122 @@
+[
+    {
+        "question": "When a confession is recorded by a Magistrate during investigation, what conditions must be satisfied for it to be admissible, and under what circumstances does the evidence law render such a confession irrelevant even if procedurally recorded?",
+        "referenced_sections": [
+            "bnss_section_183",
+            "bsa_section_22"
+        ],
+        "answer": "Under the procedure code, a Magistrate may record a confession only after explaining that the person is not bound to confess and after being satisfied it is voluntary; the confession must be recorded in the prescribed manner and signed. Under the evidence law, however, a confession is irrelevant if it appears to the Court to have been caused by inducement, threat, coercion or promise from a person in authority relating to the charge, unless the impression of such influence has been fully removed."
+    },
+    {
+        "question": "How does the procedure for recording the examination of an accused interact with the rule that confessions to police officers are inadmissible?",
+        "referenced_sections": [
+            "bnss_section_316",
+            "bsa_section_23"
+        ],
+        "answer": "The procedure code requires that the examination of the accused be recorded in a specific form, with the accused’s answers reduced to writing and signed after being read over. The evidence law separately provides that no confession made to a police officer shall be proved against a person accused of any offence, rendering such confessions inadmissible regardless of the manner of recording."
+    },
+    {
+        "question": "In what manner must medical evidence of a rape victim be recorded under the procedure code, and how does the evidence law treat opinions of experts in such cases?",
+        "referenced_sections": [
+            "bnss_section_184",
+            "bsa_section_39"
+        ],
+        "answer": "The procedure code mandates medical examination of a rape victim by a registered medical practitioner, with the report to be forwarded to the investigating officer. The evidence law provides that opinions of experts upon a point of science, including medical science, are relevant when the Court has to form an opinion on that point."
+    },
+    {
+        "question": "What power does a Court have under the procedure code to examine the accused, and how does the evidence law treat the accused as a competent witness?",
+        "referenced_sections": [
+            "bnss_section_351",
+            "bsa_section_353"
+        ],
+        "answer": "The procedure code empowers the Court to examine the accused at any stage to enable him to explain circumstances appearing in the evidence against him, without oath. The evidence law provides that an accused person is a competent witness and may give evidence on oath in disproof of the charges, but shall not be called as a witness except on his own request."
+    },
+    {
+        "question": "When evidence is recorded in the absence of the accused under the procedure code, what conditions apply, and how does the evidence law address the right of the adverse party regarding documents used to refresh memory?",
+        "referenced_sections": [
+            "bnss_section_335",
+            "bsa_section_164"
+        ],
+        "answer": "The procedure code permits recording of evidence in the absence of the accused in certain cases, with the evidence to be read over to him later if he appears. The evidence law gives the adverse party the right to see any writing used by a witness to refresh memory and to cross-examine upon it."
+    },
+    {
+        "question": "What is the procedure for taking further evidence on appeal under the procedure code, and how does the evidence law deal with the improper admission or rejection of evidence?",
+        "referenced_sections": [
+            "bnss_section_432",
+            "bsa_section_169"
+        ],
+        "answer": "The procedure code allows an Appellate Court to take further evidence itself or direct it to be taken by a lower Court. The evidence law provides that the improper admission or rejection of evidence shall not be ground for a new trial or reversal of any decision if it appears that, independently of the evidence objected to and admitted, there was sufficient evidence to justify the decision, or that the rejected evidence could not have varied the decision."
+    },
+    {
+        "question": "How does the procedure code regulate the recording of search and seizure through electronic means, and what special provisions does the evidence law make for electronic records?",
+        "referenced_sections": [
+            "bnss_section_105",
+            "bsa_section_62"
+        ],
+        "answer": "The procedure code requires that the process of search and seizure be recorded through audio-video electronic means whenever practicable. The evidence law contains special provisions regarding the admissibility and proof of electronic records, including the conditions under which they may be received in evidence."
+    },
+    {
+        "question": "What rules govern the tender of pardon to an accomplice under the procedure code, and how does the evidence law treat the testimony of an accomplice?",
+        "referenced_sections": [
+            "bnss_section_343",
+            "bsa_section_138"
+        ],
+        "answer": "The procedure code empowers a Court to tender a pardon to an accomplice on condition of full disclosure, with provisions for trial if conditions are not complied with. The evidence law provides that an accomplice shall be a competent witness against an accused person, and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice."
+    },
+    {
+        "question": "When a Court under the procedure code examines a person present or summons a material witness, how does the evidence law regulate the order of examination of witnesses?",
+        "referenced_sections": [
+            "bnss_section_348",
+            "bsa_section_143"
+        ],
+        "answer": "The procedure code allows a Court to summon any person as a witness or examine any person present, even if not previously summoned. The evidence law prescribes the order of examinations: examination-in-chief, cross-examination, and re-examination, and the sequence in which witnesses are produced."
+    },
+    {
+        "question": "What does the procedure code provide regarding statements made to the police and their use, and how does the evidence law treat confessions caused by inducement or threat?",
+        "referenced_sections": [
+            "bnss_section_181",
+            "bsa_section_22"
+        ],
+        "answer": "The procedure code restricts the use of statements made to the police during investigation, generally prohibiting their use as evidence except for limited purposes such as contradiction. The evidence law renders a confession irrelevant if it appears to have been caused by inducement, threat, coercion or promise from a person in authority having reference to the charge."
+    },
+    {
+        "question": "How does the procedure code deal with the medical examination of an arrested person, and under what conditions does the evidence law make expert opinions relevant?",
+        "referenced_sections": [
+            "bnss_section_53",
+            "bsa_section_39"
+        ],
+        "answer": "The procedure code requires that an arrested person be examined by a medical officer when requested by the police or when the person so requests, with the report to be forwarded. The evidence law makes the opinions of experts relevant whenever the Court has to form an opinion upon a point of foreign law, science, art, or as to identity of handwriting or finger impressions."
+    },
+    {
+        "question": "What procedure applies when a Magistrate records evidence in a summons case under the procedure code, and how does the evidence law require oral evidence to be direct?",
+        "referenced_sections": [
+            "bnss_section_309",
+            "bsa_section_55"
+        ],
+        "answer": "The procedure code provides that in summons-cases and inquiries the Magistrate shall make a memorandum of the substance of the evidence of each witness. The evidence law requires that oral evidence must in all cases be direct, meaning that if it refers to a fact which could be seen, it must be the evidence of a witness who says he saw it."
+    },
+    {
+        "question": "When the procedure code allows recording of evidence of public servants or experts in certain cases without their personal attendance, what presumption does the evidence law raise regarding official documents?",
+        "referenced_sections": [
+            "bnss_section_336",
+            "bsa_section_78"
+        ],
+        "answer": "The procedure code permits the evidence of certain public servants, experts and police officers to be given by affidavit or otherwise without requiring personal attendance in specified situations. The evidence law raises a presumption as to the genuineness of certified copies of public documents produced from proper custody."
+    },
+    {
+        "question": "How does the procedure code regulate the power to postpone or adjourn proceedings, and what does the evidence law provide regarding the judge’s power to put questions or order production of documents?",
+        "referenced_sections": [
+            "bnss_section_346",
+            "bsa_section_168"
+        ],
+        "answer": "The procedure code empowers the Court to postpone or adjourn any inquiry or trial for reasons to be recorded, with limits on the period of adjournment. The evidence law authorises the Judge to ask any question in any form at any time of any witness or of the parties, and to order the production of any document or thing."
+    },
+    {
+        "question": "What rules does the procedure code lay down for the identification of an arrested person, and how does the evidence law treat facts showing the existence of a state of mind or bodily feeling?",
+        "referenced_sections": [
+            "bnss_section_54",
+            "bsa_section_12"
+        ],
+        "answer": "The procedure code provides for the identification of an arrested person by witnesses in a manner that is fair and recorded, often through test identification parades. The evidence law makes facts relevant which show the existence of any state of mind such as intention, knowledge, good faith, negligence, or of any state of body or bodily feeling, when the existence of such state is in issue or relevant."
+    }
+]

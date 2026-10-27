@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_123_chunk_0",
+    "section_id": "bsa_section_123",
+    "token_count": 171,
+    "text": "[Act: bsa\n Chapter: Estoppel\n Section: 123::Estoppel of acceptor of bill of exchange, bailee or licensee\n]\n\n\nNo acceptor of a bill of exchange shall be permitted to deny that the drawer had authority to draw such bill or to endorse it; nor shall any bailee or licensee be permitted to deny that his bailor or licensor had, at the time when the bailment or licence commenced, authority to make such bailment or grant such licence.\nExplanation 1The acceptor of a bill of exchange may deny that the bill was really drawn by the person by whom it purports to have been drawn.\nExplanation 2If a bailee delivers the goods bailed to a person other than the bailor, he may prove that such person had a right to them as against the bailor.",
+    "metadata": {
+      "chunk_id": "bsa_section_123_chunk_0",
+      "section_id": "bsa_section_123",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Estoppel",
+      "section_number": "123",
+      "section_title": "Estoppel of acceptor of bill of exchange, bailee or licensee"
+    }
+  }
+]

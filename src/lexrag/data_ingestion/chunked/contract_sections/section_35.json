@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_35_chunk_0",
+    "section_id": "contract_section_35",
+    "token_count": 257,
+    "text": "[Act: contract\n Chapter: Of Contingent Contracts\n Section: 35::When contracts become void which are contingent on happening of specified event within fixed time.\n]\n\n\nContingent contracts to do or not to do anything if a specified uncertain event happens within a fixed time become void if, at the expiration of the time fixed, such event has not happened, or if, before the time fixed, such event becomes impossible.\nWhen contracts may be enforced, which are contingent on specified event not happening within fixed time.Contingent contracts to do or not to do anything, if a specified uncertain event does not happen within a fixed time may be enforced by law when the time fixed has expired and such event has not happened or, before the time fixed has expired, if it becomes certain that such event will not happen.\nIllustrations\n(a)A promises to pay B a sum of money if a certain ship returns within a year. The contract may be enforced if the ship returns within the year, and becomes void if the ship is burnt within the year.\n(b)A promises to pay B a sum of money if a certain ship does not return within a year. The contract may be enforced if the ship does not return within the year, or is burnt within the year.",
+    "metadata": {
+      "chunk_id": "contract_section_35_chunk_0",
+      "section_id": "contract_section_35",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Of Contingent Contracts",
+      "section_number": "35",
+      "section_title": "When contracts become void which are contingent on happening of specified event within fixed time."
+    }
+  }
+]

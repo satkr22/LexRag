@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 3,
+    "order": 480,
+    "stem": "section_O21R3",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R3",
+    "article_title": "Lands situate in more than one jurisdiction.",
+    "id": "cpc_section_O21R3"
+  },
+  "id": "cpc_section_O21R3",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R3",
+    "title": "Lands situate in more than one jurisdiction.",
+    "content": "Courts executing decrees\nWhere immovable property forms one estate or tenure situate within the local limits of the jurisdiction of two or more Courts, any one of such Courts may attach and sell the entire estate or tenure.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R3\" data-report=\"Order 21, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Lands situate in more than one jurisdiction.</h3></div><p class=\"prov-cite\">Order 21, Rule 3</p><div class=\"prov-body\"><p class=\"sched-title\">Courts executing decrees</p><p>Where immovable property forms one estate or tenure situate within the local limits of the jurisdiction of two or more Courts, any one of such Courts may attach and sell the entire estate or tenure.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Lands situate in more than one jurisdiction.</h3></div><p class=\"prov-cite\">Order 21, Rule 3</p><div class=\"prov-body\"><p class=\"sched-title\">Courts executing decrees</p><p>Where immovable property forms one estate or tenure situate within the local limits of the jurisdiction of two or more Courts, any one of such Courts may attach and sell the entire estate or tenure.</p></div>"
+  }
+}

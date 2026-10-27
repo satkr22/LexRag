@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_161_chunk_0",
+    "section_id": "income-tax-2025_section_161",
+    "token_count": 326,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Avoidance of Tax\n Section: 161::Computation of income from international transaction and specified domestic transaction having regard to arm's length price.\n]\n\n\n(1) Any income arising from an international transaction or a specified domestic transaction shall be determined having regard to the arm's length price.\n(2) Any allowance for any expense or interest arising from an international transaction or a specified domestic transaction shall also be determined having regard to the arm's length price.\n(3) If in an international transaction or specified domestic transaction, two or more associated enterprises enter into a mutual agreement or arrangement for—\n(a) allocation or apportionment of any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises; or\n(b) any contribution to any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises, the cost or expense allocated or apportioned to, or, contributed by, any such enterprise shall be determined having regard to the arm's length price of such benefit, service or facility.\n(4) The provisions of this section shall not apply if the determination under sub-section (1) or (2) or (3) has the effect of reducing the income chargeable to tax or increasing the loss, computed on the basis of entries made in the books of account in respect of the tax year in which the international transaction or specified domestic transaction was entered.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_161_chunk_0",
+      "section_id": "income-tax-2025_section_161",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Special Provisions Relating to Avoidance of Tax",
+      "section_number": "161",
+      "section_title": "Computation of income from international transaction and specified domestic transaction having regard to arm's length price."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-49.html",
+    "source_order": 49,
+    "article_order": 1,
+    "order": 687,
+    "stem": "section_O31R1",
+    "heading_number": "Order XXXI",
+    "heading_title": "Suits by or against trustees, executors and administrators",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O31R1",
+    "article_title": "Representation of beneficiaries in suits concerning property vested in trustees, etc.",
+    "id": "cpc_section_O31R1"
+  },
+  "id": "cpc_section_O31R1",
+  "heading": {
+    "number": "Order XXXI",
+    "title": "Suits by or against trustees, executors and administrators",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O31R1",
+    "title": "Representation of beneficiaries in suits concerning property vested in trustees, etc.",
+    "content": "In all suits concerning property vested in a trustee, executor or administrator, where the contention is between the persons beneficially interested in such property and a third person, the trustee, executor or Administrator shall represent the persons so interested, and it shall not ordinarily be necessary to make them parties to the suit. But the Court may, if it thinks fit, order them or any of them to be made parties.\n",
+    "html": "<article class=\"provision\" data-n=\"O31R1\" data-report=\"Order 31, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Representation of beneficiaries in suits concerning property vested in trustees, etc.</h3></div><p class=\"prov-cite\">Order 31, Rule 1</p><div class=\"prov-body\"><p>In all suits concerning property vested in a trustee, executor or administrator, where the contention is between the persons beneficially interested in such property and a third person, the trustee, executor or Administrator shall represent the persons so interested, and it shall not ordinarily be necessary to make them parties to the suit. But the Court may, if it thinks fit, order them or any of them to be made parties.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Representation of beneficiaries in suits concerning property vested in trustees, etc.</h3></div><p class=\"prov-cite\">Order 31, Rule 1</p><div class=\"prov-body\"><p>In all suits concerning property vested in a trustee, executor or administrator, where the contention is between the persons beneficially interested in such property and a third person, the trustee, executor or Administrator shall represent the persons so interested, and it shall not ordinarily be necessary to make them parties to the suit. But the Court may, if it thinks fit, order them or any of them to be made parties.</p></div>"
+  }
+}

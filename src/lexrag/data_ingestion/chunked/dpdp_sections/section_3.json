@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "dpdp_section_3_chunk_0",
+    "section_id": "dpdp_section_3",
+    "token_count": 239,
+    "text": "[Act: dpdp\n Chapter: Preliminary\n Section: 3::Application of Act.\n]\n\n\nSubject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India where the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of India, if such processing is in connection with any activity related to offering of goods or services to Data Principals within the territory of India;\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic purpose; and\n(ii) personal data that is made or caused to be made publicly available by—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for the time being in force in India to make such personal data publicly available.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal data on social media. In such case, the provisions of this Act shall not apply.",
+    "metadata": {
+      "chunk_id": "dpdp_section_3_chunk_0",
+      "section_id": "dpdp_section_3",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "3",
+      "section_title": "Application of Act."
+    }
+  }
+]

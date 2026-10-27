@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-05.html",
+    "source_order": 5,
+    "article_order": 2,
+    "order": 36,
+    "stem": "section_36",
+    "heading_number": "Chapter V",
+    "heading_title": "Arrest of Persons",
+    "heading_range": "35 – 62",
+    "heading_source": "group-head",
+    "article_number": "36",
+    "article_title": "Procedure of arrest and duties of officer making arrest",
+    "id": "bnss_section_36"
+  },
+  "id": "bnss_section_36",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Arrest of Persons",
+    "range": "35 – 62"
+  },
+  "article": {
+    "number": "36",
+    "title": "Procedure of arrest and duties of officer making arrest",
+    "content": "Every police officer while making an arrest shall—\n(a)bear an accurate, visible and clear identification of his name which will facilitate easy identification;\n(b)prepare a memorandum of arrest which shall be—\n(i)attested by at least one witness, who is a member of the family of the person arrested or a respectable member of the locality where the arrest is made;\n(ii)countersigned by the person arrested; and\n(c)inform the person arrested, unless the memorandum is attested by a member of his family, that he has a right to have a relative or a friend or any other person named by him to be informed of his arrest.\n",
+    "html": "<article class=\"provision\" data-n=\"36\" data-report=\"Section 36 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Procedure of arrest and duties of officer making arrest</h3></div><p class=\"prov-cite\">Section 36 · Chapter V</p><div class=\"prov-body\"><p>Every police officer while making an arrest shall—</p><p><span class=\"lbl\">(a)</span>bear an accurate, visible and clear identification of his name which will facilitate easy identification;</p><p><span class=\"lbl\">(b)</span>prepare a memorandum of arrest which shall be—</p><p class=\"lvl\"><span class=\"lbl\">(i)</span>attested by at least one witness, who is a member of the family of the person arrested or a respectable member of the locality where the arrest is made;</p><p class=\"lvl\"><span class=\"lbl\">(ii)</span>countersigned by the person arrested; and</p><p><span class=\"lbl\">(c)</span>inform the person arrested, unless the memorandum is attested by a member of his family, that he has a right to have a relative or a friend or any other person named by him to be informed of his arrest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Procedure of arrest and duties of officer making arrest</h3></div><p class=\"prov-cite\">Section 36 · Chapter V</p><div class=\"prov-body\"><p>Every police officer while making an arrest shall—</p><p><span class=\"lbl\">(a)</span>bear an accurate, visible and clear identification of his name which will facilitate easy identification;</p><p><span class=\"lbl\">(b)</span>prepare a memorandum of arrest which shall be—</p><p class=\"lvl\"><span class=\"lbl\">(i)</span>attested by at least one witness, who is a member of the family of the person arrested or a respectable member of the locality where the arrest is made;</p><p class=\"lvl\"><span class=\"lbl\">(ii)</span>countersigned by the person arrested; and</p><p><span class=\"lbl\">(c)</span>inform the person arrested, unless the memorandum is attested by a member of his family, that he has a right to have a relative or a friend or any other person named by him to be informed of his arrest.</p></div>"
+  }
+}

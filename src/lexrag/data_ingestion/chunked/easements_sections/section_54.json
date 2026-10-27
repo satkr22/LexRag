@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_54_chunk_0",
+    "section_id": "easements_section_54",
+    "token_count": 70,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 54::Grant may be express or implied.\n]\n\n\nThe grant of a license may be express or implied from the conduct of the grantor, and an agreement which purports to create an easement, but is ineffectual for that purpose, may operate to create a license.",
+    "metadata": {
+      "chunk_id": "easements_section_54_chunk_0",
+      "section_id": "easements_section_54",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "54",
+      "section_title": "Grant may be express or implied."
+    }
+  }
+]

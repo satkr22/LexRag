@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_46_chunk_0",
+    "section_id": "income-tax-1961_section_46",
+    "token_count": 198,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 46::Capital gains on distribution of assets by companies in liquidation.\n]\n\n\n(1) Notwithstanding anything contained in section 45, where the assets of a company are distributed to its shareholders on its liquidation, such distribution shall not be regarded as a transfer by the company for the purposes of section 45.\n(2) Where a shareholder on the liquidation of a company receives any money or other assets from the company, he shall be charge able to income-tax under the head \"Capital gains\", in respect of the money so received or the market value of the other assets on the date of distribution, as reduced by the amount assessed as dividend within the meaning of sub-clause (c) of clause (22) of section 2 and the sum so arrived at shall be deemed to be the full value of the consideration for the purposes of section 48.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_46_chunk_0",
+      "section_id": "income-tax-1961_section_46",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "46",
+      "section_title": "Capital gains on distribution of assets by companies in liquidation."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_181_chunk_0",
+    "section_id": "income-tax-2025_section_181",
+    "token_count": 412,
+    "text": "[Act: income-tax-2025\n Chapter: Generalanti-avoidance Rule\n Section: 181::Consequences of impermissible avoidance arrangement.\n]\n\n\n(1) If an arrangement is declared to be an impermissible avoidance arrangement, then, the consequences, in relation to tax, of the arrangement, including denial of tax benefit or a benefit under a tax treaty, shall be determined, in the manner as deemed appropriate in the circumstances of the case.\n(2) The consequences of an arrangement declared to be an impermissible avoidance arrangement as referred to in sub-section (1) shall include but shall not be limited to the following:—\n(a) disregarding, combining or recharacterising any step in, or a part or whole of, the impermissible avoidance arrangement;\n(b) treating the impermissible avoidance arrangement as if it had not been entered into or carried out;\n(c) disregarding any accommodating party or treating any accommodating party and any other party as one and the same person;\n(d) deeming persons who are connected persons in relation to each other to be one and the same person for the purposes of determining tax treatment of any amount;\n(e) reallocating amongst the parties to the arrangement—\n(i) any accrual, or receipt, of a capital nature or revenue nature; or\n(ii) any expenditure, deduction, relief or rebate;\n(f) treating—\n(i) the place of residence of any party to the arrangement; or\n(ii) the situs of an asset or of a transaction, at a place other than the place of residence, location of the asset or location of the transaction as provided under the arrangement; or\n(g) considering or looking through any arrangement by disregarding any corporate structure.\n(3) In this section,—\n(a) any equity may be treated as debt or vice versa;\n(b) any accrual, or receipt, of a capital nature may be treated as of revenue nature or vice versa; or\n(c) any expenditure, deduction, relief or rebate may be recharacterised.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_181_chunk_0",
+      "section_id": "income-tax-2025_section_181",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Generalanti-avoidance Rule",
+      "section_number": "181",
+      "section_title": "Consequences of impermissible avoidance arrangement."
+    }
+  }
+]

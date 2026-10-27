@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_245HA_chunk_0",
+    "section_id": "income-tax-1961_section_245HA",
+    "token_count": 451,
+    "text": "[Act: income-tax-1961\n Chapter: Settlement of cases\n Section: 245HA::Abatement of proceeding before Settlement Commission.\n]\n\n\n(1) Where—\n  (i) an application made under section 245C on or after the 1st day of June, 2007 has been rejected under sub-section (1) of section 245D; or\n  (ii) an application made under section 245C has not been allowed to be proceeded with under sub-section (2A) or further proceeded with under sub-section (2D) of section 245D; or\n  (iii) an application made under section 245C has been declared as invalid under sub-section (2C) of section 245D; or\n  (iiia) in respect of any application made under section 245C, an order under sub-section (4) of section 245D has been passed not providing for the terms of settlement; or\n  (iv) in respect of any other application made under section 245C, an order under sub-section (4) of section 245D has not been passed within the time or period specified under sub-section (4A) of section 245D, the proceedings before the Settlement Commission shall abate on the specified date.\n  Explanation.—For the purposes of this sub-section, \"specified date\" means—\n  (a) in respect of an application referred to in clause (i), the day on which the application was rejected;\n  (b) in respect of an application referred to in clause (ii), the 31st day of July, 2007;\n  (c) in respect of an application referred to in clause (iii), the last day of the month in which the application was declared invalid;\n  (ca) in respect of an application referred to clause (iiia), the day on which the order under sub-section (4) of section 245D was passed not providing for the terms of settlement;\n  (d) in respect of an application referred to in clause (iv), on the date on which the time or period specified in sub-section (4A) of section 245D expires.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245HA_chunk_0",
+      "section_id": "income-tax-1961_section_245HA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-A",
+      "chapter_title": "Settlement of cases",
+      "section_number": "245HA",
+      "section_title": "Abatement of proceeding before Settlement Commission."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_245HA_chunk_1",
+    "section_id": "income-tax-1961_section_245HA",
+    "token_count": 383,
+    "text": "[Act: income-tax-1961\n Chapter: Settlement of cases\n Section: 245HA::Abatement of proceeding before Settlement Commission.\n]\n\n\n(1) Where—\n  (2) Where a proceeding before the Settlement Commission abates, the Assessing Officer, or, as the case may be, any other income-tax authority before whom the proceeding at the time of making the application was pending, shall dispose of the case in accordance with the provisions of this Act as if no application under section 245C had been made.\n  (3) For the purposes of sub-section (2), the Assessing Officer, or, as the case may be, other income-tax authority, shall be entitled to use all the material and other information produced by the assessee before the Settlement Commission or the results of the inquiry held or evidence recorded by the Settlement Commission in the course of the proceedings before it, as if such material, information, inquiry and evidence had been produced before the Assessing Officer or other income-tax authority or held or recorded by him in the course of the proceedings before him.\n  (4) For the purposes of the time-limit under sections 149, 153, 153B, 154, 155, 158BE and 231 and for the purposes of payment of interest under section 243 or 244 or, as the case may be, section 244A, for making the assessment or reassessment under sub-section (2), the period commencing on and from the date of the application to the Settlement Commission under section 245C and ending with \"specified date\" referred to in sub-section (1) shall be excluded; and where the assessee is a firm, for the purposes of the time-limit for cancellation of registration of the firm under sub-section (1) of section 186, the period aforesaid shall, likewise, be excluded.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245HA_chunk_1",
+      "section_id": "income-tax-1961_section_245HA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-A",
+      "chapter_title": "Settlement of cases",
+      "section_number": "245HA",
+      "section_title": "Abatement of proceeding before Settlement Commission."
+    }
+  }
+]

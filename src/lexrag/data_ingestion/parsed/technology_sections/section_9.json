@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "technology",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "technology_sections/section-9.html",
+    "source_order": 15,
+    "article_order": 1,
+    "order": 15,
+    "stem": "section_9",
+    "heading_number": "Chapter III",
+    "heading_title": "Electronic Governance",
+    "heading_range": "ss. 4–10A",
+    "heading_source": "manifest",
+    "article_number": "9",
+    "article_title": "Sections 6, 7 and 8 not to confer right to insist document should be accepted in electronic form.",
+    "id": "technology_section_9"
+  },
+  "id": "technology_section_9",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Electronic Governance",
+    "range": "ss. 4–10A"
+  },
+  "article": {
+    "number": "9",
+    "title": "Sections 6, 7 and 8 not to confer right to insist document should be accepted in electronic form.",
+    "content": "Nothing contained in sections 6, 7 and 8 shall confer a right upon any person to insist that any Ministry or Department of the Central Government or the State Government or any authority or body established by or under any law or controlled or funded by the Central or State Government should accept, issue, create, retain and preserve any document in the form of electronic records or effect any monetary transaction in the electronic form.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Sections 6, 7 and 8 not to confer right to insist document should be accepted in electronic form.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter III  ·  pages 10–11 of the Act</p><div class=\"prov-body\"><p>Nothing contained in sections 6, 7 and 8 shall confer a right upon any person to insist that any Ministry or Department of the Central Government or the State Government or any authority or body established by or under any law or controlled or funded by the Central or State Government should accept, issue, create, retain and preserve any document in the form of electronic records or effect any monetary transaction in the electronic form.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Sections 6, 7 and 8 not to confer right to insist document should be accepted in electronic form.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter III  ·  pages 10–11 of the Act</p><div class=\"prov-body\"><p>Nothing contained in sections 6, 7 and 8 shall confer a right upon any person to insist that any Ministry or Department of the Central Government or the State Government or any authority or body established by or under any law or controlled or funded by the Central or State Government should accept, issue, create, retain and preserve any document in the form of electronic records or effect any monetary transaction in the electronic form.</p></div>"
+  }
+}

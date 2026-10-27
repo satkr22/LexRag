@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80AB_chunk_0",
+    "section_id": "income-tax-1961_section_80AB",
+    "token_count": 181,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80AB::Deductions to be made with reference to the income included in the gross total income.\n]\n\n\nWhere any deduction is required to be made or allowed under any section included in this Chapter under the heading \"C.—Deductions in respect of certain incomes\" in respect of any income of the nature specified in that section which is included in the gross total income of the assessee, then, notwithstanding anything contained in that section, for the purpose of computing the deduction under that section, the amount of income of that nature as computed in accordance with the provisions of this Act (before making any deduction under this Chapter) shall alone be deemed to be the amount of income of that nature which is derived or received by the assessee and which is included in his gross total income.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80AB_chunk_0",
+      "section_id": "income-tax-1961_section_80AB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80AB",
+      "section_title": "Deductions to be made with reference to the income included in the gross total income."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_13_chunk_0",
+    "section_id": "succession_section_13",
+    "token_count": 42,
+    "text": "[Act: succession\n Chapter: Of Domicile\n Section: 13::Continuance of new domicile.\n]\n\n\nA new domicile continues until the former domicile has been resumed or another has been acquired.",
+    "metadata": {
+      "chunk_id": "succession_section_13_chunk_0",
+      "section_id": "succession_section_13",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part II",
+      "chapter_title": "Of Domicile",
+      "section_number": "13",
+      "section_title": "Continuance of new domicile."
+    }
+  }
+]

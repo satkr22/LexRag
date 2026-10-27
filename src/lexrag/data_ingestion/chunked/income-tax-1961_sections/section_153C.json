@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_153C_chunk_0",
+    "section_id": "income-tax-1961_section_153C",
+    "token_count": 499,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 153C::Assessment of income of any other person.\n]\n\n\n(1) Notwithstanding anything contained in section 139, section 147, section 148, section 149, section 151 and section 153, where the Assessing Officer is satisfied that,—\n  (a) any money, bullion, jewellery or other valuable article or thing, seized or requisitioned, belongs to; or\n  (b) any books of account or documents, seized or requisitioned, pertains or pertain to, or any information contained therein, relates to, a person other than the person referred to in section 153A, then, the books of account or documents or assets, seized or requisitioned shall be handed over to the Assessing Officer having jurisdiction over such other person and that Assessing Officer shall proceed against each such other person and issue notice and assess or reassess the income of the other person in accordance with the provisions of section 153A, if, that Assessing Officer is satisfied that the books of account or documents or assets seized or requisitioned have a bearing on the determination of the total income of such other person for six assessment years immediately preceding the assessment year relevant to the previous year in which search is conducted or requisition is made and for the relevant assessment year or years referred to in sub-section (1) of section 153A :\n  Provided that in case of such other person, the reference to the date of initiation of the search under section 132 or making of requisition under section 132A in the second proviso to sub-section (1) of section 153A shall be construed as reference to the date of receiving the books of account or documents or assets seized or requisitioned by the Assessing Officer having jurisdiction over such other person :\n  Provided further that the Central Government may by rules made by it and published in the Official Gazette, specify the class or classes of cases in respect of such other person, in which the Assessing Officer shall not be required to issue notice for assessing or reassessing the total income for six assessment years immediately preceding the assessment year relevant to the previous year in which search is conducted or requisition is made and for the relevant assessment year or years as referred to in sub-section (1) of section 153A except in cases where any assessment or reassessment has abated.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_153C_chunk_0",
+      "section_id": "income-tax-1961_section_153C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "153C",
+      "section_title": "Assessment of income of any other person."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_153C_chunk_1",
+    "section_id": "income-tax-1961_section_153C",
+    "token_count": 384,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 153C::Assessment of income of any other person.\n]\n\n\n(1) Notwithstanding anything contained in section 139, section 147, section 148, section 149, section 151 and section 153, where the Assessing Officer is satisfied that,—\n  (2) Where books of account or documents or assets seized or requisitioned as referred to in sub-section (1) has or have been received by the Assessing Officer having jurisdiction over such other person after the due date for furnishing the return of income for the assessment year relevant to the previous year in which search is conducted under section 132 or requisition is made under section 132A and in respect of such assessment year—\n  (a) no return of income has been furnished by such other person and no notice under sub-section (1) of section 142 has been issued to him, or\n  (b) a return of income has been furnished by such other person but no notice under sub-section (2) of section 143 has been served and limitation of serving the notice under sub-section (2) of section 143 has expired, or\n  (c) assessment or reassessment, if any, has been made, before the date of receiving the books of account or documents or assets seized or requisitioned by the Assessing Officer having jurisdiction over such other person, such Assessing Officer shall issue the notice and assess or reassess total income of such other person of such assessment year in the manner provided in section 153A.\n  (3) Nothing contained in this section shall apply in relation to a search initiated under section 132 or books of account, other documents or any assets requisitioned under section 132A on or after the 1st day of April, 2021.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_153C_chunk_1",
+      "section_id": "income-tax-1961_section_153C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "153C",
+      "section_title": "Assessment of income of any other person."
+    }
+  }
+]

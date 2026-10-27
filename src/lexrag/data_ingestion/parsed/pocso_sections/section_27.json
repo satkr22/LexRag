@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "pocso",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "pocso_sections/section-27.html",
+    "source_order": 27,
+    "article_order": 1,
+    "order": 27,
+    "stem": "section_27",
+    "heading_number": "Chapter VI",
+    "heading_title": "Procedures for Recording Statement of the Child",
+    "heading_range": "ss. 24–27",
+    "heading_source": "manifest",
+    "article_number": "27",
+    "article_title": "Medical examination of a child.",
+    "id": "pocso_section_27"
+  },
+  "id": "pocso_section_27",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Procedures for Recording Statement of the Child",
+    "range": "ss. 24–27"
+  },
+  "article": {
+    "number": "27",
+    "title": "Medical examination of a child.",
+    "content": "(1) The medical examination of a child in respect of whom any offence has been committed under this Act, shall, notwithstanding that a First Information Report or complaint has not been registered for the offences under this Act, be conducted in accordance with section 164A of the Code of Criminal Procedure, 1973 (2 of 1973).\n(2) In case the victim is a girl child, the medical examination shall be conducted by a woman doctor.\n(3) The medical examination shall be conducted in the presence of the parent of the child or any other person in whom the child reposes trust or confidence.\n(4) Where, in case the parent of the child or other person referred to in sub-section (3) cannot be present, for any reason, during the medical examination of the child, the medical examination shall be conducted in the presence of a woman nominated by the head of the medical institution.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">27</span>Medical examination of a child.</h3></div><p class=\"prov-cite\">Section 27  ·  Chapter VI  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The medical examination of a child in respect of whom any offence has been committed under this Act, shall, notwithstanding that a First Information Report or complaint has not been registered for the offences under this Act, be conducted in accordance with section 164A of the Code of Criminal Procedure, 1973 (2 of 1973).</p><p class=\"lvl\">(2) In case the victim is a girl child, the medical examination shall be conducted by a woman doctor.</p><p class=\"lvl\">(3) The medical examination shall be conducted in the presence of the parent of the child or any other person in whom the child reposes trust or confidence.</p><p class=\"lvl\">(4) Where, in case the parent of the child or other person referred to in sub-section (3) cannot be present, for any reason, during the medical examination of the child, the medical examination shall be conducted in the presence of a woman nominated by the head of the medical institution.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">27</span>Medical examination of a child.</h3></div><p class=\"prov-cite\">Section 27  ·  Chapter VI  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The medical examination of a child in respect of whom any offence has been committed under this Act, shall, notwithstanding that a First Information Report or complaint has not been registered for the offences under this Act, be conducted in accordance with section 164A of the Code of Criminal Procedure, 1973 (2 of 1973).</p><p class=\"lvl\">(2) In case the victim is a girl child, the medical examination shall be conducted by a woman doctor.</p><p class=\"lvl\">(3) The medical examination shall be conducted in the presence of the parent of the child or any other person in whom the child reposes trust or confidence.</p><p class=\"lvl\">(4) Where, in case the parent of the child or other person referred to in sub-section (3) cannot be present, for any reason, during the medical examination of the child, the medical examination shall be conducted in the presence of a woman nominated by the head of the medical institution.</p></div>"
+  }
+}

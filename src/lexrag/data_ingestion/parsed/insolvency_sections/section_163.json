@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-13.html",
+    "source_order": 13,
+    "article_order": 15,
+    "order": 186,
+    "stem": "section_163",
+    "heading_number": "Part III · Chapter V",
+    "heading_title": "Administration and Distribution of the Estate of the Bankrupt",
+    "heading_range": "ss. 149–178",
+    "heading_source": "group-head",
+    "article_number": "163",
+    "article_title": "Challenge against disclaimed property.",
+    "id": "insolvency_section_163"
+  },
+  "id": "insolvency_section_163",
+  "heading": {
+    "number": "Part III · Chapter V",
+    "title": "Administration and Distribution of the Estate of the Bankrupt",
+    "range": "ss. 149–178"
+  },
+  "article": {
+    "number": "163",
+    "title": "Challenge against disclaimed property.",
+    "content": "(1) An application challenging the disclaimer may be made by the following persons under this section to the Adjudicating Authority—\n(a) any person who claims an interest in the disclaimed property; or\n(b) any person who is under any liability in respect of the disclaimed property; or\n(c) where the disclaimed property is a dwelling house, any person who on the date of application for bankruptcy was in occupation of or entitled to occupy that dwelling house.\n(2) The Adjudicating Authority may on an application under sub-section (1) make an order for the vesting of the disclaimed property in, or for its delivery to any of the persons mentioned in sub-section (1).\n(3) The Adjudicating Authority shall not make an order in favour of a person who has made an application under clause (b) of sub-section (1) except where it appears to the Adjudicating Authority that it would be just to do so for the purpose of compensating the person.\n(4) The effect of an order under this section shall be taken into account while assessing loss or damage sustained by any person in consequence of the disclaimer under sub-section (5) of section 160.\n(5) An order under sub-section (2) vesting property in any person need not be completed by any consequence, assignment or transfer.\n",
+    "html": "<article class=\"provision\" data-n=\"163\" data-report=\"Section 163 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">163</span>Challenge against disclaimed property.</h3></div><p class=\"prov-cite\">Section 163  ·  Part III · Chapter V  ·  pages 117–118 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An application challenging the disclaimer may be made by the following persons under this section to the Adjudicating Authority—</p><p class=\"lvl\">(a) any person who claims an interest in the disclaimed property; or</p><p class=\"lvl\">(b) any person who is under any liability in respect of the disclaimed property; or</p><p class=\"lvl\">(c) where the disclaimed property is a dwelling house, any person who on the date of application for bankruptcy was in occupation of or entitled to occupy that dwelling house.</p><p class=\"lvl\">(2) The Adjudicating Authority may on an application under sub-section (1) make an order for the vesting of the disclaimed property in, or for its delivery to any of the persons mentioned in sub-section (1).</p><p class=\"lvl\">(3) The Adjudicating Authority shall not make an order in favour of a person who has made an application under clause (b) of sub-section (1) except where it appears to the Adjudicating Authority that it would be just to do so for the purpose of compensating the person.</p><p class=\"lvl\">(4) The effect of an order under this section shall be taken into account while assessing loss or damage sustained by any person in consequence of the disclaimer under sub-section (5) of section 160.</p><p class=\"lvl\">(5) An order under sub-section (2) vesting property in any person need not be completed by any consequence, assignment or transfer.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">163</span>Challenge against disclaimed property.</h3></div><p class=\"prov-cite\">Section 163  ·  Part III · Chapter V  ·  pages 117–118 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An application challenging the disclaimer may be made by the following persons under this section to the Adjudicating Authority—</p><p class=\"lvl\">(a) any person who claims an interest in the disclaimed property; or</p><p class=\"lvl\">(b) any person who is under any liability in respect of the disclaimed property; or</p><p class=\"lvl\">(c) where the disclaimed property is a dwelling house, any person who on the date of application for bankruptcy was in occupation of or entitled to occupy that dwelling house.</p><p class=\"lvl\">(2) The Adjudicating Authority may on an application under sub-section (1) make an order for the vesting of the disclaimed property in, or for its delivery to any of the persons mentioned in sub-section (1).</p><p class=\"lvl\">(3) The Adjudicating Authority shall not make an order in favour of a person who has made an application under clause (b) of sub-section (1) except where it appears to the Adjudicating Authority that it would be just to do so for the purpose of compensating the person.</p><p class=\"lvl\">(4) The effect of an order under this section shall be taken into account while assessing loss or damage sustained by any person in consequence of the disclaimer under sub-section (5) of section 160.</p><p class=\"lvl\">(5) An order under sub-section (2) vesting property in any person need not be completed by any consequence, assignment or transfer.</p></div>"
+  }
+}

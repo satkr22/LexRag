@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-07a.html",
+    "source_order": 10,
+    "article_order": 3,
+    "order": 186,
+    "stem": "section_80AB",
+    "heading_number": "Chapter VIA",
+    "heading_title": "Deductions to Be Made in Computing Total Income",
+    "heading_range": "ss. 80A–80VV",
+    "heading_source": "group-head",
+    "article_number": "80AB",
+    "article_title": "Deductions to be made with reference to the income included in the gross total income.",
+    "id": "income-tax-1961_section_80AB"
+  },
+  "id": "income-tax-1961_section_80AB",
+  "heading": {
+    "number": "Chapter VIA",
+    "title": "Deductions to Be Made in Computing Total Income",
+    "range": "ss. 80A–80VV"
+  },
+  "article": {
+    "number": "80AB",
+    "title": "Deductions to be made with reference to the income included in the gross total income.",
+    "content": "Where any deduction is required to be made or allowed under any section included in this Chapter under the heading \"C.—Deductions in respect of certain incomes\" in respect of any income of the nature specified in that section which is included in the gross total income of the assessee, then, notwithstanding anything contained in that section, for the purpose of computing the deduction under that section, the amount of income of that nature as computed in accordance with the provisions of this Act (before making any deduction under this Chapter) shall alone be deemed to be the amount of income of that nature which is derived or received by the assessee and which is included in his gross total income.\n",
+    "html": "<article class=\"provision\" data-n=\"80AB\" data-report=\"Section 80AB · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80AB</span>Deductions to be made with reference to the income included in the gross total income.</h3></div><p class=\"prov-cite\">Section 80AB  ·  Chapter VIA  ·  A.—General  ·  page 280 of the Act</p><div class=\"prov-body\"><p>Where any deduction is required to be made or allowed under any section included in this Chapter under the heading \"C.—Deductions in respect of certain incomes\" in respect of any income of the nature specified in that section which is included in the gross total income of the assessee, then, notwithstanding anything contained in that section, for the purpose of computing the deduction under that section, the amount of income of that nature as computed in accordance with the provisions of this Act (before making any deduction under this Chapter) shall alone be deemed to be the amount of income of that nature which is derived or received by the assessee and which is included in his gross total income.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80AB</span>Deductions to be made with reference to the income included in the gross total income.</h3></div><p class=\"prov-cite\">Section 80AB  ·  Chapter VIA  ·  A.—General  ·  page 280 of the Act</p><div class=\"prov-body\"><p>Where any deduction is required to be made or allowed under any section included in this Chapter under the heading \"C.—Deductions in respect of certain incomes\" in respect of any income of the nature specified in that section which is included in the gross total income of the assessee, then, notwithstanding anything contained in that section, for the purpose of computing the deduction under that section, the amount of income of that nature as computed in accordance with the provisions of this Act (before making any deduction under this Chapter) shall alone be deemed to be the amount of income of that nature which is derived or received by the assessee and which is included in his gross total income.</p></div>"
+  }
+}

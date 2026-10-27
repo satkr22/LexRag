@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-27.html",
+    "source_order": 27,
+    "article_order": 3,
+    "order": 175,
+    "stem": "section_175",
+    "heading_number": "Part VI · Chapter XX",
+    "heading_title": "Of Bequests of Annuities",
+    "heading_range": "ss. 173–176",
+    "heading_source": "group-head",
+    "article_number": "175",
+    "article_title": "Abatement of annuity.",
+    "id": "succession_section_175"
+  },
+  "id": "succession_section_175",
+  "heading": {
+    "number": "Part VI · Chapter XX",
+    "title": "Of Bequests of Annuities",
+    "range": "ss. 173–176"
+  },
+  "article": {
+    "number": "175",
+    "title": "Abatement of annuity.",
+    "content": "Where an annuity is bequeathed, but the assets of the testator are not sufficient to pay all the legacies given by the will, the annuity shall abate in the same proportion as the other pecuniary legacies given by the will.\n",
+    "html": "<article class=\"provision\" data-n=\"175\" data-report=\"Section 175 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">175</span>Abatement of annuity.</h3></div><p class=\"prov-cite\">Section 175  ·  Part VI · Chapter XX  ·  page 61 of the Act</p><div class=\"prov-body\"><p>Where an annuity is bequeathed, but the assets of the testator are not sufficient to pay all the legacies given by the will, the annuity shall abate in the same proportion as the other pecuniary legacies given by the will.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">175</span>Abatement of annuity.</h3></div><p class=\"prov-cite\">Section 175  ·  Part VI · Chapter XX  ·  page 61 of the Act</p><div class=\"prov-body\"><p>Where an annuity is bequeathed, but the assets of the testator are not sufficient to pay all the legacies given by the will, the annuity shall abate in the same proportion as the other pecuniary legacies given by the will.</p></div>"
+  }
+}

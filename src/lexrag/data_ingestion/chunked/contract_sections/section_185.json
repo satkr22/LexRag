@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_185_chunk_0",
+    "section_id": "contract_section_185",
+    "token_count": 29,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 185::Consideration not necessary.\n]\n\n\nNo consideration is necessary to create an agency.",
+    "metadata": {
+      "chunk_id": "contract_section_185_chunk_0",
+      "section_id": "contract_section_185",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "185",
+      "section_title": "Consideration not necessary."
+    }
+  }
+]

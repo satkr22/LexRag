@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_20_chunk_0",
+    "section_id": "sale-of-goods_section_20",
+    "token_count": 90,
+    "text": "[Act: sale-of-goods\n Chapter: Effects of the Contract\n Section: 20::Specific goods in a deliverable state.\n]\n\n\nWhere there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made, and it is immaterial whether the time of payment of the price or the time of delivery of the goods, or both, is postponed.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_20_chunk_0",
+      "section_id": "sale-of-goods_section_20",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Effects of the Contract",
+      "section_number": "20",
+      "section_title": "Specific goods in a deliverable state."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-32.html",
+    "source_order": 32,
+    "article_order": 2,
+    "order": 437,
+    "stem": "section_437",
+    "heading_number": "Chapter XXXII",
+    "heading_title": "Reference and Revision",
+    "heading_range": "436 – 445",
+    "heading_source": "group-head",
+    "article_number": "437",
+    "article_title": "Disposal of case according to decision of High Court",
+    "id": "bnss_section_437"
+  },
+  "id": "bnss_section_437",
+  "heading": {
+    "number": "Chapter XXXII",
+    "title": "Reference and Revision",
+    "range": "436 – 445"
+  },
+  "article": {
+    "number": "437",
+    "title": "Disposal of case according to decision of High Court",
+    "content": "(1)When a question has been so referred, the High Court shall pass such order thereon as it thinks fit, and shall cause a copy of such order to be sent to the Court by which the reference was made, which shall dispose of the case conformably to the said order.\n(2)The High Court may direct by whom the costs of such reference shall be paid.\n",
+    "html": "<article class=\"provision\" data-n=\"437\" data-report=\"Section 437 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">437</span>Disposal of case according to decision of High Court</h3></div><p class=\"prov-cite\">Section 437 · Chapter XXXII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a question has been so referred, the High Court shall pass such order thereon as it thinks fit, and shall cause a copy of such order to be sent to the Court by which the reference was made, which shall dispose of the case conformably to the said order.</p><p><span class=\"lbl\">(2)</span>The High Court may direct by whom the costs of such reference shall be paid.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">437</span>Disposal of case according to decision of High Court</h3></div><p class=\"prov-cite\">Section 437 · Chapter XXXII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a question has been so referred, the High Court shall pass such order thereon as it thinks fit, and shall cause a copy of such order to be sent to the Court by which the reference was made, which shall dispose of the case conformably to the said order.</p><p><span class=\"lbl\">(2)</span>The High Court may direct by whom the costs of such reference shall be paid.</p></div>"
+  }
+}

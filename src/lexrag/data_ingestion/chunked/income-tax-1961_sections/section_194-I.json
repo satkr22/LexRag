@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194-I_chunk_0",
+    "section_id": "income-tax-1961_section_194-I",
+    "token_count": 495,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194-I::Rent.\n]\n\nAny person, not being an individual or a Hindu undivided family, who is responsible for paying to a resident any income by way of rent, shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of—\n\n(a) two per cent for the use of any machinery or plant or equipment; and\n  (b) ten per cent for the use of any land or building (including factory building) or land appurtenant to a building (including factory building) or furniture or fittings:\n  40 [Provided that no deduction shall be made under this section, where the income by way of rent credited or paid for a month or part of a month by such person to the account of, or to, the payee, does not exceed fifty thousand rupees:]\n  Provided further that an individual or a Hindu undivided family, whose total sales, gross receipts or turnover from the business or profession carried on by him exceed one crore rupees in case of business or fifty lakh rupees in case of profession during the financial year immediately preceding the financial year in which such income by way of rent is credited or paid, shall be liable to deduct income-tax under this section :\n  Provided also that no deduction shall be made under this section where the income by way of rent is credited or paid to a business trust, being a real estate investment trust, in respect of any real estate asset, referred to in clause (23FCA) of section 10, owned directly by such business trust.\n  Explanation.—For the purposes of this section,—\n  (i) \"rent\" means any payment, by whatever name called, under any lease, sub-lease, tenancy or any other agreement or arrangement for the use of (either separately or together) any,—\n  (a) land; or\n  (b) building (including factory building); or\n  (c) land appurtenant to a building (including factory building); or\n  (c) machinery; or\n  (d) plant; or\n  (f) equipment; or\n  (g) furniture; or",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194-I_chunk_0",
+      "section_id": "income-tax-1961_section_194-I",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194-I",
+      "section_title": "Rent."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_194-I_chunk_1",
+    "section_id": "income-tax-1961_section_194-I",
+    "token_count": 220,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194-I::Rent.\n]\n\nAny person, not being an individual or a Hindu undivided family, who is responsible for paying to a resident any income by way of rent, shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of—\n\n(a) two per cent for the use of any machinery or plant or equipment; and\n  (h) fittings, whether or not any or all of the above are owned by the payee;\n  (ii) where any income is credited to any account, whether called \"Suspense account\" or by any other name, in the books of account of the person liable to pay such income, such crediting shall be deemed to be credit of such income to the account of the payee and the provisions of this section shall apply accordingly.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194-I_chunk_1",
+      "section_id": "income-tax-1961_section_194-I",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194-I",
+      "section_title": "Rent."
+    }
+  }
+]

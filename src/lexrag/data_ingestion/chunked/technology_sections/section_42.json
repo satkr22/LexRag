@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_42_chunk_0",
+    "section_id": "technology_section_42",
+    "token_count": 146,
+    "text": "[Act: technology\n Chapter: Duties of Subscribers\n Section: 42::Control of private key.\n]\n\n\n(1) Every subscriber shall exercise reasonable care to retain control of the private key corresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent its disclosure 4***.\n(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, then, the subscriber shall communicate the same without any delay to the Certifying Authority in such manner as may be specified by the regulations.\nExplanation.–For the removal of doubts, it is hereby declared that the subscriber shall be liable till he has informed the Certifying Authority that the private key has been compromised.",
+    "metadata": {
+      "chunk_id": "technology_section_42_chunk_0",
+      "section_id": "technology_section_42",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Duties of Subscribers",
+      "section_number": "42",
+      "section_title": "Control of private key."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-06.html",
+    "source_order": 9,
+    "article_order": 8,
+    "order": 164,
+    "stem": "section_69C",
+    "heading_number": "Chapter VI",
+    "heading_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+    "heading_range": "ss. 66–80",
+    "heading_source": "group-head",
+    "article_number": "69C",
+    "article_title": "Unexplained expenditure, etc.",
+    "id": "income-tax-1961_section_69C"
+  },
+  "id": "income-tax-1961_section_69C",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+    "range": "ss. 66–80"
+  },
+  "article": {
+    "number": "69C",
+    "title": "Unexplained expenditure, etc.",
+    "content": "Where in any financial year an assessee has incurred any expenditure and he offers no explanation about the source of such expenditure or part thereof, or the explanation, if any, offered by him is not, in the opinion of the Assessing Officer, satisfactory, the amount covered by such expenditure or part thereof, as the case may be, may be deemed to be the income of the assessee for such financial year :\nProvided that, notwithstanding anything contained in any other provision of this Act, such unexplained expenditure which is deemed to be the income of the assessee shall not be allowed as a deduction under any head of income.\n",
+    "html": "<article class=\"provision\" data-n=\"69C\" data-report=\"Section 69C · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">69C</span>Unexplained expenditure, etc.</h3></div><p class=\"prov-cite\">Section 69C  ·  Chapter VI  ·  Aggregation of income  ·  page 256 of the Act</p><div class=\"prov-body\"><p>Where in any financial year an assessee has incurred any expenditure and he offers no explanation about the source of such expenditure or part thereof, or the explanation, if any, offered by him is not, in the opinion of the Assessing Officer, satisfactory, the amount covered by such expenditure or part thereof, as the case may be, may be deemed to be the income of the assessee for such financial year :</p><p class=\"prvso\">Provided that, notwithstanding anything contained in any other provision of this Act, such unexplained expenditure which is deemed to be the income of the assessee shall not be allowed as a deduction under any head of income.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">69C</span>Unexplained expenditure, etc.</h3></div><p class=\"prov-cite\">Section 69C  ·  Chapter VI  ·  Aggregation of income  ·  page 256 of the Act</p><div class=\"prov-body\"><p>Where in any financial year an assessee has incurred any expenditure and he offers no explanation about the source of such expenditure or part thereof, or the explanation, if any, offered by him is not, in the opinion of the Assessing Officer, satisfactory, the amount covered by such expenditure or part thereof, as the case may be, may be deemed to be the income of the assessee for such financial year :</p><p class=\"prvso\">Provided that, notwithstanding anything contained in any other provision of this Act, such unexplained expenditure which is deemed to be the income of the assessee shall not be allowed as a deduction under any head of income.</p></div>"
+  }
+}

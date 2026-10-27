@@ -1,0 +1,122 @@
+[
+  {
+    "question": "If an accused makes a confession to a police officer during investigation, how does the admissibility of such a confession under evidence rules interact with the procedure prescribed for recording confessions by a Magistrate?",
+    "referenced_sections": [
+      "bnss_section_183",
+      "bsa_section_23"
+    ],
+    "answer": "Under evidence law, a confession made to a police officer is irrelevant and cannot be proved against an accused person. To be legally valid and admissible as evidence, confessions during an investigation must be recorded by a Judicial Magistrate following the specific procedure of informing the accused that they are not bound to make a confession and ensuring it is made voluntarily."
+  },
+  {
+    "question": "What is the evidentiary status of an accused person who chooses to give evidence on their own behalf during trial, and can they be compelled to answer questions that might incriminate them?",
+    "referenced_sections": [
+      "bnss_section_353",
+      "bsa_section_137"
+    ],
+    "answer": "Under criminal procedure, an accused person is a competent witness for the defense and may give evidence on oath to dis-prove the charges against them or co-accused. However, while evidence law generally provides that witnesses are not excused from answering questions on the ground of self-incrimination, an accused person cannot be compelled to give evidence or answer questions except on their own written request."
+  },
+  {
+    "question": "How does the evidentiary value of an accomplice's testimony function when a tender of pardon has been granted to them during an inquiry or trial?",
+    "referenced_sections": [
+      "bnss_section_343",
+      "bsa_section_138"
+    ],
+    "answer": "Procedurally, a Magistrate or Court may tender a pardon to an accomplice on the condition that they make a full and true disclosure of all circumstances within their knowledge relative to the offence. Under evidence law, an accomplice is a competent witness against an accused person, and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice."
+  },
+  {
+    "question": "In a prosecution for rape where medical examination of the victim is conducted during investigation, what restriction does evidence law place on using the victim's character or previous sexual experience during cross-examination or trial?",
+    "referenced_sections": [
+      "bnss_section_184",
+      "bsa_section_48"
+    ],
+    "answer": "While procedural law mandates the medical examination of a rape victim within twenty-four hours of receiving information of the offence with details of injury and consent, evidence law explicitly bars the admission of evidence or cross-examination regarding the victim's general moral character or previous sexual experience on the issue of consent or quality of consent."
+  },
+  {
+    "question": "How can a Magistrate compel a person to provide specimen handwriting during an investigation, and how is that specimen used by the court to prove identity?",
+    "referenced_sections": [
+      "bnss_section_349",
+      "bsa_section_72"
+    ],
+    "answer": "Under procedural rules, a Magistrate may direct any person, including an accused, to give specimen signatures or handwriting for the purposes of investigation or proceeding. Under evidence law, the court can compare such specimen signatures or handwriting with any signature or writing that is disputed or alleged to have been written by that person to determine its authenticity."
+  },
+  {
+    "question": "How does procedural law facilitate the admission of reports from Government scientific experts in court without calling them as witnesses, and what general evidentiary rule governs expert opinions?",
+    "referenced_sections": [
+      "bnss_section_329",
+      "bsa_section_39"
+    ],
+    "answer": "Procedural law permits any document purporting to be a report under the hand of a Government scientific expert (such as chemical examiners or forensic experts) to be used as evidence in any inquiry or trial without calling the expert to testify. This acts as a special procedural exception to the general evidence rule where expert opinion on science, art, or handwriting is otherwise relevant and typically presented through expert testimony."
+  },
+  {
+    "question": "When police record search and seizure procedures using audio-video electronic means during an investigation, what requirements must be satisfied under evidence law for that recording to be admissible in court?",
+    "referenced_sections": [
+      "bnss_section_105",
+      "bsa_section_63"
+    ],
+    "answer": "Procedural law requires police officers to record the process of search and seizure, including the preparation of the list of seized items, using audio-video electronic means. To be admissible as evidence in trial, such electronic recordings must satisfy the conditions for admissibility of electronic records, including certification specified under the law of evidence regarding the integrity and proper operation of the electronic device used."
+  },
+  {
+    "question": "What procedural rule prevents a person from being tried twice for the same offence, and how is the previous judgment proved relevant under evidence rules?",
+    "referenced_sections": [
+      "bnss_section_337",
+      "bsa_section_34"
+    ],
+    "answer": "Procedural law lays down the principle of double jeopardy, establishing that a person once tried and acquitted or convicted of an offence cannot be tried again for the same offence while the judgment remains in force. Under evidence law, the existence of any judgment or order which by law prevents any Court from taking cognizance of a trial is a relevant fact when the question is whether such Court ought to take cognizance."
+  },
+  {
+    "question": "How does procedural law modify the general rule that facts must be proved by oral evidence when dealing with witnesses whose evidence is of a formal character?",
+    "referenced_sections": [
+      "bnss_section_332",
+      "bsa_section_54"
+    ],
+    "answer": "The general rule of evidence law mandates that all facts, except the contents of documents or electronic records, must be proved by oral evidence. However, procedural law provides an exception for witnesses whose evidence is of a formal character, allowing their evidence to be given by affidavit, subject to the court summoning and examining the witness upon application by the prosecution or accused."
+  },
+  {
+    "question": "Under what evidentiary circumstances is an accused's previous bad character relevant, and what procedural methods are used to prove a prior conviction in court?",
+    "referenced_sections": [
+      "bnss_section_334",
+      "bsa_section_49"
+    ],
+    "answer": "Under evidence law, the fact that an accused person has a bad character is generally irrelevant in criminal proceedings unless evidence has been given that they have a good character, or where a previous conviction is relevant as a fact in issue. Procedurally, a previous conviction may be proved by producing an extract certified by the officer having custody of the court records, an order of commitment, or a certificate signed by the officer in charge of the jail."
+  },
+  {
+    "question": "If an accused person has absconded with no immediate prospect of arrest, how can a court record witness depositions, and under what evidence rule can those depositions be used in a subsequent trial when the accused is caught?",
+    "referenced_sections": [
+      "bnss_section_335",
+      "bsa_section_27"
+    ],
+    "answer": "Procedural law allows the court to examine witnesses produced on behalf of the prosecution and record their depositions in the absence of an absconding accused. Under evidence law, evidence given by a witness in a judicial proceeding is relevant for proving the truth of facts it states in a subsequent proceeding when the witness is dead, cannot be found, or is incapable of giving evidence, allowing those recorded depositions to be given in evidence against the accused once arrested."
+  },
+  {
+    "question": "What procedural protection requires prior sanction to prosecute a Magistrate or Judge for acts done in their official capacity, and what privilege protects them from being compelled to answer questions about their judicial conduct?",
+    "referenced_sections": [
+      "bnss_section_218",
+      "bsa_section_127"
+    ],
+    "answer": "Procedurally, no court can take cognizance of an offence alleged to have been committed by a Judge or Magistrate while acting in the discharge of official duty except with previous sanction of the competent government authority. Under evidence rules, no Judge or Magistrate can be compelled to answer any questions as to their own conduct in court as such Judge or Magistrate, or as to anything which came to their knowledge in court, except upon the special order of a superior court."
+  },
+  {
+    "question": "What procedural bar exists for taking cognizance of offences relating to documents given in evidence, and who decides whether such a document is admissible in the proceeding?",
+    "referenced_sections": [
+      "bnss_section_215",
+      "bsa_section_141"
+    ],
+    "answer": "Procedural law dictates that no court shall take cognizance of offences involving forgery or tampering with documents produced or given in evidence in a court proceeding, except on the written complaint of that court or an authorized officer. Under evidence law, the Judge is tasked with deciding all questions regarding the admissibility of evidence, including determining whether a document proposed to be introduced meets legal standards."
+  },
+  {
+    "question": "How does a police inquest into an unnatural death of a married woman connect with the legal presumption regarding dowry death during trial?",
+    "referenced_sections": [
+      "bnss_section_194",
+      "bsa_section_118"
+    ],
+    "answer": "Procedural law mandates that when an officer in charge of a police station receives information of a woman's suicide or death under suspicious circumstances within seven years of marriage, they must immediately report to the nearest Magistrate and conduct an inquest. If the trial reveals the woman was subjected to cruelty or harassment for dowry soon before her death, evidence law creates a mandatory statutory presumption that the person who subjected her to such cruelty caused the dowry death."
+  },
+  {
+    "question": "How can a police officer use the police diary maintained during an investigation while testifying in court, and what evidentiary rule governs this use?",
+    "referenced_sections": [
+      "bnss_section_192",
+      "bsa_section_162"
+    ],
+    "answer": "Procedural law requires every investigating police officer to enter day-by-day proceedings in a case diary, which the accused cannot call for or inspect as a matter of right. However, if the police officer uses the case diary to refresh their memory while giving testimony, evidence law explicitly allows a witness to refresh memory by referring to any writing made by themselves at the time of the transaction, which then gives the adverse party the right to see the document and cross-examine the witness on it."
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "partnership_sections/section-41.html",
+    "source_order": 43,
+    "article_order": 1,
+    "order": 43,
+    "stem": "section_41",
+    "heading_number": "Chapter VI",
+    "heading_title": "Dissolution of a Firm",
+    "heading_range": "ss. 39–55",
+    "heading_source": "manifest",
+    "article_number": "41",
+    "article_title": "Compulsory dissolution.",
+    "id": "partnership_section_41"
+  },
+  "id": "partnership_section_41",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Dissolution of a Firm",
+    "range": "ss. 39–55"
+  },
+  "article": {
+    "number": "41",
+    "title": "Compulsory dissolution.",
+    "content": "A firm is dissolved—\n(a) by the adjudication of all the partners or of all the partners but one as insolvent, or\n(b) by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the partners to carry it on in partnership :\nProvided that, where more than one separate adventure or undertaking is carried on by the firm, the illegality of one or more shall not of itself cause the dissolution of the firm in respect of its lawful adventures and undertakings.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Compulsory dissolution.</h3></div><p class=\"prov-cite\">Section 41  ·  Chapter VI  ·  page 11 of the Act</p><div class=\"prov-body\"><p>A firm is dissolved—</p><p class=\"lvl\">(a) by the adjudication of all the partners or of all the partners but one as insolvent, or</p><p class=\"lvl\">(b) by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the partners to carry it on in partnership :</p><p class=\"prvso\">Provided that, where more than one separate adventure or undertaking is carried on by the firm, the illegality of one or more shall not of itself cause the dissolution of the firm in respect of its lawful adventures and undertakings.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Compulsory dissolution.</h3></div><p class=\"prov-cite\">Section 41  ·  Chapter VI  ·  page 11 of the Act</p><div class=\"prov-body\"><p>A firm is dissolved—</p><p class=\"lvl\">(a) by the adjudication of all the partners or of all the partners but one as insolvent, or</p><p class=\"lvl\">(b) by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the partners to carry it on in partnership :</p><p class=\"prvso\">Provided that, where more than one separate adventure or undertaking is carried on by the firm, the illegality of one or more shall not of itself cause the dissolution of the firm in respect of its lawful adventures and undertakings.</p></div>"
+  }
+}

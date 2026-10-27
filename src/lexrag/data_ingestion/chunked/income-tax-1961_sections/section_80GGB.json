@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80GGB_chunk_0",
+    "section_id": "income-tax-1961_section_80GGB",
+    "token_count": 161,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80GGB::Deduction in respect of contributions given by companies to political parties.\n]\n\n\nIn computing the total income of an assessee, being an Indian company, there shall be deducted any sum contributed by it, in the previous year to any political party or an electoral trust:\nProvided that no deduction shall be allowed under this section in respect of any sum contributed by way of cash.\nExplanation.—For the removal of doubts, it is hereby declared that for the purposes of this section, the word \"contribute\", with its grammatical variation, has the meaning assigned to it under section 293A of the Companies Act, 1956 (1 of 1956).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80GGB_chunk_0",
+      "section_id": "income-tax-1961_section_80GGB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80GGB",
+      "section_title": "Deduction in respect of contributions given by companies to political parties."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_14_chunk_0",
+    "section_id": "gst_section_14",
+    "token_count": 495,
+    "text": "[Act: gst\n Chapter: Time and Value of Supply\n Section: 14::Change in rate of tax in respect of supply of goods or services.\n]\n\n\nNotwithstanding anything contained in section 12 or section 13, the time of supply, where there is a change in the rate of tax in respect of goods or services or both, shall be determined in the following manner, namely:––\n(a) in case the goods or services or both have been supplied before the change in rate of tax,––\n(i) where the invoice for the same has been issued and the payment is also received after the change in rate of tax, the time of supply shall be the date of receipt of payment or the date of issue of invoice, whichever is earlier; or\n(ii) where the invoice has been issued prior to the change in rate of tax but payment is received after the change in rate of tax, the time of supply shall be the date of issue of invoice; or\n(iii) where the payment has been received before the change in rate of tax, but the invoice for the same is issued after the change in rate of tax, the time of supply shall be the date of receipt of payment;\n(b) in case the goods or services or both have been supplied after the change in rate of tax,––\n(i) where the payment is received after the change in rate of tax but the invoice has been issued prior to the change in rate of tax, the time of supply shall be the date of receipt of payment; or\n(ii) where the invoice has been issued and payment is received before the change in rate of tax, the time of supply shall be the date of receipt of payment or date of issue of invoice, whichever is earlier; or\n(iii) where the invoice has been issued after the change in rate of tax but the payment is received before the change in rate of tax, the time of supply shall be the date of issue of invoice:\nProvided that the date of receipt of payment shall be the date of credit in the bank account if such credit in the bank account is after four working days from the date of change in the rate of tax.\nExplanation.––For the purposes of this section, “the date of receipt of payment” shall be the date on which the payment is entered in the books of account of the supplier or the date on which the payment is credited to his bank account, whichever is earlier.",
+    "metadata": {
+      "chunk_id": "gst_section_14_chunk_0",
+      "section_id": "gst_section_14",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Time and Value of Supply",
+      "section_number": "14",
+      "section_title": "Change in rate of tax in respect of supply of goods or services."
+    }
+  }
+]

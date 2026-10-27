@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "legal-services",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": null,
+    "source_file": "legal-services_sections/section-30.html",
+    "source_order": 40,
+    "article_order": 1,
+    "order": 40,
+    "stem": "section_30",
+    "heading_number": "Chapter VII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 23–30",
+    "heading_source": "manifest",
+    "article_number": "30",
+    "article_title": "Laying of rules and regulations.",
+    "id": "legal-services_section_30"
+  },
+  "id": "legal-services_section_30",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Miscellaneous",
+    "range": "ss. 23–30"
+  },
+  "article": {
+    "number": "30",
+    "title": "Laying of rules and regulations.",
+    "content": "(1) Every rule made under this Act by the Central Government and every regulation made by the Central Authority thereunder shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session, or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.\n(2) Every rule made under this Act by a State Government and every regulation made by a State Authority thereunder shall be laid, as soon as may be after it is made, before the State Legislature.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>Laying of rules and regulations.</h3></div><p class=\"prov-cite\">Section 30  ·  Chapter VII  ·  pages 18–19 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every rule made under this Act by the Central Government and every regulation made by the Central Authority thereunder shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session, or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p><p class=\"lvl\">(2) Every rule made under this Act by a State Government and every regulation made by a State Authority thereunder shall be laid, as soon as may be after it is made, before the State Legislature.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>Laying of rules and regulations.</h3></div><p class=\"prov-cite\">Section 30  ·  Chapter VII  ·  pages 18–19 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every rule made under this Act by the Central Government and every regulation made by the Central Authority thereunder shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session, or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p><p class=\"lvl\">(2) Every rule made under this Act by a State Government and every regulation made by a State Authority thereunder shall be laid, as soon as may be after it is made, before the State Legislature.</p></div>"
+  }
+}

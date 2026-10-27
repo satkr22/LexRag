@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_132_chunk_0",
+    "section_id": "negotiable-instruments_section_132",
+    "token_count": 136,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Bills in Sets\n Section: 132::Set of bills.\n]\n\n\nBills of exchange may be drawn in parts, each part being numbered and containing a provision that it shall continue payable only so long as the others remain unpaid. All the parts together make a set; but the whole set constitutes only one bill, and is extinguished when one of the parts, if a separate bill, would be extinguished.\nException.—When a person accepts or indorses different parts of the bill in favour of different persons, he and the subsequent endorsers of each part are liable on such part as if it were a separate bill.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_132_chunk_0",
+      "section_id": "negotiable-instruments_section_132",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Of Bills in Sets",
+      "section_number": "132",
+      "section_title": "Set of bills."
+    }
+  }
+]

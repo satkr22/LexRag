@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/section-31.html",
+    "source_order": 168,
+    "article_order": 1,
+    "order": 168,
+    "stem": "section_31",
+    "heading_number": "Part V",
+    "heading_title": "Miscellaneous",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "31",
+    "article_title": "Provisions as to barred or pending suits, etc.",
+    "id": "limitation_section_31"
+  },
+  "id": "limitation_section_31",
+  "heading": {
+    "number": "Part V",
+    "title": "Miscellaneous",
+    "range": null
+  },
+  "article": {
+    "number": "31",
+    "title": "Provisions as to barred or pending suits, etc.",
+    "content": "Nothing in this Act shall,— (a) enable any suit, appeal or application to be instituted, preferred or made, for which the period of limitation prescribed by the Indian Limitation Act, 1908 (9 of 1908), expired before the commencement of this Act; or (b) affect any suit, appeal or application instituted, preferred or made before, and pending at, such commencement.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Provisions as to barred or pending suits, etc.</h3></div><p class=\"prov-cite\">Section 31  ·  Part V, Miscellaneous</p><div class=\"prov-body\"><p>Nothing in this Act shall,— (a) enable any suit, appeal or application to be instituted, preferred or made, for which the period of limitation prescribed by the Indian Limitation Act, 1908 (9 of 1908), expired before the commencement of this Act; or (b) affect any suit, appeal or application instituted, preferred or made before, and pending at, such commencement.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Provisions as to barred or pending suits, etc.</h3></div><p class=\"prov-cite\">Section 31  ·  Part V, Miscellaneous</p><div class=\"prov-body\"><p>Nothing in this Act shall,— (a) enable any suit, appeal or application to be instituted, preferred or made, for which the period of limitation prescribed by the Indian Limitation Act, 1908 (9 of 1908), expired before the commencement of this Act; or (b) affect any suit, appeal or application instituted, preferred or made before, and pending at, such commencement.</p></div>"
+  }
+}

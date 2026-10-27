@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-36.html",
+    "source_order": 40,
+    "article_order": 11,
+    "order": 529,
+    "stem": "section_167A",
+    "heading_number": "Chapter XV",
+    "heading_title": "Liability in Special Cases",
+    "heading_range": "ss. 159–181",
+    "heading_source": "group-head",
+    "article_number": "167A",
+    "article_title": "Charge of tax in the case of a firm.",
+    "id": "income-tax-1961_section_167A"
+  },
+  "id": "income-tax-1961_section_167A",
+  "heading": {
+    "number": "Chapter XV",
+    "title": "Liability in Special Cases",
+    "range": "ss. 159–181"
+  },
+  "article": {
+    "number": "167A",
+    "title": "Charge of tax in the case of a firm.",
+    "content": "In the case of a firm which is assessable as a firm, tax shall be charged on its total income at the rate as specified in the Finance Act of the relevant year.\n",
+    "html": "<article class=\"provision\" data-n=\"167A\" data-report=\"Section 167A · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">167A</span>Charge of tax in the case of a firm.</h3></div><p class=\"prov-cite\">Section 167A  ·  Chapter XV  ·  DD.—Firms, association of persons and body of individuals  ·  page 678 of the Act</p><div class=\"prov-body\"><p>In the case of a firm which is assessable as a firm, tax shall be charged on its total income at the rate as specified in the Finance Act of the relevant year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">167A</span>Charge of tax in the case of a firm.</h3></div><p class=\"prov-cite\">Section 167A  ·  Chapter XV  ·  DD.—Firms, association of persons and body of individuals  ·  page 678 of the Act</p><div class=\"prov-body\"><p>In the case of a firm which is assessable as a firm, tax shall be charged on its total income at the rate as specified in the Finance Act of the relevant year.</p></div>"
+  }
+}

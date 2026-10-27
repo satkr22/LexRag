@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "special-marriage_section_second-schedule_chunk_0",
+    "section_id": "special-marriage_section_second-schedule",
+    "token_count": 154,
+    "text": "[Act: special-marriage\n Chapter: Schedules · The Schedules\n Section: second-schedule::The Second Schedule\n]\n\n\nName\nCondition\nOccupation\nAge\nDwelling place\nPermanent dwelling place\nLength of residence at present dwelling place if not permanent\nA.B.\nUnmarried / Widower / Divorcee\nC.D.\nUnmarried / Widow / Divorcee\nTo\nMarriage Officer for the .........................................................................District.\nWe hereby give you notice that a marriage under the Special Marriage Act, 1954, is intended to be solemnized between us within three calendar months from the date hereof.\nWitness our hands this ....................................day of...........................................20......\n(Sd.) A.B.,\n(Sd.) C.D.,",
+    "metadata": {
+      "chunk_id": "special-marriage_section_second-schedule_chunk_0",
+      "section_id": "special-marriage_section_second-schedule",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "special-marriage",
+      "document_title": null,
+      "chapter_number": null,
+      "chapter_title": "Schedules · The Schedules",
+      "section_number": "second-schedule",
+      "section_title": "The Second Schedule"
+    }
+  }
+]

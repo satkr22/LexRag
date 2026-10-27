@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-05.html",
+    "source_order": 5,
+    "article_order": 30,
+    "order": 100,
+    "stem": "section_92",
+    "heading_number": "Chapter V",
+    "heading_title": "Control of Transport Vehicles",
+    "heading_range": "ss. 66–96",
+    "heading_source": "group-head",
+    "article_number": "92",
+    "article_title": "Voidance of contracts restrictive of liability.",
+    "id": "motor-vehicles_section_92"
+  },
+  "id": "motor-vehicles_section_92",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Control of Transport Vehicles",
+    "range": "ss. 66–96"
+  },
+  "article": {
+    "number": "92",
+    "title": "Voidance of contracts restrictive of liability.",
+    "content": "Any contract for the conveyance of a passenger in a 1[transport vehicle, in respect of which a permit or licence] has been issued under this Chapter, shall, so far as it purports to negative or restrict the liability of any person in respect of any claim made against that person in respect of the death of, or bodily injury to, the passenger while being carried in, entering or alighting from the vehicle, or purports to impose any conditions with respect to the enforcement of any such liability, be void.\n",
+    "html": "<article class=\"provision\" data-n=\"92\" data-report=\"Section 92 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>Voidance of contracts restrictive of liability.</h3></div><p class=\"prov-cite\">Section 92  ·  Chapter V  ·  page 66 of the Act</p><div class=\"prov-body\"><p>Any contract for the conveyance of a passenger in a <sup>1</sup>[transport vehicle, in respect of which a permit or licence] has been issued under this Chapter, shall, so far as it purports to negative or restrict the liability of any person in respect of any claim made against that person in respect of the death of, or bodily injury to, the passenger while being carried in, entering or alighting from the vehicle, or purports to impose any conditions with respect to the enforcement of any such liability, be void.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 32 of 2019, s. 35, for “stage carriage or contract carriage, in respect of which a permit” (w.e.f. 1-9-2019).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">92</span>Voidance of contracts restrictive of liability.</h3></div><p class=\"prov-cite\">Section 92  ·  Chapter V  ·  page 66 of the Act</p><div class=\"prov-body\"><p>Any contract for the conveyance of a passenger in a <sup>1</sup>[transport vehicle, in respect of which a permit or licence] has been issued under this Chapter, shall, so far as it purports to negative or restrict the liability of any person in respect of any claim made against that person in respect of the death of, or bodily injury to, the passenger while being carried in, entering or alighting from the vehicle, or purports to impose any conditions with respect to the enforcement of any such liability, be void.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 32 of 2019, s. 35, for “stage carriage or contract carriage, in respect of which a permit” (w.e.f. 1-9-2019).</p></div></div>"
+  }
+}

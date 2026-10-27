@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "partnership_sections/section-65.html",
+    "source_order": 67,
+    "article_order": 1,
+    "order": 67,
+    "stem": "section_65",
+    "heading_number": "Chapter VII",
+    "heading_title": "Registration of Firms",
+    "heading_range": "ss. 56–71",
+    "heading_source": "manifest",
+    "article_number": "65",
+    "article_title": "Amendment of Register by order of Court.",
+    "id": "partnership_section_65"
+  },
+  "id": "partnership_section_65",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Registration of Firms",
+    "range": "ss. 56–71"
+  },
+  "article": {
+    "number": "65",
+    "title": "Amendment of Register by order of Court.",
+    "content": "A Court deciding any matter relating to a registered firm may direct that the Registrar shall make any amendment in the entry in the Register of Firms relating to such firm which is consequential upon its decision; and the Registrar shall amend the entry accordingly.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">65</span>Amendment of Register by order of Court.</h3></div><p class=\"prov-cite\">Section 65  ·  Chapter VII  ·  page 17 of the Act</p><div class=\"prov-body\"><p>A Court deciding any matter relating to a registered firm may direct that the Registrar shall make any amendment in the entry in the Register of Firms relating to such firm which is consequential upon its decision; and the Registrar shall amend the entry accordingly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">65</span>Amendment of Register by order of Court.</h3></div><p class=\"prov-cite\">Section 65  ·  Chapter VII  ·  page 17 of the Act</p><div class=\"prov-body\"><p>A Court deciding any matter relating to a registered firm may direct that the Registrar shall make any amendment in the entry in the Register of Firms relating to such firm which is consequential upon its decision; and the Registrar shall amend the entry accordingly.</p></div>"
+  }
+}

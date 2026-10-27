@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-03.html",
+    "source_order": 3,
+    "article_order": 4,
+    "order": 35,
+    "stem": "section_32",
+    "heading_number": "Chapter III",
+    "heading_title": "Licensing of Conductors of Stage Carriages",
+    "heading_range": "ss. 29–38",
+    "heading_source": "group-head",
+    "article_number": "32",
+    "article_title": "Revocation of a conductor’s licence on grounds of disease or disability.",
+    "id": "motor-vehicles_section_32"
+  },
+  "id": "motor-vehicles_section_32",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Licensing of Conductors of Stage Carriages",
+    "range": "ss. 29–38"
+  },
+  "article": {
+    "number": "32",
+    "title": "Revocation of a conductor’s licence on grounds of disease or disability.",
+    "content": "A conductor’s licence may at any time be revoked by any licensing authority if that authority has reasonable grounds to believe that the holder of the licence is suffering from any disease or disability which is likely to render him permanently unfit to hold such a licence and where the authority revoking a conductor’s licence is not the authority which issued the same, it shall intimate the fact of such revocation to the authority which issued that licence:\nProvided that before revoking any licence, the licensing authority shall give the person holding such licence a reasonable opportunity of being heard.\n",
+    "html": "<article class=\"provision\" data-n=\"32\" data-report=\"Section 32 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Revocation of a conductor’s licence on grounds of disease or disability.</h3></div><p class=\"prov-cite\">Section 32  ·  Chapter III  ·  page 28 of the Act</p><div class=\"prov-body\"><p>A conductor’s licence may at any time be revoked by any licensing authority if that authority has reasonable grounds to believe that the holder of the licence is suffering from any disease or disability which is likely to render him permanently unfit to hold such a licence and where the authority revoking a conductor’s licence is not the authority which issued the same, it shall intimate the fact of such revocation to the authority which issued that licence:</p><p class=\"prvso\">Provided that before revoking any licence, the licensing authority shall give the person holding such licence a reasonable opportunity of being heard.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Revocation of a conductor’s licence on grounds of disease or disability.</h3></div><p class=\"prov-cite\">Section 32  ·  Chapter III  ·  page 28 of the Act</p><div class=\"prov-body\"><p>A conductor’s licence may at any time be revoked by any licensing authority if that authority has reasonable grounds to believe that the holder of the licence is suffering from any disease or disability which is likely to render him permanently unfit to hold such a licence and where the authority revoking a conductor’s licence is not the authority which issued the same, it shall intimate the fact of such revocation to the authority which issued that licence:</p><p class=\"prvso\">Provided that before revoking any licence, the licensing authority shall give the person holding such licence a reasonable opportunity of being heard.</p></div>"
+  }
+}

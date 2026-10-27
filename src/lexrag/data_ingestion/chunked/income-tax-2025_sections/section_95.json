@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_95_chunk_0",
+    "section_id": "income-tax-2025_section_95",
+    "token_count": 88,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 95::Profits chargeable to tax.\n]\n\n\nThe provision of section 38(1), (2), (3) and (4) shall apply in computing the income of an assessee under section 92, as they apply in computing the income of an assessee under the head \"Profits and gains of business or profession\".",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_95_chunk_0",
+      "section_id": "income-tax-2025_section_95",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "95",
+      "section_title": "Profits chargeable to tax."
+    }
+  }
+]

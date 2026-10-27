@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_275_chunk_0",
+    "section_id": "income-tax-1961_section_275",
+    "token_count": 489,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 275::Bar of limitation for imposing penalties.\n]\n\n\n(1) No order imposing a penalty under this Chapter shall be passed after the expiry of six months from the end of the quarter in which,—\n  (a) the proceedings, in the course of which action for the imposition of penalty has been initiated, are completed, if the relevant assessment or other order is not the subject matter of an appeal under section 246 or section 246A or section 253;\n  (b) the order of revision under section 263 or section 264 is passed, if the relevant assessment or other order is the subject matter of revision under the said sections;\n  (c) the order of appeal under section 246 or section 246A is received by the jurisdictional Principal Commissioner or Commissioner, if the relevant assessment or other order is the subject matter of an appeal under the said sections and no further appeal has been filed under section 253;\n  (d) the order of appeal under section 253 is received by the jurisdictional Principal Commissioner or Commissioner, if the relevant assessment or other order is the subject matter of an appeal under the said section;\n  (e) notice for imposition of penalty is issued, in any other case.\n  (2) The order imposing or enhancing or reducing or cancelling penalty or dropping the proceedings for the imposition of penalty may be revised on the basis of assessment as revised by giving effect to the order passed under section 246 or section 246A or section 253 or section 260A or section 261 or revision under section 263 or section 264, where the relevant assessment or other order is the subject matter of an appeal or a revision under the said sections.\n  (3) No order imposing or enhancing or reducing or cancelling penalty or dropping the proceedings for the imposition of penalty under sub-section (2) shall be passed—\n  (a) unless the assessee has been heard, or has been given a reasonable opportunity of being heard;\n  (b) after the expiry of six months from the end of the quarter in which the order passed under section 246 or section 246A or section 253 or section 260A or section 261 is received by the jurisdictional Principal Commissioner or Commissioner, or the order of revision under section 263 or section 264 is passed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_275_chunk_0",
+      "section_id": "income-tax-1961_section_275",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "275",
+      "section_title": "Bar of limitation for imposing penalties."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_275_chunk_1",
+    "section_id": "income-tax-1961_section_275",
+    "token_count": 203,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 275::Bar of limitation for imposing penalties.\n]\n\n\n(1) No order imposing a penalty under this Chapter shall be passed after the expiry of six months from the end of the quarter in which,—\n  (4) The provisions of sub-section (2) of section 274 shall apply to the order imposing or enhancing or reducing penalty under sub-section (2).\n  (5) In computing the period of limitation for the purposes of this section, the following period shall be excluded:—\n  (a) the time taken in giving an opportunity to the assessee to be reheard under the proviso to section 129;\n  (b) the period commencing on the date on which stay on proceeding for levy of penalty was granted by an order or injunction of any court and ending on the date on which certified copy of the order vacating the stay was received by the jurisdictional Principal Commissioner or Commissioner.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_275_chunk_1",
+      "section_id": "income-tax-1961_section_275",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "275",
+      "section_title": "Bar of limitation for imposing penalties."
+    }
+  }
+]

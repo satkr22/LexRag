@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "llp",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "llp_sections/section-32.html",
+    "source_order": 35,
+    "article_order": 1,
+    "order": 35,
+    "stem": "section_32",
+    "heading_number": "Chapter VI",
+    "heading_title": "Contributions",
+    "heading_range": "ss. 32–33",
+    "heading_source": "manifest",
+    "article_number": "32",
+    "article_title": "Form of contribution.",
+    "id": "llp_section_32"
+  },
+  "id": "llp_section_32",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Contributions",
+    "range": "ss. 32–33"
+  },
+  "article": {
+    "number": "32",
+    "title": "Form of contribution.",
+    "content": "(1) A contribution of a partner may consist of tangible, movable or immovable or intangible property or other benefit to the limited liability partnership, including money, promissory notes, other agreements to contribute cash or property, and contracts for services performed or to be performed.\n(2) The monetary value of contribution of each partner shall be accounted for and disclosed in the accounts of the limited liability partnership in the manner as may be prescribed.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Form of contribution.</h3></div><p class=\"prov-cite\">Section 32  ·  Chapter VI  ·  page 15 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A contribution of a partner may consist of tangible, movable or immovable or intangible property or other benefit to the limited liability partnership, including money, promissory notes, other agreements to contribute cash or property, and contracts for services performed or to be performed.</p><p class=\"lvl\">(2) The monetary value of contribution of each partner shall be accounted for and disclosed in the accounts of the limited liability partnership in the manner as may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Form of contribution.</h3></div><p class=\"prov-cite\">Section 32  ·  Chapter VI  ·  page 15 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A contribution of a partner may consist of tangible, movable or immovable or intangible property or other benefit to the limited liability partnership, including money, promissory notes, other agreements to contribute cash or property, and contracts for services performed or to be performed.</p><p class=\"lvl\">(2) The monetary value of contribution of each partner shall be accounted for and disclosed in the accounts of the limited liability partnership in the manner as may be prescribed.</p></div>"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_50_chunk_0",
+    "section_id": "motor-vehicles_section_50",
+    "token_count": 437,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 50::Transfer of ownership.\n]\n\n\n(1) Where the ownership of any motor vehicle registered under this Chapter is transferred,—\n  (a) the transferor shall,—\n  (i) in the case of a vehicle registered within the same State, within fourteen days of the transfer, report the fact of transfer, in such form with such documents and in such manner, as may be prescribed by the Central Government to the registering authority within whose jurisdiction the transfer is to be effected and shall simultaneously send a copy of the said report to the transferee; and\n  (ii) in the case of a vehicle registered outside the State, within forty-five days of the transfer, forward to the registering authority referred to in sub-clause (i)—\n  (A) the no objection certificate obtained under section 48; or\n  (B) in a case where no such certificate has been obtained,—\n  (I) the receipt obtained under sub-section (2) of section 48; or\n  (II) the postal acknowledgement received by the transferred if he has sent an application in this behalf by registered post acknowledgement due to the registering authority referred to in section 48, together with a declaration that he has not received any communication from such authority refusing to grant such certificate or requiring him to comply with any direction subject to which such certificate may be granted;\n  (b) the transferee shall, within thirty days of the transfer, report the transfer to the registering authority within whose jurisdiction he has the residence or place of business where the vehicle is normally kept, as the case may be, and shall forward the certificate of registration to that registering authority together with the prescribed fee and a copy of the report received by him from the transferor in order that particulars of the transfer of ownership may be entered in the certificate of registration.\n  (2) Where—\n  (a) the person in whose name a motor vehicle stands registered dies, or\n  (b) a motor vehicle has been purchased or acquired at a public auction conducted by, or on behalf of, Government,",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_50_chunk_0",
+      "section_id": "motor-vehicles_section_50",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "50",
+      "section_title": "Transfer of ownership."
+    }
+  },
+  {
+    "chunk_id": "motor-vehicles_section_50_chunk_1",
+    "section_id": "motor-vehicles_section_50",
+    "token_count": 489,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 50::Transfer of ownership.\n]\n\n\nthe person succeeding to the possession of the vehicle or, as the case may be, who has purchased or acquired the motor vehicle, shall make an application for the purpose of transferring the ownership of the vehicle in his name, to the registering authority in whose jurisdiction he has the residence or place of business where the vehicle is normally kept, as the case may be, in such manner, accompanied with such fee, and within such period as may be prescribed by the Central Government.\n  (3) If the transferor or the transferee fails to report to the registering authority the fact of transfer within the period specified in clause (a) or clause (b) of sub-section (1), as the case may be, or if the person who is required to make an application under sub-section (2) (hereafter in this section referred to as the other person) fails to make such application within the period prescribed, the registering authority may, having regard to the circumstances of the case, require the transferor or the transferee, or the other person, as the case may be, to pay, in lieu of any action that may be taken against him under section 177 such amount not exceeding one hundred rupees as may be prescribed under sub-section (5):\n  Provided that action under section 177 shall be taken against the transferor or the transferee or the other person, as the case may be, where he fails to pay the said amount.\n  (4) Where a person has paid the amount under sub-section (3), no action shall be taken against him under section 177.\n  (5) For the purposes of sub-section (3), a State Government may prescribe different amounts having regard to the period of delay on the part of the transferor or the transferee in reporting the fact of transfer of ownership of the motor vehicle or of the other person in making the application under sub-section (2).\n  (6) On receipt of a report under sub-section (1), or an application under sub-section (2), the registering authority may cause the transfer of ownership to be entered in the certificate of registration.\n  (7) A registering authority making any such entry shall communicate the transfer of ownership to the transferor and to the original registering authority, if it is not the original registering authority.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_50_chunk_1",
+      "section_id": "motor-vehicles_section_50",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "50",
+      "section_title": "Transfer of ownership."
+    }
+  }
+]

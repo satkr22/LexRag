@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_34_chunk_0",
+    "section_id": "gst_section_34",
+    "token_count": 510,
+    "text": "[Act: gst\n Chapter: Tax Invoice, Credit and Debit Notes\n Section: 34::Credit and debit notes.\n]\n\n\n(1) 2[Where one or more tax invoices have] been issued for supply of any goods or services or both and the taxable value or tax charged in that tax invoice is found to exceed the taxable value or tax payable in respect of such supply, or where the goods supplied are returned by the recipient, or where goods or services or both supplied are found to be deficient, the registered person, who has supplied such goods or services or both, may issue to the recipient 3[one or more credit notes for supplies made in a financial year] containing such particulars as may be prescribed.\n(2) Any registered person who issues a credit note in relation to a supply of goods or services or both shall declare the details of such credit note in the return for the month during which such credit note has been issued but not later than 4[the thirtieth day of November] following the end of the financial year in which such supply was made, or the date of furnishing of the relevant annual return, whichever is earlier, and the tax liability shall be adjusted in such manner as may be prescribed:\n1[Provided that no reduction in output tax liability of the supplier shall be permitted, if the––\n(i) input tax credit as is attributable to such a credit note, if availed, has not been reversed by the recipient, where such recipient is a registered person; or\n(ii) incidence of tax on such supply has been passed on to any other person, in other cases.]\n(3) 2[Where one or more tax invoices have] been issued for supply of any goods or services or both and the taxable value or tax charged in that tax invoice is found to be less than the taxable value or tax payable in respect of such supply, the registered person, who has supplied such goods or services or both, shall issue to the recipient 3[one or more debit notes for supplies made in a financial year] containing such particulars as may be prescribed.\n(4) Any registered person who issues a debit note in relation to a supply of goods or services or both shall declare the details of such debit note in the return for the month during which such debit note has been issued and the tax liability shall be adjusted in such manner as may be prescribed.\nExplanation.––For the purposes of this Act, the expression “debit note” shall include a supplementary invoice.",
+    "metadata": {
+      "chunk_id": "gst_section_34_chunk_0",
+      "section_id": "gst_section_34",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Tax Invoice, Credit and Debit Notes",
+      "section_number": "34",
+      "section_title": "Credit and debit notes."
+    }
+  }
+]

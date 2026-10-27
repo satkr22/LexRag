@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_48_chunk_0",
+    "section_id": "easements_section_48",
+    "token_count": 115,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 48::Extinction of accessory rights.\n]\n\n\nWhen an easement is extinguished, the rights (if any) accessory thereto are also extinguished.\nIllustration\nA has an easement to draw water from B’s well. As accessory thereto, he has a right of way over B’s land to and from the well. The easement to draw water is extinguished under section 47. The right of way is also extinguished.",
+    "metadata": {
+      "chunk_id": "easements_section_48_chunk_0",
+      "section_id": "easements_section_48",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "48",
+      "section_title": "Extinction of accessory rights."
+    }
+  }
+]

@@ -1,0 +1,1997 @@
+{
+  "index": "https://www.merasamvidhaan.in/consumer.html",
+  "groups": [
+    {
+      "id": "g0",
+      "chapter": "Chapter I",
+      "title": "Preliminary",
+      "range": "ss. 1â2",
+      "chips": [
+        {
+          "section": "1",
+          "href": "consumer/section-1.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-1.html",
+          "anchor": "",
+          "title": "Short title, extent, commencement and application."
+        },
+        {
+          "section": "2",
+          "href": "consumer/section-2.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-2.html",
+          "anchor": "",
+          "title": "Definitions."
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "chapter": "Chapter II",
+      "title": "Consumer Protection Councils",
+      "range": "ss. 3â9",
+      "chips": [
+        {
+          "section": "3",
+          "href": "consumer/section-3.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-3.html",
+          "anchor": "",
+          "title": "Central Consumer Protection Council."
+        },
+        {
+          "section": "4",
+          "href": "consumer/section-4.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-4.html",
+          "anchor": "",
+          "title": "Procedure for meetings of Central Council."
+        },
+        {
+          "section": "5",
+          "href": "consumer/section-5.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-5.html",
+          "anchor": "",
+          "title": "Objects of Central Council."
+        },
+        {
+          "section": "6",
+          "href": "consumer/section-6.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-6.html",
+          "anchor": "",
+          "title": "State Consumer Protection Councils."
+        },
+        {
+          "section": "7",
+          "href": "consumer/section-7.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-7.html",
+          "anchor": "",
+          "title": "Objects of State Council."
+        },
+        {
+          "section": "8",
+          "href": "consumer/section-8.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-8.html",
+          "anchor": "",
+          "title": "District Consumer Protection Council."
+        },
+        {
+          "section": "9",
+          "href": "consumer/section-9.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-9.html",
+          "anchor": "",
+          "title": "Objects of District Council."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "chapter": "Chapter III",
+      "title": "Cenral Consumer Protection Authority",
+      "range": "ss. 10â27",
+      "chips": [
+        {
+          "section": "10",
+          "href": "consumer/section-10.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-10.html",
+          "anchor": "",
+          "title": "Establishment of Central Consumer Protection Authority."
+        },
+        {
+          "section": "11",
+          "href": "consumer/section-11.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-11.html",
+          "anchor": "",
+          "title": "Qualifications, method of recruitment, etc., of Chief Commissioner and Commissioners."
+        },
+        {
+          "section": "12",
+          "href": "consumer/section-12.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-12.html",
+          "anchor": "",
+          "title": "Vacancy, etc., not to invalidate proceedings of Central Authority."
+        },
+        {
+          "section": "13",
+          "href": "consumer/section-13.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-13.html",
+          "anchor": "",
+          "title": "Appointment of officers, experts, professionals and other employees of Central Authority."
+        },
+        {
+          "section": "14",
+          "href": "consumer/section-14.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-14.html",
+          "anchor": "",
+          "title": "Procedure of Central Authority."
+        },
+        {
+          "section": "15",
+          "href": "consumer/section-15.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-15.html",
+          "anchor": "",
+          "title": "Investigation Wing."
+        },
+        {
+          "section": "16",
+          "href": "consumer/section-16.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-16.html",
+          "anchor": "",
+          "title": "Power of District Collector."
+        },
+        {
+          "section": "17",
+          "href": "consumer/section-17.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-17.html",
+          "anchor": "",
+          "title": "Complaints to authorities."
+        },
+        {
+          "section": "18",
+          "href": "consumer/section-18.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-18.html",
+          "anchor": "",
+          "title": "Powers and functions of Central Authority."
+        },
+        {
+          "section": "19",
+          "href": "consumer/section-19.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-19.html",
+          "anchor": "",
+          "title": "Power of Central Authority to refer matter for investigation or to other Regulator."
+        },
+        {
+          "section": "20",
+          "href": "consumer/section-20.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-20.html",
+          "anchor": "",
+          "title": "Power of Central Authority to recall goods, etc."
+        },
+        {
+          "section": "21",
+          "href": "consumer/section-21.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-21.html",
+          "anchor": "",
+          "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements."
+        },
+        {
+          "section": "22",
+          "href": "consumer/section-22.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-22.html",
+          "anchor": "",
+          "title": "Search and seizure."
+        },
+        {
+          "section": "23",
+          "href": "consumer/section-23.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-23.html",
+          "anchor": "",
+          "title": "Designation of any statutory authority or body to function as Central Authority."
+        },
+        {
+          "section": "24",
+          "href": "consumer/section-24.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-24.html",
+          "anchor": "",
+          "title": "Appeal."
+        },
+        {
+          "section": "25",
+          "href": "consumer/section-25.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-25.html",
+          "anchor": "",
+          "title": "Grants by Central Government."
+        },
+        {
+          "section": "26",
+          "href": "consumer/section-26.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-26.html",
+          "anchor": "",
+          "title": "Accounts and audit."
+        },
+        {
+          "section": "27",
+          "href": "consumer/section-27.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-27.html",
+          "anchor": "",
+          "title": "Furnishing of annual reports, etc."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "chapter": "Chapter IV",
+      "title": "Consumer Disputer Redressal Commission",
+      "range": "ss. 28â73",
+      "chips": [
+        {
+          "section": "28",
+          "href": "consumer/section-28.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-28.html",
+          "anchor": "",
+          "title": "Establishment of District Consumer Disputes Redressal Commission."
+        },
+        {
+          "section": "29",
+          "href": "consumer/section-29.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-29.html",
+          "anchor": "",
+          "title": "Qualifications, etc., of President and members of District Commission."
+        },
+        {
+          "section": "30",
+          "href": "consumer/section-30.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-30.html",
+          "anchor": "",
+          "title": "Salaries, allowances and other terms and conditions of service of President and members of District Commission."
+        },
+        {
+          "section": "31",
+          "href": "consumer/section-31.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-31.html",
+          "anchor": "",
+          "title": "Transitional provision."
+        },
+        {
+          "section": "32",
+          "href": "consumer/section-32.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-32.html",
+          "anchor": "",
+          "title": "Vacancy in office of member of District Commission."
+        },
+        {
+          "section": "33",
+          "href": "consumer/section-33.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-33.html",
+          "anchor": "",
+          "title": "Officers and other employees of District Commission."
+        },
+        {
+          "section": "34",
+          "href": "consumer/section-34.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-34.html",
+          "anchor": "",
+          "title": "Jurisdiction of District Commission."
+        },
+        {
+          "section": "35",
+          "href": "consumer/section-35.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-35.html",
+          "anchor": "",
+          "title": "Manner in which complaint shall be made."
+        },
+        {
+          "section": "36",
+          "href": "consumer/section-36.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-36.html",
+          "anchor": "",
+          "title": "Proceedings before District Commission."
+        },
+        {
+          "section": "37",
+          "href": "consumer/section-37.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-37.html",
+          "anchor": "",
+          "title": "Reference to mediation."
+        },
+        {
+          "section": "38",
+          "href": "consumer/section-38.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-38.html",
+          "anchor": "",
+          "title": "Procedure on admission of complaint."
+        },
+        {
+          "section": "39",
+          "href": "consumer/section-39.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-39.html",
+          "anchor": "",
+          "title": "Findings of District Commission."
+        },
+        {
+          "section": "40",
+          "href": "consumer/section-40.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-40.html",
+          "anchor": "",
+          "title": "Review by District Commission in certain cases."
+        },
+        {
+          "section": "41",
+          "href": "consumer/section-41.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-41.html",
+          "anchor": "",
+          "title": "Appeal against order of District Commission."
+        },
+        {
+          "section": "42",
+          "href": "consumer/section-42.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-42.html",
+          "anchor": "",
+          "title": "Establishment of State Consumer Disputes Redressal Commission."
+        },
+        {
+          "section": "43",
+          "href": "consumer/section-43.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-43.html",
+          "anchor": "",
+          "title": "Qualifications, etc., of President and members of State Commission."
+        },
+        {
+          "section": "44",
+          "href": "consumer/section-44.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-44.html",
+          "anchor": "",
+          "title": "Salaries, allowances and other terms and conditions of service of President and members of State Commission."
+        },
+        {
+          "section": "45",
+          "href": "consumer/section-45.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-45.html",
+          "anchor": "",
+          "title": "Transitional provision."
+        },
+        {
+          "section": "46",
+          "href": "consumer/section-46.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-46.html",
+          "anchor": "",
+          "title": "Officers and employees of State Commission."
+        },
+        {
+          "section": "47",
+          "href": "consumer/section-47.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-47.html",
+          "anchor": "",
+          "title": "Jurisdiction of State Commission."
+        },
+        {
+          "section": "48",
+          "href": "consumer/section-48.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-48.html",
+          "anchor": "",
+          "title": "Transfer of cases."
+        },
+        {
+          "section": "49",
+          "href": "consumer/section-49.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-49.html",
+          "anchor": "",
+          "title": "Procedure applicable to State Commission."
+        },
+        {
+          "section": "50",
+          "href": "consumer/section-50.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-50.html",
+          "anchor": "",
+          "title": "Review by State Commission in certain cases."
+        },
+        {
+          "section": "51",
+          "href": "consumer/section-51.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-51.html",
+          "anchor": "",
+          "title": "Appeal to National Commission."
+        },
+        {
+          "section": "52",
+          "href": "consumer/section-52.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-52.html",
+          "anchor": "",
+          "title": "Hearing of appeal."
+        },
+        {
+          "section": "53",
+          "href": "consumer/section-53.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-53.html",
+          "anchor": "",
+          "title": "Establishment of National Consumer Disputes Redressal Commission."
+        },
+        {
+          "section": "54",
+          "href": "consumer/section-54.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-54.html",
+          "anchor": "",
+          "title": "Composition of National Commission."
+        },
+        {
+          "section": "55",
+          "href": "consumer/section-55.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-55.html",
+          "anchor": "",
+          "title": "Qualifications, etc., of President and members of National Commission."
+        },
+        {
+          "section": "56",
+          "href": "consumer/section-56.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-56.html",
+          "anchor": "",
+          "title": "Transitional provision."
+        },
+        {
+          "section": "57",
+          "href": "consumer/section-57.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-57.html",
+          "anchor": "",
+          "title": "Other officers and employees of National Commission."
+        },
+        {
+          "section": "58",
+          "href": "consumer/section-58.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-58.html",
+          "anchor": "",
+          "title": "Jurisdiction of National Commission."
+        },
+        {
+          "section": "59",
+          "href": "consumer/section-59.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-59.html",
+          "anchor": "",
+          "title": "Procedure applicable to National Commission."
+        },
+        {
+          "section": "60",
+          "href": "consumer/section-60.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-60.html",
+          "anchor": "",
+          "title": "Review by National Commission in certain cases."
+        },
+        {
+          "section": "61",
+          "href": "consumer/section-61.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-61.html",
+          "anchor": "",
+          "title": "Power to set aside ex parte orders."
+        },
+        {
+          "section": "62",
+          "href": "consumer/section-62.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-62.html",
+          "anchor": "",
+          "title": "Transfer of cases."
+        },
+        {
+          "section": "63",
+          "href": "consumer/section-63.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-63.html",
+          "anchor": "",
+          "title": "Vacancy in office of President of National Commission."
+        },
+        {
+          "section": "64",
+          "href": "consumer/section-64.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-64.html",
+          "anchor": "",
+          "title": "Vacancies or defects in appointment not to invalidate orders."
+        },
+        {
+          "section": "65",
+          "href": "consumer/section-65.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-65.html",
+          "anchor": "",
+          "title": "Service of notice, etc."
+        },
+        {
+          "section": "66",
+          "href": "consumer/section-66.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-66.html",
+          "anchor": "",
+          "title": "Experts to assist National Commission or State Commission."
+        },
+        {
+          "section": "67",
+          "href": "consumer/section-67.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-67.html",
+          "anchor": "",
+          "title": "Appeal against order of National Commission."
+        },
+        {
+          "section": "68",
+          "href": "consumer/section-68.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-68.html",
+          "anchor": "",
+          "title": "Finality of orders."
+        },
+        {
+          "section": "69",
+          "href": "consumer/section-69.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-69.html",
+          "anchor": "",
+          "title": "Limitation period."
+        },
+        {
+          "section": "70",
+          "href": "consumer/section-70.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-70.html",
+          "anchor": "",
+          "title": "Administrative control."
+        },
+        {
+          "section": "71",
+          "href": "consumer/section-71.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-71.html",
+          "anchor": "",
+          "title": "Enforcement of orders of District Commission, State Commission and National Commission."
+        },
+        {
+          "section": "72",
+          "href": "consumer/section-72.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-72.html",
+          "anchor": "",
+          "title": "Penalty for non-compliance of order."
+        },
+        {
+          "section": "73",
+          "href": "consumer/section-73.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-73.html",
+          "anchor": "",
+          "title": "Appeal against order passed under section 72."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "chapter": "Chapter V",
+      "title": "Mediation",
+      "range": "ss. 74â81",
+      "chips": [
+        {
+          "section": "74",
+          "href": "consumer/section-74.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-74.html",
+          "anchor": "",
+          "title": "Establishment of consumer mediation cell."
+        },
+        {
+          "section": "75",
+          "href": "consumer/section-75.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-75.html",
+          "anchor": "",
+          "title": "Empanelment of mediators."
+        },
+        {
+          "section": "76",
+          "href": "consumer/section-76.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-76.html",
+          "anchor": "",
+          "title": "Nomination of mediators from panel."
+        },
+        {
+          "section": "77",
+          "href": "consumer/section-77.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-77.html",
+          "anchor": "",
+          "title": "Duty of mediator to disclose certain facts."
+        },
+        {
+          "section": "78",
+          "href": "consumer/section-78.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-78.html",
+          "anchor": "",
+          "title": "Replacement of mediator in certain cases."
+        },
+        {
+          "section": "79",
+          "href": "consumer/section-79.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-79.html",
+          "anchor": "",
+          "title": "Procedure for mediation."
+        },
+        {
+          "section": "80",
+          "href": "consumer/section-80.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-80.html",
+          "anchor": "",
+          "title": "Settlement through mediation."
+        },
+        {
+          "section": "81",
+          "href": "consumer/section-81.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-81.html",
+          "anchor": "",
+          "title": "Recording settlement and passing of order."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "chapter": "Chapter VI",
+      "title": "Product Liability",
+      "range": "ss. 82â87",
+      "chips": [
+        {
+          "section": "82",
+          "href": "consumer/section-82.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-82.html",
+          "anchor": "",
+          "title": "Application of Chapter."
+        },
+        {
+          "section": "83",
+          "href": "consumer/section-83.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-83.html",
+          "anchor": "",
+          "title": "Product liability action."
+        },
+        {
+          "section": "84",
+          "href": "consumer/section-84.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-84.html",
+          "anchor": "",
+          "title": "Liability of product manufacturer."
+        },
+        {
+          "section": "85",
+          "href": "consumer/section-85.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-85.html",
+          "anchor": "",
+          "title": "Liability of product service provider."
+        },
+        {
+          "section": "86",
+          "href": "consumer/section-86.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-86.html",
+          "anchor": "",
+          "title": "Liability of product sellers."
+        },
+        {
+          "section": "87",
+          "href": "consumer/section-87.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-87.html",
+          "anchor": "",
+          "title": "Exceptions to product liability action."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "chapter": "Chapter VII",
+      "title": "Offences and Penalties",
+      "range": "ss. 88â93",
+      "chips": [
+        {
+          "section": "88",
+          "href": "consumer/section-88.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-88.html",
+          "anchor": "",
+          "title": "Penalty for non-compliance of direction of Central Authority."
+        },
+        {
+          "section": "89",
+          "href": "consumer/section-89.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-89.html",
+          "anchor": "",
+          "title": "Punishment for false or misleading advertisement."
+        },
+        {
+          "section": "90",
+          "href": "consumer/section-90.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-90.html",
+          "anchor": "",
+          "title": "Punishment for manufacturing for sale or storing, selling or distributing or importing products containing adulterant."
+        },
+        {
+          "section": "91",
+          "href": "consumer/section-91.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-91.html",
+          "anchor": "",
+          "title": "Punishment for manufacturing for sale or for storing or selling or distributing or importing spurious goods."
+        },
+        {
+          "section": "92",
+          "href": "consumer/section-92.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-92.html",
+          "anchor": "",
+          "title": "Cognizance of offence by court."
+        },
+        {
+          "section": "93",
+          "href": "consumer/section-93.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-93.html",
+          "anchor": "",
+          "title": "Vexatious search."
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "chapter": "Chapter VIII",
+      "title": "Miscellaneous",
+      "range": "ss. 94â107",
+      "chips": [
+        {
+          "section": "94",
+          "href": "consumer/section-94.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-94.html",
+          "anchor": "",
+          "title": "Measures to prevent unfair trade practices in e-commerce, direct selling, etc."
+        },
+        {
+          "section": "95",
+          "href": "consumer/section-95.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-95.html",
+          "anchor": "",
+          "title": "Presidents, members, Chief Commissioner, Commissioner and certain officers to be public servants."
+        },
+        {
+          "section": "96",
+          "href": "consumer/section-96.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-96.html",
+          "anchor": "",
+          "title": "Compounding of offences."
+        },
+        {
+          "section": "97",
+          "href": "consumer/section-97.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-97.html",
+          "anchor": "",
+          "title": "Manner of crediting penalty."
+        },
+        {
+          "section": "98",
+          "href": "consumer/section-98.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-98.html",
+          "anchor": "",
+          "title": "Protection of action taken in good faith."
+        },
+        {
+          "section": "99",
+          "href": "consumer/section-99.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-99.html",
+          "anchor": "",
+          "title": "Power to give directions by Central Government."
+        },
+        {
+          "section": "100",
+          "href": "consumer/section-100.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-100.html",
+          "anchor": "",
+          "title": "Act not in derogation of any other law."
+        },
+        {
+          "section": "101",
+          "href": "consumer/section-101.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-101.html",
+          "anchor": "",
+          "title": "Power of Central Government to make rules."
+        },
+        {
+          "section": "102",
+          "href": "consumer/section-102.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-102.html",
+          "anchor": "",
+          "title": "Power of State Government to make rules."
+        },
+        {
+          "section": "103",
+          "href": "consumer/section-103.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-103.html",
+          "anchor": "",
+          "title": "Power of National Commission to make regulations."
+        },
+        {
+          "section": "104",
+          "href": "consumer/section-104.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-104.html",
+          "anchor": "",
+          "title": "Power of Central Authority to make regulations."
+        },
+        {
+          "section": "105",
+          "href": "consumer/section-105.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-105.html",
+          "anchor": "",
+          "title": "Rules and regulations to be laid before each House of Parliament."
+        },
+        {
+          "section": "106",
+          "href": "consumer/section-106.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-106.html",
+          "anchor": "",
+          "title": "Power to Remove Difficulties."
+        },
+        {
+          "section": "107",
+          "href": "consumer/section-107.html",
+          "url": "https://www.merasamvidhaan.in/consumer/section-107.html",
+          "anchor": "",
+          "title": "Repeal and savings."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-1.html",
+      "chapters": [
+        "Chapter I"
+      ],
+      "sections": [
+        "1"
+      ],
+      "file": "section-1.html",
+      "bytes": 12268
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-2.html",
+      "chapters": [
+        "Chapter I"
+      ],
+      "sections": [
+        "2"
+      ],
+      "file": "section-2.html",
+      "bytes": 37991
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-3.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "3"
+      ],
+      "file": "section-3.html",
+      "bytes": 10895
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-4.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "4"
+      ],
+      "file": "section-4.html",
+      "bytes": 10670
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-5.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "5"
+      ],
+      "file": "section-5.html",
+      "bytes": 9966
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-6.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "6"
+      ],
+      "file": "section-6.html",
+      "bytes": 11338
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-7.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "7"
+      ],
+      "file": "section-7.html",
+      "bytes": 9979
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-8.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "8"
+      ],
+      "file": "section-8.html",
+      "bytes": 11248
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-9.html",
+      "chapters": [
+        "Chapter II"
+      ],
+      "sections": [
+        "9"
+      ],
+      "file": "section-9.html",
+      "bytes": 10029
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-10.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "10"
+      ],
+      "file": "section-10.html",
+      "bytes": 11473
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-11.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "11"
+      ],
+      "file": "section-11.html",
+      "bytes": 10869
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-12.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "12"
+      ],
+      "file": "section-12.html",
+      "bytes": 10768
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-13.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "13"
+      ],
+      "file": "section-13.html",
+      "bytes": 11526
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-14.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "14"
+      ],
+      "file": "section-14.html",
+      "bytes": 10971
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-15.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "15"
+      ],
+      "file": "section-15.html",
+      "bytes": 11594
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-16.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "16"
+      ],
+      "file": "section-16.html",
+      "bytes": 10647
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-17.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "17"
+      ],
+      "file": "section-17.html",
+      "bytes": 10496
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-18.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "18"
+      ],
+      "file": "section-18.html",
+      "bytes": 13024
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-19.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "19"
+      ],
+      "file": "section-19.html",
+      "bytes": 11708
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-20.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "20"
+      ],
+      "file": "section-20.html",
+      "bytes": 11166
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-21.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "21"
+      ],
+      "file": "section-21.html",
+      "bytes": 13643
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-22.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "22"
+      ],
+      "file": "section-22.html",
+      "bytes": 12214
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-23.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "23"
+      ],
+      "file": "section-23.html",
+      "bytes": 10606
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-24.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "24"
+      ],
+      "file": "section-24.html",
+      "bytes": 10127
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-25.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "25"
+      ],
+      "file": "section-25.html",
+      "bytes": 10371
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-26.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "26"
+      ],
+      "file": "section-26.html",
+      "bytes": 11682
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-27.html",
+      "chapters": [
+        "Chapter III"
+      ],
+      "sections": [
+        "27"
+      ],
+      "file": "section-27.html",
+      "bytes": 10827
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-28.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "28"
+      ],
+      "file": "section-28.html",
+      "bytes": 11112
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-29.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "29"
+      ],
+      "file": "section-29.html",
+      "bytes": 10724
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-30.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "30"
+      ],
+      "file": "section-30.html",
+      "bytes": 10776
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-31.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "31"
+      ],
+      "file": "section-31.html",
+      "bytes": 10389
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-32.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "32"
+      ],
+      "file": "section-32.html",
+      "bytes": 10784
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-33.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "33"
+      ],
+      "file": "section-33.html",
+      "bytes": 11008
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-34.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "34"
+      ],
+      "file": "section-34.html",
+      "bytes": 11855
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-35.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "35"
+      ],
+      "file": "section-35.html",
+      "bytes": 12160
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-36.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "36"
+      ],
+      "file": "section-36.html",
+      "bytes": 11453
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-37.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "37"
+      ],
+      "file": "section-37.html",
+      "bytes": 10988
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-38.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "38"
+      ],
+      "file": "section-38.html",
+      "bytes": 19179
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-39.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "39"
+      ],
+      "file": "section-39.html",
+      "bytes": 13907
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-40.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "40"
+      ],
+      "file": "section-40.html",
+      "bytes": 10478
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-41.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "41"
+      ],
+      "file": "section-41.html",
+      "bytes": 11399
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-42.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "42"
+      ],
+      "file": "section-42.html",
+      "bytes": 11323
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-43.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "43"
+      ],
+      "file": "section-43.html",
+      "bytes": 10705
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-44.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "44"
+      ],
+      "file": "section-44.html",
+      "bytes": 10766
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-45.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "45"
+      ],
+      "file": "section-45.html",
+      "bytes": 10349
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-46.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "46"
+      ],
+      "file": "section-46.html",
+      "bytes": 10982
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-47.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "47"
+      ],
+      "file": "section-47.html",
+      "bytes": 13511
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-48.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "48"
+      ],
+      "file": "section-48.html",
+      "bytes": 10353
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-49.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "49"
+      ],
+      "file": "section-49.html",
+      "bytes": 10619
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-50.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "50"
+      ],
+      "file": "section-50.html",
+      "bytes": 10463
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-51.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "51"
+      ],
+      "file": "section-51.html",
+      "bytes": 12307
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-52.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "52"
+      ],
+      "file": "section-52.html",
+      "bytes": 11254
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-53.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "53"
+      ],
+      "file": "section-53.html",
+      "bytes": 11051
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-54.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "54"
+      ],
+      "file": "section-54.html",
+      "bytes": 10330
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-55.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "55"
+      ],
+      "file": "section-55.html",
+      "bytes": 12181
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-56.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "56"
+      ],
+      "file": "section-56.html",
+      "bytes": 10413
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-57.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "57"
+      ],
+      "file": "section-57.html",
+      "bytes": 11044
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-58.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "58"
+      ],
+      "file": "section-58.html",
+      "bytes": 12702
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-59.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "59"
+      ],
+      "file": "section-59.html",
+      "bytes": 10626
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-60.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "60"
+      ],
+      "file": "section-60.html",
+      "bytes": 10478
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-61.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "61"
+      ],
+      "file": "section-61.html",
+      "bytes": 10143
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-62.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "62"
+      ],
+      "file": "section-62.html",
+      "bytes": 10416
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-63.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "63"
+      ],
+      "file": "section-63.html",
+      "bytes": 10883
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-64.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "64"
+      ],
+      "file": "section-64.html",
+      "bytes": 10529
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-65.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "65"
+      ],
+      "file": "section-65.html",
+      "bytes": 12809
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-66.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "66"
+      ],
+      "file": "section-66.html",
+      "bytes": 10602
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-67.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "67"
+      ],
+      "file": "section-67.html",
+      "bytes": 11150
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-68.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "68"
+      ],
+      "file": "section-68.html",
+      "bytes": 10243
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-69.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "69"
+      ],
+      "file": "section-69.html",
+      "bytes": 10870
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-70.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "70"
+      ],
+      "file": "section-70.html",
+      "bytes": 12637
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-71.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "71"
+      ],
+      "file": "section-71.html",
+      "bytes": 10859
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-72.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "72"
+      ],
+      "file": "section-72.html",
+      "bytes": 11499
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-73.html",
+      "chapters": [
+        "Chapter IV"
+      ],
+      "sections": [
+        "73"
+      ],
+      "file": "section-73.html",
+      "bytes": 11484
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-74.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "74"
+      ],
+      "file": "section-74.html",
+      "bytes": 11423
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-75.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "75"
+      ],
+      "file": "section-75.html",
+      "bytes": 11462
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-76.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "76"
+      ],
+      "file": "section-76.html",
+      "bytes": 10365
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-77.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "77"
+      ],
+      "file": "section-77.html",
+      "bytes": 10709
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-78.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "78"
+      ],
+      "file": "section-78.html",
+      "bytes": 10507
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-79.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "79"
+      ],
+      "file": "section-79.html",
+      "bytes": 11041
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-80.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "80"
+      ],
+      "file": "section-80.html",
+      "bytes": 11016
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-81.html",
+      "chapters": [
+        "Chapter V"
+      ],
+      "sections": [
+        "81"
+      ],
+      "file": "section-81.html",
+      "bytes": 11153
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-82.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "82"
+      ],
+      "file": "section-82.html",
+      "bytes": 10354
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-83.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "83"
+      ],
+      "file": "section-83.html",
+      "bytes": 10318
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-84.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "84"
+      ],
+      "file": "section-84.html",
+      "bytes": 10893
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-85.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "85"
+      ],
+      "file": "section-85.html",
+      "bytes": 10905
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-86.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "86"
+      ],
+      "file": "section-86.html",
+      "bytes": 11473
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-87.html",
+      "chapters": [
+        "Chapter VI"
+      ],
+      "sections": [
+        "87"
+      ],
+      "file": "section-87.html",
+      "bytes": 11829
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-88.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "88"
+      ],
+      "file": "section-88.html",
+      "bytes": 10711
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-89.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "89"
+      ],
+      "file": "section-89.html",
+      "bytes": 10651
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-90.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "90"
+      ],
+      "file": "section-90.html",
+      "bytes": 12255
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-91.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "91"
+      ],
+      "file": "section-91.html",
+      "bytes": 11687
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-92.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "92"
+      ],
+      "file": "section-92.html",
+      "bytes": 10385
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-93.html",
+      "chapters": [
+        "Chapter VII"
+      ],
+      "sections": [
+        "93"
+      ],
+      "file": "section-93.html",
+      "bytes": 10563
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-94.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "94"
+      ],
+      "file": "section-94.html",
+      "bytes": 10708
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-95.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "95"
+      ],
+      "file": "section-95.html",
+      "bytes": 11050
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-96.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "96"
+      ],
+      "file": "section-96.html",
+      "bytes": 12025
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-97.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "97"
+      ],
+      "file": "section-97.html",
+      "bytes": 10128
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-98.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "98"
+      ],
+      "file": "section-98.html",
+      "bytes": 10587
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-99.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "99"
+      ],
+      "file": "section-99.html",
+      "bytes": 10830
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-100.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "100"
+      ],
+      "file": "section-100.html",
+      "bytes": 10106
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-101.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "101"
+      ],
+      "file": "section-101.html",
+      "bytes": 16485
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-102.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "102"
+      ],
+      "file": "section-102.html",
+      "bytes": 13583
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-103.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "103"
+      ],
+      "file": "section-103.html",
+      "bytes": 12288
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-104.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "104"
+      ],
+      "file": "section-104.html",
+      "bytes": 11267
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-105.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "105"
+      ],
+      "file": "section-105.html",
+      "bytes": 11249
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-106.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "106"
+      ],
+      "file": "section-106.html",
+      "bytes": 10561
+    },
+    {
+      "url": "https://www.merasamvidhaan.in/consumer/section-107.html",
+      "chapters": [
+        "Chapter VIII"
+      ],
+      "sections": [
+        "107"
+      ],
+      "file": "section-107.html",
+      "bytes": 10691
+    }
+  ]
+}

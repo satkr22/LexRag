@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_60_chunk_0",
+    "section_id": "income-tax-1961_section_60",
+    "token_count": 108,
+    "text": "[Act: income-tax-1961\n Chapter: Income of Other Persons, Included in Assessee's Total Income\n Section: 60::Transfer of income where there is no transfer of assets.\n]\n\n\nAll income arising to any person by virtue of a transfer whether revocable or not and whether effected before or after the commencement of this Act shall, where there is no transfer of the assets from which the income arises, be chargeable to income-tax as the income of the transferor and shall be included in his total income.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_60_chunk_0",
+      "section_id": "income-tax-1961_section_60",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Income of Other Persons, Included in Assessee's Total Income",
+      "section_number": "60",
+      "section_title": "Transfer of income where there is no transfer of assets."
+    }
+  }
+]

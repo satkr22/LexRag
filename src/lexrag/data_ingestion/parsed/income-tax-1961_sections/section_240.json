@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-40.html",
+    "source_order": 45,
+    "article_order": 5,
+    "order": 676,
+    "stem": "section_240",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Refunds",
+    "heading_range": "ss. 237–245",
+    "heading_source": "group-head",
+    "article_number": "240",
+    "article_title": "Refund on appeal, etc.",
+    "id": "income-tax-1961_section_240"
+  },
+  "id": "income-tax-1961_section_240",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Refunds",
+    "range": "ss. 237–245"
+  },
+  "article": {
+    "number": "240",
+    "title": "Refund on appeal, etc.",
+    "content": "Where, as a result of any order passed in appeal or other proceeding under this Act, refund of any amount becomes due to the assessee, the Assessing Officer shall, except as other-wise provided in this Act, refund the amount to the assessee without his having to make any claim in that behalf:\nProvided that where, by the order aforesaid,—\n(a) an assessment is set aside or cancelled and an order of fresh assessment is directed to be made, the refund, if any, shall become due only on the making of such fresh assessment;\n(b) the assessment is annulled, the refund shall become due only of the amount, if any, of the tax paid in excess of the tax chargeable on the total income returned by the assessee.\n",
+    "html": "<article class=\"provision\" data-n=\"240\" data-report=\"Section 240 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">240</span>Refund on appeal, etc.</h3></div><p class=\"prov-cite\">Section 240  ·  Chapter XIX  ·  page 833 of the Act</p><div class=\"prov-body\"><p>Where, as a result of any order passed in appeal or other proceeding under this Act, refund of any amount becomes due to the assessee, the Assessing Officer shall, except as other-wise provided in this Act, refund the amount to the assessee without his having to make any claim in that behalf:</p><p class=\"prvso\">Provided that where, by the order aforesaid,—</p><p class=\"lvl\">(a) an assessment is set aside or cancelled and an order of fresh assessment is directed to be made, the refund, if any, shall become due only on the making of such fresh assessment;</p><p class=\"lvl\">(b) the assessment is annulled, the refund shall become due only of the amount, if any, of the tax paid in excess of the tax chargeable on the total income returned by the assessee.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">240</span>Refund on appeal, etc.</h3></div><p class=\"prov-cite\">Section 240  ·  Chapter XIX  ·  page 833 of the Act</p><div class=\"prov-body\"><p>Where, as a result of any order passed in appeal or other proceeding under this Act, refund of any amount becomes due to the assessee, the Assessing Officer shall, except as other-wise provided in this Act, refund the amount to the assessee without his having to make any claim in that behalf:</p><p class=\"prvso\">Provided that where, by the order aforesaid,—</p><p class=\"lvl\">(a) an assessment is set aside or cancelled and an order of fresh assessment is directed to be made, the refund, if any, shall become due only on the making of such fresh assessment;</p><p class=\"lvl\">(b) the assessment is annulled, the refund shall become due only of the amount, if any, of the tax paid in excess of the tax chargeable on the total income returned by the assessee.</p></div>"
+  }
+}

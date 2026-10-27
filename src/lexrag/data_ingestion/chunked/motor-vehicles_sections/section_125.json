@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_125_chunk_0",
+    "section_id": "motor-vehicles_section_125",
+    "token_count": 61,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 125::Obstruction of driver.\n]\n\n\nNo person driving a motor vehicle shall allow any person to stand or sit or to place anything in such a manner or position as to hamper the driver in his control of the vehicle.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_125_chunk_0",
+      "section_id": "motor-vehicles_section_125",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "125",
+      "section_title": "Obstruction of driver."
+    }
+  }
+]

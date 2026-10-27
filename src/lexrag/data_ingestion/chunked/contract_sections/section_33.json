@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_33_chunk_0",
+    "section_id": "contract_section_33",
+    "token_count": 100,
+    "text": "[Act: contract\n Chapter: Of Contingent Contracts\n Section: 33::Enforcement of contracts contingent on an event not happening.\n]\n\n\nContingent contracts to do or not to do anything if an uncertain future event does not happen can be enforced when the happening of that event becomes impossible, and not before.\nIllustration\nA agrees to pay B a sum of money if a certain ship does not return. The ship is sunk. The contract can be enforced when the ship sinks.",
+    "metadata": {
+      "chunk_id": "contract_section_33_chunk_0",
+      "section_id": "contract_section_33",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Of Contingent Contracts",
+      "section_number": "33",
+      "section_title": "Enforcement of contracts contingent on an event not happening."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-170.html",
+    "source_order": 171,
+    "article_order": 1,
+    "order": 171,
+    "stem": "section_170",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Bailment",
+    "heading_range": "ss. 148–181",
+    "heading_source": "manifest",
+    "article_number": "170",
+    "article_title": "Bailee’s particular lien.",
+    "id": "contract_section_170"
+  },
+  "id": "contract_section_170",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Bailment",
+    "range": "ss. 148–181"
+  },
+  "article": {
+    "number": "170",
+    "title": "Bailee’s particular lien.",
+    "content": "Where the bailee has, in accordance with the purpose of the bailment, rendered any service involving the exercise of labour or skill in respect of the goods bailed, he has, in the absence of a contract to the contrary, a right to retain such goods until he receives due remuneration for the services he has rendered in respect of them.\nIllustrations\n(a)A delivers a rough diamond to B, a jeweller, to be cut and polished, which is accordingly done. B is entitled to retain the stone till he is paid for the services he has rendered.\n(b)A gives, cloth to B, a tailor, to make into a coat. B promises A to deliver the coat as soon as it is finished, and to give a three months’ credit for the price. B is not entitled to retain the coat until he is paid.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">170</span>Bailee’s particular lien.</h3></div><p class=\"prov-cite\">Section 170  ·  Chapter IX  ·  page 41 of the Act</p><div class=\"prov-body\"><p>Where the bailee has, in accordance with the purpose of the bailment, rendered any service involving the exercise of labour or skill in respect of the goods bailed, he has, in the absence of a contract to the contrary, a right to retain such goods until he receives due remuneration for the services he has rendered in respect of them.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A delivers a rough diamond to B, a jeweller, to be cut and polished, which is accordingly done. B is entitled to retain the stone till he is paid for the services he has rendered.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A gives, cloth to B, a tailor, to make into a coat. B promises A to deliver the coat as soon as it is finished, and to give a three months’ credit for the price. B is not entitled to retain the coat until he is paid.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">170</span>Bailee’s particular lien.</h3></div><p class=\"prov-cite\">Section 170  ·  Chapter IX  ·  page 41 of the Act</p><div class=\"prov-body\"><p>Where the bailee has, in accordance with the purpose of the bailment, rendered any service involving the exercise of labour or skill in respect of the goods bailed, he has, in the absence of a contract to the contrary, a right to retain such goods until he receives due remuneration for the services he has rendered in respect of them.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A delivers a rough diamond to B, a jeweller, to be cut and polished, which is accordingly done. B is entitled to retain the stone till he is paid for the services he has rendered.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A gives, cloth to B, a tailor, to make into a coat. B promises A to deliver the coat as soon as it is finished, and to give a three months’ credit for the price. B is not entitled to retain the coat until he is paid.</p></div>"
+  }
+}

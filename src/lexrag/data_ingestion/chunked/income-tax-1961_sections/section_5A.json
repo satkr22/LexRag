@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_5A_chunk_0",
+    "section_id": "income-tax-1961_section_5A",
+    "token_count": 267,
+    "text": "[Act: income-tax-1961\n Chapter: Basis of Charge\n Section: 5A::Apportionment of income between spouses governed by Portuguese Civil Code.\n]\n\n\n(1) Where the husband and wife are governed by the system of community of property (known under the Portuguese Civil Code of 1860 as \"COMMUNIAO DOS BENS\") in force in the State of Goa and in the Union territories of Dadra and Nagar Haveli and Daman and Diu, the income of the husband and of the wife under any head of income shall not be assessed as that of such community of property (whether treated as an association of persons or a body of individuals), but such income of the husband and of the wife under each head of income (other than under the head \"Salaries\") shall be apportioned equally between the husband and the wife and the income so apportioned shall be included separately in the total income of the husband and of the wife respectively, and the remaining provisions of this Act shall apply accordingly.\n(2) Where the husband or, as the case may be, the wife governed by the aforesaid system of community of property has any income under the head \"Salaries\", such income shall be included in the total income of the spouse who has actually earned it.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_5A_chunk_0",
+      "section_id": "income-tax-1961_section_5A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Basis of Charge",
+      "section_number": "5A",
+      "section_title": "Apportionment of income between spouses governed by Portuguese Civil Code."
+    }
+  }
+]

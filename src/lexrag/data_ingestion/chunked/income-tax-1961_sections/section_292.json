@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_292_chunk_0",
+    "section_id": "income-tax-1961_section_292",
+    "token_count": 50,
+    "text": "[Act: income-tax-1961\n Chapter: Miscellaneous\n Section: 292::Cognizance of offences.\n]\n\n\nNo court inferior to that of a presidency magistrate or a magistrate of the first class shall try any offence under this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_292_chunk_0",
+      "section_id": "income-tax-1961_section_292",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "292",
+      "section_title": "Cognizance of offences."
+    }
+  }
+]

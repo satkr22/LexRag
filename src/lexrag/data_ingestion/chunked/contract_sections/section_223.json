@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_223_chunk_0",
+    "section_id": "contract_section_223",
+    "token_count": 259,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 223::Agent to be indemnified against consequences of acts done in good faith.\n]\n\n\nWhere one person employs another to do an act, and the agent does the act in good faith, the employer is liable to indemnify the agent against the consequences of that act, though it cause an injury to the rights of third persons.\nIllustrations\n(a)A, a decree-holder and entitled to execution of B’s goods, requires the officer of the Court to seize certain goods, representing them to be the goods of B. The officer seizes the goods, and is sued by C, the true owner of the goods. A is liable to indemnify the officer for the sum which he is compelled to pay to C, in consequence of obeying A’s directions.\n(b)B, at the request of A, sells goods in the possession of A, but which A had no right to dispose of, B does not know this, and hands over the proceeds of the sale to A. Afterwards C, the true owner of the goods, sues B and recovers the value of the goods and costs. A is liable to indemnify B for what he has been compelled to pay to C, and for B’s own expenses.",
+    "metadata": {
+      "chunk_id": "contract_section_223_chunk_0",
+      "section_id": "contract_section_223",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "223",
+      "section_title": "Agent to be indemnified against consequences of acts done in good faith."
+    }
+  }
+]

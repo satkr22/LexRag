@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-31.html",
+    "source_order": 32,
+    "article_order": 1,
+    "order": 32,
+    "stem": "section_31",
+    "heading_number": "Chapter III",
+    "heading_title": "Parties to Notes, Bills and Cheques.",
+    "heading_range": "ss. 26–45A",
+    "heading_source": "manifest",
+    "article_number": "31",
+    "article_title": "Liability of drawee of cheque.",
+    "id": "negotiable-instruments_section_31"
+  },
+  "id": "negotiable-instruments_section_31",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Parties to Notes, Bills and Cheques.",
+    "range": "ss. 26–45A"
+  },
+  "article": {
+    "number": "31",
+    "title": "Liability of drawee of cheque.",
+    "content": "The drawee of a cheque having sufficient funds of the drawer in his hands properly applicable to the payment of such cheque must pay the cheque when duly required so to do, and , in default of such payment, must compensate the drawer for any loss or damage caused by such default.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Liability of drawee of cheque.</h3></div><p class=\"prov-cite\">Section 31  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>The drawee of a cheque having sufficient funds of the drawer in his hands properly applicable to the payment of such cheque must pay the cheque when duly required so to do, and , in default of such payment, must compensate the drawer for any loss or damage caused by such default.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Liability of drawee of cheque.</h3></div><p class=\"prov-cite\">Section 31  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>The drawee of a cheque having sufficient funds of the drawer in his hands properly applicable to the payment of such cheque must pay the cheque when duly required so to do, and , in default of such payment, must compensate the drawer for any loss or damage caused by such default.</p></div>"
+  }
+}

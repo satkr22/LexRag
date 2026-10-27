@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_160_chunk_0",
+    "section_id": "constitution_section_160",
+    "token_count": 61,
+    "text": "[Act: constitution\n Chapter: The States\n Section: 160::Discharge of the functions of the Governor in certain contingencies\n]\n\n\nThe President may make such provision as he thinks fit for the discharge of the functions of the Governor of a State in any contingency not provided for in this Chapter.",
+    "metadata": {
+      "chunk_id": "constitution_section_160_chunk_0",
+      "section_id": "constitution_section_160",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part VI",
+      "chapter_title": "The States",
+      "section_number": "160",
+      "section_title": "Discharge of the functions of the Governor in certain contingencies"
+    }
+  }
+]

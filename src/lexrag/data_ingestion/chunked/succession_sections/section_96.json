@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_96_chunk_0",
+    "section_id": "succession_section_96",
+    "token_count": 380,
+    "text": "[Act: succession\n Chapter: Of the construction of Wills\n Section: 96::Bequest in alternative.\n]\n\n\nWhere a property is bequeathed to a person with a bequest in the alternative to another person or to a class of persons, then, if a contrary intention does not appear by the will, the legatee first named shall be entitled to the legacy if he is alive at the time when it takes effect; but if he is then dead, the person or class of persons named in the second branch of the alternative shall take the legacy.\nIllustrations\n(i) A bequest is made to A or to B. A survives the testator. B takes nothing.\n(ii) A bequest is made to A or to B. A dies after the date of the will, and before the testator. The legacy goes to B.\n(iii) A bequest is made to A or to B. A is dead at the date of the will. The legacy goes to B.\n(iv) Property is bequeathed to A or his heirs. A survives the testator. A takes the property absolutely.\n(v) Property is bequeathed to A or his nearest of kin. A dies in the lifetime of the testator. Upon the death of the testator, the bequest to A’s nearest of kin takes effect.\n(vi) Property is bequeathed to A for life, and after this death to B or his heirs. A and B survive the testator. B dies in A’s lifetime. Upon A’s death the bequest to the heirs of B takes effect.\n(vii) Property is bequeathed to A for life, and after his death to B or his heirs. B dies in the testator’s lifetime. A survives the testator. Upon A’s death the bequest to the heirs of B takes effect.",
+    "metadata": {
+      "chunk_id": "succession_section_96_chunk_0",
+      "section_id": "succession_section_96",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter VI",
+      "chapter_title": "Of the construction of Wills",
+      "section_number": "96",
+      "section_title": "Bequest in alternative."
+    }
+  }
+]

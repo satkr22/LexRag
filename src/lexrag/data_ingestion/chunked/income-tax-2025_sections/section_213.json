@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_213_chunk_0",
+    "section_id": "income-tax-2025_section_213",
+    "token_count": 186,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 213::Special provision for computation of total income of non-residents.\n]\n\n\n(1) No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.\n(2) In the case of an assessee, being a non-resident Indian, where—\n(a) the gross total income consists only of investment income or income by way of long-term capital gains or both, then no deduction shall be allowed under Chapter VIII;\n(b) the gross total income includes any income referred to in clause (a),—\n(i) the gross total income shall be reduced by such income; and\n(ii) the deductions under Chapter VIII shall be allowed as if the gross total income as so reduced was the gross total income of the assessee.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_213_chunk_0",
+      "section_id": "income-tax-2025_section_213",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "213",
+      "section_title": "Special provision for computation of total income of non-residents."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_57_chunk_0",
+    "section_id": "constitution_section_57",
+    "token_count": 56,
+    "text": "[Act: constitution\n Chapter: The Union\n Section: 57::Eligibility for re-election\n]\n\n\nA person who holds, or who has held, office as President shall, subject to the other provisions of this Constitution, be eligible for re-election to that office.",
+    "metadata": {
+      "chunk_id": "constitution_section_57_chunk_0",
+      "section_id": "constitution_section_57",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part V",
+      "chapter_title": "The Union",
+      "section_number": "57",
+      "section_title": "Eligibility for re-election"
+    }
+  }
+]

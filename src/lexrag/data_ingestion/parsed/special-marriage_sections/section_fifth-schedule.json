@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "special-marriage",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": null,
+    "source_file": "special-marriage_sections/fifth-schedule.html",
+    "source_order": 1,
+    "article_order": 1,
+    "order": 1,
+    "stem": "section_fifth-schedule",
+    "heading_number": null,
+    "heading_title": "Schedules · The Schedules",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "fifth-schedule",
+    "article_title": "The Fifth Schedule",
+    "id": "special-marriage_section_fifth-schedule"
+  },
+  "id": "special-marriage_section_fifth-schedule",
+  "heading": {
+    "number": null,
+    "title": "Schedules · The Schedules",
+    "range": null
+  },
+  "article": {
+    "number": "fifth-schedule",
+    "title": "The Fifth Schedule",
+    "content": "I, E.F., hereby certify that A.B. and C D.* appeared before me this …………day of………. 20………… and that each of them, in my presence and in the presence of three witnesses who have signed hereunder have declared that a ceremony of marriage has been performed between them and that they have been living together as husband and wife since the time of their marriage, and that in accordance with their desire to have their marriage registered under this Act, the said marriage has, this day of 20……..................... been registered under this Act, having effect as from.\n(Sd.) E.F.,\nMarriage Officer for\n(Sd.) A.B.,\nHusband.\n(Sd.) C.D.\nWife.\n(Sd.) G.H.\n(Sd.) I. J. Three witnesses.\n(Sd.) K.L.\nDated the day of 20.\nNote: the asterisk after the parties' names has no footnote on page 27; the Fourth Schedule's note on page 26 is the one meant.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\">The Fifth Schedule</h3></div><p class=\"prov-cite\">(See section 16)  ·  page 27 of the Act</p><p class=\"sched-title\">Certificate of Marriage Celebrated in Other Forms</p><div class=\"prov-body\"><p>I, E.F., hereby certify that A.B. and C D.* appeared before me this …………day of………. 20………… and that each of them, in my presence and in the presence of three witnesses who have signed hereunder have declared that a ceremony of marriage has been performed between them and that they have been living together as husband and wife since the time of their marriage, and that in accordance with their desire to have their marriage registered under this Act, the said marriage has, this day of 20……..................... been registered under this Act, having effect as from.</p><p>(Sd.) E.F.,</p><p>Marriage Officer for</p><p>(Sd.) A.B.,</p><p>Husband.</p><p>(Sd.) C.D.</p><p>Wife.</p><p>(Sd.) G.H.</p><p>(Sd.) I. J. Three witnesses.</p><p>(Sd.) K.L.</p><p>Dated the day of 20.</p><p class=\"snote\">Note: the asterisk after the parties' names has no footnote on page 27; the Fourth Schedule's note on page 26 is the one meant.</p><div class=\"fnotes shown\"><p class=\"fn loose\">Herein give particulars of the parties.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\">The Fifth Schedule</h3></div><p class=\"prov-cite\">(See section 16)  ·  page 27 of the Act</p><p class=\"sched-title\">Certificate of Marriage Celebrated in Other Forms</p><div class=\"prov-body\"><p>I, E.F., hereby certify that A.B. and C D.* appeared before me this …………day of………. 20………… and that each of them, in my presence and in the presence of three witnesses who have signed hereunder have declared that a ceremony of marriage has been performed between them and that they have been living together as husband and wife since the time of their marriage, and that in accordance with their desire to have their marriage registered under this Act, the said marriage has, this day of 20……..................... been registered under this Act, having effect as from.</p><p>(Sd.) E.F.,</p><p>Marriage Officer for</p><p>(Sd.) A.B.,</p><p>Husband.</p><p>(Sd.) C.D.</p><p>Wife.</p><p>(Sd.) G.H.</p><p>(Sd.) I. J. Three witnesses.</p><p>(Sd.) K.L.</p><p>Dated the day of 20.</p><p class=\"snote\">Note: the asterisk after the parties' names has no footnote on page 27; the Fourth Schedule's note on page 26 is the one meant.</p><div class=\"fnotes shown\"><p class=\"fn loose\">Herein give particulars of the parties.</p></div></div>"
+  }
+}

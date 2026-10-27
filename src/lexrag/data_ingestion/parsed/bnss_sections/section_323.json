@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-25.html",
+    "source_order": 25,
+    "article_order": 17,
+    "order": 323,
+    "stem": "section_323",
+    "heading_number": "Chapter XXV",
+    "heading_title": "Evidence in Inquiries and Trials",
+    "heading_range": "307 – 336",
+    "heading_source": "group-head",
+    "article_number": "323",
+    "article_title": "Return of commission",
+    "id": "bnss_section_323"
+  },
+  "id": "bnss_section_323",
+  "heading": {
+    "number": "Chapter XXV",
+    "title": "Evidence in Inquiries and Trials",
+    "range": "307 – 336"
+  },
+  "article": {
+    "number": "323",
+    "title": "Return of commission",
+    "content": "(1)After any commission issued under section 319 has been duly executed, it shall be returned, together with the deposition of the witness examined thereunder, to the Court or Magistrate issuing the commission; and the commission, the return thereto and the deposition shall be open at all reasonable times to inspection of the parties, and may, subject to all just exceptions, be read in evidence in the case by either party, and shall form part of the record.\n(2)Any deposition so taken, if it satisfies the conditions specified by section 27 of the Bharatiya Sakshya Adhiniyam, 2023, may also be received in evidence at any subsequent stage of the case before another Court.\n",
+    "html": "<article class=\"provision\" data-n=\"323\" data-report=\"Section 323 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">323</span>Return of commission</h3></div><p class=\"prov-cite\">Section 323 · Chapter XXV · Commissions for the examination of witnesses</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>After any commission issued under section 319 has been duly executed, it shall be returned, together with the deposition of the witness examined thereunder, to the Court or Magistrate issuing the commission; and the commission, the return thereto and the deposition shall be open at all reasonable times to inspection of the parties, and may, subject to all just exceptions, be read in evidence in the case by either party, and shall form part of the record.</p><p><span class=\"lbl\">(2)</span>Any deposition so taken, if it satisfies the conditions specified by section 27 of the Bharatiya Sakshya Adhiniyam, 2023, may also be received in evidence at any subsequent stage of the case before another Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">323</span>Return of commission</h3></div><p class=\"prov-cite\">Section 323 · Chapter XXV · Commissions for the examination of witnesses</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>After any commission issued under section 319 has been duly executed, it shall be returned, together with the deposition of the witness examined thereunder, to the Court or Magistrate issuing the commission; and the commission, the return thereto and the deposition shall be open at all reasonable times to inspection of the parties, and may, subject to all just exceptions, be read in evidence in the case by either party, and shall form part of the record.</p><p><span class=\"lbl\">(2)</span>Any deposition so taken, if it satisfies the conditions specified by section 27 of the Bharatiya Sakshya Adhiniyam, 2023, may also be received in evidence at any subsequent stage of the case before another Court.</p></div>"
+  }
+}

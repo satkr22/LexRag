@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "gst_section_12_chunk_0",
+    "section_id": "gst_section_12",
+    "token_count": 494,
+    "text": "[Act: gst\n Chapter: Time and Value of Supply\n Section: 12::Time of supply of goods.\n]\n\n\n(1) The liability to pay tax on goods shall arise at the time of supply, as determined in accordance with the provisions of this section.\n  (2) The time of supply of goods shall be the earlier of the following dates, namely:—\n  (a) the date of issue of invoice by the supplier or the last date on which he is required, under 2 *** section 31, to issue the invoice with respect to the supply; or\n  (b) the date on which the supplier receives the payment with respect to the supply:\n  Provided that where the supplier of taxable goods receives an amount up to one thousand rupees in excess of the amount indicated in the tax invoice, the time of supply to the extent of such excess amount shall, at the option of the said supplier, be the date of issue of invoice in respect of such excess amount.\n  Explanation 1.––For the purposes of clauses (a) and (b), “supply” shall be deemed to have been made to the extent it is covered by the invoice or, as the case may be, the payment.\n  Explanation 2.––For the purposes of clause (b), “the date on which the supplier receives the payment” shall be the date on which the payment is entered in his books of account or the date on which the payment is credited to his bank account, whichever is earlier.\n  (3) In case of supplies in respect of which tax is paid or liable to be paid on reverse charge basis, the time of supply shall be the earliest of the following dates, namely:—\n  (a) the date of the receipt of goods; or\n  (b) the date of payment as entered in the books of account of the recipient or the date on which the payment is debited in his bank account, whichever is earlier; or\n  (c) the date immediately following thirty days from the date of issue of invoice or any other document, by whatever name called, in lieu thereof by the supplier:\n  Provided that where it is not possible to determine the time of supply under clause (a) or clause (b) or clause (c), the time of supply shall be the date of entry in the books of account of the recipient of supply. 3 * * * *",
+    "metadata": {
+      "chunk_id": "gst_section_12_chunk_0",
+      "section_id": "gst_section_12",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Time and Value of Supply",
+      "section_number": "12",
+      "section_title": "Time of supply of goods."
+    }
+  },
+  {
+    "chunk_id": "gst_section_12_chunk_1",
+    "section_id": "gst_section_12",
+    "token_count": 197,
+    "text": "[Act: gst\n Chapter: Time and Value of Supply\n Section: 12::Time of supply of goods.\n]\n\n\n(1) The liability to pay tax on goods shall arise at the time of supply, as determined in accordance with the provisions of this section.\n  (5) Where it is not possible to determine the time of supply under the provisions of sub-section (2) or sub-section (3) or sub-section (4), the time of supply shall––\n  (a) in a case where a periodical return has to be filed, be the date on which such return is to be filed; or\n  (b) in any other case, be the date on which the tax is paid.\n  (6) The time of supply to the extent it relates to an addition in the value of supply by way of interest, late fee or penalty for delayed payment of any consideration shall be the date on which the supplier receives such addition in value.",
+    "metadata": {
+      "chunk_id": "gst_section_12_chunk_1",
+      "section_id": "gst_section_12",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Time and Value of Supply",
+      "section_number": "12",
+      "section_title": "Time of supply of goods."
+    }
+  }
+]

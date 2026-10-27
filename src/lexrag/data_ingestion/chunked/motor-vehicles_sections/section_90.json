@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_90_chunk_0",
+    "section_id": "motor-vehicles_section_90",
+    "token_count": 256,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 90::Revision.\n]\n\n\nThe State Transport Appellate Tribunal may, on an application made to it, call for the record of any case in which an order has been made by a State Transport Authority or Regional Transport Authority against which no appeal lies, and if it appears to the State Transport Authority Appellate Tribunal that the order made by the State Transport Authority or Regional Transport Authority is improper or illegal, the State Transport Appellate Tribunal may pass such order in relation to the case as it deems fit and every such order shall be final:\nProvided that the State Transport Appellate Tribunal shall not entertain any application from a person aggrieved by an order of a State Transport Authority or Regional Transport Authority, unless the application is made within thirty days from the date of the order:\nProvided further that the State Transport Appellate Tribunal may entertain the application after the expiry of the said period of thirty days, if it is satisfied that the applicant was prevented by good and sufficient cause from making the application in time:\nProvided also that the State Transport Appellate Tribunal shall not pass an order under this section prejudicial to any person without giving him a reasonable opportunity of being heard.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_90_chunk_0",
+      "section_id": "motor-vehicles_section_90",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "90",
+      "section_title": "Revision."
+    }
+  }
+]

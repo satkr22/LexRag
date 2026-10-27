@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_145_chunk_0",
+    "section_id": "income-tax-1961_section_145",
+    "token_count": 206,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 145::Method of accounting.\n]\n\n\n(1) Income chargeable under the head \"Profits and gains of business or profession\" or \"Income from other sources\" shall, subject to the provisions of sub-section (2), be computed in accordance with either cash or mercantile system of accounting regularly employed by the assessee.\n(2) The Central Government may notify in the Official Gazette from time to time income computation and disclosure standards to be followed by any class of assessees or in respect of any class of income.\n(3) Where the Assessing Officer is not satisfied about the correctness or completeness of the accounts of the assessee, or where the method of accounting provided in sub-section (1) has not been regularly followed by the assessee, or income has not been computed in accordance with the standards notified under sub-section (2), the Assessing Officer may make an assessment in the manner provided in section 144.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_145_chunk_0",
+      "section_id": "income-tax-1961_section_145",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "145",
+      "section_title": "Method of accounting."
+    }
+  }
+]

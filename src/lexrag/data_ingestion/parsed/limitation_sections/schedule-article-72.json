@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-72.html",
+    "source_order": 72,
+    "article_order": 1,
+    "order": 72,
+    "stem": "schedule-article-72",
+    "heading_number": null,
+    "heading_title": "First Division · Part VII · Suits Relating to Tort",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "72",
+    "article_title": "One year.",
+    "id": "limitation_schedule-article-72"
+  },
+  "id": "limitation_schedule-article-72",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part VII · Suits Relating to Tort",
+    "range": null
+  },
+  "article": {
+    "number": "72",
+    "title": "One year.",
+    "content": "For compensation for doing or for omitting to do an act alleged to be in pursuance of any enactment in force for the time being in the territories to which this Act extends.\nPeriod of limitationOne year.\n\nTime from which period begins to runWhen the act or omission takes place.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>72<span class=\"badge\">One year.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part VII—Suits Relating to Tort</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For compensation for doing or for omitting to do an act alleged to be in pursuance of any enactment in force for the time being in the territories to which this Act extends.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>One year.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the act or omission takes place.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>72<span class=\"badge\">One year.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part VII—Suits Relating to Tort</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For compensation for doing or for omitting to do an act alleged to be in pursuance of any enactment in force for the time being in the territories to which this Act extends.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>One year.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the act or omission takes place.</p></div></div></div></div>"
+  }
+}

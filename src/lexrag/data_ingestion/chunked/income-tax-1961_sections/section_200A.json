@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_200A_chunk_0",
+    "section_id": "income-tax-1961_section_200A",
+    "token_count": 470,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 200A::Processing of statements of tax deducted at source and other statements.\n]\n\n\n(1) Where a statement of tax deduction at source or a correction statement has been made by a person deducting any sum (hereafter referred to in this section as deductor) under section 200, such statement shall be processed in the following manner, namely:—\n  (a) the sums deductible under this Chapter shall be computed after making the following adjustments, namely:—\n  (i) any arithmetical error in the statement; or\n  (ii) an incorrect claim, apparent from any information in the statement;\n  (b) the interest, if any, shall be computed on the basis of the sums deductible as computed in the statement;\n  (c) the fee, if any, shall be computed in accordance with the provisions of section 234E;\n  (d) the sum payable by, or the amount of refund due to, the deductor shall be determined after adjustment of the amount computed under clause (b) and clause (c) against any amount paid under section 200 or section 201 or section 234E and any amount paid otherwise by way of tax or interest or fee;\n  (e) an intimation shall be prepared or generated and sent to the deductor specifying the sum determined to be payable by, or the amount of refund due to, him under clause (d); and\n  (f) the amount of refund due to the deductor in pursuance of the determination under clause (d) shall be granted to the deductor:\n  Provided that no intimation under this sub-section shall be sent after the expiry of one year from the end of the financial year in which the statement is filed.\n  Explanation.—For the purposes of this sub-section, \"an incorrect claim apparent from any information in the statement\" shall mean a claim, on the basis of an entry, in the statement—\n  (i) of an item, which is inconsistent with another entry of the same or some other item in such statement;\n  (ii) in respect of rate of deduction of tax at source, where such rate is not in accordance with the provisions of this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_200A_chunk_0",
+      "section_id": "income-tax-1961_section_200A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "200A",
+      "section_title": "Processing of statements of tax deducted at source and other statements."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_200A_chunk_1",
+    "section_id": "income-tax-1961_section_200A",
+    "token_count": 181,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 200A::Processing of statements of tax deducted at source and other statements.\n]\n\n\n(1) Where a statement of tax deduction at source or a correction statement has been made by a person deducting any sum (hereafter referred to in this section as deductor) under section 200, such statement shall be processed in the following manner, namely:—\n  (2) For the purposes of processing of statements under sub-section (1), the Board may make a scheme for centralised processing of statements of tax deducted at source to expeditiously determine the tax payable by, or the refund due to, the deductor as required under the said sub-section.\n  58 [(3) The Board may make a scheme for processing of statements made by any other person, not being a deductor].",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_200A_chunk_1",
+      "section_id": "income-tax-1961_section_200A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "200A",
+      "section_title": "Processing of statements of tax deducted at source and other statements."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_45_chunk_0",
+    "section_id": "easements_section_45",
+    "token_count": 99,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 45::Extinction by destruction of either heritage.\n]\n\n\nAn easement is extinguished when either the dominant or the servient heritage is completely destroyed.\nIllustration\nA has a right of way over a road running along the foot of a sea-cliff. The road is washed away by a permanent encroachment of the sea. A’s easement is extinguished.",
+    "metadata": {
+      "chunk_id": "easements_section_45_chunk_0",
+      "section_id": "easements_section_45",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "45",
+      "section_title": "Extinction by destruction of either heritage."
+    }
+  }
+]

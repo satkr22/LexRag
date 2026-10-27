@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-130.html",
+    "source_order": 130,
+    "article_order": 1,
+    "order": 130,
+    "stem": "schedule-article-130",
+    "heading_number": null,
+    "heading_title": "Third Division · Part I · Applications in Specified Cases",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "130",
+    "article_title": "",
+    "id": "limitation_schedule-article-130"
+  },
+  "id": "limitation_schedule-article-130",
+  "heading": {
+    "number": null,
+    "title": "Third Division · Part I · Applications in Specified Cases",
+    "range": null
+  },
+  "article": {
+    "number": "130",
+    "title": "",
+    "content": "For leave to appeal as a pauper—\n(a)to the High Court;\nPeriod of limitationSixty days.\n\nTime from which period begins to runThe date of decree appealed from.\n\n\n\n(b)to any other court.\nPeriod of limitationThirty days.\n\nTime from which period begins to runThe date of decree appealed from.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>130</h3></div><p class=\"prov-cite\">The Schedule  ·  Third Division—Applications · Part I—Applications in Specified Cases</p><div class=\"prov-body\"><p class=\"lead-in\">For leave to appeal as a pauper—</p><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(a)</span>to the High Court;</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Sixty days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of decree appealed from.</p></div></div></div><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(b)</span>to any other court.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Thirty days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of decree appealed from.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>130</h3></div><p class=\"prov-cite\">The Schedule  ·  Third Division—Applications · Part I—Applications in Specified Cases</p><div class=\"prov-body\"><p class=\"lead-in\">For leave to appeal as a pauper—</p><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(a)</span>to the High Court;</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Sixty days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of decree appealed from.</p></div></div></div><div class=\"art-row\"><p class=\"desc\"><span class=\"lbl\">(b)</span>to any other court.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Thirty days.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of decree appealed from.</p></div></div></div></div>"
+  }
+}

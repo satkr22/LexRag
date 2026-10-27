@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_38_chunk_0",
+    "section_id": "technology_section_38",
+    "token_count": 300,
+    "text": "[Act: technology\n Chapter: Electronic Signature Certificates2\n Section: 38::Revocation of Digital Signature Certificate.\n]\n\n\n(1) A Certifying Authority may revoke a Digital Signature Certificate issued by it–\n(a) where the subscriber or any other person authorised by him makes a request to that effect; or\n(b) upon the death of the subscriber; or\n(c) upon the dissolution of the firm or winding up of the company where the subscriber is a firm or a company.\n(2) Subject to the provisions of sub-section (3) and without prejudice to the provisions of sub-section (1), a Certifying Authority may revoke a Digital Signature Certificate which has been issued by it at any time, if it is of opinion that–\n(a) a material fact represented in the Digital Signature Certificate is false or has been concealed;\n(b) a requirement for issuance of the Digital Signature Certificate was not satisfied;\n(c) the Certifying Authority's private key or security system was compromised in a manner materially affecting the Digital Signature Certificate's reliability;\n(d) the subscriber has been declared insolvent or dead or where a subscriber is a firm or a company, which has been dissolved, wound-up or otherwise ceased to exist.\n(3) A Digital Signature Certificate shall not be revoked unless the subscriber has been given an opportunity of being heard in the matter.\n(4) On revocation of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber.",
+    "metadata": {
+      "chunk_id": "technology_section_38_chunk_0",
+      "section_id": "technology_section_38",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Electronic Signature Certificates2",
+      "section_number": "38",
+      "section_title": "Revocation of Digital Signature Certificate."
+    }
+  }
+]

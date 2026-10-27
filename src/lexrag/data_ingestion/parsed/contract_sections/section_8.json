@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-8.html",
+    "source_order": 8,
+    "article_order": 1,
+    "order": 8,
+    "stem": "section_8",
+    "heading_number": "Chapter I",
+    "heading_title": "Of the Communication, Acceptance and Revocation of Proposals",
+    "heading_range": "ss. 3–9",
+    "heading_source": "manifest",
+    "article_number": "8",
+    "article_title": "Acceptance by performing conditions, or receiving consideration.",
+    "id": "contract_section_8"
+  },
+  "id": "contract_section_8",
+  "heading": {
+    "number": "Chapter I",
+    "title": "Of the Communication, Acceptance and Revocation of Proposals",
+    "range": "ss. 3–9"
+  },
+  "article": {
+    "number": "8",
+    "title": "Acceptance by performing conditions, or receiving consideration.",
+    "content": "Performance of the conditions of a proposal, or the acceptance of any consideration for a reciprocal promise which may be offered with a proposal, is an acceptance of the proposal.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Acceptance by performing conditions, or receiving consideration.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter I  ·  page 12 of the Act</p><div class=\"prov-body\"><p>Performance of the conditions of a proposal, or the acceptance of any consideration for a reciprocal promise which may be offered with a proposal, is an acceptance of the proposal.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Acceptance by performing conditions, or receiving consideration.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter I  ·  page 12 of the Act</p><div class=\"prov-body\"><p>Performance of the conditions of a proposal, or the acceptance of any consideration for a reciprocal promise which may be offered with a proposal, is an acceptance of the proposal.</p></div>"
+  }
+}

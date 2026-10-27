@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "easements",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-41.html",
+    "source_order": 41,
+    "article_order": 1,
+    "order": 41,
+    "stem": "section_41",
+    "heading_number": "Chapter V",
+    "heading_title": "The Extinction, Suspension and Revival of Easements",
+    "heading_range": "ss. 37–51",
+    "heading_source": "manifest",
+    "article_number": "41",
+    "article_title": "Extinction on termination of necessity.",
+    "id": "easements_section_41"
+  },
+  "id": "easements_section_41",
+  "heading": {
+    "number": "Chapter V",
+    "title": "The Extinction, Suspension and Revival of Easements",
+    "range": "ss. 37–51"
+  },
+  "article": {
+    "number": "41",
+    "title": "Extinction on termination of necessity.",
+    "content": "An easement of necessity is extinguished when the necessity comes to an end.\nIllustration\nA grants B a field inaccessible except by passing over A’s adjoining land. B afterwards purchases a part of that land over which he can pass to his field. The right of way over A’s land which B had acquired is extinguished.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Extinction on termination of necessity.</h3></div><p class=\"prov-cite\">Section 41  ·  Chapter V  ·  page 16 of the Act</p><div class=\"prov-body\"><p>An easement of necessity is extinguished when the necessity comes to an end.</p><p>Illustration</p><p>A grants B a field inaccessible except by passing over A’s adjoining land. B afterwards purchases a part of that land over which he can pass to his field. The right of way over A’s land which B had acquired is extinguished.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Extinction on termination of necessity.</h3></div><p class=\"prov-cite\">Section 41  ·  Chapter V  ·  page 16 of the Act</p><div class=\"prov-body\"><p>An easement of necessity is extinguished when the necessity comes to an end.</p><p>Illustration</p><p>A grants B a field inaccessible except by passing over A’s adjoining land. B afterwards purchases a part of that land over which he can pass to his field. The right of way over A’s land which B had acquired is extinguished.</p></div>"
+  }
+}

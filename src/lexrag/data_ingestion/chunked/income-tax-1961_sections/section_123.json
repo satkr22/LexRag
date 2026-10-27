@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_123_chunk_0",
+    "section_id": "income-tax-1961_section_123",
+    "token_count": 29,
+    "text": "[Act: income-tax-1961\n Chapter: Income-tax Authorities\n Section: 123::Jurisdiction of Inspecting Assistant Commissioners.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_123_chunk_0",
+      "section_id": "income-tax-1961_section_123",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Income-tax Authorities",
+      "section_number": "123",
+      "section_title": "Jurisdiction of Inspecting Assistant Commissioners."
+    }
+  }
+]

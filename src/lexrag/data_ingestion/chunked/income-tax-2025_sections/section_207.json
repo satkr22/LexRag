@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_207_chunk_0",
+    "section_id": "income-tax-2025_section_207",
+    "token_count": 508,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 207::Tax on dividends, royalty and fees for technical service in case of foreign companies.\n]\n\n\n(1) The income-tax payable on the total income of a non-resident (not being a company) or of a foreign company, which includes any income specified in the column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.\n  (2) Where the total income of a non-resident (not being a company) or of a foreign company, includes any income by way of royalty or fees for technical services received from Government or an Indian concern in pursuance of an agreement made with Government or an Indian concern after the 31st March, 1976, other than income referred to in section 59(1), and—\n  (a) the agreement is approved by the Central Government where such agreement is with an Indian concern; or\n  (b) where the agreement relates to a matter included in the industrial policy, for the time being in force, of the Government of India, it is as per that policy, then, subject to the provisions of sub-section (3), the income-tax payable shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B of the Table below:—\n  (3) Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)—\n  (a) in respect of copyright in any book to an Indian concern; or\n  (b) in respect of any computer software to a person resident in India, then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section.\n  (4) For the purposes of this section,—\n  (a) \"computer software\" means any computer programme recorded on any disc, tape, perforated media or other information storage device; or any customised electronic data or any product or service of similar nature as may be notified by the Board, which is transmitted or exported from India to a place outside India by any means;\n  (b) \"fees for technical services\" shall have the meaning assigned to it in section 9;",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_207_chunk_0",
+      "section_id": "income-tax-2025_section_207",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "207",
+      "section_title": "Tax on dividends, royalty and fees for technical service in case of foreign companies."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_207_chunk_1",
+    "section_id": "income-tax-2025_section_207",
+    "token_count": 458,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 207::Tax on dividends, royalty and fees for technical service in case of foreign companies.\n]\n\n\n(1) The income-tax payable on the total income of a non-resident (not being a company) or of a foreign company, which includes any income specified in the column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.\n  (c) \"royalty\" shall have the meaning assigned to it in section 9\n  (5) No deduction in respect of any expenditure or allowance shall be allowed under sections 28 to 58, 60 and 61 and section 93 for computing income referred to in sub-sections (1) and (2).\n  (6) Where the gross total income of an assessee—\n  (a) consists only of the income referred to in sub-section (1) (Table: SI. No. 1 to 7), no deduction shall be allowed under Chapter VIII and Schedule XV;\n  (b) includes any income referred to in sub-section (1) (Table: Sl. No. 1 to 7), the gross total income shall be reduced by such income and the deduction under Chapter VIII shall be allowed as if such reduced amount were the gross total income of the assessee.\n  (7) The provisions of sub-section (6) shall not apply to a deduction allowed to Unit of an International Financial Services Centre under section 147.\n  (8) It shall not be necessary for an assessee to furnish a return of income under section 263(1), if—\n  (a) the total income during the tax year consisted only of income referred to in sub-section (1) (Table: Sl. Nos. 1 to 7) and sub-section (2) (Table: Sl. Nos. 1 and 2); and\n  (b) the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income at a rate not less than the rate specified in sub-sections (1) and (2).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_207_chunk_1",
+      "section_id": "income-tax-2025_section_207",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "207",
+      "section_title": "Tax on dividends, royalty and fees for technical service in case of foreign companies."
+    }
+  }
+]

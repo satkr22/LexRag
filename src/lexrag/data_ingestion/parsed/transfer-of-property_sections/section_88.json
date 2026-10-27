@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-88.html",
+    "source_order": 96,
+    "article_order": 1,
+    "order": 96,
+    "stem": "section_88",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Mortgages of Immoveable Property and Charges",
+    "heading_range": "ss. 58–104",
+    "heading_source": "manifest",
+    "article_number": "88",
+    "article_title": "Decree of sale",
+    "id": "transfer-of-property_section_88"
+  },
+  "id": "transfer-of-property_section_88",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Mortgages of Immoveable Property and Charges",
+    "range": "ss. 58–104"
+  },
+  "article": {
+    "number": "88",
+    "title": "Decree of sale",
+    "content": "",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">88</span>Decree of sale</h3></div><p class=\"repnote\">Rep. by s. 156 and V Schedule, ibid.</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">88</span>Decree of sale</h3></div><p class=\"repnote\">Rep. by s. 156 and V Schedule, ibid.</p>"
+  }
+}

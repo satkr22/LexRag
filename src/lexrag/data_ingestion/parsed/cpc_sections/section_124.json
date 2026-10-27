@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-11.html",
+    "source_order": 11,
+    "article_order": 4,
+    "order": 133,
+    "stem": "section_124",
+    "heading_number": "Part X",
+    "heading_title": "Rules",
+    "heading_range": "ss. 121–131",
+    "heading_source": "group-head",
+    "article_number": "124",
+    "article_title": "Committee to report to High Court.",
+    "id": "cpc_section_124"
+  },
+  "id": "cpc_section_124",
+  "heading": {
+    "number": "Part X",
+    "title": "Rules",
+    "range": "ss. 121–131"
+  },
+  "article": {
+    "number": "124",
+    "title": "Committee to report to High Court.",
+    "content": "Every Rule Committee shall make a report to the High Court established at the town at which it is constituted on any proposal to annul, alter or add to the rules in the First Schedule or to make new rules, and before making any rules; under section 122 the High Court shall take such report into consideration.\n",
+    "html": "<article class=\"provision\" data-n=\"124\" data-report=\"Section 124 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124</span>Committee to report to High Court.</h3></div><p class=\"prov-cite\">Section 124</p><div class=\"prov-body\"><p>Every Rule Committee shall make a report to the High Court established at the town at which it is constituted on any proposal to annul, alter or add to the rules in the First Schedule or to make new rules, and before making any rules; under section 122 the High Court shall take such report into consideration.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124</span>Committee to report to High Court.</h3></div><p class=\"prov-cite\">Section 124</p><div class=\"prov-body\"><p>Every Rule Committee shall make a report to the High Court established at the town at which it is constituted on any proposal to annul, alter or add to the rules in the First Schedule or to make new rules, and before making any rules; under section 122 the High Court shall take such report into consideration.</p></div>"
+  }
+}

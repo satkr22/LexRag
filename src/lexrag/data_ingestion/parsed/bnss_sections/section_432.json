@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-31.html",
+    "source_order": 31,
+    "article_order": 20,
+    "order": 432,
+    "stem": "section_432",
+    "heading_number": "Chapter XXXI",
+    "heading_title": "Appeals",
+    "heading_range": "413 – 435",
+    "heading_source": "group-head",
+    "article_number": "432",
+    "article_title": "Appellate Court may take further evidence or direct it to be taken",
+    "id": "bnss_section_432"
+  },
+  "id": "bnss_section_432",
+  "heading": {
+    "number": "Chapter XXXI",
+    "title": "Appeals",
+    "range": "413 – 435"
+  },
+  "article": {
+    "number": "432",
+    "title": "Appellate Court may take further evidence or direct it to be taken",
+    "content": "(1)In dealing with any appeal under this Chapter, the Appellate Court, if it thinks additional evidence to be necessary, shall record its reasons and may either take such evidence itself, or direct it to be taken by a Magistrate or, when the Appellate Court is a High Court, by a Court of Session or a Magistrate.\n(2)When the additional evidence is taken by the Court of Session or the Magistrate, it or he shall certify such evidence to the Appellate Court, and such Court shall thereupon proceed to dispose of the appeal.\n(3)The accused or his advocate shall have the right to be present when the additional evidence is taken.\n(4)The taking of evidence under this section shall be subject to the provisions of Chapter XXV, as if it were an inquiry.\n",
+    "html": "<article class=\"provision\" data-n=\"432\" data-report=\"Section 432 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">432</span>Appellate Court may take further evidence or direct it to be taken</h3></div><p class=\"prov-cite\">Section 432 · Chapter XXXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In dealing with any appeal under this Chapter, the Appellate Court, if it thinks additional evidence to be necessary, shall record its reasons and may either take such evidence itself, or direct it to be taken by a Magistrate or, when the Appellate Court is a High Court, by a Court of Session or a Magistrate.</p><p><span class=\"lbl\">(2)</span>When the additional evidence is taken by the Court of Session or the Magistrate, it or he shall certify such evidence to the Appellate Court, and such Court shall thereupon proceed to dispose of the appeal.</p><p><span class=\"lbl\">(3)</span>The accused or his advocate shall have the right to be present when the additional evidence is taken.</p><p><span class=\"lbl\">(4)</span>The taking of evidence under this section shall be subject to the provisions of Chapter XXV, as if it were an inquiry.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">432</span>Appellate Court may take further evidence or direct it to be taken</h3></div><p class=\"prov-cite\">Section 432 · Chapter XXXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In dealing with any appeal under this Chapter, the Appellate Court, if it thinks additional evidence to be necessary, shall record its reasons and may either take such evidence itself, or direct it to be taken by a Magistrate or, when the Appellate Court is a High Court, by a Court of Session or a Magistrate.</p><p><span class=\"lbl\">(2)</span>When the additional evidence is taken by the Court of Session or the Magistrate, it or he shall certify such evidence to the Appellate Court, and such Court shall thereupon proceed to dispose of the appeal.</p><p><span class=\"lbl\">(3)</span>The accused or his advocate shall have the right to be present when the additional evidence is taken.</p><p><span class=\"lbl\">(4)</span>The taking of evidence under this section shall be subject to the provisions of Chapter XXV, as if it were an inquiry.</p></div>"
+  }
+}

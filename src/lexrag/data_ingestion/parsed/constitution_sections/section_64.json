@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 13,
+    "order": 76,
+    "stem": "section_64",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "64",
+    "article_title": "The Vice-President to be ex officio Chairman of the Council of States",
+    "id": "constitution_section_64"
+  },
+  "id": "constitution_section_64",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "64",
+    "title": "The Vice-President to be ex officio Chairman of the Council of States",
+    "content": "The Vice-President shall be ex officio Chairman of the Council of the States and shall not hold any other office of profit:\nProvisoProvided that during any period when the Vice-President acts as President or discharges the functions of the President under article 65, he shall not perform the duties of the office of Chairman of the Council of States and shall not be entitled to any salary or allowance payable to the Chairman of the Council of States under article 97.\n",
+    "html": "<article class=\"provision\" data-n=\"64\" data-report=\"Article 64 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">64</span>The Vice-President to be ex officio Chairman of the Council of States</h3></div><p class=\"prov-cite\">Article 64 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p>The Vice-President shall be ex officio Chairman of the Council of the States and shall not hold any other office of profit:</p><p><span class=\"named\">Proviso</span>Provided that during any period when the Vice-President acts as President or discharges the functions of the President under article 65, he shall not perform the duties of the office of Chairman of the Council of States and shall not be entitled to any salary or allowance payable to the Chairman of the Council of States under article 97.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">64</span>The Vice-President to be ex officio Chairman of the Council of States</h3></div><p class=\"prov-cite\">Article 64 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p>The Vice-President shall be ex officio Chairman of the Council of the States and shall not hold any other office of profit:</p><p><span class=\"named\">Proviso</span>Provided that during any period when the Vice-President acts as President or discharges the functions of the President under article 65, he shall not perform the duties of the office of Chairman of the Council of States and shall not be entitled to any salary or allowance payable to the Chairman of the Council of States under article 97.</p></div>"
+  }
+}

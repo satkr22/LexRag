@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_50_chunk_0",
+    "section_id": "income-tax-2025_section_50",
+    "token_count": 349,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 50::Special provision in case of trade, profession or similar association.\n]\n\n\n(1) Irrespective of anything to the contrary contained in this Act, if, during the tax year, the amount received by a specified association from its members falls short of the expenditure incurred by such association solely for the protection or advancement of common interest of its members, then the amount so falling short shall be allowed as deduction from the income of such association under the head \"Profits and gains of business or profession\" and the remaining amount, if any, shall be allowed deduction from its income under any other head.\n(2) For the purposes of sub-section (1),—\n(a) \"specified association\" means any trade, professional or similar association, not covered in Schedule III (Table: Sl. No. 24), whose income or its part is not distributed to its members (other than as grants to any associations or institutions affiliated to it);\n(b) the amount received by the specified association from its members shall include amount by way of subscription or otherwise, and shall not include any remuneration received by the association for rendering any specific services to such members;\n(c) expenditure incurred by specified association shall not include—\n(i) expenditure deductible under any other provision of this Act; and\n(ii) any capital expenditure.\n(3) The effect of other provisions of this Act relating to carry forward and set off of brought forward losses or allowances shall be given before allowing deduction under sub-section (1).\n(4) The maximum allowable deduction under this section shall not exceed 50% of the total income as computed before allowing deduction under this section.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_50_chunk_0",
+      "section_id": "income-tax-2025_section_50",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "50",
+      "section_title": "Special provision in case of trade, profession or similar association."
+    }
+  }
+]

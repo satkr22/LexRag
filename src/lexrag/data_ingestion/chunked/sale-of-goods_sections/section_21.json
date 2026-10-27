@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_21_chunk_0",
+    "section_id": "sale-of-goods_section_21",
+    "token_count": 83,
+    "text": "[Act: sale-of-goods\n Chapter: Effects of the Contract\n Section: 21::Specific goods to be put into a deliverable state.\n]\n\n\nWhere there is a contract for the sale of specific goods and the seller is bound to do something to the goods for the purpose of putting them into a deliverable state, the property does not pass until such thing is done and the buyer has notice thereof.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_21_chunk_0",
+      "section_id": "sale-of-goods_section_21",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Effects of the Contract",
+      "section_number": "21",
+      "section_title": "Specific goods to be put into a deliverable state."
+    }
+  }
+]

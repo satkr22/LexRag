@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-08.html",
+    "source_order": 8,
+    "article_order": 11,
+    "order": 121,
+    "stem": "section_121",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "heading_range": "111 – 124",
+    "heading_source": "group-head",
+    "article_number": "121",
+    "article_title": "Fine in lieu of forfeiture",
+    "id": "bnss_section_121"
+  },
+  "id": "bnss_section_121",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "range": "111 – 124"
+  },
+  "article": {
+    "number": "121",
+    "title": "Fine in lieu of forfeiture",
+    "content": "(1)Where the Court makes a declaration that any property stands forfeited to the Central Government under section 120 and it is a case where the source of only a part of such property has not been proved to the satisfaction of the Court, it shall make an order giving an option to the person affected to pay, in lieu of forfeiture, a fine equal to the market value of such part.\n(2)Before making an order imposing a fine under sub-section (1), the person affected shall be given a reasonable opportunity of being heard.\n(3)Where the person affected pays the fine due under sub-section (1), within such time as may be allowed in that behalf, the Court may, by order, revoke the declaration of forfeiture under section 120 and thereupon such property shall stand released.\n",
+    "html": "<article class=\"provision\" data-n=\"121\" data-report=\"Section 121 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">121</span>Fine in lieu of forfeiture</h3></div><p class=\"prov-cite\">Section 121 · Chapter VIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Where the Court makes a declaration that any property stands forfeited to the Central Government under section 120 and it is a case where the source of only a part of such property has not been proved to the satisfaction of the Court, it shall make an order giving an option to the person affected to pay, in lieu of forfeiture, a fine equal to the market value of such part.</p><p><span class=\"lbl\">(2)</span>Before making an order imposing a fine under sub-section (1), the person affected shall be given a reasonable opportunity of being heard.</p><p><span class=\"lbl\">(3)</span>Where the person affected pays the fine due under sub-section (1), within such time as may be allowed in that behalf, the Court may, by order, revoke the declaration of forfeiture under section 120 and thereupon such property shall stand released.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">121</span>Fine in lieu of forfeiture</h3></div><p class=\"prov-cite\">Section 121 · Chapter VIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Where the Court makes a declaration that any property stands forfeited to the Central Government under section 120 and it is a case where the source of only a part of such property has not been proved to the satisfaction of the Court, it shall make an order giving an option to the person affected to pay, in lieu of forfeiture, a fine equal to the market value of such part.</p><p><span class=\"lbl\">(2)</span>Before making an order imposing a fine under sub-section (1), the person affected shall be given a reasonable opportunity of being heard.</p><p><span class=\"lbl\">(3)</span>Where the person affected pays the fine due under sub-section (1), within such time as may be allowed in that behalf, the Court may, by order, revoke the declaration of forfeiture under section 120 and thereupon such property shall stand released.</p></div>"
+  }
+}

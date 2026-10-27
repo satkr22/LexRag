@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_280C_chunk_0",
+    "section_id": "income-tax-1961_section_280C",
+    "token_count": 111,
+    "text": "[Act: income-tax-1961\n Chapter: Offences and Prosecutions\n Section: 280C::Trial of offences as summons case.\n]\n\n\nNotwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the Special Court, shall try, an offence under this Chapter punishable with imprisonment not exceeding two years or with fine or with both, as a summons case, and the provisions of the Code of Criminal Procedure, 1973 as applicable in the case of trial of summons case, shall apply accordingly.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_280C_chunk_0",
+      "section_id": "income-tax-1961_section_280C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXII",
+      "chapter_title": "Offences and Prosecutions",
+      "section_number": "280C",
+      "section_title": "Trial of offences as summons case."
+    }
+  }
+]

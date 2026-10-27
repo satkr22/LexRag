@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_92_chunk_0",
+    "section_id": "motor-vehicles_section_92",
+    "token_count": 134,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 92::Voidance of contracts restrictive of liability.\n]\n\n\nAny contract for the conveyance of a passenger in a 1[transport vehicle, in respect of which a permit or licence] has been issued under this Chapter, shall, so far as it purports to negative or restrict the liability of any person in respect of any claim made against that person in respect of the death of, or bodily injury to, the passenger while being carried in, entering or alighting from the vehicle, or purports to impose any conditions with respect to the enforcement of any such liability, be void.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_92_chunk_0",
+      "section_id": "motor-vehicles_section_92",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "92",
+      "section_title": "Voidance of contracts restrictive of liability."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-35.html",
+    "source_order": 39,
+    "article_order": 10,
+    "order": 517,
+    "stem": "section_158BH",
+    "heading_number": "Chapter XIV-B",
+    "heading_title": "Special Procedure for Assessment of Search Cases",
+    "heading_range": "ss. 158B–158BI",
+    "heading_source": "group-head",
+    "article_number": "158BH",
+    "article_title": "Application of other provisions of this Act.",
+    "id": "income-tax-1961_section_158BH"
+  },
+  "id": "income-tax-1961_section_158BH",
+  "heading": {
+    "number": "Chapter XIV-B",
+    "title": "Special Procedure for Assessment of Search Cases",
+    "range": "ss. 158B–158BI"
+  },
+  "article": {
+    "number": "158BH",
+    "title": "Application of other provisions of this Act.",
+    "content": "Save as otherwise provided in this Chapter, all other provisions of this Act shall apply to assessment made under this Chapter.\n",
+    "html": "<article class=\"provision\" data-n=\"158BH\" data-report=\"Section 158BH · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158BH</span>Application of other provisions of this Act.</h3></div><p class=\"prov-cite\">Section 158BH  ·  Chapter XIV-B  ·  page 665 of the Act</p><div class=\"prov-body\"><p>Save as otherwise provided in this Chapter, all other provisions of this Act shall apply to assessment made under this Chapter.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158BH</span>Application of other provisions of this Act.</h3></div><p class=\"prov-cite\">Section 158BH  ·  Chapter XIV-B  ·  page 665 of the Act</p><div class=\"prov-body\"><p>Save as otherwise provided in this Chapter, all other provisions of this Act shall apply to assessment made under this Chapter.</p></div>"
+  }
+}

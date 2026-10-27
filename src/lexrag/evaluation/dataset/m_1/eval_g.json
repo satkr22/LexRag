@@ -1,0 +1,162 @@
+[
+    {
+        "question": "When a registered medical practitioner conducts an examination of a victim of alleged rape, what standard procedure governs the examination and submission of the medical report, and what substantive penal provision defines the offence of rape?",
+        "referenced_sections": [
+            "bns_section_63",
+            "bnss_section_184"
+        ],
+        "answer": "The substantive offence of rape is defined under Bharatiya Nyaya Sanhita, 2023 (BNS Section 63). Under Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS Section 184), the medical examination of a rape victim must be conducted by a registered medical practitioner with the consent of the victim or a person competent to give consent, and the completed report detailing consent, injuries, and clinical observations must be forwarded without delay to the investigating officer."
+    },
+    {
+        "question": "What procedural requirements must a court satisfy when issuing a written proclamation for an absconding accused, and what penal liability arises if the person fails to appear without a valid excuse as specified in the proclamation?",
+        "referenced_sections": [
+            "bns_section_209",
+            "bnss_section_84"
+        ],
+        "answer": "Under BNSS Section 84, if a court has reason to believe a person against whom a warrant was issued has absconded, it may publish a written proclamation requiring them to appear at a specified place and time not less than thirty days from the date of publication. If the person fails to appear as required without lawful excuse, BNS Section 209 establishes non-appearance in response to such a proclamation as a punishable offence."
+    },
+    {
+        "question": "Under what statutory conditions can a court take cognizance of an offence involving cruelty to a married woman by her husband or his relatives, and how is cruelty defined under the substantive penal code?",
+        "referenced_sections": [
+            "bns_section_85",
+            "bnss_section_220"
+        ],
+        "answer": "Under BNS Section 85, subjecting a woman to cruelty by her husband or his relative is a substantive offence punishable with imprisonment and fine. BNSS Section 220 restricts court cognizance of this offence, requiring a police report of facts or a complaint made by the aggrieved woman or by her father, mother, brother, sister, or other specified relatives with the leave of the court."
+    },
+    {
+        "question": "How does the procedure for taking cognizance of defamation committed against high constitutional functionaries like the President or Vice-President differ from ordinary cases, and what act constitutes defamation under the penal code?",
+        "referenced_sections": [
+            "bns_section_356",
+            "bnss_section_222"
+        ],
+        "answer": "Defamation is defined and penalized under BNS Section 356 for making or publishing false imputations intending to harm reputation. Under BNSS Section 222, while ordinary defamation requires a complaint by the aggrieved person, defamation against high dignitaries (such as the President, Vice-President, or Ministers) allows a Court of Session to take cognizance upon a written complaint made by the Public Prosecutor within six months, provided prior sanction of the appropriate Government is obtained."
+    },
+    {
+        "question": "If an individual intentionally interrupts or insults a public servant during a judicial proceeding, how can the presiding court summarily deal with the contempt, and what is the substantive penalty for this act?",
+        "referenced_sections": [
+            "bns_section_267",
+            "bnss_section_384"
+        ],
+        "answer": "BNS Section 267 penalizes intentionally insulting or causing interruption to a public servant sitting in any stage of a judicial proceeding. BNSS Section 384 empowers the court before which the offence is committed to take immediate cognizance on the same day, detain the offender, and summarily sentence them after giving an opportunity to show cause."
+    },
+    {
+        "question": "What summary procedure can a Court of Session or Magistrate execute if a witness gives false evidence during a judicial trial, and what substantive punishment does the penal law prescribe for giving false evidence?",
+        "referenced_sections": [
+            "bns_section_229",
+            "bnss_section_383"
+        ],
+        "answer": "BNS Section 229 prescribes punishment for intentionally giving or fabricating false evidence in a judicial proceeding. Under BNSS Section 383, if the court expresses an opinion at the time of delivery of judgment that a witness intentionally gave false evidence, it may follow a summary procedure to take cognizance, give the witness an opportunity to show cause, and try them expeditiously."
+    },
+    {
+        "question": "What process is prescribed when a witness intentionally fails to attend court in obedience to a summons, and what penal liability applies under the substantive law for non-attendance?",
+        "referenced_sections": [
+            "bns_section_208",
+            "bnss_section_389"
+        ],
+        "answer": "BNS Section 208 penalizes non-attendance in obedience to an order, summons, or requisition from a public servant. BNSS Section 389 provides a summary procedure empowering the court issuing the summons to try a witness who intentionally neglects or refuses to attend without just excuse and impose a fine."
+    },
+    {
+        "question": "What procedural precondition restricts court cognizance of disobedience to an order promulgated by a public servant, and what penal consequences are incurred if the disobedience endangers human life or safety?",
+        "referenced_sections": [
+            "bns_section_223",
+            "bnss_section_215"
+        ],
+        "answer": "BNS Section 223 establishes penal liability for disobeying an order duly promulgated by a public servant, imposing enhanced punishment if the act causes danger to human life, health, or safety. BNSS Section 215 mandates that no court shall take cognizance of such an offence except on the written complaint of the public servant concerned or of some other public servant to whom they are administratively subordinate."
+    },
+    {
+        "question": "What procedural rule requires trials of sexual offences to be held away from public view, and what substantive offence is committed if someone publishes the victim's identity without authorization?",
+        "referenced_sections": [
+            "bns_section_72",
+            "bnss_section_366"
+        ],
+        "answer": "BNSS Section 366 mandates that an inquiry into or trial of rape or sexual offences shall be conducted in camera (in private). BNS Section 72 makes it a criminal offence punishable with imprisonment to print or publish the name or any matter revealing the identity of a victim of such sexual offences without lawful authority or consent."
+    },
+    {
+        "question": "What finding must a court record when acquitting an accused person on grounds of insanity, and how does the penal code define non-liability for acts committed by a person of unsound mind?",
+        "referenced_sections": [
+            "bns_section_22",
+            "bnss_section_373"
+        ],
+        "answer": "BNS Section 22 provides that nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act or that it is wrong or contrary to law. Under BNSS Section 373, whenever a person is acquitted on this ground, the court's judgment must explicitly state whether the person committed the act charged."
+    },
+    {
+        "question": "What procedural duties are imposed on police officers investigating unnatural or suspicious deaths, and how is the substantive offence of causing death by negligence punished under penal law?",
+        "referenced_sections": [
+            "bns_section_106",
+            "bnss_section_194"
+        ],
+        "answer": "BNSS Section 194 requires the officer in charge of a police station to immediately inform the nearest Executive Magistrate and proceed to investigate and draw up a report on the cause of death when receiving information about a suicide or suspicious death. If the death was caused by a rash or negligent act not amounting to culpable homicide, BNS Section 106 defines and punishes the substantive offence of causing death by negligence."
+    },
+    {
+        "question": "Which serious property crimes impose a legal obligation on the public to inform authorities, and what is the punishment for harbouring offenders involved in dacoity?",
+        "referenced_sections": [
+            "bns_section_254",
+            "bnss_section_33"
+        ],
+        "answer": "BNSS Section 33 places a mandatory duty on every member of the public aware of the commission of or intent to commit certain serious crimes (including dacoity and robbery) to give information to the nearest Magistrate or police officer. BNS Section 254 penalizes any person who harbours, houses, or assists individuals knowing they have committed or are about to commit dacoity."
+    },
+    {
+        "question": "What prior sanction is necessary before a court can proceed against a public servant for an official act, and what criminal liability exists under substantive law if a public servant frames a false record to shield someone from punishment?",
+        "referenced_sections": [
+            "bns_section_256",
+            "bnss_section_218"
+        ],
+        "answer": "BNSS Section 218 mandates that no court shall take cognizance of an offence alleged to have been committed by a public servant while acting or purporting to act in the discharge of official duty without prior sanction from the appropriate Central or State Government. Under BNS Section 256, a public servant who knowingly frames an incorrect record or writing to save any person from legal punishment or property from forfeiture commits a punishable criminal offence."
+    },
+    {
+        "question": "Under what statutory circumstances may civil force be deployed to disperse a crowd, and what elements define an unlawful assembly under the substantive penal code?",
+        "referenced_sections": [
+            "bns_section_189",
+            "bnss_section_148"
+        ],
+        "answer": "BNS Section 189 defines an unlawful assembly as an assembly of five or more persons with a common object to overawe by criminal force, resist execution of law, or commit offences. Under BNSS Section 148, an Executive Magistrate or officer in charge of a police station may command any such unlawful assembly to disperse, and if it refuses, may disperse it by civil force."
+    },
+    {
+        "question": "Which territorial jurisdictions possess venue authority to try the offence of criminal breach of trust, and what constitutes the substantive offence under penal law?",
+        "referenced_sections": [
+            "bns_section_316",
+            "bnss_section_201"
+        ],
+        "answer": "BNS Section 316 defines criminal breach of trust as dishonestly misappropriating, converting, using, or disposing of property entrusted to a person in violation of law or legal contract. Under BNSS Section 201, the offence may be inquired into or tried by a court within whose local jurisdiction any part of the property was received, retained, or required to be returned or accounted for."
+    },
+    {
+        "question": "What statutory authority enables a magistrate to compel the immediate restoration of an abducted female, and how is abduction defined in contrast to kidnapping?",
+        "referenced_sections": [
+            "bns_section_138",
+            "bnss_section_101"
+        ],
+        "answer": "BNS Section 138 defines abduction as compelling by force or inducing by deceitful means any person to go from any place. Under BNSS Section 101, a District Magistrate, Sub-divisional Magistrate, or Magistrate of the first class may issue an order compelling the immediate restoration of an abducted female to her liberty or to her lawful guardian."
+    },
+    {
+        "question": "What procedural authorization must be obtained before a court takes cognizance of a criminal conspiracy against the State, and how is criminal conspiracy defined as a substantive offence?",
+        "referenced_sections": [
+            "bns_section_61",
+            "bnss_section_217"
+        ],
+        "answer": "BNS Section 61 defines criminal conspiracy as an agreement between two or more persons to commit an illegal act or a legal act by illegal means. Under BNSS Section 217, no court shall take cognizance of the offence of criminal conspiracy to commit an offence against the State unless the State Government or District Magistrate has granted consent or preliminary authorization."
+    },
+    {
+        "question": "Who is legally qualified to initiate a court complaint for bigamy, and what punishment does the penal code specify for marrying again during the lifetime of a spouse?",
+        "referenced_sections": [
+            "bns_section_82",
+            "bnss_section_219"
+        ],
+        "answer": "BNS Section 82 penalizes marrying again during the lifetime of a husband or wife where such marriage is void by reason of taking place during the life of such spouse. BNSS Section 219 mandates that no court shall take cognizance of this offence except upon a complaint made by some person aggrieved by the offence, such as the husband or wife."
+    },
+    {
+        "question": "What order can an Executive Magistrate issue to restrain the repetition or continuation of a public nuisance, and how is public nuisance defined under substantive law?",
+        "referenced_sections": [
+            "bns_section_270",
+            "bnss_section_162"
+        ],
+        "answer": "BNS Section 270 defines public nuisance as an act or illegal omission causing common injury, danger, or annoyance to the public or people in the vicinity. Under BNSS Section 162, an Executive Magistrate may issue an order prohibiting any person from repeating or continuing a public nuisance."
+    },
+    {
+        "question": "Under what conditions can a Magistrate issue a search warrant for a location suspected of holding stolen goods, and what criteria define stolen property under penal law?",
+        "referenced_sections": [
+            "bns_section_317",
+            "bnss_section_97"
+        ],
+        "answer": "BNS Section 317 defines stolen property as property whose possession has been transferred by theft, extortion, robbery, criminal misappropriation, or criminal breach of trust. Under BNSS Section 97, if a District Magistrate, Sub-divisional Magistrate, or Magistrate of the first class receives information and has reason to believe a place is used for the deposit or sale of stolen property, they may authorize a police officer to enter and search the premises."
+    }
+]

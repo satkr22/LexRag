@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80V_chunk_0",
+    "section_id": "income-tax-1961_section_80V",
+    "token_count": 42,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80V::Deduction from gross total income of the parent in certain cases.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80V_chunk_0",
+      "section_id": "income-tax-1961_section_80V",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80V",
+      "section_title": "Deduction from gross total income of the parent in certain cases."
+    }
+  }
+]

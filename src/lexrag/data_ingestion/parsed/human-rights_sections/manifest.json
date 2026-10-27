@@ -1,0 +1,278 @@
+{
+  "act": "human-rights",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/human-rights_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/human-rights_sections",
+  "count": 45,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Constitution of a National Human Rights Commission.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Appointment of Chairperson and other Members.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "4 [Resignation and removal of Chairperson and Members.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "1 [Term of office of Chairperson and Members.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Member to act as Chairperson or to discharge his functions in certain circumstances.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "5 [Terms and conditions of service of Chairperson and Members.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Vacancies, etc., not to invalidate the proceedings of the Commission.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Procedure to be regulated by the Commission.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Officers and other staff of the Commission.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Functions of the Commission.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Powers relating to inquiries.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Investigation.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Statement made by persons to the Commission.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Persons likely to be prejudicially affected to be heard.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "17",
+      "article_title": "Inquiry into complaints.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 18,
+      "article_number": "18",
+      "article_title": "1 [Steps during and after inquiry.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 19,
+      "article_number": "19",
+      "article_title": "Procedure with respect to armed forces.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 20,
+      "article_number": "20",
+      "article_title": "Annual and special reports of the Commission.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 21,
+      "article_number": "21",
+      "article_title": "Constitution of State Human Rights Commission.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 22,
+      "article_number": "22",
+      "article_title": "Appointment of Chairperson and 7 [Members] of State Commission.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 23,
+      "article_number": "23",
+      "article_title": "2 [Resignation and Removal of Chairperson or a Member of the State Commission].",
+      "file": "section_23.json"
+    },
+    {
+      "order": 24,
+      "article_number": "24",
+      "article_title": "6 [Term of office of Chairperson and Members of the State Commission.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 25,
+      "article_number": "25",
+      "article_title": "Member to act as Chairperson or to discharge his functions in certain circumstances.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 26,
+      "article_number": "26",
+      "article_title": "1 [Terms and conditions of service of Chairperson and Members of State Commission.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 27,
+      "article_number": "27",
+      "article_title": "Officers and other staff of the State Commission.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 28,
+      "article_number": "28",
+      "article_title": "Annual and special reports of State Commission.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 29,
+      "article_number": "29",
+      "article_title": "Application of certain provisions relating to National Human Rights Commission to State Commissions.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 30,
+      "article_number": "30",
+      "article_title": "Human Rights Courts.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 31,
+      "article_number": "31",
+      "article_title": "Special Public Prosecutor.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 32,
+      "article_number": "32",
+      "article_title": "Grants by the Central Government.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 33,
+      "article_number": "33",
+      "article_title": "Grants by the State Government.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 34,
+      "article_number": "34",
+      "article_title": "Accounts and audit.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 35,
+      "article_number": "35",
+      "article_title": "Accounts and audit of State Commission.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 36,
+      "article_number": "36",
+      "article_title": "Matters not subject to jurisdiction of the Commission.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 37,
+      "article_number": "37",
+      "article_title": "Constitution of special investigation teams.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 38,
+      "article_number": "38",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 39,
+      "article_number": "39",
+      "article_title": "Members and officers to be public servants.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 40,
+      "article_number": "40",
+      "article_title": "Power of Central Government to make rules.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 41,
+      "article_number": "40A",
+      "article_title": "1 [Power to make rules retrospectively.",
+      "file": "section_40A.json"
+    },
+    {
+      "order": 42,
+      "article_number": "40B",
+      "article_title": "2 [Power of Commission to make regulations.",
+      "file": "section_40B.json"
+    },
+    {
+      "order": 43,
+      "article_number": "41",
+      "article_title": "Power of State Government to make rules.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 44,
+      "article_number": "42",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 45,
+      "article_number": "43",
+      "article_title": "Repeal and savings.",
+      "file": "section_43.json"
+    }
+  ]
+}

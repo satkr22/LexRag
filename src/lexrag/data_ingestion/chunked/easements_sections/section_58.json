@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_58_chunk_0",
+    "section_id": "easements_section_58",
+    "token_count": 58,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 58::Grantor’s duty not to render property unsafe.\n]\n\n\nThe grantor of a license is bound not to do anything likely to render the property affected by the license dangerous to the person or property of the licensee.",
+    "metadata": {
+      "chunk_id": "easements_section_58_chunk_0",
+      "section_id": "easements_section_58",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "58",
+      "section_title": "Grantor’s duty not to render property unsafe."
+    }
+  }
+]

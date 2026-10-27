@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-53.html",
+    "source_order": 58,
+    "article_order": 34,
+    "order": 911,
+    "stem": "section_293B",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 281–298",
+    "heading_source": "group-head",
+    "article_number": "293B",
+    "article_title": "Power of Central Government or Board to condone delays in obtaining approval.",
+    "id": "income-tax-1961_section_293B"
+  },
+  "id": "income-tax-1961_section_293B",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Miscellaneous",
+    "range": "ss. 281–298"
+  },
+  "article": {
+    "number": "293B",
+    "title": "Power of Central Government or Board to condone delays in obtaining approval.",
+    "content": "Where, under any provision of this Act, the approval of the Central Government or the Board is required to be obtained before a specified date, it shall be open to the Central Government or, as the case may be, the Board to condone, for sufficient cause, any delay in obtaining such approval.\n",
+    "html": "<article class=\"provision\" data-n=\"293B\" data-report=\"Section 293B · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">293B</span>Power of Central Government or Board to condone delays in obtaining approval.</h3></div><p class=\"prov-cite\">Section 293B  ·  Chapter XXIII  ·  page 1077 of the Act</p><div class=\"prov-body\"><p>Where, under any provision of this Act, the approval of the Central Government or the Board is required to be obtained before a specified date, it shall be open to the Central Government or, as the case may be, the Board to condone, for sufficient cause, any delay in obtaining such approval.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">293B</span>Power of Central Government or Board to condone delays in obtaining approval.</h3></div><p class=\"prov-cite\">Section 293B  ·  Chapter XXIII  ·  page 1077 of the Act</p><div class=\"prov-body\"><p>Where, under any provision of this Act, the approval of the Central Government or the Board is required to be obtained before a specified date, it shall be open to the Central Government or, as the case may be, the Board to condone, for sufficient cause, any delay in obtaining such approval.</p></div>"
+  }
+}

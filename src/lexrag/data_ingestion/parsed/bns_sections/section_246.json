@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-14.html",
+    "source_order": 14,
+    "article_order": 20,
+    "order": 246,
+    "stem": "section_246",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of False Evidence and Offences Against Public Justice",
+    "heading_range": "227 – 269",
+    "heading_source": "group-head",
+    "article_number": "246",
+    "article_title": "Dishonestly making false claim in Court",
+    "id": "bns_section_246"
+  },
+  "id": "bns_section_246",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of False Evidence and Offences Against Public Justice",
+    "range": "227 – 269"
+  },
+  "article": {
+    "number": "246",
+    "title": "Dishonestly making false claim in Court",
+    "content": "Whoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.\n",
+    "html": "<article class=\"provision\" data-n=\"246\" data-report=\"Section 246 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">246</span>Dishonestly making false claim in Court</h3></div><p class=\"prov-cite\">Section 246 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">246</span>Dishonestly making false claim in Court</h3></div><p class=\"prov-cite\">Section 246 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.</p></div>"
+  }
+}

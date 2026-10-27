@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_217A_chunk_0",
+    "section_id": "motor-vehicles_section_217A",
+    "token_count": 89,
+    "text": "[Act: motor-vehicles\n Chapter: Miscellaneous\n Section: 217A::Renewal of permits, driving licences and registration granted under the Motor Vehicles Act, 1939.\n]\n\n\nNotwithstanding the repeal by sub-section (1) of section 217 of the enactments referred to in that sub-section, any certificate of fitness or registration or licence or permit issued or granted under the said enactments may be renewed under this Act.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_217A_chunk_0",
+      "section_id": "motor-vehicles_section_217A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Miscellaneous",
+      "section_number": "217A",
+      "section_title": "Renewal of permits, driving licences and registration granted under the Motor Vehicles Act, 1939."
+    }
+  }
+]

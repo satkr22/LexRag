@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_43_chunk_0",
+    "section_id": "income-tax-2025_section_43",
+    "token_count": 155,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 43::Taxation of foreign exchange fluctuation.\n]\n\n\n(1) Subject to the provisions of section 42, any gain or loss arising on account of change in foreign exchange rates on foreign currency transactions shall be treated as income or loss, as the case may be, and shall be computed as per the income computation and disclosure standards notified under section 276(2).\n(2) The provisions of sub-section (1) shall be applicable to all foreign currency transactions, including those relating to—\n(a) monetary items and non-monetary items;\n(b) translation of financial statements of foreign operations;\n(c) forward exchange contracts; and\n(d) foreign currency translation reserves.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_43_chunk_0",
+      "section_id": "income-tax-2025_section_43",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "43",
+      "section_title": "Taxation of foreign exchange fluctuation."
+    }
+  }
+]

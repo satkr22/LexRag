@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_84_chunk_0",
+    "section_id": "negotiable-instruments_section_84",
+    "token_count": 356,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Discharge from Liability on Notes, Bills and Cheques\n Section: 84::2 [When cheque not duly presented and drawer damaged thereby.\n]\n\n\n(1) Where a cheque is not presented for payment within a reasonable time of its issue, and the drawer or person on whose account it is drawn had the right, at the time when presentment ought to have been made, as between himself and the banker, to have the cheque paid and suffers actual damage through the delay, he is discharged to the extent of such damage, that is to say, to the extent to which such drawer or person is a creditor of the banker to a large amount than he would have been if such cheque had been paid.\n(2) In determining what is a reasonble time, regard shall be had to the nature of the instrument, the usage of trade and of bankers, and the facts of the particular case.\n(3) The holder of the cheque as to which such drawer of person is so discharged shall be a creditor, in lieu of such drawer or person, of such banker to the extent of such discharge and entitled to recover the amount from him.\nIllustrations\n(a) A draws a cheque for Rs. 1,000, and, when the cheque ought to be presented, has funds at the bank to meet it. The bank fails before the cheque is presented. The drawer is discharged, but the holder can prove against the bank for the amount of the cheque.\n(b) A draws a cheque at Umballa on a bank in Calcutta. The bank fails before the cheque could be presented in ordinary course. A is not discharged, for he has not suffered actual damage through any delay in presenting the cheque.]",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_84_chunk_0",
+      "section_id": "negotiable-instruments_section_84",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Of Discharge from Liability on Notes, Bills and Cheques",
+      "section_number": "84",
+      "section_title": "2 [When cheque not duly presented and drawer damaged thereby."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_288_chunk_0",
+    "section_id": "income-tax-2025_section_288",
+    "token_count": 438,
+    "text": "[Act: income-tax-2025\n Chapter: Procedure for Assessment\n Section: 288::Other amendments.\n]\n\n\n(1) The Assessing Officer, may carry out such actions as are specified in column B of the Table below for reasons mentioned therein, subject to the conditions as specified in column C, within four years referred to in section 287(8) which shall be reckoned from the time as specified in column D, and the provisions of section 287 shall, so far as may be, apply to such amendment:—\n  (2)(a) Where the arm's length price is determined in relation to an international transaction or a specified domestic transaction under section 166(6) for any tax year and the Transfer Pricing Officer has declared that an option exercised by the assessee is valid under section 166(9) in respect of such transaction for two consecutive tax years immediately following such tax year, the Assessing Officer shall proceed to recompute the total income of the assessee for the said two consecutive tax years, by amending the order of assessment or any intimation or deemed intimation under section 270(1), as the case may be,—\n  (i) in conformity with the arm's length price so determined by the Transfer Pricing Officer under section 166(12) in respect of such transaction; and\n  (ii) taking into account the directions issued under section 275(5), if any, for such tax year, within three months from the end of the month in which the assessment is completed in the case of the assessee for such tax year, and the provisions of sections 165(7) and (8) shall apply thereto.\n  (b) Where the order of assessment or any intimation or deemed intimation under section 270(1) as referred to in sub-section (1), for the said two consecutive tax years is not made within the said three months, such recomputation shall be made within three months from the end of the month in which such order of assessment or any intimation or deemed intimation under section 270(1), as the case may be, is made.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_288_chunk_0",
+      "section_id": "income-tax-2025_section_288",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XVI",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "288",
+      "section_title": "Other amendments."
+    }
+  }
+]

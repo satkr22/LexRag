@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_269P_chunk_0",
+    "section_id": "income-tax-1961_section_269P",
+    "token_count": 349,
+    "text": "[Act: income-tax-1961\n Chapter: None\n Section: 269P::Statement to be furnished in respect of transfers of immovable property.\n]\n\n\n(1) Notwithstanding anything contained in any other law for the time being in force, no registering officer appointed under the Registration Act, 1908 (16 of 1908), shall register any document which purports to transfer any immovable property belonging to any person unless a statement in duplicate in respect of such transfer, in the prescribed form and verified in the prescribed manner and setting forth such particulars as may be prescribed, is furnished to him along with the instrument of transfer :\nProvided that the provisions of this sub-section shall not apply in relation to any document which purports to transfer any immovable property for an apparent consideration not exceeding fifty thousand rupees.\nExplanation.—For the purposes of this proviso, \"apparent consideration\" shall have the meaning assigned to it in clause (a) of section 269A subject to the modifications that for the expressions \"immovable property transferred\" and \"instrument of transfer\" occurring in that clause, the expressions \"immovable property purported to be transferred\" and \"document purporting to transfer such immovable property\" shall, respectively, be substituted.\n(2) The registering officer shall, at the end of every fortnight, forward to the competent authority,—\n(a) one set of the statements received by him under sub-section (1) during the fortnight ; and\n(b) a return in the prescribed form and verified in the prescribed manner and setting forth such particulars as may be prescribed in respect of documents of the nature referred to in sub-section (1) which have been registered by him during the fortnight.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_269P_chunk_0",
+      "section_id": "income-tax-1961_section_269P",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX-A",
+      "chapter_title": null,
+      "section_number": "269P",
+      "section_title": "Statement to be furnished in respect of transfers of immovable property."
+    }
+  }
+]

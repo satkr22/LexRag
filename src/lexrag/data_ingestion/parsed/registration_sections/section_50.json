@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "registration",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "registration_sections/section-50.html",
+    "source_order": 53,
+    "article_order": 1,
+    "order": 53,
+    "stem": "section_50",
+    "heading_number": "Part X",
+    "heading_title": "Of the Effects of Registration and Non-registration",
+    "heading_range": "ss. 47–50",
+    "heading_source": "manifest",
+    "article_number": "50",
+    "article_title": "Certain registered documents relating to land to take effect against unregistered documents.",
+    "id": "registration_section_50"
+  },
+  "id": "registration_section_50",
+  "heading": {
+    "number": "Part X",
+    "title": "Of the Effects of Registration and Non-registration",
+    "range": "ss. 47–50"
+  },
+  "article": {
+    "number": "50",
+    "title": "Certain registered documents relating to land to take effect against unregistered documents.",
+    "content": "(1) Every document of the kinds mentioned in clauses (a), (b), (c) and (d) of section 17, sub-section (1), and clauses (a) and (b) of section 18, shall, if duly registered, take effect as regards the property comprised therein, against every unregistered document relating to the same property, and not being a decree or order, whether such unregistered document be of the same nature as the registered document or not.\n(2) Nothing in sub-section (1) applies to leases exempted under the proviso to sub-section (1) of section 17 or to any document mentioned in sub-section (2) of the same section, or to any registered document which had not priority under the law in force at the commencement of this Act.\nExplanation.—In cases, where Act No. 16 of 1864 or the Indian Registration Act, 1866 (20 of 1866), was in force in the place and at the time in and at which such unregistered document was executed,\n“unregistered” means not registered according to such Act, and, where the document is executed after the first day of July, 1871, not registered under the Indian Registration Act, 1871 (8 of 1871), or the Indian Registration Act, 1877 (3 of 1877), or this Act.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">50</span>Certain registered documents relating to land to take effect against unregistered documents.</h3></div><p class=\"prov-cite\">Section 50  ·  Part X  ·  page 28 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every document of the kinds mentioned in clauses (a), (b), (c) and (d) of section 17, sub-section (1), and clauses (a) and (b) of section 18, shall, if duly registered, take effect as regards the property comprised therein, against every unregistered document relating to the same property, and not being a decree or order, whether such unregistered document be of the same nature as the registered document or not.</p><p class=\"lvl\">(2) Nothing in sub-section (1) applies to leases exempted under the proviso to sub-section (1) of section 17 or to any document mentioned in sub-section (2) of the same section, or to any registered document which had not priority under the law in force at the commencement of this Act.</p><p class=\"prvso\">Explanation.—In cases, where Act No. 16 of 1864 or the Indian Registration Act, 1866 (20 of 1866), was in force in the place and at the time in and at which such unregistered document was executed,</p><p>“unregistered” means not registered according to such Act, and, where the document is executed after the first day of July, 1871, not registered under the Indian Registration Act, 1871 (8 of 1871), or the Indian Registration Act, 1877 (3 of 1877), or this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">50</span>Certain registered documents relating to land to take effect against unregistered documents.</h3></div><p class=\"prov-cite\">Section 50  ·  Part X  ·  page 28 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every document of the kinds mentioned in clauses (a), (b), (c) and (d) of section 17, sub-section (1), and clauses (a) and (b) of section 18, shall, if duly registered, take effect as regards the property comprised therein, against every unregistered document relating to the same property, and not being a decree or order, whether such unregistered document be of the same nature as the registered document or not.</p><p class=\"lvl\">(2) Nothing in sub-section (1) applies to leases exempted under the proviso to sub-section (1) of section 17 or to any document mentioned in sub-section (2) of the same section, or to any registered document which had not priority under the law in force at the commencement of this Act.</p><p class=\"prvso\">Explanation.—In cases, where Act No. 16 of 1864 or the Indian Registration Act, 1866 (20 of 1866), was in force in the place and at the time in and at which such unregistered document was executed,</p><p>“unregistered” means not registered according to such Act, and, where the document is executed after the first day of July, 1871, not registered under the Indian Registration Act, 1871 (8 of 1871), or the Indian Registration Act, 1877 (3 of 1877), or this Act.</p></div>"
+  }
+}

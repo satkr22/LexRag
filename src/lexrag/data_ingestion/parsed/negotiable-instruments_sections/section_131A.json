@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-131a.html",
+    "source_order": 137,
+    "article_order": 1,
+    "order": 137,
+    "stem": "section_131A",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of Crossed Cheques",
+    "heading_range": "ss. 123–131A",
+    "heading_source": "manifest",
+    "article_number": "131A",
+    "article_title": "2 [Application of Chapter to drafts.",
+    "id": "negotiable-instruments_section_131A"
+  },
+  "id": "negotiable-instruments_section_131A",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of Crossed Cheques",
+    "range": "ss. 123–131A"
+  },
+  "article": {
+    "number": "131A",
+    "title": "2 [Application of Chapter to drafts.",
+    "content": "The provisions of this Chapter shall apply to any draft, as defined in section 85A, as if the draft were a cheque.]\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131A</span><sup>2</sup>[Application of Chapter to drafts.</h3></div><p class=\"prov-cite\">Section 131A  ·  Chapter XIV  ·  page 27 of the Act</p><div class=\"prov-body\"><p>The provisions of this Chapter shall apply to any draft, as defined in section 85A, as if the draft were a cheque.]</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Ins. by Act 33 of 1947, s. 2.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131A</span><sup>2</sup>[Application of Chapter to drafts.</h3></div><p class=\"prov-cite\">Section 131A  ·  Chapter XIV  ·  page 27 of the Act</p><div class=\"prov-body\"><p>The provisions of this Chapter shall apply to any draft, as defined in section 85A, as if the draft were a cheque.]</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Ins. by Act 33 of 1947, s. 2.</p></div></div>"
+  }
+}

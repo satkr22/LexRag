@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_31_chunk_0",
+    "section_id": "sale-of-goods_section_31",
+    "token_count": 63,
+    "text": "[Act: sale-of-goods\n Chapter: Performance of the Contract\n Section: 31::Duties, of seller and buyer.\n]\n\n\nIt is the duty to the seller to deliver the goods and of the buyer to accept and pay for them, in accordance with the terms of the contract of sale.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_31_chunk_0",
+      "section_id": "sale-of-goods_section_31",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Performance of the Contract",
+      "section_number": "31",
+      "section_title": "Duties, of seller and buyer."
+    }
+  }
+]

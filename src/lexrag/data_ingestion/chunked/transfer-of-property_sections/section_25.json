@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_25_chunk_0",
+    "section_id": "transfer-of-property_section_25",
+    "token_count": 221,
+    "text": "[Act: transfer-of-property\n Chapter: Of Transfers of Property by Act of Parties1\n Section: 25::Conditional transfer.\n]\n\n\nAn interest created on a transfer of property and dependent upon a condition fails if the fulfilment of the condition is impossible, or is forbidden by law, or is of such a nature that, if permitted, it would defeat the provisions of any law, or is fraudulent, or involves or implies injury to the person or property of another, or the Court regards it as immoral or opposed to public policy.\nIllustrations\n(a) A lets a farm to B on condition that he shall walk a hundred miles in an hour. The lease is void.\n(b) A gives Rs. 500 to B on condition that he shall marry A's daughter C. At the date of the transfer C was dead. The transfer is void.\n(c) A transfers Rs. 500 to B or condition that she shall murder C. The transfer is void.\n(d) A transfers Rs. 500 to his niece C if she will desert her husband. The transfer is void.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_25_chunk_0",
+      "section_id": "transfer-of-property_section_25",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Transfers of Property by Act of Parties1",
+      "section_number": "25",
+      "section_title": "Conditional transfer."
+    }
+  }
+]

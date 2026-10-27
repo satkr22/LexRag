@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_280A-280X_chunk_0",
+    "section_id": "income-tax-1961_section_280A-280X",
+    "token_count": 27,
+    "text": "[Act: income-tax-1961\n Chapter: Annuity Deposits\n Section: 280A-280X::\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_280A-280X_chunk_0",
+      "section_id": "income-tax-1961_section_280A-280X",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXII-A",
+      "chapter_title": "Annuity Deposits",
+      "section_number": "280A-280X",
+      "section_title": ""
+    }
+  }
+]

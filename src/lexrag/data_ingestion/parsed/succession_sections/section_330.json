@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-40.html",
+    "source_order": 40,
+    "article_order": 15,
+    "order": 331,
+    "stem": "section_330",
+    "heading_number": "Part IX · Chapter VII",
+    "heading_title": "Of the Duties of an Executor or Administrator",
+    "heading_range": "ss. 316–331",
+    "heading_source": "group-head",
+    "article_number": "330",
+    "article_title": "Rateable abatement of specific legacies.",
+    "id": "succession_section_330"
+  },
+  "id": "succession_section_330",
+  "heading": {
+    "number": "Part IX · Chapter VII",
+    "title": "Of the Duties of an Executor or Administrator",
+    "range": "ss. 316–331"
+  },
+  "article": {
+    "number": "330",
+    "title": "Rateable abatement of specific legacies.",
+    "content": "If the assets are not sufficient to answer the debts and the specific legacies, an abatement shall be made from the latter rateably in proportion to their respective amounts.\nIllustration\nA has bequeathed to B a diamond ring valued at 500 rupees, and to C a horse, valued at 1,000 rupees. It is found necessary to sell all the effects of the testator; and his assets, after payment of debts, are only 1,000 rupees. Of this sum rupees 333-5-4 are to be paid to B, and rupees 666-10-8 to C.\n",
+    "html": "<article class=\"provision\" data-n=\"330\" data-report=\"Section 330 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">330</span>Rateable abatement of specific legacies.</h3></div><p class=\"prov-cite\">Section 330  ·  Part IX · Chapter VII  ·  page 86 of the Act</p><div class=\"prov-body\"><p>If the assets are not sufficient to answer the debts and the specific legacies, an abatement shall be made from the latter rateably in proportion to their respective amounts.</p><p>Illustration</p><p>A has bequeathed to B a diamond ring valued at 500 rupees, and to C a horse, valued at 1,000 rupees. It is found necessary to sell all the effects of the testator; and his assets, after payment of debts, are only 1,000 rupees. Of this sum rupees 333-5-4 are to be paid to B, and rupees 666-10-8 to C.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">330</span>Rateable abatement of specific legacies.</h3></div><p class=\"prov-cite\">Section 330  ·  Part IX · Chapter VII  ·  page 86 of the Act</p><div class=\"prov-body\"><p>If the assets are not sufficient to answer the debts and the specific legacies, an abatement shall be made from the latter rateably in proportion to their respective amounts.</p><p>Illustration</p><p>A has bequeathed to B a diamond ring valued at 500 rupees, and to C a horse, valued at 1,000 rupees. It is found necessary to sell all the effects of the testator; and his assets, after payment of debts, are only 1,000 rupees. Of this sum rupees 333-5-4 are to be paid to B, and rupees 666-10-8 to C.</p></div>"
+  }
+}

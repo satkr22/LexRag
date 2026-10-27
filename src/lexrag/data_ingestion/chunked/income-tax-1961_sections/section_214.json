@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_214_chunk_0",
+    "section_id": "income-tax-1961_section_214",
+    "token_count": 413,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 214::Interest payable by Government.\n]\n\n\n(1) The Central Government shall pay simple interest at fifteen per cent per annum on the amount by which the aggregate sum of any instalments of advance tax paid during any financial year in which they are payable under sections 207 to 213 exceeds the amount of the assessed tax from the 1st day of April next following the said financial year to the date of the regular assessment for the assessment year immediately following the said financial year, and where any such instalment is paid after the expiry of the financial year, during which it is payable by reason of the provisions of section 213, interest as aforesaid shall also be payable on that instalment from the date of its payment to the date of regular assessment :\n  Provided that in respect of any amount refunded on a provisional assessment under section 141A, no interest shall be paid for any period after the date of such provisional assessment.\n  (1A) Where as a result of an order under section 147 or section 154 or section 155 or section 250 or section 254 or section 260 or section 262 or section 263 or section 264 or an order of the Settlement Commission under sub-section (4) of section 245D, the amount on which interest was payable under sub-section (1) has been increased or reduced, as the case may be, the interest shall be increased or reduced accordingly, and in a case where the interest is reduced, the Assessing Officer shall serve on the assessee, a notice of demand in the prescribed form specifying the amount of the excess interest payable and requiring him to pay such amount ; and such notice of demand shall be deemed to be a notice under section 156 and the provisions of this Act shall apply accordingly.\n  (2) On any portion of such amount which is refunded under this Chapter, interest shall be payable only up to the date on which the refund was made.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_214_chunk_0",
+      "section_id": "income-tax-1961_section_214",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "214",
+      "section_title": "Interest payable by Government."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_214_chunk_1",
+    "section_id": "income-tax-1961_section_214",
+    "token_count": 367,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 214::Interest payable by Government.\n]\n\n\n(1) The Central Government shall pay simple interest at fifteen per cent per annum on the amount by which the aggregate sum of any instalments of advance tax paid during any financial year in which they are payable under sections 207 to 213 exceeds the amount of the assessed tax from the 1st day of April next following the said financial year to the date of the regular assessment for the assessment year immediately following the said financial year, and where any such instalment is paid after the expiry of the financial year, during which it is payable by reason of the provisions of section 213, interest as aforesaid shall also be payable on that instalment from the date of its payment to the date of regular assessment :\n  (3) This section and sections 215, 216 and 217 shall not apply in respect of any assessment for the assessment year commencing on the 1st day of April, 1989, or any subsequent assessment year and, in the application of the said sections to the assessment for any earlier assessment year, references therein [except in sub-section (1A) and sub-section (3) of section 215] to the other provisions of this Act shall be construed as references to those provisions as for the time being in force and applicable to the relevant assessment year.\n  Explanation 1.—In this section, \"assessed tax\" shall have the same meaning as in sub-section (5) of section 215.\n  Explanation 2.—Where, in relation to an assessment year, an assessment is made for the first time under section 147, the assessment so made shall be regarded as a regular assessment for the purposes of this section.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_214_chunk_1",
+      "section_id": "income-tax-1961_section_214",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "214",
+      "section_title": "Interest payable by Government."
+    }
+  }
+]

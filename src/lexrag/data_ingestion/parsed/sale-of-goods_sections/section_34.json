@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-34.html",
+    "source_order": 34,
+    "article_order": 1,
+    "order": 34,
+    "stem": "section_34",
+    "heading_number": "Chapter IV",
+    "heading_title": "Performance of the Contract",
+    "heading_range": "ss. 31–44",
+    "heading_source": "manifest",
+    "article_number": "34",
+    "article_title": "Effect of part delivery.",
+    "id": "sale-of-goods_section_34"
+  },
+  "id": "sale-of-goods_section_34",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Performance of the Contract",
+    "range": "ss. 31–44"
+  },
+  "article": {
+    "number": "34",
+    "title": "Effect of part delivery.",
+    "content": "A delivery of part of goods, in progress of the delivery of the whole, has the same effect, for the purpose of passing the property in such goods, as a delivery of the whole; but a delivery of part of the goods, with an intention of severing it from the whole, does not operate as a delivery of the remainder.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">34</span>Effect of part delivery.</h3></div><p class=\"prov-cite\">Section 34  ·  Chapter IV  ·  pages 9–10 of the Act</p><div class=\"prov-body\"><p>A delivery of part of goods, in progress of the delivery of the whole, has the same effect, for the purpose of passing the property in such goods, as a delivery of the whole; but a delivery of part of the goods, with an intention of severing it from the whole, does not operate as a delivery of the remainder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">34</span>Effect of part delivery.</h3></div><p class=\"prov-cite\">Section 34  ·  Chapter IV  ·  pages 9–10 of the Act</p><div class=\"prov-body\"><p>A delivery of part of goods, in progress of the delivery of the whole, has the same effect, for the purpose of passing the property in such goods, as a delivery of the whole; but a delivery of part of the goods, with an intention of severing it from the whole, does not operate as a delivery of the remainder.</p></div>"
+  }
+}

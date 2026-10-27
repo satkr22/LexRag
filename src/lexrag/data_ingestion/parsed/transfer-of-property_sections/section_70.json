@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-70.html",
+    "source_order": 78,
+    "article_order": 1,
+    "order": 78,
+    "stem": "section_70",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Mortgages of Immoveable Property and Charges",
+    "heading_range": "ss. 58–104",
+    "heading_source": "manifest",
+    "article_number": "70",
+    "article_title": "Accession to mortgaged property.",
+    "id": "transfer-of-property_section_70"
+  },
+  "id": "transfer-of-property_section_70",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Mortgages of Immoveable Property and Charges",
+    "range": "ss. 58–104"
+  },
+  "article": {
+    "number": "70",
+    "title": "Accession to mortgaged property.",
+    "content": "If, after the date of a mortgage, any accession is made to the mortgaged property, the mortgagee, in the absence of a contract to the contrary, shall, for the purposes of the security, be entitled to such accession.\nIllustrations\n(a) A mortgages to B a certain field bordering on a river. The field is increased by alluvion. For the purposes of his security, B is entitled to the increase.\n(b) A mortgages a certain plot of building land to B and afterwards erects a house on the plot. For the purposes of his security, B is entitled to the house as well as the plot.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Accession to mortgaged property.</h3></div><p class=\"prov-cite\">Section 70  ·  Chapter IV  ·  Rights and Liabilities of Mortgagee  ·  page 31 of the Act</p><div class=\"prov-body\"><p>If, after the date of a mortgage, any accession is made to the mortgaged property, the mortgagee, in the absence of a contract to the contrary, shall, for the purposes of the security, be entitled to such accession.</p><p>Illustrations</p><p class=\"lvl\">(a) A mortgages to B a certain field bordering on a river. The field is increased by alluvion. For the purposes of his security, B is entitled to the increase.</p><p class=\"lvl\">(b) A mortgages a certain plot of building land to B and afterwards erects a house on the plot. For the purposes of his security, B is entitled to the house as well as the plot.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Accession to mortgaged property.</h3></div><p class=\"prov-cite\">Section 70  ·  Chapter IV  ·  Rights and Liabilities of Mortgagee  ·  page 31 of the Act</p><div class=\"prov-body\"><p>If, after the date of a mortgage, any accession is made to the mortgaged property, the mortgagee, in the absence of a contract to the contrary, shall, for the purposes of the security, be entitled to such accession.</p><p>Illustrations</p><p class=\"lvl\">(a) A mortgages to B a certain field bordering on a river. The field is increased by alluvion. For the purposes of his security, B is entitled to the increase.</p><p class=\"lvl\">(b) A mortgages a certain plot of building land to B and afterwards erects a house on the plot. For the purposes of his security, B is entitled to the house as well as the plot.</p></div>"
+  }
+}

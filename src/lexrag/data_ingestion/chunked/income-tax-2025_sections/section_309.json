@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_309_chunk_0",
+    "section_id": "income-tax-2025_section_309",
+    "token_count": 498,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Certain Persons\n Section: 309::Method of computing a member's share in income of association of persons or body of individuals.\n]\n\n\n(1) For the purposes of this section, sections 310 and 311, an association of persons or body of individuals shall not include a company or a co-operative society or a society registered under the Societies Registration Act, 1860 (21 of 1860), or under any law corresponding to that Act in force in any part of India.\n  (2) In computing the total income of an assessee who is a member of an association of persons or a body of individuals wherein the shares of the members are determinate and known, the share of a member in the income or loss of such association or body shall be computed in the following manner,—\n  (a) any interest, salary, bonus, commission or remuneration, by whatever name called, paid to any member in respect of the tax year shall be deducted from the total income of the association or body and the balance ascertained and apportioned among the members in the proportions in which they are entitled to share in the income of the association or body;\n  (b) the interest, salary, bonus, commission or remuneration referred to in clause (a), shall be,—\n  (i) added to the apportioned amount referred to in clause (a), if such apportioned amount is a profit; or\n  (ii) adjusted against the apportioned amount referred to in clause (a), if such apportioned amount is a loss, and the resultant amount shall be treated as the share of the member in the income of such association or body.\n  (3) The share of a member in the income or loss of the association or body, as computed under sub-section (2), shall, for the purposes of assessment, be apportioned under the various heads of income in the same manner in which the income or loss of the association or body has been determined under each head of income.\n  (4) Any interest paid by a member on capital borrowed by him for the purposes of investment in the association or body shall, in computing his share chargeable under the head \"Profits and gains of business or profession\" in respect of his share in the income of the association or body, be deducted from his share.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_309_chunk_0",
+      "section_id": "income-tax-2025_section_309",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Special Provisions Relating to Certain Persons",
+      "section_number": "309",
+      "section_title": "Method of computing a member's share in income of association of persons or body of individuals."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_309_chunk_1",
+    "section_id": "income-tax-2025_section_309",
+    "token_count": 165,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Certain Persons\n Section: 309::Method of computing a member's share in income of association of persons or body of individuals.\n]\n\n\n(1) For the purposes of this section, sections 310 and 311, an association of persons or body of individuals shall not include a company or a co-operative society or a society registered under the Societies Registration Act, 1860 (21 of 1860), or under any law corresponding to that Act in force in any part of India.\n  (5) For the purposes of this section, \"paid\" means actually paid or incurred according to the method of accounting upon the basis of which the profits or gains are computed under the head \"Profits and gains of business or profession\".",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_309_chunk_1",
+      "section_id": "income-tax-2025_section_309",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Special Provisions Relating to Certain Persons",
+      "section_number": "309",
+      "section_title": "Method of computing a member's share in income of association of persons or body of individuals."
+    }
+  }
+]

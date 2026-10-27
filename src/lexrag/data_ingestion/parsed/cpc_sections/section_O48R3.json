@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-67.html",
+    "source_order": 67,
+    "article_order": 3,
+    "order": 890,
+    "stem": "section_O48R3",
+    "heading_number": "Order XLVIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "3 rules",
+    "heading_source": "group-head",
+    "article_number": "O48R3",
+    "article_title": "Use of forms in appendices.",
+    "id": "cpc_section_O48R3"
+  },
+  "id": "cpc_section_O48R3",
+  "heading": {
+    "number": "Order XLVIII",
+    "title": "Miscellaneous",
+    "range": "3 rules"
+  },
+  "article": {
+    "number": "O48R3",
+    "title": "Use of forms in appendices.",
+    "content": "The Forms given in the appendices, with such variation as the circumstances or each case may require, shall be used for the purposes therein mentioned.\n",
+    "html": "<article class=\"provision\" data-n=\"O48R3\" data-report=\"Order 48, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Use of forms in appendices.</h3></div><p class=\"prov-cite\">Order 48, Rule 3</p><div class=\"prov-body\"><p>The Forms given in the appendices, with such variation as the circumstances or each case may require, shall be used for the purposes therein mentioned.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Use of forms in appendices.</h3></div><p class=\"prov-cite\">Order 48, Rule 3</p><div class=\"prov-body\"><p>The Forms given in the appendices, with such variation as the circumstances or each case may require, shall be used for the purposes therein mentioned.</p></div>"
+  }
+}

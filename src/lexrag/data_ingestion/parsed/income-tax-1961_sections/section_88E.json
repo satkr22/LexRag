@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-10.html",
+    "source_order": 14,
+    "article_order": 8,
+    "order": 271,
+    "stem": "section_88E",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Rebates and Reliefs]",
+    "heading_range": "ss. 87–89A",
+    "heading_source": "group-head",
+    "article_number": "88E",
+    "article_title": "Rebate in respect of securities transaction tax.",
+    "id": "income-tax-1961_section_88E"
+  },
+  "id": "income-tax-1961_section_88E",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Rebates and Reliefs]",
+    "range": "ss. 87–89A"
+  },
+  "article": {
+    "number": "88E",
+    "title": "Rebate in respect of securities transaction tax.",
+    "content": "(1) Where the total income of an assessee in a previous year includes any income, chargeable under the head \"Profits and gains of business or profession\", arising from taxable securities transactions, he shall be entitled to a deduction, from the amount of income-tax on such income arising from such transactions, computed in the manner provided in sub-section (2), of an amount equal to the securities transaction tax paid by him in respect of the taxable securities transactions entered into in the course of his business during that previous year:\nProvided that no deduction under this sub-section shall be allowed unless the assessee furnishes along with the return of income, evidence of payment of securities transaction tax in the prescribed form:\nProvided further that the amount of deduction under this sub-section shall not exceed the amount of income-tax on such income computed in the manner provided in sub-section (2).\n(2) For the purposes of sub-section (1), the amount of income-tax on the income arising from the taxable securities transactions, referred to in that sub-section, shall be equal to the amount calculated by applying the average rate of income-tax on such income.\n(3) No deduction under this section shall be allowed in, or after, the assessment year beginning on the 1st day of April, 2009.\nExplanation.—For the purposes of this section, the expressions, \"taxable securities transaction\" and \"securities transaction tax\" shall have the same meanings respectively assigned to them under Chapter VII of the Finance (No. 2) Act, 2004.\n",
+    "html": "<article class=\"provision\" data-n=\"88E\" data-report=\"Section 88E · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">88E</span>Rebate in respect of securities transaction tax.</h3></div><p class=\"prov-cite\">Section 88E  ·  Chapter VIII  ·  A.—Rebate of income-tax  ·  page 386 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the total income of an assessee in a previous year includes any income, chargeable under the head \"Profits and gains of business or profession\", arising from taxable securities transactions, he shall be entitled to a deduction, from the amount of income-tax on such income arising from such transactions, computed in the manner provided in sub-section (2), of an amount equal to the securities transaction tax paid by him in respect of the taxable securities transactions entered into in the course of his business during that previous year:</p><p class=\"prvso\">Provided that no deduction under this sub-section shall be allowed unless the assessee furnishes along with the return of income, evidence of payment of securities transaction tax in the prescribed form:</p><p class=\"prvso\">Provided further that the amount of deduction under this sub-section shall not exceed the amount of income-tax on such income computed in the manner provided in sub-section (2).</p><p class=\"lvl\">(2) For the purposes of sub-section (1), the amount of income-tax on the income arising from the taxable securities transactions, referred to in that sub-section, shall be equal to the amount calculated by applying the average rate of income-tax on such income.</p><p class=\"lvl\">(3) No deduction under this section shall be allowed in, or after, the assessment year beginning on the 1st day of April, 2009.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the expressions, \"taxable securities transaction\" and \"securities transaction tax\" shall have the same meanings respectively assigned to them under Chapter VII of the Finance (No. 2) Act, 2004.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">88E</span>Rebate in respect of securities transaction tax.</h3></div><p class=\"prov-cite\">Section 88E  ·  Chapter VIII  ·  A.—Rebate of income-tax  ·  page 386 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the total income of an assessee in a previous year includes any income, chargeable under the head \"Profits and gains of business or profession\", arising from taxable securities transactions, he shall be entitled to a deduction, from the amount of income-tax on such income arising from such transactions, computed in the manner provided in sub-section (2), of an amount equal to the securities transaction tax paid by him in respect of the taxable securities transactions entered into in the course of his business during that previous year:</p><p class=\"prvso\">Provided that no deduction under this sub-section shall be allowed unless the assessee furnishes along with the return of income, evidence of payment of securities transaction tax in the prescribed form:</p><p class=\"prvso\">Provided further that the amount of deduction under this sub-section shall not exceed the amount of income-tax on such income computed in the manner provided in sub-section (2).</p><p class=\"lvl\">(2) For the purposes of sub-section (1), the amount of income-tax on the income arising from the taxable securities transactions, referred to in that sub-section, shall be equal to the amount calculated by applying the average rate of income-tax on such income.</p><p class=\"lvl\">(3) No deduction under this section shall be allowed in, or after, the assessment year beginning on the 1st day of April, 2009.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the expressions, \"taxable securities transaction\" and \"securities transaction tax\" shall have the same meanings respectively assigned to them under Chapter VII of the Finance (No. 2) Act, 2004.</p></div>"
+  }
+}

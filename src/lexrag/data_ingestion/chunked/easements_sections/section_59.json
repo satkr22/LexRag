@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_59_chunk_0",
+    "section_id": "easements_section_59",
+    "token_count": 52,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 59::Grantor’s transferee not bound by license.\n]\n\n\nWhen the grantor of the license transfers the property affected thereby, the transferee is not as such bound by the license.",
+    "metadata": {
+      "chunk_id": "easements_section_59_chunk_0",
+      "section_id": "easements_section_59",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "59",
+      "section_title": "Grantor’s transferee not bound by license."
+    }
+  }
+]

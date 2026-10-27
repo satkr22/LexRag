@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-08.html",
+    "source_order": 8,
+    "article_order": 8,
+    "order": 118,
+    "stem": "section_118",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "heading_range": "111 – 124",
+    "heading_source": "group-head",
+    "article_number": "118",
+    "article_title": "Management of properties seized or forfeited under this Chapter",
+    "id": "bnss_section_118"
+  },
+  "id": "bnss_section_118",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "range": "111 – 124"
+  },
+  "article": {
+    "number": "118",
+    "title": "Management of properties seized or forfeited under this Chapter",
+    "content": "(1)The Court may appoint the District Magistrate of the area where the property is situated, or any other officer that may be nominated by the District Magistrate, to perform the functions of an Administrator of such property.\n(2)The Administrator appointed under sub-section (1) shall receive and manage the property in relation to which the order has been made under sub-section (1) of section 117 or under section 120 in such manner and subject to such conditions as may be specified by the Central Government.\n(3)The Administrator shall also take such measures, as the Central Government may direct, to dispose of the property which is forfeited to the Central Government.\n",
+    "html": "<article class=\"provision\" data-n=\"118\" data-report=\"Section 118 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">118</span>Management of properties seized or forfeited under this Chapter</h3></div><p class=\"prov-cite\">Section 118 · Chapter VIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Court may appoint the District Magistrate of the area where the property is situated, or any other officer that may be nominated by the District Magistrate, to perform the functions of an Administrator of such property.</p><p><span class=\"lbl\">(2)</span>The Administrator appointed under sub-section (1) shall receive and manage the property in relation to which the order has been made under sub-section (1) of section 117 or under section 120 in such manner and subject to such conditions as may be specified by the Central Government.</p><p><span class=\"lbl\">(3)</span>The Administrator shall also take such measures, as the Central Government may direct, to dispose of the property which is forfeited to the Central Government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">118</span>Management of properties seized or forfeited under this Chapter</h3></div><p class=\"prov-cite\">Section 118 · Chapter VIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Court may appoint the District Magistrate of the area where the property is situated, or any other officer that may be nominated by the District Magistrate, to perform the functions of an Administrator of such property.</p><p><span class=\"lbl\">(2)</span>The Administrator appointed under sub-section (1) shall receive and manage the property in relation to which the order has been made under sub-section (1) of section 117 or under section 120 in such manner and subject to such conditions as may be specified by the Central Government.</p><p><span class=\"lbl\">(3)</span>The Administrator shall also take such measures, as the Central Government may direct, to dispose of the property which is forfeited to the Central Government.</p></div>"
+  }
+}

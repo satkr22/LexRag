@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-05.html",
+    "source_order": 5,
+    "article_order": 18,
+    "order": 80,
+    "stem": "section_80",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Offences Against Woman and Child",
+    "heading_range": "63 – 99",
+    "heading_source": "group-head",
+    "article_number": "80",
+    "article_title": "Dowry death",
+    "id": "bns_section_80"
+  },
+  "id": "bns_section_80",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Offences Against Woman and Child",
+    "range": "63 – 99"
+  },
+  "article": {
+    "number": "80",
+    "title": "Dowry death",
+    "content": "(1)Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called “dowry death”, and such husband or relative shall be deemed to have caused her death.\nExplanationFor the purposes of this sub-section, “dowry” shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961).\n(2)Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.\n",
+    "html": "<article class=\"provision\" data-n=\"80\" data-report=\"Section 80 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80</span>Dowry death</h3></div><p class=\"prov-cite\">Section 80 · Chapter V · Of offences relating to marriage</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called “dowry death”, and such husband or relative shall be deemed to have caused her death.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>For the purposes of this sub-section, “dowry” shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961).</p><p><span class=\"lbl\">(2)</span>Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80</span>Dowry death</h3></div><p class=\"prov-cite\">Section 80 · Chapter V · Of offences relating to marriage</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called “dowry death”, and such husband or relative shall be deemed to have caused her death.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>For the purposes of this sub-section, “dowry” shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961).</p><p><span class=\"lbl\">(2)</span>Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.</p></div>"
+  }
+}

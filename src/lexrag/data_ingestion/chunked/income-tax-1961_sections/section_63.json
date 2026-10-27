@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_63_chunk_0",
+    "section_id": "income-tax-1961_section_63",
+    "token_count": 159,
+    "text": "[Act: income-tax-1961\n Chapter: Income of Other Persons, Included in Assessee's Total Income\n Section: 63::\"Transfer\" and \"revocable transfer\" defined.\n]\n\n\nFor the purposes of sections 60, 61 and 62 and of this section,—\n(a) a transfer shall be deemed to be revocable if—\n(i) it contains any provision for the re-transfer directly or indirectly of the whole or any part of the income or assets to the transferor, or\n(ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets ;\n(b) \"transfer\" includes any settlement, trust, covenant, agreement or arrangement.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_63_chunk_0",
+      "section_id": "income-tax-1961_section_63",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Income of Other Persons, Included in Assessee's Total Income",
+      "section_number": "63",
+      "section_title": "\"Transfer\" and \"revocable transfer\" defined."
+    }
+  }
+]

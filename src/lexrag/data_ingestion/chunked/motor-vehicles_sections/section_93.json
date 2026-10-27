@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_93_chunk_0",
+    "section_id": "motor-vehicles_section_93",
+    "token_count": 448,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 93::Agent or canvasser or aggregator to obtain licence.\n]\n\n\n(1) No person shall engage himself—\n(i) as an agent or a canvasser, in the sale of tickets for travel by public service vehicles or in otherwise soliciting custom for such vehicles; or\n(ii) as an agent in the business of collecting, forwarding or distributing goods carried by goods carriages;\n3[(iii) as an aggregator,]\nunless he has obtained a licence from such authority and subject to such conditions as may be prescribed by the State Government.\n3[Provided that while issuing the licence to an aggregator the State Government may follow such guidelines as may be issued by the Central Government:\nProvided further that every aggregator shall comply with the provisions of the Information Technology Act, 2000 (21 of 2000) and the rules and regulations made thereunder.]\n(2) The conditions referred to in sub-section (1) may include all or any of the following matters, namely:—\n(a) the period for which a licence may be granted or renewed;\n(b) the fee payable for the issue or renewal of the licence;\n(c) the deposit of security—\n(i) of a sum not exceeding rupees fifty thousand in the case of an agent in the business of collecting, forwarding or distributing goods carried by goods carriages;\n(ii) of a sum not exceeding rupees five thousand in the case of any other agent or canvasser, and the circumstances under which the security may be forfeited;\n(d) the provision by the agent of insurance of goods in transit;\n(e) the authority by which and the circumstances under which the licence may be suspended or revoked;\n(f) such other conditions as may be prescribed by the State Government.\n(3) It shall be a condition of every licence that no agent or canvasser to whom the licence is granted shall advertise in any newspaper, book, list, classified directory or other publication unless there is contained in such advertisement appearing in such newspapers, book, list, classified directory or other publication the licence number, the date of expiry of licence and the particulars of the authority which granted the licence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_93_chunk_0",
+      "section_id": "motor-vehicles_section_93",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "93",
+      "section_title": "Agent or canvasser or aggregator to obtain licence."
+    }
+  }
+]

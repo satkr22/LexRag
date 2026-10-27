@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_8_chunk_0",
+    "section_id": "sale-of-goods_section_8",
+    "token_count": 87,
+    "text": "[Act: sale-of-goods\n Chapter: Formation of the Contract\n Section: 8::Goods perishing before sale but after agreement to sell.\n]\n\n\nWhere there is an agreement to sell specific goods, and subsequently the goods without any fault on the part of the seller or buyer perish or become so damaged as no longer to answer to their description in the agreement before the risk passes to the buyer, the agreement is thereby avoided.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_8_chunk_0",
+      "section_id": "sale-of-goods_section_8",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Formation of the Contract",
+      "section_number": "8",
+      "section_title": "Goods perishing before sale but after agreement to sell."
+    }
+  }
+]

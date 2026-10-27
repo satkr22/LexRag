@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-04.html",
+    "source_order": 4,
+    "article_order": 6,
+    "order": 28,
+    "stem": "section_28",
+    "heading_number": "Part IV",
+    "heading_title": "Of Consanguinity",
+    "heading_range": "ss. 23–28",
+    "heading_source": "group-head",
+    "article_number": "28",
+    "article_title": "Mode of computing of degrees of kindred.",
+    "id": "succession_section_28"
+  },
+  "id": "succession_section_28",
+  "heading": {
+    "number": "Part IV",
+    "title": "Of Consanguinity",
+    "range": "ss. 23–28"
+  },
+  "article": {
+    "number": "28",
+    "title": "Mode of computing of degrees of kindred.",
+    "content": "Degrees of kindred are computed in the manner set forth in the table of kindred set out in Schedule I.\nIllustrations\n(i) The person whose relatives are to be reckoned, and his cousin-german, or first cousin, are, as shown in the table, related in the fourth degree; there being one degree of ascent to the father, and another to the common ancestor, the grandfather; and from him one of descent to the uncle, and another to the cousin-german, making in all four degrees.\n(ii) A grandson of the brother and a son of the uncle, i.e., a great-nephew and a cousin-german, are in equal degree, being each four degrees removed.\n(iii) A grandson of a cousin-german is in the same degree as the grandson of a great-uncle, for they are both in the sixth degree of kindred.\n",
+    "html": "<article class=\"provision\" data-n=\"28\" data-report=\"Section 28 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Mode of computing of degrees of kindred.</h3></div><p class=\"prov-cite\">Section 28  ·  Part IV  ·  page 21 of the Act</p><div class=\"prov-body\"><p>Degrees of kindred are computed in the manner set forth in the table of kindred set out in Schedule I.</p><p>Illustrations</p><p class=\"lvl\">(i) The person whose relatives are to be reckoned, and his cousin-german, or first cousin, are, as shown in the table, related in the fourth degree; there being one degree of ascent to the father, and another to the common ancestor, the grandfather; and from him one of descent to the uncle, and another to the cousin-german, making in all four degrees.</p><p class=\"lvl\">(ii) A grandson of the brother and a son of the uncle, i.e., a great-nephew and a cousin-german, are in equal degree, being each four degrees removed.</p><p class=\"lvl\">(iii) A grandson of a cousin-german is in the same degree as the grandson of a great-uncle, for they are both in the sixth degree of kindred.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Mode of computing of degrees of kindred.</h3></div><p class=\"prov-cite\">Section 28  ·  Part IV  ·  page 21 of the Act</p><div class=\"prov-body\"><p>Degrees of kindred are computed in the manner set forth in the table of kindred set out in Schedule I.</p><p>Illustrations</p><p class=\"lvl\">(i) The person whose relatives are to be reckoned, and his cousin-german, or first cousin, are, as shown in the table, related in the fourth degree; there being one degree of ascent to the father, and another to the common ancestor, the grandfather; and from him one of descent to the uncle, and another to the cousin-german, making in all four degrees.</p><p class=\"lvl\">(ii) A grandson of the brother and a son of the uncle, i.e., a great-nephew and a cousin-german, are in equal degree, being each four degrees removed.</p><p class=\"lvl\">(iii) A grandson of a cousin-german is in the same degree as the grandson of a great-uncle, for they are both in the sixth degree of kindred.</p></div>"
+  }
+}

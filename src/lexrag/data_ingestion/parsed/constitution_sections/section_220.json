@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 69,
+    "order": 239,
+    "stem": "section_220",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "220",
+    "article_title": "Restriction on practice after being a permanent Judge",
+    "id": "constitution_section_220"
+  },
+  "id": "constitution_section_220",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "220",
+    "title": "Restriction on practice after being a permanent Judge",
+    "content": "No person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India except the Supreme Court and the other High Courts.\nExplanationIn this article, the expression “High Court” does not include a High Court for a State specified in Part B of the First Schedule as it existed before the commencement2 of the Constitution (Seventh Amendment) Act, 1956.\n",
+    "html": "<article class=\"provision\" data-n=\"220\" data-report=\"Article 220 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">220</span>Restriction on practice after being a permanent Judge</h3></div><p class=\"prov-cite\">Article 220 · Part VI</p><div class=\"prov-body\"><p>No person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India except the Supreme Court and the other High Courts.</p><p><span class=\"named\">Explanation</span>In this article, the expression “High Court” does not include a High Court for a State specified in Part B of the First Schedule as it existed before the commencement2 of the Constitution (Seventh Amendment) Act, 1956.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by s. 13, ibid. (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>2</sup> 1st November, 1956.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">220</span>Restriction on practice after being a permanent Judge</h3></div><p class=\"prov-cite\">Article 220 · Part VI</p><div class=\"prov-body\"><p>No person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India except the Supreme Court and the other High Courts.</p><p><span class=\"named\">Explanation</span>In this article, the expression “High Court” does not include a High Court for a State specified in Part B of the First Schedule as it existed before the commencement2 of the Constitution (Seventh Amendment) Act, 1956.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by s. 13, ibid. (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>2</sup> 1st November, 1956.</p></div>"
+  }
+}

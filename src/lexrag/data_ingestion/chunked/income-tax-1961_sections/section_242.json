@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_242_chunk_0",
+    "section_id": "income-tax-1961_section_242",
+    "token_count": 96,
+    "text": "[Act: income-tax-1961\n Chapter: Refunds\n Section: 242::Correctness of assessment not to be questioned.\n]\n\n\nIn a claim under this Chapter, it shall not be open to the assessee to question the correctness of any assessment or other matter decided which has become final and conclusive or ask for a review of the same, and the assessee shall not be entitled to any relief on such claim except refund of tax wrongly paid or paid in excess.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_242_chunk_0",
+      "section_id": "income-tax-1961_section_242",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Refunds",
+      "section_number": "242",
+      "section_title": "Correctness of assessment not to be questioned."
+    }
+  }
+]

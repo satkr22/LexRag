@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_46_chunk_0",
+    "section_id": "easements_section_46",
+    "token_count": 323,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 46::Extinction by unity of ownership.\n]\n\n\nAn easement is extinguished when the same person becomes entitled to the absolute ownership of the whole of the dominant and servient heritages.\nIllustrations\n(a) A, as the owner of a house has a right of way over B’s field. A mortgages his house, and B mortgages his field to C. Then C forecloses both mortgages and becomes thereby absolute owner of both house and field. The right of way is extinguished.\n(b) The dominant owner acquires only part of the servient heritage: the easement is not extinguished, except in the case illustrated in section 41.\n(c) The servient owner acquires the dominant heritage in connection with a third person: the easement is not extinguished.\n(d) The separate owners of two separate dominant heritages jointly acquire the heritage which is servient to the two separate heritages: the easements are not extinguished.\n(e) The joint owners of the dominant heritage jointly acquire the servient heritage: the easement is extinguished.\n(f) A single right of way exists over two servient heritages for the beneficial enjoyment of a single dominant heritage. The dominant owner acquires one only of the servient heritages. The easement is not extinguished.\n(g) A has a right of way over B’s road. B dedicates the road to the public. A’s right of way is not extinguished.",
+    "metadata": {
+      "chunk_id": "easements_section_46_chunk_0",
+      "section_id": "easements_section_46",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "46",
+      "section_title": "Extinction by unity of ownership."
+    }
+  }
+]

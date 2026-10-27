@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-12.html",
+    "source_order": 12,
+    "article_order": 6,
+    "order": 186,
+    "stem": "section_170",
+    "heading_number": "Chapter XII",
+    "heading_title": "Claims Tribunals",
+    "heading_range": "ss. 165–176",
+    "heading_source": "group-head",
+    "article_number": "170",
+    "article_title": "Impleading insurer in certain cases.",
+    "id": "motor-vehicles_section_170"
+  },
+  "id": "motor-vehicles_section_170",
+  "heading": {
+    "number": "Chapter XII",
+    "title": "Claims Tribunals",
+    "range": "ss. 165–176"
+  },
+  "article": {
+    "number": "170",
+    "title": "Impleading insurer in certain cases.",
+    "content": "Where in the course of any inquiry, the Claims Tribunal is satisfied that—\n(a) there is collusion between the person making the claim and the person against whom the claim is made; or\n(b) the person against whom the claim is made has failed to contest the claim,\nit may, for reasons to be recorded in writing, direct that the insurer who may be liable in respect of such claim, shall be impleaded as a party to the proceeding and the insurer so impleaded shall thereupon have, without prejudice to the provisions contained in sub-section (2) of 1[section 150], the right to contest the claim on all or any of the grounds that are available to the person against whom the claim has been made.\n",
+    "html": "<article class=\"provision\" data-n=\"170\" data-report=\"Section 170 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">170</span>Impleading insurer in certain cases.</h3></div><p class=\"prov-cite\">Section 170  ·  Chapter XII  ·  pages 98–99 of the Act</p><div class=\"prov-body\"><p>Where in the course of any inquiry, the Claims Tribunal is satisfied that—</p><p class=\"lvl\">(a) there is collusion between the person making the claim and the person against whom the claim is made; or</p><p class=\"lvl\">(b) the person against whom the claim is made has failed to contest the claim,</p><p>it may, for reasons to be recorded in writing, direct that the insurer who may be liable in respect of such claim, shall be impleaded as a party to the proceeding and the insurer so impleaded shall thereupon have, without prejudice to the provisions contained in sub-section (2) of <sup>1</sup>[section 150], the right to contest the claim on all or any of the grounds that are available to the person against whom the claim has been made.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 32 of 2019, s. 56, for “Section 149” (w.e.f. 1-4-2022).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">170</span>Impleading insurer in certain cases.</h3></div><p class=\"prov-cite\">Section 170  ·  Chapter XII  ·  pages 98–99 of the Act</p><div class=\"prov-body\"><p>Where in the course of any inquiry, the Claims Tribunal is satisfied that—</p><p class=\"lvl\">(a) there is collusion between the person making the claim and the person against whom the claim is made; or</p><p class=\"lvl\">(b) the person against whom the claim is made has failed to contest the claim,</p><p>it may, for reasons to be recorded in writing, direct that the insurer who may be liable in respect of such claim, shall be impleaded as a party to the proceeding and the insurer so impleaded shall thereupon have, without prejudice to the provisions contained in sub-section (2) of <sup>1</sup>[section 150], the right to contest the claim on all or any of the grounds that are available to the person against whom the claim has been made.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 32 of 2019, s. 56, for “Section 149” (w.e.f. 1-4-2022).</p></div></div>"
+  }
+}

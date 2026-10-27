@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_42_chunk_0",
+    "section_id": "gst_section_42",
+    "token_count": 25,
+    "text": "[Act: gst\n Chapter: Returns\n Section: 42::Matching, reversal and reclaim of input tax credit\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "gst_section_42_chunk_0",
+      "section_id": "gst_section_42",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Returns",
+      "section_number": "42",
+      "section_title": "Matching, reversal and reclaim of input tax credit"
+    }
+  }
+]

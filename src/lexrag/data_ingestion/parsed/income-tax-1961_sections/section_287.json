@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-53.html",
+    "source_order": 58,
+    "article_order": 16,
+    "order": 893,
+    "stem": "section_287",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 281–298",
+    "heading_source": "group-head",
+    "article_number": "287",
+    "article_title": "Publication of information respecting assessees in certain cases.",
+    "id": "income-tax-1961_section_287"
+  },
+  "id": "income-tax-1961_section_287",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Miscellaneous",
+    "range": "ss. 281–298"
+  },
+  "article": {
+    "number": "287",
+    "title": "Publication of information respecting assessees in certain cases.",
+    "content": "(1) If the Central Government is of opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may cause to be published such names and particulars in such manner as it thinks fit.\n(2) No publication under this section shall be made in relation to any penalty imposed under this Act until the time for presenting an appeal to the Joint Commissioner (Appeals) or to the Commissioner (Appeals) has expired without an appeal having been presented or the appeal, if presented, has been disposed of.\nExplanation.—In the case of a firm, company or other association of persons, the names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published if, in the opinion of the Central Government, the circumstances of the case justify it.\n",
+    "html": "<article class=\"provision\" data-n=\"287\" data-report=\"Section 287 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">287</span>Publication of information respecting assessees in certain cases.</h3></div><p class=\"prov-cite\">Section 287  ·  Chapter XXIII  ·  page 1058 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If the Central Government is of opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may cause to be published such names and particulars in such manner as it thinks fit.</p><p class=\"lvl\">(2) No publication under this section shall be made in relation to any penalty imposed under this Act until the time for presenting an appeal to the Joint Commissioner (Appeals) or to the Commissioner (Appeals) has expired without an appeal having been presented or the appeal, if presented, has been disposed of.</p><p class=\"prvso\">Explanation.—In the case of a firm, company or other association of persons, the names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published if, in the opinion of the Central Government, the circumstances of the case justify it.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">287</span>Publication of information respecting assessees in certain cases.</h3></div><p class=\"prov-cite\">Section 287  ·  Chapter XXIII  ·  page 1058 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If the Central Government is of opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may cause to be published such names and particulars in such manner as it thinks fit.</p><p class=\"lvl\">(2) No publication under this section shall be made in relation to any penalty imposed under this Act until the time for presenting an appeal to the Joint Commissioner (Appeals) or to the Commissioner (Appeals) has expired without an appeal having been presented or the appeal, if presented, has been disposed of.</p><p class=\"prvso\">Explanation.—In the case of a firm, company or other association of persons, the names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published if, in the opinion of the Central Government, the circumstances of the case justify it.</p></div>"
+  }
+}

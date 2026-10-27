@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 63,
+    "order": 540,
+    "stem": "section_O21R51",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R51",
+    "article_title": "Attachment of negotiable instruments.",
+    "id": "cpc_section_O21R51"
+  },
+  "id": "cpc_section_O21R51",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R51",
+    "title": "Attachment of negotiable instruments.",
+    "content": "Where the property is a negotiable instrument not deposited in a Court, not in the custody of a public officer, the attachment shall be made by actual seizure, and the instrument shall be brought into Court and held subject to further orders of the Court.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R51\" data-report=\"Order 21, Rule 51 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Attachment of negotiable instruments.</h3></div><p class=\"prov-cite\">Order 21, Rule 51</p><div class=\"prov-body\"><p>Where the property is a negotiable instrument not deposited in a Court, not in the custody of a public officer, the attachment shall be made by actual seizure, and the instrument shall be brought into Court and held subject to further orders of the Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Attachment of negotiable instruments.</h3></div><p class=\"prov-cite\">Order 21, Rule 51</p><div class=\"prov-body\"><p>Where the property is a negotiable instrument not deposited in a Court, not in the custody of a public officer, the attachment shall be made by actual seizure, and the instrument shall be brought into Court and held subject to further orders of the Court.</p></div>"
+  }
+}

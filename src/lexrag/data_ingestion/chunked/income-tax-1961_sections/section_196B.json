@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_196B_chunk_0",
+    "section_id": "income-tax-1961_section_196B",
+    "token_count": 247,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 196B::Income from units.\n]\n\n\nWhere any income in respect of units referred to in section 115AB or by way of long-term capital gains arising from the transfer of such units is payable to an Offshore Fund, the person responsible for making the payment shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon 52[at the rate of —\n(a) ten per cent in respect of income from units referred to in clause (i) of sub-section (1) of section 115AB;\n(b) ten per cent in respect of long-term capital gains arising from transfer of units referred to in section 115AB, which takes place before the 23rd day of July, 2024;\n(c) twelve and one-half per cent in respect of long-term capital gains arising from transfer of units referred to in section 115AB, which takes place on or after the 23rd day of July, 2024.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_196B_chunk_0",
+      "section_id": "income-tax-1961_section_196B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "196B",
+      "section_title": "Income from units."
+    }
+  }
+]

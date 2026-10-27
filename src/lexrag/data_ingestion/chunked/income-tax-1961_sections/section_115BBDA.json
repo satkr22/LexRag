@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115BBDA_chunk_0",
+    "section_id": "income-tax-1961_section_115BBDA",
+    "token_count": 391,
+    "text": "[Act: income-tax-1961\n Chapter: Determination of Tax in Certain Special Cases\n Section: 115BBDA::Tax on certain dividends received from domestic companies.\n]\n\n\n(1) Notwithstanding anything contained in this Act, where the total income of a specified assessee, resident in India, includes any income in aggregate exceeding ten lakh rupees, by way of dividends declared, distributed or paid by a domestic company or companies on or before the 31st day of March, 2020, the income-tax payable shall be the aggregate of—\n(a) the amount of income-tax calculated on the income by way of such dividends in aggregate exceeding ten lakh rupees, at the rate of ten per cent; and\n(b) the amount of income-tax with which the assessee would have been chargeable had the total income of the assessee been reduced by the amount of income by way of dividends.\n(2) No deduction in respect of any expenditure or allowance or set off of loss shall be allowed to the assessee under any provision of this Act in computing the income by way of dividends referred to in clause (a) of sub-section (1).\nExplanation.—For the purposes of this section,—\n(a) \"dividend\" shall have the meaning assigned to it in clause (22) of section 2 but shall not include sub-clause (e) thereof;\n(b) \"specified assessee\" means a person other than,—\n(i) a domestic company; or\n(ii) a fund or institution or trust or any university or other educational institution or any hospital or other medical institution referred to in sub-clause (iv) or sub-clause (v) or sub-clause (vi) or sub-clause (via) of clause (23C) of section 10; or\n(iii) a trust or institution registered under section 12A or section 12AA or section 12AB.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115BBDA_chunk_0",
+      "section_id": "income-tax-1961_section_115BBDA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Determination of Tax in Certain Special Cases",
+      "section_number": "115BBDA",
+      "section_title": "Tax on certain dividends received from domestic companies."
+    }
+  }
+]

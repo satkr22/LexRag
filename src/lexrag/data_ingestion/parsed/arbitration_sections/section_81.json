@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-81.html",
+    "source_order": 105,
+    "article_order": 1,
+    "order": 105,
+    "stem": "section_81",
+    "heading_number": "Part III",
+    "heading_title": "Conciliation",
+    "heading_range": "ss. 61–81",
+    "heading_source": "manifest",
+    "article_number": "81",
+    "article_title": "Admissibility of evidence in other proceedings.",
+    "id": "arbitration_section_81"
+  },
+  "id": "arbitration_section_81",
+  "heading": {
+    "number": "Part III",
+    "title": "Conciliation",
+    "range": "ss. 61–81"
+  },
+  "article": {
+    "number": "81",
+    "title": "Admissibility of evidence in other proceedings.",
+    "content": "The parties shall not rely on or introduce as evidence in arbitral or judicial proceedings, whether or not such proceedings relate to the dispute that is the subject of the conciliation proceedings,—\n(a) views expressed or suggestions made by the other party in respect of a possible settlement of the dispute;\n(b) admissions made by the other party in the course of the conciliation proceedings;\n(c) proposals made by the conciliator;\n(d) the fact that the other party had indicated his willingness to accept a proposal for settlement made by the conciliator.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">81</span>Admissibility of evidence in other proceedings.</h3></div><p class=\"prov-cite\">Section 81  ·  Part III  ·  page 38 of the Act</p><div class=\"prov-body\"><p>The parties shall not rely on or introduce as evidence in arbitral or judicial proceedings, whether or not such proceedings relate to the dispute that is the subject of the conciliation proceedings,—</p><p class=\"lvl\">(a) views expressed or suggestions made by the other party in respect of a possible settlement of the dispute;</p><p class=\"lvl\">(b) admissions made by the other party in the course of the conciliation proceedings;</p><p class=\"lvl\">(c) proposals made by the conciliator;</p><p class=\"lvl\">(d) the fact that the other party had indicated his willingness to accept a proposal for settlement made by the conciliator.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">81</span>Admissibility of evidence in other proceedings.</h3></div><p class=\"prov-cite\">Section 81  ·  Part III  ·  page 38 of the Act</p><div class=\"prov-body\"><p>The parties shall not rely on or introduce as evidence in arbitral or judicial proceedings, whether or not such proceedings relate to the dispute that is the subject of the conciliation proceedings,—</p><p class=\"lvl\">(a) views expressed or suggestions made by the other party in respect of a possible settlement of the dispute;</p><p class=\"lvl\">(b) admissions made by the other party in the course of the conciliation proceedings;</p><p class=\"lvl\">(c) proposals made by the conciliator;</p><p class=\"lvl\">(d) the fact that the other party had indicated his willingness to accept a proposal for settlement made by the conciliator.</p></div>"
+  }
+}

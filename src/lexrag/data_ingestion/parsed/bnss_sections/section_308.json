@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-25.html",
+    "source_order": 25,
+    "article_order": 2,
+    "order": 308,
+    "stem": "section_308",
+    "heading_number": "Chapter XXV",
+    "heading_title": "Evidence in Inquiries and Trials",
+    "heading_range": "307 – 336",
+    "heading_source": "group-head",
+    "article_number": "308",
+    "article_title": "Evidence to be taken in presence of accused",
+    "id": "bnss_section_308"
+  },
+  "id": "bnss_section_308",
+  "heading": {
+    "number": "Chapter XXV",
+    "title": "Evidence in Inquiries and Trials",
+    "range": "307 – 336"
+  },
+  "article": {
+    "number": "308",
+    "title": "Evidence to be taken in presence of accused",
+    "content": "Except as otherwise expressly provided, all evidence taken in the course of the trial or other proceeding shall be taken in the presence of the accused, or, when his personal attendance is dispensed with, in the presence of his advocate including through audio-video electronic means at the designated place to be notified by the State Government:\nProvisoProvided that where the evidence of a woman below the age of eighteen years who is alleged to have been subjected to rape or any other sexual offence, is to be recorded, the Court may take appropriate measures to ensure that such woman is not confronted by the accused while at the same time ensuring the right of cross-examination of the accused.\nExplanationIn this section, “accused” includes a person in relation to whom any proceeding under Chapter IX has been commenced under this Sanhita.\n",
+    "html": "<article class=\"provision\" data-n=\"308\" data-report=\"Section 308 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">308</span>Evidence to be taken in presence of accused</h3></div><p class=\"prov-cite\">Section 308 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p>Except as otherwise expressly provided, all evidence taken in the course of the trial or other proceeding shall be taken in the presence of the accused, or, when his personal attendance is dispensed with, in the presence of his advocate including through audio-video electronic means at the designated place to be notified by the State Government:</p><p><span class=\"named\">Proviso</span>Provided that where the evidence of a woman below the age of eighteen years who is alleged to have been subjected to rape or any other sexual offence, is to be recorded, the Court may take appropriate measures to ensure that such woman is not confronted by the accused while at the same time ensuring the right of cross-examination of the accused.</p><p><span class=\"named\">Explanation</span>In this section, “accused” includes a person in relation to whom any proceeding under Chapter IX has been commenced under this Sanhita.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">308</span>Evidence to be taken in presence of accused</h3></div><p class=\"prov-cite\">Section 308 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p>Except as otherwise expressly provided, all evidence taken in the course of the trial or other proceeding shall be taken in the presence of the accused, or, when his personal attendance is dispensed with, in the presence of his advocate including through audio-video electronic means at the designated place to be notified by the State Government:</p><p><span class=\"named\">Proviso</span>Provided that where the evidence of a woman below the age of eighteen years who is alleged to have been subjected to rape or any other sexual offence, is to be recorded, the Court may take appropriate measures to ensure that such woman is not confronted by the accused while at the same time ensuring the right of cross-examination of the accused.</p><p><span class=\"named\">Explanation</span>In this section, “accused” includes a person in relation to whom any proceeding under Chapter IX has been commenced under this Sanhita.</p></div>"
+  }
+}

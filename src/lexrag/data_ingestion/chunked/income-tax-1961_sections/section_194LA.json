@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194LA_chunk_0",
+    "section_id": "income-tax-1961_section_194LA",
+    "token_count": 337,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194LA::Payment of compensation on acquisition of certain immovable property.\n]\n\n\nAny person responsible for paying to a resident any sum, being in the nature of compensation or the enhanced compensation or the consideration or the enhanced consideration on account of compulsory acquisition, under any law for the time being in force, of any immovable property (other than agricultural land), shall, at the time of payment of such sum in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct an amount equal to ten per cent of such sum as income-tax thereon:\nProvided that no deduction shall be made under this section where the amount of such payment or, as the case may be, the aggregate amount of such payments to a resident during the financial year does not exceed 45[five lakh] rupees:\nProvided further that no deduction shall be made under this section where such payment is made in respect of any award or agreement which has been exempted from levy of income-tax under section 96 of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (30 of 2013).\nExplanation.—For the purposes of this section,—\n(i) \"agricultural land\" means agricultural land in India including land situate in any area referred to in items (a) and (b) of sub-clause (iii) of clause (14) of section 2;\n(ii) \"immovable property\" means any land (other than agricultural land) or any building or part of a building.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194LA_chunk_0",
+      "section_id": "income-tax-1961_section_194LA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194LA",
+      "section_title": "Payment of compensation on acquisition of certain immovable property."
+    }
+  }
+]

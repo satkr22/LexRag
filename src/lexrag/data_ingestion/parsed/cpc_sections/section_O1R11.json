@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-13.html",
+    "source_order": 13,
+    "article_order": 14,
+    "order": 185,
+    "stem": "section_O1R11",
+    "heading_number": "Order I",
+    "heading_title": "Parties to Suits",
+    "heading_range": "16 rules",
+    "heading_source": "group-head",
+    "article_number": "O1R11",
+    "article_title": "Conduct of suit.",
+    "id": "cpc_section_O1R11"
+  },
+  "id": "cpc_section_O1R11",
+  "heading": {
+    "number": "Order I",
+    "title": "Parties to Suits",
+    "range": "16 rules"
+  },
+  "article": {
+    "number": "O1R11",
+    "title": "Conduct of suit.",
+    "content": "The Court may give the conduct of 3[a suit] to such persons as it deems proper.\n",
+    "html": "<article class=\"provision\" data-n=\"O1R11\" data-report=\"Order 1, Rule 11 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Conduct of suit.</h3></div><p class=\"prov-cite\">Order 1, Rule 11</p><div class=\"prov-body\"><p>The Court may give the conduct of <sup>3</sup>[a suit] to such persons as it deems proper.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by s. 52, ibid., for “the suit” (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Conduct of suit.</h3></div><p class=\"prov-cite\">Order 1, Rule 11</p><div class=\"prov-body\"><p>The Court may give the conduct of <sup>3</sup>[a suit] to such persons as it deems proper.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by s. 52, ibid., for “the suit” (w.e.f. 1-2-1977).</p></div>"
+  }
+}

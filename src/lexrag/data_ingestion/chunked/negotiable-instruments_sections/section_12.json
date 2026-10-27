@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_12_chunk_0",
+    "section_id": "negotiable-instruments_section_12",
+    "token_count": 47,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Notes, Billsand Cheques\n Section: 12::Foreign instrument.\n]\n\n\nAny such instrument not so drawn, made or made payable shall be deemed to be a foreign instrument.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_12_chunk_0",
+      "section_id": "negotiable-instruments_section_12",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Notes, Billsand Cheques",
+      "section_number": "12",
+      "section_title": "Foreign instrument."
+    }
+  }
+]

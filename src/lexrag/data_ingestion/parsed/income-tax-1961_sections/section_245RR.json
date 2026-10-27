@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-43.html",
+    "source_order": 48,
+    "article_order": 8,
+    "order": 713,
+    "stem": "section_245RR",
+    "heading_number": "Chapter XIX-B",
+    "heading_title": "Advance Rulings",
+    "heading_range": "ss. 245N–245W",
+    "heading_source": "group-head",
+    "article_number": "245RR",
+    "article_title": "Appellate authority not to proceed in certain cases.",
+    "id": "income-tax-1961_section_245RR"
+  },
+  "id": "income-tax-1961_section_245RR",
+  "heading": {
+    "number": "Chapter XIX-B",
+    "title": "Advance Rulings",
+    "range": "ss. 245N–245W"
+  },
+  "article": {
+    "number": "245RR",
+    "title": "Appellate authority not to proceed in certain cases.",
+    "content": "No income-tax authority or the Appellate Tribunal shall proceed to decide any issue in respect to which an application has been made by an applicant, being a resident, under sub-section (1) of section 245Q.\n",
+    "html": "<article class=\"provision\" data-n=\"245RR\" data-report=\"Section 245RR · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245RR</span>Appellate authority not to proceed in certain cases.</h3></div><p class=\"prov-cite\">Section 245RR  ·  Chapter XIX-B  ·  page 873 of the Act</p><div class=\"prov-body\"><p>No income-tax authority or the Appellate Tribunal shall proceed to decide any issue in respect to which an application has been made by an applicant, being a resident, under sub-section (1) of section 245Q.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245RR</span>Appellate authority not to proceed in certain cases.</h3></div><p class=\"prov-cite\">Section 245RR  ·  Chapter XIX-B  ·  page 873 of the Act</p><div class=\"prov-body\"><p>No income-tax authority or the Appellate Tribunal shall proceed to decide any issue in respect to which an application has been made by an applicant, being a resident, under sub-section (1) of section 245Q.</p></div>"
+  }
+}

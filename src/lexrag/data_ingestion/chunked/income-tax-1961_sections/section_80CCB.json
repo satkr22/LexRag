@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80CCB_chunk_0",
+    "section_id": "income-tax-1961_section_80CCB",
+    "token_count": 444,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80CCB::Deduction in respect of investment made under Equity Linked Savings Scheme.\n]\n\n\n(1) Where an assessee, being—\n(a) an individual, or\n(b) a Hindu undivided family,\n(c) [* * *] has acquired in the previous year, out of his income chargeable to tax, units of any Mutual Fund specified under clause (23D) of section 10 or of the Unit Trust of India established under the Unit Trust of India Act, 1963 (52 of 1963), under any plan formulated in accordance with such scheme as the Central Government may, by notification in the Official Gazette, specify in this behalf (hereafter in this section referred to as the Equity Linked Savings Scheme), he shall, in accordance with, and subject to, the provisions of this section, be allowed a deduction in the computation of his total income of so much of the amount invested as does not exceed the amount of ten thousand rupees in the previous year :\nProvided that no deduction shall be allowed in relation to any amount invested under this sub-section on or after the 1st day of April, 1992.\n(2) Where any amount invested by the assessee in the units issued under a plan formulated under the Equity Linked Savings Scheme in respect of which a deduction has been allowed under sub-section (1) is returned to him in whole or in part either by way of repurchase of such units or on the termination of the plan, by the Fund or the Trust, as the case may be, in any previous year, it shall be deemed to be the income of the assessee of that previous year and chargeable to tax accordingly.\n(3) Notwithstanding anything contained in any other provision of this Act, where a partition has taken place among the members of a Hindu undivided family or where an association of persons has been dissolved after a deduction has been allowed under sub-section (1), the provisions of sub-section (2) shall apply as if the person in receipt of income referred to therein is the assessee.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80CCB_chunk_0",
+      "section_id": "income-tax-1961_section_80CCB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80CCB",
+      "section_title": "Deduction in respect of investment made under Equity Linked Savings Scheme."
+    }
+  }
+]

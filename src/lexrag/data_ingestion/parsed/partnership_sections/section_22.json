@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "partnership_sections/section-22.html",
+    "source_order": 24,
+    "article_order": 1,
+    "order": 24,
+    "stem": "section_22",
+    "heading_number": "Chapter IV",
+    "heading_title": "Relations of Partners to Third Parties",
+    "heading_range": "ss. 18–30",
+    "heading_source": "manifest",
+    "article_number": "22",
+    "article_title": "Mode of doing act to bind firm.",
+    "id": "partnership_section_22"
+  },
+  "id": "partnership_section_22",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Relations of Partners to Third Parties",
+    "range": "ss. 18–30"
+  },
+  "article": {
+    "number": "22",
+    "title": "Mode of doing act to bind firm.",
+    "content": "In order to bind a firm, an act or instrument done or executed by a partner or other person on behalf of the firm shall be done or executed in the firm name, or in any other manner expressing or implying an intention to bind the firm.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Mode of doing act to bind firm.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter IV  ·  page 7 of the Act</p><div class=\"prov-body\"><p>In order to bind a firm, an act or instrument done or executed by a partner or other person on behalf of the firm shall be done or executed in the firm name, or in any other manner expressing or implying an intention to bind the firm.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Mode of doing act to bind firm.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter IV  ·  page 7 of the Act</p><div class=\"prov-body\"><p>In order to bind a firm, an act or instrument done or executed by a partner or other person on behalf of the firm shall be done or executed in the firm name, or in any other manner expressing or implying an intention to bind the firm.</p></div>"
+  }
+}

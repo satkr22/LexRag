@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-12.html",
+    "source_order": 12,
+    "article_order": 24,
+    "order": 164,
+    "stem": "section_153",
+    "heading_number": "Part Xi",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 132–158",
+    "heading_source": "group-head",
+    "article_number": "153",
+    "article_title": "General power to amend.",
+    "id": "cpc_section_153"
+  },
+  "id": "cpc_section_153",
+  "heading": {
+    "number": "Part Xi",
+    "title": "Miscellaneous",
+    "range": "ss. 132–158"
+  },
+  "article": {
+    "number": "153",
+    "title": "General power to amend.",
+    "content": "The Court may at any time, and on such terms as to costs or otherwise as it may think fit, amend any defect or error in any proceeding in a suit; and all necessary amendments shall be made for the purpose of determining the real question or issue raised by or depending on such proceeding.\n",
+    "html": "<article class=\"provision\" data-n=\"153\" data-report=\"Section 153 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153</span>General power to amend.</h3></div><p class=\"prov-cite\">Section 153</p><div class=\"prov-body\"><p>The Court may at any time, and on such terms as to costs or otherwise as it may think fit, amend any defect or error in any proceeding in a suit; and all necessary amendments shall be made for the purpose of determining the real question or issue raised by or depending on such proceeding.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153</span>General power to amend.</h3></div><p class=\"prov-cite\">Section 153</p><div class=\"prov-body\"><p>The Court may at any time, and on such terms as to costs or otherwise as it may think fit, amend any defect or error in any proceeding in a suit; and all necessary amendments shall be made for the purpose of determining the real question or issue raised by or depending on such proceeding.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-18.html",
+    "source_order": 18,
+    "article_order": 2,
+    "order": 235,
+    "stem": "section_235",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "The Charge",
+    "heading_range": "234 – 247",
+    "heading_source": "group-head",
+    "article_number": "235",
+    "article_title": "Particulars as to time, place and person",
+    "id": "bnss_section_235"
+  },
+  "id": "bnss_section_235",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "The Charge",
+    "range": "234 – 247"
+  },
+  "article": {
+    "number": "235",
+    "title": "Particulars as to time, place and person",
+    "content": "(1)The charge shall contain such particulars as to the time and place of the alleged offence, and the person (if any) against whom, or the thing (if any) in respect of which, it was committed, as are reasonably sufficient to give the accused notice of the matter with which he is charged.\n(2)When the accused is charged with criminal breach of trust or dishonest misappropriation of money or other movable property, it shall be sufficient to specify the gross sum or, as the case may be, describe the movable property in respect of which the offence is alleged to have been committed, and the dates between which the offence is alleged to have been committed, without specifying particular items or exact dates, and the charge so framed shall be deemed to be a charge of one offence within the meaning of section 242:\nProvisoProvided that the time included between the first and last of such dates shall not exceed one year.\n",
+    "html": "<article class=\"provision\" data-n=\"235\" data-report=\"Section 235 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">235</span>Particulars as to time, place and person</h3></div><p class=\"prov-cite\">Section 235 · Chapter XVIII · Form of charges</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The charge shall contain such particulars as to the time and place of the alleged offence, and the person (if any) against whom, or the thing (if any) in respect of which, it was committed, as are reasonably sufficient to give the accused notice of the matter with which he is charged.</p><p><span class=\"lbl\">(2)</span>When the accused is charged with criminal breach of trust or dishonest misappropriation of money or other movable property, it shall be sufficient to specify the gross sum or, as the case may be, describe the movable property in respect of which the offence is alleged to have been committed, and the dates between which the offence is alleged to have been committed, without specifying particular items or exact dates, and the charge so framed shall be deemed to be a charge of one offence within the meaning of section 242:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the time included between the first and last of such dates shall not exceed one year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">235</span>Particulars as to time, place and person</h3></div><p class=\"prov-cite\">Section 235 · Chapter XVIII · Form of charges</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The charge shall contain such particulars as to the time and place of the alleged offence, and the person (if any) against whom, or the thing (if any) in respect of which, it was committed, as are reasonably sufficient to give the accused notice of the matter with which he is charged.</p><p><span class=\"lbl\">(2)</span>When the accused is charged with criminal breach of trust or dishonest misappropriation of money or other movable property, it shall be sufficient to specify the gross sum or, as the case may be, describe the movable property in respect of which the offence is alleged to have been committed, and the dates between which the offence is alleged to have been committed, without specifying particular items or exact dates, and the charge so framed shall be deemed to be a charge of one offence within the meaning of section 242:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the time included between the first and last of such dates shall not exceed one year.</p></div>"
+  }
+}

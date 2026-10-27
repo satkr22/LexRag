@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-23.html",
+    "source_order": 23,
+    "article_order": 5,
+    "order": 320,
+    "stem": "section_O11R5",
+    "heading_number": "Order XI",
+    "heading_title": "Discovery and Inspection",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O11R5",
+    "article_title": "Corporations.",
+    "id": "cpc_section_O11R5"
+  },
+  "id": "cpc_section_O11R5",
+  "heading": {
+    "number": "Order XI",
+    "title": "Discovery and Inspection",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O11R5",
+    "title": "Corporations.",
+    "content": "Where any party to a suit is a corporation or a body of persons, whether incorporated or not, empowered by law to sue or be sued, whether in its own name or in the name of any officer or other person, any opposite party may apply for an order allowing him to deliver interrogatories to any member or officer of such corporation or body, and an order may be made accordingly.\n",
+    "html": "<article class=\"provision\" data-n=\"O11R5\" data-report=\"Order 11, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Corporations.</h3></div><p class=\"prov-cite\">Order 11, Rule 5</p><div class=\"prov-body\"><p>Where any party to a suit is a corporation or a body of persons, whether incorporated or not, empowered by law to sue or be sued, whether in its own name or in the name of any officer or other person, any opposite party may apply for an order allowing him to deliver interrogatories to any member or officer of such corporation or body, and an order may be made accordingly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Corporations.</h3></div><p class=\"prov-cite\">Order 11, Rule 5</p><div class=\"prov-body\"><p>Where any party to a suit is a corporation or a body of persons, whether incorporated or not, empowered by law to sue or be sued, whether in its own name or in the name of any officer or other person, any opposite party may apply for an order allowing him to deliver interrogatories to any member or officer of such corporation or body, and an order may be made accordingly.</p></div>"
+  }
+}

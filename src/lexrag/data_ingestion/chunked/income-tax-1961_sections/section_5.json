@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_5_chunk_0",
+    "section_id": "income-tax-1961_section_5",
+    "token_count": 385,
+    "text": "[Act: income-tax-1961\n Chapter: Basis of Charge\n Section: 5::Scope of total income.\n]\n\n\n(1) Subject to the provisions of this Act, the total income of any previous year of a person who is a resident includes all income from whatever source derived which—\n(a) is received or is deemed to be received in India in such year by or on behalf of such person ; or\n(b) accrues or arises or is deemed to accrue or arise to him in India during such year ; or\n(c) accrues or arises to him outside India during such year :\nProvided that, in the case of a person not ordinarily resident in India within the meaning of sub-section (6) of section 6, the income which accrues or arises to him outside India shall not be so included unless it is derived from a business controlled in or a profession set up in India.\n(2) Subject to the provisions of this Act, the total income of any previous year of a person who is a non-resident includes all income from whatever source derived which—\n(a) is received or is deemed to be received in India in such year by or on behalf of such person ; or\n(b) accrues or arises or is deemed to accrue or arise to him in India during such year.\nExplanation 1.—Income accruing or arising outside India shall not be deemed to be received in India within the meaning of this section by reason only of the fact that it is taken into account in a balance sheet prepared in India.\nExplanation 2.—For the removal of doubts, it is hereby declared that income which has been included in the total income of a person on the basis that it has accrued or arisen or is deemed to have accrued or arisen to him shall not again be so included on the basis that it is received or deemed to be received by him in India.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_5_chunk_0",
+      "section_id": "income-tax-1961_section_5",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Basis of Charge",
+      "section_number": "5",
+      "section_title": "Scope of total income."
+    }
+  }
+]

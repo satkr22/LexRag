@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-04.html",
+    "source_order": 4,
+    "article_order": 20,
+    "order": 62,
+    "stem": "section_51",
+    "heading_number": "Part IV",
+    "heading_title": "Directive Principles of State Policy",
+    "heading_range": "36 – 51",
+    "heading_source": "group-head",
+    "article_number": "51",
+    "article_title": "Promotion of international peace and security",
+    "id": "constitution_section_51"
+  },
+  "id": "constitution_section_51",
+  "heading": {
+    "number": "Part IV",
+    "title": "Directive Principles of State Policy",
+    "range": "36 – 51"
+  },
+  "article": {
+    "number": "51",
+    "title": "Promotion of international peace and security",
+    "content": "The State shall endeavour to—\n(a)promote international peace and security;\n(b)maintain just and honourable relations between nations;\n(c)foster respect for international law and treaty obligations in the dealings of organised peoples with one another; and\n(d)encourage settlement of international disputes by arbitration.\n",
+    "html": "<article class=\"provision\" data-n=\"51\" data-report=\"Article 51 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Promotion of international peace and security</h3></div><p class=\"prov-cite\">Article 51 · Part IV</p><div class=\"prov-body\"><p>The State shall endeavour to—</p><p><span class=\"lbl\">(a)</span>promote international peace and security;</p><p><span class=\"lbl\">(b)</span>maintain just and honourable relations between nations;</p><p><span class=\"lbl\">(c)</span>foster respect for international law and treaty obligations in the dealings of organised peoples with one another; and</p><p><span class=\"lbl\">(d)</span>encourage settlement of international disputes by arbitration.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Promotion of international peace and security</h3></div><p class=\"prov-cite\">Article 51 · Part IV</p><div class=\"prov-body\"><p>The State shall endeavour to—</p><p><span class=\"lbl\">(a)</span>promote international peace and security;</p><p><span class=\"lbl\">(b)</span>maintain just and honourable relations between nations;</p><p><span class=\"lbl\">(c)</span>foster respect for international law and treaty obligations in the dealings of organised peoples with one another; and</p><p><span class=\"lbl\">(d)</span>encourage settlement of international disputes by arbitration.</p></div>"
+  }
+}

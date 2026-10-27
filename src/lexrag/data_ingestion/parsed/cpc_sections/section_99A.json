@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-08.html",
+    "source_order": 8,
+    "article_order": 5,
+    "order": 106,
+    "stem": "section_99A",
+    "heading_number": "Part Vii",
+    "heading_title": "Appeals",
+    "heading_range": "ss. 96–112",
+    "heading_source": "group-head",
+    "article_number": "99A",
+    "article_title": "No order under section 47 to be reversed or modified unless decision of the case is prejudicially affected.",
+    "id": "cpc_section_99A"
+  },
+  "id": "cpc_section_99A",
+  "heading": {
+    "number": "Part Vii",
+    "title": "Appeals",
+    "range": "ss. 96–112"
+  },
+  "article": {
+    "number": "99A",
+    "title": "No order under section 47 to be reversed or modified unless decision of the case is prejudicially affected.",
+    "content": "Appeals from original decrees\nWithout prejudice to the generality of the provisions of section 99, no order under section 47 shall be reversed or substantially varied, on account of any error, defect or irregularity in any proceeding relating to such order, unless such error, defect or irregularity has prejudicially affected the decision of the case.]\n",
+    "html": "<article class=\"provision\" data-n=\"99A\" data-report=\"Section 99A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99A</span>No order under section 47 to be reversed or modified unless decision of the case is prejudicially affected.</h3></div><p class=\"prov-cite\">Section 99A</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from original decrees</p><p>Without prejudice to the generality of the provisions of section 99, no order under section 47 shall be reversed or substantially varied, on account of any error, defect or irregularity in any proceeding relating to such order, unless such error, defect or irregularity has prejudicially affected the decision of the case.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>7</sup> Ins. by s. 36, ibid. (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99A</span>No order under section 47 to be reversed or modified unless decision of the case is prejudicially affected.</h3></div><p class=\"prov-cite\">Section 99A</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from original decrees</p><p>Without prejudice to the generality of the provisions of section 99, no order under section 47 shall be reversed or substantially varied, on account of any error, defect or irregularity in any proceeding relating to such order, unless such error, defect or irregularity has prejudicially affected the decision of the case.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>7</sup> Ins. by s. 36, ibid. (w.e.f. 1-2-1977).</p></div>"
+  }
+}

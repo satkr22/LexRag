@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_119_chunk_0",
+    "section_id": "motor-vehicles_section_119",
+    "token_count": 170,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 119::Duty to obey traffic signs.\n]\n\n\n(1) Every driver of a motor vehicle shall drive the vehicle in conformity with any indication given by mandatory traffic sign and in conformity with the driving regulations made by the Central Government, and shall comply with all directions given to him by any police officer for the time being engaged in the regulation of traffic in any public place.\n(2) In this section “mandatory traffic sign” means a traffic sign included in Part A of the Schedule, or any traffic sign of similar form (that is to say, consisting of or including a circular disc displaying a device, word or figure and having a red ground or border) placed or erected for the purpose of regulating motor vehicle traffic under sub-section (1) of section 116.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_119_chunk_0",
+      "section_id": "motor-vehicles_section_119",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "119",
+      "section_title": "Duty to obey traffic signs."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_139D_chunk_0",
+    "section_id": "income-tax-1961_section_139D",
+    "token_count": 135,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 139D::Filing of return in electronic form.\n]\n\n\nThe Board may make rules providing for—\n(a) the class or classes of persons who shall be required to furnish the return in electronic form;\n(b) the form and the manner in which the return in electronic form may be furnished;\n(c) the documents, statements, receipts, certificates or audited reports which may not be furnished along with the return in electronic form but shall be produced before the Assessing Officer on demand;\n(d) the computer resource or the electronic record to which the return in electronic form may be transmitted.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_139D_chunk_0",
+      "section_id": "income-tax-1961_section_139D",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "139D",
+      "section_title": "Filing of return in electronic form."
+    }
+  }
+]

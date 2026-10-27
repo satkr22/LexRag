@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_40_chunk_0",
+    "section_id": "constitution_section_40",
+    "token_count": 64,
+    "text": "[Act: constitution\n Chapter: Directive Principles of State Policy\n Section: 40::Organisation of village panchayats\n]\n\n\nThe State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.",
+    "metadata": {
+      "chunk_id": "constitution_section_40_chunk_0",
+      "section_id": "constitution_section_40",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part IV",
+      "chapter_title": "Directive Principles of State Policy",
+      "section_number": "40",
+      "section_title": "Organisation of village panchayats"
+    }
+  }
+]

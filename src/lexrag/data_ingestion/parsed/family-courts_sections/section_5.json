@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "family-courts",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": null,
+    "source_file": "family-courts_sections/section-5.html",
+    "source_order": 5,
+    "article_order": 1,
+    "order": 5,
+    "stem": "section_5",
+    "heading_number": "Chapter II",
+    "heading_title": "Family Courts",
+    "heading_range": "ss. 3–6",
+    "heading_source": "manifest",
+    "article_number": "5",
+    "article_title": "Association of social welfare agencies, etc.",
+    "id": "family-courts_section_5"
+  },
+  "id": "family-courts_section_5",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Family Courts",
+    "range": "ss. 3–6"
+  },
+  "article": {
+    "number": "5",
+    "title": "Association of social welfare agencies, etc.",
+    "content": "The State Government may, in consultation with the High Court, provide, by rules, for the association, in such manner and for such purposes and subject to such conditions as may be specified in the rules, with a Family Court of—\n(a) institutions or organisations engaged in social welfare or the representatives thereof;\n(b) persons professionally engaged in promoting the welfare of the family;\n(c) persons working in the field of social welfare; and\n(d) any other person whose association with a Family Court would enable it to exercise its jurisdiction more effectively in accordance with the purposes of this Act.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Association of social welfare agencies, etc.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 4 of the Act</p><div class=\"prov-body\"><p>The State Government may, in consultation with the High Court, provide, by rules, for the association, in such manner and for such purposes and subject to such conditions as may be specified in the rules, with a Family Court of—</p><p class=\"lvl\">(a) institutions or organisations engaged in social welfare or the representatives thereof;</p><p class=\"lvl\">(b) persons professionally engaged in promoting the welfare of the family;</p><p class=\"lvl\">(c) persons working in the field of social welfare; and</p><p class=\"lvl\">(d) any other person whose association with a Family Court would enable it to exercise its jurisdiction more effectively in accordance with the purposes of this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Association of social welfare agencies, etc.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 4 of the Act</p><div class=\"prov-body\"><p>The State Government may, in consultation with the High Court, provide, by rules, for the association, in such manner and for such purposes and subject to such conditions as may be specified in the rules, with a Family Court of—</p><p class=\"lvl\">(a) institutions or organisations engaged in social welfare or the representatives thereof;</p><p class=\"lvl\">(b) persons professionally engaged in promoting the welfare of the family;</p><p class=\"lvl\">(c) persons working in the field of social welfare; and</p><p class=\"lvl\">(d) any other person whose association with a Family Court would enable it to exercise its jurisdiction more effectively in accordance with the purposes of this Act.</p></div>"
+  }
+}

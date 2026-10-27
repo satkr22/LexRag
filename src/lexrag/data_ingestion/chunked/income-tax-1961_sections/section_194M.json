@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194M_chunk_0",
+    "section_id": "income-tax-1961_section_194M",
+    "token_count": 401,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194M::Payment of certain sums by certain individuals or Hindu undivided family.\n]\n\n\n(1) Any person, being an individual or a Hindu undivided family (other than those who are required to deduct income-tax as per the provisions of section 194C, section 194H or section 194J) responsible for paying any sum to any resident for carrying out any work (including supply of labour for carrying out any work) in pursuance of a contract, by way of commission (not being insurance commission referred to in section 194D) or brokerage or by way of fees for professional services during the financial year, shall, at the time of credit of such sum or at the time of payment of such sum in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct an amount equal to 47[two] per cent of such sum as income-tax thereon:\nProvided that no such deduction under this section shall be made if such sum or, as the case may be, aggregate of such sums, credited or paid to a resident during a financial year does not exceed fifty lakh rupees.\n(2) The provisions of section 203A shall not apply to a person required to deduct tax in accordance with the provisions of this section.\nExplanation.—For the purposes of this section,—\n(a) \"contract\" shall have the meaning assigned to it in clause (iii) of the Explanation to section 194C;\n(b) \"commission or brokerage\" shall have the meaning assigned to it in clause (i) of the Explanation to section 194H;\n(c) \"professional services\" shall have the meaning assigned to it in clause (a) of the Explanation to section 194J;\n(d) \"work\" shall have the meaning assigned to it in clause (iv) of the Explanation to section 194C.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194M_chunk_0",
+      "section_id": "income-tax-1961_section_194M",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194M",
+      "section_title": "Payment of certain sums by certain individuals or Hindu undivided family."
+    }
+  }
+]

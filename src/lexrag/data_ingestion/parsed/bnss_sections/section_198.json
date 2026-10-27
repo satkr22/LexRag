@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-14.html",
+    "source_order": 14,
+    "article_order": 2,
+    "order": 198,
+    "stem": "section_198",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Jurisdiction of the Criminal Courts in Inquiries and Trials",
+    "heading_range": "197 – 209",
+    "heading_source": "group-head",
+    "article_number": "198",
+    "article_title": "Place of inquiry or trial",
+    "id": "bnss_section_198"
+  },
+  "id": "bnss_section_198",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Jurisdiction of the Criminal Courts in Inquiries and Trials",
+    "range": "197 – 209"
+  },
+  "article": {
+    "number": "198",
+    "title": "Place of inquiry or trial",
+    "content": "it may be inquired into or tried by a Court having jurisdiction over any of such local areas.\n(a)When it is uncertain in which of several local areas an offence was committed; or\n(b)where an offence is committed partly in one local area and partly in another; or\n(c)where an offence is a continuing one, and continues to be committed in more local areas than one; or\n(d)where it consists of several acts done in different local areas,\n",
+    "html": "<article class=\"provision\" data-n=\"198\" data-report=\"Section 198 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">198</span>Place of inquiry or trial</h3></div><p class=\"prov-cite\">Section 198 · Chapter XIV</p><div class=\"prov-body\"><p>it may be inquired into or tried by a Court having jurisdiction over any of such local areas.</p><p><span class=\"lbl\">(a)</span>When it is uncertain in which of several local areas an offence was committed; or</p><p><span class=\"lbl\">(b)</span>where an offence is committed partly in one local area and partly in another; or</p><p><span class=\"lbl\">(c)</span>where an offence is a continuing one, and continues to be committed in more local areas than one; or</p><p><span class=\"lbl\">(d)</span>where it consists of several acts done in different local areas,</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">198</span>Place of inquiry or trial</h3></div><p class=\"prov-cite\">Section 198 · Chapter XIV</p><div class=\"prov-body\"><p>it may be inquired into or tried by a Court having jurisdiction over any of such local areas.</p><p><span class=\"lbl\">(a)</span>When it is uncertain in which of several local areas an offence was committed; or</p><p><span class=\"lbl\">(b)</span>where an offence is committed partly in one local area and partly in another; or</p><p><span class=\"lbl\">(c)</span>where an offence is a continuing one, and continues to be committed in more local areas than one; or</p><p><span class=\"lbl\">(d)</span>where it consists of several acts done in different local areas,</p></div>"
+  }
+}

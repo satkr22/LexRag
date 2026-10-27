@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 27,
+    "order": 504,
+    "stem": "section_O21R25",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R25",
+    "article_title": "Endorsement on process.",
+    "id": "cpc_section_O21R25"
+  },
+  "id": "cpc_section_O21R25",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R25",
+    "title": "Endorsement on process.",
+    "content": "(1) The officer entrusted with the execution of the process shall endorse thereon the day on, and the manner in, which it was executed, and, if the latest day specified in the process for the return thereof has been exceeded, the reason of the delay, or, if it was not executed, the reason why it was not executed, and shall return the process with such endorsement to the Court.\n(2) Where the endorsement is to the effect that such officer is unable to execute the process, the Court shall examine him touching his alleged inability, and may, if it thinks fit, summon and examine witnesses as to such inability, and shall record the result.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R25\" data-report=\"Order 21, Rule 25 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25</span>Endorsement on process.</h3></div><p class=\"prov-cite\">Order 21, Rule 25</p><div class=\"prov-body\"><p class=\"lvl\">(1) The officer entrusted with the execution of the process shall endorse thereon the day on, and the manner in, which it was executed, and, if the latest day specified in the process for the return thereof has been exceeded, the reason of the delay, or, if it was not executed, the reason why it was not executed, and shall return the process with such endorsement to the Court.</p><p class=\"lvl\">(2) Where the endorsement is to the effect that such officer is unable to execute the process, the Court shall examine him touching his alleged inability, and may, if it thinks fit, summon and examine witnesses as to such inability, and shall record the result.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25</span>Endorsement on process.</h3></div><p class=\"prov-cite\">Order 21, Rule 25</p><div class=\"prov-body\"><p class=\"lvl\">(1) The officer entrusted with the execution of the process shall endorse thereon the day on, and the manner in, which it was executed, and, if the latest day specified in the process for the return thereof has been exceeded, the reason of the delay, or, if it was not executed, the reason why it was not executed, and shall return the process with such endorsement to the Court.</p><p class=\"lvl\">(2) Where the endorsement is to the effect that such officer is unable to execute the process, the Court shall examine him touching his alleged inability, and may, if it thinks fit, summon and examine witnesses as to such inability, and shall record the result.</p></div>"
+  }
+}

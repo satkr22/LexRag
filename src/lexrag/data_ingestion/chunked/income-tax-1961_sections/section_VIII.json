@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_VIII_chunk_0",
+    "section_id": "income-tax-1961_section_VIII",
+    "token_count": 146,
+    "text": "[Act: income-tax-1961\n Chapter: The Schedules\n Section: VIII::THE EIGHTH SCHEDULE\n]\n\n\n(1) Arunachal Pradesh\n(2) Assam\n(3) Goa\n(4) Himachal Pradesh\n(5) Jammu and Kashmir\n(6) Manipur\n(7) Meghalaya\n(8) Mizoram\n(9) Nagaland\n(10) Sikkim\n(11) Tripura\n(12) Andaman and Nicobar Islands\n(13) Dadra and Nagar Haveli\n(14) Daman and Diu\n(15) Lakshadweep\n(16) Pondicherry.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_VIII_chunk_0",
+      "section_id": "income-tax-1961_section_VIII",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "VIII",
+      "section_title": "THE EIGHTH SCHEDULE"
+    }
+  }
+]

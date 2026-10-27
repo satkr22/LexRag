@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_197B_chunk_0",
+    "section_id": "income-tax-1961_section_197B",
+    "token_count": 218,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 197B::Lower deduction in certain cases for a limited period.\n]\n\n\nIn case the provisions of sections 193, 194, 194A, 194C, 194D, 194DA, 194EE, 194F, 194G, 194H, 194-I, 194-IA, 194-IB, 194-IC, 194J, 194K, 194LA, sub-section (1) of section 194LBA, clause (i) of section 194LBB, sub-section (1) of section 194LBC, sections 194M and 194-O require deduction of tax at source during the period commencing from the 14th day of May, 2020 to the 31st day of March, 2021, then notwithstanding anything contained in these sections the deduction of tax shall be made at the rate being the three-fourth of the rate specified in these sections.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_197B_chunk_0",
+      "section_id": "income-tax-1961_section_197B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "197B",
+      "section_title": "Lower deduction in certain cases for a limited period."
+    }
+  }
+]

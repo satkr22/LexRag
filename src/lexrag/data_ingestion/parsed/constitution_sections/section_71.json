@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 20,
+    "order": 83,
+    "stem": "section_71",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "71",
+    "article_title": "Matters relating to, or connected with, the election of a President or Vice-President",
+    "id": "constitution_section_71"
+  },
+  "id": "constitution_section_71",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "71",
+    "title": "Matters relating to, or connected with, the election of a President or Vice-President",
+    "content": "(1)All doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court whose decision shall be final.\n(2)If the election of a person as President or Vice-President is declared void by the Supreme Court, acts done by him in the exercise and performance of the powers and duties of the office of President or Vice-President, as the case may be, on or before the date of the decision of the Supreme Court shall not be invalidated by reason of that declaration.\n(3)Subject to the provisions of this Constitution, Parliament may by law regulate any matter relating to or connected with the election of a President or Vice-President.\n(4)The election of a person as President or Vice-President shall not be called in question on the ground of the existence of any vacancy for whatever reason among the members of the electoral college electing him.\n",
+    "html": "<article class=\"provision\" data-n=\"71\" data-report=\"Article 71 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">71</span>Matters relating to, or connected with, the election of a President or Vice-President</h3></div><p class=\"prov-cite\">Article 71 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>All doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court whose decision shall be final.</p><p><span class=\"lbl\">(2)</span>If the election of a person as President or Vice-President is declared void by the Supreme Court, acts done by him in the exercise and performance of the powers and duties of the office of President or Vice-President, as the case may be, on or before the date of the decision of the Supreme Court shall not be invalidated by reason of that declaration.</p><p><span class=\"lbl\">(3)</span>Subject to the provisions of this Constitution, Parliament may by law regulate any matter relating to or connected with the election of a President or Vice-President.</p><p><span class=\"lbl\">(4)</span>The election of a person as President or Vice-President shall not be called in question on the ground of the existence of any vacancy for whatever reason among the members of the electoral college electing him.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Thirty-ninth Amendment) Act, 1975, s. 2 (w.e.f 10-8-1975) and further subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 10. (w.e.f. 20-6-1979).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">71</span>Matters relating to, or connected with, the election of a President or Vice-President</h3></div><p class=\"prov-cite\">Article 71 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>All doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court whose decision shall be final.</p><p><span class=\"lbl\">(2)</span>If the election of a person as President or Vice-President is declared void by the Supreme Court, acts done by him in the exercise and performance of the powers and duties of the office of President or Vice-President, as the case may be, on or before the date of the decision of the Supreme Court shall not be invalidated by reason of that declaration.</p><p><span class=\"lbl\">(3)</span>Subject to the provisions of this Constitution, Parliament may by law regulate any matter relating to or connected with the election of a President or Vice-President.</p><p><span class=\"lbl\">(4)</span>The election of a person as President or Vice-President shall not be called in question on the ground of the existence of any vacancy for whatever reason among the members of the electoral college electing him.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Thirty-ninth Amendment) Act, 1975, s. 2 (w.e.f 10-8-1975) and further subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 10. (w.e.f. 20-6-1979).</p></div>"
+  }
+}

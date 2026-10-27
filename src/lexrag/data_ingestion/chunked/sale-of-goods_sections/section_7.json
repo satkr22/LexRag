@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_7_chunk_0",
+    "section_id": "sale-of-goods_section_7",
+    "token_count": 83,
+    "text": "[Act: sale-of-goods\n Chapter: Formation of the Contract\n Section: 7::Goods perishing before making of contract.\n]\n\n\nWhere there is a contract for the sale of specific goods, the contract is void if the goods without the knowledge of the seller have, at the time when the contract was made, perished or become so damaged as no longer to answer to their description in the contract.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_7_chunk_0",
+      "section_id": "sale-of-goods_section_7",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Formation of the Contract",
+      "section_number": "7",
+      "section_title": "Goods perishing before making of contract."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_215B_chunk_0",
+    "section_id": "motor-vehicles_section_215B",
+    "token_count": 243,
+    "text": "[Act: motor-vehicles\n Chapter: Miscellaneous\n Section: 215B::National Road Safety Board.\n]\n\n\n(1) The Central Government shall, by notification in the Official Gazette, constitute a National Road Safety Board consisting of a Chairman, such number of representatives from the State Governments, and such other members as it may consider necessary and on such terms and conditions as may be prescribed by the Central Government.\n(2) The National Board shall render advice to the Central Government or State Government, as the case may be, on all aspects pertaining to road safety and traffic management including, but not limited to,—\n(a) the standards of design, weight, construction, manufacturing process, operation and maintenance of motor vehicles and of safety equipment;\n(b) the registration and licensing of motor vehicles;\n(c) the formulation of standards for road safety, road infrastructure and control of traffic;\n(d) the facilitation of safe and sustainable utilisation of road transport ecosystem;\n(e) the promotion of new vehicle technology;\n(f) the safety of vulnerable road users;\n(g) programmes for educating and sensitising drivers and other road users; and\n(h) such other functions as may be prescribed by the Central Government from time to time.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_215B_chunk_0",
+      "section_id": "motor-vehicles_section_215B",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Miscellaneous",
+      "section_number": "215B",
+      "section_title": "National Road Safety Board."
+    }
+  }
+]

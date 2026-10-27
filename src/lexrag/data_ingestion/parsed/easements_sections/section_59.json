@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "easements",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-59.html",
+    "source_order": 59,
+    "article_order": 1,
+    "order": 59,
+    "stem": "section_59",
+    "heading_number": "Chapter VI",
+    "heading_title": "Licenses",
+    "heading_range": "ss. 52–64",
+    "heading_source": "manifest",
+    "article_number": "59",
+    "article_title": "Grantor’s transferee not bound by license.",
+    "id": "easements_section_59"
+  },
+  "id": "easements_section_59",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Licenses",
+    "range": "ss. 52–64"
+  },
+  "article": {
+    "number": "59",
+    "title": "Grantor’s transferee not bound by license.",
+    "content": "When the grantor of the license transfers the property affected thereby, the transferee is not as such bound by the license.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Grantor’s transferee not bound by license.</h3></div><p class=\"prov-cite\">Section 59  ·  Chapter VI  ·  page 19 of the Act</p><div class=\"prov-body\"><p>When the grantor of the license transfers the property affected thereby, the transferee is not as such bound by the license.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Grantor’s transferee not bound by license.</h3></div><p class=\"prov-cite\">Section 59  ·  Chapter VI  ·  page 19 of the Act</p><div class=\"prov-body\"><p>When the grantor of the license transfers the property affected thereby, the transferee is not as such bound by the license.</p></div>"
+  }
+}

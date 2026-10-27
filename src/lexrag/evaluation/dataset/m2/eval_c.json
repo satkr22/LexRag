@@ -1,0 +1,122 @@
+[
+  {
+    "question": "A business owner allegedly deceives a customer into transferring money by making false representations through electronic messages. During the investigation, the customer submits the messages as evidence. Which legal principles govern the alleged dishonest deception and the admissibility of the electronic messages?",
+    "referenced_sections": [
+      "bns_section_318",
+      "bsa_section_63"
+    ],
+    "answer": "The Bharatiya Nyaya Sanhita provision concerning cheating addresses the alleged offence involving deception. The Bharatiya Sakshya Adhiniyam provision concerning the admissibility of electronic records addresses whether the electronic messages can be admitted as evidence. The alleged offence and the evidentiary admissibility of the messages are separate questions; the applicable statutory requirements must be examined before reaching a conclusion."
+  },
+  {
+    "question": "An employee is accused of forging a document and presenting it as authentic to obtain a financial benefit. The employee disputes having signed or created the document. What legal principles determine the alleged offence and how the disputed signature may be established in court?",
+    "referenced_sections": [
+      "bns_section_340",
+      "bsa_section_65"
+    ],
+    "answer": "The BNS provision concerning forged documents and their use as genuine addresses the alleged conduct. The BSA provision concerning proof of a person's signature and handwriting addresses how the disputed signature or handwriting may be proved. Establishing the signature is an evidentiary question, while determining whether the conduct constitutes the alleged offence requires applying the relevant substantive law to the facts."
+  },
+  {
+    "question": "During a criminal trial, a witness gives testimony that allegedly contradicts the facts of the case. The prosecution argues that the witness has deliberately lied. How should the alleged offence involving false evidence be distinguished from the evidentiary requirement governing testimony about facts personally perceived by witnesses?",
+    "referenced_sections": [
+      "bns_section_227",
+      "bsa_section_55"
+    ],
+    "answer": "The BNS provision concerning giving false evidence addresses the alleged offence of providing false evidence. The BSA provision requiring oral evidence to be direct addresses the evidentiary basis on which facts may be established through oral testimony. Whether testimony is direct evidence and whether it is deliberately false are distinct questions; the latter requires assessment under the applicable substantive law."
+  },
+  {
+    "question": "A person allegedly creates a fabricated electronic record to make it appear that another individual committed a criminal offence. Investigators recover the record and seek to present it during the trial. Which legal principles address the alleged fabrication and the admissibility of the electronic record?",
+    "referenced_sections": [
+      "bns_section_228",
+      "bsa_section_63"
+    ],
+    "answer": "The BNS provision concerning fabricating false evidence addresses the alleged creation of false evidence. The BSA provision concerning the admissibility of electronic records addresses the evidentiary treatment of the recovered electronic record. The court must separately examine whether the alleged fabrication satisfies the substantive offence requirements and whether the electronic record satisfies the applicable admissibility requirements."
+  },
+  {
+    "question": "A person allegedly threatens another individual through electronic messages to make that individual fear harm. The recipient preserves the messages and submits them to the investigating authorities. How do the law concerning criminal intimidation and the evidentiary rules concerning electronic messages interact when evaluating the allegation?",
+    "referenced_sections": [
+      "bns_section_351",
+      "bsa_section_90"
+    ],
+    "answer": "The BNS provision concerning criminal intimidation addresses whether the alleged threats fall within the offence. The BSA provision concerning the presumption as to electronic messages addresses an evidentiary presumption associated with such messages. The existence of an electronic message does not, by itself, establish every element of criminal intimidation; the court must assess the relevant facts and the applicability of the evidentiary provision."
+  },
+  {
+    "question": "A company's accountant is accused of dishonestly misappropriating funds entrusted to them. The prosecution relies on entries in the company's accounting books to explain the financial transactions. Which legal principles govern the alleged breach of trust and the evidentiary relevance of the accounting entries?",
+    "referenced_sections": [
+      "bns_section_316",
+      "bsa_section_28"
+    ],
+    "answer": "The BNS provision concerning criminal breach of trust addresses the alleged dishonest misappropriation or misuse of entrusted property. The BSA provision concerning entries in books of account addresses the relevance of accounting entries in legal proceedings. The relevance of an accounting entry does not automatically establish the alleged offence; the court must evaluate the entries alongside the other evidence and the applicable substantive requirements."
+  },
+  {
+    "question": "A person dies under suspicious circumstances, and the prosecution alleges that the accused intentionally caused the death. A medical expert provides an opinion about the injuries and their likely cause. How should the alleged offence of murder be evaluated alongside the evidentiary role of expert opinions?",
+    "referenced_sections": [
+      "bns_section_103",
+      "bsa_section_39"
+    ],
+    "answer": "The BNS provision concerning punishment for murder addresses the substantive criminal allegation and its applicable punishment. The BSA provision concerning expert opinions addresses the relevance of opinions from persons with relevant expertise. Expert evidence may assist the court in evaluating medical findings and the circumstances of death, but the ultimate determination of the alleged offence requires consideration of all relevant evidence and the applicable law."
+  },
+  {
+    "question": "A person is accused of attempting to kill another individual. The prosecution presents medical findings and other technical evidence, while the defence challenges the conclusions drawn from those findings. Which legal principles address the alleged attempt to commit a serious offence and the relevance of facts supporting an expert's opinion?",
+    "referenced_sections": [
+      "bns_section_109",
+      "bsa_section_40"
+    ],
+    "answer": "The BNS provision concerning attempt to murder addresses the alleged criminal conduct. The BSA provision concerning facts bearing upon expert opinions addresses the relevance of facts that support or affect an expert's opinion. The court must evaluate the alleged conduct under the substantive provision and assess the expert's opinion in light of the relevant supporting facts."
+  },
+  {
+    "question": "A person is accused of deliberately filing a false criminal complaint to damage another individual's reputation and expose that individual to criminal proceedings. The accused denies the allegation and argues that the prosecution has not established the necessary facts. How do the substantive law concerning false charges and the general law concerning the burden of proof apply?",
+    "referenced_sections": [
+      "bns_section_248",
+      "bsa_section_104"
+    ],
+    "answer": "The BNS provision concerning making a false charge with intent to injure addresses the alleged offence. The BSA provision concerning the burden of proof addresses the obligation to establish facts in legal proceedings. The court must determine whether the prosecution has established the facts necessary for the alleged offence under the applicable burden-of-proof rules. The allegation alone does not establish that the complaint was knowingly false or made with the required intent."
+  },
+  {
+    "question": "After a serious offence allegedly occurs, a person deliberately destroys material that could help investigators reconstruct the incident. The prosecution argues that the destruction was intended to conceal what happened. How should the alleged offence involving the disappearance of evidence be considered alongside the evidentiary relevance of facts that explain or result from the incident?",
+    "referenced_sections": [
+      "bns_section_238",
+      "bsa_section_5"
+    ],
+    "answer": "The BNS provision concerning causing the disappearance of evidence or giving false information to screen an offender addresses the alleged concealment-related conduct. The BSA provision concerning facts that are the occasion, cause or effect of facts in issue or relevant facts addresses the relevance of connected circumstances. Evidence about the destruction and its surrounding circumstances may be relevant to understanding the incident, but the court must separately establish the elements of the alleged offence."
+  },
+  {
+    "question": "Several individuals are accused of conspiring to commit a criminal offence. During the investigation, communications and statements made by the alleged participants are recovered. How should the law concerning criminal conspiracy be considered alongside the evidentiary rules governing statements and acts made in reference to a common design?",
+    "referenced_sections": [
+      "bns_section_61",
+      "bsa_section_8"
+    ],
+    "answer": "The BNS provision concerning criminal conspiracy addresses the alleged agreement or conspiracy to commit an offence. The BSA provision concerning things said or done by a conspirator in reference to a common design addresses the evidentiary relevance of certain statements and acts connected with that design. The court must determine whether the evidence falls within the applicable evidentiary rule and whether it establishes the elements of the alleged conspiracy."
+  },
+  {
+    "question": "A person is accused of causing grievous hurt by throwing an acidic substance at another individual. The prosecution relies on medical findings to establish the nature and severity of the injuries. Which legal principles govern the alleged offence and the relevance of medical expert evidence?",
+    "referenced_sections": [
+      "bns_section_124",
+      "bsa_section_39"
+    ],
+    "answer": "The BNS provision concerning voluntarily causing grievous hurt by use of acid or similar means addresses the alleged offence. The BSA provision concerning expert opinions addresses the relevance of medical expertise in evaluating the injuries. Medical evidence may help establish the nature and severity of the injuries, but the court must also determine whether the other requirements of the alleged offence are satisfied."
+  },
+  {
+    "question": "A person is prosecuted for rape, and the circumstances of the alleged incident raise a dispute about whether the complainant consented. The prosecution argues that a statutory presumption applies. How should the substantive provision concerning punishment for rape in certain cases be considered alongside the evidentiary provision concerning the presumption of absence of consent in specified rape prosecutions?",
+    "referenced_sections": [
+      "bns_section_65",
+      "bsa_section_120"
+    ],
+    "answer": "The BNS provision concerning punishment for rape in certain cases addresses the applicable substantive offence and punishment. The BSA provision concerning the presumption as to absence of consent in certain rape prosecutions addresses a specific evidentiary presumption. The court must determine whether the facts and circumstances bring the prosecution within the scope of the presumption and the relevant substantive provision. The presumption should not be treated as universally applicable to every rape prosecution."
+  },
+  {
+    "question": "A person allegedly creates a false written instrument and submits it in court to support a claim over property. The opposing party disputes the document's authenticity and argues that the original document should be examined. Which legal principles address the alleged creation of a false document and the evidentiary significance of primary evidence?",
+    "referenced_sections": [
+      "bns_section_335",
+      "bsa_section_59"
+    ],
+    "answer": "The BNS provision concerning making a false document addresses the alleged creation of the instrument. The BSA provision concerning proof of documents by primary evidence addresses the evidentiary role of primary documentary evidence. The court must evaluate the alleged falsification under the substantive provision and determine how the document may be proved under the applicable evidence rules."
+  },
+  {
+    "question": "A public official is accused of deliberately preparing an incorrect official record to cause injury to another person. The prosecution seeks to rely on an entry in an official register created during the performance of the official's duties. How should the alleged offence involving an incorrect document be considered alongside the evidentiary rules concerning entries in public records?",
+    "referenced_sections": [
+      "bns_section_201",
+      "bsa_section_29"
+    ],
+    "answer": "The BNS provision concerning a public servant framing an incorrect document with intent to cause injury addresses the alleged official misconduct. The BSA provision concerning the relevance of entries in public records or electronic records made in the performance of duty addresses the evidentiary relevance of the register entry. The entry's relevance does not establish that it is accurate or that the official committed the alleged offence. The court must assess the record, the circumstances in which it was made, and the substantive requirements of the alleged offence."
+  }
+]

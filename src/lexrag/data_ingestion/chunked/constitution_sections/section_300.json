@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_300_chunk_0",
+    "section_id": "constitution_section_300",
+    "token_count": 226,
+    "text": "[Act: constitution\n Chapter: Finance, Property, Contracts and Suits\n Section: 300::Suits and proceedings\n]\n\n\n(1)The Government of India may sue or be sued by the name of the Union of India and the Government of a State may sue or be sued by the name of the State and may, subject to any provisions which may be made by Act of Parliament or of the Legislature of such State enacted by virtue of powers conferred by this Constitution, sue or be sued in relation to their respective affairs in the like cases as the Dominion of India and the corresponding Provinces or the corresponding Indian States might have sued or been sued if this Constitution had not been enacted.\n(2)If at the commencement of this Constitution—\n(a)any legal proceedings are pending to which the Dominion of India is a party, the Union of India shall be deemed to be substituted for the Dominion in those proceedings; and\n(b)any legal proceedings are pending to which a Province or an Indian State is a party, the corresponding State shall be deemed to be substituted for the Province or the Indian State in those proceedings.",
+    "metadata": {
+      "chunk_id": "constitution_section_300_chunk_0",
+      "section_id": "constitution_section_300",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part XII",
+      "chapter_title": "Finance, Property, Contracts and Suits",
+      "section_number": "300",
+      "section_title": "Suits and proceedings"
+    }
+  }
+]

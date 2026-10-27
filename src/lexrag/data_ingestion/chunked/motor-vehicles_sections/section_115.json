@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_115_chunk_0",
+    "section_id": "motor-vehicles_section_115",
+    "token_count": 206,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 115::Power to restrict the use of vehicles.\n]\n\n\nThe State Government or any authority authorised in this behalf by the State Government, if satisfied that it is necessary in the interest of public safety or convenience, or because of the nature of any road or bridge, may by notification in the Official Gazette, prohibit or restrict, subject to such exceptions and conditions as may be specified in the notification, the driving of motor vehicles or of any specified class or description of motor vehicles or the use of trailers either generally in a specified area or on a specified road and when any such prohibition or restriction is imposed, shall cause appropriate traffic signs to be placed or erected under section 116 at suitable places:\nProvided that where any prohibition or restriction under this section is to remain in force for not more than one month, notification thereof in the Official Gazette shall not be necessary, but such local publicity as the circumstances may permit, shall be given of such prohibition or restriction.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_115_chunk_0",
+      "section_id": "motor-vehicles_section_115",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "115",
+      "section_title": "Power to restrict the use of vehicles."
+    }
+  }
+]

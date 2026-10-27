@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_53_chunk_0",
+    "section_id": "easements_section_53",
+    "token_count": 54,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 53::Who may grant license.\n]\n\n\nA license may be granted by any one in the circumstances and to the extent in and to which he may transfer his interests in the property affected by the license.",
+    "metadata": {
+      "chunk_id": "easements_section_53_chunk_0",
+      "section_id": "easements_section_53",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "53",
+      "section_title": "Who may grant license."
+    }
+  }
+]

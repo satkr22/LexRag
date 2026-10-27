@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_141A_chunk_0",
+    "section_id": "income-tax-1961_section_141A",
+    "token_count": 29,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 141A::Provisional assessment for refund.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_141A_chunk_0",
+      "section_id": "income-tax-1961_section_141A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "141A",
+      "section_title": "Provisional assessment for refund."
+    }
+  }
+]

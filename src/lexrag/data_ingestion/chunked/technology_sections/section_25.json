@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_25_chunk_0",
+    "section_id": "technology_section_25",
+    "token_count": 280,
+    "text": "[Act: technology\n Chapter: Regulation of Certifying Authorities\n Section: 25::Suspension of licence.\n]\n\n\n(1) The Controller may, if he is satisfied after making such inquiry, as he may think fit, that a Certifying Authority has–\n(a) made a statement in, or in relation to, the application for the issue or renewal of the licence, which is incorrect or false in material particulars;\n(b) failed to comply with the terms and conditions subject to which the licence was granted;\n2[(c) failed to maintain the procedures and standards specified in section 30;]\n(d) contravened any provisions of this Act, rule, regulation or order made thereunder,\nrevoke the licence:\nProvided that no licence shall be revoked unless the Certifying Authority has been given a reasonable opportunity of showing cause against the proposed revocation.\n(2) The Controller may, if he has reasonable cause to believe that there is any ground for revoking a licence under sub-section (1), by order suspend such licence pending the completion of any enquiry ordered by him:\nProvided that no licence shall be suspended for a period exceeding ten days unless the Certifying Authority has been given a reasonable opportunity of showing cause against the proposed suspension.\n(3) No Certifying Authority whose licence has been suspended shall issue any 1[electronic signature] Certificate during such suspension.",
+    "metadata": {
+      "chunk_id": "technology_section_25_chunk_0",
+      "section_id": "technology_section_25",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Regulation of Certifying Authorities",
+      "section_number": "25",
+      "section_title": "Suspension of licence."
+    }
+  }
+]

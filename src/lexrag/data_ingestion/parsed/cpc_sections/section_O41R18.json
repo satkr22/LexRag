@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-60.html",
+    "source_order": 60,
+    "article_order": 20,
+    "order": 822,
+    "stem": "section_O41R18",
+    "heading_number": "Order XLI",
+    "heading_title": "Appeals from Original Decrees",
+    "heading_range": "41 rules",
+    "heading_source": "group-head",
+    "article_number": "O41R18",
+    "article_title": "Dismissal of appeal where notice not served in consequence of appellant’s failure to deposit cost",
+    "id": "cpc_section_O41R18"
+  },
+  "id": "cpc_section_O41R18",
+  "heading": {
+    "number": "Order XLI",
+    "title": "Appeals from Original Decrees",
+    "range": "41 rules"
+  },
+  "article": {
+    "number": "O41R18",
+    "title": "Dismissal of appeal where notice not served in consequence of appellant’s failure to deposit cost",
+    "content": "Omitted by the Code of Civil Procedure (Amendment)Act,1999 (46 of 1999) s. 31 (w.e.f. 1-7-2002).\n",
+    "html": "<article class=\"provision\" data-n=\"O41R18\" data-report=\"Order 41, Rule 18 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18</span>Dismissal of appeal where notice not served in consequence of appellant’s failure to deposit cost</h3></div><p class=\"prov-cite\">Order 41, Rule 18</p><div class=\"prov-body\"><p>Omitted by the Code of Civil Procedure (Amendment)Act,1999 (46 of 1999) s. 31 (w.e.f. 1-7-2002).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18</span>Dismissal of appeal where notice not served in consequence of appellant’s failure to deposit cost</h3></div><p class=\"prov-cite\">Order 41, Rule 18</p><div class=\"prov-body\"><p>Omitted by the Code of Civil Procedure (Amendment)Act,1999 (46 of 1999) s. 31 (w.e.f. 1-7-2002).</p></div>"
+  }
+}

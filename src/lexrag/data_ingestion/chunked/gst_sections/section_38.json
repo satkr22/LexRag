@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_38_chunk_0",
+    "section_id": "gst_section_38",
+    "token_count": 440,
+    "text": "[Act: gst\n Chapter: Returns\n Section: 38::Communication of details of inward supplies and input tax credit.\n]\n\n\n(1) The details of outward supplies furnished by the registered persons under sub-section (1) of section 37 and of such other supplies as may be prescribed, and 6[a statement] containing the details of input tax credit shall be made available electronically to the recipients of such supplies in such form and manner, within such time, and subject to such conditions and restrictions as may be prescribed.\n(2) The 7[statement referred in] sub-section (1) shall consist of––\n(a) details of inward supplies in respect of which credit of input tax may be available to the recipient; 8[***]\n(b) details of supplies in respect of which such credit cannot be availed, whether wholly or partly, by the recipient, 9[including] on account of the details of the said supplies being furnished under sub-section (1) of section 37,––\n(i) by any registered person within such period of taking registration as may be prescribed; or\n(ii) by any registered person, who has defaulted in payment of tax and where such default has continued for such period as may be prescribed; or\n(iii) by any registered person, the output tax payable by whom in accordance with the statement of outward supplies furnished by him under the said sub-section during such period, as may be prescribed, exceeds the output tax paid by him during the said period by such limit as may be prescribed; or\n(iv) by any registered person who, during such period as may be prescribed, has availed credit of input tax of an amount that exceeds the credit that can be availed by him in accordance with clause (a), by such limit as may be prescribed; or\n(v) by any registered person, who has defaulted in discharging his tax liability in accordance with the provisions of sub-section (12) of section 49 subject to such conditions and restrictions as may be prescribed; or\n(vi) by such other class of persons as may be prescribed.]\n1[(c) such other details as may be prescribed.]",
+    "metadata": {
+      "chunk_id": "gst_section_38_chunk_0",
+      "section_id": "gst_section_38",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Returns",
+      "section_number": "38",
+      "section_title": "Communication of details of inward supplies and input tax credit."
+    }
+  }
+]

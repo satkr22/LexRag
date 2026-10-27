@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-23.html",
+    "source_order": 23,
+    "article_order": 1,
+    "order": 23,
+    "stem": "section_23",
+    "heading_number": "Chapter III",
+    "heading_title": "Cenral Consumer Protection Authority",
+    "heading_range": "ss. 10–27",
+    "heading_source": "manifest",
+    "article_number": "23",
+    "article_title": "Designation of any statutory authority or body to function as Central Authority.",
+    "id": "consumer_section_23"
+  },
+  "id": "consumer_section_23",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Cenral Consumer Protection Authority",
+    "range": "ss. 10–27"
+  },
+  "article": {
+    "number": "23",
+    "title": "Designation of any statutory authority or body to function as Central Authority.",
+    "content": "The Central Government may, if it considers necessary, by notification, designate any statutory authority or body to exercise the powers and perform the functions of the Central Authority referred to in section 10.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Designation of any statutory authority or body to function as Central Authority.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter III  ·  page 17 of the Act</p><div class=\"prov-body\"><p>The Central Government may, if it considers necessary, by notification, designate any statutory authority or body to exercise the powers and perform the functions of the Central Authority referred to in section 10.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Designation of any statutory authority or body to function as Central Authority.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter III  ·  page 17 of the Act</p><div class=\"prov-body\"><p>The Central Government may, if it considers necessary, by notification, designate any statutory authority or body to exercise the powers and perform the functions of the Central Authority referred to in section 10.</p></div>"
+  }
+}

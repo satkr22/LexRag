@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-28.html",
+    "source_order": 28,
+    "article_order": 5,
+    "order": 380,
+    "stem": "section_O14R5",
+    "heading_number": "Order XIV",
+    "heading_title": "Settlement of Issues and Determination of Suit on Issues of Law or on Issues agreed upon",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O14R5",
+    "article_title": "Power to amend and strike out, issues.",
+    "id": "cpc_section_O14R5"
+  },
+  "id": "cpc_section_O14R5",
+  "heading": {
+    "number": "Order XIV",
+    "title": "Settlement of Issues and Determination of Suit on Issues of Law or on Issues agreed upon",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O14R5",
+    "title": "Power to amend and strike out, issues.",
+    "content": "(1) The Court may at any time before passing a decree amend the issues or frame additional issues on such terms as it thinks fit, and all such amendments or additional issues as may be necessary for determining the matters in controversy between the parties shall be so made or framed.\n(2) The Court may also, at any time before passing a decree, strike out any issues that appear to it to be wrongly framed or introduced.]\n",
+    "html": "<article class=\"provision\" data-n=\"O14R5\" data-report=\"Order 14, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Power to amend and strike out, issues.</h3></div><p class=\"prov-cite\">Order 14, Rule 5</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Court may at any time before passing a decree amend the issues or frame additional issues on such terms as it thinks fit, and all such amendments or additional issues as may be necessary for determining the matters in controversy between the parties shall be so made or framed.</p><p class=\"lvl\">(2) The Court may also, at any time before passing a decree, strike out any issues that appear to it to be wrongly framed or introduced.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 22 of 2002, s. 11, for rule 5 (w.e.f. 1-7-2002).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Power to amend and strike out, issues.</h3></div><p class=\"prov-cite\">Order 14, Rule 5</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Court may at any time before passing a decree amend the issues or frame additional issues on such terms as it thinks fit, and all such amendments or additional issues as may be necessary for determining the matters in controversy between the parties shall be so made or framed.</p><p class=\"lvl\">(2) The Court may also, at any time before passing a decree, strike out any issues that appear to it to be wrongly framed or introduced.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 22 of 2002, s. 11, for rule 5 (w.e.f. 1-7-2002).</p></div>"
+  }
+}

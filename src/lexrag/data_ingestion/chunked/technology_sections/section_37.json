@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_37_chunk_0",
+    "section_id": "technology_section_37",
+    "token_count": 176,
+    "text": "[Act: technology\n Chapter: Electronic Signature Certificates2\n Section: 37::Suspension of Digital Signature Certificate.\n]\n\n\n(1) Subject to the provisions of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature Certificate,–\n(a) on receipt of a request to that effect from–\n(i) the subscriber listed in the Digital Signature Certificate; or\n(ii) any person duly authorised to act on behalf of that subscriber;\n(b) if it is of opinion that the Digital Signature Certificate should be suspended in public interest.\n(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen days unless the subscriber has been given an opportunity of being heard in the matter.\n(3) On suspension of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber.",
+    "metadata": {
+      "chunk_id": "technology_section_37_chunk_0",
+      "section_id": "technology_section_37",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Electronic Signature Certificates2",
+      "section_number": "37",
+      "section_title": "Suspension of Digital Signature Certificate."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_80_chunk_0",
+    "section_id": "income-tax-2025_section_80",
+    "token_count": 102,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 80::Fair market value deemed to be full value of consideration in certain cases.\n]\n\n\nIf the consideration received or accruing from the transfer of a capital asset is not ascertainable or cannot be determined, its fair market value on the date of transfer shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of computing income under the head \"Capital gains\".",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_80_chunk_0",
+      "section_id": "income-tax-2025_section_80",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "80",
+      "section_title": "Fair market value deemed to be full value of consideration in certain cases."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_32_chunk_0",
+    "section_id": "sale-of-goods_section_32",
+    "token_count": 92,
+    "text": "[Act: sale-of-goods\n Chapter: Performance of the Contract\n Section: 32::Payment and delivery are concurrent conditions.\n]\n\n\nUnless otherwise agreed, delivery of the goods and payment of the price are concurrent conditions, that is to say, the seller shall be ready and willing to give possession of the goods to the buyer in exchange for the price, and the buyer shall be ready and willing to pay the price in exchange for possession of the goods.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_32_chunk_0",
+      "section_id": "sale-of-goods_section_32",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Performance of the Contract",
+      "section_number": "32",
+      "section_title": "Payment and delivery are concurrent conditions."
+    }
+  }
+]

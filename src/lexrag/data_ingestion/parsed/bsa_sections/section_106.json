@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-106.html",
+    "source_order": 106,
+    "article_order": 1,
+    "order": 106,
+    "stem": "section_106",
+    "heading_number": "Chapter VII",
+    "heading_title": "Of the Burden of Proof",
+    "heading_range": "104 – 120",
+    "heading_source": "manifest",
+    "article_number": "106",
+    "article_title": "Burden of proof as to particular fact",
+    "id": "bsa_section_106"
+  },
+  "id": "bsa_section_106",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Of the Burden of Proof",
+    "range": "104 – 120"
+  },
+  "article": {
+    "number": "106",
+    "title": "Burden of proof as to particular fact",
+    "content": "The burden of proof as to any particular fact lies on that person who wishes the Court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.\nIllustrations\nA prosecutes B for theft, and wishes the Court to believe that B admitted the theft to C. A must prove the admission. B wishes the Court to believe that, at the time in question, he was elsewhere. He must prove it.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Burden of proof as to particular fact</h3></div><p class=\"prov-cite\">Section 106 · Part IV · Chapter VII</p><div class=\"prov-body\"><p>The burden of proof as to any particular fact lies on that person who wishes the Court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A prosecutes B for theft, and wishes the Court to believe that B admitted the theft to C. A must prove the admission. B wishes the Court to believe that, at the time in question, he was elsewhere. He must prove it.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Burden of proof as to particular fact</h3></div><p class=\"prov-cite\">Section 106 · Part IV · Chapter VII</p><div class=\"prov-body\"><p>The burden of proof as to any particular fact lies on that person who wishes the Court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A prosecutes B for theft, and wishes the Court to believe that B admitted the theft to C. A must prove the admission. B wishes the Court to believe that, at the time in question, he was elsewhere. He must prove it.</p></div>"
+  }
+}

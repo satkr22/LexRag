@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 100,
+    "order": 163,
+    "stem": "section_144A",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "144A",
+    "article_title": "Special provisions as to disposal of questions relating to constitutional validity of laws",
+    "id": "constitution_section_144A"
+  },
+  "id": "constitution_section_144A",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "144A",
+    "title": "Special provisions as to disposal of questions relating to constitutional validity of laws",
+    "content": "Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 5 (w.e.f. 13-4-1978).\n",
+    "html": "<article class=\"provision\" data-n=\"144A\" data-report=\"Article 144A · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">144A</span>Special provisions as to disposal of questions relating to constitutional validity of laws</h3></div><p class=\"prov-cite\">Article 144A · Part V</p><div class=\"prov-body\"><p>Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 5 (w.e.f. 13-4-1978).</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 25 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">144A</span>Special provisions as to disposal of questions relating to constitutional validity of laws</h3></div><p class=\"prov-cite\">Article 144A · Part V</p><div class=\"prov-body\"><p>Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 5 (w.e.f. 13-4-1978).</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 25 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

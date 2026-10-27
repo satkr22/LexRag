@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "special-marriage_section_fourth-schedule_chunk_0",
+    "section_id": "special-marriage_section_fourth-schedule",
+    "token_count": 200,
+    "text": "[Act: special-marriage\n Chapter: Schedules · The Schedules\n Section: fourth-schedule::The Fourth Schedule\n]\n\n\nI, E.F., hereby certify that on the………………………………………………………………….day of ………………………………………………20…………..,A.B. and C.D* appeared before me and that each of them, in my presence and in the presence of three witnesses who have signed hereunder, made the declarations required by section 11 and that a marriage under this Act was solemnized between them in my presence.\n(Sd.) E.F.,\nMarriage Officer for\n(Sd.) A.B.,\nBridegroom\n(Sd.) C.D., Bride\n(Sd.) G.H.\n(Sd.) I.J. Three witnesses\n(Sd.) K.L.\nDated the day of 20\nNote: the asterisk after the parties' names is set at body size, not as a superscript; it answers the note at the foot of page 26.",
+    "metadata": {
+      "chunk_id": "special-marriage_section_fourth-schedule_chunk_0",
+      "section_id": "special-marriage_section_fourth-schedule",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "special-marriage",
+      "document_title": null,
+      "chapter_number": null,
+      "chapter_title": "Schedules · The Schedules",
+      "section_number": "fourth-schedule",
+      "section_title": "The Fourth Schedule"
+    }
+  }
+]

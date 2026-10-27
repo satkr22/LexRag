@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_112_chunk_0",
+    "section_id": "negotiable-instruments_section_112",
+    "token_count": 82,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Acceptance and Payment for Honour and Reference in Case of Need\n Section: 112::When acceptor for honour may be charged.\n]\n\n\nAn acceptor for honour cannot be charged unless the bill has at its maturity been presented to the drawee for payment, and has been dishonoured by him, and noted or protested for such dishonour.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_112_chunk_0",
+      "section_id": "negotiable-instruments_section_112",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Of Acceptance and Payment for Honour and Reference in Case of Need",
+      "section_number": "112",
+      "section_title": "When acceptor for honour may be charged."
+    }
+  }
+]

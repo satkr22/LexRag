@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-12.html",
+    "source_order": 12,
+    "article_order": 22,
+    "order": 162,
+    "stem": "section_151",
+    "heading_number": "Part Xi",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 132–158",
+    "heading_source": "group-head",
+    "article_number": "151",
+    "article_title": "Saving of inherent powers of Court.",
+    "id": "cpc_section_151"
+  },
+  "id": "cpc_section_151",
+  "heading": {
+    "number": "Part Xi",
+    "title": "Miscellaneous",
+    "range": "ss. 132–158"
+  },
+  "article": {
+    "number": "151",
+    "title": "Saving of inherent powers of Court.",
+    "content": "Nothing in this Code shall be deemed to limit or otherwise affect the inherent power of the Court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Court.\n",
+    "html": "<article class=\"provision\" data-n=\"151\" data-report=\"Section 151 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">151</span>Saving of inherent powers of Court.</h3></div><p class=\"prov-cite\">Section 151</p><div class=\"prov-body\"><p>Nothing in this Code shall be deemed to limit or otherwise affect the inherent power of the Court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">151</span>Saving of inherent powers of Court.</h3></div><p class=\"prov-cite\">Section 151</p><div class=\"prov-body\"><p>Nothing in this Code shall be deemed to limit or otherwise affect the inherent power of the Court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Court.</p></div>"
+  }
+}

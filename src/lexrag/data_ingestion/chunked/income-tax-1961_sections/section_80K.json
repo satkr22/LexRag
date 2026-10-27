@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80K_chunk_0",
+    "section_id": "income-tax-1961_section_80K",
+    "token_count": 52,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80K::Deduction in respect of dividends attributable to profits and gains from new industrial undertakings or ships or hotel business.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80K_chunk_0",
+      "section_id": "income-tax-1961_section_80K",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80K",
+      "section_title": "Deduction in respect of dividends attributable to profits and gains from new industrial undertakings or ships or hotel business."
+    }
+  }
+]

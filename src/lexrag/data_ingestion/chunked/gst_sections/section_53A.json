@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_53A_chunk_0",
+    "section_id": "gst_section_53A",
+    "token_count": 102,
+    "text": "[Act: gst\n Chapter: Payment of Tax\n Section: 53A::Transfer of certain amounts.\n]\n\n\nWhere any amount has been transferred from the electronic cash ledger under this Act to the electronic cash ledger under the State Goods and Services Tax Act or the Union territory Goods and Services Tax Act, the Government shall, transfer to the State tax account or the Union territory tax account, an amount equal to the amount transferred from the electronic cash ledger, in such manner and within such time as may be prescribed.]",
+    "metadata": {
+      "chunk_id": "gst_section_53A_chunk_0",
+      "section_id": "gst_section_53A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Payment of Tax",
+      "section_number": "53A",
+      "section_title": "Transfer of certain amounts."
+    }
+  }
+]

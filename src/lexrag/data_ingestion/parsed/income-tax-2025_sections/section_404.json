@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-19.html",
+    "source_order": 20,
+    "article_order": 15,
+    "order": 405,
+    "stem": "section_404",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 390–430",
+    "heading_source": "group-head",
+    "article_number": "404",
+    "article_title": "Conditions of liability to pay advance tax.",
+    "id": "income-tax-2025_section_404"
+  },
+  "id": "income-tax-2025_section_404",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 390–430"
+  },
+  "article": {
+    "number": "404",
+    "title": "Conditions of liability to pay advance tax.",
+    "content": "Advance tax shall be payable by the assessee during a financial year, where the amount of such tax payable during that year, as computed under this Part, is Rs. 10000 or more.\n",
+    "html": "<article class=\"provision\" data-n=\"404\" data-report=\"Section 404 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">404</span>Conditions of liability to pay advance tax.</h3></div><p class=\"prov-cite\">Section 404  ·  Chapter XIX  ·  C.—Advance payment of tax  ·  page 486 of the Act</p><div class=\"prov-body\"><p>Advance tax shall be payable by the assessee during a financial year, where the amount of such tax payable during that year, as computed under this Part, is Rs. 10000 or more.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">404</span>Conditions of liability to pay advance tax.</h3></div><p class=\"prov-cite\">Section 404  ·  Chapter XIX  ·  C.—Advance payment of tax  ·  page 486 of the Act</p><div class=\"prov-body\"><p>Advance tax shall be payable by the assessee during a financial year, where the amount of such tax payable during that year, as computed under this Part, is Rs. 10000 or more.</p></div>"
+  }
+}

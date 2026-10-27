@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "arbitration_section_16_chunk_0",
+    "section_id": "arbitration_section_16",
+    "token_count": 356,
+    "text": "[Act: arbitration\n Chapter: Jurisdiction of arbitral tribunals\n Section: 16::Competence of arbitral tribunal to rule on its jurisdiction.\n]\n\n\n(1) The arbitral tribunal may rule on its own jurisdiction, including ruling on any objections with respect to the existence or validity of the arbitration agreement, and for that purpose,—\n(a) an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract; and\n(b) a decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause.\n(2) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence; however, a party shall not be precluded from raising such a plea merely because that he has appointed, or participated in the appointment of, an arbitrator.\n(3) A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings.\n(4) The arbitral tribunal may, in either of the cases referred to in sub-section (2) or sub-section (3), admit a later plea if it considers the delay justified.\n(5) The arbitral tribunal shall decide on a plea referred to in sub-section (2) or sub-section (3) and, where the arbitral tribunal takes a decision rejecting the plea, continue with the arbitral proceedings and make an arbitral award.\n(6) A party aggrieved by such an arbitral award may make an application for setting aside such an arbitral award in accordance with section 34.",
+    "metadata": {
+      "chunk_id": "arbitration_section_16_chunk_0",
+      "section_id": "arbitration_section_16",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "arbitration",
+      "document_title": null,
+      "chapter_number": "Part I · Chapter IV",
+      "chapter_title": "Jurisdiction of arbitral tribunals",
+      "section_number": "16",
+      "section_title": "Competence of arbitral tribunal to rule on its jurisdiction."
+    }
+  }
+]

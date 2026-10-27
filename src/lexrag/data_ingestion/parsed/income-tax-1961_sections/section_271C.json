@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-48.html",
+    "source_order": 53,
+    "article_order": 15,
+    "order": 807,
+    "stem": "section_271C",
+    "heading_number": "Chapter XXI",
+    "heading_title": "Penalties Imposable",
+    "heading_range": "ss. 270–275",
+    "heading_source": "group-head",
+    "article_number": "271C",
+    "article_title": "Penalty for failure to deduct tax at source.",
+    "id": "income-tax-1961_section_271C"
+  },
+  "id": "income-tax-1961_section_271C",
+  "heading": {
+    "number": "Chapter XXI",
+    "title": "Penalties Imposable",
+    "range": "ss. 270–275"
+  },
+  "article": {
+    "number": "271C",
+    "title": "Penalty for failure to deduct tax at source.",
+    "content": "(1) If any person fails to—\n(a) deduct the whole or any part of the tax as required by or under the provisions of Chapter XVII-B; or\n(b) pay or ensure payment of, the whole or any part of the tax as required by or under—\n(i) sub-section (2) of section 115-O;\n(ii) the proviso to section 194B;\n(iii) the first proviso to sub-section (1) of section 194R; or\n(iv) the proviso to sub-section (1) of section 194S; or\n(v) sub-section (2) of section 194BA, then, such person shall be liable to pay, by way of penalty, a sum equal to the amount of tax which such person failed to deduct or pay or ensure payment of, as aforesaid.\n(2) Any penalty imposable under sub-section (1) shall be imposed by the Joint Commissioner:\n10[Provided that any penalty under sub-section (1) on or after the 1st day of April, 2025, shall be imposed by the Assessing Officer.]\n",
+    "html": "<article class=\"provision\" data-n=\"271C\" data-report=\"Section 271C · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">271C</span>Penalty for failure to deduct tax at source.</h3></div><p class=\"prov-cite\">Section 271C  ·  Chapter XXI  ·  page 972 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If any person fails to—</p><p class=\"lvl\">(a) deduct the whole or any part of the tax as required by or under the provisions of Chapter XVII-B; or</p><p class=\"lvl\">(b) pay or ensure payment of, the whole or any part of the tax as required by or under—</p><p class=\"lvl\">(i) sub-section (2) of section 115-O;</p><p class=\"lvl\">(ii) the proviso to section 194B;</p><p class=\"lvl\">(iii) the first proviso to sub-section (1) of section 194R; or</p><p class=\"lvl\">(iv) the proviso to sub-section (1) of section 194S; or</p><p class=\"lvl\">(v) sub-section (2) of section 194BA, then, such person shall be liable to pay, by way of penalty, a sum equal to the amount of tax which such person failed to deduct or pay or ensure payment of, as aforesaid.</p><p class=\"lvl\">(2) Any penalty imposable under sub-section (1) shall be imposed by the Joint Commissioner:</p><p class=\"prvso\"><sup>10</sup>[Provided that any penalty under sub-section (1) on or after the 1st day of April, 2025, shall be imposed by the Assessing Officer.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>10</sup> Ins. by Act No. 7 of 2025, w.e.f. 1-4-2025.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">271C</span>Penalty for failure to deduct tax at source.</h3></div><p class=\"prov-cite\">Section 271C  ·  Chapter XXI  ·  page 972 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If any person fails to—</p><p class=\"lvl\">(a) deduct the whole or any part of the tax as required by or under the provisions of Chapter XVII-B; or</p><p class=\"lvl\">(b) pay or ensure payment of, the whole or any part of the tax as required by or under—</p><p class=\"lvl\">(i) sub-section (2) of section 115-O;</p><p class=\"lvl\">(ii) the proviso to section 194B;</p><p class=\"lvl\">(iii) the first proviso to sub-section (1) of section 194R; or</p><p class=\"lvl\">(iv) the proviso to sub-section (1) of section 194S; or</p><p class=\"lvl\">(v) sub-section (2) of section 194BA, then, such person shall be liable to pay, by way of penalty, a sum equal to the amount of tax which such person failed to deduct or pay or ensure payment of, as aforesaid.</p><p class=\"lvl\">(2) Any penalty imposable under sub-section (1) shall be imposed by the Joint Commissioner:</p><p class=\"prvso\"><sup>10</sup>[Provided that any penalty under sub-section (1) on or after the 1st day of April, 2025, shall be imposed by the Assessing Officer.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>10</sup> Ins. by Act No. 7 of 2025, w.e.f. 1-4-2025.</p></div></div>"
+  }
+}

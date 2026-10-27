@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_11_chunk_0",
+    "section_id": "technology_section_11",
+    "token_count": 100,
+    "text": "[Act: technology\n Chapter: Attribution, Acknowledgment and Despatch of Electronic Records\n Section: 11::Attribution of electronic records.\n]\n\n\nAn electronic record shall be attributed to the originator–\n(a) if it was sent by the originator himself;\n(b) by a person who had the authority to act on behalf of the originator in respect of that electronic record; or\n(c) by an information system programmed by or on behalf of the originator to operate automatically.",
+    "metadata": {
+      "chunk_id": "technology_section_11_chunk_0",
+      "section_id": "technology_section_11",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Attribution, Acknowledgment and Despatch of Electronic Records",
+      "section_number": "11",
+      "section_title": "Attribution of electronic records."
+    }
+  }
+]

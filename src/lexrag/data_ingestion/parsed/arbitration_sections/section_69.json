@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-69.html",
+    "source_order": 93,
+    "article_order": 1,
+    "order": 93,
+    "stem": "section_69",
+    "heading_number": "Part III",
+    "heading_title": "Conciliation",
+    "heading_range": "ss. 61–81",
+    "heading_source": "manifest",
+    "article_number": "69",
+    "article_title": "Communication between conciliator and parties.",
+    "id": "arbitration_section_69"
+  },
+  "id": "arbitration_section_69",
+  "heading": {
+    "number": "Part III",
+    "title": "Conciliation",
+    "range": "ss. 61–81"
+  },
+  "article": {
+    "number": "69",
+    "title": "Communication between conciliator and parties.",
+    "content": "(1) The conciliator may invite the parties to meet him or may communicate with them orally or in writing. He may meet or communicate with the parties together or with each of them separately.\n(2) Unless the parties have agreed upon the place where meetings with the conciliator are to be held, such place shall be determined by the conciliator, after consultation with the parties, having regard to the circumstances of the conciliation proceedings.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">69</span>Communication between conciliator and parties.</h3></div><p class=\"prov-cite\">Section 69  ·  Part III  ·  page 36 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The conciliator may invite the parties to meet him or may communicate with them orally or in writing. He may meet or communicate with the parties together or with each of them separately.</p><p class=\"lvl\">(2) Unless the parties have agreed upon the place where meetings with the conciliator are to be held, such place shall be determined by the conciliator, after consultation with the parties, having regard to the circumstances of the conciliation proceedings.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">69</span>Communication between conciliator and parties.</h3></div><p class=\"prov-cite\">Section 69  ·  Part III  ·  page 36 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The conciliator may invite the parties to meet him or may communicate with them orally or in writing. He may meet or communicate with the parties together or with each of them separately.</p><p class=\"lvl\">(2) Unless the parties have agreed upon the place where meetings with the conciliator are to be held, such place shall be determined by the conciliator, after consultation with the parties, having regard to the circumstances of the conciliation proceedings.</p></div>"
+  }
+}

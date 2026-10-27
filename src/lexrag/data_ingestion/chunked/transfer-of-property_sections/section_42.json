@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_42_chunk_0",
+    "section_id": "transfer-of-property_section_42",
+    "token_count": 194,
+    "text": "[Act: transfer-of-property\n Chapter: Of Transfers of Property by Act of Parties1\n Section: 42::Transfer by person having authority to revoke former transfer.\n]\n\n\nWhere a person transfers any immoveable property, reserving power to revoke the transfer, and subsequently transfers the property for consideration to another transferee, such transfer operates in favour of such transferee (subject to any condition attached to the exercise of the power) as a revocation of the former transfer to the extent of the power.\nIllustration\nA lets a house to B, and reserves power to revoke the lease if, in the opinion of a specified surveyor, B should make a use of it detrimental to its value. Afterwards A, thinking that such a use has been made, lets the house to C. This operates as a revocation of B's lease subject to the opinion of the surveyor as to B's use of the house having been detrimental to its value.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_42_chunk_0",
+      "section_id": "transfer-of-property_section_42",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Transfers of Property by Act of Parties1",
+      "section_number": "42",
+      "section_title": "Transfer by person having authority to revoke former transfer."
+    }
+  }
+]

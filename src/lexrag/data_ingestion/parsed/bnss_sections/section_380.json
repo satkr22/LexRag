@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-28.html",
+    "source_order": 28,
+    "article_order": 2,
+    "order": 380,
+    "stem": "section_380",
+    "heading_number": "Chapter XXVIII",
+    "heading_title": "Provisions as to Offences Affecting the Administration of Justice",
+    "heading_range": "379 – 391",
+    "heading_source": "group-head",
+    "article_number": "380",
+    "article_title": "Appeal",
+    "id": "bnss_section_380"
+  },
+  "id": "bnss_section_380",
+  "heading": {
+    "number": "Chapter XXVIII",
+    "title": "Provisions as to Offences Affecting the Administration of Justice",
+    "range": "379 – 391"
+  },
+  "article": {
+    "number": "380",
+    "title": "Appeal",
+    "content": "(1)Any person on whose application any Court other than a High Court has refused to make a complaint under sub-section (1) or sub-section (2) of section 379, or against whom such a complaint has been made by such Court, may appeal to the Court to which such former Court is subordinate within the meaning of sub-section (4) of section 215, and the superior Court may thereupon, after notice to the parties concerned, direct the withdrawal of the complaint, or, as the case may be, making of the complaint which such former Court might have made under section 379, and, if it makes such complaint, the provisions of that section shall apply accordingly.\n(2)An order under this section, and subject to any such order, an order under section 379, shall be final, and shall not be subject to revision.\n",
+    "html": "<article class=\"provision\" data-n=\"380\" data-report=\"Section 380 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">380</span>Appeal</h3></div><p class=\"prov-cite\">Section 380 · Chapter XXVIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any person on whose application any Court other than a High Court has refused to make a complaint under sub-section (1) or sub-section (2) of section 379, or against whom such a complaint has been made by such Court, may appeal to the Court to which such former Court is subordinate within the meaning of sub-section (4) of section 215, and the superior Court may thereupon, after notice to the parties concerned, direct the withdrawal of the complaint, or, as the case may be, making of the complaint which such former Court might have made under section 379, and, if it makes such complaint, the provisions of that section shall apply accordingly.</p><p><span class=\"lbl\">(2)</span>An order under this section, and subject to any such order, an order under section 379, shall be final, and shall not be subject to revision.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">380</span>Appeal</h3></div><p class=\"prov-cite\">Section 380 · Chapter XXVIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any person on whose application any Court other than a High Court has refused to make a complaint under sub-section (1) or sub-section (2) of section 379, or against whom such a complaint has been made by such Court, may appeal to the Court to which such former Court is subordinate within the meaning of sub-section (4) of section 215, and the superior Court may thereupon, after notice to the parties concerned, direct the withdrawal of the complaint, or, as the case may be, making of the complaint which such former Court might have made under section 379, and, if it makes such complaint, the provisions of that section shall apply accordingly.</p><p><span class=\"lbl\">(2)</span>An order under this section, and subject to any such order, an order under section 379, shall be final, and shall not be subject to revision.</p></div>"
+  }
+}

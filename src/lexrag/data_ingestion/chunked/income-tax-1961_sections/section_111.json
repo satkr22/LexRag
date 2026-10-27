@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_111_chunk_0",
+    "section_id": "income-tax-1961_section_111",
+    "token_count": 175,
+    "text": "[Act: income-tax-1961\n Chapter: Determination of Tax in Certain Special Cases\n Section: 111::Tax on accumulated balance of recognised provident fund.\n]\n\n\n(1) Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income, owing to the provisions of rule 8 of Part A of the Fourth Schedule not being applicable, the Assessing Officer shall calculate the total of the various sums of tax in accordance with the provisions of sub-rule (1) of rule 9 thereof.\n(2) Where the accumulated balance due to an employee participating in a recognised provident fund which is not included in his total income under the provisions of rule 8 of Part A of the Fourth Schedule becomes payable, super-tax shall be calculated in the manner provided in sub-rule (2) of rule 9 thereof.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_111_chunk_0",
+      "section_id": "income-tax-1961_section_111",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Determination of Tax in Certain Special Cases",
+      "section_number": "111",
+      "section_title": "Tax on accumulated balance of recognised provident fund."
+    }
+  }
+]

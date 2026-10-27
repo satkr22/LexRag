@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-16.html",
+    "source_order": 16,
+    "article_order": 5,
+    "order": 302,
+    "stem": "section_302",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Of Offences Relating to Religion",
+    "heading_range": "298 – 302",
+    "heading_source": "group-head",
+    "article_number": "302",
+    "article_title": "Uttering words, etc., with deliberate intent to wound religious feelings of any person",
+    "id": "bns_section_302"
+  },
+  "id": "bns_section_302",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Of Offences Relating to Religion",
+    "range": "298 – 302"
+  },
+  "article": {
+    "number": "302",
+    "title": "Uttering words, etc., with deliberate intent to wound religious feelings of any person",
+    "content": "Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.\n",
+    "html": "<article class=\"provision\" data-n=\"302\" data-report=\"Section 302 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">302</span>Uttering words, etc., with deliberate intent to wound religious feelings of any person</h3></div><p class=\"prov-cite\">Section 302 · Chapter XVI</p><div class=\"prov-body\"><p>Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">302</span>Uttering words, etc., with deliberate intent to wound religious feelings of any person</h3></div><p class=\"prov-cite\">Section 302 · Chapter XVI</p><div class=\"prov-body\"><p>Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.</p></div>"
+  }
+}

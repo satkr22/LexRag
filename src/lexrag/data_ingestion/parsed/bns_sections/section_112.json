@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-06.html",
+    "source_order": 6,
+    "article_order": 13,
+    "order": 112,
+    "stem": "section_112",
+    "heading_number": "Chapter VI",
+    "heading_title": "Of Offences Affecting the Human Body",
+    "heading_range": "100 – 146",
+    "heading_source": "group-head",
+    "article_number": "112",
+    "article_title": "Petty organised crime",
+    "id": "bns_section_112"
+  },
+  "id": "bns_section_112",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Of Offences Affecting the Human Body",
+    "range": "100 – 146"
+  },
+  "article": {
+    "number": "112",
+    "title": "Petty organised crime",
+    "content": "(1)Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime.\nExplanationFor the purposes of this sub-section “theft” includes trick theft, theft from vehicle, dwelling house or business premises, cargo theft, pick pocketing, theft through card skimming, shoplifting and theft of Automated Teller Machine.\n(2)Whoever commits any petty organised crime shall be punished with imprisonment for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.\n",
+    "html": "<article class=\"provision\" data-n=\"112\" data-report=\"Section 112 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">112</span>Petty organised crime</h3></div><p class=\"prov-cite\">Section 112 · Chapter VI · Of offences affecting life</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>For the purposes of this sub-section “theft” includes trick theft, theft from vehicle, dwelling house or business premises, cargo theft, pick pocketing, theft through card skimming, shoplifting and theft of Automated Teller Machine.</p><p><span class=\"lbl\">(2)</span>Whoever commits any petty organised crime shall be punished with imprisonment for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">112</span>Petty organised crime</h3></div><p class=\"prov-cite\">Section 112 · Chapter VI · Of offences affecting life</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>For the purposes of this sub-section “theft” includes trick theft, theft from vehicle, dwelling house or business premises, cargo theft, pick pocketing, theft through card skimming, shoplifting and theft of Automated Teller Machine.</p><p><span class=\"lbl\">(2)</span>Whoever commits any petty organised crime shall be punished with imprisonment for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.</p></div>"
+  }
+}

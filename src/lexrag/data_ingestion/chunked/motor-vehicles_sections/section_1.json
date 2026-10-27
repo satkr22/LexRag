@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_1_chunk_0",
+    "section_id": "motor-vehicles_section_1",
+    "token_count": 126,
+    "text": "[Act: motor-vehicles\n Chapter: Preliminary\n Section: 1::Short title, extent and commencement.\n]\n\n\n(1) This Act may be called the Motor Vehicles Act, 1988.\n(2) It extends to the whole of India.\n(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different States and any reference in this Act to the commencement of this Act shall, in relation to a State, be construed as a reference to the coming into force of this Act in that State.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_1_chunk_0",
+      "section_id": "motor-vehicles_section_1",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement."
+    }
+  }
+]

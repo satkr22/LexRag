@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-9.html",
+    "source_order": 9,
+    "article_order": 1,
+    "order": 9,
+    "stem": "section_9",
+    "heading_number": "Chapter II",
+    "heading_title": "Consumer Protection Councils",
+    "heading_range": "ss. 3–9",
+    "heading_source": "manifest",
+    "article_number": "9",
+    "article_title": "Objects of District Council.",
+    "id": "consumer_section_9"
+  },
+  "id": "consumer_section_9",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Consumer Protection Councils",
+    "range": "ss. 3–9"
+  },
+  "article": {
+    "number": "9",
+    "title": "Objects of District Council.",
+    "content": "The objects of every District Council shall be to render advice on promotion and protection of consumer rights under this Act within the district.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Objects of District Council.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  page 13 of the Act</p><div class=\"prov-body\"><p>The objects of every District Council shall be to render advice on promotion and protection of consumer rights under this Act within the district.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Objects of District Council.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  page 13 of the Act</p><div class=\"prov-body\"><p>The objects of every District Council shall be to render advice on promotion and protection of consumer rights under this Act within the district.</p></div>"
+  }
+}

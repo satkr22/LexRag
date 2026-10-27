@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_42_chunk_0",
+    "section_id": "easements_section_42",
+    "token_count": 58,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 42::Extinction of useless easement.\n]\n\n\nAn easement is extinguished when it becomes incapable of being at any time under any circumstances beneficial to the dominant owner.",
+    "metadata": {
+      "chunk_id": "easements_section_42_chunk_0",
+      "section_id": "easements_section_42",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "42",
+      "section_title": "Extinction of useless easement."
+    }
+  }
+]

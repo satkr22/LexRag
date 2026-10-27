@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_190_chunk_0",
+    "section_id": "contract_section_190",
+    "token_count": 71,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 190::When agent cannot delegate.\n]\n\n\nAn agent cannot lawfully employ another to perform acts which he has expressly or impliedly undertaken to perform personally, unless by the ordinary custom of trade a sub-agent may, or, from the nature of the agency, a sub-agent must, be employed.",
+    "metadata": {
+      "chunk_id": "contract_section_190_chunk_0",
+      "section_id": "contract_section_190",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "190",
+      "section_title": "When agent cannot delegate."
+    }
+  }
+]

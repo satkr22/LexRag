@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 40,
+    "order": 103,
+    "stem": "section_91",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "91",
+    "article_title": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman",
+    "id": "constitution_section_91"
+  },
+  "id": "constitution_section_91",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "91",
+    "title": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman",
+    "content": "(1)While the office of Chairman is vacant, or during any period when the Vice-President is acting as, or discharging the functions of, President, the duties of the office shall be performed by the Deputy Chairman, or, if the office of Deputy Chairman is also vacant, by such member of the Council of States as the President may appoint for the purpose.\n(2)During the absence of the Chairman from any sitting of the Council of States the Deputy Chairman, or, if he is also absent, such person as may be determined by the rules of procedure of the Council, or, if no such person is present, such other person as may be determined by the Council, shall act as Chairman.\n",
+    "html": "<article class=\"provision\" data-n=\"91\" data-report=\"Article 91 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">91</span>Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman</h3></div><p class=\"prov-cite\">Article 91 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>While the office of Chairman is vacant, or during any period when the Vice-President is acting as, or discharging the functions of, President, the duties of the office shall be performed by the Deputy Chairman, or, if the office of Deputy Chairman is also vacant, by such member of the Council of States as the President may appoint for the purpose.</p><p><span class=\"lbl\">(2)</span>During the absence of the Chairman from any sitting of the Council of States the Deputy Chairman, or, if he is also absent, such person as may be determined by the rules of procedure of the Council, or, if no such person is present, such other person as may be determined by the Council, shall act as Chairman.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">91</span>Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman</h3></div><p class=\"prov-cite\">Article 91 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>While the office of Chairman is vacant, or during any period when the Vice-President is acting as, or discharging the functions of, President, the duties of the office shall be performed by the Deputy Chairman, or, if the office of Deputy Chairman is also vacant, by such member of the Council of States as the President may appoint for the purpose.</p><p><span class=\"lbl\">(2)</span>During the absence of the Chairman from any sitting of the Council of States the Deputy Chairman, or, if he is also absent, such person as may be determined by the rules of procedure of the Council, or, if no such person is present, such other person as may be determined by the Council, shall act as Chairman.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-07.html",
+    "source_order": 7,
+    "article_order": 2,
+    "order": 95,
+    "stem": "section_95",
+    "heading_number": "Chapter VII",
+    "heading_title": "Processes to Compel the Production of Things",
+    "heading_range": "94 – 110",
+    "heading_source": "group-head",
+    "article_number": "95",
+    "article_title": "Procedure as to letters",
+    "id": "bnss_section_95"
+  },
+  "id": "bnss_section_95",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Processes to Compel the Production of Things",
+    "range": "94 – 110"
+  },
+  "article": {
+    "number": "95",
+    "title": "Procedure as to letters",
+    "content": "(1)If any document, parcel or thing in the custody of a postal authority is, in the opinion of the District Magistrate, Chief Judicial Magistrate, Court of Session or High Court wanted for the purpose of any investigation, inquiry, trial or other proceeding under this Sanhita, such Magistrate or Court may require the postal authority to deliver the document, parcel or thing to such person as the Magistrate or Court directs.\n(2)If any such document, parcel or thing is, in the opinion of any other Magistrate, whether Executive or Judicial, or of any Commissioner of Police or District Superintendent of Police, wanted for any such purpose, he may require the postal authority to cause search to be made for and to detain such document, parcel or thing pending the order of a District Magistrate, Chief Judicial Magistrate or Court under sub-section (1).\n",
+    "html": "<article class=\"provision\" data-n=\"95\" data-report=\"Section 95 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">95</span>Procedure as to letters</h3></div><p class=\"prov-cite\">Section 95 · Chapter VII · Summons to produce</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If any document, parcel or thing in the custody of a postal authority is, in the opinion of the District Magistrate, Chief Judicial Magistrate, Court of Session or High Court wanted for the purpose of any investigation, inquiry, trial or other proceeding under this Sanhita, such Magistrate or Court may require the postal authority to deliver the document, parcel or thing to such person as the Magistrate or Court directs.</p><p><span class=\"lbl\">(2)</span>If any such document, parcel or thing is, in the opinion of any other Magistrate, whether Executive or Judicial, or of any Commissioner of Police or District Superintendent of Police, wanted for any such purpose, he may require the postal authority to cause search to be made for and to detain such document, parcel or thing pending the order of a District Magistrate, Chief Judicial Magistrate or Court under sub-section (1).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">95</span>Procedure as to letters</h3></div><p class=\"prov-cite\">Section 95 · Chapter VII · Summons to produce</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If any document, parcel or thing in the custody of a postal authority is, in the opinion of the District Magistrate, Chief Judicial Magistrate, Court of Session or High Court wanted for the purpose of any investigation, inquiry, trial or other proceeding under this Sanhita, such Magistrate or Court may require the postal authority to deliver the document, parcel or thing to such person as the Magistrate or Court directs.</p><p><span class=\"lbl\">(2)</span>If any such document, parcel or thing is, in the opinion of any other Magistrate, whether Executive or Judicial, or of any Commissioner of Police or District Superintendent of Police, wanted for any such purpose, he may require the postal authority to cause search to be made for and to detain such document, parcel or thing pending the order of a District Magistrate, Chief Judicial Magistrate or Court under sub-section (1).</p></div>"
+  }
+}

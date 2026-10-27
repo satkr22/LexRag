@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "cpc_section_O11CR6_chunk_0",
+    "section_id": "cpc_section_O11CR6",
+    "token_count": 472,
+    "text": "[Act: cpc\n Chapter: Disclosure, Discovery and inspection of documents in suits before the commercial division of a high court or a commercial court\n Section: O11CR6::Electronic records.\n]\n\n\n(1) In case of disclosures and inspection of Electronic Records (as defined in the Information Technology Act, 2000 (21 of 2000), furnishing of printouts shall be sufficient compliance of the above provisions.\n(2) At the discretion of the parties or where required (when parties wish to rely on audio or video content), copies of electronic records may be furnished in electronic form either in addition to or in lieu of printouts.\n(3) Where Electronic Records form part of documents disclosed, the declaration on oath to be filed by a party shall specify––\n(a) the parties to such Electronic Record;\n(b) the manner in which such electronic record was produced and by whom;\n(c) the dates and time of preparation or storage or issuance or receipt of each such electronic record;\n(d) the source of such electronic record and date and time when the electronic record was printed;\n(e) in case of e-mail ids, details of ownership, custody and access to such e-mail ids;\n(f) in case of documents stored on a computer or computer resource (including on external servers or cloud), details of ownership, custody and access to such data on the computer or computer resource;\n(g) deponent’s knowledge of contents and correctness of contents;\n(h) whether the computer or computer resource used for preparing or receiving or storing such document or data was functioning properly or in case of malfunction that such malfunction did not affect the contents of the document stored;\n(i) that the printout or copy furnished was taken from the original computer or computer resource.\n(4) The parties relying on printouts or copy in electronic form, of any electronic records, shall not be required to give inspection of electronic records, provided a declaration is made by such party that each such copy, which has been produced, has been made from the original electronic record.\n(5) The Court may give directions for admissibility of Electronic Records at any stage of the proceedings.\n(6) Any party may seek directions from the Court and the Court may of its motion issue directions for submission of further proof of any electronic record including metadata or logs before admission of such electronic record.",
+    "metadata": {
+      "chunk_id": "cpc_section_O11CR6_chunk_0",
+      "section_id": "cpc_section_O11CR6",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "cpc",
+      "document_title": "The Code of Civil Procedure, 1908",
+      "chapter_number": "Order XI (Commercial)",
+      "chapter_title": "Disclosure, Discovery and inspection of documents in suits before the commercial division of a high court or a commercial court",
+      "section_number": "O11CR6",
+      "section_title": "Electronic records."
+    }
+  }
+]

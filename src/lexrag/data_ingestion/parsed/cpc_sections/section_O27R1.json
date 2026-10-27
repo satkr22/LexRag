@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-44.html",
+    "source_order": 44,
+    "article_order": 1,
+    "order": 653,
+    "stem": "section_O27R1",
+    "heading_number": "Order XXVII",
+    "heading_title": "Suits by or against the government or public officers in their official capacity",
+    "heading_range": "12 rules",
+    "heading_source": "group-head",
+    "article_number": "O27R1",
+    "article_title": "Suits by or against Government.",
+    "id": "cpc_section_O27R1"
+  },
+  "id": "cpc_section_O27R1",
+  "heading": {
+    "number": "Order XXVII",
+    "title": "Suits by or against the government or public officers in their official capacity",
+    "range": "12 rules"
+  },
+  "article": {
+    "number": "O27R1",
+    "title": "Suits by or against Government.",
+    "content": "In any suit by or against 3[the Government], the plaint or written statement shall be signed by such person as the Government may, by general or special order, appoint in this behalf, and shall be verified by any person whom the Government may so appoint and who is acquainted with the facts of the case.\n",
+    "html": "<article class=\"provision\" data-n=\"O27R1\" data-report=\"Order 27, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Suits by or against Government.</h3></div><p class=\"prov-cite\">Order 27, Rule 1</p><div class=\"prov-body\"><p>In any suit by or against <sup>3</sup>[the Government], the plaint or written statement shall be signed by such person as the Government may, by general or special order, appoint in this behalf, and shall be verified by any person whom the Government may so appoint and who is acquainted with the facts of the case.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by A.O. 1937, for “the Secretary of State for India in Council”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Suits by or against Government.</h3></div><p class=\"prov-cite\">Order 27, Rule 1</p><div class=\"prov-body\"><p>In any suit by or against <sup>3</sup>[the Government], the plaint or written statement shall be signed by such person as the Government may, by general or special order, appoint in this behalf, and shall be verified by any person whom the Government may so appoint and who is acquainted with the facts of the case.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by A.O. 1937, for “the Secretary of State for India in Council”.</p></div>"
+  }
+}

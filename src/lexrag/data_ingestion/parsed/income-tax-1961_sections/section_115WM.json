@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-31.html",
+    "source_order": 35,
+    "article_order": 16,
+    "order": 425,
+    "stem": "section_115WM",
+    "heading_number": "Chapter XII-H",
+    "heading_title": "Income-tax on Fringe Benefits",
+    "heading_range": "ss. 115W–115WM",
+    "heading_source": "group-head",
+    "article_number": "115WM",
+    "article_title": "Chapter XII-H not to apply after a certain date.",
+    "id": "income-tax-1961_section_115WM"
+  },
+  "id": "income-tax-1961_section_115WM",
+  "heading": {
+    "number": "Chapter XII-H",
+    "title": "Income-tax on Fringe Benefits",
+    "range": "ss. 115W–115WM"
+  },
+  "article": {
+    "number": "115WM",
+    "title": "Chapter XII-H not to apply after a certain date.",
+    "content": "Nothing contained in this Chapter shall apply, in respect of any assessment for the assessment year commencing on the 1st day of April, 2010 or any subsequent assessment year.\n",
+    "html": "<article class=\"provision\" data-n=\"115WM\" data-report=\"Section 115WM · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115WM</span>Chapter XII-H not to apply after a certain date.</h3></div><p class=\"prov-cite\">Section 115WM  ·  Chapter XII-H  ·  C.—Procedure for filing of return in respect of fringe benefits, assessment and payment of tax in respect thereof  ·  page 555 of the Act</p><div class=\"prov-body\"><p>Nothing contained in this Chapter shall apply, in respect of any assessment for the assessment year commencing on the 1st day of April, 2010 or any subsequent assessment year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115WM</span>Chapter XII-H not to apply after a certain date.</h3></div><p class=\"prov-cite\">Section 115WM  ·  Chapter XII-H  ·  C.—Procedure for filing of return in respect of fringe benefits, assessment and payment of tax in respect thereof  ·  page 555 of the Act</p><div class=\"prov-body\"><p>Nothing contained in this Chapter shall apply, in respect of any assessment for the assessment year commencing on the 1st day of April, 2010 or any subsequent assessment year.</p></div>"
+  }
+}

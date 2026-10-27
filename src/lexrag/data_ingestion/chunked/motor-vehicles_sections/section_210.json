@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_210_chunk_0",
+    "section_id": "motor-vehicles_section_210",
+    "token_count": 151,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 210::Courts to send intimation about conviction.\n]\n\n\nEvery Court by which any person holding a driving licence is convicted of an offence under this Act or of an offence in the commission of which a motor vehicle was used, shall send intimation to—\n(a) the licensing authority which issued the driving licence, and\n(b) the licensing authority by whom the licence was last renewed,\nand every such intimation shall state the name and address of the holder of the licence, the licence number, the date of issue and renewal of the same, the nature of the offence, the punishment awarded for the same and such other particulars as may be prescribed.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_210_chunk_0",
+      "section_id": "motor-vehicles_section_210",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "210",
+      "section_title": "Courts to send intimation about conviction."
+    }
+  }
+]

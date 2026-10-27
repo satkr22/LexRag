@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-132.html",
+    "source_order": 133,
+    "article_order": 1,
+    "order": 133,
+    "stem": "section_132",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Of Indemnity and Guarantee",
+    "heading_range": "ss. 124–147",
+    "heading_source": "manifest",
+    "article_number": "132",
+    "article_title": "Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on other’s default.",
+    "id": "contract_section_132"
+  },
+  "id": "contract_section_132",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Of Indemnity and Guarantee",
+    "range": "ss. 124–147"
+  },
+  "article": {
+    "number": "132",
+    "title": "Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on other’s default.",
+    "content": "Where two persons contract with a third person to undertake a certain liability, and also contract with each other that one of them shall be liable only on the default of the other, the third person not being a party to such contract, the liability of each of such two persons to the third person under the first contract is not affected by the existence of the second contract, although such third person may have been aware of its existence.\nIllustration\nA and B make a joint and several promissory note to C. A makes it, in fact, as surety for B, and C knows this at the time when the note is made. The fact that A, to the knowledge of C, made the note as surety for B, is no answer to a suit by C against A upon the note.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">132</span>Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on other’s default.</h3></div><p class=\"prov-cite\">Section 132  ·  Chapter VIII  ·  page 35 of the Act</p><div class=\"prov-body\"><p>Where two persons contract with a third person to undertake a certain liability, and also contract with each other that one of them shall be liable only on the default of the other, the third person not being a party to such contract, the liability of each of such two persons to the third person under the first contract is not affected by the existence of the second contract, although such third person may have been aware of its existence.</p><p class=\"illus-head\">Illustration</p><p class=\"illus\">A and B make a joint and several promissory note to C. A makes it, in fact, as surety for B, and C knows this at the time when the note is made. The fact that A, to the knowledge of C, made the note as surety for B, is no answer to a suit by C against A upon the note.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">132</span>Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on other’s default.</h3></div><p class=\"prov-cite\">Section 132  ·  Chapter VIII  ·  page 35 of the Act</p><div class=\"prov-body\"><p>Where two persons contract with a third person to undertake a certain liability, and also contract with each other that one of them shall be liable only on the default of the other, the third person not being a party to such contract, the liability of each of such two persons to the third person under the first contract is not affected by the existence of the second contract, although such third person may have been aware of its existence.</p><p class=\"illus-head\">Illustration</p><p class=\"illus\">A and B make a joint and several promissory note to C. A makes it, in fact, as surety for B, and C knows this at the time when the note is made. The fact that A, to the knowledge of C, made the note as surety for B, is no answer to a suit by C against A upon the note.</p></div>"
+  }
+}

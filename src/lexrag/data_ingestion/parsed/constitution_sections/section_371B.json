@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-25.html",
+    "source_order": 25,
+    "article_order": 5,
+    "order": 471,
+    "stem": "section_371B",
+    "heading_number": "Part XXI",
+    "heading_title": "Temporary, Transitional and Special Provisions",
+    "heading_range": "369 – 392",
+    "heading_source": "group-head",
+    "article_number": "371B",
+    "article_title": "Special provision with respect to the State of Assam",
+    "id": "constitution_section_371B"
+  },
+  "id": "constitution_section_371B",
+  "heading": {
+    "number": "Part XXI",
+    "title": "Temporary, Transitional and Special Provisions",
+    "range": "369 – 392"
+  },
+  "article": {
+    "number": "371B",
+    "title": "Special provision with respect to the State of Assam",
+    "content": "1[Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Assam, provide for the constitution and functions of a committee of the Legislative Assembly of the State consisting of members of that Assembly elected from the tribal areas specified in 2[Part I] of the table appended to paragraph 20 of the Sixth Schedule and such number of other members of that Assembly as may be specified in the order and for the modifications to be made in the rules of procedure of that Assembly for the constitution and proper functioning of such committee.]\n",
+    "html": "<article class=\"provision\" data-n=\"371B\" data-report=\"Article 371B · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">371B</span>Special provision with respect to the State of Assam</h3></div><p class=\"prov-cite\">Article 371B · Part XXI</p><div class=\"prov-body\"><p><sup>1</sup>[Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Assam, provide for the constitution and functions of a committee of the Legislative Assembly of the State consisting of members of that Assembly elected from the tribal areas specified in <sup>2</sup>[Part I] of the table appended to paragraph 20 of the Sixth Schedule and such number of other members of that Assembly as may be specified in the order and for the modifications to be made in the rules of procedure of that Assembly for the constitution and proper functioning of such committee.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Twenty-second Amendment) Act, 1969, s. 4 (w.e.f. 25-9-1969).</p><p class=\"fn\"><sup>2</sup> Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71, for \"Part A\" (w.e.f. 21-1-1972).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">371B</span>Special provision with respect to the State of Assam</h3></div><p class=\"prov-cite\">Article 371B · Part XXI</p><div class=\"prov-body\"><p><sup>1</sup>[Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Assam, provide for the constitution and functions of a committee of the Legislative Assembly of the State consisting of members of that Assembly elected from the tribal areas specified in <sup>2</sup>[Part I] of the table appended to paragraph 20 of the Sixth Schedule and such number of other members of that Assembly as may be specified in the order and for the modifications to be made in the rules of procedure of that Assembly for the constitution and proper functioning of such committee.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Twenty-second Amendment) Act, 1969, s. 4 (w.e.f. 25-9-1969).</p><p class=\"fn\"><sup>2</sup> Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71, for \"Part A\" (w.e.f. 21-1-1972).</p></div>"
+  }
+}

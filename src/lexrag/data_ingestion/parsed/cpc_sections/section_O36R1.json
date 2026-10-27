@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-55.html",
+    "source_order": 55,
+    "article_order": 1,
+    "order": 759,
+    "stem": "section_O36R1",
+    "heading_number": "Order XXXVI",
+    "heading_title": "Special Case",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O36R1",
+    "article_title": "Power to state case for Court’s opinion.",
+    "id": "cpc_section_O36R1"
+  },
+  "id": "cpc_section_O36R1",
+  "heading": {
+    "number": "Order XXXVI",
+    "title": "Special Case",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O36R1",
+    "title": "Power to state case for Court’s opinion.",
+    "content": "(1) Parties claiming to be interested in the decision of any question of fact or law may enter into an agreement in writing stating such question in the form of a case for the opinion of the Court, and providing that, upon the finding of the Court with respect to such question,—\n(a) a sum of money fixed by the parties or to be determined by the Court shall be paid by one of the parties to the other of them; or\n(b) some property, movable or immovable, specified in the agreement, shall be delivered by one of the parties to the other of them; or\n(c) one or more of the parties shall do, or refrain from doing, some other particular act specified in the agreement.\n(2) Every case stated under this rule shall be divided into consecutively numbered paragraphs, and shall concisely state such facts and specify such documents as may be necessary to enable the Court to decide the question raised thereby.\n",
+    "html": "<article class=\"provision\" data-n=\"O36R1\" data-report=\"Order 36, Rule 1 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Power to state case for Court’s opinion.</h3></div><p class=\"prov-cite\">Order 36, Rule 1</p><div class=\"prov-body\"><p class=\"lvl\">(1) Parties claiming to be interested in the decision of any question of fact or law may enter into an agreement in writing stating such question in the form of a case for the opinion of the Court, and providing that, upon the finding of the Court with respect to such question,—</p><p class=\"lvl\">(a) a sum of money fixed by the parties or to be determined by the Court shall be paid by one of the parties to the other of them; or</p><p class=\"lvl\">(b) some property, movable or immovable, specified in the agreement, shall be delivered by one of the parties to the other of them; or</p><p class=\"lvl\">(c) one or more of the parties shall do, or refrain from doing, some other particular act specified in the agreement.</p><p class=\"lvl\">(2) Every case stated under this rule shall be divided into consecutively numbered paragraphs, and shall concisely state such facts and specify such documents as may be necessary to enable the Court to decide the question raised thereby.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Power to state case for Court’s opinion.</h3></div><p class=\"prov-cite\">Order 36, Rule 1</p><div class=\"prov-body\"><p class=\"lvl\">(1) Parties claiming to be interested in the decision of any question of fact or law may enter into an agreement in writing stating such question in the form of a case for the opinion of the Court, and providing that, upon the finding of the Court with respect to such question,—</p><p class=\"lvl\">(a) a sum of money fixed by the parties or to be determined by the Court shall be paid by one of the parties to the other of them; or</p><p class=\"lvl\">(b) some property, movable or immovable, specified in the agreement, shall be delivered by one of the parties to the other of them; or</p><p class=\"lvl\">(c) one or more of the parties shall do, or refrain from doing, some other particular act specified in the agreement.</p><p class=\"lvl\">(2) Every case stated under this rule shall be divided into consecutively numbered paragraphs, and shall concisely state such facts and specify such documents as may be necessary to enable the Court to decide the question raised thereby.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_272BB_chunk_0",
+    "section_id": "income-tax-1961_section_272BB",
+    "token_count": 245,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 272BB::Penalty for failure to comply with the provisions of section 203A.\n]\n\n\n(1) If a person fails to comply with the provisions of section 203A, he shall, on an order passed by the Assessing Officer, pay, by way of penalty, a sum of ten thousand rupees.\n(1A) If a person who is required to quote his \"tax deduction account number\" or, as the case may be, \"tax collection account number\" or \"tax deduction and collection account number\" in the challans or certificates or statements or other documents referred to in sub-section (2) of section 203A, quotes a number which is false, and which he either knows or believes to be false or does not believe to be true, the Assessing Officer may direct that such person shall pay, by way of penalty, a sum of ten thousand rupees.\n(2) No order under sub-section (1) or sub-section (1A) shall be passed unless the person on whom the penalty is proposed to be imposed is given an opportunity of being heard in the matter.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_272BB_chunk_0",
+      "section_id": "income-tax-1961_section_272BB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "272BB",
+      "section_title": "Penalty for failure to comply with the provisions of section 203A."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_142_chunk_0",
+    "section_id": "motor-vehicles_section_142",
+    "token_count": 26,
+    "text": "[Act: motor-vehicles\n Chapter: Liability Without Fault in Certain Cases\n Section: 142::Permanent disablement\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_142_chunk_0",
+      "section_id": "motor-vehicles_section_142",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Liability Without Fault in Certain Cases",
+      "section_number": "142",
+      "section_title": "Permanent disablement"
+    }
+  }
+]

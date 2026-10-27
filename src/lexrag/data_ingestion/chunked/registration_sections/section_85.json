@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "registration_section_85_chunk_0",
+    "section_id": "registration_section_85",
+    "token_count": 46,
+    "text": "[Act: registration\n Chapter: Miscellaneous\n Section: 85::Destruction of unclaimed documents.\n]\n\n\nDocuments (other than wills) remaining unclaimed in any registration office for a period exceeding two years may be destroyed.",
+    "metadata": {
+      "chunk_id": "registration_section_85_chunk_0",
+      "section_id": "registration_section_85",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "registration",
+      "document_title": null,
+      "chapter_number": "Part XV",
+      "chapter_title": "Miscellaneous",
+      "section_number": "85",
+      "section_title": "Destruction of unclaimed documents."
+    }
+  }
+]

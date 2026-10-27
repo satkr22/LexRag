@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194-O_chunk_0",
+    "section_id": "income-tax-1961_section_194-O",
+    "token_count": 476,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194-O::Payment of certain sums by e-commerce operator to e-commerce participant.\n]\n\n\n(1) Notwithstanding anything to the contrary contained in any of the provisions of Part B of this Chapter, where sale of goods or provision of services of an e-commerce participant is facilitated by an e-commerce operator through its digital or electronic facility or platform (by whatever name called), such e-commerce operator shall, at the time of credit of amount of sale or services or both to the account of an e-commerce participant or at the time of payment thereof to such e-commerce participant by any mode, whichever is earlier, deduct income-tax at the rate of 48 [0.1] per cent of the gross amount of such sales or services or both.\n  Explanation.—For the purposes of this sub-section, any payment made by a purchaser of goods or recipient of services directly to an e-commerce participant for the sale of goods or provision of services or both, facilitated by an e-commerce operator, shall be deemed to be the amount credited or paid by the e-commerce operator to the e-commerce participant and shall be included in the gross amount of such sale or services for the purpose of deduction of income-tax under this sub-section.\n  (2) No deduction under sub-section (1) shall be made from any sum credited or paid or likely to be credited or paid during the previous year to the account of an e-commerce participant, being an individual or Hindu undivided family, where the gross amount of such sale or services or both during the previous year does not exceed five lakh rupees and such e-commerce participant has furnished his Permanent Account Number or Aadhaar number to the e-commerce operator.\n  (3) Notwithstanding anything contained in Part B of this Chapter, a transaction in respect of which tax has been deducted by the e-commerce operator under sub-section (1), or which is not liable to deduction under sub-section (2), shall not be liable to tax deduction at source under any other provision of this Chapter:\n  Provided that the provisions of this sub-section shall not apply to any amount or aggregate of amounts received or receivable by an e-commerce operator for hosting advertisements or providing any other services which are not in connection with the sale or services referred to in sub-section (1).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194-O_chunk_0",
+      "section_id": "income-tax-1961_section_194-O",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194-O",
+      "section_title": "Payment of certain sums by e-commerce operator to e-commerce participant."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_194-O_chunk_1",
+    "section_id": "income-tax-1961_section_194-O",
+    "token_count": 417,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194-O::Payment of certain sums by e-commerce operator to e-commerce participant.\n]\n\n\n(1) Notwithstanding anything to the contrary contained in any of the provisions of Part B of this Chapter, where sale of goods or provision of services of an e-commerce participant is facilitated by an e-commerce operator through its digital or electronic facility or platform (by whatever name called), such e-commerce operator shall, at the time of credit of amount of sale or services or both to the account of an e-commerce participant or at the time of payment thereof to such e-commerce participant by any mode, whichever is earlier, deduct income-tax at the rate of 48 [0.1] per cent of the gross amount of such sales or services or both.\n  (4) If any difficulty arises in giving effect to the provisions of this section, the Board may, with the approval of the Central Government, issue guidelines for the purpose of removing the difficulty.\n  (5) Every guideline issued by the Board under sub-section (4) shall be laid before each House of Parliament, and shall be binding on the income-tax authorities and on the e-commerce operator.\n  (6) For the purposes of this section, e-commerce operator shall be deemed to be the person responsible for paying to e-commerce participant.\n  Explanation.—For the purposes of this section,—\n  (a) \"electronic commerce\" means the supply of goods or services or both, including digital products, over digital or electronic network;\n  (b) \"e-commerce operator\" means a person who owns, operates or manages digital or electronic facility or platform for electronic commerce;\n  (c) \"e-commerce participant\" means a person resident in India selling goods or providing services or both, including digital products, through digital or electronic facility or platform for electronic commerce;\n  (d) \"services\" includes \"fees for technical services\" and fees for \"professional services\", as defined in the Explanation to section 194J.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194-O_chunk_1",
+      "section_id": "income-tax-1961_section_194-O",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194-O",
+      "section_title": "Payment of certain sums by e-commerce operator to e-commerce participant."
+    }
+  }
+]

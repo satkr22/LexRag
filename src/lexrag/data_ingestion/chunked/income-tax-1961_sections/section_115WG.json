@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115WG_chunk_0",
+    "section_id": "income-tax-1961_section_115WG",
+    "token_count": 247,
+    "text": "[Act: income-tax-1961\n Chapter: Income-tax on Fringe Benefits\n Section: 115WG::Fringe benefits escaping assessment.\n]\n\n\nIf the Assessing Officer has reason to believe that any fringe benefits chargeable to tax have escaped assessment for any assessment year, he may, subject to the provisions of sections 115WH, 150 and 153, assess or reassess such fringe benefits and also any other fringe benefits chargeable to tax which have escaped assessment and which come to his notice subsequently in the course of the proceedings under this section, for the assessment year concerned (hereafter referred to as the relevant assessment year).\nExplanation.—For the purposes of this section, the following shall also be deemed to be cases where fringe benefits chargeable to tax have escaped assessment, namely:—\n(a) where no return of fringe benefits has been furnished by the assessee;\n(b) where a return of fringe benefits has been furnished by the assessee but no assessment has been made and it is noticed by the Assessing Officer that the assessee has understated the value of fringe benefits in the return;\n(c) where an assessment has been made, but the fringe benefits chargeable to tax have been under-assessed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115WG_chunk_0",
+      "section_id": "income-tax-1961_section_115WG",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-H",
+      "chapter_title": "Income-tax on Fringe Benefits",
+      "section_number": "115WG",
+      "section_title": "Fringe benefits escaping assessment."
+    }
+  }
+]

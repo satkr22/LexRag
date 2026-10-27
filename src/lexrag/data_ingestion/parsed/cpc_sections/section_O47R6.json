@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-66.html",
+    "source_order": 66,
+    "article_order": 6,
+    "order": 884,
+    "stem": "section_O47R6",
+    "heading_number": "Order XLVII",
+    "heading_title": "Review",
+    "heading_range": "9 rules",
+    "heading_source": "group-head",
+    "article_number": "O47R6",
+    "article_title": "Application where rejected.",
+    "id": "cpc_section_O47R6"
+  },
+  "id": "cpc_section_O47R6",
+  "heading": {
+    "number": "Order XLVII",
+    "title": "Review",
+    "range": "9 rules"
+  },
+  "article": {
+    "number": "O47R6",
+    "title": "Application where rejected.",
+    "content": "(1) Where the application for a review is heard by more than one Judge and the Court is equally divided, the application shall be rejected.\n(2) Where there is a majority, the decision shall be according to the opinion of the majority.\n",
+    "html": "<article class=\"provision\" data-n=\"O47R6\" data-report=\"Order 47, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Application where rejected.</h3></div><p class=\"prov-cite\">Order 47, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the application for a review is heard by more than one Judge and the Court is equally divided, the application shall be rejected.</p><p class=\"lvl\">(2) Where there is a majority, the decision shall be according to the opinion of the majority.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Application where rejected.</h3></div><p class=\"prov-cite\">Order 47, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the application for a review is heard by more than one Judge and the Court is equally divided, the application shall be rejected.</p><p class=\"lvl\">(2) Where there is a majority, the decision shall be according to the opinion of the majority.</p></div>"
+  }
+}

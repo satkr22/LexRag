@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-43.html",
+    "source_order": 43,
+    "article_order": 20,
+    "order": 643,
+    "stem": "section_O26R16",
+    "heading_number": "Order XXVI",
+    "heading_title": "Commissions",
+    "heading_range": "29 rules",
+    "heading_source": "group-head",
+    "article_number": "O26R16",
+    "article_title": "Powers of commissioners.",
+    "id": "cpc_section_O26R16"
+  },
+  "id": "cpc_section_O26R16",
+  "heading": {
+    "number": "Order XXVI",
+    "title": "Commissions",
+    "range": "29 rules"
+  },
+  "article": {
+    "number": "O26R16",
+    "title": "Powers of commissioners.",
+    "content": "Any commissioner appointed under this Order may, unless otherwise directed by the order of appointment,—\n(a) examine the parties themselves and any witness whom they or any of them may produce, and any other person whom the Commissioner thinks proper to call upon to give evidence in the matter referred to him;\n(b) call for and examine documents and other things relevant to the subject of inquiry;\n(c) at any reasonable time enter upon or into any land or building mentioned in the order.\n",
+    "html": "<article class=\"provision\" data-n=\"O26R16\" data-report=\"Order 26, Rule 16 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Powers of commissioners.</h3></div><p class=\"prov-cite\">Order 26, Rule 16</p><div class=\"prov-body\"><p>Any commissioner appointed under this Order may, unless otherwise directed by the order of appointment,—</p><p class=\"lvl\">(a) examine the parties themselves and any witness whom they or any of them may produce, and any other person whom the Commissioner thinks proper to call upon to give evidence in the matter referred to him;</p><p class=\"lvl\">(b) call for and examine documents and other things relevant to the subject of inquiry;</p><p class=\"lvl\">(c) at any reasonable time enter upon or into any land or building mentioned in the order.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Powers of commissioners.</h3></div><p class=\"prov-cite\">Order 26, Rule 16</p><div class=\"prov-body\"><p>Any commissioner appointed under this Order may, unless otherwise directed by the order of appointment,—</p><p class=\"lvl\">(a) examine the parties themselves and any witness whom they or any of them may produce, and any other person whom the Commissioner thinks proper to call upon to give evidence in the matter referred to him;</p><p class=\"lvl\">(b) call for and examine documents and other things relevant to the subject of inquiry;</p><p class=\"lvl\">(c) at any reasonable time enter upon or into any land or building mentioned in the order.</p></div>"
+  }
+}

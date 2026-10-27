@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "easements",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-21.html",
+    "source_order": 21,
+    "article_order": 1,
+    "order": 21,
+    "stem": "section_21",
+    "heading_number": "Chapter III",
+    "heading_title": "The Incidents of Easements",
+    "heading_range": "ss. 20–31",
+    "heading_source": "manifest",
+    "article_number": "21",
+    "article_title": "Bar to use unconnected with enjoyment.",
+    "id": "easements_section_21"
+  },
+  "id": "easements_section_21",
+  "heading": {
+    "number": "Chapter III",
+    "title": "The Incidents of Easements",
+    "range": "ss. 20–31"
+  },
+  "article": {
+    "number": "21",
+    "title": "Bar to use unconnected with enjoyment.",
+    "content": "An easement must not be used for any purpose not connected with the enjoyment of the dominant heritage.\nIllustrations\n(a) A, as owner of a farm Y, has a right of way over B’s land to Y. Lying beyond Y, A has another farm Z, the beneficial enjoyment of which is not necessary for the beneficial enjoyment of Y. He must not use the easement for the purpose of passing to and from Z.\n(b) A, as owner of a certain house, has a right of way to and from it. For the purpose of passing to and from the house, the right may be used, not only by A, but by the members of his family, his guests, lodgers, servants, workmen, visitors and customers; for this is a purpose connected with the enjoyment of the dominant heritage. So, if A lets the house, he may use the right of way for the purpose of collecting the rent and seeing that the house is kept in repair.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">21</span>Bar to use unconnected with enjoyment.</h3></div><p class=\"prov-cite\">Section 21  ·  Chapter III  ·  page 11 of the Act</p><div class=\"prov-body\"><p>An easement must not be used for any purpose not connected with the enjoyment of the dominant heritage.</p><p>Illustrations</p><p class=\"lvl\">(a) A, as owner of a farm Y, has a right of way over B’s land to Y. Lying beyond Y, A has another farm Z, the beneficial enjoyment of which is not necessary for the beneficial enjoyment of Y. He must not use the easement for the purpose of passing to and from Z.</p><p class=\"lvl\">(b) A, as owner of a certain house, has a right of way to and from it. For the purpose of passing to and from the house, the right may be used, not only by A, but by the members of his family, his guests, lodgers, servants, workmen, visitors and customers; for this is a purpose connected with the enjoyment of the dominant heritage. So, if A lets the house, he may use the right of way for the purpose of collecting the rent and seeing that the house is kept in repair.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">21</span>Bar to use unconnected with enjoyment.</h3></div><p class=\"prov-cite\">Section 21  ·  Chapter III  ·  page 11 of the Act</p><div class=\"prov-body\"><p>An easement must not be used for any purpose not connected with the enjoyment of the dominant heritage.</p><p>Illustrations</p><p class=\"lvl\">(a) A, as owner of a farm Y, has a right of way over B’s land to Y. Lying beyond Y, A has another farm Z, the beneficial enjoyment of which is not necessary for the beneficial enjoyment of Y. He must not use the easement for the purpose of passing to and from Z.</p><p class=\"lvl\">(b) A, as owner of a certain house, has a right of way to and from it. For the purpose of passing to and from the house, the right may be used, not only by A, but by the members of his family, his guests, lodgers, servants, workmen, visitors and customers; for this is a purpose connected with the enjoyment of the dominant heritage. So, if A lets the house, he may use the right of way for the purpose of collecting the rent and seeing that the house is kept in repair.</p></div>"
+  }
+}

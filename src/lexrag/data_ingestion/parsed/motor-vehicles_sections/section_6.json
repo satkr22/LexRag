@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-02.html",
+    "source_order": 2,
+    "article_order": 4,
+    "order": 8,
+    "stem": "section_6",
+    "heading_number": "Chapter II",
+    "heading_title": "Licensing of Drivers of Motor Vehicles",
+    "heading_range": "ss. 3–28",
+    "heading_source": "group-head",
+    "article_number": "6",
+    "article_title": "Restrictions on the holding of driving licences.",
+    "id": "motor-vehicles_section_6"
+  },
+  "id": "motor-vehicles_section_6",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Licensing of Drivers of Motor Vehicles",
+    "range": "ss. 3–28"
+  },
+  "article": {
+    "number": "6",
+    "title": "Restrictions on the holding of driving licences.",
+    "content": "(1) No person shall, while he holds any driving licence for the time being in force, hold any other driving licence except a learner’s licence or a driving licence issued in accordance with the provisions of section 18 or a document authorising, in accordance with the rules made under section 139, the person specified therein to drive a motor vehicle.\n(2) No holder of a driving licence or a learner’s licence shall permit it to be used by any other person.\n(3) Nothing in this section shall prevent a licensing authority having the jurisdiction referred to in sub-section (1) of section 9 from adding to the classes of vehicles which the driving licence authorises the holder to drive.\n",
+    "html": "<article class=\"provision\" data-n=\"6\" data-report=\"Section 6 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Restrictions on the holding of driving licences.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter II  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person shall, while he holds any driving licence for the time being in force, hold any other driving licence except a learner’s licence or a driving licence issued in accordance with the provisions of section 18 or a document authorising, in accordance with the rules made under section 139, the person specified therein to drive a motor vehicle.</p><p class=\"lvl\">(2) No holder of a driving licence or a learner’s licence shall permit it to be used by any other person.</p><p class=\"lvl\">(3) Nothing in this section shall prevent a licensing authority having the jurisdiction referred to in sub-section (1) of section 9 from adding to the classes of vehicles which the driving licence authorises the holder to drive.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Restrictions on the holding of driving licences.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter II  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No person shall, while he holds any driving licence for the time being in force, hold any other driving licence except a learner’s licence or a driving licence issued in accordance with the provisions of section 18 or a document authorising, in accordance with the rules made under section 139, the person specified therein to drive a motor vehicle.</p><p class=\"lvl\">(2) No holder of a driving licence or a learner’s licence shall permit it to be used by any other person.</p><p class=\"lvl\">(3) Nothing in this section shall prevent a licensing authority having the jurisdiction referred to in sub-section (1) of section 9 from adding to the classes of vehicles which the driving licence authorises the holder to drive.</p></div>"
+  }
+}

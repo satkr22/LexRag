@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-56.html",
+    "source_order": 56,
+    "article_order": 6,
+    "order": 770,
+    "stem": "section_O37R6",
+    "heading_number": "Order XXXVII",
+    "heading_title": "Summary Procedure 2***",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O37R6",
+    "article_title": "Recovery of cost of noting non-acceptance of dishonoured bill or note.",
+    "id": "cpc_section_O37R6"
+  },
+  "id": "cpc_section_O37R6",
+  "heading": {
+    "number": "Order XXXVII",
+    "title": "Summary Procedure 2***",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O37R6",
+    "title": "Recovery of cost of noting non-acceptance of dishonoured bill or note.",
+    "content": "The holder of every dishonoured bill of exchange or promissory note shall have the same remedies for the recovery of the expenses incurred in noting the same for non-acceptance or non-payment, or otherwise, by reason of such dishonour, as he has under this Order for the recovery of the amount of such bill or note.\n",
+    "html": "<article class=\"provision\" data-n=\"O37R6\" data-report=\"Order 37, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Recovery of cost of noting non-acceptance of dishonoured bill or note.</h3></div><p class=\"prov-cite\">Order 37, Rule 6</p><div class=\"prov-body\"><p>The holder of every dishonoured bill of exchange or promissory note shall have the same remedies for the recovery of the expenses incurred in noting the same for non-acceptance or non-payment, or otherwise, by reason of such dishonour, as he has under this Order for the recovery of the amount of such bill or note.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Recovery of cost of noting non-acceptance of dishonoured bill or note.</h3></div><p class=\"prov-cite\">Order 37, Rule 6</p><div class=\"prov-body\"><p>The holder of every dishonoured bill of exchange or promissory note shall have the same remedies for the recovery of the expenses incurred in noting the same for non-acceptance or non-payment, or otherwise, by reason of such dishonour, as he has under this Order for the recovery of the amount of such bill or note.</p></div>"
+  }
+}

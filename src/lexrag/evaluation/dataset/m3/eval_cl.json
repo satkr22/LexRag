@@ -1,0 +1,77 @@
+[
+  {
+    "question": "During an investigation, a suspect wants to confess. Which procedural rule lets a Magistrate record that confession, and why does that route matter given the evidentiary rule on confessions made to police officers?",
+    "referenced_sections": ["bnss_section_183", "bsa_section_23"],
+    "answer": "The BNSS provision on recording of confessions and statements lets a Magistrate record a confession or statement during investigation. The BSA rule on confessions to a police officer generally makes such a confession unprovable against the accused, with a limited exception for a confession made in the immediate presence of a Magistrate. So the Magistrate-recording route is what gives the confession a chance of being usable as evidence."
+  },
+  {
+    "question": "A police officer promises an arrested person leniency if he admits to the offence. Which procedural provision forbids such conduct, and what is the effect of the resulting confession on its relevance in a criminal proceeding?",
+    "referenced_sections": ["bnss_section_182", "bsa_section_22"],
+    "answer": "The BNSS provision 'No inducement to be offered' forbids police officers and others from offering or making an inducement, threat or promise to elicit a statement. Under the BSA, a confession caused by inducement, threat, coercion or promise is irrelevant in a criminal proceeding. So the confession would be inadmissible and the officer's conduct would be procedurally improper."
+  },
+  {
+    "question": "Police search a premises and record the whole search and seizure on video. What does the procedural law require about such recording, and what must be satisfied under the evidence law for the footage to be admitted in court?",
+    "referenced_sections": ["bnss_section_105", "bsa_section_63"],
+    "answer": "The BNSS provides for recording of search and seizure through audio-video electronic means. For the footage to be admitted, the BSA provision on admissibility of electronic records applies. It treats an electronic record as a document admissible without further proof of the original if its conditions are met, including a certificate in the form given in the Schedule."
+  },
+  {
+    "question": "A court conducts an entire trial in electronic mode, with evidence recorded by electronic means. How does the law ensure that electronic records produced or generated in such proceedings are not rejected simply because of their electronic form?",
+    "referenced_sections": ["bnss_section_530", "bsa_section_61"],
+    "answer": "The BNSS provision on trial and proceedings in electronic mode authorises conducting trials and proceedings, including recording of evidence, electronically. The BSA provision on electronic or digital records states that such a record shall not be denied legal effect, validity or enforceability merely because it is electronic."
+  },
+  {
+    "question": "A Government scientific expert's report, such as a chemical examiner's, is tendered in a criminal trial. Which procedural provision allows it to be used in evidence, and what evidentiary rule makes the expert's views relevant on scientific points?",
+    "referenced_sections": ["bnss_section_329", "bsa_section_39"],
+    "answer": "The BNSS provision on reports of certain Government scientific experts allows such reports to be used as evidence in inquiries and trials. The BSA provision on opinions of experts makes the opinions of persons skilled in science, art, foreign law and similar fields relevant when the court must form an opinion on those points."
+  },
+  {
+    "question": "A Magistrate wants a disputed signature checked in a criminal case. Which procedural power lets the Magistrate obtain specimen signatures or handwriting from a person, and which evidence rule allows the court to compare them with the disputed writing?",
+    "referenced_sections": ["bnss_section_349", "bsa_section_72"],
+    "answer": "The BNSS gives a Magistrate power to order a person to give specimen signatures or handwriting. The BSA provision on comparison of signature, writing or seal with others admitted or proved lets the court compare the disputed writing with the specimens."
+  },
+  {
+    "question": "A co-accused is offered a pardon on condition of making a full and true disclosure of the circumstances of the offence. Once he becomes a prosecution witness, how does the evidence law treat his testimony and the use of it for conviction?",
+    "referenced_sections": ["bnss_section_343", "bsa_section_138"],
+    "answer": "The BNSS provision on tender of pardon to an accomplice allows a pardon conditioned on full and true disclosure. The BSA provision on accomplices makes an accomplice a competent witness against the accused and provides that a conviction is not illegal merely because it rests on the uncorroborated testimony of an accomplice."
+  },
+  {
+    "question": "Can an accused person choose to give evidence in his own defence in a criminal trial, and what general rule decides whether he is competent to testify at all?",
+    "referenced_sections": ["bnss_section_353", "bsa_section_124"],
+    "answer": "The BNSS provision 'Accused person to be competent witness' makes the accused a competent witness for the defence. The BSA provision on who may testify says all persons are competent to testify unless the court considers they are prevented from understanding the questions or from giving rational answers."
+  },
+  {
+    "question": "A man already acquitted of an offence by a competent court is prosecuted again for the same offence. Which procedural principle bars the second trial, and how does the evidence law treat the earlier judgment in deciding whether the second court may take cognizance?",
+    "referenced_sections": ["bnss_section_337", "bsa_section_34"],
+    "answer": "The BNSS provision that a person once convicted or acquitted is not to be tried again for the same offence bars the second trial while the earlier decision remains in force. The BSA provision on previous judgments relevant to bar a second suit or trial makes the earlier judgment a relevant fact for showing that the court is barred from taking cognizance."
+  },
+  {
+    "question": "To establish that an accused was previously convicted or acquitted, how does the procedural law say this is to be proved, and what evidentiary mechanism makes a certified copy of a public document an acceptable way to prove it?",
+    "referenced_sections": ["bnss_section_334", "bsa_section_76"],
+    "answer": "The BNSS provision on how a previous conviction or acquittal is proved allows proof by court records or certified extracts, together with evidence identifying the person. The BSA provision on proof of documents by production of certified copies makes a certified copy of a public document acceptable proof of its contents."
+  },
+  {
+    "question": "In a rape prosecution, what procedural step governs the medical examination of the victim, and what presumption does the evidence law raise on consent once intercourse is proved and the victim says she did not consent?",
+    "referenced_sections": ["bnss_section_184", "bsa_section_120"],
+    "answer": "The BNSS provision on medical examination of a victim of rape requires examination by a registered medical practitioner. The BSA provision on presumption as to absence of consent in certain rape prosecutions provides that where sexual intercourse is proved and the victim states in court that she did not consent, the court shall presume she did not consent."
+  },
+  {
+    "question": "A trial court realises that a person present in court, or not yet summoned, could give material evidence, and also wants to clarify points with a witness already on the stand. Which procedural power allows summoning or examining such a person, and which evidence-law power allows the judge to put questions to witnesses and order production of things?",
+    "referenced_sections": ["bnss_section_348", "bsa_section_168"],
+    "answer": "The BNSS provision on power to summon a material witness, or examine a person present, lets a court summon or examine anyone whose evidence appears essential. The BSA provision on the Judge's power to put questions or order production lets the judge ask any witness or party questions at any time and order production of any document or thing."
+  },
+  {
+    "question": "A person is summoned to produce a document in his possession, but the document is one that another person would be entitled to refuse to produce if it were in that other person's hands. What power underlies the summons, and what limit does the evidence law place on compelling production?",
+    "referenced_sections": ["bnss_section_94", "bsa_section_136"],
+    "answer": "The BNSS provision on summons to produce a document or other thing lets a court or police officer summon a person to produce it. The BSA provision on production of documents which another person, having possession, could refuse to produce says a person cannot be compelled to produce such a document unless the person entitled to refuse consents."
+  },
+  {
+    "question": "A married woman dies by suicide. What duty does the procedural law place on the police regarding such deaths, and what presumption may a court raise under the evidence law about abetment of the suicide?",
+    "referenced_sections": ["bnss_section_194", "bsa_section_117"],
+    "answer": "The BNSS provision on police to enquire and report on suicide and similar deaths requires the police to enquire and report to the nearest Executive Magistrate. The BSA provision on presumption as to abetment of suicide by a married woman lets the court presume abetment by her husband or his relatives when the suicide occurred within seven years of marriage and she had been subjected to cruelty."
+  },
+  {
+    "question": "A young married woman dies in suspicious circumstances and her family alleges dowry harassment. How does the procedural law provide for a Magistrate's inquiry into the cause of death, and what presumption can the court apply on dowry death once the statutory conditions are shown?",
+    "referenced_sections": ["bnss_section_196", "bsa_section_118"],
+    "answer": "The BNSS provision on inquiry by a Magistrate into the cause of death allows or requires a Magistrate's inquiry in certain kinds of death, including some suspicious deaths of married women. The BSA provision on presumption as to dowry death provides that, once it is shown the woman was subjected to cruelty or harassment for dowry soon before her death, the court shall presume that the person concerned caused the dowry death."
+  }
+]

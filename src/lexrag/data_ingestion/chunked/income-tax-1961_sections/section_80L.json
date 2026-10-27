@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80L_chunk_0",
+    "section_id": "income-tax-1961_section_80L",
+    "token_count": 43,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80L::Deductions in respect of interest on certain securities, dividends, etc.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80L_chunk_0",
+      "section_id": "income-tax-1961_section_80L",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80L",
+      "section_title": "Deductions in respect of interest on certain securities, dividends, etc."
+    }
+  }
+]

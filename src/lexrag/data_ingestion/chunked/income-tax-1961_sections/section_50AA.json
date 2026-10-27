@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_50AA_chunk_0",
+    "section_id": "income-tax-1961_section_50AA",
+    "token_count": 510,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 50AA::Special provision for computation of capital gains in case of Market Linked Debenture.\n]\n\n75 [Notwithstanding anything contained in clause (42A) of section 2 or section 48, where the capital asset—\n\n(a) is a unit of a Specified Mutual Fund acquired on or after the 1st day of April, 2023 or a Market Linked Debenture; or\n  (b) is an unlisted bond or an unlisted debenture which is transferred or redeemed or matures on or after the 23rd day of July, 2024, the full value of consideration received or accruing as a result of the transfer or redemption or maturity of such debenture or unit or bond as reduced by—\n  (i) the cost of acquisition of the debenture or unit or bond; and\n  (ii) the expenditure incurred wholly and exclusively in connection with such transfer or redemption or maturity, shall be deemed to be the capital gains arising from the transfer of a short-term capital asset:]\n  Provided that no deduction shall be allowed in computing the income chargeable under the head \"Capital gains\" in respect of any sum paid on account of securities transaction tax under the provisions of Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004).\n  Explanation.— For the purposes of this section—\n  (i) \"Market Linked Debenture\" means a security by whatever name called, which has an underlying principal component in the form of a debt security and where the returns are linked to market returns on other underlying securities or indices and include any security classified or regulated as a market linked debenture by the Securities and Exchange Board of India;\n  76 [(ii) \"Specified Mutual Fund\" means,––\n  (a) a Mutual Fund by whatever name called, which invests more than sixty-five per cent of its total proceeds in debt and money market instruments; or\n  (b) a fund which invests sixty-five per cent or more of its total proceeds in units of a fund referred to in sub-clause (a):\n  Provided that the percentage of investment in debt and money market instruments or in units of a fund, as the case may be, in respect of the Specified Mutual Fund, shall be computed with reference to the annual average of the daily closing figures:",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_50AA_chunk_0",
+      "section_id": "income-tax-1961_section_50AA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "50AA",
+      "section_title": "Special provision for computation of capital gains in case of Market Linked Debenture."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_50AA_chunk_1",
+    "section_id": "income-tax-1961_section_50AA",
+    "token_count": 153,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 50AA::Special provision for computation of capital gains in case of Market Linked Debenture.\n]\n\n75 [Notwithstanding anything contained in clause (42A) of section 2 or section 48, where the capital asset—\n\n(a) is a unit of a Specified Mutual Fund acquired on or after the 1st day of April, 2023 or a Market Linked Debenture; or\n  Provided further that for the purposes of this clause, \"debt and money market instruments\" shall include any securities, by whatever name called, classified or regulated as debt and money market instruments by the Securities and Exchange Board of India.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_50AA_chunk_1",
+      "section_id": "income-tax-1961_section_50AA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "50AA",
+      "section_title": "Special provision for computation of capital gains in case of Market Linked Debenture."
+    }
+  }
+]

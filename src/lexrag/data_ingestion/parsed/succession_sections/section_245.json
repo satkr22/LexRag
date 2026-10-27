@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-35.html",
+    "source_order": 35,
+    "article_order": 9,
+    "order": 246,
+    "stem": "section_245",
+    "heading_number": "Part IX · Chapter II",
+    "heading_title": "Of Limited Grants",
+    "heading_range": "ss. 237–260",
+    "heading_source": "group-head",
+    "article_number": "245",
+    "article_title": "Administration during minority of several executors or residuary legatee.",
+    "id": "succession_section_245"
+  },
+  "id": "succession_section_245",
+  "heading": {
+    "number": "Part IX · Chapter II",
+    "title": "Of Limited Grants",
+    "range": "ss. 237–260"
+  },
+  "article": {
+    "number": "245",
+    "title": "Administration during minority of several executors or residuary legatee.",
+    "content": "When there are two or more minor executors and no executor who has attained majority, or two or more residuary legatees and no residuary legatee who has attained majority, the grant shall be limited until one of them shall have attained his majority.\n",
+    "html": "<article class=\"provision\" data-n=\"245\" data-report=\"Section 245 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245</span>Administration during minority of several executors or residuary legatee.</h3></div><p class=\"prov-cite\">Section 245  ·  Part IX · Chapter II  ·  page 72 of the Act</p><div class=\"prov-body\"><p>When there are two or more minor executors and no executor who has attained majority, or two or more residuary legatees and no residuary legatee who has attained majority, the grant shall be limited until one of them shall have attained his majority.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245</span>Administration during minority of several executors or residuary legatee.</h3></div><p class=\"prov-cite\">Section 245  ·  Part IX · Chapter II  ·  page 72 of the Act</p><div class=\"prov-body\"><p>When there are two or more minor executors and no executor who has attained majority, or two or more residuary legatees and no residuary legatee who has attained majority, the grant shall be limited until one of them shall have attained his majority.</p></div>"
+  }
+}

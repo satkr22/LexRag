@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-06.html",
+    "source_order": 6,
+    "article_order": 12,
+    "order": 116,
+    "stem": "section_108",
+    "heading_number": "Chapter VI",
+    "heading_title": "Special Provisions Relating to State Transport Undertakings",
+    "heading_range": "ss. 97–108",
+    "heading_source": "group-head",
+    "article_number": "108",
+    "article_title": "Certain powers of State Government exercisable by the Central Government.",
+    "id": "motor-vehicles_section_108"
+  },
+  "id": "motor-vehicles_section_108",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Special Provisions Relating to State Transport Undertakings",
+    "range": "ss. 97–108"
+  },
+  "article": {
+    "number": "108",
+    "title": "Certain powers of State Government exercisable by the Central Government.",
+    "content": "The powers conferred on the State Government under this Chapter shall, in relation to a corporation or company owned or controlled by the Central Government or by the Central Government and one or more State Governments, be exercisable only by the Central Government in relation to an inter-State route or area.\n",
+    "html": "<article class=\"provision\" data-n=\"108\" data-report=\"Section 108 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">108</span>Certain powers of State Government exercisable by the Central Government.</h3></div><p class=\"prov-cite\">Section 108  ·  Chapter VI  ·  page 72 of the Act</p><div class=\"prov-body\"><p>The powers conferred on the State Government under this Chapter shall, in relation to a corporation or company owned or controlled by the Central Government or by the Central Government and one or more State Governments, be exercisable only by the Central Government in relation to an inter-State route or area.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">108</span>Certain powers of State Government exercisable by the Central Government.</h3></div><p class=\"prov-cite\">Section 108  ·  Chapter VI  ·  page 72 of the Act</p><div class=\"prov-body\"><p>The powers conferred on the State Government under this Chapter shall, in relation to a corporation or company owned or controlled by the Central Government or by the Central Government and one or more State Governments, be exercisable only by the Central Government in relation to an inter-State route or area.</p></div>"
+  }
+}

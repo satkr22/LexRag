@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "dpdp",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "dpdp_sections/section-4.html",
+    "source_order": 4,
+    "article_order": 1,
+    "order": 4,
+    "stem": "section_4",
+    "heading_number": "Chapter II",
+    "heading_title": "Obligations of Data Fiduciary",
+    "heading_range": "ss. 4–10",
+    "heading_source": "manifest",
+    "article_number": "4",
+    "article_title": "Grounds for processing personal data.",
+    "id": "dpdp_section_4"
+  },
+  "id": "dpdp_section_4",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Obligations of Data Fiduciary",
+    "range": "ss. 4–10"
+  },
+  "article": {
+    "number": "4",
+    "title": "Grounds for processing personal data.",
+    "content": "(1) A person may process the personal data of a Data Principal only in accordance with the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any purpose which is not expressly forbidden by law.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Grounds for processing personal data.</h3></div><p class=\"prov-cite\">Section 4  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A person may process the personal data of a Data Principal only in accordance with the provisions of this Act and for a lawful purpose,—</p><p class=\"lvl\">(a) for which the Data Principal has given her consent; or</p><p class=\"lvl\">(b) for certain legitimate uses.</p><p class=\"lvl\">(2) For the purposes of this section, the expression “lawful purpose” means any purpose which is not expressly forbidden by law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Grounds for processing personal data.</h3></div><p class=\"prov-cite\">Section 4  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A person may process the personal data of a Data Principal only in accordance with the provisions of this Act and for a lawful purpose,—</p><p class=\"lvl\">(a) for which the Data Principal has given her consent; or</p><p class=\"lvl\">(b) for certain legitimate uses.</p><p class=\"lvl\">(2) For the purposes of this section, the expression “lawful purpose” means any purpose which is not expressly forbidden by law.</p></div>"
+  }
+}

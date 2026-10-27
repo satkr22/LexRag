@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-59.html",
+    "source_order": 59,
+    "article_order": 1,
+    "order": 59,
+    "stem": "section_59",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "59",
+    "article_title": "Proof of documents by primary evidence",
+    "id": "bsa_section_59"
+  },
+  "id": "bsa_section_59",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "59",
+    "title": "Proof of documents by primary evidence",
+    "content": "Documents shall be proved by primary evidence except in the cases hereinafter mentioned.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Proof of documents by primary evidence</h3></div><p class=\"prov-cite\">Section 59 · Part III · Chapter V</p><div class=\"prov-body\"><p>Documents shall be proved by primary evidence except in the cases hereinafter mentioned.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Proof of documents by primary evidence</h3></div><p class=\"prov-cite\">Section 59 · Part III · Chapter V</p><div class=\"prov-body\"><p>Documents shall be proved by primary evidence except in the cases hereinafter mentioned.</p></div>"
+  }
+}

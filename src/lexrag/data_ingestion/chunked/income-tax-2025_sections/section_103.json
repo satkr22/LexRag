@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_103_chunk_0",
+    "section_id": "income-tax-2025_section_103",
+    "token_count": 185,
+    "text": "[Act: income-tax-2025\n Chapter: Aggregation of Income\n Section: 103::Unexplained investment.\n]\n\n\nWhere in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and—\n(a) the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or\n(b) the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer, then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_103_chunk_0",
+      "section_id": "income-tax-2025_section_103",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income",
+      "section_number": "103",
+      "section_title": "Unexplained investment."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-131.html",
+    "source_order": 132,
+    "article_order": 1,
+    "order": 132,
+    "stem": "section_131",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Of Indemnity and Guarantee",
+    "heading_range": "ss. 124–147",
+    "heading_source": "manifest",
+    "article_number": "131",
+    "article_title": "Revocation of continuing guarantee by surety’s death.",
+    "id": "contract_section_131"
+  },
+  "id": "contract_section_131",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Of Indemnity and Guarantee",
+    "range": "ss. 124–147"
+  },
+  "article": {
+    "number": "131",
+    "title": "Revocation of continuing guarantee by surety’s death.",
+    "content": "The death of the surety operates, in the absence of any contract to the contrary, as a revocation of a continuing guarantee, so far as regards future transactions.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Revocation of continuing guarantee by surety’s death.</h3></div><p class=\"prov-cite\">Section 131  ·  Chapter VIII  ·  page 35 of the Act</p><div class=\"prov-body\"><p>The death of the surety operates, in the absence of any contract to the contrary, as a revocation of a continuing guarantee, so far as regards future transactions.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Revocation of continuing guarantee by surety’s death.</h3></div><p class=\"prov-cite\">Section 131  ·  Chapter VIII  ·  page 35 of the Act</p><div class=\"prov-body\"><p>The death of the surety operates, in the absence of any contract to the contrary, as a revocation of a continuing guarantee, so far as regards future transactions.</p></div>"
+  }
+}

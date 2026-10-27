@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-222.html",
+    "source_order": 224,
+    "article_order": 1,
+    "order": 224,
+    "stem": "section_222",
+    "heading_number": "Chapter X",
+    "heading_title": "Agency",
+    "heading_range": "ss. 182–238",
+    "heading_source": "manifest",
+    "article_number": "222",
+    "article_title": "Agent to be indemnified against consequences of lawful acts.",
+    "id": "contract_section_222"
+  },
+  "id": "contract_section_222",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Agency",
+    "range": "ss. 182–238"
+  },
+  "article": {
+    "number": "222",
+    "title": "Agent to be indemnified against consequences of lawful acts.",
+    "content": "The employer of an agent is bound to indemnify him against the consequences of all lawful acts done by such agent in exercise of the authority conferred upon him.\nIllustrations\n(a)B, at Singapur, under instructions from A of Calcutta, contracts with C to deliver certain goods to him. A does not send the goods to B, and C sues B for breach of contract. B informs A of the suit, and A authorizes him to defend the suit. B defends the suit, and is compelled to pay damages and costs, and incurs expenses. A is liable to B for such damages, costs and expenses.\n(b)B, a broker at Calcutta, by the orders of A, a merchant there, contracts with C for the purchase of 10 casks of oil for A. Afterwards A refuses to receive the oil, and C sues B. B informs A, who repudiates the contract altogether. B defends, but unsuccessfully, and has to pay damages and costs and incurs expenses. A is liable to B for such damages, costs and expenses.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">222</span>Agent to be indemnified against consequences of lawful acts.</h3></div><p class=\"prov-cite\">Section 222  ·  Chapter X  ·  Principal’s duty to agent  ·  page 48 of the Act</p><div class=\"prov-body\"><p>The employer of an agent is bound to indemnify him against the consequences of all lawful acts done by such agent in exercise of the authority conferred upon him.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>B, at Singapur, under instructions from A of Calcutta, contracts with C to deliver certain goods to him. A does not send the goods to B, and C sues B for breach of contract. B informs A of the suit, and A authorizes him to defend the suit. B defends the suit, and is compelled to pay damages and costs, and incurs expenses. A is liable to B for such damages, costs and expenses.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>B, a broker at Calcutta, by the orders of A, a merchant there, contracts with C for the purchase of 10 casks of oil for A. Afterwards A refuses to receive the oil, and C sues B. B informs A, who repudiates the contract altogether. B defends, but unsuccessfully, and has to pay damages and costs and incurs expenses. A is liable to B for such damages, costs and expenses.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">222</span>Agent to be indemnified against consequences of lawful acts.</h3></div><p class=\"prov-cite\">Section 222  ·  Chapter X  ·  Principal’s duty to agent  ·  page 48 of the Act</p><div class=\"prov-body\"><p>The employer of an agent is bound to indemnify him against the consequences of all lawful acts done by such agent in exercise of the authority conferred upon him.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>B, at Singapur, under instructions from A of Calcutta, contracts with C to deliver certain goods to him. A does not send the goods to B, and C sues B for breach of contract. B informs A of the suit, and A authorizes him to defend the suit. B defends the suit, and is compelled to pay damages and costs, and incurs expenses. A is liable to B for such damages, costs and expenses.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>B, a broker at Calcutta, by the orders of A, a merchant there, contracts with C for the purchase of 10 casks of oil for A. Afterwards A refuses to receive the oil, and C sues B. B informs A, who repudiates the contract altogether. B defends, but unsuccessfully, and has to pay damages and costs and incurs expenses. A is liable to B for such damages, costs and expenses.</p></div>"
+  }
+}

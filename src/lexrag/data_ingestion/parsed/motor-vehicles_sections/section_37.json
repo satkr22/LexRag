@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-03.html",
+    "source_order": 3,
+    "article_order": 9,
+    "order": 40,
+    "stem": "section_37",
+    "heading_number": "Chapter III",
+    "heading_title": "Licensing of Conductors of Stage Carriages",
+    "heading_range": "ss. 29–38",
+    "heading_source": "group-head",
+    "article_number": "37",
+    "article_title": "Savings.",
+    "id": "motor-vehicles_section_37"
+  },
+  "id": "motor-vehicles_section_37",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Licensing of Conductors of Stage Carriages",
+    "range": "ss. 29–38"
+  },
+  "article": {
+    "number": "37",
+    "title": "Savings.",
+    "content": "If any licence to act as a conductor of a stage carriage (by whatever name called) has been issued in any State and is effective immediately before the commencement of this Act, it shall continue to be effective, notwithstanding such commencement, for the period for which it would have been effective, if this Act had not been passed, and every such licence shall be deemed to be a licence issued under this Chapter as if this Chapter had been in force on the date on which that licence was granted.\n",
+    "html": "<article class=\"provision\" data-n=\"37\" data-report=\"Section 37 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Savings.</h3></div><p class=\"prov-cite\">Section 37  ·  Chapter III  ·  page 29 of the Act</p><div class=\"prov-body\"><p>If any licence to act as a conductor of a stage carriage (by whatever name called) has been issued in any State and is effective immediately before the commencement of this Act, it shall continue to be effective, notwithstanding such commencement, for the period for which it would have been effective, if this Act had not been passed, and every such licence shall be deemed to be a licence issued under this Chapter as if this Chapter had been in force on the date on which that licence was granted.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Savings.</h3></div><p class=\"prov-cite\">Section 37  ·  Chapter III  ·  page 29 of the Act</p><div class=\"prov-body\"><p>If any licence to act as a conductor of a stage carriage (by whatever name called) has been issued in any State and is effective immediately before the commencement of this Act, it shall continue to be effective, notwithstanding such commencement, for the period for which it would have been effective, if this Act had not been passed, and every such licence shall be deemed to be a licence issued under this Chapter as if this Chapter had been in force on the date on which that licence was granted.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 19,
+    "order": 63,
+    "stem": "section_61",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "61",
+    "article_title": "Power of limited company to alter its share capital.",
+    "id": "companies_section_61"
+  },
+  "id": "companies_section_61",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "61",
+    "title": "Power of limited company to alter its share capital.",
+    "content": "(1) A limited company having a share capital may, if so authorised by its articles, alter its memorandum in its general meeting to—\n(a) increase its authorised share capital by such amount as it thinks expedient;\n(b) consolidate and divide all or any of its share capital into shares of a larger amount than its existing shares:\nProvided that no consolidation and division which results in changes in the voting percentage of shareholders shall take effect unless it is approved by the Tribunal on an application made in the prescribed manner;\n(c) convert all or any of its fully paid-up shares into stock, and reconvert that stock into fully paid-up shares of any denomination;\n(d) sub-divide its shares, or any of them, into shares of smaller amount than is fixed by the memorandum, so, however, that in the sub-division the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;\n(e) cancel shares which, at the date of the passing of the resolution in that behalf, have not been taken or agreed to be taken by any person, and diminish the amount of its share capital by the amount of the shares so cancelled.\n(2) The cancellation of shares under sub-section (1) shall not be deemed to be a reduction of share capital.\n",
+    "html": "<article class=\"provision\" data-n=\"61\" data-report=\"Section 61 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">61</span>Power of limited company to alter its share capital.</h3></div><p class=\"prov-cite\">Section 61  ·  Chapter IV  ·  page 53 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A limited company having a share capital may, if so authorised by its articles, alter its memorandum in its general meeting to—</p><p class=\"lvl\">(a) increase its authorised share capital by such amount as it thinks expedient;</p><p class=\"lvl\">(b) consolidate and divide all or any of its share capital into shares of a larger amount than its existing shares:</p><p class=\"prvso\">Provided that no consolidation and division which results in changes in the voting percentage of shareholders shall take effect unless it is approved by the Tribunal on an application made in the prescribed manner;</p><p class=\"lvl\">(c) convert all or any of its fully paid-up shares into stock, and reconvert that stock into fully paid-up shares of any denomination;</p><p class=\"lvl\">(d) sub-divide its shares, or any of them, into shares of smaller amount than is fixed by the memorandum, so, however, that in the sub-division the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;</p><p class=\"lvl\">(e) cancel shares which, at the date of the passing of the resolution in that behalf, have not been taken or agreed to be taken by any person, and diminish the amount of its share capital by the amount of the shares so cancelled.</p><p class=\"lvl\">(2) The cancellation of shares under sub-section (1) shall not be deemed to be a reduction of share capital.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">61</span>Power of limited company to alter its share capital.</h3></div><p class=\"prov-cite\">Section 61  ·  Chapter IV  ·  page 53 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A limited company having a share capital may, if so authorised by its articles, alter its memorandum in its general meeting to—</p><p class=\"lvl\">(a) increase its authorised share capital by such amount as it thinks expedient;</p><p class=\"lvl\">(b) consolidate and divide all or any of its share capital into shares of a larger amount than its existing shares:</p><p class=\"prvso\">Provided that no consolidation and division which results in changes in the voting percentage of shareholders shall take effect unless it is approved by the Tribunal on an application made in the prescribed manner;</p><p class=\"lvl\">(c) convert all or any of its fully paid-up shares into stock, and reconvert that stock into fully paid-up shares of any denomination;</p><p class=\"lvl\">(d) sub-divide its shares, or any of them, into shares of smaller amount than is fixed by the memorandum, so, however, that in the sub-division the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;</p><p class=\"lvl\">(e) cancel shares which, at the date of the passing of the resolution in that behalf, have not been taken or agreed to be taken by any person, and diminish the amount of its share capital by the amount of the shares so cancelled.</p><p class=\"lvl\">(2) The cancellation of shares under sub-section (1) shall not be deemed to be a reduction of share capital.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-27.html",
+    "source_order": 27,
+    "article_order": 4,
+    "order": 370,
+    "stem": "section_370",
+    "heading_number": "Chapter XXVII",
+    "heading_title": "Provisions as to Accused Persons of Unsound Mind",
+    "heading_range": "367 – 378",
+    "heading_source": "group-head",
+    "article_number": "370",
+    "article_title": "Resumption of inquiry or trial",
+    "id": "bnss_section_370"
+  },
+  "id": "bnss_section_370",
+  "heading": {
+    "number": "Chapter XXVII",
+    "title": "Provisions as to Accused Persons of Unsound Mind",
+    "range": "367 – 378"
+  },
+  "article": {
+    "number": "370",
+    "title": "Resumption of inquiry or trial",
+    "content": "(1)Whenever an inquiry or a trial is postponed under section 367 or section 368, the Magistrate or Court, as the case may be, may at any time after the person concerned has ceased to be of unsound mind, resume the inquiry or trial and require the accused to appear or be brought before such Magistrate or Court.\n(2)When the accused has been released under section 369, and the sureties for his appearance produce him to the officer whom the Magistrate or Court appoints in this behalf, the certificate of such officer that the accused is capable of making his defence shall be receivable in evidence.\n",
+    "html": "<article class=\"provision\" data-n=\"370\" data-report=\"Section 370 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">370</span>Resumption of inquiry or trial</h3></div><p class=\"prov-cite\">Section 370 · Chapter XXVII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whenever an inquiry or a trial is postponed under section 367 or section 368, the Magistrate or Court, as the case may be, may at any time after the person concerned has ceased to be of unsound mind, resume the inquiry or trial and require the accused to appear or be brought before such Magistrate or Court.</p><p><span class=\"lbl\">(2)</span>When the accused has been released under section 369, and the sureties for his appearance produce him to the officer whom the Magistrate or Court appoints in this behalf, the certificate of such officer that the accused is capable of making his defence shall be receivable in evidence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">370</span>Resumption of inquiry or trial</h3></div><p class=\"prov-cite\">Section 370 · Chapter XXVII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whenever an inquiry or a trial is postponed under section 367 or section 368, the Magistrate or Court, as the case may be, may at any time after the person concerned has ceased to be of unsound mind, resume the inquiry or trial and require the accused to appear or be brought before such Magistrate or Court.</p><p><span class=\"lbl\">(2)</span>When the accused has been released under section 369, and the sureties for his appearance produce him to the officer whom the Magistrate or Court appoints in this behalf, the certificate of such officer that the accused is capable of making his defence shall be receivable in evidence.</p></div>"
+  }
+}

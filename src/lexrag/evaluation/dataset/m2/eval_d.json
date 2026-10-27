@@ -1,0 +1,77 @@
+[
+  {
+    "question": "When a person is prosecuted for murder, what offence/punishment does the Bharatiya Nyaya Sanhita provide, and what does the Bharatiya Sakshya Adhiniyam provide regarding burden of proof?",
+    "referenced_sections": ["bns_section_103", "bsa_section_104"],
+    "answer": "The BNS provides punishment for murder, while the BSA lays down the burden-of-proof rule."
+  },
+  {
+    "question": "In a rape prosecution, what offence does the Bharatiya Nyaya Sanhita define, and what presumption does the Bharatiya Sakshya Adhiniyam make about absence of consent in certain cases?",
+    "referenced_sections": ["bns_section_63", "bsa_section_120"],
+    "answer": "The BNS defines rape, and the BSA provides a presumption as to absence of consent in certain rape prosecutions."
+  },
+  {
+    "question": "What offence does the Bharatiya Nyaya Sanhita address for dowry death, and what presumption does the Bharatiya Sakshya Adhiniyam create for dowry death?",
+    "referenced_sections": ["bns_section_80", "bsa_section_118"],
+    "answer": "The BNS addresses dowry death as an offence, and the BSA provides a presumption as to dowry death."
+  },
+  {
+    "question": "When death is caused by negligence, what offence does the Bharatiya Nyaya Sanhita create, and what relevance rule in the Bharatiya Sakshya Adhiniyam helps determine whether an act was accidental or intentional?",
+    "referenced_sections": ["bns_section_106", "bsa_section_13"],
+    "answer": "The BNS creates the offence of causing death by negligence, and the BSA makes facts bearing on whether an act was accidental or intentional relevant."
+  },
+  {
+    "question": "In a forgery case, what offence does the Bharatiya Nyaya Sanhita define, and what method does the Bharatiya Sakshya Adhiniyam allow for comparing signatures, writing or seals with admitted or proved ones?",
+    "referenced_sections": ["bns_section_336", "bsa_section_72"],
+    "answer": "The BNS defines forgery, and the BSA allows comparison of signature, writing or seal with others admitted or proved."
+  },
+  {
+    "question": "For a forged electronic record used as genuine, what offence does the Bharatiya Nyaya Sanhita cover, and what rule in the Bharatiya Sakshya Adhiniyam governs admissibility of electronic records?",
+    "referenced_sections": ["bns_section_340", "bsa_section_63"],
+    "answer": "The BNS covers a forged document or electronic record and using it as genuine, while the BSA governs admissibility of electronic records."
+  },
+  {
+    "question": "In a criminal defamation case, what offence does the Bharatiya Nyaya Sanhita define, and what rule in the Bharatiya Sakshya Adhiniyam makes previous good character relevant in criminal cases?",
+    "referenced_sections": ["bns_section_356", "bsa_section_47"],
+    "answer": "The BNS defines defamation, and the BSA makes previous good character relevant in criminal cases."
+  },
+  {
+    "question": "What offence does the Bharatiya Nyaya Sanhita create for obscene acts and songs, and what rule in the Bharatiya Sakshya Adhiniyam controls indecent and scandalous questions?",
+    "referenced_sections": ["bns_section_296", "bsa_section_154"],
+    "answer": "The BNS creates the offence of obscene acts and songs, and the BSA contains the rule on indecent and scandalous questions."
+  },
+  {
+    "question": "What offence does the Bharatiya Nyaya Sanhita define as criminal intimidation, and what rule in the Bharatiya Sakshya Adhiniyam governs questions intended to insult or annoy?",
+    "referenced_sections": ["bns_section_351", "bsa_section_155"],
+    "answer": "The BNS defines criminal intimidation, and the BSA governs questions intended to insult or annoy."
+  },
+  {
+    "question": "When a person is punished for false evidence, what does the Bharatiya Nyaya Sanhita provide, and what rule in the Bharatiya Sakshya Adhiniyam addresses an accomplice as a witness?",
+    "referenced_sections": ["bns_section_229", "bsa_section_138"],
+    "answer": "The BNS provides punishment for false evidence, and the BSA addresses the accomplice as a witness."
+  },
+  {
+    "question": "What offence does the Bharatiya Nyaya Sanhita define as cheating, and what rule in the Bharatiya Sakshya Adhiniyam states that admissions are not conclusive proof but may estop?",
+    "referenced_sections": ["bns_section_318", "bsa_section_25"],
+    "answer": "The BNS defines cheating, and the BSA states that admissions are not conclusive proof but may estop."
+  },
+  {
+    "question": "For criminal breach of trust, what offence does the Bharatiya Nyaya Sanhita provide, and what burden rule in the Bharatiya Sakshya Adhiniyam applies to a fact especially within a person’s knowledge?",
+    "referenced_sections": ["bns_section_316", "bsa_section_109"],
+    "answer": "The BNS provides for criminal breach of trust, and the BSA places the burden of proving a fact especially within knowledge on the person who has that knowledge."
+  },
+  {
+    "question": "What offence does the Bharatiya Nyaya Sanhita define as extortion, and what rule in the Bharatiya Sakshya Adhiniyam makes a confession caused by inducement, threat, coercion or promise irrelevant in a criminal proceeding?",
+    "referenced_sections": ["bns_section_308", "bsa_section_22"],
+    "answer": "The BNS defines extortion, and the BSA makes a confession caused by inducement, threat, coercion or promise irrelevant in a criminal proceeding."
+  },
+  {
+    "question": "What offence does the Bharatiya Nyaya Sanhita define for trafficking of a person, and what rule in the Bharatiya Sakshya Adhiniyam excludes evidence of character or previous sexual experience in certain cases?",
+    "referenced_sections": ["bns_section_143", "bsa_section_48"],
+    "answer": "The BNS defines trafficking of a person, and the BSA excludes evidence of character or previous sexual experience in certain cases."
+  },
+  {
+    "question": "What offence does the Bharatiya Nyaya Sanhita define as sexual harassment, and what rule in the Bharatiya Sakshya Adhiniyam addresses competency of a husband and wife as witnesses in certain cases?",
+    "referenced_sections": ["bns_section_75", "bsa_section_126"],
+    "answer": "The BNS defines sexual harassment, and the BSA addresses the competency of a husband and wife as witnesses in certain cases."
+  }
+]

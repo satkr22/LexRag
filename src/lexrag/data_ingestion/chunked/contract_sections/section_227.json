@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_227_chunk_0",
+    "section_id": "contract_section_227",
+    "token_count": 167,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 227::Principal how far bound, when agent exceeds authority.\n]\n\n\nWhen an agent does more than he is authorized to do, and when the part of what he does, which is within his authority, can be separated from the part which is beyond his authority, so much only of what he does as is within his authority is binding as between him and his principal.\nIllustration\nA, being owner of a ship and cargo, authorizes B to procure an insurance for 4,000 rupees on the ship. B procures a policy for 4,000 rupees on the ship, and another for the like sum on the cargo. A is bound to pay the premium for the policy on the ship, but not the premium for the policy on the cargo.",
+    "metadata": {
+      "chunk_id": "contract_section_227_chunk_0",
+      "section_id": "contract_section_227",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "227",
+      "section_title": "Principal how far bound, when agent exceeds authority."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-13.html",
+    "source_order": 13,
+    "article_order": 35,
+    "order": 108,
+    "stem": "section_108",
+    "heading_number": "Part VI · Chapter VI",
+    "heading_title": "Of the construction of Wills",
+    "heading_range": "ss. 74–111",
+    "heading_source": "group-head",
+    "article_number": "108",
+    "article_title": "When lapsed share goes as undisposed of.",
+    "id": "succession_section_108"
+  },
+  "id": "succession_section_108",
+  "heading": {
+    "number": "Part VI · Chapter VI",
+    "title": "Of the construction of Wills",
+    "range": "ss. 74–111"
+  },
+  "article": {
+    "number": "108",
+    "title": "When lapsed share goes as undisposed of.",
+    "content": "Where a share which lapses is a part of the general residue bequeathed by the will, that share shall go as undisposed of.\nIllustration\nThe testator bequeaths the residue of his estate to A, B and C, to be equally divided between them. A dies before the testator. His one-third of the residue goes as undisposed of.\n",
+    "html": "<article class=\"provision\" data-n=\"108\" data-report=\"Section 108 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">108</span>When lapsed share goes as undisposed of.</h3></div><p class=\"prov-cite\">Section 108  ·  Part VI · Chapter VI  ·  page 40 of the Act</p><div class=\"prov-body\"><p>Where a share which lapses is a part of the general residue bequeathed by the will, that share shall go as undisposed of.</p><p>Illustration</p><p>The testator bequeaths the residue of his estate to A, B and C, to be equally divided between them. A dies before the testator. His one-third of the residue goes as undisposed of.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">108</span>When lapsed share goes as undisposed of.</h3></div><p class=\"prov-cite\">Section 108  ·  Part VI · Chapter VI  ·  page 40 of the Act</p><div class=\"prov-body\"><p>Where a share which lapses is a part of the general residue bequeathed by the will, that share shall go as undisposed of.</p><p>Illustration</p><p>The testator bequeaths the residue of his estate to A, B and C, to be equally divided between them. A dies before the testator. His one-third of the residue goes as undisposed of.</p></div>"
+  }
+}

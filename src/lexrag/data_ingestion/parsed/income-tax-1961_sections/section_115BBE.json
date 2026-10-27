@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-15.html",
+    "source_order": 19,
+    "article_order": 27,
+    "order": 335,
+    "stem": "section_115BBE",
+    "heading_number": "Chapter XII",
+    "heading_title": "Determination of Tax in Certain Special Cases",
+    "heading_range": "ss. 110–115BBJ",
+    "heading_source": "group-head",
+    "article_number": "115BBE",
+    "article_title": "Tax on income referred to in section 68 or section 69 or section 69A or section 69B or section 69C or section 69D.",
+    "id": "income-tax-1961_section_115BBE"
+  },
+  "id": "income-tax-1961_section_115BBE",
+  "heading": {
+    "number": "Chapter XII",
+    "title": "Determination of Tax in Certain Special Cases",
+    "range": "ss. 110–115BBJ"
+  },
+  "article": {
+    "number": "115BBE",
+    "title": "Tax on income referred to in section 68 or section 69 or section 69A or section 69B or section 69C or section 69D.",
+    "content": "(1) Where the total income of an assessee,—\n(a) includes any income referred to in section 68, section 69, section 69A, section 69B, section 69C or section 69D and reflected in the return of income furnished under section 139; or\n(b) determined by the Assessing Officer includes any income referred to in section 68, section 69, section 69A, section 69B, section 69C or section 69D, if such income is not covered under clause (a), the income-tax payable shall be the aggregate of—\n(i) the amount of income-tax calculated on the income referred to in clause (a) and clause (b), at the rate of sixty per cent; and\n(ii) the amount of income-tax with which the assessee would have been chargeable had his total income been reduced by the amount of income referred to in clause (i).\n(2) Notwithstanding anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing his income referred to in clause (a) and clause (b) of sub-section (1).\n",
+    "html": "<article class=\"provision\" data-n=\"115BBE\" data-report=\"Section 115BBE · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115BBE</span>Tax on income referred to in section 68 or section 69 or section 69A or section 69B or section 69C or section 69D.</h3></div><p class=\"prov-cite\">Section 115BBE  ·  Chapter XII  ·  page 457 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the total income of an assessee,—</p><p class=\"lvl\">(a) includes any income referred to in section 68, section 69, section 69A, section 69B, section 69C or section 69D and reflected in the return of income furnished under section 139; or</p><p class=\"lvl\">(b) determined by the Assessing Officer includes any income referred to in section 68, section 69, section 69A, section 69B, section 69C or section 69D, if such income is not covered under clause (a), the income-tax payable shall be the aggregate of—</p><p class=\"lvl\">(i) the amount of income-tax calculated on the income referred to in clause (a) and clause (b), at the rate of sixty per cent; and</p><p class=\"lvl\">(ii) the amount of income-tax with which the assessee would have been chargeable had his total income been reduced by the amount of income referred to in clause (i).</p><p class=\"lvl\">(2) Notwithstanding anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing his income referred to in clause (a) and clause (b) of sub-section (1).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115BBE</span>Tax on income referred to in section 68 or section 69 or section 69A or section 69B or section 69C or section 69D.</h3></div><p class=\"prov-cite\">Section 115BBE  ·  Chapter XII  ·  page 457 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the total income of an assessee,—</p><p class=\"lvl\">(a) includes any income referred to in section 68, section 69, section 69A, section 69B, section 69C or section 69D and reflected in the return of income furnished under section 139; or</p><p class=\"lvl\">(b) determined by the Assessing Officer includes any income referred to in section 68, section 69, section 69A, section 69B, section 69C or section 69D, if such income is not covered under clause (a), the income-tax payable shall be the aggregate of—</p><p class=\"lvl\">(i) the amount of income-tax calculated on the income referred to in clause (a) and clause (b), at the rate of sixty per cent; and</p><p class=\"lvl\">(ii) the amount of income-tax with which the assessee would have been chargeable had his total income been reduced by the amount of income referred to in clause (i).</p><p class=\"lvl\">(2) Notwithstanding anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing his income referred to in clause (a) and clause (b) of sub-section (1).</p></div>"
+  }
+}

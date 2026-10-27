@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-51.html",
+    "source_order": 56,
+    "article_order": 1,
+    "order": 868,
+    "stem": "section_280B",
+    "heading_number": "Chapter XXII",
+    "heading_title": "Offences and Prosecutions",
+    "heading_range": "ss. 280B–280D",
+    "heading_source": "group-head",
+    "article_number": "280B",
+    "article_title": "Offences triable by Special Court.",
+    "id": "income-tax-1961_section_280B"
+  },
+  "id": "income-tax-1961_section_280B",
+  "heading": {
+    "number": "Chapter XXII",
+    "title": "Offences and Prosecutions",
+    "range": "ss. 280B–280D"
+  },
+  "article": {
+    "number": "280B",
+    "title": "Offences triable by Special Court.",
+    "content": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),—\n(a) the offences punishable under this Chapter shall be triable only by the Special Court, if so designated, for the area or areas or for cases or class or group of cases, as the case may be, in which the offence has been committed:\nProvided that a court competent to try offences under section 292,—\n(i) which has been designated as a Special Court under this section, shall continue to try the offences before it or offences arising under this Act after such designation;\n(ii) which has not been designated as a Special Court may continue to try such offence pending before it till its disposal;\n(b) a Special Court may, upon a complaint made by an authority authorised in this behalf under this Act take cognizance of the offence for which the accused is committed for trial.\n",
+    "html": "<article class=\"provision\" data-n=\"280B\" data-report=\"Section 280B · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280B</span>Offences triable by Special Court.</h3></div><p class=\"prov-cite\">Section 280B  ·  Chapter XXII  ·  page 1032 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),—</p><p class=\"lvl\">(a) the offences punishable under this Chapter shall be triable only by the Special Court, if so designated, for the area or areas or for cases or class or group of cases, as the case may be, in which the offence has been committed:</p><p class=\"prvso\">Provided that a court competent to try offences under section 292,—</p><p class=\"lvl\">(i) which has been designated as a Special Court under this section, shall continue to try the offences before it or offences arising under this Act after such designation;</p><p class=\"lvl\">(ii) which has not been designated as a Special Court may continue to try such offence pending before it till its disposal;</p><p class=\"lvl\">(b) a Special Court may, upon a complaint made by an authority authorised in this behalf under this Act take cognizance of the offence for which the accused is committed for trial.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280B</span>Offences triable by Special Court.</h3></div><p class=\"prov-cite\">Section 280B  ·  Chapter XXII  ·  page 1032 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),—</p><p class=\"lvl\">(a) the offences punishable under this Chapter shall be triable only by the Special Court, if so designated, for the area or areas or for cases or class or group of cases, as the case may be, in which the offence has been committed:</p><p class=\"prvso\">Provided that a court competent to try offences under section 292,—</p><p class=\"lvl\">(i) which has been designated as a Special Court under this section, shall continue to try the offences before it or offences arising under this Act after such designation;</p><p class=\"lvl\">(ii) which has not been designated as a Special Court may continue to try such offence pending before it till its disposal;</p><p class=\"lvl\">(b) a Special Court may, upon a complaint made by an authority authorised in this behalf under this Act take cognizance of the offence for which the accused is committed for trial.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-02.html",
+    "source_order": 2,
+    "article_order": 8,
+    "order": 16,
+    "stem": "section_16",
+    "heading_number": "Part I",
+    "heading_title": "Suits in General",
+    "heading_range": "ss. 9–35B",
+    "heading_source": "group-head",
+    "article_number": "16",
+    "article_title": "Suits to be instituted where subject-matter situate.",
+    "id": "cpc_section_16"
+  },
+  "id": "cpc_section_16",
+  "heading": {
+    "number": "Part I",
+    "title": "Suits in General",
+    "range": "ss. 9–35B"
+  },
+  "article": {
+    "number": "16",
+    "title": "Suits to be instituted where subject-matter situate.",
+    "content": "Place of Suing\nSubject to the pecuniary or other limitations prescribed by any law, suits—\n(a) for the recovery of immovable property with or without rent or profits,\n(b) for the partition of immovable property,\n(c) for foreclosure, sale or redemption in the case of a mortgage of or charge upon immovable property,\n(d) or the determination of any other right to or interest in immovable property,\n(e) for compensation for wrong to immovable property,\n(f) for the recovery of movable property actually under distraint or attachment,\nshall be instituted in the Court within the local limits of whose jurisdiction the property is situate:\nProvided that a suit to obtain relief respecting, or compensation for wrong to, immovable property held by or on behalf of the defendant may, where the relief sought can be entirely obtained through his personal obedience, be instituted either in the Court within the local limits of whose jurisdiction the property is situate, or in the Court within the local limits of whose jurisdiction the defendant actually and voluntarily resides, or carries on business, or personally works for gain.\nExplanation.—In this section “property” means property situate in 1[India].\n",
+    "html": "<article class=\"provision\" data-n=\"16\" data-report=\"Section 16 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Suits to be instituted where subject-matter situate.</h3></div><p class=\"prov-cite\">Section 16</p><div class=\"prov-body\"><p class=\"sched-title\">Place of Suing</p><p>Subject to the pecuniary or other limitations prescribed by any law, suits—</p><p class=\"lvl\">(a) for the recovery of immovable property with or without rent or profits,</p><p class=\"lvl\">(b) for the partition of immovable property,</p><p class=\"lvl\">(c) for foreclosure, sale or redemption in the case of a mortgage of or charge upon immovable property,</p><p class=\"lvl\">(d) or the determination of any other right to or interest in immovable property,</p><p class=\"lvl\">(e) for compensation for wrong to immovable property,</p><p class=\"lvl\">(f) for the recovery of movable property actually under distraint or attachment,</p><p>shall be instituted in the Court within the local limits of whose jurisdiction the property is situate:</p><p class=\"prvso\">Provided that a suit to obtain relief respecting, or compensation for wrong to, immovable property held by or on behalf of the defendant may, where the relief sought can be entirely obtained through his personal obedience, be instituted either in the Court within the local limits of whose jurisdiction the property is situate, or in the Court within the local limits of whose jurisdiction the defendant actually and voluntarily resides, or carries on business, or personally works for gain.</p><p class=\"prvso\">Explanation.—In this section “property” means property situate in <sup>1</sup>[India].</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 2 of 1951, s. 3, for “the States” (w.e.f. 1-4-1951).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Suits to be instituted where subject-matter situate.</h3></div><p class=\"prov-cite\">Section 16</p><div class=\"prov-body\"><p class=\"sched-title\">Place of Suing</p><p>Subject to the pecuniary or other limitations prescribed by any law, suits—</p><p class=\"lvl\">(a) for the recovery of immovable property with or without rent or profits,</p><p class=\"lvl\">(b) for the partition of immovable property,</p><p class=\"lvl\">(c) for foreclosure, sale or redemption in the case of a mortgage of or charge upon immovable property,</p><p class=\"lvl\">(d) or the determination of any other right to or interest in immovable property,</p><p class=\"lvl\">(e) for compensation for wrong to immovable property,</p><p class=\"lvl\">(f) for the recovery of movable property actually under distraint or attachment,</p><p>shall be instituted in the Court within the local limits of whose jurisdiction the property is situate:</p><p class=\"prvso\">Provided that a suit to obtain relief respecting, or compensation for wrong to, immovable property held by or on behalf of the defendant may, where the relief sought can be entirely obtained through his personal obedience, be instituted either in the Court within the local limits of whose jurisdiction the property is situate, or in the Court within the local limits of whose jurisdiction the defendant actually and voluntarily resides, or carries on business, or personally works for gain.</p><p class=\"prvso\">Explanation.—In this section “property” means property situate in <sup>1</sup>[India].</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 2 of 1951, s. 3, for “the States” (w.e.f. 1-4-1951).</p></div>"
+  }
+}

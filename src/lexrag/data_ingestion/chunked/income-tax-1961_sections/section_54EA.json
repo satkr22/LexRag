@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_54EA_chunk_0",
+    "section_id": "income-tax-1961_section_54EA",
+    "token_count": 447,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 54EA::Capital gain on transfer of long-term capital assets not to be charged in the case of investment in specified securities.\n]\n\n\n(1) Where the capital gain arises from the transfer of a long-term capital asset before the 1st day of April, 2000 (the capital asset so transferred being hereafter in this section referred to as the original asset) and the assessee has, at any time within a period of six months after the date of such transfer, invested the whole or any part of the net consideration in any of the bonds, debentures, shares of a public company or units of any mutual fund referred to in clause (23D) of section 10, specified by the Board in this behalf by notification in the Official Gazette (such assets hereafter in this section referred to as the specified securities), the capital gain shall be dealt with in accordance with the following provisions of this section, that is to say,—\n  (a) if the cost of the specified securities is not less than the net consideration in respect of the original asset, the whole of such capital gain shall not be charged under section 45;\n  (b) if the cost of the specified securities is less than the net consideration in respect of the original asset, so much of the capital gain as bears to the whole of the capital gain the same proportion as the cost of acquisition of the specified securities bears to the net consideration shall not be charged under section 45.\n  (2) Where the specified securities are transferred or converted (otherwise than by transfer) into money at any time within a period of three years from the date of their acquisition, the amount of capital gain arising from the transfer of the original asset not charged under section 45 on the basis of the cost of such specified securities as provided in clause (a) or clause (b) of sub-section (1) shall be deemed to be the income chargeable under the head \"Capital gains\" relating to long-term capital assets of the previous year in which the specified securities are transferred or converted (otherwise than by transfer) into money.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_54EA_chunk_0",
+      "section_id": "income-tax-1961_section_54EA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "54EA",
+      "section_title": "Capital gain on transfer of long-term capital assets not to be charged in the case of investment in specified securities."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_54EA_chunk_1",
+    "section_id": "income-tax-1961_section_54EA",
+    "token_count": 413,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 54EA::Capital gain on transfer of long-term capital assets not to be charged in the case of investment in specified securities.\n]\n\n\n(1) Where the capital gain arises from the transfer of a long-term capital asset before the 1st day of April, 2000 (the capital asset so transferred being hereafter in this section referred to as the original asset) and the assessee has, at any time within a period of six months after the date of such transfer, invested the whole or any part of the net consideration in any of the bonds, debentures, shares of a public company or units of any mutual fund referred to in clause (23D) of section 10, specified by the Board in this behalf by notification in the Official Gazette (such assets hereafter in this section referred to as the specified securities), the capital gain shall be dealt with in accordance with the following provisions of this section, that is to say,—\n  Explanation.—In a case where the original asset is transferred and the assessee invests the whole or any part of the net consideration in respect of the original asset in any specified securities and such assessee takes any loan or advance on the security of such specified securities, he shall be deemed to have converted (otherwise than by transfer) such specified securities into money on the date on which such loan or advance is taken.\n  (3) [***]\n  Explanation.—For the purposes of this section,—\n  (a) \"cost\", in relation to any specified securities, means the amount invested in such specified securities out of the net consideration received or accruing as a result of the transfer of the original asset ;\n  (b) \"net consideration\", in relation to the transfer of a capital asset, means the full value of the consideration received or accruing as a result of the transfer of the capital asset as reduced by the expenditure incurred wholly and exclusively in connection with such transfer.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_54EA_chunk_1",
+      "section_id": "income-tax-1961_section_54EA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "54EA",
+      "section_title": "Capital gain on transfer of long-term capital assets not to be charged in the case of investment in specified securities."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_14A_chunk_0",
+    "section_id": "income-tax-1961_section_14A",
+    "token_count": 409,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 14A::Expenditure incurred in relation to income not includible in total income.\n]\n\n\n(1) Notwithstanding anything to the contrary contained in this Act, for the purposes of computing the total income under this Chapter, no deduction shall be allowed in respect of expenditure incurred by the assessee in relation to income which does not form part of the total income under this Act.\n(2) The Assessing Officer shall determine the amount of expenditure incurred in relation to such income which does not form part of the total income under this Act in accordance with such method as may be prescribed, if the Assessing Officer, having regard to the accounts of the assessee, is not satisfied with the correctness of the claim of the assessee in respect of such expenditure in relation to income which does not form part of the total income under this Act.\n(3) The provisions of sub-section (2) shall also apply in relation to a case where an assessee claims that no expenditure has been incurred by him in relation to income which does not form part of the total income under this Act :\nProvided that nothing contained in this section shall empower the Assessing Officer either to reassess under section 147 or pass an order enhancing the assessment or reducing a refund already made or otherwise increasing the liability of the assessee under section 154, for any assessment year beginning on or before the 1st day of April, 2001.\nExplanation.—For the removal of doubts, it is hereby clarified that notwithstanding anything to the contrary contained in this Act, the provisions of this section shall apply and shall be deemed to have always applied in a case where the income, not forming part of the total income under this Act, has not accrued or arisen or has not been received during the previous year relevant to an assessment year and the expenditure has been incurred during the said previous year in relation to such income not forming part of the total income.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_14A_chunk_0",
+      "section_id": "income-tax-1961_section_14A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "14A",
+      "section_title": "Expenditure incurred in relation to income not includible in total income."
+    }
+  }
+]

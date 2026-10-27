@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-14.html",
+    "source_order": 14,
+    "article_order": 38,
+    "order": 264,
+    "stem": "section_264",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of False Evidence and Offences Against Public Justice",
+    "heading_range": "227 – 269",
+    "heading_source": "group-head",
+    "article_number": "264",
+    "article_title": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for",
+    "id": "bns_section_264"
+  },
+  "id": "bns_section_264",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of False Evidence and Offences Against Public Justice",
+    "range": "227 – 269"
+  },
+  "article": {
+    "number": "264",
+    "title": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for",
+    "content": "Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 259, section 260 or section 261, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished—\n(a)if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and\n(b)if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.\n",
+    "html": "<article class=\"provision\" data-n=\"264\" data-report=\"Section 264 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">264</span>Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for</h3></div><p class=\"prov-cite\">Section 264 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 259, section 260 or section 261, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished—</p><p><span class=\"lbl\">(a)</span>if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and</p><p><span class=\"lbl\">(b)</span>if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">264</span>Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for</h3></div><p class=\"prov-cite\">Section 264 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 259, section 260 or section 261, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished—</p><p><span class=\"lbl\">(a)</span>if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and</p><p><span class=\"lbl\">(b)</span>if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.</p></div>"
+  }
+}

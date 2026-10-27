@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_208_chunk_0",
+    "section_id": "income-tax-2025_section_208",
+    "token_count": 484,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 208::Tax on income from units purchased in foreign currency or capital gains arising from their transfer.\n]\n\n\n(1) The income-tax payable on the total income of an assessee, being an overseas financial organisation (herein referred to as Offshore Fund), which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.\n  (2) Where the gross total income of the Offshore Fund—\n  (a) consists only of income from units or income by way of long-term capital gains arising from the transfer of units, or both, no deduction shall be allowed to the assessee under sections 28 to 58, 60 and 61 or section 93(1)(a) or (e) or under Chapter VIII;\n  (b) includes any income referred to in clause (a),—\n  (i) the gross total income shall be reduced by such income; and\n  (ii) the deduction under Chapter VIII shall be allowed as if the gross total income so reduced were the gross total income of the assessee.\n  (3) For the purposes of this section,—\n  (a) \"overseas financial organisation\" means any fund, institution, association or body, whether incorporated or not, established under the laws of a country outside India,—\n  (i) which has entered into an arrangement for investment in India with any public sector bank or public financial institution or a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21); and\n  (ii) such arrangement is approved by the Securities and Exchange Board of India, established under the Securities and Exchange Board of India Act, 1992 (15 of 1992), for this purpose;\n  (b) \"public financial institution\" shall have the same meaning as assigned to it in section 2(72) of the Companies Act, 2013 (18 of 2013);\n  (c) \"unit\" means unit of,—\n  (i) a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21); or\n  (ii) the Unit Trust of India.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_208_chunk_0",
+      "section_id": "income-tax-2025_section_208",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "208",
+      "section_title": "Tax on income from units purchased in foreign currency or capital gains arising from their transfer."
+    }
+  }
+]

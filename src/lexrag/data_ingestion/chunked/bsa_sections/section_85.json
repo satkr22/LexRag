@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_85_chunk_0",
+    "section_id": "bsa_section_85",
+    "token_count": 65,
+    "text": "[Act: bsa\n Chapter: Of Documentary Evidence\n Section: 85::Presumption as to electronic agreements\n]\n\n\nThe Court shall presume that every electronic record purporting to be an agreement containing the electronic or digital signature of the parties was so concluded by affixing the electronic or digital signature of the parties.",
+    "metadata": {
+      "chunk_id": "bsa_section_85_chunk_0",
+      "section_id": "bsa_section_85",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Documentary Evidence",
+      "section_number": "85",
+      "section_title": "Presumption as to electronic agreements"
+    }
+  }
+]

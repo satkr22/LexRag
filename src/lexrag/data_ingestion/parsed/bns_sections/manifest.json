@@ -1,0 +1,2156 @@
+{
+  "act": "bns",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/bns_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/bns_sections",
+  "count": 358,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, commencement and application",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "General explanations",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Punishments",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Commutation of sentence",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Fractions of terms of punishment",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Amount of fine, liability in default of payment of fine, etc.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Limit of punishment of offence made up of several offences",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Solitary confinement",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Limit of solitary confinement",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Enhanced punishment for certain offences after previous conviction",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Act of Judge when acting judicially",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Act done pursuant to judgment or order of Court",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "17",
+      "article_title": "Act done by a person justified, or by mistake of fact believing himself justified, by law",
+      "file": "section_17.json"
+    },
+    {
+      "order": 18,
+      "article_number": "18",
+      "article_title": "Accident in doing a lawful act",
+      "file": "section_18.json"
+    },
+    {
+      "order": 19,
+      "article_number": "19",
+      "article_title": "Act likely to cause harm, but done without criminal intent, and to prevent other harm",
+      "file": "section_19.json"
+    },
+    {
+      "order": 20,
+      "article_number": "20",
+      "article_title": "Act of a child under seven years of age",
+      "file": "section_20.json"
+    },
+    {
+      "order": 21,
+      "article_number": "21",
+      "article_title": "Act of a child above seven and under twelve years of age of immature understanding",
+      "file": "section_21.json"
+    },
+    {
+      "order": 22,
+      "article_number": "22",
+      "article_title": "Act of a person of unsound mind",
+      "file": "section_22.json"
+    },
+    {
+      "order": 23,
+      "article_number": "23",
+      "article_title": "Act of a person incapable of judgment by reason of intoxication caused against his will",
+      "file": "section_23.json"
+    },
+    {
+      "order": 24,
+      "article_number": "24",
+      "article_title": "Offence requiring a particular intent or knowledge committed by one who is intoxicated",
+      "file": "section_24.json"
+    },
+    {
+      "order": 25,
+      "article_number": "25",
+      "article_title": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent",
+      "file": "section_25.json"
+    },
+    {
+      "order": 26,
+      "article_number": "26",
+      "article_title": "Act not intended to cause death, done by consent in good faith for person’s benefit",
+      "file": "section_26.json"
+    },
+    {
+      "order": 27,
+      "article_number": "27",
+      "article_title": "Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian",
+      "file": "section_27.json"
+    },
+    {
+      "order": 28,
+      "article_number": "28",
+      "article_title": "Consent known to be given under fear or misconception",
+      "file": "section_28.json"
+    },
+    {
+      "order": 29,
+      "article_number": "29",
+      "article_title": "Exclusion of acts which are offences independently of harm caused",
+      "file": "section_29.json"
+    },
+    {
+      "order": 30,
+      "article_number": "30",
+      "article_title": "Act done in good faith for benefit of a person without consent",
+      "file": "section_30.json"
+    },
+    {
+      "order": 31,
+      "article_number": "31",
+      "article_title": "Communication made in good faith",
+      "file": "section_31.json"
+    },
+    {
+      "order": 32,
+      "article_number": "32",
+      "article_title": "Act to which a person is compelled by threats",
+      "file": "section_32.json"
+    },
+    {
+      "order": 33,
+      "article_number": "33",
+      "article_title": "Act causing slight harm",
+      "file": "section_33.json"
+    },
+    {
+      "order": 34,
+      "article_number": "34",
+      "article_title": "Things done in private defence",
+      "file": "section_34.json"
+    },
+    {
+      "order": 35,
+      "article_number": "35",
+      "article_title": "Right of private defence of body and of property",
+      "file": "section_35.json"
+    },
+    {
+      "order": 36,
+      "article_number": "36",
+      "article_title": "Right of private defence against act of a person of unsound mind, etc.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 37,
+      "article_number": "37",
+      "article_title": "Acts against which there is no right of private defence",
+      "file": "section_37.json"
+    },
+    {
+      "order": 38,
+      "article_number": "38",
+      "article_title": "When right of private defence of body extends to causing death",
+      "file": "section_38.json"
+    },
+    {
+      "order": 39,
+      "article_number": "39",
+      "article_title": "When such right extends to causing any harm other than death",
+      "file": "section_39.json"
+    },
+    {
+      "order": 40,
+      "article_number": "40",
+      "article_title": "Commencement and continuance of right of private defence of body",
+      "file": "section_40.json"
+    },
+    {
+      "order": 41,
+      "article_number": "41",
+      "article_title": "When right of private defence of property extends to causing death",
+      "file": "section_41.json"
+    },
+    {
+      "order": 42,
+      "article_number": "42",
+      "article_title": "When such right extends to causing any harm other than death",
+      "file": "section_42.json"
+    },
+    {
+      "order": 43,
+      "article_number": "43",
+      "article_title": "Commencement and continuance of right of private defence of property",
+      "file": "section_43.json"
+    },
+    {
+      "order": 44,
+      "article_number": "44",
+      "article_title": "Right of private defence against deadly assault when there is risk of harm to innocent person",
+      "file": "section_44.json"
+    },
+    {
+      "order": 45,
+      "article_number": "45",
+      "article_title": "Abetment of a thing",
+      "file": "section_45.json"
+    },
+    {
+      "order": 46,
+      "article_number": "46",
+      "article_title": "Abettor",
+      "file": "section_46.json"
+    },
+    {
+      "order": 47,
+      "article_number": "47",
+      "article_title": "Abetment in India of offences outside India",
+      "file": "section_47.json"
+    },
+    {
+      "order": 48,
+      "article_number": "48",
+      "article_title": "Abetment outside India for offence in India",
+      "file": "section_48.json"
+    },
+    {
+      "order": 49,
+      "article_number": "49",
+      "article_title": "Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment",
+      "file": "section_49.json"
+    },
+    {
+      "order": 50,
+      "article_number": "50",
+      "article_title": "Punishment of abetment if person abetted does act with different intention from that of abettor",
+      "file": "section_50.json"
+    },
+    {
+      "order": 51,
+      "article_number": "51",
+      "article_title": "Liability of abettor when one act abetted and different act done",
+      "file": "section_51.json"
+    },
+    {
+      "order": 52,
+      "article_number": "52",
+      "article_title": "Abettor when liable to cumulative punishment for act abetted and for act done",
+      "file": "section_52.json"
+    },
+    {
+      "order": 53,
+      "article_number": "53",
+      "article_title": "Liability of abettor for an effect caused by act abetted different from that intended by abettor",
+      "file": "section_53.json"
+    },
+    {
+      "order": 54,
+      "article_number": "54",
+      "article_title": "Abettor present when offence is committed",
+      "file": "section_54.json"
+    },
+    {
+      "order": 55,
+      "article_number": "55",
+      "article_title": "Abetment of offence punishable with death or imprisonment for life",
+      "file": "section_55.json"
+    },
+    {
+      "order": 56,
+      "article_number": "56",
+      "article_title": "Abetment of offence punishable with imprisonment",
+      "file": "section_56.json"
+    },
+    {
+      "order": 57,
+      "article_number": "57",
+      "article_title": "Abetting commission of offence by public or by more than ten persons",
+      "file": "section_57.json"
+    },
+    {
+      "order": 58,
+      "article_number": "58",
+      "article_title": "Concealing design to commit offence punishable with death or imprisonment for life",
+      "file": "section_58.json"
+    },
+    {
+      "order": 59,
+      "article_number": "59",
+      "article_title": "Public servant concealing design to commit offence which it is his duty to prevent",
+      "file": "section_59.json"
+    },
+    {
+      "order": 60,
+      "article_number": "60",
+      "article_title": "Concealing design to commit offence punishable with imprisonment",
+      "file": "section_60.json"
+    },
+    {
+      "order": 61,
+      "article_number": "61",
+      "article_title": "Criminal conspiracy",
+      "file": "section_61.json"
+    },
+    {
+      "order": 62,
+      "article_number": "62",
+      "article_title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+      "file": "section_62.json"
+    },
+    {
+      "order": 63,
+      "article_number": "63",
+      "article_title": "Rape",
+      "file": "section_63.json"
+    },
+    {
+      "order": 64,
+      "article_number": "64",
+      "article_title": "Punishment for rape",
+      "file": "section_64.json"
+    },
+    {
+      "order": 65,
+      "article_number": "65",
+      "article_title": "Punishment for rape in certain cases",
+      "file": "section_65.json"
+    },
+    {
+      "order": 66,
+      "article_number": "66",
+      "article_title": "Punishment for causing death or resulting in persistent vegetative state of victim",
+      "file": "section_66.json"
+    },
+    {
+      "order": 67,
+      "article_number": "67",
+      "article_title": "Sexual intercourse by husband upon his wife during separation",
+      "file": "section_67.json"
+    },
+    {
+      "order": 68,
+      "article_number": "68",
+      "article_title": "Sexual intercourse by a person in authority",
+      "file": "section_68.json"
+    },
+    {
+      "order": 69,
+      "article_number": "69",
+      "article_title": "Sexual intercourse by employing deceitful means, etc.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 70,
+      "article_number": "70",
+      "article_title": "Gang rape",
+      "file": "section_70.json"
+    },
+    {
+      "order": 71,
+      "article_number": "71",
+      "article_title": "Punishment for repeat offenders",
+      "file": "section_71.json"
+    },
+    {
+      "order": 72,
+      "article_number": "72",
+      "article_title": "Disclosure of identity of victim of certain offences, etc.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 73,
+      "article_number": "73",
+      "article_title": "Printing or publishing any matter relating to Court proceedings without permission",
+      "file": "section_73.json"
+    },
+    {
+      "order": 74,
+      "article_number": "74",
+      "article_title": "Assault or use of criminal force to woman with intent to outrage her modesty",
+      "file": "section_74.json"
+    },
+    {
+      "order": 75,
+      "article_number": "75",
+      "article_title": "Sexual harassment",
+      "file": "section_75.json"
+    },
+    {
+      "order": 76,
+      "article_number": "76",
+      "article_title": "Assault or use of criminal force to woman with intent to disrobe",
+      "file": "section_76.json"
+    },
+    {
+      "order": 77,
+      "article_number": "77",
+      "article_title": "Voyeurism",
+      "file": "section_77.json"
+    },
+    {
+      "order": 78,
+      "article_number": "78",
+      "article_title": "Stalking",
+      "file": "section_78.json"
+    },
+    {
+      "order": 79,
+      "article_number": "79",
+      "article_title": "Word, gesture or act intended to insult modesty of a woman",
+      "file": "section_79.json"
+    },
+    {
+      "order": 80,
+      "article_number": "80",
+      "article_title": "Dowry death",
+      "file": "section_80.json"
+    },
+    {
+      "order": 81,
+      "article_number": "81",
+      "article_title": "Cohabitation caused by man deceitfully inducing belief of lawful marriage",
+      "file": "section_81.json"
+    },
+    {
+      "order": 82,
+      "article_number": "82",
+      "article_title": "Marrying again during lifetime of husband or wife",
+      "file": "section_82.json"
+    },
+    {
+      "order": 83,
+      "article_number": "83",
+      "article_title": "Marriage ceremony fraudulently gone through without lawful marriage",
+      "file": "section_83.json"
+    },
+    {
+      "order": 84,
+      "article_number": "84",
+      "article_title": "Enticing or taking away or detaining with criminal intent a married woman",
+      "file": "section_84.json"
+    },
+    {
+      "order": 85,
+      "article_number": "85",
+      "article_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+      "file": "section_85.json"
+    },
+    {
+      "order": 86,
+      "article_number": "86",
+      "article_title": "Cruelty defined",
+      "file": "section_86.json"
+    },
+    {
+      "order": 87,
+      "article_number": "87",
+      "article_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 88,
+      "article_number": "88",
+      "article_title": "Causing miscarriage",
+      "file": "section_88.json"
+    },
+    {
+      "order": 89,
+      "article_number": "89",
+      "article_title": "Causing miscarriage without woman’s consent",
+      "file": "section_89.json"
+    },
+    {
+      "order": 90,
+      "article_number": "90",
+      "article_title": "Death caused by act done with intent to cause miscarriage",
+      "file": "section_90.json"
+    },
+    {
+      "order": 91,
+      "article_number": "91",
+      "article_title": "Act done with intent to prevent child being born alive or to cause to die after birth",
+      "file": "section_91.json"
+    },
+    {
+      "order": 92,
+      "article_number": "92",
+      "article_title": "Causing death of quick unborn child by act amounting to culpable homicide",
+      "file": "section_92.json"
+    },
+    {
+      "order": 93,
+      "article_number": "93",
+      "article_title": "Exposure and abandonment of child under twelve years of age, by parent or person having care of it",
+      "file": "section_93.json"
+    },
+    {
+      "order": 94,
+      "article_number": "94",
+      "article_title": "Concealment of birth by secret disposal of dead body",
+      "file": "section_94.json"
+    },
+    {
+      "order": 95,
+      "article_number": "95",
+      "article_title": "Hiring, employing or engaging a child to commit an offence",
+      "file": "section_95.json"
+    },
+    {
+      "order": 96,
+      "article_number": "96",
+      "article_title": "Procuration of child",
+      "file": "section_96.json"
+    },
+    {
+      "order": 97,
+      "article_number": "97",
+      "article_title": "Kidnapping or abducting child under ten years of age with intent to steal from its person",
+      "file": "section_97.json"
+    },
+    {
+      "order": 98,
+      "article_number": "98",
+      "article_title": "Selling child for purposes of prostitution, etc.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 99,
+      "article_number": "99",
+      "article_title": "Buying child for purposes of prostitution, etc.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 100,
+      "article_number": "100",
+      "article_title": "Culpable homicide",
+      "file": "section_100.json"
+    },
+    {
+      "order": 101,
+      "article_number": "101",
+      "article_title": "Murder",
+      "file": "section_101.json"
+    },
+    {
+      "order": 102,
+      "article_number": "102",
+      "article_title": "Culpable homicide by causing death of person other than person whose death was intended",
+      "file": "section_102.json"
+    },
+    {
+      "order": 103,
+      "article_number": "103",
+      "article_title": "Punishment for murder",
+      "file": "section_103.json"
+    },
+    {
+      "order": 104,
+      "article_number": "104",
+      "article_title": "Punishment for murder by life-convict",
+      "file": "section_104.json"
+    },
+    {
+      "order": 105,
+      "article_number": "105",
+      "article_title": "Punishment for culpable homicide not amounting to murder",
+      "file": "section_105.json"
+    },
+    {
+      "order": 106,
+      "article_number": "106",
+      "article_title": "Causing death by negligence",
+      "file": "section_106.json"
+    },
+    {
+      "order": 107,
+      "article_number": "107",
+      "article_title": "Abetment of suicide of child or person of unsound mind",
+      "file": "section_107.json"
+    },
+    {
+      "order": 108,
+      "article_number": "108",
+      "article_title": "Abetment of suicide",
+      "file": "section_108.json"
+    },
+    {
+      "order": 109,
+      "article_number": "109",
+      "article_title": "Attempt to murder",
+      "file": "section_109.json"
+    },
+    {
+      "order": 110,
+      "article_number": "110",
+      "article_title": "Attempt to commit culpable homicide",
+      "file": "section_110.json"
+    },
+    {
+      "order": 111,
+      "article_number": "111",
+      "article_title": "Organised crime",
+      "file": "section_111.json"
+    },
+    {
+      "order": 112,
+      "article_number": "112",
+      "article_title": "Petty organised crime",
+      "file": "section_112.json"
+    },
+    {
+      "order": 113,
+      "article_number": "113",
+      "article_title": "Terrorist act",
+      "file": "section_113.json"
+    },
+    {
+      "order": 114,
+      "article_number": "114",
+      "article_title": "Hurt",
+      "file": "section_114.json"
+    },
+    {
+      "order": 115,
+      "article_number": "115",
+      "article_title": "Voluntarily causing hurt",
+      "file": "section_115.json"
+    },
+    {
+      "order": 116,
+      "article_number": "116",
+      "article_title": "Grievous hurt",
+      "file": "section_116.json"
+    },
+    {
+      "order": 117,
+      "article_number": "117",
+      "article_title": "Voluntarily causing grievous hurt",
+      "file": "section_117.json"
+    },
+    {
+      "order": 118,
+      "article_number": "118",
+      "article_title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means",
+      "file": "section_118.json"
+    },
+    {
+      "order": 119,
+      "article_number": "119",
+      "article_title": "Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act",
+      "file": "section_119.json"
+    },
+    {
+      "order": 120,
+      "article_number": "120",
+      "article_title": "Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property",
+      "file": "section_120.json"
+    },
+    {
+      "order": 121,
+      "article_number": "121",
+      "article_title": "Voluntarily causing hurt or grievous hurt to deter public servant from his duty",
+      "file": "section_121.json"
+    },
+    {
+      "order": 122,
+      "article_number": "122",
+      "article_title": "Voluntarily causing hurt or grievous hurt on provocation",
+      "file": "section_122.json"
+    },
+    {
+      "order": 123,
+      "article_number": "123",
+      "article_title": "Causing hurt by means of poison, etc., with intent to commit an offence",
+      "file": "section_123.json"
+    },
+    {
+      "order": 124,
+      "article_number": "124",
+      "article_title": "Voluntarily causing grievous hurt by use of acid, etc.",
+      "file": "section_124.json"
+    },
+    {
+      "order": 125,
+      "article_number": "125",
+      "article_title": "Act endangering life or personal safety of others",
+      "file": "section_125.json"
+    },
+    {
+      "order": 126,
+      "article_number": "126",
+      "article_title": "Wrongful restraint",
+      "file": "section_126.json"
+    },
+    {
+      "order": 127,
+      "article_number": "127",
+      "article_title": "Wrongful confinement",
+      "file": "section_127.json"
+    },
+    {
+      "order": 128,
+      "article_number": "128",
+      "article_title": "Force",
+      "file": "section_128.json"
+    },
+    {
+      "order": 129,
+      "article_number": "129",
+      "article_title": "Criminal force",
+      "file": "section_129.json"
+    },
+    {
+      "order": 130,
+      "article_number": "130",
+      "article_title": "Assault",
+      "file": "section_130.json"
+    },
+    {
+      "order": 131,
+      "article_number": "131",
+      "article_title": "Punishment for assault or criminal force otherwise than on grave provocation",
+      "file": "section_131.json"
+    },
+    {
+      "order": 132,
+      "article_number": "132",
+      "article_title": "Assault or criminal force to deter public servant from discharge of his duty",
+      "file": "section_132.json"
+    },
+    {
+      "order": 133,
+      "article_number": "133",
+      "article_title": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",
+      "file": "section_133.json"
+    },
+    {
+      "order": 134,
+      "article_number": "134",
+      "article_title": "Assault or criminal force in attempt to commit theft of property carried by a person",
+      "file": "section_134.json"
+    },
+    {
+      "order": 135,
+      "article_number": "135",
+      "article_title": "Assault or criminal force in attempt to wrongfully confine a person",
+      "file": "section_135.json"
+    },
+    {
+      "order": 136,
+      "article_number": "136",
+      "article_title": "Assault or criminal force on grave provocation",
+      "file": "section_136.json"
+    },
+    {
+      "order": 137,
+      "article_number": "137",
+      "article_title": "Kidnapping",
+      "file": "section_137.json"
+    },
+    {
+      "order": 138,
+      "article_number": "138",
+      "article_title": "Abduction",
+      "file": "section_138.json"
+    },
+    {
+      "order": 139,
+      "article_number": "139",
+      "article_title": "Kidnapping or maiming a child for purposes of begging",
+      "file": "section_139.json"
+    },
+    {
+      "order": 140,
+      "article_number": "140",
+      "article_title": "Kidnapping or abducting in order to murder or for ransom, etc.",
+      "file": "section_140.json"
+    },
+    {
+      "order": 141,
+      "article_number": "141",
+      "article_title": "Importation of girl or boy from foreign country",
+      "file": "section_141.json"
+    },
+    {
+      "order": 142,
+      "article_number": "142",
+      "article_title": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person",
+      "file": "section_142.json"
+    },
+    {
+      "order": 143,
+      "article_number": "143",
+      "article_title": "Trafficking of person",
+      "file": "section_143.json"
+    },
+    {
+      "order": 144,
+      "article_number": "144",
+      "article_title": "Exploitation of a trafficked person",
+      "file": "section_144.json"
+    },
+    {
+      "order": 145,
+      "article_number": "145",
+      "article_title": "Habitual dealing in slaves",
+      "file": "section_145.json"
+    },
+    {
+      "order": 146,
+      "article_number": "146",
+      "article_title": "Unlawful compulsory labour",
+      "file": "section_146.json"
+    },
+    {
+      "order": 147,
+      "article_number": "147",
+      "article_title": "Waging, or attempting to wage war, or abetting waging of war, against Government of India",
+      "file": "section_147.json"
+    },
+    {
+      "order": 148,
+      "article_number": "148",
+      "article_title": "Conspiracy to commit offences punishable by section 147",
+      "file": "section_148.json"
+    },
+    {
+      "order": 149,
+      "article_number": "149",
+      "article_title": "Collecting arms, etc., with intention of waging war against Government of India",
+      "file": "section_149.json"
+    },
+    {
+      "order": 150,
+      "article_number": "150",
+      "article_title": "Concealing with intent to facilitate design to wage war",
+      "file": "section_150.json"
+    },
+    {
+      "order": 151,
+      "article_number": "151",
+      "article_title": "Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power",
+      "file": "section_151.json"
+    },
+    {
+      "order": 152,
+      "article_number": "152",
+      "article_title": "Act endangering sovereignty, unity and integrity of India",
+      "file": "section_152.json"
+    },
+    {
+      "order": 153,
+      "article_number": "153",
+      "article_title": "Waging war against Government of any foreign State at peace with Government of India",
+      "file": "section_153.json"
+    },
+    {
+      "order": 154,
+      "article_number": "154",
+      "article_title": "Committing depredation on territories of foreign State at peace with Government of India",
+      "file": "section_154.json"
+    },
+    {
+      "order": 155,
+      "article_number": "155",
+      "article_title": "Receiving property taken by war or depredation mentioned in sections 153 and 154",
+      "file": "section_155.json"
+    },
+    {
+      "order": 156,
+      "article_number": "156",
+      "article_title": "Public servant voluntarily allowing prisoner of State or war to escape",
+      "file": "section_156.json"
+    },
+    {
+      "order": 157,
+      "article_number": "157",
+      "article_title": "Public servant negligently suffering such prisoner to escape",
+      "file": "section_157.json"
+    },
+    {
+      "order": 158,
+      "article_number": "158",
+      "article_title": "Aiding escape of, rescuing or harbouring such prisoner",
+      "file": "section_158.json"
+    },
+    {
+      "order": 159,
+      "article_number": "159",
+      "article_title": "Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty",
+      "file": "section_159.json"
+    },
+    {
+      "order": 160,
+      "article_number": "160",
+      "article_title": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+      "file": "section_160.json"
+    },
+    {
+      "order": 161,
+      "article_number": "161",
+      "article_title": "Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office",
+      "file": "section_161.json"
+    },
+    {
+      "order": 162,
+      "article_number": "162",
+      "article_title": "Abetment of such assault, if assault committed",
+      "file": "section_162.json"
+    },
+    {
+      "order": 163,
+      "article_number": "163",
+      "article_title": "Abetment of desertion of soldier, sailor or airman",
+      "file": "section_163.json"
+    },
+    {
+      "order": 164,
+      "article_number": "164",
+      "article_title": "Harbouring deserter",
+      "file": "section_164.json"
+    },
+    {
+      "order": 165,
+      "article_number": "165",
+      "article_title": "Deserter concealed on board merchant vessel through negligence of master",
+      "file": "section_165.json"
+    },
+    {
+      "order": 166,
+      "article_number": "166",
+      "article_title": "Abetment of act of insubordination by soldier, sailor or airman",
+      "file": "section_166.json"
+    },
+    {
+      "order": 167,
+      "article_number": "167",
+      "article_title": "Persons subject to certain Acts",
+      "file": "section_167.json"
+    },
+    {
+      "order": 168,
+      "article_number": "168",
+      "article_title": "Wearing garb or carrying token used by soldier, sailor or airman",
+      "file": "section_168.json"
+    },
+    {
+      "order": 169,
+      "article_number": "169",
+      "article_title": "Candidate, electoral right defined",
+      "file": "section_169.json"
+    },
+    {
+      "order": 170,
+      "article_number": "170",
+      "article_title": "Bribery",
+      "file": "section_170.json"
+    },
+    {
+      "order": 171,
+      "article_number": "171",
+      "article_title": "Undue influence at elections",
+      "file": "section_171.json"
+    },
+    {
+      "order": 172,
+      "article_number": "172",
+      "article_title": "Personation at elections",
+      "file": "section_172.json"
+    },
+    {
+      "order": 173,
+      "article_number": "173",
+      "article_title": "Punishment for bribery",
+      "file": "section_173.json"
+    },
+    {
+      "order": 174,
+      "article_number": "174",
+      "article_title": "Punishment for undue influence or personation at an election",
+      "file": "section_174.json"
+    },
+    {
+      "order": 175,
+      "article_number": "175",
+      "article_title": "False statement in connection with an election",
+      "file": "section_175.json"
+    },
+    {
+      "order": 176,
+      "article_number": "176",
+      "article_title": "Illegal payments in connection with an election",
+      "file": "section_176.json"
+    },
+    {
+      "order": 177,
+      "article_number": "177",
+      "article_title": "Failure to keep election accounts",
+      "file": "section_177.json"
+    },
+    {
+      "order": 178,
+      "article_number": "178",
+      "article_title": "Counterfeiting coin, Government stamps, currency-notes or bank-notes",
+      "file": "section_178.json"
+    },
+    {
+      "order": 179,
+      "article_number": "179",
+      "article_title": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes",
+      "file": "section_179.json"
+    },
+    {
+      "order": 180,
+      "article_number": "180",
+      "article_title": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes",
+      "file": "section_180.json"
+    },
+    {
+      "order": 181,
+      "article_number": "181",
+      "article_title": "Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes",
+      "file": "section_181.json"
+    },
+    {
+      "order": 182,
+      "article_number": "182",
+      "article_title": "Making or using documents resembling currency-notes or bank-notes",
+      "file": "section_182.json"
+    },
+    {
+      "order": 183,
+      "article_number": "183",
+      "article_title": "Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government",
+      "file": "section_183.json"
+    },
+    {
+      "order": 184,
+      "article_number": "184",
+      "article_title": "Using Government stamp known to have been before used",
+      "file": "section_184.json"
+    },
+    {
+      "order": 185,
+      "article_number": "185",
+      "article_title": "Erasure of mark denoting that stamp has been used",
+      "file": "section_185.json"
+    },
+    {
+      "order": 186,
+      "article_number": "186",
+      "article_title": "Prohibition of fictitious stamps",
+      "file": "section_186.json"
+    },
+    {
+      "order": 187,
+      "article_number": "187",
+      "article_title": "Person employed in mint causing coin to be of different weight or composition from that fixed by law",
+      "file": "section_187.json"
+    },
+    {
+      "order": 188,
+      "article_number": "188",
+      "article_title": "Unlawfully taking coining instrument from mint",
+      "file": "section_188.json"
+    },
+    {
+      "order": 189,
+      "article_number": "189",
+      "article_title": "Unlawful assembly",
+      "file": "section_189.json"
+    },
+    {
+      "order": 190,
+      "article_number": "190",
+      "article_title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+      "file": "section_190.json"
+    },
+    {
+      "order": 191,
+      "article_number": "191",
+      "article_title": "Rioting",
+      "file": "section_191.json"
+    },
+    {
+      "order": 192,
+      "article_number": "192",
+      "article_title": "Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed",
+      "file": "section_192.json"
+    },
+    {
+      "order": 193,
+      "article_number": "193",
+      "article_title": "Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place",
+      "file": "section_193.json"
+    },
+    {
+      "order": 194,
+      "article_number": "194",
+      "article_title": "Affray",
+      "file": "section_194.json"
+    },
+    {
+      "order": 195,
+      "article_number": "195",
+      "article_title": "Assaulting or obstructing public servant when suppressing riot, etc.",
+      "file": "section_195.json"
+    },
+    {
+      "order": 196,
+      "article_number": "196",
+      "article_title": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+      "file": "section_196.json"
+    },
+    {
+      "order": 197,
+      "article_number": "197",
+      "article_title": "Imputations, assertions prejudicial to national integration",
+      "file": "section_197.json"
+    },
+    {
+      "order": 198,
+      "article_number": "198",
+      "article_title": "Public servant disobeying law, with intent to cause injury to any person",
+      "file": "section_198.json"
+    },
+    {
+      "order": 199,
+      "article_number": "199",
+      "article_title": "Public servant disobeying direction under law",
+      "file": "section_199.json"
+    },
+    {
+      "order": 200,
+      "article_number": "200",
+      "article_title": "Punishment for non-treatment of victim",
+      "file": "section_200.json"
+    },
+    {
+      "order": 201,
+      "article_number": "201",
+      "article_title": "Public servant framing an incorrect document with intent to cause injury",
+      "file": "section_201.json"
+    },
+    {
+      "order": 202,
+      "article_number": "202",
+      "article_title": "Public servant unlawfully engaging in trade",
+      "file": "section_202.json"
+    },
+    {
+      "order": 203,
+      "article_number": "203",
+      "article_title": "Public servant unlawfully buying or bidding for property",
+      "file": "section_203.json"
+    },
+    {
+      "order": 204,
+      "article_number": "204",
+      "article_title": "Personating a public servant",
+      "file": "section_204.json"
+    },
+    {
+      "order": 205,
+      "article_number": "205",
+      "article_title": "Wearing garb or carrying token used by public servant with fraudulent intent",
+      "file": "section_205.json"
+    },
+    {
+      "order": 206,
+      "article_number": "206",
+      "article_title": "Absconding to avoid service of summons or other proceeding",
+      "file": "section_206.json"
+    },
+    {
+      "order": 207,
+      "article_number": "207",
+      "article_title": "Preventing service of summons or other proceeding, or preventing publication thereof",
+      "file": "section_207.json"
+    },
+    {
+      "order": 208,
+      "article_number": "208",
+      "article_title": "Non-attendance in obedience to an order from public servant",
+      "file": "section_208.json"
+    },
+    {
+      "order": 209,
+      "article_number": "209",
+      "article_title": "Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "file": "section_209.json"
+    },
+    {
+      "order": 210,
+      "article_number": "210",
+      "article_title": "Omission to produce document or electronic record to public servant by person legally bound to produce it",
+      "file": "section_210.json"
+    },
+    {
+      "order": 211,
+      "article_number": "211",
+      "article_title": "Omission to give notice or information to public servant by person legally bound to give it",
+      "file": "section_211.json"
+    },
+    {
+      "order": 212,
+      "article_number": "212",
+      "article_title": "Furnishing false information",
+      "file": "section_212.json"
+    },
+    {
+      "order": 213,
+      "article_number": "213",
+      "article_title": "Refusing oath or affirmation when duly required by public servant to make it",
+      "file": "section_213.json"
+    },
+    {
+      "order": 214,
+      "article_number": "214",
+      "article_title": "Refusing to answer public servant authorised to question",
+      "file": "section_214.json"
+    },
+    {
+      "order": 215,
+      "article_number": "215",
+      "article_title": "Refusing to sign statement",
+      "file": "section_215.json"
+    },
+    {
+      "order": 216,
+      "article_number": "216",
+      "article_title": "False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation",
+      "file": "section_216.json"
+    },
+    {
+      "order": 217,
+      "article_number": "217",
+      "article_title": "False information, with intent to cause public servant to use his lawful power to injury of another person",
+      "file": "section_217.json"
+    },
+    {
+      "order": 218,
+      "article_number": "218",
+      "article_title": "Resistance to taking of property by lawful authority of a public servant",
+      "file": "section_218.json"
+    },
+    {
+      "order": 219,
+      "article_number": "219",
+      "article_title": "Obstructing sale of property offered for sale by authority of public servant",
+      "file": "section_219.json"
+    },
+    {
+      "order": 220,
+      "article_number": "220",
+      "article_title": "Illegal purchase or bid for property offered for sale by authority of public servant",
+      "file": "section_220.json"
+    },
+    {
+      "order": 221,
+      "article_number": "221",
+      "article_title": "Obstructing public servant in discharge of public functions",
+      "file": "section_221.json"
+    },
+    {
+      "order": 222,
+      "article_number": "222",
+      "article_title": "Omission to assist public servant when bound by law to give assistance",
+      "file": "section_222.json"
+    },
+    {
+      "order": 223,
+      "article_number": "223",
+      "article_title": "Disobedience to order duly promulgated by public servant",
+      "file": "section_223.json"
+    },
+    {
+      "order": 224,
+      "article_number": "224",
+      "article_title": "Threat of injury to public servant",
+      "file": "section_224.json"
+    },
+    {
+      "order": 225,
+      "article_number": "225",
+      "article_title": "Threat of injury to induce person to refrain from applying for protection to public servant",
+      "file": "section_225.json"
+    },
+    {
+      "order": 226,
+      "article_number": "226",
+      "article_title": "Attempt to commit suicide to compel or restrain exercise of lawful power",
+      "file": "section_226.json"
+    },
+    {
+      "order": 227,
+      "article_number": "227",
+      "article_title": "Giving false evidence",
+      "file": "section_227.json"
+    },
+    {
+      "order": 228,
+      "article_number": "228",
+      "article_title": "Fabricating false evidence",
+      "file": "section_228.json"
+    },
+    {
+      "order": 229,
+      "article_number": "229",
+      "article_title": "Punishment for false evidence",
+      "file": "section_229.json"
+    },
+    {
+      "order": 230,
+      "article_number": "230",
+      "article_title": "Giving or fabricating false evidence with intent to procure conviction of capital offence",
+      "file": "section_230.json"
+    },
+    {
+      "order": 231,
+      "article_number": "231",
+      "article_title": "Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment",
+      "file": "section_231.json"
+    },
+    {
+      "order": 232,
+      "article_number": "232",
+      "article_title": "Threatening any person to give false evidence",
+      "file": "section_232.json"
+    },
+    {
+      "order": 233,
+      "article_number": "233",
+      "article_title": "Using evidence known to be false",
+      "file": "section_233.json"
+    },
+    {
+      "order": 234,
+      "article_number": "234",
+      "article_title": "Issuing or signing false certificate",
+      "file": "section_234.json"
+    },
+    {
+      "order": 235,
+      "article_number": "235",
+      "article_title": "Using as true a certificate known to be false",
+      "file": "section_235.json"
+    },
+    {
+      "order": 236,
+      "article_number": "236",
+      "article_title": "False statement made in declaration which is by law receivable as evidence",
+      "file": "section_236.json"
+    },
+    {
+      "order": 237,
+      "article_number": "237",
+      "article_title": "Using as true such declaration knowing it to be false",
+      "file": "section_237.json"
+    },
+    {
+      "order": 238,
+      "article_number": "238",
+      "article_title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+      "file": "section_238.json"
+    },
+    {
+      "order": 239,
+      "article_number": "239",
+      "article_title": "Intentional omission to give information of offence by person bound to inform",
+      "file": "section_239.json"
+    },
+    {
+      "order": 240,
+      "article_number": "240",
+      "article_title": "Giving false information respecting an offence committed",
+      "file": "section_240.json"
+    },
+    {
+      "order": 241,
+      "article_number": "241",
+      "article_title": "Destruction of document or electronic record to prevent its production as evidence",
+      "file": "section_241.json"
+    },
+    {
+      "order": 242,
+      "article_number": "242",
+      "article_title": "False personation for purpose of act or proceeding in suit or prosecution",
+      "file": "section_242.json"
+    },
+    {
+      "order": 243,
+      "article_number": "243",
+      "article_title": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution",
+      "file": "section_243.json"
+    },
+    {
+      "order": 244,
+      "article_number": "244",
+      "article_title": "Fraudulent claim to property to prevent its seizure as forfeited or in execution",
+      "file": "section_244.json"
+    },
+    {
+      "order": 245,
+      "article_number": "245",
+      "article_title": "Fraudulently suffering decree for sum not due",
+      "file": "section_245.json"
+    },
+    {
+      "order": 246,
+      "article_number": "246",
+      "article_title": "Dishonestly making false claim in Court",
+      "file": "section_246.json"
+    },
+    {
+      "order": 247,
+      "article_number": "247",
+      "article_title": "Fraudulently obtaining decree for sum not due",
+      "file": "section_247.json"
+    },
+    {
+      "order": 248,
+      "article_number": "248",
+      "article_title": "False charge of offence made with intent to injure",
+      "file": "section_248.json"
+    },
+    {
+      "order": 249,
+      "article_number": "249",
+      "article_title": "Harbouring offender",
+      "file": "section_249.json"
+    },
+    {
+      "order": 250,
+      "article_number": "250",
+      "article_title": "Taking gift, etc., to screen an offender from punishment",
+      "file": "section_250.json"
+    },
+    {
+      "order": 251,
+      "article_number": "251",
+      "article_title": "Offering gift or restoration of property in consideration of screening offender",
+      "file": "section_251.json"
+    },
+    {
+      "order": 252,
+      "article_number": "252",
+      "article_title": "Taking gift to help to recover stolen property, etc.",
+      "file": "section_252.json"
+    },
+    {
+      "order": 253,
+      "article_number": "253",
+      "article_title": "Harbouring offender who has escaped from custody or whose apprehension has been ordered",
+      "file": "section_253.json"
+    },
+    {
+      "order": 254,
+      "article_number": "254",
+      "article_title": "Penalty for harbouring robbers or dacoits",
+      "file": "section_254.json"
+    },
+    {
+      "order": 255,
+      "article_number": "255",
+      "article_title": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture",
+      "file": "section_255.json"
+    },
+    {
+      "order": 256,
+      "article_number": "256",
+      "article_title": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture",
+      "file": "section_256.json"
+    },
+    {
+      "order": 257,
+      "article_number": "257",
+      "article_title": "Public servant in judicial proceeding corruptly making report, etc., contrary to law",
+      "file": "section_257.json"
+    },
+    {
+      "order": 258,
+      "article_number": "258",
+      "article_title": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law",
+      "file": "section_258.json"
+    },
+    {
+      "order": 259,
+      "article_number": "259",
+      "article_title": "Intentional omission to apprehend on part of public servant bound to apprehend",
+      "file": "section_259.json"
+    },
+    {
+      "order": 260,
+      "article_number": "260",
+      "article_title": "Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed",
+      "file": "section_260.json"
+    },
+    {
+      "order": 261,
+      "article_number": "261",
+      "article_title": "Escape from confinement or custody negligently suffered by public servant",
+      "file": "section_261.json"
+    },
+    {
+      "order": 262,
+      "article_number": "262",
+      "article_title": "Resistance or obstruction by a person to his lawful apprehension",
+      "file": "section_262.json"
+    },
+    {
+      "order": 263,
+      "article_number": "263",
+      "article_title": "Resistance or obstruction to lawful apprehension of another person",
+      "file": "section_263.json"
+    },
+    {
+      "order": 264,
+      "article_number": "264",
+      "article_title": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for",
+      "file": "section_264.json"
+    },
+    {
+      "order": 265,
+      "article_number": "265",
+      "article_title": "Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for",
+      "file": "section_265.json"
+    },
+    {
+      "order": 266,
+      "article_number": "266",
+      "article_title": "Violation of condition of remission of punishment",
+      "file": "section_266.json"
+    },
+    {
+      "order": 267,
+      "article_number": "267",
+      "article_title": "Intentional insult or interruption to public servant sitting in judicial proceeding",
+      "file": "section_267.json"
+    },
+    {
+      "order": 268,
+      "article_number": "268",
+      "article_title": "Personation of assessor",
+      "file": "section_268.json"
+    },
+    {
+      "order": 269,
+      "article_number": "269",
+      "article_title": "Failure by person released on bail bond or bond to appear in Court",
+      "file": "section_269.json"
+    },
+    {
+      "order": 270,
+      "article_number": "270",
+      "article_title": "Public nuisance",
+      "file": "section_270.json"
+    },
+    {
+      "order": 271,
+      "article_number": "271",
+      "article_title": "Negligent act likely to spread infection of disease dangerous to life",
+      "file": "section_271.json"
+    },
+    {
+      "order": 272,
+      "article_number": "272",
+      "article_title": "Malignant act likely to spread infection of disease dangerous to life",
+      "file": "section_272.json"
+    },
+    {
+      "order": 273,
+      "article_number": "273",
+      "article_title": "Disobedience to quarantine rule",
+      "file": "section_273.json"
+    },
+    {
+      "order": 274,
+      "article_number": "274",
+      "article_title": "Adulteration of food or drink intended for sale",
+      "file": "section_274.json"
+    },
+    {
+      "order": 275,
+      "article_number": "275",
+      "article_title": "Sale of noxious food or drink",
+      "file": "section_275.json"
+    },
+    {
+      "order": 276,
+      "article_number": "276",
+      "article_title": "Adulteration of drugs",
+      "file": "section_276.json"
+    },
+    {
+      "order": 277,
+      "article_number": "277",
+      "article_title": "Sale of adulterated drugs",
+      "file": "section_277.json"
+    },
+    {
+      "order": 278,
+      "article_number": "278",
+      "article_title": "Sale of drug as a different drug or preparation",
+      "file": "section_278.json"
+    },
+    {
+      "order": 279,
+      "article_number": "279",
+      "article_title": "Fouling water of public spring or reservoir",
+      "file": "section_279.json"
+    },
+    {
+      "order": 280,
+      "article_number": "280",
+      "article_title": "Making atmosphere noxious to health",
+      "file": "section_280.json"
+    },
+    {
+      "order": 281,
+      "article_number": "281",
+      "article_title": "Rash driving or riding on a public way",
+      "file": "section_281.json"
+    },
+    {
+      "order": 282,
+      "article_number": "282",
+      "article_title": "Rash navigation of vessel",
+      "file": "section_282.json"
+    },
+    {
+      "order": 283,
+      "article_number": "283",
+      "article_title": "Exhibition of false light, mark or buoy",
+      "file": "section_283.json"
+    },
+    {
+      "order": 284,
+      "article_number": "284",
+      "article_title": "Conveying person by water for hire in unsafe or overloaded vessel",
+      "file": "section_284.json"
+    },
+    {
+      "order": 285,
+      "article_number": "285",
+      "article_title": "Danger or obstruction in public way or line of navigation",
+      "file": "section_285.json"
+    },
+    {
+      "order": 286,
+      "article_number": "286",
+      "article_title": "Negligent conduct with respect to poisonous substance",
+      "file": "section_286.json"
+    },
+    {
+      "order": 287,
+      "article_number": "287",
+      "article_title": "Negligent conduct with respect to fire or combustible matter",
+      "file": "section_287.json"
+    },
+    {
+      "order": 288,
+      "article_number": "288",
+      "article_title": "Negligent conduct with respect to explosive substance",
+      "file": "section_288.json"
+    },
+    {
+      "order": 289,
+      "article_number": "289",
+      "article_title": "Negligent conduct with respect to machinery",
+      "file": "section_289.json"
+    },
+    {
+      "order": 290,
+      "article_number": "290",
+      "article_title": "Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.",
+      "file": "section_290.json"
+    },
+    {
+      "order": 291,
+      "article_number": "291",
+      "article_title": "Negligent conduct with respect to animal",
+      "file": "section_291.json"
+    },
+    {
+      "order": 292,
+      "article_number": "292",
+      "article_title": "Punishment for public nuisance in cases not otherwise provided for",
+      "file": "section_292.json"
+    },
+    {
+      "order": 293,
+      "article_number": "293",
+      "article_title": "Continuance of nuisance after injunction to discontinue",
+      "file": "section_293.json"
+    },
+    {
+      "order": 294,
+      "article_number": "294",
+      "article_title": "Sale, etc., of obscene books, etc.",
+      "file": "section_294.json"
+    },
+    {
+      "order": 295,
+      "article_number": "295",
+      "article_title": "Sale, etc., of obscene objects to child",
+      "file": "section_295.json"
+    },
+    {
+      "order": 296,
+      "article_number": "296",
+      "article_title": "Obscene acts and songs",
+      "file": "section_296.json"
+    },
+    {
+      "order": 297,
+      "article_number": "297",
+      "article_title": "Keeping lottery office",
+      "file": "section_297.json"
+    },
+    {
+      "order": 298,
+      "article_number": "298",
+      "article_title": "Injuring or defiling place of worship with intent to insult religion of any class",
+      "file": "section_298.json"
+    },
+    {
+      "order": 299,
+      "article_number": "299",
+      "article_title": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs",
+      "file": "section_299.json"
+    },
+    {
+      "order": 300,
+      "article_number": "300",
+      "article_title": "Disturbing religious assembly",
+      "file": "section_300.json"
+    },
+    {
+      "order": 301,
+      "article_number": "301",
+      "article_title": "Trespassing on burial places, etc.",
+      "file": "section_301.json"
+    },
+    {
+      "order": 302,
+      "article_number": "302",
+      "article_title": "Uttering words, etc., with deliberate intent to wound religious feelings of any person",
+      "file": "section_302.json"
+    },
+    {
+      "order": 303,
+      "article_number": "303",
+      "article_title": "Theft",
+      "file": "section_303.json"
+    },
+    {
+      "order": 304,
+      "article_number": "304",
+      "article_title": "Snatching",
+      "file": "section_304.json"
+    },
+    {
+      "order": 305,
+      "article_number": "305",
+      "article_title": "Theft in a dwelling house, or means of transportation or place of worship, etc.",
+      "file": "section_305.json"
+    },
+    {
+      "order": 306,
+      "article_number": "306",
+      "article_title": "Theft by clerk or servant of property in possession of master",
+      "file": "section_306.json"
+    },
+    {
+      "order": 307,
+      "article_number": "307",
+      "article_title": "Theft after preparation made for causing death, hurt or restraint in order to committing of theft",
+      "file": "section_307.json"
+    },
+    {
+      "order": 308,
+      "article_number": "308",
+      "article_title": "Extortion",
+      "file": "section_308.json"
+    },
+    {
+      "order": 309,
+      "article_number": "309",
+      "article_title": "Robbery",
+      "file": "section_309.json"
+    },
+    {
+      "order": 310,
+      "article_number": "310",
+      "article_title": "Dacoity",
+      "file": "section_310.json"
+    },
+    {
+      "order": 311,
+      "article_number": "311",
+      "article_title": "Robbery, or dacoity, with attempt to cause death or grievous hurt",
+      "file": "section_311.json"
+    },
+    {
+      "order": 312,
+      "article_number": "312",
+      "article_title": "Attempt to commit robbery or dacoity when armed with deadly weapon",
+      "file": "section_312.json"
+    },
+    {
+      "order": 313,
+      "article_number": "313",
+      "article_title": "Punishment for belonging to gang of robbers, etc.",
+      "file": "section_313.json"
+    },
+    {
+      "order": 314,
+      "article_number": "314",
+      "article_title": "Dishonest misappropriation of property",
+      "file": "section_314.json"
+    },
+    {
+      "order": 315,
+      "article_number": "315",
+      "article_title": "Dishonest misappropriation of property possessed by deceased person at the time of his death",
+      "file": "section_315.json"
+    },
+    {
+      "order": 316,
+      "article_number": "316",
+      "article_title": "Criminal breach of trust",
+      "file": "section_316.json"
+    },
+    {
+      "order": 317,
+      "article_number": "317",
+      "article_title": "Stolen property",
+      "file": "section_317.json"
+    },
+    {
+      "order": 318,
+      "article_number": "318",
+      "article_title": "Cheating",
+      "file": "section_318.json"
+    },
+    {
+      "order": 319,
+      "article_number": "319",
+      "article_title": "Cheating by personation",
+      "file": "section_319.json"
+    },
+    {
+      "order": 320,
+      "article_number": "320",
+      "article_title": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors",
+      "file": "section_320.json"
+    },
+    {
+      "order": 321,
+      "article_number": "321",
+      "article_title": "Dishonestly or fraudulently preventing debt being available for creditors",
+      "file": "section_321.json"
+    },
+    {
+      "order": 322,
+      "article_number": "322",
+      "article_title": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration",
+      "file": "section_322.json"
+    },
+    {
+      "order": 323,
+      "article_number": "323",
+      "article_title": "Dishonest or fraudulent removal or concealment of property",
+      "file": "section_323.json"
+    },
+    {
+      "order": 324,
+      "article_number": "324",
+      "article_title": "Mischief",
+      "file": "section_324.json"
+    },
+    {
+      "order": 325,
+      "article_number": "325",
+      "article_title": "Mischief by killing or maiming animal",
+      "file": "section_325.json"
+    },
+    {
+      "order": 326,
+      "article_number": "326",
+      "article_title": "Mischief by injury, inundation, fire or explosive substance, etc.",
+      "file": "section_326.json"
+    },
+    {
+      "order": 327,
+      "article_number": "327",
+      "article_title": "Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden",
+      "file": "section_327.json"
+    },
+    {
+      "order": 328,
+      "article_number": "328",
+      "article_title": "Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.",
+      "file": "section_328.json"
+    },
+    {
+      "order": 329,
+      "article_number": "329",
+      "article_title": "Criminal trespass and house-trespass",
+      "file": "section_329.json"
+    },
+    {
+      "order": 330,
+      "article_number": "330",
+      "article_title": "House-trespass and house-breaking",
+      "file": "section_330.json"
+    },
+    {
+      "order": 331,
+      "article_number": "331",
+      "article_title": "Punishment for house-trespass or house-breaking",
+      "file": "section_331.json"
+    },
+    {
+      "order": 332,
+      "article_number": "332",
+      "article_title": "House-trespass in order to commit offence",
+      "file": "section_332.json"
+    },
+    {
+      "order": 333,
+      "article_number": "333",
+      "article_title": "House-trespass after preparation for hurt, assault or wrongful restraint",
+      "file": "section_333.json"
+    },
+    {
+      "order": 334,
+      "article_number": "334",
+      "article_title": "Dishonestly breaking open receptacle containing property",
+      "file": "section_334.json"
+    },
+    {
+      "order": 335,
+      "article_number": "335",
+      "article_title": "Making a false document",
+      "file": "section_335.json"
+    },
+    {
+      "order": 336,
+      "article_number": "336",
+      "article_title": "Forgery",
+      "file": "section_336.json"
+    },
+    {
+      "order": 337,
+      "article_number": "337",
+      "article_title": "Forgery of record of Court or of public register, etc.",
+      "file": "section_337.json"
+    },
+    {
+      "order": 338,
+      "article_number": "338",
+      "article_title": "Forgery of valuable security, will, etc.",
+      "file": "section_338.json"
+    },
+    {
+      "order": 339,
+      "article_number": "339",
+      "article_title": "Having possession of document described in section 337 or section 338, knowing it to be forged and intending to use it as genuine",
+      "file": "section_339.json"
+    },
+    {
+      "order": 340,
+      "article_number": "340",
+      "article_title": "Forged document or electronic record and using it as genuine",
+      "file": "section_340.json"
+    },
+    {
+      "order": 341,
+      "article_number": "341",
+      "article_title": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338",
+      "file": "section_341.json"
+    },
+    {
+      "order": 342,
+      "article_number": "342",
+      "article_title": "Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material",
+      "file": "section_342.json"
+    },
+    {
+      "order": 343,
+      "article_number": "343",
+      "article_title": "Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",
+      "file": "section_343.json"
+    },
+    {
+      "order": 344,
+      "article_number": "344",
+      "article_title": "Falsification of accounts",
+      "file": "section_344.json"
+    },
+    {
+      "order": 345,
+      "article_number": "345",
+      "article_title": "Property mark",
+      "file": "section_345.json"
+    },
+    {
+      "order": 346,
+      "article_number": "346",
+      "article_title": "Tampering with property mark with intent to cause injury",
+      "file": "section_346.json"
+    },
+    {
+      "order": 347,
+      "article_number": "347",
+      "article_title": "Counterfeiting a property mark",
+      "file": "section_347.json"
+    },
+    {
+      "order": 348,
+      "article_number": "348",
+      "article_title": "Making or possession of any instrument for counterfeiting a property mark",
+      "file": "section_348.json"
+    },
+    {
+      "order": 349,
+      "article_number": "349",
+      "article_title": "Selling goods marked with a counterfeit property mark",
+      "file": "section_349.json"
+    },
+    {
+      "order": 350,
+      "article_number": "350",
+      "article_title": "Making a false mark upon any receptacle containing goods",
+      "file": "section_350.json"
+    },
+    {
+      "order": 351,
+      "article_number": "351",
+      "article_title": "Criminal intimidation",
+      "file": "section_351.json"
+    },
+    {
+      "order": 352,
+      "article_number": "352",
+      "article_title": "Intentional insult with intent to provoke breach of peace",
+      "file": "section_352.json"
+    },
+    {
+      "order": 353,
+      "article_number": "353",
+      "article_title": "Statements conducing to public mischief",
+      "file": "section_353.json"
+    },
+    {
+      "order": 354,
+      "article_number": "354",
+      "article_title": "Act caused by inducing person to believe that he will be rendered an object of Divine displeasure",
+      "file": "section_354.json"
+    },
+    {
+      "order": 355,
+      "article_number": "355",
+      "article_title": "Misconduct in public by a drunken person",
+      "file": "section_355.json"
+    },
+    {
+      "order": 356,
+      "article_number": "356",
+      "article_title": "Defamation",
+      "file": "section_356.json"
+    },
+    {
+      "order": 357,
+      "article_number": "357",
+      "article_title": "Breach of contract to attend on and supply wants of helpless person",
+      "file": "section_357.json"
+    },
+    {
+      "order": 358,
+      "article_number": "358",
+      "article_title": "Repeal and savings",
+      "file": "section_358.json"
+    }
+  ]
+}

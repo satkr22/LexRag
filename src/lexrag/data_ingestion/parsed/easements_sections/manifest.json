@@ -1,0 +1,392 @@
+{
+  "act": "easements",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/easements_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/easements_sections",
+  "count": 64,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Savings.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "4 [Construction of certain references to Act 15 of 1877 and Act 9 of 1871.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "“Easement” defined.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Continuous and discontinuous, apparent and non-apparent, easements.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Easement for limited time or on condition.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Easements restrictive of certain rights.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Who may impose easements.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Servient owners.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Lessor and mortgagor.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Lessee.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Who may acquire easements.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Easements of necessity and quasi easements.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Direction of way of necessity.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Acquisition by prescription.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Exclusion in favour of reversioner of servient heritage.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "17",
+      "article_title": "Rights which cannot be acquired by prescription.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 18,
+      "article_number": "18",
+      "article_title": "Customary easement.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 19,
+      "article_number": "19",
+      "article_title": "Transfer of dominant heritage passes easement.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 20,
+      "article_number": "20",
+      "article_title": "Rules controlled by contract or title.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 21,
+      "article_number": "21",
+      "article_title": "Bar to use unconnected with enjoyment.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 22,
+      "article_number": "22",
+      "article_title": "Exercise of easement Confinement of exercise of easement.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 23,
+      "article_number": "23",
+      "article_title": "Right to alter mode of enjoyment.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 24,
+      "article_number": "24",
+      "article_title": "Right to do acts to secure enjoyment.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 25,
+      "article_number": "25",
+      "article_title": "Liability for expenses necessary for preservation of easement.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 26,
+      "article_number": "26",
+      "article_title": "Liability for damage from want of repair.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 27,
+      "article_number": "27",
+      "article_title": "Servient owner not bound to do anything.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 28,
+      "article_number": "28",
+      "article_title": "Extent of easements.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 29,
+      "article_number": "29",
+      "article_title": "Increase of easement.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 30,
+      "article_number": "30",
+      "article_title": "Partition of dominant heritage.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 31,
+      "article_number": "31",
+      "article_title": "Obstruction in case of excessive user.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 32,
+      "article_number": "32",
+      "article_title": "Right to enjoyment without disturbance.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 33,
+      "article_number": "33",
+      "article_title": "Suit for disturbance of easement.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 34,
+      "article_number": "34",
+      "article_title": "When cause of action arises for removal of support.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 35,
+      "article_number": "35",
+      "article_title": "Injunction to restrain disturbance.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 36,
+      "article_number": "36",
+      "article_title": "Abatement of obstruction of easement.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 37,
+      "article_number": "37",
+      "article_title": "Extinction by dissolution of right of servient owner.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 38,
+      "article_number": "38",
+      "article_title": "Extinction by release.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 39,
+      "article_number": "39",
+      "article_title": "Extinction by revocation.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 40,
+      "article_number": "40",
+      "article_title": "Extinction on expiration of limited period or happening of dissolving condition.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 41,
+      "article_number": "41",
+      "article_title": "Extinction on termination of necessity.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 42,
+      "article_number": "42",
+      "article_title": "Extinction of useless easement.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 43,
+      "article_number": "43",
+      "article_title": "Extinction by permanent change in dominant heritage.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 44,
+      "article_number": "44",
+      "article_title": "Extinction on permanent alteration of servient heritage by superior force.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 45,
+      "article_number": "45",
+      "article_title": "Extinction by destruction of either heritage.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 46,
+      "article_number": "46",
+      "article_title": "Extinction by unity of ownership.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 47,
+      "article_number": "47",
+      "article_title": "Extinction by non-enjoyment.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 48,
+      "article_number": "48",
+      "article_title": "Extinction of accessory rights.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 49,
+      "article_number": "49",
+      "article_title": "Suspension of easement.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 50,
+      "article_number": "50",
+      "article_title": "Servient owner not entitled to require continuance.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 51,
+      "article_number": "51",
+      "article_title": "Revival of easements.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 52,
+      "article_number": "52",
+      "article_title": "“License” defined.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 53,
+      "article_number": "53",
+      "article_title": "Who may grant license.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 54,
+      "article_number": "54",
+      "article_title": "Grant may be express or implied.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 55,
+      "article_number": "55",
+      "article_title": "Accessory licenses annexed by law.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 56,
+      "article_number": "56",
+      "article_title": "License when transferable.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 57,
+      "article_number": "57",
+      "article_title": "Grantor’s duty to disclose defects.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 58,
+      "article_number": "58",
+      "article_title": "Grantor’s duty not to render property unsafe.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 59,
+      "article_number": "59",
+      "article_title": "Grantor’s transferee not bound by license.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 60,
+      "article_number": "60",
+      "article_title": "License when revocable.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 61,
+      "article_number": "61",
+      "article_title": "Revocation express or implied.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 62,
+      "article_number": "62",
+      "article_title": "License when deemed revoked.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 63,
+      "article_number": "63",
+      "article_title": "Licensee’s rights on revocation.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 64,
+      "article_number": "64",
+      "article_title": "Licensee’s rights on eviction.",
+      "file": "section_64.json"
+    }
+  ]
+}

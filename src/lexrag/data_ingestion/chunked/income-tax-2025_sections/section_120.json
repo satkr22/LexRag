@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_120_chunk_0",
+    "section_id": "income-tax-2025_section_120",
+    "token_count": 175,
+    "text": "[Act: income-tax-2025\n Chapter: Set Off, or Carry Forward and Set Off of Losses\n Section: 120::No set off of losses against undisclosed income consequent to search, requisition and survey.\n]\n\n\n(1) Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4).\n(2) For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_120_chunk_0",
+      "section_id": "income-tax-2025_section_120",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Set Off, or Carry Forward and Set Off of Losses",
+      "section_number": "120",
+      "section_title": "No set off of losses against undisclosed income consequent to search, requisition and survey."
+    }
+  }
+]

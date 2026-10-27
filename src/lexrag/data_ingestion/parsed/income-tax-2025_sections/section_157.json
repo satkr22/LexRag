@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-09.html",
+    "source_order": 10,
+    "article_order": 3,
+    "order": 157,
+    "stem": "section_157",
+    "heading_number": "Chapter IX",
+    "heading_title": "Rebates and Reliefs",
+    "heading_range": "ss. 155–160",
+    "heading_source": "group-head",
+    "article_number": "157",
+    "article_title": "Relief when salary, etc., is paid in arrears or in advance.",
+    "id": "income-tax-2025_section_157"
+  },
+  "id": "income-tax-2025_section_157",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Rebates and Reliefs",
+    "range": "ss. 155–160"
+  },
+  "article": {
+    "number": "157",
+    "title": "Relief when salary, etc., is paid in arrears or in advance.",
+    "content": "(1) Where the total income of an assessee is assessed at a rate higher than the rate at which it would otherwise have been assessed, due to the following receipts,—\n(a) a sum in the nature of arrear or advance salary; or\n(b) salary for more than twelve months in any one tax year; or\n(c) a payment in the nature of \"profits in lieu of salary\" under section 18(1); or\n(d) arrears of \"family pension\" as defined in section 93(1)(d), the Assessing Officer shall on an application made to him by the assessee in this behalf, grant such relief, as may be prescribed.\n(2) No relief shall be granted on any income on which deduction has been claimed by the assessee in section 19(1)(Table: Sl. No. 12) for any amount mentioned therein, for such, or any other, tax year.\n",
+    "html": "<article class=\"provision\" data-n=\"157\" data-report=\"Section 157 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">157</span>Relief when salary, etc., is paid in arrears or in advance.</h3></div><p class=\"prov-cite\">Section 157  ·  Chapter IX  ·  A.—Rebates and reliefs  ·  page 196 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the total income of an assessee is assessed at a rate higher than the rate at which it would otherwise have been assessed, due to the following receipts,—</p><p class=\"lvl\">(a) a sum in the nature of arrear or advance salary; or</p><p class=\"lvl\">(b) salary for more than twelve months in any one tax year; or</p><p class=\"lvl\">(c) a payment in the nature of \"profits in lieu of salary\" under section 18(1); or</p><p class=\"lvl\">(d) arrears of \"family pension\" as defined in section 93(1)(d), the Assessing Officer shall on an application made to him by the assessee in this behalf, grant such relief, as may be prescribed.</p><p class=\"lvl\">(2) No relief shall be granted on any income on which deduction has been claimed by the assessee in section 19(1)(Table: Sl. No. 12) for any amount mentioned therein, for such, or any other, tax year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">157</span>Relief when salary, etc., is paid in arrears or in advance.</h3></div><p class=\"prov-cite\">Section 157  ·  Chapter IX  ·  A.—Rebates and reliefs  ·  page 196 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the total income of an assessee is assessed at a rate higher than the rate at which it would otherwise have been assessed, due to the following receipts,—</p><p class=\"lvl\">(a) a sum in the nature of arrear or advance salary; or</p><p class=\"lvl\">(b) salary for more than twelve months in any one tax year; or</p><p class=\"lvl\">(c) a payment in the nature of \"profits in lieu of salary\" under section 18(1); or</p><p class=\"lvl\">(d) arrears of \"family pension\" as defined in section 93(1)(d), the Assessing Officer shall on an application made to him by the assessee in this behalf, grant such relief, as may be prescribed.</p><p class=\"lvl\">(2) No relief shall be granted on any income on which deduction has been claimed by the assessee in section 19(1)(Table: Sl. No. 12) for any amount mentioned therein, for such, or any other, tax year.</p></div>"
+  }
+}

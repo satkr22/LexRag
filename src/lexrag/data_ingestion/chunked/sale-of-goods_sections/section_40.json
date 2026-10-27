@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_40_chunk_0",
+    "section_id": "sale-of-goods_section_40",
+    "token_count": 81,
+    "text": "[Act: sale-of-goods\n Chapter: Performance of the Contract\n Section: 40::Risk where goods are delivered at distant place.\n]\n\n\nWhere the seller of goods agrees to deliver them at his own risk at a place other than that where they are when sold, the buyer shall, nevertheless, unless otherwise agreed, take any risk of deterioration in the goods necessarily incident to the course of transit.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_40_chunk_0",
+      "section_id": "sale-of-goods_section_40",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Performance of the Contract",
+      "section_number": "40",
+      "section_title": "Risk where goods are delivered at distant place."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-18.html",
+    "source_order": 18,
+    "article_order": 6,
+    "order": 242,
+    "stem": "section_O6R6",
+    "heading_number": "Order VI",
+    "heading_title": "Pleadings generally",
+    "heading_range": "19 rules",
+    "heading_source": "group-head",
+    "article_number": "O6R6",
+    "article_title": "Condition precedent.",
+    "id": "cpc_section_O6R6"
+  },
+  "id": "cpc_section_O6R6",
+  "heading": {
+    "number": "Order VI",
+    "title": "Pleadings generally",
+    "range": "19 rules"
+  },
+  "article": {
+    "number": "O6R6",
+    "title": "Condition precedent.",
+    "content": "Any condition precedent, the performance or occurrence of which is intended to be contested, shall be distinctly specified in his pleading by the plaintiff or defendant, as the case may be; and, subject thereto, an averment of the performance or occurrence of all conditions precedent necessary for the case of the plaintiff or defendant shall be implied in his pleading.\n",
+    "html": "<article class=\"provision\" data-n=\"O6R6\" data-report=\"Order 6, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Condition precedent.</h3></div><p class=\"prov-cite\">Order 6, Rule 6</p><div class=\"prov-body\"><p>Any condition precedent, the performance or occurrence of which is intended to be contested, shall be distinctly specified in his pleading by the plaintiff or defendant, as the case may be; and, subject thereto, an averment of the performance or occurrence of all conditions precedent necessary for the case of the plaintiff or defendant shall be implied in his pleading.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Condition precedent.</h3></div><p class=\"prov-cite\">Order 6, Rule 6</p><div class=\"prov-body\"><p>Any condition precedent, the performance or occurrence of which is intended to be contested, shall be distinctly specified in his pleading by the plaintiff or defendant, as the case may be; and, subject thereto, an averment of the performance or occurrence of all conditions precedent necessary for the case of the plaintiff or defendant shall be implied in his pleading.</p></div>"
+  }
+}

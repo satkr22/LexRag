@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_81_chunk_0",
+    "section_id": "succession_section_81",
+    "token_count": 282,
+    "text": "[Act: succession\n Chapter: Of the construction of Wills\n Section: 81::Extrinsic evidence inadmissible in case of patent ambiguity or deficiency.\n]\n\n\nWhere there is an ambiguity or deficiency on the face of a will, no extrinsic evidence as to the intentions of the testator shall be admitted.\nIllustrations\n(i) A man has an aunt, Caroline, and a cousin, Mary, and has no aunt of the name of Mary. By his will he bequeaths 1,000 rupees to “my aunt, Caroline” and 1,000 rupees to “my cousin, Mary” and afterwards bequeaths 2,000 rupees to “my before-mentioned aunt, Mary”. There is no person to whom the description given in the will can apply, and evidence is not admissible to show who was meant by “my before-mentioned aunt, Mary”. The bequest is, therefore, void for uncertainty under section 89.\n(ii) A bequeaths 1,000 rupees to ........... leaving a blank for the name of the legatee. Evidence is not admissible to show what name the testator intended to insert.\n(iii) A bequeaths to B .......................rupees, or “my estate of ....................... ” Evidence is not admissible to show what sum or what estate the testator intended to insert.",
+    "metadata": {
+      "chunk_id": "succession_section_81_chunk_0",
+      "section_id": "succession_section_81",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter VI",
+      "chapter_title": "Of the construction of Wills",
+      "section_number": "81",
+      "section_title": "Extrinsic evidence inadmissible in case of patent ambiguity or deficiency."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-21.html",
+    "source_order": 21,
+    "article_order": 9,
+    "order": 282,
+    "stem": "section_282",
+    "heading_number": "Chapter XXI",
+    "heading_title": "Trial of Summons-Cases by Magistrates",
+    "heading_range": "274 – 282",
+    "heading_source": "group-head",
+    "article_number": "282",
+    "article_title": "Power of Court to convert summons-cases into warrant-cases",
+    "id": "bnss_section_282"
+  },
+  "id": "bnss_section_282",
+  "heading": {
+    "number": "Chapter XXI",
+    "title": "Trial of Summons-Cases by Magistrates",
+    "range": "274 – 282"
+  },
+  "article": {
+    "number": "282",
+    "title": "Power of Court to convert summons-cases into warrant-cases",
+    "content": "When in the course of the trial of a summons-case relating to an offence punishable with imprisonment for a term exceeding six months, it appears to the Magistrate that in the interests of justice, the offence should be tried in accordance with the procedure for the trial of warrant-cases, such Magistrate may proceed to re-hear the case in the manner provided by this Sanhita for the trial of warrant-cases and may recall any witness who may have been examined.\n",
+    "html": "<article class=\"provision\" data-n=\"282\" data-report=\"Section 282 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">282</span>Power of Court to convert summons-cases into warrant-cases</h3></div><p class=\"prov-cite\">Section 282 · Chapter XXI</p><div class=\"prov-body\"><p>When in the course of the trial of a summons-case relating to an offence punishable with imprisonment for a term exceeding six months, it appears to the Magistrate that in the interests of justice, the offence should be tried in accordance with the procedure for the trial of warrant-cases, such Magistrate may proceed to re-hear the case in the manner provided by this Sanhita for the trial of warrant-cases and may recall any witness who may have been examined.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">282</span>Power of Court to convert summons-cases into warrant-cases</h3></div><p class=\"prov-cite\">Section 282 · Chapter XXI</p><div class=\"prov-body\"><p>When in the course of the trial of a summons-case relating to an offence punishable with imprisonment for a term exceeding six months, it appears to the Magistrate that in the interests of justice, the offence should be tried in accordance with the procedure for the trial of warrant-cases, such Magistrate may proceed to re-hear the case in the manner provided by this Sanhita for the trial of warrant-cases and may recall any witness who may have been examined.</p></div>"
+  }
+}

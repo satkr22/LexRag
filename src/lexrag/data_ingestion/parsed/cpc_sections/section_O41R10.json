@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-60.html",
+    "source_order": 60,
+    "article_order": 11,
+    "order": 813,
+    "stem": "section_O41R10",
+    "heading_number": "Order XLI",
+    "heading_title": "Appeals from Original Decrees",
+    "heading_range": "41 rules",
+    "heading_source": "group-head",
+    "article_number": "O41R10",
+    "article_title": "Appellate Court may require appellant to furnish security for costs.",
+    "id": "cpc_section_O41R10"
+  },
+  "id": "cpc_section_O41R10",
+  "heading": {
+    "number": "Order XLI",
+    "title": "Appeals from Original Decrees",
+    "range": "41 rules"
+  },
+  "article": {
+    "number": "O41R10",
+    "title": "Appellate Court may require appellant to furnish security for costs.",
+    "content": "(1) The Appellate Court may in its discretion, either before the respondent is called upon to appear and answer or afterwards on the application of the respondent, demand from the appellant security for the costs of the appeal, or of the original suit, or of both:\nWhere appellant resides out of India.—Provided that the Court shall demand such security in all cases in which the appellant is residing out of 3[India], and is not possessed of any sufficient immovable property within 3[India] other than the property (if any) to which the appeal relates.\n(2) Where such security is not furnished within such time as the Court orders, the Court shall reject the appeal.\n",
+    "html": "<article class=\"provision\" data-n=\"O41R10\" data-report=\"Order 41, Rule 10 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Appellate Court may require appellant to furnish security for costs.</h3></div><p class=\"prov-cite\">Order 41, Rule 10</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Appellate Court may in its discretion, either before the respondent is called upon to appear and answer or afterwards on the application of the respondent, demand from the appellant security for the costs of the appeal, or of the original suit, or of both:</p><p>Where appellant resides out of India.—Provided that the Court shall demand such security in all cases in which the appellant is residing out of <sup>3</sup>[India], and is not possessed of any sufficient immovable property within <sup>3</sup>[India] other than the property (if any) to which the appeal relates.</p><p class=\"lvl\">(2) Where such security is not furnished within such time as the Court orders, the Court shall reject the appeal.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by Act 2 of 1951, s. 3, for “the States”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Appellate Court may require appellant to furnish security for costs.</h3></div><p class=\"prov-cite\">Order 41, Rule 10</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Appellate Court may in its discretion, either before the respondent is called upon to appear and answer or afterwards on the application of the respondent, demand from the appellant security for the costs of the appeal, or of the original suit, or of both:</p><p>Where appellant resides out of India.—Provided that the Court shall demand such security in all cases in which the appellant is residing out of <sup>3</sup>[India], and is not possessed of any sufficient immovable property within <sup>3</sup>[India] other than the property (if any) to which the appeal relates.</p><p class=\"lvl\">(2) Where such security is not furnished within such time as the Court orders, the Court shall reject the appeal.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by Act 2 of 1951, s. 3, for “the States”.</p></div>"
+  }
+}

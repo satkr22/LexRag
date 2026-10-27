@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-14.html",
+    "source_order": 14,
+    "article_order": 5,
+    "order": 207,
+    "stem": "section_183",
+    "heading_number": "Part III · Chapter VI",
+    "heading_title": "Adjudicating Authority for Individuals and Partnership Firms",
+    "heading_range": "ss. 179–183A",
+    "heading_source": "group-head",
+    "article_number": "183",
+    "article_title": "Expeditious disposal of applications.",
+    "id": "insolvency_section_183"
+  },
+  "id": "insolvency_section_183",
+  "heading": {
+    "number": "Part III · Chapter VI",
+    "title": "Adjudicating Authority for Individuals and Partnership Firms",
+    "range": "ss. 179–183A"
+  },
+  "article": {
+    "number": "183",
+    "title": "Expeditious disposal of applications.",
+    "content": "Where an application is not disposed of or order is not passed within the period specified in this Code, the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal, as the case may be, shall record the reasons for not doing so within the period so specified; and the Chairperson of the Debt Recovery Appellate Tribunal, after taking into account the reasons so recorded, extend the period specified in this Code, but not exceeding ten days.\n",
+    "html": "<article class=\"provision\" data-n=\"183\" data-report=\"Section 183 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">183</span>Expeditious disposal of applications.</h3></div><p class=\"prov-cite\">Section 183  ·  Part III · Chapter VI  ·  page 126 of the Act</p><div class=\"prov-body\"><p>Where an application is not disposed of or order is not passed within the period specified in this Code, the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal, as the case may be, shall record the reasons for not doing so within the period so specified; and the Chairperson of the Debt Recovery Appellate Tribunal, after taking into account the reasons so recorded, extend the period specified in this Code, but not exceeding ten days.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">183</span>Expeditious disposal of applications.</h3></div><p class=\"prov-cite\">Section 183  ·  Part III · Chapter VI  ·  page 126 of the Act</p><div class=\"prov-body\"><p>Where an application is not disposed of or order is not passed within the period specified in this Code, the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal, as the case may be, shall record the reasons for not doing so within the period so specified; and the Chairperson of the Debt Recovery Appellate Tribunal, after taking into account the reasons so recorded, extend the period specified in this Code, but not exceeding ten days.</p></div>"
+  }
+}

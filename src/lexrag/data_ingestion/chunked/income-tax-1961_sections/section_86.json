@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_86_chunk_0",
+    "section_id": "income-tax-1961_section_86",
+    "token_count": 293,
+    "text": "[Act: income-tax-1961\n Chapter: Incomes Forming Part of Total Income on Which No Income-tax Is Payable\n Section: 86::Share of member of an association of persons or body of individuals in the income of the association or body.\n]\n\n\nWhere the assessee is a member of an association of persons or body of individuals (other than a company or a co-operative society or a society registered under the Societies Registration Act, 1860 (21 of 1860), or under any law corresponding to that Act in force in any part of India), income-tax shall not be payable by the assessee in respect of his share in the income of the association or body computed in the manner provided in section 67A :\nProvided that,—\n(a) where the association or body is chargeable to tax on its total income at the maximum marginal rate or any higher rate under any of the provisions of this Act, the share of a member computed as aforesaid shall not be included in his total income;\n(b) in any other case, the share of a member computed as aforesaid shall form part of his total income :\nProvided further that where no income-tax is chargeable on the total income of the association or body, the share of a member computed as aforesaid shall be chargeable to tax as part of his total income and nothing contained in this section shall apply to the case.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_86_chunk_0",
+      "section_id": "income-tax-1961_section_86",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Incomes Forming Part of Total Income on Which No Income-tax Is Payable",
+      "section_number": "86",
+      "section_title": "Share of member of an association of persons or body of individuals in the income of the association or body."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_269UK_chunk_0",
+    "section_id": "income-tax-1961_section_269UK",
+    "token_count": 225,
+    "text": "[Act: income-tax-1961\n Chapter: None\n Section: 269UK::Restrictions on revocation or alteration of certain agreements for the transfer of immovable property or on transfer of certain immovable property.\n]\n\n\n(1) Notwithstanding anything contained in any other law for the time being in force, no person shall revoke or alter an agreement for the transfer of an immovable property or transfer such property in respect of which a statement has been furnished under section 269UC unless,—\n(a) the appropriate authority has not made an order for the purchase of the immovable property by the Central Government under section 269UD and the period specified for the making of such order has expired ; or\n(b) in a case where an order for the purchase of the immovable property by the Central Government has been made under sub-section (1) of section 269UD, the order stands abrogated under sub-section (1) of section 269UH.\n(2) Any transfer of any immovable property made in contravention of the provisions of sub-section (1) shall be void.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_269UK_chunk_0",
+      "section_id": "income-tax-1961_section_269UK",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX-C",
+      "chapter_title": null,
+      "section_number": "269UK",
+      "section_title": "Restrictions on revocation or alteration of certain agreements for the transfer of immovable property or on transfer of certain immovable property."
+    }
+  }
+]

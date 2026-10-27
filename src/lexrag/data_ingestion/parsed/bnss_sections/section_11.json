@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-02.html",
+    "source_order": 2,
+    "article_order": 6,
+    "order": 11,
+    "stem": "section_11",
+    "heading_number": "Chapter II",
+    "heading_title": "Constitution of Criminal Courts and Offices",
+    "heading_range": "6 – 20",
+    "heading_source": "group-head",
+    "article_number": "11",
+    "article_title": "Special Judicial Magistrates",
+    "id": "bnss_section_11"
+  },
+  "id": "bnss_section_11",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Constitution of Criminal Courts and Offices",
+    "range": "6 – 20"
+  },
+  "article": {
+    "number": "11",
+    "title": "Special Judicial Magistrates",
+    "content": "(1)The High Court may, if requested by the Central or State Government so to do, confer upon any person who holds or has held any post under the Government, all or any of the powers conferred or conferrable by or under this Sanhita on a Judicial Magistrate of the first class or of the second class, in respect to particular cases or to particular classes of cases, in any local area:\nProvisoProvided that no such power shall be conferred on a person unless he possesses such qualification or experience in relation to legal affairs as the High Court may, by rules, specify.\n(2)Such Magistrates shall be called Special Judicial Magistrates and shall be appointed for such term, not exceeding one year at a time, as the High Court may, by general or special order, direct.\n",
+    "html": "<article class=\"provision\" data-n=\"11\" data-report=\"Section 11 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Special Judicial Magistrates</h3></div><p class=\"prov-cite\">Section 11 · Chapter II</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The High Court may, if requested by the Central or State Government so to do, confer upon any person who holds or has held any post under the Government, all or any of the powers conferred or conferrable by or under this Sanhita on a Judicial Magistrate of the first class or of the second class, in respect to particular cases or to particular classes of cases, in any local area:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no such power shall be conferred on a person unless he possesses such qualification or experience in relation to legal affairs as the High Court may, by rules, specify.</p><p><span class=\"lbl\">(2)</span>Such Magistrates shall be called Special Judicial Magistrates and shall be appointed for such term, not exceeding one year at a time, as the High Court may, by general or special order, direct.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Special Judicial Magistrates</h3></div><p class=\"prov-cite\">Section 11 · Chapter II</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The High Court may, if requested by the Central or State Government so to do, confer upon any person who holds or has held any post under the Government, all or any of the powers conferred or conferrable by or under this Sanhita on a Judicial Magistrate of the first class or of the second class, in respect to particular cases or to particular classes of cases, in any local area:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no such power shall be conferred on a person unless he possesses such qualification or experience in relation to legal affairs as the High Court may, by rules, specify.</p><p><span class=\"lbl\">(2)</span>Such Magistrates shall be called Special Judicial Magistrates and shall be appointed for such term, not exceeding one year at a time, as the High Court may, by general or special order, direct.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-97.html",
+    "source_order": 101,
+    "article_order": 1,
+    "order": 101,
+    "stem": "section_97",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Of Notice of Dishonour",
+    "heading_range": "ss. 91–98",
+    "heading_source": "manifest",
+    "article_number": "97",
+    "article_title": "When party to whom notice given is dead.",
+    "id": "negotiable-instruments_section_97"
+  },
+  "id": "negotiable-instruments_section_97",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Of Notice of Dishonour",
+    "range": "ss. 91–98"
+  },
+  "article": {
+    "number": "97",
+    "title": "When party to whom notice given is dead.",
+    "content": "when the party to whom notice of dishonour is dispatched is dead, but the party dispatching the notice is ignorant of his death, the notice is sufficient.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>When party to whom notice given is dead.</h3></div><p class=\"prov-cite\">Section 97  ·  Chapter VIII  ·  page 22 of the Act</p><div class=\"prov-body\"><p>when the party to whom notice of dishonour is dispatched is dead, but the party dispatching the notice is ignorant of his death, the notice is sufficient.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>When party to whom notice given is dead.</h3></div><p class=\"prov-cite\">Section 97  ·  Chapter VIII  ·  page 22 of the Act</p><div class=\"prov-body\"><p>when the party to whom notice of dishonour is dispatched is dead, but the party dispatching the notice is ignorant of his death, the notice is sufficient.</p></div>"
+  }
+}

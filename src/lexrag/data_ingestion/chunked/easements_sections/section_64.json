@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_64_chunk_0",
+    "section_id": "easements_section_64",
+    "token_count": 80,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 64::Licensee’s rights on eviction.\n]\n\n\nWhere a license has been granted for a consideration, and the licensee, without any fault of his own, is evicted by the grantor before he has fully enjoyed, under the license, the right for which he contracted, he is entitled to recover compensation from the grantor.",
+    "metadata": {
+      "chunk_id": "easements_section_64_chunk_0",
+      "section_id": "easements_section_64",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "64",
+      "section_title": "Licensee’s rights on eviction."
+    }
+  }
+]

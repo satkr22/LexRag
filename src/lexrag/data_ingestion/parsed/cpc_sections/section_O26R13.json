@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-43.html",
+    "source_order": 43,
+    "article_order": 17,
+    "order": 640,
+    "stem": "section_O26R13",
+    "heading_number": "Order XXVI",
+    "heading_title": "Commissions",
+    "heading_range": "29 rules",
+    "heading_source": "group-head",
+    "article_number": "O26R13",
+    "article_title": "Commission to make partition of immovable property.",
+    "id": "cpc_section_O26R13"
+  },
+  "id": "cpc_section_O26R13",
+  "heading": {
+    "number": "Order XXVI",
+    "title": "Commissions",
+    "range": "29 rules"
+  },
+  "article": {
+    "number": "O26R13",
+    "title": "Commission to make partition of immovable property.",
+    "content": "Commissions to make partitions\nWhere a preliminary decree for partition has been passed, the Court may, in any case not provided for by section 54, issue a commission to such person as it thinks fit to make the partition or separation according to the rights as declared in such decree.\n",
+    "html": "<article class=\"provision\" data-n=\"O26R13\" data-report=\"Order 26, Rule 13 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Commission to make partition of immovable property.</h3></div><p class=\"prov-cite\">Order 26, Rule 13</p><div class=\"prov-body\"><p class=\"sched-title\">Commissions to make partitions</p><p>Where a preliminary decree for partition has been passed, the Court may, in any case not provided for by section 54, issue a commission to such person as it thinks fit to make the partition or separation according to the rights as declared in such decree.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Commission to make partition of immovable property.</h3></div><p class=\"prov-cite\">Order 26, Rule 13</p><div class=\"prov-body\"><p class=\"sched-title\">Commissions to make partitions</p><p>Where a preliminary decree for partition has been passed, the Court may, in any case not provided for by section 54, issue a commission to such person as it thinks fit to make the partition or separation according to the rights as declared in such decree.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-03.html",
+    "source_order": 3,
+    "article_order": 21,
+    "order": 34,
+    "stem": "section_34",
+    "heading_number": "Chapter III",
+    "heading_title": "General Exceptions",
+    "heading_range": "14 – 44",
+    "heading_source": "group-head",
+    "article_number": "34",
+    "article_title": "Things done in private defence",
+    "id": "bns_section_34"
+  },
+  "id": "bns_section_34",
+  "heading": {
+    "number": "Chapter III",
+    "title": "General Exceptions",
+    "range": "14 – 44"
+  },
+  "article": {
+    "number": "34",
+    "title": "Things done in private defence",
+    "content": "Nothing is an offence which is done in the exercise of the right of private defence.\n",
+    "html": "<article class=\"provision\" data-n=\"34\" data-report=\"Section 34 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">34</span>Things done in private defence</h3></div><p class=\"prov-cite\">Section 34 · Chapter III · Of right of private defence</p><div class=\"prov-body\"><p>Nothing is an offence which is done in the exercise of the right of private defence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">34</span>Things done in private defence</h3></div><p class=\"prov-cite\">Section 34 · Chapter III · Of right of private defence</p><div class=\"prov-body\"><p>Nothing is an offence which is done in the exercise of the right of private defence.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-03.html",
+    "source_order": 3,
+    "article_order": 3,
+    "order": 15,
+    "stem": "section_14",
+    "heading_number": "Part III",
+    "heading_title": "Fundamental Rights",
+    "heading_range": "12 – 35",
+    "heading_source": "group-head",
+    "article_number": "14",
+    "article_title": "Equality before law",
+    "id": "constitution_section_14"
+  },
+  "id": "constitution_section_14",
+  "heading": {
+    "number": "Part III",
+    "title": "Fundamental Rights",
+    "range": "12 – 35"
+  },
+  "article": {
+    "number": "14",
+    "title": "Equality before law",
+    "content": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.\n",
+    "html": "<article class=\"provision\" data-n=\"14\" data-report=\"Article 14 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Equality before law</h3></div><p class=\"prov-cite\">Article 14 · Part III · Right to Equality</p><div class=\"prov-body\"><p>The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Equality before law</h3></div><p class=\"prov-cite\">Article 14 · Part III · Right to Equality</p><div class=\"prov-body\"><p>The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.</p></div>"
+  }
+}

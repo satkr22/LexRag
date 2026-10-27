@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-03.html",
+    "source_order": 3,
+    "article_order": 28,
+    "order": 41,
+    "stem": "section_41",
+    "heading_number": "Chapter III",
+    "heading_title": "General Exceptions",
+    "heading_range": "14 – 44",
+    "heading_source": "group-head",
+    "article_number": "41",
+    "article_title": "When right of private defence of property extends to causing death",
+    "id": "bns_section_41"
+  },
+  "id": "bns_section_41",
+  "heading": {
+    "number": "Chapter III",
+    "title": "General Exceptions",
+    "range": "14 – 44"
+  },
+  "article": {
+    "number": "41",
+    "title": "When right of private defence of property extends to causing death",
+    "content": "The right of private defence of property extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, be an offence of any of the descriptions hereinafter enumerated, namely: —\n(a)robbery;\n(b)house-breaking after sunset and before sunrise;\n(c)mischief by fire or any explosive substance committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;\n(d)theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.\n",
+    "html": "<article class=\"provision\" data-n=\"41\" data-report=\"Section 41 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>When right of private defence of property extends to causing death</h3></div><p class=\"prov-cite\">Section 41 · Chapter III · Of right of private defence</p><div class=\"prov-body\"><p>The right of private defence of property extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, be an offence of any of the descriptions hereinafter enumerated, namely: —</p><p><span class=\"lbl\">(a)</span>robbery;</p><p><span class=\"lbl\">(b)</span>house-breaking after sunset and before sunrise;</p><p><span class=\"lbl\">(c)</span>mischief by fire or any explosive substance committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;</p><p><span class=\"lbl\">(d)</span>theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>When right of private defence of property extends to causing death</h3></div><p class=\"prov-cite\">Section 41 · Chapter III · Of right of private defence</p><div class=\"prov-body\"><p>The right of private defence of property extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, be an offence of any of the descriptions hereinafter enumerated, namely: —</p><p><span class=\"lbl\">(a)</span>robbery;</p><p><span class=\"lbl\">(b)</span>house-breaking after sunset and before sunrise;</p><p><span class=\"lbl\">(c)</span>mischief by fire or any explosive substance committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;</p><p><span class=\"lbl\">(d)</span>theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.</p></div>"
+  }
+}

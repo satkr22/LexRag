@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 46,
+    "order": 109,
+    "stem": "section_97",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "97",
+    "article_title": "Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker",
+    "id": "constitution_section_97"
+  },
+  "id": "constitution_section_97",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "97",
+    "title": "Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker",
+    "content": "There shall be paid to the Chairman and the Deputy Chairman of the Council of States, and to the Speaker and the Deputy Speaker of the House of the People, such salaries and allowances as may be respectively fixed by Parliament by law and, until provision in that behalf is so made, such salaries and allowances as are specified in the Second Schedule.\n",
+    "html": "<article class=\"provision\" data-n=\"97\" data-report=\"Article 97 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker</h3></div><p class=\"prov-cite\">Article 97 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p>There shall be paid to the Chairman and the Deputy Chairman of the Council of States, and to the Speaker and the Deputy Speaker of the House of the People, such salaries and allowances as may be respectively fixed by Parliament by law and, until provision in that behalf is so made, such salaries and allowances as are specified in the Second Schedule.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker</h3></div><p class=\"prov-cite\">Article 97 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p>There shall be paid to the Chairman and the Deputy Chairman of the Council of States, and to the Speaker and the Deputy Speaker of the House of the People, such salaries and allowances as may be respectively fixed by Parliament by law and, until provision in that behalf is so made, such salaries and allowances as are specified in the Second Schedule.</p></div>"
+  }
+}

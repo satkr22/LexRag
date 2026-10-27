@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-04.html",
+    "source_order": 4,
+    "article_order": 21,
+    "order": 62,
+    "stem": "section_59",
+    "heading_number": "Chapter IV",
+    "heading_title": "Registration of Motor Vehicles",
+    "heading_range": "ss. 39–65",
+    "heading_source": "group-head",
+    "article_number": "59",
+    "article_title": "Power to fix the age limit of motor vehicle.",
+    "id": "motor-vehicles_section_59"
+  },
+  "id": "motor-vehicles_section_59",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Registration of Motor Vehicles",
+    "range": "ss. 39–65"
+  },
+  "article": {
+    "number": "59",
+    "title": "Power to fix the age limit of motor vehicle.",
+    "content": "(1) The Central Government may, having regard to the public safety, convenience and objects of this Act, by notification in the Official Gazette, specify the life of a motor vehicle reckoned from the date of its manufacture, after the expiry of which the motor vehicle shall not be deemed to comply with the requirements of this Act and the rules made thereunder:\nProvided that the Central Government may specify different ages for different classes or different types of motor vehicles.\n(2) Notwithstanding anything contained in sub-section (1), the Central Government may, having regard to the purpose of a motor vehicle, such as, display or use for the purposes of a demonstration in any exhibition, use for the purposes of technical research or taking part in a vintage car rally, by notification in the Official Gazette, exempt, by a general or special order, subject to such conditions as may be specified in such notification, any class or type of motor vehicle from the operation of sub-section (1) for the purpose to be stated in the notification.\n(3) Notwithstanding anything contained in section 56, no prescribed authority or authorised testing station shall grant a certificate of fitness to a motor vehicle in contravention of the provisions of any notification issued under sub-section (1).\n2[(4) The Central Government may, having regard to the public safety, convenience, protection of the environment and the objects of this Act, make rules prescribing the manner of recycling of motor vehicles and parts thereof which have exceeded their life.]\n",
+    "html": "<article class=\"provision\" data-n=\"59\" data-report=\"Section 59 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Power to fix the age limit of motor vehicle.</h3></div><p class=\"prov-cite\">Section 59  ·  Chapter IV  ·  page 42 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government may, having regard to the public safety, convenience and objects of this Act, by notification in the Official Gazette, specify the life of a motor vehicle reckoned from the date of its manufacture, after the expiry of which the motor vehicle shall not be deemed to comply with the requirements of this Act and the rules made thereunder:</p><p class=\"prvso\">Provided that the Central Government may specify different ages for different classes or different types of motor vehicles.</p><p class=\"lvl\">(2) Notwithstanding anything contained in sub-section (1), the Central Government may, having regard to the purpose of a motor vehicle, such as, display or use for the purposes of a demonstration in any exhibition, use for the purposes of technical research or taking part in a vintage car rally, by notification in the Official Gazette, exempt, by a general or special order, subject to such conditions as may be specified in such notification, any class or type of motor vehicle from the operation of sub-section (1) for the purpose to be stated in the notification.</p><p class=\"lvl\">(3) Notwithstanding anything contained in section 56, no prescribed authority or authorised testing station shall grant a certificate of fitness to a motor vehicle in contravention of the provisions of any notification issued under sub-section (1).</p><p class=\"lvl\"><sup>2</sup>[(4) The Central Government may, having regard to the public safety, convenience, protection of the environment and the objects of this Act, make rules prescribing the manner of recycling of motor vehicles and parts thereof which have exceeded their life.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Ins. by Act 32 of 2019, s. 24 (w.e.f. 1-9-2019).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Power to fix the age limit of motor vehicle.</h3></div><p class=\"prov-cite\">Section 59  ·  Chapter IV  ·  page 42 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government may, having regard to the public safety, convenience and objects of this Act, by notification in the Official Gazette, specify the life of a motor vehicle reckoned from the date of its manufacture, after the expiry of which the motor vehicle shall not be deemed to comply with the requirements of this Act and the rules made thereunder:</p><p class=\"prvso\">Provided that the Central Government may specify different ages for different classes or different types of motor vehicles.</p><p class=\"lvl\">(2) Notwithstanding anything contained in sub-section (1), the Central Government may, having regard to the purpose of a motor vehicle, such as, display or use for the purposes of a demonstration in any exhibition, use for the purposes of technical research or taking part in a vintage car rally, by notification in the Official Gazette, exempt, by a general or special order, subject to such conditions as may be specified in such notification, any class or type of motor vehicle from the operation of sub-section (1) for the purpose to be stated in the notification.</p><p class=\"lvl\">(3) Notwithstanding anything contained in section 56, no prescribed authority or authorised testing station shall grant a certificate of fitness to a motor vehicle in contravention of the provisions of any notification issued under sub-section (1).</p><p class=\"lvl\"><sup>2</sup>[(4) The Central Government may, having regard to the public safety, convenience, protection of the environment and the objects of this Act, make rules prescribing the manner of recycling of motor vehicles and parts thereof which have exceeded their life.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Ins. by Act 32 of 2019, s. 24 (w.e.f. 1-9-2019).</p></div></div>"
+  }
+}

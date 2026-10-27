@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 10,
+    "order": 487,
+    "stem": "section_O21R10",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R10",
+    "article_title": "Application for execution.",
+    "id": "cpc_section_O21R10"
+  },
+  "id": "cpc_section_O21R10",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R10",
+    "title": "Application for execution.",
+    "content": "Application for execution\nWhere the holder of a decree desires to execute it, he shall apply to the Court which passed the decree or to the officer (if any) appointed in this behalf, or if the decree has been sent under the provisions hereinbefore contained to another Court then to such Court or to the proper officer thereof.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R10\" data-report=\"Order 21, Rule 10 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Application for execution.</h3></div><p class=\"prov-cite\">Order 21, Rule 10</p><div class=\"prov-body\"><p class=\"sched-title\">Application for execution</p><p>Where the holder of a decree desires to execute it, he shall apply to the Court which passed the decree or to the officer (if any) appointed in this behalf, or if the decree has been sent under the provisions hereinbefore contained to another Court then to such Court or to the proper officer thereof.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Application for execution.</h3></div><p class=\"prov-cite\">Order 21, Rule 10</p><div class=\"prov-body\"><p class=\"sched-title\">Application for execution</p><p>Where the holder of a decree desires to execute it, he shall apply to the Court which passed the decree or to the officer (if any) appointed in this behalf, or if the decree has been sent under the provisions hereinbefore contained to another Court then to such Court or to the proper officer thereof.</p></div>"
+  }
+}

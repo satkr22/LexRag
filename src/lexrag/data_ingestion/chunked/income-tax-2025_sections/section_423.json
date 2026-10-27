@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_423_chunk_0",
+    "section_id": "income-tax-2025_section_423",
+    "token_count": 501,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 423::Interest for defaults in furnishing return of income.\n]\n\n\n(1) Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T where,— I = the interest payable; A = the amount of tax on which interest is payable, as specified in sub-section (2); T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).\n  (2) For sub-section (1), in respect of the circumstances specified in column B of the Table below, the starting date shall be the date specified in column C, the ending date shall be the date as specified in column D and the amount of tax on which interest is payable is specified in column E:\n  (3) Where as a result of an order under section 287 or 288 or 359 or 363 or 365(10) or 368 or 377 or 378, the amount of tax on which interest was payable under sub-sections (1) and (2) has been increased or reduced, the interest shall be increased or reduced accordingly, and in a case—\n  (a) where the interest is increased, the Assessing Officer shall serve on the assessee a notice of demand in such form as may be prescribed specifying the sum payable, and such notice of demand shall be deemed to be a notice under section 289 and the provisions of this Act shall apply accordingly;\n  (b) where the interest is reduced, the excess interest paid, if any, shall be refunded.\n  (4) For the purposes of this section,—\n  (a) tax on total income as determined under section 270(1) shall not include the additional income-tax, if any, payable under section 267;\n  (b) tax on the total income determined under regular assessment shall not include the additional income-tax payable under section 267;\n  (c) interest payable under sub-section (1) shall be reduced by the interest, if any, paid under section 266 towards the interest chargeable;\n  (d) \"tax paid\" means—\n  (i) advance tax, if any, paid;",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_423_chunk_0",
+      "section_id": "income-tax-2025_section_423",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "423",
+      "section_title": "Interest for defaults in furnishing return of income."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_423_chunk_1",
+    "section_id": "income-tax-2025_section_423",
+    "token_count": 344,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 423::Interest for defaults in furnishing return of income.\n]\n\n\n(1) Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T where,— I = the interest payable; A = the amount of tax on which interest is payable, as specified in sub-section (2); T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).\n  (ii) any tax deducted or collected at source;\n  (iii) any relief of tax allowed under section 157;\n  (iv) any relief of tax allowed under section 159(1) on account of tax paid in a country outside India;\n  (v) any relief of tax allowed under section 159(2) on account of tax paid in a specified territory outside India referred to in that section;\n  (vi) any deduction, from the Indian income-tax payable, allowed under section 160, on account of tax paid in a country outside India; and\n  99 [(vii) any tax credit allowed to be set off as per section 206(2)(e) to (h) and 206(3) and (4).]\n  (5) Where for any tax year, an assessment is made for the first time under section 279, the assessment so made shall be regarded as a regular assessment for the purposes of this section.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_423_chunk_1",
+      "section_id": "income-tax-2025_section_423",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "423",
+      "section_title": "Interest for defaults in furnishing return of income."
+    }
+  }
+]

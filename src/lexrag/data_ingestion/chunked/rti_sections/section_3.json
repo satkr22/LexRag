@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "rti_section_3_chunk_0",
+    "section_id": "rti_section_3",
+    "token_count": 46,
+    "text": "[Act: rti\n Chapter: Right to Information and Obligations of Public Authorities\n Section: 3::Right to information.\n]\n\n\nSubject to the provisions of this Act, all citizens shall have the right to information.",
+    "metadata": {
+      "chunk_id": "rti_section_3_chunk_0",
+      "section_id": "rti_section_3",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "rti",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Right to Information and Obligations of Public Authorities",
+      "section_number": "3",
+      "section_title": "Right to information."
+    }
+  }
+]

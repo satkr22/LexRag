@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-06.html",
+    "source_order": 6,
+    "article_order": 11,
+    "order": 73,
+    "stem": "section_73",
+    "heading_number": "Chapter VI",
+    "heading_title": "Processes to Compel Appearance",
+    "heading_range": "63 – 93",
+    "heading_source": "group-head",
+    "article_number": "73",
+    "article_title": "Power to direct security to be taken",
+    "id": "bnss_section_73"
+  },
+  "id": "bnss_section_73",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Processes to Compel Appearance",
+    "range": "63 – 93"
+  },
+  "article": {
+    "number": "73",
+    "title": "Power to direct security to be taken",
+    "content": "(1)Any Court issuing a warrant for the arrest of any person may in its discretion direct by endorsement on the warrant that, if such person executes a bail bond with sufficient sureties for his attendance before the Court at a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.\n(2)The endorsement shall state—\n(a)the number of sureties;\n(b)the amount in which they and the person for whose arrest the warrant is issued, are to be respectively bound;\n(c)the time at which he is to attend before the Court.\n(3)Whenever security is taken under this section, the officer to whom the warrant is directed shall forward the bond to the Court.\n",
+    "html": "<article class=\"provision\" data-n=\"73\" data-report=\"Section 73 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Power to direct security to be taken</h3></div><p class=\"prov-cite\">Section 73 · Chapter VI · Warrant of arrest</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any Court issuing a warrant for the arrest of any person may in its discretion direct by endorsement on the warrant that, if such person executes a bail bond with sufficient sureties for his attendance before the Court at a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.</p><p><span class=\"lbl\">(2)</span>The endorsement shall state—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the number of sureties;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>the amount in which they and the person for whose arrest the warrant is issued, are to be respectively bound;</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>the time at which he is to attend before the Court.</p><p><span class=\"lbl\">(3)</span>Whenever security is taken under this section, the officer to whom the warrant is directed shall forward the bond to the Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Power to direct security to be taken</h3></div><p class=\"prov-cite\">Section 73 · Chapter VI · Warrant of arrest</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any Court issuing a warrant for the arrest of any person may in its discretion direct by endorsement on the warrant that, if such person executes a bail bond with sufficient sureties for his attendance before the Court at a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.</p><p><span class=\"lbl\">(2)</span>The endorsement shall state—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the number of sureties;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>the amount in which they and the person for whose arrest the warrant is issued, are to be respectively bound;</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>the time at which he is to attend before the Court.</p><p><span class=\"lbl\">(3)</span>Whenever security is taken under this section, the officer to whom the warrant is directed shall forward the bond to the Court.</p></div>"
+  }
+}

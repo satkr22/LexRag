@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_35ABA_chunk_0",
+    "section_id": "income-tax-1961_section_35ABA",
+    "token_count": 495,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 35ABA::Expenditure for obtaining right to use spectrum for telecommunication services.\n]\n\n\n(1) In respect of any expenditure, being in the nature of capital expenditure, incurred for acquiring any right to use spectrum for telecommunication services either before the commencement of the business or thereafter at any time during any previous year and for which payment has actually been made to obtain a right to use spectrum, there shall, subject to and in accordance with the provisions of this section, be allowed for each of the relevant previous years, a deduction equal to the appropriate fraction of the amount of such expenditure.\n  (2) The provisions contained in sub-sections (2) to (8) of section 35ABB, shall apply as if for the word \"licence\", the word \"spectrum\" had been substituted.\n  (3) Where, in a previous year, any deduction has been claimed and granted to the assessee under sub-section (1), and, subsequently, there is failure to comply with any of the provisions of this section, then,—\n  (a) the deduction shall be deemed to have been wrongly allowed;\n  (b) the Assessing Officer may, notwithstanding anything contained in this Act, re-compute the total income of the assessee for the said previous year and make the necessary rectification;\n  (c) the provisions of section 154 shall, so far as may be, apply and the period of four years specified in sub-section (7) of that section being reckoned from the end of the previous year in which the failure to comply with the provisions of this section takes place.\n  Explanation.—For the purposes of this section,—\n  (i) \"relevant previous years\" means,—\n  (A) in a case where the spectrum fee is actually paid before the commencement of the business to operate telecommunication services, the previous years beginning with the previous year in which such business commenced;\n  (B) in any other case, the previous years beginning with the previous year in which the spectrum fee is actually paid, and the subsequent previous year or years during which the spectrum, for which the fee is paid, shall be in force;\n  (ii) \"appropriate fraction\" means the fraction, the numerator of which is one and the denominator of which is the total number of the relevant previous years;",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_35ABA_chunk_0",
+      "section_id": "income-tax-1961_section_35ABA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "35ABA",
+      "section_title": "Expenditure for obtaining right to use spectrum for telecommunication services."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_35ABA_chunk_1",
+    "section_id": "income-tax-1961_section_35ABA",
+    "token_count": 195,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 35ABA::Expenditure for obtaining right to use spectrum for telecommunication services.\n]\n\n\n(1) In respect of any expenditure, being in the nature of capital expenditure, incurred for acquiring any right to use spectrum for telecommunication services either before the commencement of the business or thereafter at any time during any previous year and for which payment has actually been made to obtain a right to use spectrum, there shall, subject to and in accordance with the provisions of this section, be allowed for each of the relevant previous years, a deduction equal to the appropriate fraction of the amount of such expenditure.\n  (iii) \"payment has actually been made\" means the actual payment of expenditure irrespective of the previous year in which the liability for the expenditure was incurred according to the method of accounting regularly employed by the assessee or payable in such manner as may be prescribed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_35ABA_chunk_1",
+      "section_id": "income-tax-1961_section_35ABA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "35ABA",
+      "section_title": "Expenditure for obtaining right to use spectrum for telecommunication services."
+    }
+  }
+]

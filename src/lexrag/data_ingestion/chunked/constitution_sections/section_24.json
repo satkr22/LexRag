@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_24_chunk_0",
+    "section_id": "constitution_section_24",
+    "token_count": 53,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 24::Prohibition of employment of children in factories, etc\n]\n\n\nNo child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.",
+    "metadata": {
+      "chunk_id": "constitution_section_24_chunk_0",
+      "section_id": "constitution_section_24",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "24",
+      "section_title": "Prohibition of employment of children in factories, etc"
+    }
+  }
+]

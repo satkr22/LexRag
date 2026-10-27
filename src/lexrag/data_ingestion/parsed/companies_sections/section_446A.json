@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-29.html",
+    "source_order": 29,
+    "article_order": 13,
+    "order": 499,
+    "stem": "section_446A",
+    "heading_number": "Chapter XXVIII",
+    "heading_title": "Special Courts",
+    "heading_range": "ss. 435–446B",
+    "heading_source": "group-head",
+    "article_number": "446A",
+    "article_title": "Factors for determining level of punishment.",
+    "id": "companies_section_446A"
+  },
+  "id": "companies_section_446A",
+  "heading": {
+    "number": "Chapter XXVIII",
+    "title": "Special Courts",
+    "range": "ss. 435–446B"
+  },
+  "article": {
+    "number": "446A",
+    "title": "Factors for determining level of punishment.",
+    "content": "The court or the Special Court, while deciding the amount of fine or imprisonment under this Act, shall have due regard to the following factors, namely:—\n(a) size of the company;\n(b) nature of business carried on by the company;\n(c) injury to public interest;\n(d) nature of the default; and\n(e) repetition of the default.\n",
+    "html": "<article class=\"provision\" data-n=\"446A\" data-report=\"Section 446A · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">446A</span><sup>1</sup>[Factors for determining level of punishment.</h3></div><p class=\"prov-cite\">Section 446A  ·  Chapter XXVIII  ·  page 243 of the Act</p><div class=\"prov-body\"><p>The court or the Special Court, while deciding the amount of fine or imprisonment under this Act, shall have due regard to the following factors, namely:—</p><p class=\"lvl\">(a) size of the company;</p><p class=\"lvl\">(b) nature of business carried on by the company;</p><p class=\"lvl\">(c) injury to public interest;</p><p class=\"lvl\">(d) nature of the default; and</p><p class=\"lvl\">(e) repetition of the default.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 1 of 2018, s. 91 (w.e.f. 9-2-2018).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">446A</span><sup>1</sup>[Factors for determining level of punishment.</h3></div><p class=\"prov-cite\">Section 446A  ·  Chapter XXVIII  ·  page 243 of the Act</p><div class=\"prov-body\"><p>The court or the Special Court, while deciding the amount of fine or imprisonment under this Act, shall have due regard to the following factors, namely:—</p><p class=\"lvl\">(a) size of the company;</p><p class=\"lvl\">(b) nature of business carried on by the company;</p><p class=\"lvl\">(c) injury to public interest;</p><p class=\"lvl\">(d) nature of the default; and</p><p class=\"lvl\">(e) repetition of the default.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 1 of 2018, s. 91 (w.e.f. 9-2-2018).</p></div></div>"
+  }
+}

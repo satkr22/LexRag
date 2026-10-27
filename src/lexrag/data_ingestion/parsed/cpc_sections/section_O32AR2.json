@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-51.html",
+    "source_order": 51,
+    "article_order": 2,
+    "order": 709,
+    "stem": "section_O32AR2",
+    "heading_number": "Order XXXIIA",
+    "heading_title": "Suits relating to matters concerning the family",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O32AR2",
+    "article_title": "Proceedings to be held in camera.",
+    "id": "cpc_section_O32AR2"
+  },
+  "id": "cpc_section_O32AR2",
+  "heading": {
+    "number": "Order XXXIIA",
+    "title": "Suits relating to matters concerning the family",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O32AR2",
+    "title": "Proceedings to be held in camera.",
+    "content": "In every suit or proceeding to which this Order applies, the proceedings may be held in camera if the Court so desires and shall be so held if either party so desires.\n",
+    "html": "<article class=\"provision\" data-n=\"O32AR2\" data-report=\"Order 32A, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Proceedings to be held in camera.</h3></div><p class=\"prov-cite\">Order 32A, Rule 2</p><div class=\"prov-body\"><p>In every suit or proceeding to which this Order applies, the proceedings may be held in camera if the Court so desires and shall be so held if either party so desires.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Proceedings to be held in camera.</h3></div><p class=\"prov-cite\">Order 32A, Rule 2</p><div class=\"prov-body\"><p>In every suit or proceeding to which this Order applies, the proceedings may be held in camera if the Court so desires and shall be so held if either party so desires.</p></div>"
+  }
+}

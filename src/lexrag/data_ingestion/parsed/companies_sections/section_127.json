@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-08.html",
+    "source_order": 8,
+    "article_order": 5,
+    "order": 130,
+    "stem": "section_127",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Declaration and Payment of Dividend",
+    "heading_range": "ss. 123–127",
+    "heading_source": "group-head",
+    "article_number": "127",
+    "article_title": "Punishment for failure to distribute dividends.",
+    "id": "companies_section_127"
+  },
+  "id": "companies_section_127",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Declaration and Payment of Dividend",
+    "range": "ss. 123–127"
+  },
+  "article": {
+    "number": "127",
+    "title": "Punishment for failure to distribute dividends.",
+    "content": "Where a dividend has been declared by a company but has not been paid or the warrant in respect thereof has not been posted within thirty days from the date of declaration to any shareholder entitled to the payment of the dividend, every director of the company shall, if he is knowingly a party to the default, be punishable with imprisonment which may extend to two years and with fine which shall not be less than one thousand rupees for every day during which such default continues and the company shall be liable to pay simple interest at the rate of eighteen per cent. per annum during the period for which such default continues:\nProvided that no offence under this section shall be deemed to have been committed:—\n(a) where the dividend could not be paid by reason of the operation of any law;\n(b) where a shareholder has given directions to the company regarding the payment of the dividend and those directions cannot be complied with and the same has been communicated to him;\n(c) where there is a dispute regarding the right to receive the dividend;\n(d) where the dividend has been lawfully adjusted by the company against any sum due to it from the shareholder; or\n(e) where, for any other reason, the failure to pay the dividend or to post the warrant within the period under this section was not due to any default on the part of the company.\n",
+    "html": "<article class=\"provision\" data-n=\"127\" data-report=\"Section 127 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">127</span>Punishment for failure to distribute dividends.</h3></div><p class=\"prov-cite\">Section 127  ·  Chapter VIII  ·  page 85 of the Act</p><div class=\"prov-body\"><p>Where a dividend has been declared by a company but has not been paid or the warrant in respect thereof has not been posted within thirty days from the date of declaration to any shareholder entitled to the payment of the dividend, every director of the company shall, if he is knowingly a party to the default, be punishable with imprisonment which may extend to two years and with fine which shall not be less than one thousand rupees for every day during which such default continues and the company shall be liable to pay simple interest at the rate of eighteen per cent. per annum during the period for which such default continues:</p><p class=\"prvso\">Provided that no offence under this section shall be deemed to have been committed:—</p><p class=\"lvl\">(a) where the dividend could not be paid by reason of the operation of any law;</p><p class=\"lvl\">(b) where a shareholder has given directions to the company regarding the payment of the dividend and those directions cannot be complied with and the same has been communicated to him;</p><p class=\"lvl\">(c) where there is a dispute regarding the right to receive the dividend;</p><p class=\"lvl\">(d) where the dividend has been lawfully adjusted by the company against any sum due to it from the shareholder; or</p><p class=\"lvl\">(e) where, for any other reason, the failure to pay the dividend or to post the warrant within the period under this section was not due to any default on the part of the company.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">127</span>Punishment for failure to distribute dividends.</h3></div><p class=\"prov-cite\">Section 127  ·  Chapter VIII  ·  page 85 of the Act</p><div class=\"prov-body\"><p>Where a dividend has been declared by a company but has not been paid or the warrant in respect thereof has not been posted within thirty days from the date of declaration to any shareholder entitled to the payment of the dividend, every director of the company shall, if he is knowingly a party to the default, be punishable with imprisonment which may extend to two years and with fine which shall not be less than one thousand rupees for every day during which such default continues and the company shall be liable to pay simple interest at the rate of eighteen per cent. per annum during the period for which such default continues:</p><p class=\"prvso\">Provided that no offence under this section shall be deemed to have been committed:—</p><p class=\"lvl\">(a) where the dividend could not be paid by reason of the operation of any law;</p><p class=\"lvl\">(b) where a shareholder has given directions to the company regarding the payment of the dividend and those directions cannot be complied with and the same has been communicated to him;</p><p class=\"lvl\">(c) where there is a dispute regarding the right to receive the dividend;</p><p class=\"lvl\">(d) where the dividend has been lawfully adjusted by the company against any sum due to it from the shareholder; or</p><p class=\"lvl\">(e) where, for any other reason, the failure to pay the dividend or to post the warrant within the period under this section was not due to any default on the part of the company.</p></div>"
+  }
+}

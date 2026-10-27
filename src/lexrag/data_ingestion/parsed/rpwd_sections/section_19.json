@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "rpwd",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "rpwd_sections/section-19.html",
+    "source_order": 19,
+    "article_order": 1,
+    "order": 19,
+    "stem": "section_19",
+    "heading_number": "Chapter IV",
+    "heading_title": "Skill Development and Employment",
+    "heading_range": "ss. 19–23",
+    "heading_source": "manifest",
+    "article_number": "19",
+    "article_title": "Vocational training and self-employment.",
+    "id": "rpwd_section_19"
+  },
+  "id": "rpwd_section_19",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Skill Development and Employment",
+    "range": "ss. 19–23"
+  },
+  "article": {
+    "number": "19",
+    "title": "Vocational training and self-employment.",
+    "content": "(1) The appropriate Government shall formulate schemes and programmes including provision of loans at concessional rates to facilitate and support employment of persons with disabilities especially for their vocational training and self-employment.\n(2) The schemes and programmes referred to in sub-section (1) shall provide for—\n(a) inclusion of person with disability in all mainstream formal and non-formal vocational and skill training schemes and programmes;\n(b) to ensure that a person with disability has adequate support and facilities to avail specific training;\n(c) exclusive skill training programmes for persons with disabilities with active links with the market, for those with developmental, intellectual, multiple disabilities and autism;\n(d) loans at concessional rates including that of microcredit;\n(e) marketing the products made by persons with disabilities; and\n(f) maintenance of disaggregated data on the progress made in the skill training and self-employment, including persons with disabilities.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Vocational training and self-employment.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter IV  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The appropriate Government shall formulate schemes and programmes including provision of loans at concessional rates to facilitate and support employment of persons with disabilities especially for their vocational training and self-employment.</p><p class=\"lvl\">(2) The schemes and programmes referred to in sub-section (1) shall provide for—</p><p class=\"lvl\">(a) inclusion of person with disability in all mainstream formal and non-formal vocational and skill training schemes and programmes;</p><p class=\"lvl\">(b) to ensure that a person with disability has adequate support and facilities to avail specific training;</p><p class=\"lvl\">(c) exclusive skill training programmes for persons with disabilities with active links with the market, for those with developmental, intellectual, multiple disabilities and autism;</p><p class=\"lvl\">(d) loans at concessional rates including that of microcredit;</p><p class=\"lvl\">(e) marketing the products made by persons with disabilities; and</p><p class=\"lvl\">(f) maintenance of disaggregated data on the progress made in the skill training and self-employment, including persons with disabilities.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Vocational training and self-employment.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter IV  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The appropriate Government shall formulate schemes and programmes including provision of loans at concessional rates to facilitate and support employment of persons with disabilities especially for their vocational training and self-employment.</p><p class=\"lvl\">(2) The schemes and programmes referred to in sub-section (1) shall provide for—</p><p class=\"lvl\">(a) inclusion of person with disability in all mainstream formal and non-formal vocational and skill training schemes and programmes;</p><p class=\"lvl\">(b) to ensure that a person with disability has adequate support and facilities to avail specific training;</p><p class=\"lvl\">(c) exclusive skill training programmes for persons with disabilities with active links with the market, for those with developmental, intellectual, multiple disabilities and autism;</p><p class=\"lvl\">(d) loans at concessional rates including that of microcredit;</p><p class=\"lvl\">(e) marketing the products made by persons with disabilities; and</p><p class=\"lvl\">(f) maintenance of disaggregated data on the progress made in the skill training and self-employment, including persons with disabilities.</p></div>"
+  }
+}

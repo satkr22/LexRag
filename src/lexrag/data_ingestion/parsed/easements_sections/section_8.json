@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "easements",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-8.html",
+    "source_order": 8,
+    "article_order": 1,
+    "order": 8,
+    "stem": "section_8",
+    "heading_number": "Chapter II",
+    "heading_title": "The Imposition, Acquisition and Transfer of Easements",
+    "heading_range": "ss. 8–19",
+    "heading_source": "manifest",
+    "article_number": "8",
+    "article_title": "Who may impose easements.",
+    "id": "easements_section_8"
+  },
+  "id": "easements_section_8",
+  "heading": {
+    "number": "Chapter II",
+    "title": "The Imposition, Acquisition and Transfer of Easements",
+    "range": "ss. 8–19"
+  },
+  "article": {
+    "number": "8",
+    "title": "Who may impose easements.",
+    "content": "An easement may be imposed by any one in the circumstances, and to the extent, in and to which he may transfer his interest in the heritage on which the liability is to be imposed.\nIllustrations\n(a) A is tenant of B’s land under a lease for an unexpired term of twenty years, and has power to transfer his interest under the lease. A may impose an easement on the land to continue during the time that the lease exists or for any shorter period.\n(b) A is tenant for his life of certain land with remainder to B absolutely. A cannot, unless with B’s consent, impose an easement thereon which will continue after the determination of his life-interest.\n(c) A, B and C are co-owners of certain land. A cannot, without the consent of B and C, impose an easement on the land or on any part thereof.\n(d) A and B are lessees of the same lessor, A of a field X for a term of five years, and B of a field Y for a term of ten years. A’s interest under his lease is transferable; B’s is not. A may impose on X, in favour of B, a right of way terminable with A’s lease.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Who may impose easements.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  pages 6–7 of the Act</p><div class=\"prov-body\"><p>An easement may be imposed by any one in the circumstances, and to the extent, in and to which he may transfer his interest in the heritage on which the liability is to be imposed.</p><p>Illustrations</p><p class=\"lvl\">(a) A is tenant of B’s land under a lease for an unexpired term of twenty years, and has power to transfer his interest under the lease. A may impose an easement on the land to continue during the time that the lease exists or for any shorter period.</p><p class=\"lvl\">(b) A is tenant for his life of certain land with remainder to B absolutely. A cannot, unless with B’s consent, impose an easement thereon which will continue after the determination of his life-interest.</p><p class=\"lvl\">(c) A, B and C are co-owners of certain land. A cannot, without the consent of B and C, impose an easement on the land or on any part thereof.</p><p class=\"lvl\">(d) A and B are lessees of the same lessor, A of a field X for a term of five years, and B of a field Y for a term of ten years. A’s interest under his lease is transferable; B’s is not. A may impose on X, in favour of B, a right of way terminable with A’s lease.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Who may impose easements.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  pages 6–7 of the Act</p><div class=\"prov-body\"><p>An easement may be imposed by any one in the circumstances, and to the extent, in and to which he may transfer his interest in the heritage on which the liability is to be imposed.</p><p>Illustrations</p><p class=\"lvl\">(a) A is tenant of B’s land under a lease for an unexpired term of twenty years, and has power to transfer his interest under the lease. A may impose an easement on the land to continue during the time that the lease exists or for any shorter period.</p><p class=\"lvl\">(b) A is tenant for his life of certain land with remainder to B absolutely. A cannot, unless with B’s consent, impose an easement thereon which will continue after the determination of his life-interest.</p><p class=\"lvl\">(c) A, B and C are co-owners of certain land. A cannot, without the consent of B and C, impose an easement on the land or on any part thereof.</p><p class=\"lvl\">(d) A and B are lessees of the same lessor, A of a field X for a term of five years, and B of a field Y for a term of ten years. A’s interest under his lease is transferable; B’s is not. A may impose on X, in favour of B, a right of way terminable with A’s lease.</p></div>"
+  }
+}

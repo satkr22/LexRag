@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_6_chunk_0",
+    "section_id": "easements_section_6",
+    "token_count": 110,
+    "text": "[Act: easements\n Chapter: Of Easements Generally\n Section: 6::Easement for limited time or on condition.\n]\n\n\nAn easement may be permanent, or for a term of years or other limited period, or subject to periodical interruption, or exercisable only at a certain place or at certain times, or between certain hours, or for a particular purpose, or on condition that it shall commence or become void or voidable on the happening of a specified event or the performance or non-performance of a specified act.",
+    "metadata": {
+      "chunk_id": "easements_section_6_chunk_0",
+      "section_id": "easements_section_6",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Of Easements Generally",
+      "section_number": "6",
+      "section_title": "Easement for limited time or on condition."
+    }
+  }
+]

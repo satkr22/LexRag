@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-107.html",
+    "source_order": 112,
+    "article_order": 1,
+    "order": 112,
+    "stem": "section_107",
+    "heading_number": "Chapter X",
+    "heading_title": "Of Reasonable Time",
+    "heading_range": "ss. 105–107",
+    "heading_source": "manifest",
+    "article_number": "107",
+    "article_title": "Reasonable time for transmitting such notice.",
+    "id": "negotiable-instruments_section_107"
+  },
+  "id": "negotiable-instruments_section_107",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Of Reasonable Time",
+    "range": "ss. 105–107"
+  },
+  "article": {
+    "number": "107",
+    "title": "Reasonable time for transmitting such notice.",
+    "content": "A party receiving notice of dishonour, who seeks to enforce his right against a prior party, transmits the notice within a reasonable time if he transmits it within the same time after its receipt as he would have had to give notice if he had been the holder.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">107</span>Reasonable time for transmitting such notice.</h3></div><p class=\"prov-cite\">Section 107  ·  Chapter X  ·  pages 23–24 of the Act</p><div class=\"prov-body\"><p>A party receiving notice of dishonour, who seeks to enforce his right against a prior party, transmits the notice within a reasonable time if he transmits it within the same time after its receipt as he would have had to give notice if he had been the holder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">107</span>Reasonable time for transmitting such notice.</h3></div><p class=\"prov-cite\">Section 107  ·  Chapter X  ·  pages 23–24 of the Act</p><div class=\"prov-body\"><p>A party receiving notice of dishonour, who seeks to enforce his right against a prior party, transmits the notice within a reasonable time if he transmits it within the same time after its receipt as he would have had to give notice if he had been the holder.</p></div>"
+  }
+}

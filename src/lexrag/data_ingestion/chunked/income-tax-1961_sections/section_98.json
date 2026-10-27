@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_98_chunk_0",
+    "section_id": "income-tax-1961_section_98",
+    "token_count": 398,
+    "text": "[Act: income-tax-1961\n Chapter: General Anti-avoidance Rule\n Section: 98::Consequences of impermissible avoidance arrangement.\n]\n\n\n(1) If an arrangement is declared to be an impermissible avoidance arrangement, then, the consequences, in relation to tax, of the arrangement, including denial of tax benefit or a benefit under a tax treaty, shall be determined, in such manner as is deemed appropriate, in the circumstances of the case, including by way of but not limited to the following, namely:—\n(a) disregarding, combining or recharacterising any step in, or a part or whole of, the impermissible avoidance arrangement;\n(b) treating the impermissible avoidance arrangement as if it had not been entered into or carried out;\n(c) disregarding any accommodating party or treating any accommodating party and any other party as one and the same person;\n(d) deeming persons who are connected persons in relation to each other to be one and the same person for the purposes of determining tax treatment of any amount;\n(e) reallocating amongst the parties to the arrangement—\n(i) any accrual, or receipt, of a capital nature or revenue nature; or\n(ii) any expenditure, deduction, relief or rebate;\n(f) treating—\n(i) the place of residence of any party to the arrangement; or\n(ii) the situs of an asset or of a transaction, at a place other than the place of residence, location of the asset or location of the transaction as provided under the arrangement; or\n(g) considering or looking through any arrangement by disregarding any corporate structure.\n(2) For the purposes of sub-section (1),—\n(i) any equity may be treated as debt or vice versa;\n(ii) any accrual, or receipt, of a capital nature may be treated as of revenue nature or vice versa; or\n(iii) any expenditure, deduction, relief or rebate may be recharacterised.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_98_chunk_0",
+      "section_id": "income-tax-1961_section_98",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter X-A",
+      "chapter_title": "General Anti-avoidance Rule",
+      "section_number": "98",
+      "section_title": "Consequences of impermissible avoidance arrangement."
+    }
+  }
+]

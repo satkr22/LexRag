@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "specific-relief_section_24_chunk_0",
+    "section_id": "specific-relief_section_24",
+    "token_count": 99,
+    "text": "[Act: specific-relief\n Chapter: Specific Performance of Contracts\n Section: 24::Bar of suit for compensation for breach after dismissal of suit for specific performance.\n]\n\n\nThe dismissal of a suit for specific performance of a contract or part thereof shall bar the plaintiff’s right to sue for compensation for the breach of such contract or part, as the case may be, but shall not bar his right to sue for any other relief to which he may be entitled, by reason of such breach.",
+    "metadata": {
+      "chunk_id": "specific-relief_section_24_chunk_0",
+      "section_id": "specific-relief_section_24",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "specific-relief",
+      "document_title": null,
+      "chapter_number": "Part II · Chapter II",
+      "chapter_title": "Specific Performance of Contracts",
+      "section_number": "24",
+      "section_title": "Bar of suit for compensation for breach after dismissal of suit for specific performance."
+    }
+  }
+]

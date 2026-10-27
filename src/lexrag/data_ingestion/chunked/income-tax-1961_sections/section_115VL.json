@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115VL_chunk_0",
+    "section_id": "income-tax-1961_section_115VL",
+    "token_count": 333,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Income of Shipping Companies\n Section: 115VL::General exclusion of deduction and set off, etc.\n]\n\n\nNotwithstanding anything contained in any other provision of this Act, in computing the tonnage income of a tonnage tax company for any previous year (hereafter in this section referred to as the \"relevant previous year\") in which it is chargeable to tax in accordance with this Chapter—\n(i) sections 30 to 43B shall apply as if every loss, allowance or deduction referred to therein and relating to or allowable for any of the relevant previous years, had been given full effect to for that previous year itself;\n(ii) no loss referred to in sub-sections (1) and (3) of section 70 or sub-sections (1) and (2) of section 71 or sub-section (1) of section 72 or sub-section\n(1) of section 72A, in so far as such loss relates to the business of operating qualifying ships of the company, shall be carried forward or set off where such loss relates to any of the previous years when the company is under the tonnage tax scheme;\n(iii) no deduction shall be allowed under Chapter VI-A in relation to the profits and gains from the business of operating qualifying ships; and\n(iv) in computing the depreciation allowance under section 32, the written down value of any asset used for the purposes of the tonnage tax business shall be computed as if the company has claimed and has been actually allowed the deduction in respect of depreciation for the relevant previous years.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115VL_chunk_0",
+      "section_id": "income-tax-1961_section_115VL",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-G",
+      "chapter_title": "Special Provisions Relating to Income of Shipping Companies",
+      "section_number": "115VL",
+      "section_title": "General exclusion of deduction and set off, etc."
+    }
+  }
+]

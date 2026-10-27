@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "dowry",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "dowry_sections/section-5.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "section_5",
+    "heading_number": "The Act",
+    "heading_title": "Sections 1 to 10",
+    "heading_range": "ss. 1–10",
+    "heading_source": "manifest",
+    "article_number": "5",
+    "article_title": "Agreement for giving or taking dowry to be void.",
+    "id": "dowry_section_5"
+  },
+  "id": "dowry_section_5",
+  "heading": {
+    "number": "The Act",
+    "title": "Sections 1 to 10",
+    "range": "ss. 1–10"
+  },
+  "article": {
+    "number": "5",
+    "title": "Agreement for giving or taking dowry to be void.",
+    "content": "Any agreement for the giving or taking of dowry shall be void.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Agreement for giving or taking dowry to be void.</h3></div><p class=\"prov-cite\">Section 5  ·  The Act  ·  page 4 of the Act</p><div class=\"prov-body\"><p>Any agreement for the giving or taking of dowry shall be void.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Agreement for giving or taking dowry to be void.</h3></div><p class=\"prov-cite\">Section 5  ·  The Act  ·  page 4 of the Act</p><div class=\"prov-body\"><p>Any agreement for the giving or taking of dowry shall be void.</p></div>"
+  }
+}

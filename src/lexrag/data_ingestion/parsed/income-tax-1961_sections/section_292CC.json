@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-53.html",
+    "source_order": 58,
+    "article_order": 31,
+    "order": 908,
+    "stem": "section_292CC",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 281–298",
+    "heading_source": "group-head",
+    "article_number": "292CC",
+    "article_title": "Authorisation and assessment in case of search or requisition.",
+    "id": "income-tax-1961_section_292CC"
+  },
+  "id": "income-tax-1961_section_292CC",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Miscellaneous",
+    "range": "ss. 281–298"
+  },
+  "article": {
+    "number": "292CC",
+    "title": "Authorisation and assessment in case of search or requisition.",
+    "content": "(1) Notwithstanding anything contained in this Act,—\n(i) it shall not be necessary to issue an authorisation under section 132 or make a requisition under section 132A separately in the name of each person;\n(ii) where an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the mention of such names of more than one person on such authorisation or requisition shall not be deemed to construe that it was issued in the name of an association of persons or body of individuals consisting of such persons.\n(2) Notwithstanding that an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the assessment or reassessment shall be made separately in the name of each of the persons mentioned in such authorisation or requisition.\n",
+    "html": "<article class=\"provision\" data-n=\"292CC\" data-report=\"Section 292CC · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">292CC</span>Authorisation and assessment in case of search or requisition.</h3></div><p class=\"prov-cite\">Section 292CC  ·  Chapter XXIII  ·  page 1074 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in this Act,—</p><p class=\"lvl\">(i) it shall not be necessary to issue an authorisation under section 132 or make a requisition under section 132A separately in the name of each person;</p><p class=\"lvl\">(ii) where an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the mention of such names of more than one person on such authorisation or requisition shall not be deemed to construe that it was issued in the name of an association of persons or body of individuals consisting of such persons.</p><p class=\"lvl\">(2) Notwithstanding that an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the assessment or reassessment shall be made separately in the name of each of the persons mentioned in such authorisation or requisition.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">292CC</span>Authorisation and assessment in case of search or requisition.</h3></div><p class=\"prov-cite\">Section 292CC  ·  Chapter XXIII  ·  page 1074 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in this Act,—</p><p class=\"lvl\">(i) it shall not be necessary to issue an authorisation under section 132 or make a requisition under section 132A separately in the name of each person;</p><p class=\"lvl\">(ii) where an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the mention of such names of more than one person on such authorisation or requisition shall not be deemed to construe that it was issued in the name of an association of persons or body of individuals consisting of such persons.</p><p class=\"lvl\">(2) Notwithstanding that an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the assessment or reassessment shall be made separately in the name of each of the persons mentioned in such authorisation or requisition.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-30.html",
+    "source_order": 34,
+    "article_order": 14,
+    "order": 395,
+    "stem": "section_115VN",
+    "heading_number": "Chapter XII-G",
+    "heading_title": "Special Provisions Relating to Income of Shipping Companies",
+    "heading_range": "ss. 115V–115VZC",
+    "heading_source": "group-head",
+    "article_number": "115VN",
+    "article_title": "Chargeable gains from transfer of tonnage tax assets.",
+    "id": "income-tax-1961_section_115VN"
+  },
+  "id": "income-tax-1961_section_115VN",
+  "heading": {
+    "number": "Chapter XII-G",
+    "title": "Special Provisions Relating to Income of Shipping Companies",
+    "range": "ss. 115V–115VZC"
+  },
+  "article": {
+    "number": "115VN",
+    "title": "Chargeable gains from transfer of tonnage tax assets.",
+    "content": "Any profits or gains arising from the transfer of a capital asset being an asset forming part of the block of qualifying assets shall be chargeable to income-tax in accordance with the provisions of section 45, read with section 50, and the capital gains so arising shall be computed in accordance with the provisions of sections 45 to 51:\nProvided that for the purpose of computing such profits or gains, the provisions of section 50 shall have effect as if for the words \"written down value of the block of assets\", the words \"written down value of the block of qualifying assets\" had been substituted.\nExplanation.—For the purposes of this Chapter, \"written down value of the block of qualifying assets\" means the written down value computed in accordance with the provisions of sub-section (2) of section 115VK.\nExclusion from provisions of section 115JB.\n115V-O. The book profit or loss derived from the activities of a tonnage tax company, referred to in sub-section (1) of section 115V-I, shall be excluded from the book profit of the company for the purposes of section 115JB.\n",
+    "html": "<article class=\"provision\" data-n=\"115VN\" data-report=\"Section 115VN · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VN</span>Chargeable gains from transfer of tonnage tax assets.</h3></div><p class=\"prov-cite\">Section 115VN  ·  Chapter XII-G  ·  B.—Computation of tonnage income from business of operating qualifying ships  ·  pages 523–524 of the Act</p><div class=\"prov-body\"><p>Any profits or gains arising from the transfer of a capital asset being an asset forming part of the block of qualifying assets shall be chargeable to income-tax in accordance with the provisions of section 45, read with section 50, and the capital gains so arising shall be computed in accordance with the provisions of sections 45 to 51:</p><p class=\"prvso\">Provided that for the purpose of computing such profits or gains, the provisions of section 50 shall have effect as if for the words \"written down value of the block of assets\", the words \"written down value of the block of qualifying assets\" had been substituted.</p><p class=\"prvso\">Explanation.—For the purposes of this Chapter, \"written down value of the block of qualifying assets\" means the written down value computed in accordance with the provisions of sub-section (2) of section 115VK.</p><p>Exclusion from provisions of section 115JB.</p><p>115V-O. The book profit or loss derived from the activities of a tonnage tax company, referred to in sub-section (1) of section 115V-I, shall be excluded from the book profit of the company for the purposes of section 115JB.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VN</span>Chargeable gains from transfer of tonnage tax assets.</h3></div><p class=\"prov-cite\">Section 115VN  ·  Chapter XII-G  ·  B.—Computation of tonnage income from business of operating qualifying ships  ·  pages 523–524 of the Act</p><div class=\"prov-body\"><p>Any profits or gains arising from the transfer of a capital asset being an asset forming part of the block of qualifying assets shall be chargeable to income-tax in accordance with the provisions of section 45, read with section 50, and the capital gains so arising shall be computed in accordance with the provisions of sections 45 to 51:</p><p class=\"prvso\">Provided that for the purpose of computing such profits or gains, the provisions of section 50 shall have effect as if for the words \"written down value of the block of assets\", the words \"written down value of the block of qualifying assets\" had been substituted.</p><p class=\"prvso\">Explanation.—For the purposes of this Chapter, \"written down value of the block of qualifying assets\" means the written down value computed in accordance with the provisions of sub-section (2) of section 115VK.</p><p>Exclusion from provisions of section 115JB.</p><p>115V-O. The book profit or loss derived from the activities of a tonnage tax company, referred to in sub-section (1) of section 115V-I, shall be excluded from the book profit of the company for the purposes of section 115JB.</p></div>"
+  }
+}

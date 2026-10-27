@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-87.html",
+    "source_order": 87,
+    "article_order": 1,
+    "order": 87,
+    "stem": "section_87",
+    "heading_number": "Chapter VI",
+    "heading_title": "Product Liability",
+    "heading_range": "ss. 82–87",
+    "heading_source": "manifest",
+    "article_number": "87",
+    "article_title": "Exceptions to product liability action.",
+    "id": "consumer_section_87"
+  },
+  "id": "consumer_section_87",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Product Liability",
+    "range": "ss. 82–87"
+  },
+  "article": {
+    "number": "87",
+    "title": "Exceptions to product liability action.",
+    "content": "(1) A product liability action cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified.\n(2) In any product liability action based on the failure to provide adequate warnings or instructions, the product manufacturer shall not be liable, if—\n(a) the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer;\n(b) the product was sold as a component or material to be used in another product and necessary warnings or instructions were given by the product manufacturer to the purchaser of such component or material, but the harm was caused to the complainant by use of the end product in which such component or material was used;\n(c) the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts; or\n(d) the complainant, while using such product, was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner.\n(3) A product manufacturer shall not be liable for failure to instruct or warn about a danger which is obvious or commonly known to the user or consumer of such product or which, such user or consumer, ought to have known, taking into account the characteristics of such product.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">87</span>Exceptions to product liability action.</h3></div><p class=\"prov-cite\">Section 87  ·  Chapter VI  ·  pages 32–33 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A product liability action cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified.</p><p class=\"lvl\">(2) In any product liability action based on the failure to provide adequate warnings or instructions, the product manufacturer shall not be liable, if—</p><p class=\"lvl\">(a) the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer;</p><p class=\"lvl\">(b) the product was sold as a component or material to be used in another product and necessary warnings or instructions were given by the product manufacturer to the purchaser of such component or material, but the harm was caused to the complainant by use of the end product in which such component or material was used;</p><p class=\"lvl\">(c) the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts; or</p><p class=\"lvl\">(d) the complainant, while using such product, was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner.</p><p class=\"lvl\">(3) A product manufacturer shall not be liable for failure to instruct or warn about a danger which is obvious or commonly known to the user or consumer of such product or which, such user or consumer, ought to have known, taking into account the characteristics of such product.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">87</span>Exceptions to product liability action.</h3></div><p class=\"prov-cite\">Section 87  ·  Chapter VI  ·  pages 32–33 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A product liability action cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified.</p><p class=\"lvl\">(2) In any product liability action based on the failure to provide adequate warnings or instructions, the product manufacturer shall not be liable, if—</p><p class=\"lvl\">(a) the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer;</p><p class=\"lvl\">(b) the product was sold as a component or material to be used in another product and necessary warnings or instructions were given by the product manufacturer to the purchaser of such component or material, but the harm was caused to the complainant by use of the end product in which such component or material was used;</p><p class=\"lvl\">(c) the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts; or</p><p class=\"lvl\">(d) the complainant, while using such product, was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner.</p><p class=\"lvl\">(3) A product manufacturer shall not be liable for failure to instruct or warn about a danger which is obvious or commonly known to the user or consumer of such product or which, such user or consumer, ought to have known, taking into account the characteristics of such product.</p></div>"
+  }
+}

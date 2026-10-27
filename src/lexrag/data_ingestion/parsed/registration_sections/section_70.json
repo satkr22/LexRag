@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "registration",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "registration_sections/section-70.html",
+    "source_order": 73,
+    "article_order": 1,
+    "order": 73,
+    "stem": "section_70",
+    "heading_number": "Part XI",
+    "heading_title": "Of the Duites and Powers of Registering Officers",
+    "heading_range": "ss. 51–70",
+    "heading_source": "manifest",
+    "article_number": "70",
+    "article_title": "Power of Inspector-General to remit fines.",
+    "id": "registration_section_70"
+  },
+  "id": "registration_section_70",
+  "heading": {
+    "number": "Part XI",
+    "title": "Of the Duites and Powers of Registering Officers",
+    "range": "ss. 51–70"
+  },
+  "article": {
+    "number": "70",
+    "title": "Power of Inspector-General to remit fines.",
+    "content": "The Inspector-General may also, in the exercise of his discretion, remit wholly or in part the difference between any fine levied under section 25 or section 34, and the amount of the proper registration fee.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Power of Inspector-General to remit fines.</h3></div><p class=\"prov-cite\">Section 70  ·  Part XI  ·  (E) Of the Controlling powers of Registrar and Inspector-General  ·  page 44 of the Act</p><div class=\"prov-body\"><p>The Inspector-General may also, in the exercise of his discretion, remit wholly or in part the difference between any fine levied under section 25 or section 34, and the amount of the proper registration fee.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Power of Inspector-General to remit fines.</h3></div><p class=\"prov-cite\">Section 70  ·  Part XI  ·  (E) Of the Controlling powers of Registrar and Inspector-General  ·  page 44 of the Act</p><div class=\"prov-body\"><p>The Inspector-General may also, in the exercise of his discretion, remit wholly or in part the difference between any fine levied under section 25 or section 34, and the amount of the proper registration fee.</p></div>"
+  }
+}

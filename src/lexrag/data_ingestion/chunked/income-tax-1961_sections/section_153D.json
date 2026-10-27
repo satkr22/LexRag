@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_153D_chunk_0",
+    "section_id": "income-tax-1961_section_153D",
+    "token_count": 169,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 153D::Prior approval necessary for assessment in cases of search or requisition.\n]\n\n\nNo order of assessment or reassessment shall be passed by an Assessing Officer below the rank of Joint Commissioner in respect of each assessment year referred to in clause (b) of sub-section (1) of section 153A or the assessment year referred to in clause (b) of sub-section (1) of section 153B, except with the prior approval of the Joint Commissioner:\nProvided that nothing contained in this section shall apply where the assessment or reassessment order, as the case may be, is required to be passed by the Assessing Officer with the prior approval of the Principal Commissioner or Commissioner under sub-section (12) of section 144BA.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_153D_chunk_0",
+      "section_id": "income-tax-1961_section_153D",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "153D",
+      "section_title": "Prior approval necessary for assessment in cases of search or requisition."
+    }
+  }
+]

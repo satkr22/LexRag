@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_69_chunk_0",
+    "section_id": "income-tax-2025_section_69",
+    "token_count": 501,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 69::Capital gains on purchase by company of its own shares or other specified securities.\n]\n\n\n(1) If a shareholder or a holder of other specified securities receives any consideration from any company for the purchase of its own shares or other specified securities held by such shareholder or holder of other specified securities, then, subject to the provisions of section 72, the difference between the cost of acquisition and the value of consideration so received shall be deemed to be the \"Capital gains\" arising to such shareholder or the holder of other specified securities, as the case may be, in the year in which the company purchases the shares or other specified securities.\n  10 [(2) In respect of capital gains referred to in sub-section (1), where a company purchases its own shares or other specified securities in accordance with the provisions of section 68 of the Companies Act, 2013 (18 of 2013) and the shareholder or holder of other specified securities is a promoter, the aggregate income-tax payable on such capital gains shall be—\n  (a) the income-tax payable on such capital gains in accordance with the provisions of this Act; and\n  (b) an additional income-tax in respect of capital gains specified in column B of the Table below, computed at the rate specified in column C or column D of the said Table:\n  (3) For the purposes of this section,—\n  (a) in the case of a company whose shares are listed on a recognised stock exchange in India, 'promoter' shall have the same meaning as assigned to it in regulation 2(k) of the Securities and Exchange Board of India (Buy-Back of Securities) Regulations, 2018 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);\n  (b) in any other case, \"promoter\" means,––\n  (i) a \"promoter\" as defined in section 2(69) of the Companies Act, 2013 (18 of 2013); or\n  (ii) a person who holds, directly or indirectly, more than 10% of the shareholding in the company;\n  (c) \"specified securities\" shall have the same meaning as assigned to it in Explanation 1 to section 68 of the Companies Act, 2013 (18 of 2013).]",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_69_chunk_0",
+      "section_id": "income-tax-2025_section_69",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "69",
+      "section_title": "Capital gains on purchase by company of its own shares or other specified securities."
+    }
+  }
+]

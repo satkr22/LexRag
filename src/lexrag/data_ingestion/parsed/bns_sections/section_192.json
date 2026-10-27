@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-11.html",
+    "source_order": 11,
+    "article_order": 4,
+    "order": 192,
+    "stem": "section_192",
+    "heading_number": "Chapter XI",
+    "heading_title": "Of Offences Against the Public Tranquillity",
+    "heading_range": "189 – 197",
+    "heading_source": "group-head",
+    "article_number": "192",
+    "article_title": "Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed",
+    "id": "bns_section_192"
+  },
+  "id": "bns_section_192",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Of Offences Against the Public Tranquillity",
+    "range": "189 – 197"
+  },
+  "article": {
+    "number": "192",
+    "title": "Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed",
+    "content": "Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both.\n",
+    "html": "<article class=\"provision\" data-n=\"192\" data-report=\"Section 192 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">192</span>Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed</h3></div><p class=\"prov-cite\">Section 192 · Chapter XI</p><div class=\"prov-body\"><p>Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">192</span>Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed</h3></div><p class=\"prov-cite\">Section 192 · Chapter XI</p><div class=\"prov-body\"><p>Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both.</p></div>"
+  }
+}

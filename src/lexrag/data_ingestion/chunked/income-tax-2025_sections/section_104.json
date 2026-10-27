@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_104_chunk_0",
+    "section_id": "income-tax-2025_section_104",
+    "token_count": 247,
+    "text": "[Act: income-tax-2025\n Chapter: Aggregation of Income\n Section: 104::Unexplained asset.\n]\n\n\n(1) Where in any tax year, any asset has been found to be owned by or belonging to the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or the Assessing Officer finds that the amount expended in acquiring such asset exceeds the amount recorded in such books of account and—\n(a) the assessee offers no explanation about the nature and source of acquisition of such asset, or such excess amount, as the case may be; or\n(b) the explanation offered about the nature and source of acquisition of such asset by the assessee, is not satisfactory in the opinion of the Assessing Officer, then, the value of such asset, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of the tax year in which such asset has been found to be owned by, or belonging to, the assessee.\n(2) For the purposes of this section, \"asset\" includes money, bullion, jewellery, virtual digital asset or other valuable article.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_104_chunk_0",
+      "section_id": "income-tax-2025_section_104",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income",
+      "section_number": "104",
+      "section_title": "Unexplained asset."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_14_chunk_0",
+    "section_id": "technology_section_14",
+    "token_count": 67,
+    "text": "[Act: technology\n Chapter: Secure Electronic Records and Secure Electronic Signature1\n Section: 14::Secure electronic record.\n]\n\n\nWhere any security procedure has been applied to an electronic record at a specific point of time, then such record shall be deemed to be a secure electronic record from such point of time to the time of verification.",
+    "metadata": {
+      "chunk_id": "technology_section_14_chunk_0",
+      "section_id": "technology_section_14",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Secure Electronic Records and Secure Electronic Signature1",
+      "section_number": "14",
+      "section_title": "Secure electronic record."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_VIII_chunk_0",
+    "section_id": "income-tax-2025_section_VIII",
+    "token_count": 162,
+    "text": "[Act: income-tax-2025\n Chapter: The Schedules\n Section: VIII::SCHEDULE VIII\n]\n\nIn computing the total income of a tax year of any eligible person, being a political party or an electoral trust, as mentioned in column C of the Table below, the income mentioned in column B of the said Table shall not be included, subject to the conditions mentioned in column D of the said Table, and the expressions used in columns B to D of the said Table, shall have the meanings respectively assigned to them in the Note below the said Table:\n\nNote.—For the purposes of this Schedule, \"electoral bond\" means a bond referred to in the Explanation to section 31(3) of the Reserve Bank of India Act, 1934 (2 of 1934).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_VIII_chunk_0",
+      "section_id": "income-tax-2025_section_VIII",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "VIII",
+      "section_title": "SCHEDULE VIII"
+    }
+  }
+]

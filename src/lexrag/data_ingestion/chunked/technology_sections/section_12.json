@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_12_chunk_0",
+    "section_id": "technology_section_12",
+    "token_count": 299,
+    "text": "[Act: technology\n Chapter: Attribution, Acknowledgment and Despatch of Electronic Records\n Section: 12::Acknowledgment of receipt.\n]\n\n\n(1) Where the originator has not 3[stipulated] that the acknowledgment of receipt of electronic record be given in a particular form or by a particular method, an acknowledgment may be given by–\n(a) any communication by the addressee, automated or otherwise; or\n(b) any conduct of the addressee, sufficient to indicate to the originator that the electronic record has been received.\n(2) Where the originator has stipulated that the electronic record shall be binding only on receipt of an acknowledgment of such electronic record by him, then unless acknowledgment has been so received, the electronic record shall be deemed to have been never sent by the originator.\n(3) Where the originator has not stipulated that the electronic record shall be binding only on receipt of such acknowledgment, and the acknowledgment has not been received by the originator within the time specified or agreed or, if no time has been specified or agreed to within a reasonable time, then the originator may give notice to the addressee stating that no acknowledgment has been received by him and specifying a reasonable time by which the acknowledgement must be received by him and if no acknowledgment is received within the aforesaid time limit he may after giving notice to the addressee, treat the electronic record as though it has never been sent.",
+    "metadata": {
+      "chunk_id": "technology_section_12_chunk_0",
+      "section_id": "technology_section_12",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Attribution, Acknowledgment and Despatch of Electronic Records",
+      "section_number": "12",
+      "section_title": "Acknowledgment of receipt."
+    }
+  }
+]

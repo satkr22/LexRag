@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_63_chunk_0",
+    "section_id": "income-tax-2025_section_63",
+    "token_count": 358,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 63::Tax audit.\n]\n\n\n(1) Every person, carrying on the business or profession fulfilling any of the conditions specified in column B of the Table below, shall get his accounts of the tax year audited by an accountant, before the specified date.\n  (2) The provisions of this section shall not apply where profits and gains of business or profession, declared by the assessee are as per section 58(2) or 61(2).\n  (3) The assessee shall furnish by the specified date, the report of such audit in such form, duly signed and verified by the accountant and setting forth such particulars, as may be prescribed.\n  (4) Where a person is required, by or under any other law, to get his accounts audited, then it shall be sufficient compliance of this section, if such person—\n  (a) gets the accounts of such business or profession audited under such law before the specified date; and\n  (b) furnishes by that specified date the report of such audit along with the report of the accountant in the form as may be prescribed.\n  (5) For the purposes of this section,—\n  (a) \"specified date\" in relation to the accounts of the assessee of the tax year, means the date one month prior to the due date for furnishing the return of income under section 263(1);\n  (b) the payment or receipt, as the case may be, by a cheque drawn on a bank or by a bank draft, which is not account payee, shall be deemed to be the payment or receipt, as the case may be, in cash.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_63_chunk_0",
+      "section_id": "income-tax-2025_section_63",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "63",
+      "section_title": "Tax audit."
+    }
+  }
+]

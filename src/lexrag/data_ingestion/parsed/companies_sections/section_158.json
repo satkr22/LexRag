@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-11.html",
+    "source_order": 11,
+    "article_order": 10,
+    "order": 162,
+    "stem": "section_158",
+    "heading_number": "Chapter XI",
+    "heading_title": "Appointment and Qualifications of Directors",
+    "heading_range": "ss. 149–172",
+    "heading_source": "group-head",
+    "article_number": "158",
+    "article_title": "Obligation to indicate Director Identification Number.",
+    "id": "companies_section_158"
+  },
+  "id": "companies_section_158",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Appointment and Qualifications of Directors",
+    "range": "ss. 149–172"
+  },
+  "article": {
+    "number": "158",
+    "title": "Obligation to indicate Director Identification Number.",
+    "content": "Every person or company, while furnishing any return, information or particulars as are required to be furnished under this Act, shall mention the Director Identification Number in such return, information or particulars in case such return, information or particulars relate to the director or contain any reference of any director.\n",
+    "html": "<article class=\"provision\" data-n=\"158\" data-report=\"Section 158 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158</span>Obligation to indicate Director Identification Number.</h3></div><p class=\"prov-cite\">Section 158  ·  Chapter XI  ·  page 110 of the Act</p><div class=\"prov-body\"><p>Every person or company, while furnishing any return, information or particulars as are required to be furnished under this Act, shall mention the Director Identification Number in such return, information or particulars in case such return, information or particulars relate to the director or contain any reference of any director.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158</span>Obligation to indicate Director Identification Number.</h3></div><p class=\"prov-cite\">Section 158  ·  Chapter XI  ·  page 110 of the Act</p><div class=\"prov-body\"><p>Every person or company, while furnishing any return, information or particulars as are required to be furnished under this Act, shall mention the Director Identification Number in such return, information or particulars in case such return, information or particulars relate to the director or contain any reference of any director.</p></div>"
+  }
+}

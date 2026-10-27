@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_76_chunk_0",
+    "section_id": "negotiable-instruments_section_76",
+    "token_count": 273,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Presentment\n Section: 76::When presentment unnecessary.\n]\n\n\nNo presentment for payment is necessary, and the instrument is dishonoured at the due date for presentment, in any of the following cases:—\n(a) if the maker, drawee or acceptor intentionally prevents the presentment of the instrument, or,\nif the instrument being payable at his place of business, he closes such place on a business day during the usual business hours, or,\nif the instrument being payable at some other specified place, neither he nor any person authorized to pay it attends at such place during the usual business hours, or,\nif the instrument not being payable at any specified place, he cannot after due search be found;\n(b) as against any party sought to be charged therewith, if he has engaged to pay notwithstanding non-presentment;\n(c) as against any party if, after maturity, with knowledge that the instrument has not been presented—\nhe makes a part payment on account of the amount due on the instrument, or promises to pay the amount due thereon in whole or in part, or otherwise waives his right to take advantage of any default in presentment for payment;\n(d) as against the drawer, if the drawer could not suffer damage from the want of such presentment.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_76_chunk_0",
+      "section_id": "negotiable-instruments_section_76",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Presentment",
+      "section_number": "76",
+      "section_title": "When presentment unnecessary."
+    }
+  }
+]

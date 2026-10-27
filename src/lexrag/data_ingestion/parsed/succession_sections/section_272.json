@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-37.html",
+    "source_order": 37,
+    "article_order": 9,
+    "order": 273,
+    "stem": "section_272",
+    "heading_number": "Part IX · Chapter IV",
+    "heading_title": "Of the Practice in granting and revoking Probates and Letters of Administration",
+    "heading_range": "ss. 264–302",
+    "heading_source": "group-head",
+    "article_number": "272",
+    "article_title": "Probate and letters of administration may be granted by Delegate.",
+    "id": "succession_section_272"
+  },
+  "id": "succession_section_272",
+  "heading": {
+    "number": "Part IX · Chapter IV",
+    "title": "Of the Practice in granting and revoking Probates and Letters of Administration",
+    "range": "ss. 264–302"
+  },
+  "article": {
+    "number": "272",
+    "title": "Probate and letters of administration may be granted by Delegate.",
+    "content": "Probate and letters of administration may, upon application for that purpose to any District Delegate, be granted by him in any case in which there is no contention, if it appears by petition, verified as hereinafter provided, that the testator or intestate, as the case may be, at the time of his death had a fixed place of abode within the jurisdiction of such Delegate.\n",
+    "html": "<article class=\"provision\" data-n=\"272\" data-report=\"Section 272 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">272</span>Probate and letters of administration may be granted by Delegate.</h3></div><p class=\"prov-cite\">Section 272  ·  Part IX · Chapter IV  ·  page 76 of the Act</p><div class=\"prov-body\"><p>Probate and letters of administration may, upon application for that purpose to any District Delegate, be granted by him in any case in which there is no contention, if it appears by petition, verified as hereinafter provided, that the testator or intestate, as the case may be, at the time of his death had a fixed place of abode within the jurisdiction of such Delegate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">272</span>Probate and letters of administration may be granted by Delegate.</h3></div><p class=\"prov-cite\">Section 272  ·  Part IX · Chapter IV  ·  page 76 of the Act</p><div class=\"prov-body\"><p>Probate and letters of administration may, upon application for that purpose to any District Delegate, be granted by him in any case in which there is no contention, if it appears by petition, verified as hereinafter provided, that the testator or intestate, as the case may be, at the time of his death had a fixed place of abode within the jurisdiction of such Delegate.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_116_chunk_0",
+    "section_id": "transfer-of-property_section_116",
+    "token_count": 230,
+    "text": "[Act: transfer-of-property\n Chapter: Of Leases of Immoveable Property\n Section: 116::Effect of holding over.\n]\n\n\nIf a lessee or under-lessee of property remains in possession thereof after the determination of the lease granted to the lessee, and the lessor or his legal representative accepts rent from the lessee or under-lessee, or otherwise assents to his continuing in possession, the lease is, in the absence of an agreement to the contrary, renewed from year to year, or from month to month, according to the purpose for which the property is leased, as specified in section 106.\nIllustrations\n(a) A lets a house to B for five years. B underlets the house to C at a monthly rent of Rs. 100. The five years expire, but C continues in possession of the house and pays the rent to A. C's lease is renewed from month to month.\n(b) A lets a farm to B for the life of C. C dies, but B continues in possession with A's assent. B's lease is renewed from year to year.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_116_chunk_0",
+      "section_id": "transfer-of-property_section_116",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Leases of Immoveable Property",
+      "section_number": "116",
+      "section_title": "Effect of holding over."
+    }
+  }
+]

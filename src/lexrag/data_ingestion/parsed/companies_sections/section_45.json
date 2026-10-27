@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 3,
+    "order": 47,
+    "stem": "section_45",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "45",
+    "article_title": "Numbering of shares.",
+    "id": "companies_section_45"
+  },
+  "id": "companies_section_45",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "45",
+    "title": "Numbering of shares.",
+    "content": "Every share in a company having a share capital shall be distinguished by its distinctive number:\nProvided that nothing in this section shall apply to a share held by a person whose name is entered as holder of beneficial interest in such share in the records of a depository.\n",
+    "html": "<article class=\"provision\" data-n=\"45\" data-report=\"Section 45 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>Numbering of shares.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter IV  ·  page 47 of the Act</p><div class=\"prov-body\"><p>Every share in a company having a share capital shall be distinguished by its distinctive number:</p><p class=\"prvso\">Provided that nothing in this section shall apply to a share held by a person whose name is entered as holder of beneficial interest in such share in the records of a depository.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>Numbering of shares.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter IV  ·  page 47 of the Act</p><div class=\"prov-body\"><p>Every share in a company having a share capital shall be distinguished by its distinctive number:</p><p class=\"prvso\">Provided that nothing in this section shall apply to a share held by a person whose name is entered as holder of beneficial interest in such share in the records of a depository.</p></div>"
+  }
+}

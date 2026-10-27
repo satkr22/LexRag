@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "dpdp_section_5_chunk_0",
+    "section_id": "dpdp_section_5",
+    "token_count": 403,
+    "text": "[Act: dpdp\n Chapter: Obligations of Data Fiduciary\n Section: 5::Notice.\n]\n\n\n(1) Every request made to a Data Principal under section 6 for consent shall be accompanied or preceded by a notice given by the Data Fiduciary to the Data Principal, informing her,—\n  (i) the personal data and the purpose for which the same is proposed to be processed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of section 6 and section 13; and\n  (iii) the manner in which the Data Principal may make a complaint to the Board,\n\nin such manner and as may be prescribed.\n\nIllustration.\n\nX, an individual, opens a bank account using the mobile app or website of Y, a bank. To complete the Know-Your-Customer requirements under law for opening of bank account, X opts for processing of her personal data by Y in a live, video-based customer identification process. Y shall accompany or precede the request for the personal data with notice to X, describing the personal data and the purpose of its processing.\n  (2) Where a Data Principal has given her consent for the processing of her personal data before the date of commencement of this Act,—\n  (a) the Data Fiduciary shall, as soon as it is reasonably practicable, give to the Data Principal a notice informing her,––\n  (i) the personal data and the purpose for which the same has been processed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of section 6 and section 13; and\n  (iii) the manner in which the Data Principal may make a complaint to the Board,\n\nin such manner and as may be prescribed.\n  (b) the Data Fiduciary may continue to process the personal data until and unless the Data Principal withdraws her consent.\n\nIllustration.",
+    "metadata": {
+      "chunk_id": "dpdp_section_5_chunk_0",
+      "section_id": "dpdp_section_5",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Obligations of Data Fiduciary",
+      "section_number": "5",
+      "section_title": "Notice."
+    }
+  },
+  {
+    "chunk_id": "dpdp_section_5_chunk_1",
+    "section_id": "dpdp_section_5",
+    "token_count": 197,
+    "text": "[Act: dpdp\n Chapter: Obligations of Data Fiduciary\n Section: 5::Notice.\n]\n\n\nin such manner and as may be prescribed.\n  (b) the Data Fiduciary may continue to process the personal data until and unless the Data Principal withdraws her consent.\n\nIllustration.\n\nX, an individual, gave her consent to the processing of her personal data for an online shopping app or website operated by Y, an e-commerce service provider, before the commencement of this Act. Upon commencement of the Act, Y shall, as soon as practicable, give through email, in-app notification or other effective method information to X, describing the personal data and the purpose of its processing.\n  (3) The Data Fiduciary shall give the Data Principal the option to access the contents of the notice referred to in sub-sections (1) and (2) in English or any language specified in the Eighth Schedule to the Constitution.",
+    "metadata": {
+      "chunk_id": "dpdp_section_5_chunk_1",
+      "section_id": "dpdp_section_5",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Obligations of Data Fiduciary",
+      "section_number": "5",
+      "section_title": "Notice."
+    }
+  }
+]

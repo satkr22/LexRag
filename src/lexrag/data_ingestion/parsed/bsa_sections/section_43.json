@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-43.html",
+    "source_order": 43,
+    "article_order": 1,
+    "order": 43,
+    "stem": "section_43",
+    "heading_number": "Chapter II",
+    "heading_title": "Relevancy of Facts",
+    "heading_range": "3 – 50",
+    "heading_source": "manifest",
+    "article_number": "43",
+    "article_title": "Opinion as to usages, tenets, etc., when relevant",
+    "id": "bsa_section_43"
+  },
+  "id": "bsa_section_43",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Relevancy of Facts",
+    "range": "3 – 50"
+  },
+  "article": {
+    "number": "43",
+    "title": "Opinion as to usages, tenets, etc., when relevant",
+    "content": "When the Court has to form an opinion as to—\n(i)the usages and tenets of any body of men or family;\n(ii)the constitution and governance of any religious or charitable foundation; or\n(iii)the meaning of words or terms used in particular districts or by particular classes of people,\nthe opinions of persons having special means of knowledge thereon, are relevant facts.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Opinion as to usages, tenets, etc., when relevant</h3></div><p class=\"prov-cite\">Section 43 · Part II · Chapter II · Opinions of third persons when relevant</p><div class=\"prov-body\"><p>When the Court has to form an opinion as to—</p><p><span class=\"lbl\">(i)</span>the usages and tenets of any body of men or family;</p><p><span class=\"lbl\">(ii)</span>the constitution and governance of any religious or charitable foundation; or</p><p><span class=\"lbl\">(iii)</span>the meaning of words or terms used in particular districts or by particular classes of people,</p><p>the opinions of persons having special means of knowledge thereon, are relevant facts.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Opinion as to usages, tenets, etc., when relevant</h3></div><p class=\"prov-cite\">Section 43 · Part II · Chapter II · Opinions of third persons when relevant</p><div class=\"prov-body\"><p>When the Court has to form an opinion as to—</p><p><span class=\"lbl\">(i)</span>the usages and tenets of any body of men or family;</p><p><span class=\"lbl\">(ii)</span>the constitution and governance of any religious or charitable foundation; or</p><p><span class=\"lbl\">(iii)</span>the meaning of words or terms used in particular districts or by particular classes of people,</p><p>the opinions of persons having special means of knowledge thereon, are relevant facts.</p></div>"
+  }
+}

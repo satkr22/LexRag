@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-07.html",
+    "source_order": 7,
+    "article_order": 1,
+    "order": 100,
+    "stem": "section_94",
+    "heading_number": "Part Vi",
+    "heading_title": "Supplemental Proceedings",
+    "heading_range": "ss. 94–95",
+    "heading_source": "group-head",
+    "article_number": "94",
+    "article_title": "Supplemental proceedings.",
+    "id": "cpc_section_94"
+  },
+  "id": "cpc_section_94",
+  "heading": {
+    "number": "Part Vi",
+    "title": "Supplemental Proceedings",
+    "range": "ss. 94–95"
+  },
+  "article": {
+    "number": "94",
+    "title": "Supplemental proceedings.",
+    "content": "In order to prevent the ends of justice from being defeated the Court may, if it is so prescribed,—\n(a) issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not give security for his appearance, and if he fails to comply with any order for security commit him to the civil prison;\n(b) direct the defendant to furnish security to produce any property belonging to him and to place the same at the disposal of the Court or order the attachment of any property;\n(c) grant a temporary injunction and in case of disobedience commit the person guilty thereof to the civil prison and order that his property be attached and sold;\n(d) appoint a receiver of any property and enforce the performance of his duties by attaching and selling his property;\n(e) make such other interlocutory orders as may appear to the Court to be just and convenient.\n",
+    "html": "<article class=\"provision\" data-n=\"94\" data-report=\"Section 94 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">94</span>Supplemental proceedings.</h3></div><p class=\"prov-cite\">Section 94</p><div class=\"prov-body\"><p>In order to prevent the ends of justice from being defeated the Court may, if it is so prescribed,—</p><p class=\"lvl\">(a) issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not give security for his appearance, and if he fails to comply with any order for security commit him to the civil prison;</p><p class=\"lvl\">(b) direct the defendant to furnish security to produce any property belonging to him and to place the same at the disposal of the Court or order the attachment of any property;</p><p class=\"lvl\">(c) grant a temporary injunction and in case of disobedience commit the person guilty thereof to the civil prison and order that his property be attached and sold;</p><p class=\"lvl\">(d) appoint a receiver of any property and enforce the performance of his duties by attaching and selling his property;</p><p class=\"lvl\">(e) make such other interlocutory orders as may appear to the Court to be just and convenient.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">94</span>Supplemental proceedings.</h3></div><p class=\"prov-cite\">Section 94</p><div class=\"prov-body\"><p>In order to prevent the ends of justice from being defeated the Court may, if it is so prescribed,—</p><p class=\"lvl\">(a) issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not give security for his appearance, and if he fails to comply with any order for security commit him to the civil prison;</p><p class=\"lvl\">(b) direct the defendant to furnish security to produce any property belonging to him and to place the same at the disposal of the Court or order the attachment of any property;</p><p class=\"lvl\">(c) grant a temporary injunction and in case of disobedience commit the person guilty thereof to the civil prison and order that his property be attached and sold;</p><p class=\"lvl\">(d) appoint a receiver of any property and enforce the performance of his duties by attaching and selling his property;</p><p class=\"lvl\">(e) make such other interlocutory orders as may appear to the Court to be just and convenient.</p></div>"
+  }
+}

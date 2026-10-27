@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-126.html",
+    "source_order": 126,
+    "article_order": 1,
+    "order": 126,
+    "stem": "section_126",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Witnesses",
+    "heading_range": "124 – 139",
+    "heading_source": "manifest",
+    "article_number": "126",
+    "article_title": "Competency of husband and wife as witnesses in certain cases",
+    "id": "bsa_section_126"
+  },
+  "id": "bsa_section_126",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Witnesses",
+    "range": "124 – 139"
+  },
+  "article": {
+    "number": "126",
+    "title": "Competency of husband and wife as witnesses in certain cases",
+    "content": "(1)In all civil proceedings the parties to the suit, and the husband or wife of any party to the suit, shall be competent witnesses.\n(2)In criminal proceedings against any person, the husband or wife of such person, respectively, shall be a competent witness.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>Competency of husband and wife as witnesses in certain cases</h3></div><p class=\"prov-cite\">Section 126 · Part IV · Chapter IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In all civil proceedings the parties to the suit, and the husband or wife of any party to the suit, shall be competent witnesses.</p><p><span class=\"lbl\">(2)</span>In criminal proceedings against any person, the husband or wife of such person, respectively, shall be a competent witness.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>Competency of husband and wife as witnesses in certain cases</h3></div><p class=\"prov-cite\">Section 126 · Part IV · Chapter IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In all civil proceedings the parties to the suit, and the husband or wife of any party to the suit, shall be competent witnesses.</p><p><span class=\"lbl\">(2)</span>In criminal proceedings against any person, the husband or wife of such person, respectively, shall be a competent witness.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_79_chunk_0",
+    "section_id": "succession_section_79",
+    "token_count": 362,
+    "text": "[Act: succession\n Chapter: Of the construction of Wills\n Section: 79::When part of description may not be rejected as erroneous.\n]\n\n\nIf a will mentions several circumstances as descriptive of the thing which the testator intends to bequeath, and there is any property of his in respect of which all those circumstances exist, the bequest shall be considered as limited to such property, and it shall not be lawful to reject any part of the description as erroneous, because the testator had other property to which such part of the description does not apply.\nExplanation.—In judging whether a case falls within the meaning of this section, any words which would be liable to rejection under section 78 shall be deemed to have been struck out of the will.\nIllustrations\n(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands lying in L, some of which were in the occupation of X, and some not in the occupation of X. The bequest will be considered as limited to such of the testator’s marsh-lands in L as were in the occupation of X.\n(ii) A bequeaths to B “my marsh-lands lying in L and in the occupation of X, comprising 1,000 bighas of lands”. The testator had marsh-lands lying in L some of which were in the occupation of X and some not in the occupation of X. The measurement is wholly inapplicable to the marsh-lands of either class, or to the whole taken together. The measurement will be considered as struck out of the will, and such of the testator’s marsh-lands lying in L as were in the occupation of X shall alone pass by the bequest.",
+    "metadata": {
+      "chunk_id": "succession_section_79_chunk_0",
+      "section_id": "succession_section_79",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter VI",
+      "chapter_title": "Of the construction of Wills",
+      "section_number": "79",
+      "section_title": "When part of description may not be rejected as erroneous."
+    }
+  }
+]

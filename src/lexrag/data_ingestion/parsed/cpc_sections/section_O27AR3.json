@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-45.html",
+    "source_order": 45,
+    "article_order": 5,
+    "order": 669,
+    "stem": "section_O27AR3",
+    "heading_number": "Order XXVIIA",
+    "heading_title": "Suits involving a substantial question of law as to the interpretation of the constitution or as to the validity of any statutory instrument",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O27AR3",
+    "article_title": "Costs.",
+    "id": "cpc_section_O27AR3"
+  },
+  "id": "cpc_section_O27AR3",
+  "heading": {
+    "number": "Order XXVIIA",
+    "title": "Suits involving a substantial question of law as to the interpretation of the constitution or as to the validity of any statutory instrument",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O27AR3",
+    "title": "Costs.",
+    "content": "Where, under rule 2 or rule 2A the Government or any other authority is added as a defendant in a suit, the Attorney-General, Advocate-General, or Government Pleader or Government or other authority shall not be entitled to, or liable for, costs in the Court which ordered the addition unless the Court, having regard to all the circumstances of the case for any special reason, otherwise orders.]\n",
+    "html": "<article class=\"provision\" data-n=\"O27AR3\" data-report=\"Order 27A, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Costs.</h3></div><p class=\"prov-cite\">Order 27A, Rule 3</p><div class=\"prov-body\"><p>Where, under rule 2 or rule 2A the Government or any other authority is added as a defendant in a suit, the Attorney-General, Advocate-General, or Government Pleader or Government or other authority shall not be entitled to, or liable for, costs in the Court which ordered the addition unless the Court, having regard to all the circumstances of the case for any special reason, otherwise orders.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>10</sup> Subs. by Act 104 of 1976, s. 77, for rule 3 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Costs.</h3></div><p class=\"prov-cite\">Order 27A, Rule 3</p><div class=\"prov-body\"><p>Where, under rule 2 or rule 2A the Government or any other authority is added as a defendant in a suit, the Attorney-General, Advocate-General, or Government Pleader or Government or other authority shall not be entitled to, or liable for, costs in the Court which ordered the addition unless the Court, having regard to all the circumstances of the case for any special reason, otherwise orders.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>10</sup> Subs. by Act 104 of 1976, s. 77, for rule 3 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

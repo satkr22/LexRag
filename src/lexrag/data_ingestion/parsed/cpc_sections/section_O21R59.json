@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 71,
+    "order": 548,
+    "stem": "section_O21R59",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R59",
+    "article_title": "Stay of sale.",
+    "id": "cpc_section_O21R59"
+  },
+  "id": "cpc_section_O21R59",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R59",
+    "title": "Stay of sale.",
+    "content": "Where before the claim was preferred or the objection was made, the property attached had already been advertised for sale, the Court may—\n(a) if the property is movable, make an order postponing the sale pending the adjudication of the claim or objection, or\n(b) if the property is immovable, make an order that, pending the adjudication of the claim or objection, the property shall not be sold, or that pending such adjudication, the property may be sold but the sale shall not be confirmed,\nand any such order may be made subject to such terms and conditions as to security or otherwise as the Court thinks fit.]\n",
+    "html": "<article class=\"provision\" data-n=\"O21R59\" data-report=\"Order 21, Rule 59 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Stay of sale.</h3></div><p class=\"prov-cite\">Order 21, Rule 59</p><div class=\"prov-body\"><p>Where before the claim was preferred or the objection was made, the property attached had already been advertised for sale, the Court may—</p><p class=\"lvl\">(a) if the property is movable, make an order postponing the sale pending the adjudication of the claim or objection, or</p><p class=\"lvl\">(b) if the property is immovable, make an order that, pending the adjudication of the claim or objection, the property shall not be sold, or that pending such adjudication, the property may be sold but the sale shall not be confirmed,</p><p>and any such order may be made subject to such terms and conditions as to security or otherwise as the Court thinks fit.]</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">59</span>Stay of sale.</h3></div><p class=\"prov-cite\">Order 21, Rule 59</p><div class=\"prov-body\"><p>Where before the claim was preferred or the objection was made, the property attached had already been advertised for sale, the Court may—</p><p class=\"lvl\">(a) if the property is movable, make an order postponing the sale pending the adjudication of the claim or objection, or</p><p class=\"lvl\">(b) if the property is immovable, make an order that, pending the adjudication of the claim or objection, the property shall not be sold, or that pending such adjudication, the property may be sold but the sale shall not be confirmed,</p><p>and any such order may be made subject to such terms and conditions as to security or otherwise as the Court thinks fit.]</p></div>"
+  }
+}

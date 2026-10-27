@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "gst_section_III_chunk_0",
+    "section_id": "gst_section_III",
+    "token_count": 459,
+    "text": "[Act: gst\n Chapter: The Schedules\n Section: III::SCHEDULE III\n]\n\n1. Services by an employee to the employer in the course of or in relation to his employment.\n\n2. Services by any court or Tribunal established under any law for the time being in force.\n\n3. (a) the functions performed by the Members of Parliament, Members of State Legislature, Members of Panchayats, Members of Municipalities and Members of other local authorities;\n  (b) the duties performed by any person who holds any post in pursuance of the provisions of the Constitution in that capacity; or\n  (c) the duties performed by any person as a Chairperson or a Member or a Director in a body established by the Central Government or a State Government or local authority and who is not deemed as an employee before the commencement of this clause.\n\n4. Services of funeral, burial, crematorium or mortuary including transportation of the deceased.\n\n5. Sale of land and, subject to clause (b) of paragraph 5 of Schedule II, sale of building.\n\n6. Actionable claims, other than 1 [specified actionable claims].\n\n2 [7. Supply of goods from a place in the non-taxable territory to another place in the non-taxable territory without such goods entering into India.\n\n8. (a) Supply of warehoused goods to any person before clearance for home consumption;\n  3 [(aa) Supply of goods warehoused in a Special Economic Zone or in a Free Trade Warehousing Zone to any person before clearance for exports or to the Domestic Tariff Area;]\n  (b) Supply of goods by the consignee to any other person, by endorsement of documents of title to the goods, after the goods have been dispatched from the port of origin located outside India but before clearance for home consumption.]\n\n4 [9. Activity of apportionment of co-insurance premium by the lead insurer to the co-insurer for the insurance services jointly supplied by the lead insurer and the co-insurer to the insured in co-insurance agreements, subject to the condition that the lead insurer pays the central tax, the State tax, the Union territory tax and the integrated tax on the entire amount of premium paid by the insured.",
+    "metadata": {
+      "chunk_id": "gst_section_III_chunk_0",
+      "section_id": "gst_section_III",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "III",
+      "section_title": "SCHEDULE III"
+    }
+  },
+  {
+    "chunk_id": "gst_section_III_chunk_1",
+    "section_id": "gst_section_III",
+    "token_count": 295,
+    "text": "[Act: gst\n Chapter: The Schedules\n Section: III::SCHEDULE III\n]\n\n1. Services by an employee to the employer in the course of or in relation to his employment.\n\n10. Services by insurer to the reinsurer for which ceding commission or the reinsurance commission is deducted from reinsurance premium paid by the insurer to the reinsurer, subject to the condition that the central tax, the State tax, the Union territory tax and the integrated tax is paid by the reinsurer on the gross reinsurance premium payable by the insurer to the reinsurer, inclusive of the said ceding commission or the reinsurance commission.]\n  Explanation 5 [1.]—For the purposes of paragraph 2, the term “court” includes District Court, High Court and Supreme Court.\n  5 [Explanation 2.––For the purposes of 3 [clause (a) of] paragraph 8, the expression “warehoused goods” shall have the same meaning as assigned to it in the Customs Act, 1962 (52 of 1962).]\n  1 [Explanation 3.—For the purposes of clause (aa) of paragraph 8, the expressions “Special Economic Zone”, “Free Trade Warehousing Zone” and “Domestic Tariff Area” shall have the same meanings respectively as assigned to them in section 2 of the Special Economic Zones Act, 2005 (28 of 2005).]",
+    "metadata": {
+      "chunk_id": "gst_section_III_chunk_1",
+      "section_id": "gst_section_III",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "III",
+      "section_title": "SCHEDULE III"
+    }
+  }
+]

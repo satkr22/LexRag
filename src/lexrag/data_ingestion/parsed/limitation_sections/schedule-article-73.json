@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-73.html",
+    "source_order": 73,
+    "article_order": 1,
+    "order": 73,
+    "stem": "schedule-article-73",
+    "heading_number": null,
+    "heading_title": "First Division · Part VII · Suits Relating to Tort",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "73",
+    "article_title": "One year.",
+    "id": "limitation_schedule-article-73"
+  },
+  "id": "limitation_schedule-article-73",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part VII · Suits Relating to Tort",
+    "range": null
+  },
+  "article": {
+    "number": "73",
+    "title": "One year.",
+    "content": "For compensation for false imprisonment.\nPeriod of limitationOne year.\n\nTime from which period begins to runWhen the imprisonment ends.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>73<span class=\"badge\">One year.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part VII—Suits Relating to Tort</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For compensation for false imprisonment.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>One year.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the imprisonment ends.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>73<span class=\"badge\">One year.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part VII—Suits Relating to Tort</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For compensation for false imprisonment.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>One year.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the imprisonment ends.</p></div></div></div></div>"
+  }
+}

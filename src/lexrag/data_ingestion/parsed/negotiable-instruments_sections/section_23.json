@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-23.html",
+    "source_order": 24,
+    "article_order": 1,
+    "order": 24,
+    "stem": "section_23",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Notes, Billsand Cheques",
+    "heading_range": "ss. 4–25",
+    "heading_source": "manifest",
+    "article_number": "23",
+    "article_title": "Calculating maturity of bill or note payable so many months after date or sight.",
+    "id": "negotiable-instruments_section_23"
+  },
+  "id": "negotiable-instruments_section_23",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Notes, Billsand Cheques",
+    "range": "ss. 4–25"
+  },
+  "article": {
+    "number": "23",
+    "title": "Calculating maturity of bill or note payable so many months after date or sight.",
+    "content": "In calculating the date at which a promissary note or bill of exchange, made payable a stated number of months after date or after sight, or after a certain event, is at maturity, the period stated shall be held to terminate on the day of the month which corresponds with the day on which the instrument is dated, or presented for acceptance or sight, or noted for non-acceptance, or protested for non-acceptance, or the event happens, or, where the instrument is a bill of exchange made payable a stated number of months after sight and has been accepted for honour, with the day on which it was so accepted. If the month in which the period would terminate has no corresponding day, the period shall be held to terminate on the last day of such month.\nIllustrations\n(a) A negotiable instrument, dated 29th January, 1878, it made payable at one month after date. The instrument is at maturity on the third day after the 28th February, 1878.\n(b) A negotiable instrument, dated 30th August, 1878, it made payable three months after date. The instrument is at maturity on the 3rd December, 1878.\n(c) A promissory note or bill of exchange, dated 31st August, 1878, is made payable three months after date. The instrument is at maturity on the 3rd December, 1878.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Calculating maturity of bill or note payable so many months after date or sight.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter II  ·  page 11 of the Act</p><div class=\"prov-body\"><p>In calculating the date at which a promissary note or bill of exchange, made payable a stated number of months after date or after sight, or after a certain event, is at maturity, the period stated shall be held to terminate on the day of the month which corresponds with the day on which the instrument is dated, or presented for acceptance or sight, or noted for non-acceptance, or protested for non-acceptance, or the event happens, or, where the instrument is a bill of exchange made payable a stated number of months after sight and has been accepted for honour, with the day on which it was so accepted. If the month in which the period would terminate has no corresponding day, the period shall be held to terminate on the last day of such month.</p><p>Illustrations</p><p class=\"lvl\">(a) A negotiable instrument, dated 29th January, 1878, it made payable at one month after date. The instrument is at maturity on the third day after the 28th February, 1878.</p><p class=\"lvl\">(b) A negotiable instrument, dated 30th August, 1878, it made payable three months after date. The instrument is at maturity on the 3rd December, 1878.</p><p class=\"lvl\">(c) A promissory note or bill of exchange, dated 31st August, 1878, is made payable three months after date. The instrument is at maturity on the 3rd December, 1878.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Calculating maturity of bill or note payable so many months after date or sight.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter II  ·  page 11 of the Act</p><div class=\"prov-body\"><p>In calculating the date at which a promissary note or bill of exchange, made payable a stated number of months after date or after sight, or after a certain event, is at maturity, the period stated shall be held to terminate on the day of the month which corresponds with the day on which the instrument is dated, or presented for acceptance or sight, or noted for non-acceptance, or protested for non-acceptance, or the event happens, or, where the instrument is a bill of exchange made payable a stated number of months after sight and has been accepted for honour, with the day on which it was so accepted. If the month in which the period would terminate has no corresponding day, the period shall be held to terminate on the last day of such month.</p><p>Illustrations</p><p class=\"lvl\">(a) A negotiable instrument, dated 29th January, 1878, it made payable at one month after date. The instrument is at maturity on the third day after the 28th February, 1878.</p><p class=\"lvl\">(b) A negotiable instrument, dated 30th August, 1878, it made payable three months after date. The instrument is at maturity on the 3rd December, 1878.</p><p class=\"lvl\">(c) A promissory note or bill of exchange, dated 31st August, 1878, is made payable three months after date. The instrument is at maturity on the 3rd December, 1878.</p></div>"
+  }
+}

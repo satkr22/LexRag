@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_218_chunk_0",
+    "section_id": "income-tax-1961_section_218",
+    "token_count": 184,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 218::When assessee deemed to be in default.\n]\n\n\nIf any assessee does not pay on the date specified in sub-section (1) of section 211, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under sub-section (3) or sub-section (4) of section 210 and does not, on or before the date on which any such instalment as is not paid becomes due, send to the Assessing Officer an intimation under sub-section (5) of section 210 or does not pay on the basis of his estimate of his current income the advance tax payable by him under sub-section (6) of section 210, he shall be deemed to be an assessee in default in respect of such instalment or instalments.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_218_chunk_0",
+      "section_id": "income-tax-1961_section_218",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "218",
+      "section_title": "When assessee deemed to be in default."
+    }
+  }
+]

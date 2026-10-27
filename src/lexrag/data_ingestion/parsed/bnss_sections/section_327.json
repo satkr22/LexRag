@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-25.html",
+    "source_order": 25,
+    "article_order": 21,
+    "order": 327,
+    "stem": "section_327",
+    "heading_number": "Chapter XXV",
+    "heading_title": "Evidence in Inquiries and Trials",
+    "heading_range": "307 – 336",
+    "heading_source": "group-head",
+    "article_number": "327",
+    "article_title": "Identification report of Magistrate",
+    "id": "bnss_section_327"
+  },
+  "id": "bnss_section_327",
+  "heading": {
+    "number": "Chapter XXV",
+    "title": "Evidence in Inquiries and Trials",
+    "range": "307 – 336"
+  },
+  "article": {
+    "number": "327",
+    "title": "Identification report of Magistrate",
+    "content": "(1)Any document purporting to be a report of identification under the hand of an Executive Magistrate in respect of a person or property may be used as evidence in any inquiry, trial or other proceeding under this Sanhita, although such Magistrate is not called as a witness:\nProvisoProvided that where such report contains a statement of any suspect or witness to which the provisions of section 19, section 26, section 27, section 158 or section 160 of the Bharatiya Sakshya Adhiniyam, 2023, apply, such statement shall not be used under this sub-section except in accordance with the provisions of those sections.\n(2)The Court may, if it thinks fit, and shall, on the application of the prosecution or of the accused, summon and examine such Magistrate as to the subject-matter of the said report.\n",
+    "html": "<article class=\"provision\" data-n=\"327\" data-report=\"Section 327 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">327</span>Identification report of Magistrate</h3></div><p class=\"prov-cite\">Section 327 · Chapter XXV · Commissions for the examination of witnesses</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any document purporting to be a report of identification under the hand of an Executive Magistrate in respect of a person or property may be used as evidence in any inquiry, trial or other proceeding under this Sanhita, although such Magistrate is not called as a witness:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where such report contains a statement of any suspect or witness to which the provisions of section 19, section 26, section 27, section 158 or section 160 of the Bharatiya Sakshya Adhiniyam, 2023, apply, such statement shall not be used under this sub-section except in accordance with the provisions of those sections.</p><p><span class=\"lbl\">(2)</span>The Court may, if it thinks fit, and shall, on the application of the prosecution or of the accused, summon and examine such Magistrate as to the subject-matter of the said report.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">327</span>Identification report of Magistrate</h3></div><p class=\"prov-cite\">Section 327 · Chapter XXV · Commissions for the examination of witnesses</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any document purporting to be a report of identification under the hand of an Executive Magistrate in respect of a person or property may be used as evidence in any inquiry, trial or other proceeding under this Sanhita, although such Magistrate is not called as a witness:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where such report contains a statement of any suspect or witness to which the provisions of section 19, section 26, section 27, section 158 or section 160 of the Bharatiya Sakshya Adhiniyam, 2023, apply, such statement shall not be used under this sub-section except in accordance with the provisions of those sections.</p><p><span class=\"lbl\">(2)</span>The Court may, if it thinks fit, and shall, on the application of the prosecution or of the accused, summon and examine such Magistrate as to the subject-matter of the said report.</p></div>"
+  }
+}

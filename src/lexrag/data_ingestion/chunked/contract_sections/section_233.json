@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_233_chunk_0",
+    "section_id": "contract_section_233",
+    "token_count": 103,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 233::Right of person dealing with agent personally liable.\n]\n\n\nIn cases where the agent is personally liable, a person dealing with him may hold either him or his principal, or both of them, liable.\nIllustration\nA enters into a contract with B to sell him 100 bales of cotton, and afterwards discovers that B was acting as agent for C. A may sue either B or C, or both, for the price of the cotton.",
+    "metadata": {
+      "chunk_id": "contract_section_233_chunk_0",
+      "section_id": "contract_section_233",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "233",
+      "section_title": "Right of person dealing with agent personally liable."
+    }
+  }
+]

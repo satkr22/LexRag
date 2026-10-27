@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-23.html",
+    "source_order": 23,
+    "article_order": 7,
+    "order": 462,
+    "stem": "section_364",
+    "heading_number": "Part XIX",
+    "heading_title": "Miscellaneous",
+    "heading_range": "361 – 367",
+    "heading_source": "group-head",
+    "article_number": "364",
+    "article_title": "Special provisions as to major ports and aerodromes",
+    "id": "constitution_section_364"
+  },
+  "id": "constitution_section_364",
+  "heading": {
+    "number": "Part XIX",
+    "title": "Miscellaneous",
+    "range": "361 – 367"
+  },
+  "article": {
+    "number": "364",
+    "title": "Special provisions as to major ports and aerodromes",
+    "content": "(1)Notwithstanding anything in this Constitution, the President may by public notification direct that as from such date as may be specified in the notification—\n(a)any law made by Parliament or by the Legislature of a State shall not apply to any major port or aerodrome or shall apply thereto subject to such exceptions or modifications as may be specified in the notification; or\n(b)any existing law shall cease to have effect in any major port or aerodrome except as respects things done or omitted to be done before the said date, or shall in its application to such port or aerodrome have effect subject to such exceptions or modifications as may be specified in the notification.\n(2)In this article—\n(a)“major port” means a port declared to be a major port by or under any law made by Parliament or any existing law and includes all areas for the time being included within the limits of such port;\n(b)“aerodrome” means aerodrome as defined for the purposes of the enactments relating to airways, aircraft and air navigation.\n",
+    "html": "<article class=\"provision\" data-n=\"364\" data-report=\"Article 364 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">364</span>Special provisions as to major ports and aerodromes</h3></div><p class=\"prov-cite\">Article 364 · Part XIX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything in this Constitution, the President may by public notification direct that as from such date as may be specified in the notification—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>any law made by Parliament or by the Legislature of a State shall not apply to any major port or aerodrome or shall apply thereto subject to such exceptions or modifications as may be specified in the notification; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>any existing law shall cease to have effect in any major port or aerodrome except as respects things done or omitted to be done before the said date, or shall in its application to such port or aerodrome have effect subject to such exceptions or modifications as may be specified in the notification.</p><p><span class=\"lbl\">(2)</span>In this article—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>“major port” means a port declared to be a major port by or under any law made by Parliament or any existing law and includes all areas for the time being included within the limits of such port;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>“aerodrome” means aerodrome as defined for the purposes of the enactments relating to airways, aircraft and air navigation.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">364</span>Special provisions as to major ports and aerodromes</h3></div><p class=\"prov-cite\">Article 364 · Part XIX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything in this Constitution, the President may by public notification direct that as from such date as may be specified in the notification—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>any law made by Parliament or by the Legislature of a State shall not apply to any major port or aerodrome or shall apply thereto subject to such exceptions or modifications as may be specified in the notification; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>any existing law shall cease to have effect in any major port or aerodrome except as respects things done or omitted to be done before the said date, or shall in its application to such port or aerodrome have effect subject to such exceptions or modifications as may be specified in the notification.</p><p><span class=\"lbl\">(2)</span>In this article—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>“major port” means a port declared to be a major port by or under any law made by Parliament or any existing law and includes all areas for the time being included within the limits of such port;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>“aerodrome” means aerodrome as defined for the purposes of the enactments relating to airways, aircraft and air navigation.</p></div>"
+  }
+}

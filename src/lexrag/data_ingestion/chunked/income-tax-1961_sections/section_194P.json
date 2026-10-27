@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194P_chunk_0",
+    "section_id": "income-tax-1961_section_194P",
+    "token_count": 307,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194P::Deduction of tax in case of specified senior citizen.\n]\n\n\n(1) Notwithstanding anything contained in the provisions of Chapter XVII-B, in case of a specified senior citizen, the specified bank shall, after giving effect to the deduction allowable under Chapter VI-A and rebate allowable under section 87A, compute the total income of such specified senior citizen for the relevant assessment year and deduct income-tax on such total income on the basis of the rates in force.\n(2) The provisions of section 139 shall not apply to a specified senior citizen for the assessment year relevant to the previous year in which the tax has been deducted under sub-section (1).\nExplanation.—For the purposes of this section,—\n(a) \"specified bank\" means a banking company as the Central Government may, by notification in Official Gazette, specify;\n(b) \"specified senior citizen\" means an individual, being a resident in India—\n(i) who is of the age of seventy-five years or more at any time during the previous year;\n(ii) who is having income of the nature of pension and no other income except the income of the nature of interest received or receivable from any account maintained by such individual in the same specified bank in which he is receiving his pension income; and\n(iii) has furnished a declaration to the specified bank containing such particulars, in such form and verified in such manner, as may be prescribed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194P_chunk_0",
+      "section_id": "income-tax-1961_section_194P",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194P",
+      "section_title": "Deduction of tax in case of specified senior citizen."
+    }
+  }
+]

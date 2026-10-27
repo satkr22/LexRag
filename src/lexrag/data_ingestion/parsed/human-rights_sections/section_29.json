@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "human-rights",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": null,
+    "source_file": "human-rights_sections/section-29.html",
+    "source_order": 29,
+    "article_order": 1,
+    "order": 29,
+    "stem": "section_29",
+    "heading_number": "Chapter V",
+    "heading_title": "State Human Rights Commissions",
+    "heading_range": "ss. 21–29",
+    "heading_source": "manifest",
+    "article_number": "29",
+    "article_title": "Application of certain provisions relating to National Human Rights Commission to State Commissions.",
+    "id": "human-rights_section_29"
+  },
+  "id": "human-rights_section_29",
+  "heading": {
+    "number": "Chapter V",
+    "title": "State Human Rights Commissions",
+    "range": "ss. 21–29"
+  },
+  "article": {
+    "number": "29",
+    "title": "Application of certain provisions relating to National Human Rights Commission to State Commissions.",
+    "content": "The provisions of sections 9, 10, 12, 13, 14, 15, 16, 17 and 18 shall apply to a State Commission and shall have effect, subject to the following modifications, namely:—\n(a) references to “Commission” shall be construed as references to “State Commission”;\n(b) in section 10, in sub-section (3), for the word “Secretary-General”, the word “Secretary” shall be substituted;\n(c) in section 12, clause (f) shall be omitted;\n(d) in section 17, in clause (i), the words “Central Government or any” shall be omitted.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">29</span>Application of certain provisions relating to National Human Rights Commission to State Commissions.</h3></div><p class=\"prov-cite\">Section 29  ·  Chapter V  ·  page 13 of the Act</p><div class=\"prov-body\"><p>The provisions of sections 9, 10, 12, 13, 14, 15, 16, 17 and 18 shall apply to a State Commission and shall have effect, subject to the following modifications, namely:—</p><p class=\"lvl\">(a) references to “Commission” shall be construed as references to “State Commission”;</p><p class=\"lvl\">(b) in section 10, in sub-section (3), for the word “Secretary-General”, the word “Secretary” shall be substituted;</p><p class=\"lvl\">(c) in section 12, clause (f) shall be omitted;</p><p class=\"lvl\">(d) in section 17, in clause (i), the words “Central Government or any” shall be omitted.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">29</span>Application of certain provisions relating to National Human Rights Commission to State Commissions.</h3></div><p class=\"prov-cite\">Section 29  ·  Chapter V  ·  page 13 of the Act</p><div class=\"prov-body\"><p>The provisions of sections 9, 10, 12, 13, 14, 15, 16, 17 and 18 shall apply to a State Commission and shall have effect, subject to the following modifications, namely:—</p><p class=\"lvl\">(a) references to “Commission” shall be construed as references to “State Commission”;</p><p class=\"lvl\">(b) in section 10, in sub-section (3), for the word “Secretary-General”, the word “Secretary” shall be substituted;</p><p class=\"lvl\">(c) in section 12, clause (f) shall be omitted;</p><p class=\"lvl\">(d) in section 17, in clause (i), the words “Central Government or any” shall be omitted.</p></div>"
+  }
+}

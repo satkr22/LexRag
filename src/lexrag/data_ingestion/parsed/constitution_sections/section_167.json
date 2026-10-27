@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 16,
+    "order": 186,
+    "stem": "section_167",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "167",
+    "article_title": "Duties of Chief Minister as respects the furnishing of information to Governor, etc",
+    "id": "constitution_section_167"
+  },
+  "id": "constitution_section_167",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "167",
+    "title": "Duties of Chief Minister as respects the furnishing of information to Governor, etc",
+    "content": "It shall be the duty of the Chief Minister of each State—\n(a)to communicate to the Governor of the State all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation;\n(b)to furnish such information relating to the administration of the affairs of the State and proposals for legislation as the Governor may call for; and\n(c)if the Governor so requires, to submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Council.\n",
+    "html": "<article class=\"provision\" data-n=\"167\" data-report=\"Article 167 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">167</span>Duties of Chief Minister as respects the furnishing of information to Governor, etc</h3></div><p class=\"prov-cite\">Article 167 · Part VI · Conduct of Government Business</p><div class=\"prov-body\"><p>It shall be the duty of the Chief Minister of each State—</p><p><span class=\"lbl\">(a)</span>to communicate to the Governor of the State all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation;</p><p><span class=\"lbl\">(b)</span>to furnish such information relating to the administration of the affairs of the State and proposals for legislation as the Governor may call for; and</p><p><span class=\"lbl\">(c)</span>if the Governor so requires, to submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Council.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">167</span>Duties of Chief Minister as respects the furnishing of information to Governor, etc</h3></div><p class=\"prov-cite\">Article 167 · Part VI · Conduct of Government Business</p><div class=\"prov-body\"><p>It shall be the duty of the Chief Minister of each State—</p><p><span class=\"lbl\">(a)</span>to communicate to the Governor of the State all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation;</p><p><span class=\"lbl\">(b)</span>to furnish such information relating to the administration of the affairs of the State and proposals for legislation as the Governor may call for; and</p><p><span class=\"lbl\">(c)</span>if the Governor so requires, to submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Council.</p></div>"
+  }
+}

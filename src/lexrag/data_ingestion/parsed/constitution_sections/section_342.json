@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-20.html",
+    "source_order": 20,
+    "article_order": 18,
+    "order": 433,
+    "stem": "section_342",
+    "heading_number": "Part XVI",
+    "heading_title": "Special Provisions Relating to Certain Classes",
+    "heading_range": "330 – 342A",
+    "heading_source": "group-head",
+    "article_number": "342",
+    "article_title": "Scheduled Tribes",
+    "id": "constitution_section_342"
+  },
+  "id": "constitution_section_342",
+  "heading": {
+    "number": "Part XVI",
+    "title": "Special Provisions Relating to Certain Classes",
+    "range": "330 – 342A"
+  },
+  "article": {
+    "number": "342",
+    "title": "Scheduled Tribes",
+    "content": "(1)The President 1[may with respect to any State 2[or Union territory], and where it is a State 3***, after consultation with the Governor 4*** thereof], by public notification5, specify the tribes or tribal communities or parts of or groups within tribes or tribal communities which shall for the purposes of this Constitution be deemed to be Scheduled Tribes in relation to that State 2[or Union territory, as the case may be.]\n(2)Parliament may by law include in or exclude from the list of Scheduled Tribes specified in a notification issued under clause (1) any tribe or tribal community or part of or group within any tribe or tribal community, but save as aforesaid a notification issued under the said clause shall not be varied by any subsequent notification.\n",
+    "html": "<article class=\"provision\" data-n=\"342\" data-report=\"Article 342 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">342</span>Scheduled Tribes</h3></div><p class=\"prov-cite\">Article 342 · Part XVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The President <sup>1</sup>[may with respect to any State <sup>2</sup>[or Union territory], and where it is a State <sup>3</sup>***, after consultation with the Governor <sup>4</sup>*** thereof], by public notification5, specify the tribes or tribal communities or parts of or groups within tribes or tribal communities which shall for the purposes of this Constitution be deemed to be Scheduled Tribes in relation to that State <sup>2</sup>[or Union territory, as the case may be.]</p><p><span class=\"lbl\">(2)</span>Parliament may by law include in or exclude from the list of Scheduled Tribes specified in a notification issued under clause (1) any tribe or tribal community or part of or group within any tribe or tribal community, but save as aforesaid a notification issued under the said clause shall not be varied by any subsequent notification.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (First Amendment) Act, 1951, s. 11, for \"may, after consultation with the Governor or Rajpramukh of State\" (w.e.f. 18-6-1951).</p><p class=\"fn\"><sup>2</sup> Ins. by the Constitutiton (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>3</sup> Certain words Omitted by the constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., ibid, (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>4</sup> The words \"or Rajpramukh\" omitted by the constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., ibid. (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>5</sup> See the Constitution (Scheduled Tribes) Order, 1950 (C.O. 22), the Constitution (Scheduled Tribes) (Union Territories) Order, 1951 (C.O. 33), the Constitution (Andaman and Nicobar Islands) (Scheduled Tribes) Order, 1959 (C.O. 58), the Constitution (Dadra and Nagar Haveli) (Scheduled Tribes) Order, 1962 (C.O. 65), the Constitution (Scheduled Tribes) (Uttar Pradesh) Order, 1967 (C.O. 78), the Constitution (Goa, Daman and Diu) Scheduled Tribes Order, 1968 (C.O. 82), the Constitution (Nagaland) Scheduled Tribes Order, 1970 (C.O. 88) the Constitution (Sikkim) Scheduled Tribes Order, 1978 (C.O. 111).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">342</span>Scheduled Tribes</h3></div><p class=\"prov-cite\">Article 342 · Part XVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The President <sup>1</sup>[may with respect to any State <sup>2</sup>[or Union territory], and where it is a State <sup>3</sup>***, after consultation with the Governor <sup>4</sup>*** thereof], by public notification5, specify the tribes or tribal communities or parts of or groups within tribes or tribal communities which shall for the purposes of this Constitution be deemed to be Scheduled Tribes in relation to that State <sup>2</sup>[or Union territory, as the case may be.]</p><p><span class=\"lbl\">(2)</span>Parliament may by law include in or exclude from the list of Scheduled Tribes specified in a notification issued under clause (1) any tribe or tribal community or part of or group within any tribe or tribal community, but save as aforesaid a notification issued under the said clause shall not be varied by any subsequent notification.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (First Amendment) Act, 1951, s. 11, for \"may, after consultation with the Governor or Rajpramukh of State\" (w.e.f. 18-6-1951).</p><p class=\"fn\"><sup>2</sup> Ins. by the Constitutiton (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>3</sup> Certain words Omitted by the constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., ibid, (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>4</sup> The words \"or Rajpramukh\" omitted by the constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., ibid. (w.e.f. 1-11-1956).</p><p class=\"fn\"><sup>5</sup> See the Constitution (Scheduled Tribes) Order, 1950 (C.O. 22), the Constitution (Scheduled Tribes) (Union Territories) Order, 1951 (C.O. 33), the Constitution (Andaman and Nicobar Islands) (Scheduled Tribes) Order, 1959 (C.O. 58), the Constitution (Dadra and Nagar Haveli) (Scheduled Tribes) Order, 1962 (C.O. 65), the Constitution (Scheduled Tribes) (Uttar Pradesh) Order, 1967 (C.O. 78), the Constitution (Goa, Daman and Diu) Scheduled Tribes Order, 1968 (C.O. 82), the Constitution (Nagaland) Scheduled Tribes Order, 1970 (C.O. 88) the Constitution (Sikkim) Scheduled Tribes Order, 1978 (C.O. 111).</p></div>"
+  }
+}

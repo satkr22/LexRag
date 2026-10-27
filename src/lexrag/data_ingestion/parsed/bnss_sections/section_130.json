@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-09.html",
+    "source_order": 9,
+    "article_order": 6,
+    "order": 130,
+    "stem": "section_130",
+    "heading_number": "Chapter IX",
+    "heading_title": "Security for Keeping the Peace and for Good Behaviour",
+    "heading_range": "125 – 143",
+    "heading_source": "group-head",
+    "article_number": "130",
+    "article_title": "Order to be made",
+    "id": "bnss_section_130"
+  },
+  "id": "bnss_section_130",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Security for Keeping the Peace and for Good Behaviour",
+    "range": "125 – 143"
+  },
+  "article": {
+    "number": "130",
+    "title": "Order to be made",
+    "content": "When a Magistrate acting under section 126, section 127, section 128 or section 129, deems it necessary to require any person to show cause under such section, he shall make an order in writing, setting forth the substance of the information received, the amount of the bond to be executed, the term for which it is to be in force and the number of sureties, after considering the sufficiency and fitness of sureties.\n",
+    "html": "<article class=\"provision\" data-n=\"130\" data-report=\"Section 130 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">130</span>Order to be made</h3></div><p class=\"prov-cite\">Section 130 · Chapter IX</p><div class=\"prov-body\"><p>When a Magistrate acting under section 126, section 127, section 128 or section 129, deems it necessary to require any person to show cause under such section, he shall make an order in writing, setting forth the substance of the information received, the amount of the bond to be executed, the term for which it is to be in force and the number of sureties, after considering the sufficiency and fitness of sureties.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">130</span>Order to be made</h3></div><p class=\"prov-cite\">Section 130 · Chapter IX</p><div class=\"prov-body\"><p>When a Magistrate acting under section 126, section 127, section 128 or section 129, deems it necessary to require any person to show cause under such section, he shall make an order in writing, setting forth the substance of the information received, the amount of the bond to be executed, the term for which it is to be in force and the number of sureties, after considering the sufficiency and fitness of sureties.</p></div>"
+  }
+}

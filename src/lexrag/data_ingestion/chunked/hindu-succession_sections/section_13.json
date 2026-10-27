@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "hindu-succession_section_13_chunk_0",
+    "section_id": "hindu-succession_section_13",
+    "token_count": 109,
+    "text": "[Act: hindu-succession\n Chapter: Intestate Succession\n Section: 13::Computation of degrees.\n]\n\n\n(1) For the purposes of determining the order of succession among agnates or cognates, relationship shall be reckoned from the intestate to the heir in terms of degrees of ascent or degrees of descent or both, as the case may be.\n(2) Degrees of ascent and degrees of descent shall be computed inclusive of the intestate.\n(3) Every generation constitutes a degree either ascending or descending.",
+    "metadata": {
+      "chunk_id": "hindu-succession_section_13_chunk_0",
+      "section_id": "hindu-succession_section_13",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "hindu-succession",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Intestate Succession",
+      "section_number": "13",
+      "section_title": "Computation of degrees."
+    }
+  }
+]

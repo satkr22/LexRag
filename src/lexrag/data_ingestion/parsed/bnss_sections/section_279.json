@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-21.html",
+    "source_order": 21,
+    "article_order": 6,
+    "order": 279,
+    "stem": "section_279",
+    "heading_number": "Chapter XXI",
+    "heading_title": "Trial of Summons-Cases by Magistrates",
+    "heading_range": "274 – 282",
+    "heading_source": "group-head",
+    "article_number": "279",
+    "article_title": "Non-appearance or death of complainant",
+    "id": "bnss_section_279"
+  },
+  "id": "bnss_section_279",
+  "heading": {
+    "number": "Chapter XXI",
+    "title": "Trial of Summons-Cases by Magistrates",
+    "range": "274 – 282"
+  },
+  "article": {
+    "number": "279",
+    "title": "Non-appearance or death of complainant",
+    "content": "(1)If the summons has been issued on complaint, and on the day appointed for the appearance of the accused, or any day subsequent thereto to which the hearing may be adjourned, the complainant does not appear, the Magistrate shall, after giving thirty days’ time to the complainant to be present, notwithstanding anything hereinbefore contained, acquit the accused, unless for some reason he thinks it proper to adjourn the hearing of the case to some other day:\nProvisoProvided that where the complainant is represented by an advocate or by the officer conducting the prosecution or where the Magistrate is of opinion that the personal attendance of the complainant is not necessary, the Magistrate may, dispense with his attendance and proceed with the case.\n(2)The provisions of sub-section (1) shall, so far as may be, apply also to cases where the non-appearance of the complainant is due to his death.\n",
+    "html": "<article class=\"provision\" data-n=\"279\" data-report=\"Section 279 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">279</span>Non-appearance or death of complainant</h3></div><p class=\"prov-cite\">Section 279 · Chapter XXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If the summons has been issued on complaint, and on the day appointed for the appearance of the accused, or any day subsequent thereto to which the hearing may be adjourned, the complainant does not appear, the Magistrate shall, after giving thirty days’ time to the complainant to be present, notwithstanding anything hereinbefore contained, acquit the accused, unless for some reason he thinks it proper to adjourn the hearing of the case to some other day:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the complainant is represented by an advocate or by the officer conducting the prosecution or where the Magistrate is of opinion that the personal attendance of the complainant is not necessary, the Magistrate may, dispense with his attendance and proceed with the case.</p><p><span class=\"lbl\">(2)</span>The provisions of sub-section (1) shall, so far as may be, apply also to cases where the non-appearance of the complainant is due to his death.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">279</span>Non-appearance or death of complainant</h3></div><p class=\"prov-cite\">Section 279 · Chapter XXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If the summons has been issued on complaint, and on the day appointed for the appearance of the accused, or any day subsequent thereto to which the hearing may be adjourned, the complainant does not appear, the Magistrate shall, after giving thirty days’ time to the complainant to be present, notwithstanding anything hereinbefore contained, acquit the accused, unless for some reason he thinks it proper to adjourn the hearing of the case to some other day:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the complainant is represented by an advocate or by the officer conducting the prosecution or where the Magistrate is of opinion that the personal attendance of the complainant is not necessary, the Magistrate may, dispense with his attendance and proceed with the case.</p><p><span class=\"lbl\">(2)</span>The provisions of sub-section (1) shall, so far as may be, apply also to cases where the non-appearance of the complainant is due to his death.</p></div>"
+  }
+}

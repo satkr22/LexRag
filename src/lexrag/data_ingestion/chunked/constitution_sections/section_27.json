@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_27_chunk_0",
+    "section_id": "constitution_section_27",
+    "token_count": 63,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 27::Freedom as to payment of taxes for promotion of any particular religion\n]\n\n\nNo person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination.",
+    "metadata": {
+      "chunk_id": "constitution_section_27_chunk_0",
+      "section_id": "constitution_section_27",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "27",
+      "section_title": "Freedom as to payment of taxes for promotion of any particular religion"
+    }
+  }
+]

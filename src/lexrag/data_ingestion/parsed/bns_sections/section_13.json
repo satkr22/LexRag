@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-02.html",
+    "source_order": 2,
+    "article_order": 10,
+    "order": 13,
+    "stem": "section_13",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Punishments",
+    "heading_range": "4 – 13",
+    "heading_source": "group-head",
+    "article_number": "13",
+    "article_title": "Enhanced punishment for certain offences after previous conviction",
+    "id": "bns_section_13"
+  },
+  "id": "bns_section_13",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Punishments",
+    "range": "4 – 13"
+  },
+  "article": {
+    "number": "13",
+    "title": "Enhanced punishment for certain offences after previous conviction",
+    "content": "Whoever, having been convicted by a Court in India, of an offence punishable under Chapter X or Chapter XVII of this Sanhita with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to imprisonment for life, or to imprisonment of either description for a term which may extend to ten years.\n",
+    "html": "<article class=\"provision\" data-n=\"13\" data-report=\"Section 13 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Enhanced punishment for certain offences after previous conviction</h3></div><p class=\"prov-cite\">Section 13 · Chapter II</p><div class=\"prov-body\"><p>Whoever, having been convicted by a Court in India, of an offence punishable under Chapter X or Chapter XVII of this Sanhita with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to imprisonment for life, or to imprisonment of either description for a term which may extend to ten years.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Enhanced punishment for certain offences after previous conviction</h3></div><p class=\"prov-cite\">Section 13 · Chapter II</p><div class=\"prov-body\"><p>Whoever, having been convicted by a Court in India, of an offence punishable under Chapter X or Chapter XVII of this Sanhita with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to imprisonment for life, or to imprisonment of either description for a term which may extend to ten years.</p></div>"
+  }
+}

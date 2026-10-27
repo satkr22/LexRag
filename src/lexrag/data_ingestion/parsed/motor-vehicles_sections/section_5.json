@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-02.html",
+    "source_order": 2,
+    "article_order": 3,
+    "order": 7,
+    "stem": "section_5",
+    "heading_number": "Chapter II",
+    "heading_title": "Licensing of Drivers of Motor Vehicles",
+    "heading_range": "ss. 3–28",
+    "heading_source": "group-head",
+    "article_number": "5",
+    "article_title": "Responsibility of owners of motor vehicles for contravention of sections 3 and 4.",
+    "id": "motor-vehicles_section_5"
+  },
+  "id": "motor-vehicles_section_5",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Licensing of Drivers of Motor Vehicles",
+    "range": "ss. 3–28"
+  },
+  "article": {
+    "number": "5",
+    "title": "Responsibility of owners of motor vehicles for contravention of sections 3 and 4.",
+    "content": "No owner or person in charge of a motor vehicle shall cause or permit any person who does not satisfy the provisions of section 3 or section 4 to drive the vehicle.\n",
+    "html": "<article class=\"provision\" data-n=\"5\" data-report=\"Section 5 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Responsibility of owners of motor vehicles for contravention of sections 3 and 4.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 14 of the Act</p><div class=\"prov-body\"><p>No owner or person in charge of a motor vehicle shall cause or permit any person who does not satisfy the provisions of section 3 or section 4 to drive the vehicle.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Responsibility of owners of motor vehicles for contravention of sections 3 and 4.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 14 of the Act</p><div class=\"prov-body\"><p>No owner or person in charge of a motor vehicle shall cause or permit any person who does not satisfy the provisions of section 3 or section 4 to drive the vehicle.</p></div>"
+  }
+}

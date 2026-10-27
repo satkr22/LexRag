@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 79,
+    "order": 249,
+    "stem": "section_228",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "228",
+    "article_title": "Transfer of certain cases to High Court",
+    "id": "constitution_section_228"
+  },
+  "id": "constitution_section_228",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "228",
+    "title": "Transfer of certain cases to High Court",
+    "content": "If the High Court is satisfied that a case pending in a court subordinate to it involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the case, 1[it shall withdraw the case and 2*** may—]\n(a)either dispose of the case itself, or\n(b)determine the said question of law and return the case to the court from which the case has been so withdrawn together with a copy of its judgment on such question, and the said court shall on receipt thereof proceed to dispose of the case in conformity with such judgment.\n",
+    "html": "<article class=\"provision\" data-n=\"228\" data-report=\"Article 228 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">228</span>Transfer of certain cases to High Court</h3></div><p class=\"prov-cite\">Article 228 · Part VI</p><div class=\"prov-body\"><p>If the High Court is satisfied that a case pending in a court subordinate to it involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the case, <sup>1</sup>[it shall withdraw the case and <sup>2</sup>*** may—]</p><p><span class=\"lbl\">(a)</span>either dispose of the case itself, or</p><p><span class=\"lbl\">(b)</span>determine the said question of law and return the case to the court from which the case has been so withdrawn together with a copy of its judgment on such question, and the said court shall on receipt thereof proceed to dispose of the case in conformity with such judgment.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 41, for \"it shall withdraw the case and may—\" (w.e.f. 1-2-1977).</p><p class=\"fn\"><sup>2</sup> The words, figures and letter, \"subject to the provisions of article 131A,\" omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 9 (w.e.f. 13-4-1978).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">228</span>Transfer of certain cases to High Court</h3></div><p class=\"prov-cite\">Article 228 · Part VI</p><div class=\"prov-body\"><p>If the High Court is satisfied that a case pending in a court subordinate to it involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the case, <sup>1</sup>[it shall withdraw the case and <sup>2</sup>*** may—]</p><p><span class=\"lbl\">(a)</span>either dispose of the case itself, or</p><p><span class=\"lbl\">(b)</span>determine the said question of law and return the case to the court from which the case has been so withdrawn together with a copy of its judgment on such question, and the said court shall on receipt thereof proceed to dispose of the case in conformity with such judgment.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 41, for \"it shall withdraw the case and may—\" (w.e.f. 1-2-1977).</p><p class=\"fn\"><sup>2</sup> The words, figures and letter, \"subject to the provisions of article 131A,\" omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 9 (w.e.f. 13-4-1978).</p></div>"
+  }
+}

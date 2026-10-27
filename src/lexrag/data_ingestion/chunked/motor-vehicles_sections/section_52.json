@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_52_chunk_0",
+    "section_id": "motor-vehicles_section_52",
+    "token_count": 510,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 52::Alteration in motor vehicle.\n]\n\n\n(1) No owner of a motor vehicle shall so alter the vehicle that the particulars contained in the certificate of registration are at variance with those originally specified by the manufacturer:\n  Provided that where the owner of a motor vehicle makes modification of the engine, or any part thereof, of a vehicle for facilitating its operation by different type of fuel or source of energy including battery, compressed natural gas, solar power, liquid petroleum gas or any other fuel or source of energy, by fitment of a conversion kit, such modification shall be carried out subject to such conditions as may be prescribed:\n  4 [Provided further that the Central Government may prescribe specifications, conditions for approval, retro fitment and other related matters for the alteration of motor vehicles and in such cases, the warranty granted by the manufacturer shall not be considered as void for the purposes of such alteration or retro fitment.]\n  Provided also that the Central Government may grant exemption for alteration of vehicles in a manner other than specified above, for any specific purpose.\n  5 [(1A) A manufacturer of a motor vehicle shall on the direction issued by the Central Government, alter or retrofit safety equipment, or any other equipment in accordance with such standards and specifications as may be specified by the Central Government.]\n  6 [(2) Notwithstanding anything contained in sub-section (1), any person may, with the subsequent approval of the registering authority, alter or cause to be altered any vehicle owned by him to be converted into an adapted vehicle:\n  Provided that such alteration complies with such conditions as may be prescribed by the Central Government.]\n  (3) Where any alteration has been made in motor vehicle without the approval of registering authority 1 ***, the owner of the vehicle shall, within fourteen days of the making of the alteration, report the alteration to the registering authority within whose jurisdiction he resides and shall forward the certificate of registration to that authority together with the prescribed fee in order that particulars of registration may be entered therein.\n  (4) A registering authority other than the original registering authority making any such entry shall communicate the details of the entry to the original registering authority.\n  (5) Subject to the provisions made under sub-sections (1), (2), (3) and (4), no person holding a vehicle under a hire-purchase agreement shall make any alteration to the vehicle except with the written consent of the registered owner.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_52_chunk_0",
+      "section_id": "motor-vehicles_section_52",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "52",
+      "section_title": "Alteration in motor vehicle."
+    }
+  },
+  {
+    "chunk_id": "motor-vehicles_section_52_chunk_1",
+    "section_id": "motor-vehicles_section_52",
+    "token_count": 93,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 52::Alteration in motor vehicle.\n]\n\n\n(1) No owner of a motor vehicle shall so alter the vehicle that the particulars contained in the certificate of registration are at variance with those originally specified by the manufacturer:\n  Explanation.—For the purposes of this section, “alteration” means a change in the structure of a vehicle which results in a change in its basic feature.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_52_chunk_1",
+      "section_id": "motor-vehicles_section_52",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "52",
+      "section_title": "Alteration in motor vehicle."
+    }
+  }
+]

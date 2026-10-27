@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_107_chunk_0",
+    "section_id": "income-tax-2025_section_107",
+    "token_count": 59,
+    "text": "[Act: income-tax-2025\n Chapter: Aggregation of Income\n Section: 107::Charge of tax.\n]\n\n\nIncome referred to in sections 102, 103, 104, 105 and 106 shall be charged to tax as per the provisions of section 195.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_107_chunk_0",
+      "section_id": "income-tax-2025_section_107",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income",
+      "section_number": "107",
+      "section_title": "Charge of tax."
+    }
+  }
+]

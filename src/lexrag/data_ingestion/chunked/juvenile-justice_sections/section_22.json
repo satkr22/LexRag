@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "juvenile-justice_section_22_chunk_0",
+    "section_id": "juvenile-justice_section_22",
+    "token_count": 100,
+    "text": "[Act: juvenile-justice\n Chapter: Procedure in Relation to Children in Conflict with Law\n Section: 22::Proceeding under Chapter VIII of the Code of Criminal Procedure not to apply against child.\n]\n\n\nNotwithstanding anything to the contrary contained in the Code of Criminal Procedure, 1973 (2 of 1974), or any preventive detention law for the time being in force, no proceeding shall be instituted and no order shall be passed against any child under Chapter VIII of the said Code.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_22_chunk_0",
+      "section_id": "juvenile-justice_section_22",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Procedure in Relation to Children in Conflict with Law",
+      "section_number": "22",
+      "section_title": "Proceeding under Chapter VIII of the Code of Criminal Procedure not to apply against child."
+    }
+  }
+]

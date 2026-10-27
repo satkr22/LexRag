@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "llp",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "llp_sections/section-3.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "section_3",
+    "heading_number": "Chapter II",
+    "heading_title": "Nature of Limited Liability Partnership",
+    "heading_range": "ss. 3–10",
+    "heading_source": "manifest",
+    "article_number": "3",
+    "article_title": "Limited liability partnership to be body corporate.",
+    "id": "llp_section_3"
+  },
+  "id": "llp_section_3",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Nature of Limited Liability Partnership",
+    "range": "ss. 3–10"
+  },
+  "article": {
+    "number": "3",
+    "title": "Limited liability partnership to be body corporate.",
+    "content": "(1) A limited liability partnership is a body corporate formed and incorporated under this Act and is a legal entity separate from that of its partners.\n(2) A limited liability partnership shall have perpetual succession.\n(3) Any change in the partners of a limited liability partnership shall not affect the existence, rights or liabilities of the limited liability partnership.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Limited liability partnership to be body corporate.</h3></div><p class=\"prov-cite\">Section 3  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A limited liability partnership is a body corporate formed and incorporated under this Act and is a legal entity separate from that of its partners.</p><p class=\"lvl\">(2) A limited liability partnership shall have perpetual succession.</p><p class=\"lvl\">(3) Any change in the partners of a limited liability partnership shall not affect the existence, rights or liabilities of the limited liability partnership.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Limited liability partnership to be body corporate.</h3></div><p class=\"prov-cite\">Section 3  ·  Chapter II  ·  page 7 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A limited liability partnership is a body corporate formed and incorporated under this Act and is a legal entity separate from that of its partners.</p><p class=\"lvl\">(2) A limited liability partnership shall have perpetual succession.</p><p class=\"lvl\">(3) Any change in the partners of a limited liability partnership shall not affect the existence, rights or liabilities of the limited liability partnership.</p></div>"
+  }
+}

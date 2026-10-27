@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-07.html",
+    "source_order": 7,
+    "article_order": 12,
+    "order": 158,
+    "stem": "section_158",
+    "heading_number": "Chapter VII",
+    "heading_title": "Of Offences Against the State",
+    "heading_range": "147 – 158",
+    "heading_source": "group-head",
+    "article_number": "158",
+    "article_title": "Aiding escape of, rescuing or harbouring such prisoner",
+    "id": "bns_section_158"
+  },
+  "id": "bns_section_158",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Of Offences Against the State",
+    "range": "147 – 158"
+  },
+  "article": {
+    "number": "158",
+    "title": "Aiding escape of, rescuing or harbouring such prisoner",
+    "content": "Whoever knowingly aids or assists any State prisoner or prisoner of war in escaping from lawful custody, or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.\nExplanationA State prisoner or prisoner of war, who is permitted to be at large on his parole within certain limits in India, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.\n",
+    "html": "<article class=\"provision\" data-n=\"158\" data-report=\"Section 158 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158</span>Aiding escape of, rescuing or harbouring such prisoner</h3></div><p class=\"prov-cite\">Section 158 · Chapter VII</p><div class=\"prov-body\"><p>Whoever knowingly aids or assists any State prisoner or prisoner of war in escaping from lawful custody, or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.</p><p><span class=\"named\">Explanation</span>A State prisoner or prisoner of war, who is permitted to be at large on his parole within certain limits in India, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158</span>Aiding escape of, rescuing or harbouring such prisoner</h3></div><p class=\"prov-cite\">Section 158 · Chapter VII</p><div class=\"prov-body\"><p>Whoever knowingly aids or assists any State prisoner or prisoner of war in escaping from lawful custody, or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.</p><p><span class=\"named\">Explanation</span>A State prisoner or prisoner of war, who is permitted to be at large on his parole within certain limits in India, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.</p></div>"
+  }
+}

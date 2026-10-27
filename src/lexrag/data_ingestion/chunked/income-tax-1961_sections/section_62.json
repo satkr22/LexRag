@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_62_chunk_0",
+    "section_id": "income-tax-1961_section_62",
+    "token_count": 220,
+    "text": "[Act: income-tax-1961\n Chapter: Income of Other Persons, Included in Assessee's Total Income\n Section: 62::Transfer irrevocable for a specified period.\n]\n\n\n(1) The provisions of section 61 shall not apply to any income arising to any person by virtue of a transfer—\n(i) by way of trust which is not revocable during the lifetime of the beneficiary, and, in the case of any other transfer, which is not revocable during the lifetime of the transferee; or\n(ii) made before the 1st day of April, 1961, which is not revocable for a period exceeding six years :\nProvided that the transferor derives no direct or indirect benefit from such income in either case.\n(2) Notwithstanding anything contained in sub-section (1), all income arising to any person by virtue of any such transfer shall be chargeable to income-tax as the income of the transferor as and when the power to revoke the transfer arises, and shall then be included in his total income.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_62_chunk_0",
+      "section_id": "income-tax-1961_section_62",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Income of Other Persons, Included in Assessee's Total Income",
+      "section_number": "62",
+      "section_title": "Transfer irrevocable for a specified period."
+    }
+  }
+]

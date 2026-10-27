@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-16.html",
+    "source_order": 17,
+    "article_order": 22,
+    "order": 289,
+    "stem": "section_289",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Procedure for Assessment",
+    "heading_range": "ss. 268–301",
+    "heading_source": "group-head",
+    "article_number": "289",
+    "article_title": "Notice of demand.",
+    "id": "income-tax-2025_section_289"
+  },
+  "id": "income-tax-2025_section_289",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Procedure for Assessment",
+    "range": "ss. 268–301"
+  },
+  "article": {
+    "number": "289",
+    "title": "Notice of demand.",
+    "content": "(1) When any tax, interest, penalty, fine or any other sum is payable in consequence of any order passed under this Act, the Assessing Officer shall serve upon the assessee a notice of demand in such form, as may be prescribed, specifying the sum so payable.\n(2) Where any sum is determined to be payable by the assessee or the deductor or the collector under section 270 or 399, the intimation under the said sections shall be deemed to be a notice of demand for the purposes of this section.\n(3) Where the income of the assessee of any tax year includes income of the nature specified in section 17(1)(d) and such specified security or sweat equity shares referred to in the said section are allotted or transferred directly or indirectly by the current employer, being an eligible start-up referred to in section 140, the tax or interest on such income included in the notice of demand referred to in sub-section (1) shall be payable by the assessee within fourteen days—\n(a) after the expiry of sixty months from the end of the relevant tax year; or\n(b) from the date of the sale of such specified security or sweat equity share by the assessee; or\n(c) from the date of the assessee ceasing to be the employee of the employer who allotted or transferred him such specified security or sweat equity share, whichever is the earliest.\n",
+    "html": "<article class=\"provision\" data-n=\"289\" data-report=\"Section 289 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">289</span>Notice of demand.</h3></div><p class=\"prov-cite\">Section 289  ·  Chapter XVI  ·  A.—Procedure for assessment  ·  page 353 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When any tax, interest, penalty, fine or any other sum is payable in consequence of any order passed under this Act, the Assessing Officer shall serve upon the assessee a notice of demand in such form, as may be prescribed, specifying the sum so payable.</p><p class=\"lvl\">(2) Where any sum is determined to be payable by the assessee or the deductor or the collector under section 270 or 399, the intimation under the said sections shall be deemed to be a notice of demand for the purposes of this section.</p><p class=\"lvl\">(3) Where the income of the assessee of any tax year includes income of the nature specified in section 17(1)(d) and such specified security or sweat equity shares referred to in the said section are allotted or transferred directly or indirectly by the current employer, being an eligible start-up referred to in section 140, the tax or interest on such income included in the notice of demand referred to in sub-section (1) shall be payable by the assessee within fourteen days—</p><p class=\"lvl\">(a) after the expiry of sixty months from the end of the relevant tax year; or</p><p class=\"lvl\">(b) from the date of the sale of such specified security or sweat equity share by the assessee; or</p><p class=\"lvl\">(c) from the date of the assessee ceasing to be the employee of the employer who allotted or transferred him such specified security or sweat equity share, whichever is the earliest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">289</span>Notice of demand.</h3></div><p class=\"prov-cite\">Section 289  ·  Chapter XVI  ·  A.—Procedure for assessment  ·  page 353 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When any tax, interest, penalty, fine or any other sum is payable in consequence of any order passed under this Act, the Assessing Officer shall serve upon the assessee a notice of demand in such form, as may be prescribed, specifying the sum so payable.</p><p class=\"lvl\">(2) Where any sum is determined to be payable by the assessee or the deductor or the collector under section 270 or 399, the intimation under the said sections shall be deemed to be a notice of demand for the purposes of this section.</p><p class=\"lvl\">(3) Where the income of the assessee of any tax year includes income of the nature specified in section 17(1)(d) and such specified security or sweat equity shares referred to in the said section are allotted or transferred directly or indirectly by the current employer, being an eligible start-up referred to in section 140, the tax or interest on such income included in the notice of demand referred to in sub-section (1) shall be payable by the assessee within fourteen days—</p><p class=\"lvl\">(a) after the expiry of sixty months from the end of the relevant tax year; or</p><p class=\"lvl\">(b) from the date of the sale of such specified security or sweat equity share by the assessee; or</p><p class=\"lvl\">(c) from the date of the assessee ceasing to be the employee of the employer who allotted or transferred him such specified security or sweat equity share, whichever is the earliest.</p></div>"
+  }
+}

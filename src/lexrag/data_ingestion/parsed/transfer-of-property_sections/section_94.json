@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-94.html",
+    "source_order": 102,
+    "article_order": 1,
+    "order": 102,
+    "stem": "section_94",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Mortgages of Immoveable Property and Charges",
+    "heading_range": "ss. 58–104",
+    "heading_source": "manifest",
+    "article_number": "94",
+    "article_title": "Rights of mesne mortgagee.",
+    "id": "transfer-of-property_section_94"
+  },
+  "id": "transfer-of-property_section_94",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Mortgages of Immoveable Property and Charges",
+    "range": "ss. 58–104"
+  },
+  "article": {
+    "number": "94",
+    "title": "Rights of mesne mortgagee.",
+    "content": "Where a property is mortgaged for successive debts to successive mortgagees, a mesne mortgagee has the same rights against mortgagees posterior to himself as he has against the mortgagor.]\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">94</span>Rights of mesne mortgagee.</h3></div><p class=\"prov-cite\">Section 94  ·  Chapter IV  ·  Redemption  ·  page 36 of the Act</p><div class=\"prov-body\"><p>Where a property is mortgaged for successive debts to successive mortgagees, a mesne mortgagee has the same rights against mortgagees posterior to himself as he has against the mortgagor.]</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">94</span>Rights of mesne mortgagee.</h3></div><p class=\"prov-cite\">Section 94  ·  Chapter IV  ·  Redemption  ·  page 36 of the Act</p><div class=\"prov-body\"><p>Where a property is mortgaged for successive debts to successive mortgagees, a mesne mortgagee has the same rights against mortgagees posterior to himself as he has against the mortgagor.]</p></div>"
+  }
+}

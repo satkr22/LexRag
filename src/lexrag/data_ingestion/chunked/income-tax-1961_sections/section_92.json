@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_92_chunk_0",
+    "section_id": "income-tax-1961_section_92",
+    "token_count": 409,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Avoidance of Tax\n Section: 92::Computation of income from international transaction having regard to arm's length price.\n]\n\n\n(1) Any income arising from an international transaction shall be computed having regard to the arm's length price.\nExplanation.—For the removal of doubts, it is hereby clarified that the allowance for any expense or interest arising from an international transaction shall also be determined having regard to the arm's length price.\n(2) Where in an international transaction or specified domestic transaction, two or more associated enterprises enter into a mutual agreement or arrangement for the allocation or apportionment of, or any contribution to, any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises, the cost or expense allocated or apportioned to, or, as the case may be, contributed by, any such enterprise shall be determined having regard to the arm's length price of such benefit, service or facility, as the case may be.\n(2A) Any allowance for an expenditure or interest or allocation of any cost or expense or any income in relation to the specified domestic transaction shall be computed having regard to the arm's length price.\n(3) The provisions of this section shall not apply in a case where the computation of income under sub-section (1) or sub-section (2A) or the determination of the allowance for any expense or interest under sub-section (1) or sub-section (2A), or the determination of any cost or expense allocated or apportioned, or, as the case may be, contributed under sub-section (2) or sub-section (2A), has the effect of reducing the income chargeable to tax or increasing the loss, as the case may be, computed on the basis of entries made in the books of account in respect of the previous year in which the international transaction or specified domestic transaction was entered into.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_92_chunk_0",
+      "section_id": "income-tax-1961_section_92",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Special Provisions Relating to Avoidance of Tax",
+      "section_number": "92",
+      "section_title": "Computation of income from international transaction having regard to arm's length price."
+    }
+  }
+]

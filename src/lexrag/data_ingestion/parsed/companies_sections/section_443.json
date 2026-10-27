@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-29.html",
+    "source_order": 29,
+    "article_order": 9,
+    "order": 495,
+    "stem": "section_443",
+    "heading_number": "Chapter XXVIII",
+    "heading_title": "Special Courts",
+    "heading_range": "ss. 435–446B",
+    "heading_source": "group-head",
+    "article_number": "443",
+    "article_title": "Power of Central Government to appoint company prosecutors.",
+    "id": "companies_section_443"
+  },
+  "id": "companies_section_443",
+  "heading": {
+    "number": "Chapter XXVIII",
+    "title": "Special Courts",
+    "range": "ss. 435–446B"
+  },
+  "article": {
+    "number": "443",
+    "title": "Power of Central Government to appoint company prosecutors.",
+    "content": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the Central Government may appoint generally, or for any case, or in any case, or for any specified class of cases in any local area, one or more persons, as company prosecutors for the conduct of prosecutions arising out of this Act and the persons so appointed as company prosecutors shall have all the powers and privileges conferred by the Code on Public Prosecutors appointed under section 24 of the Code.\n",
+    "html": "<article class=\"provision\" data-n=\"443\" data-report=\"Section 443 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">443</span>Power of Central Government to appoint company prosecutors.</h3></div><p class=\"prov-cite\">Section 443  ·  Chapter XXVIII  ·  page 243 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the Central Government may appoint generally, or for any case, or in any case, or for any specified class of cases in any local area, one or more persons, as company prosecutors for the conduct of prosecutions arising out of this Act and the persons so appointed as company prosecutors shall have all the powers and privileges conferred by the Code on Public Prosecutors appointed under section 24 of the Code.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">443</span>Power of Central Government to appoint company prosecutors.</h3></div><p class=\"prov-cite\">Section 443  ·  Chapter XXVIII  ·  page 243 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the Central Government may appoint generally, or for any case, or in any case, or for any specified class of cases in any local area, one or more persons, as company prosecutors for the conduct of prosecutions arising out of this Act and the persons so appointed as company prosecutors shall have all the powers and privileges conferred by the Code on Public Prosecutors appointed under section 24 of the Code.</p></div>"
+  }
+}

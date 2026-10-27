@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_125_chunk_0",
+    "section_id": "transfer-of-property_section_125",
+    "token_count": 64,
+    "text": "[Act: transfer-of-property\n Chapter: Of Gifts\n Section: 125::Gift to several, of whom one does not accept.\n]\n\n\nA gift of a thing to two or more donees, of whom one does not accept it, is void as to the interest which he would have taken had he accepted.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_125_chunk_0",
+      "section_id": "transfer-of-property_section_125",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Of Gifts",
+      "section_number": "125",
+      "section_title": "Gift to several, of whom one does not accept."
+    }
+  }
+]

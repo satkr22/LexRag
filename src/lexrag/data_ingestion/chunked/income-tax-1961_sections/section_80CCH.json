@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80CCH_chunk_0",
+    "section_id": "income-tax-1961_section_80CCH",
+    "token_count": 298,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80CCH::Deduction in respect of contribution to Agnipath Scheme.\n]\n\n\n(1) Where an assessee, being an individual enrolled in the Agnipath Scheme and subscribing to the Agniveer Corpus Fund on or after the 1st day of November, 2022, has in the previous year paid or deposited any amount in his account in the said Fund, he shall be allowed a deduction in the computation of his total income, of the whole of the amount so paid or deposited.\n(2) Where the Central Government makes any contribution to the account of an assessee in the Agniveer Corpus Fund referred to in sub-section (1), the assessee shall be allowed a deduction in the computation of his total income of the whole of the amount so contributed.\nExplanation.—For the purposes of this section,––\n(a) \"Agnipath Scheme\" means the scheme for enrolment in Indian Armed Forces introduced vide letter No. 1(23)2022/D(Pay/Services), dated the 29th December, 2022 of the Government of India in the Ministry of Defence;\n(b) \"Agniveer Corpus Fund\" means a fund in which consolidated con-tributions of all the Agniveers and matching contributions of the Central Government along with interest on both these contributions are held.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80CCH_chunk_0",
+      "section_id": "income-tax-1961_section_80CCH",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80CCH",
+      "section_title": "Deduction in respect of contribution to Agnipath Scheme."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_82_chunk_0",
+    "section_id": "transfer-of-property_section_82",
+    "token_count": 267,
+    "text": "[Act: transfer-of-property\n Chapter: Of Mortgages of Immoveable Property and Charges\n Section: 82::Contribution to mortgage-debt.\n]\n\n\n2[Where property subject to a mortgage belongs to two or more persons having distinct and separate rights of ownership therein, the different shares in or parts of such property owned by such persons are, in the absence of a contract to the contrary, liable to contribute rateably to the debt secured by the mortgage, and, for the purpose of determining the rate at which each such share or part shall contribute, the value thereof shall be deemed to be its value at the date of the mortgage after deduction of the amount of any other mortgage or charge to which it may have been subject on that date.] Where, of two properties belonging to the same owner, one is mortgaged to secure one debt and then both are mortgaged to secure another debt, and the former debt is paid out of the former property, each property is, in the absence of a contract to the contrary, liable to contribute rateably to the latter debt after deducting the amount of the former debt from the value of the property out of which it has been paid. Nothing in this section applies to a property liable under section 81 to the claim of the 3[subsequent] mortgagee.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_82_chunk_0",
+      "section_id": "transfer-of-property_section_82",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Of Mortgages of Immoveable Property and Charges",
+      "section_number": "82",
+      "section_title": "Contribution to mortgage-debt."
+    }
+  }
+]

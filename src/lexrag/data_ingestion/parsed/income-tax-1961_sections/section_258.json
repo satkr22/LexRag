@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-44.html",
+    "source_order": 49,
+    "article_order": 15,
+    "order": 733,
+    "stem": "section_258",
+    "heading_number": "Chapter XX",
+    "heading_title": "Appeals and Revision",
+    "heading_range": "ss. 246–269",
+    "heading_source": "group-head",
+    "article_number": "258",
+    "article_title": "Power of High Court or Supreme Court to require statement to be amended.",
+    "id": "income-tax-1961_section_258"
+  },
+  "id": "income-tax-1961_section_258",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Appeals and Revision",
+    "range": "ss. 246–269"
+  },
+  "article": {
+    "number": "258",
+    "title": "Power of High Court or Supreme Court to require statement to be amended.",
+    "content": "If the High Court or the Supreme Court is not satisfied that the statements in a case referred to it are sufficient to enable it to determine the questions raised thereby, the Court may refer the case back to the Appellate Tribunal for the purpose of making such additions thereto or alterations therein as it may direct in that behalf.\n",
+    "html": "<article class=\"provision\" data-n=\"258\" data-report=\"Section 258 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">258</span>Power of High Court or Supreme Court to require statement to be amended.</h3></div><p class=\"prov-cite\">Section 258  ·  Chapter XX  ·  C.—Reference to High Court  ·  page 895 of the Act</p><div class=\"prov-body\"><p>If the High Court or the Supreme Court is not satisfied that the statements in a case referred to it are sufficient to enable it to determine the questions raised thereby, the Court may refer the case back to the Appellate Tribunal for the purpose of making such additions thereto or alterations therein as it may direct in that behalf.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">258</span>Power of High Court or Supreme Court to require statement to be amended.</h3></div><p class=\"prov-cite\">Section 258  ·  Chapter XX  ·  C.—Reference to High Court  ·  page 895 of the Act</p><div class=\"prov-body\"><p>If the High Court or the Supreme Court is not satisfied that the statements in a case referred to it are sufficient to enable it to determine the questions raised thereby, the Court may refer the case back to the Appellate Tribunal for the purpose of making such additions thereto or alterations therein as it may direct in that behalf.</p></div>"
+  }
+}

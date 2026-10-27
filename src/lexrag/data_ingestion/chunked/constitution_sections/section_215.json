@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_215_chunk_0",
+    "section_id": "constitution_section_215",
+    "token_count": 53,
+    "text": "[Act: constitution\n Chapter: The States\n Section: 215::High Courts to be courts of record\n]\n\n\nEvery High Court shall be a court of record and shall have all the powers of such a court including the power to punish for contempt of itself.",
+    "metadata": {
+      "chunk_id": "constitution_section_215_chunk_0",
+      "section_id": "constitution_section_215",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part VI",
+      "chapter_title": "The States",
+      "section_number": "215",
+      "section_title": "High Courts to be courts of record"
+    }
+  }
+]

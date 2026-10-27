@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_26_chunk_0",
+    "section_id": "motor-vehicles_section_26",
+    "token_count": 146,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 26::Maintenance of State Registers of Driving Licences.\n]\n\n\nEach State Government shall maintain, in such form as may be prescribed by the Central Government, a register to be known as the State Register of Driving Licences, in respect of driving licences issued and renewed by the licensing authorities of the State Government, containing particulars, including—\n(a) names and addresses of holders of driving licences;\n(b) licence numbers;\n(c) dates of issue or renewal of licences;\n(d) dates of expiry of licences;\n(e) classes and types of vehicles authorised to be driven; and\n(f) such other particulars as the Central Government may prescribe.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_26_chunk_0",
+      "section_id": "motor-vehicles_section_26",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "26",
+      "section_title": "Maintenance of State Registers of Driving Licences."
+    }
+  }
+]

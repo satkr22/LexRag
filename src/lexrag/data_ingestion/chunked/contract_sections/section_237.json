@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_237_chunk_0",
+    "section_id": "contract_section_237",
+    "token_count": 185,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 237::Liability of principal inducing belief that agent’s unauthorized acts were authorized.\n]\n\n\nWhen an agent has, without authority, done acts or incurred obligations to third persons on behalf of his principal, the principal is bound by such acts or obligations, if he has by his words or conduct induced such third persons to believe that such acts and obligations were within the scope of the agent’s authority.\nIllustrations\n(a)A consigns goods to B for sale, and gives him instructions not to sell under a fixed price. C, being ignorant of B’s instructions, enters into a contract with B to buy the goods at a price lower than the reserved price. A is bound by the contract.\n(b)A entrusts B with negotiable instruments endorsed in blank. B sells them to C in violation of private orders from A. The sale is good.",
+    "metadata": {
+      "chunk_id": "contract_section_237_chunk_0",
+      "section_id": "contract_section_237",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "237",
+      "section_title": "Liability of principal inducing belief that agent’s unauthorized acts were authorized."
+    }
+  }
+]

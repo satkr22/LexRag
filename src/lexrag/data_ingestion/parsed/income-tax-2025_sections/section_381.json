@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-18.html",
+    "source_order": 19,
+    "article_order": 26,
+    "order": 382,
+    "stem": "section_381",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "heading_range": "ss. 356–389",
+    "heading_source": "group-head",
+    "article_number": "381",
+    "article_title": "Board for Advance Rulings.",
+    "id": "income-tax-2025_section_381"
+  },
+  "id": "income-tax-2025_section_381",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "range": "ss. 356–389"
+  },
+  "article": {
+    "number": "381",
+    "title": "Board for Advance Rulings.",
+    "content": "(1) The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint.\n(2) The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.\n",
+    "html": "<article class=\"provision\" data-n=\"381\" data-report=\"Section 381 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">381</span>Board for Advance Rulings.</h3></div><p class=\"prov-cite\">Section 381  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 448 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint.</p><p class=\"lvl\">(2) The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">381</span>Board for Advance Rulings.</h3></div><p class=\"prov-cite\">Section 381  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 448 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint.</p><p class=\"lvl\">(2) The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.</p></div>"
+  }
+}

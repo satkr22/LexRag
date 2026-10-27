@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80-IAC_chunk_0",
+    "section_id": "income-tax-1961_section_80-IAC",
+    "token_count": 457,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80-IAC::Special provision in respect of specified business.\n]\n\n\n(1) Where the gross total income of an assessee, being an eligible start-up, includes any profits and gains derived from eligible business, there shall, in accordance with and subject to the provisions of this section, be allowed, in computing the total income of the assessee, a deduction of an amount equal to one hundred per cent of the profits and gains derived from such business for three consecutive assessment years.\n  (2) The deduction specified in sub-section (1) may, at the option of the assessee, be claimed by him for any three consecutive assessment years out of ten years beginning from the year in which the eligible start-up is incorporated.\n  (3) This section applies to a start-up which fulfils the following conditions, namely:—\n  (i) it is not formed by splitting up, or the reconstruction, of a business already in existence:\n  Provided that this condition shall not apply in respect of a start-up which is formed as a result of the re-establishment, reconstruction or revival by the assessee of the business of any such undertaking as referred to in section 33B, in the circumstances and within the period specified in that section;\n  (ii) it is not formed by the transfer to a new business of machinery or plant previously used for any purpose.\n  Explanation 1.—For the purposes of this clause, any machinery or plant which was used outside India by any person other than the assessee shall not be regarded as machinery or plant previously used for any purpose, if all the following conditions are fulfilled, namely:—\n  (a) such machinery or plant was not, at any time previous to the date of the installation by the assessee, used in India;\n  (b) such machinery or plant is imported into India;\n  (c) no deduction on account of depreciation in respect of such machinery or plant has been allowed or is allowable under the provisions of this Act in computing the total income of any person for any period prior to the date of the installation of the machinery or plant by the assessee.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80-IAC_chunk_0",
+      "section_id": "income-tax-1961_section_80-IAC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80-IAC",
+      "section_title": "Special provision in respect of specified business."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_80-IAC_chunk_1",
+    "section_id": "income-tax-1961_section_80-IAC",
+    "token_count": 508,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80-IAC::Special provision in respect of specified business.\n]\n\n\n(1) Where the gross total income of an assessee, being an eligible start-up, includes any profits and gains derived from eligible business, there shall, in accordance with and subject to the provisions of this section, be allowed, in computing the total income of the assessee, a deduction of an amount equal to one hundred per cent of the profits and gains derived from such business for three consecutive assessment years.\n  Explanation 2.—Where in the case of a start-up, any machinery or plant or any part thereof previously used for any purpose is transferred to a new business and the total value of the machinery or plant or part so transferred does not exceed twenty per cent of the total value of the machinery or plant used in the business, then, for the purposes of clause (ii) of this sub-section, the condition specified therein shall be deemed to have been complied with.\n  (4) The provisions of sub-section (5) and sub-sections (7) to (11) of section 80-IA shall apply to the start-ups for the purpose of allowing deductions under sub-section (1).\n  Explanation.—For the purposes of this section,—\n  (i) \"eligible business\" means a business carried out by an eligible start-up engaged in innovation, development or improvement of products or processes or services or a scalable business model with a high potential of employment generation or wealth creation;\n  (ii) \"eligible start-up\" means a company or a limited liability partnership engaged in eligible business which fulfils the following conditions, namely:—\n  (a) it is incorporated on or after the 1st day of April, 2016 but before the 1st day of April, 99 [2030];\n  (b) the total turnover of its business does not exceed one hundred crore rupees in the previous year relevant to the assessment year for which deduction under sub-section (1) is claimed; and\n  (c) it holds a certificate of eligible business from the Inter-Ministerial Board of Certification as notified in the Official Gazette by the Central Government;\n  (iii) \"limited liability partnership\" means a partnership referred to in clause (n) of sub-section (1) of section 2 of the Limited Liability Partnership Act, 2008 (6 of 2009).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80-IAC_chunk_1",
+      "section_id": "income-tax-1961_section_80-IAC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80-IAC",
+      "section_title": "Special provision in respect of specified business."
+    }
+  }
+]

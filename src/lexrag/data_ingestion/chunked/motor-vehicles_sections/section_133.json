@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_133_chunk_0",
+    "section_id": "motor-vehicles_section_133",
+    "token_count": 106,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 133::Duty of owner of motor vehicle to give information.\n]\n\n\nThe owner of a motor vehicle, the driver or conductor of which is accused of any offence under this Act shall, on the demand of any police officer authorised in this behalf by the State Government, give all information regarding the name and address of, and the licence held by, the driver or conductor which is in his possession or could by reasonable diligence be ascertained by him.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_133_chunk_0",
+      "section_id": "motor-vehicles_section_133",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "133",
+      "section_title": "Duty of owner of motor vehicle to give information."
+    }
+  }
+]

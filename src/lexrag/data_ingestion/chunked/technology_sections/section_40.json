@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_40_chunk_0",
+    "section_id": "technology_section_40",
+    "token_count": 78,
+    "text": "[Act: technology\n Chapter: Duties of Subscribers\n Section: 40::Generating key pair.\n]\n\n\nWhere any Digital Signature Certificate the public key of which corresponds to the private key of that subscriber which is to be listed in the Digital Signature Certificate has been accepted by a subscriber, 1*** the subscriber shall generate 2[that key] pair by applying the security procedure.",
+    "metadata": {
+      "chunk_id": "technology_section_40_chunk_0",
+      "section_id": "technology_section_40",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Duties of Subscribers",
+      "section_number": "40",
+      "section_title": "Generating key pair."
+    }
+  }
+]

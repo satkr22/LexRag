@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_91_chunk_0",
+    "section_id": "income-tax-1961_section_91",
+    "token_count": 500,
+    "text": "[Act: income-tax-1961\n Chapter: Double Taxation Relief\n Section: 91::Countries with which no agreement exists.\n]\n\n\n(1) If any person who is resident in India in any previous year proves that, in respect of his income which accrued or arose during that previous year outside India (and which is not deemed to accrue or arise in India), he has paid in any country with which there is no agreement under section 90 for the relief or avoidance of double taxation, income-tax, by deduction or otherwise, under the law in force in that country, he shall be entitled to the deduction from the Indian income-tax payable by him of a sum calculated on such doubly taxed income at the Indian rate of tax or the rate of tax of the said country, whichever is the lower, or at the Indian rate of tax if both the rates are equal.\n  (2) If any person who is resident in India in any previous year proves that in respect of his income which accrued or arose to him during that previous year in Pakistan he has paid in that country, by deduction or otherwise, tax payable to the Government under any law for the time being in force in that country relating to taxation of agricultural income, he shall be entitled to a deduction from the Indian income-tax payable by him—\n  (a) of the amount of the tax paid in Pakistan under any law aforesaid on such income which is liable to tax under this Act also; or\n  (b) of a sum calculated on that income at the Indian rate of tax; whichever is less.\n  (3) If any non-resident person is assessed on his share in the income of a registered firm assessed as resident in India in any previous year and such share includes any income accruing or arising outside India during that previous year (and which is not deemed to accrue or arise in India) in a country with which there is no agreement under section 90 for the relief or avoidance of double taxation and he proves that he has paid income-tax by deduction or otherwise under the law in force in that country in respect of the income so included he shall be entitled to a deduction from the Indian income-tax payable by him of a sum calculated on such doubly taxed income so included at the Indian rate of tax or the rate of tax of the said country, whichever is the lower, or at the Indian rate of tax if both the rates are equal.\n  Explanation.—In this section,—",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_91_chunk_0",
+      "section_id": "income-tax-1961_section_91",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Double Taxation Relief",
+      "section_number": "91",
+      "section_title": "Countries with which no agreement exists."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_91_chunk_1",
+    "section_id": "income-tax-1961_section_91",
+    "token_count": 376,
+    "text": "[Act: income-tax-1961\n Chapter: Double Taxation Relief\n Section: 91::Countries with which no agreement exists.\n]\n\n\n(1) If any person who is resident in India in any previous year proves that, in respect of his income which accrued or arose during that previous year outside India (and which is not deemed to accrue or arise in India), he has paid in any country with which there is no agreement under section 90 for the relief or avoidance of double taxation, income-tax, by deduction or otherwise, under the law in force in that country, he shall be entitled to the deduction from the Indian income-tax payable by him of a sum calculated on such doubly taxed income at the Indian rate of tax or the rate of tax of the said country, whichever is the lower, or at the Indian rate of tax if both the rates are equal.\n  (i) the expression \"Indian income-tax\" means income-tax charged in accordance with the provisions of this Act;\n  (ii) the expression \"Indian rate of tax\" means the rate determined by dividing the amount of Indian income-tax after deduction of any relief due under the provisions of this Act but before deduction of any relief due under this Chapter, by the total income;\n  (iii) the expression \"rate of tax of the said country\" means income-tax and super-tax actually paid in the said country in accordance with the corresponding laws in force in the said country after deduction of all relief due, but before deduction of any relief due in the said country in respect of double taxation, divided by the whole amount of the income as assessed in the said country;\n  (iv) the expression \"income-tax\" in relation to any country includes any excess profits tax or business profits tax charged on the profits by the Government of any part of that country or a local authority in that country.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_91_chunk_1",
+      "section_id": "income-tax-1961_section_91",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Double Taxation Relief",
+      "section_number": "91",
+      "section_title": "Countries with which no agreement exists."
+    }
+  }
+]

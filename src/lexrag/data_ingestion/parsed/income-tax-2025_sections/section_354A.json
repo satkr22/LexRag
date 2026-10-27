@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-17.html",
+    "source_order": 18,
+    "article_order": 54,
+    "order": 355,
+    "stem": "section_354A",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Special Provisions Relating to Certain Persons",
+    "heading_range": "ss. 302–355",
+    "heading_source": "group-head",
+    "article_number": "354A",
+    "article_title": "Merger of registered non-profit organisation in certain cases.",
+    "id": "income-tax-2025_section_354A"
+  },
+  "id": "income-tax-2025_section_354A",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Special Provisions Relating to Certain Persons",
+    "range": "ss. 302–355"
+  },
+  "article": {
+    "number": "354A",
+    "title": "Merger of registered non-profit organisation in certain cases.",
+    "content": "Where any registered non-profit organisation merges with any other registered non-profit organisation, the provisions of section 352 shall not apply if, —\n(a) the other registered non-profit organisation has same or similar objects; and\n(b) the said merger fulfils such conditions as may be prescribed.]\n",
+    "html": "<article class=\"provision\" data-n=\"354A\" data-report=\"Section 354A · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">354A</span><sup>69</sup>[Merger of registered non-profit organisation in certain cases.</h3></div><p class=\"prov-cite\">Section 354A  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 6.—Approval for purpose of deduction under section 133(1)(b)(ii)  ·  page 421 of the Act</p><div class=\"prov-body\"><p>Where any registered non-profit organisation merges with any other registered non-profit organisation, the provisions of section 352 shall not apply if, —</p><p class=\"lvl\">(a) the other registered non-profit organisation has same or similar objects; and</p><p class=\"lvl\">(b) the said merger fulfils such conditions as may be prescribed.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>69</sup> Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">354A</span><sup>69</sup>[Merger of registered non-profit organisation in certain cases.</h3></div><p class=\"prov-cite\">Section 354A  ·  Chapter XVII  ·  B.—Special provisions for registered non-profit organisation — 6.—Approval for purpose of deduction under section 133(1)(b)(ii)  ·  page 421 of the Act</p><div class=\"prov-body\"><p>Where any registered non-profit organisation merges with any other registered non-profit organisation, the provisions of section 352 shall not apply if, —</p><p class=\"lvl\">(a) the other registered non-profit organisation has same or similar objects; and</p><p class=\"lvl\">(b) the said merger fulfils such conditions as may be prescribed.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>69</sup> Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.</p></div></div>"
+  }
+}

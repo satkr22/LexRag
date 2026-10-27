@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-32.html",
+    "source_order": 36,
+    "article_order": 13,
+    "order": 438,
+    "stem": "section_125A",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Income-tax Authorities",
+    "heading_range": "ss. 116–138",
+    "heading_source": "group-head",
+    "article_number": "125A",
+    "article_title": "Concurrent jurisdiction of Inspecting Assistant Commissioner and Income-tax Officer.",
+    "id": "income-tax-1961_section_125A"
+  },
+  "id": "income-tax-1961_section_125A",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Income-tax Authorities",
+    "range": "ss. 116–138"
+  },
+  "article": {
+    "number": "125A",
+    "title": "Concurrent jurisdiction of Inspecting Assistant Commissioner and Income-tax Officer.",
+    "content": "",
+    "html": "<article class=\"provision dead\" data-n=\"125A\" data-report=\"Section 125A · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">125A</span>Concurrent jurisdiction of Inspecting Assistant Commissioner and Income-tax Officer.</h3></div><p class=\"repnote\">[Omitted by the Direct Tax Laws (Amendment) Act, 1987, w.e.f. 1-4-1988. Original section was inserted by the Taxation Laws (Amendment) Act, 1975, w.e.f. 1-10-1975.]</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">125A</span>Concurrent jurisdiction of Inspecting Assistant Commissioner and Income-tax Officer.</h3></div><p class=\"repnote\">[Omitted by the Direct Tax Laws (Amendment) Act, 1987, w.e.f. 1-4-1988. Original section was inserted by the Taxation Laws (Amendment) Act, 1975, w.e.f. 1-10-1975.]</p>"
+  }
+}

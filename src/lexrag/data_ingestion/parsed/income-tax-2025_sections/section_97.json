@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-05.html",
+    "source_order": 6,
+    "article_order": 2,
+    "order": 97,
+    "stem": "section_97",
+    "heading_number": "Chapter V",
+    "heading_title": "Income of Other Persons Included in Total Income of Assessee",
+    "heading_range": "ss. 96–100",
+    "heading_source": "group-head",
+    "article_number": "97",
+    "article_title": "Chargeability of income in transfer of assets.",
+    "id": "income-tax-2025_section_97"
+  },
+  "id": "income-tax-2025_section_97",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Income of Other Persons Included in Total Income of Assessee",
+    "range": "ss. 96–100"
+  },
+  "article": {
+    "number": "97",
+    "title": "Chargeability of income in transfer of assets.",
+    "content": "(1) All income arising to any person by virtue of a revocable transfer of assets shall be chargeable to income-tax as income of the transferor and shall be included in his total income.\n(2) The provisions of sub-section (1) shall not apply,—\n(a) where a transfer is by way of trust which is not revocable during the lifetime of the beneficiary and in case of any other transfer, is not revocable during the lifetime of the transferee; and\n(b) the transferor does not derive any direct or indirect benefit from such income in cases referred to in clause (a).\n(3) Irrespective of the provisions of sub-section (2), all income arising to any person by virtue of such transfer shall be chargeable to income-tax as income of the transferor as and when the power to revoke such transfer arises, and shall then be included in his total income.\n",
+    "html": "<article class=\"provision\" data-n=\"97\" data-report=\"Section 97 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Chargeability of income in transfer of assets.</h3></div><p class=\"prov-cite\">Section 97  ·  Chapter V  ·  page 131 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) All income arising to any person by virtue of a revocable transfer of assets shall be chargeable to income-tax as income of the transferor and shall be included in his total income.</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply,—</p><p class=\"lvl\">(a) where a transfer is by way of trust which is not revocable during the lifetime of the beneficiary and in case of any other transfer, is not revocable during the lifetime of the transferee; and</p><p class=\"lvl\">(b) the transferor does not derive any direct or indirect benefit from such income in cases referred to in clause (a).</p><p class=\"lvl\">(3) Irrespective of the provisions of sub-section (2), all income arising to any person by virtue of such transfer shall be chargeable to income-tax as income of the transferor as and when the power to revoke such transfer arises, and shall then be included in his total income.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Chargeability of income in transfer of assets.</h3></div><p class=\"prov-cite\">Section 97  ·  Chapter V  ·  page 131 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) All income arising to any person by virtue of a revocable transfer of assets shall be chargeable to income-tax as income of the transferor and shall be included in his total income.</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply,—</p><p class=\"lvl\">(a) where a transfer is by way of trust which is not revocable during the lifetime of the beneficiary and in case of any other transfer, is not revocable during the lifetime of the transferee; and</p><p class=\"lvl\">(b) the transferor does not derive any direct or indirect benefit from such income in cases referred to in clause (a).</p><p class=\"lvl\">(3) Irrespective of the provisions of sub-section (2), all income arising to any person by virtue of such transfer shall be chargeable to income-tax as income of the transferor as and when the power to revoke such transfer arises, and shall then be included in his total income.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "juvenile-justice_section_47_chunk_0",
+    "section_id": "juvenile-justice_section_47",
+    "token_count": 311,
+    "text": "[Act: juvenile-justice\n Chapter: Rehabilitation and Social Re-integration\n Section: 47::Observation homes.\n]\n\n\n(1) The State Government shall establish and maintain in every district or a group of districts, either by itself, or through voluntary or non-governmental organisations, observation homes, which shall be registered under section 41 of this Act, for temporary reception, care and rehabilitation of any child alleged to be in conflict with law, during the pendency of any inquiry under this Act.\n(2) Where the State Government is of the opinion that any registered institution other than a home established or maintained under sub-section (1), is fit for the temporary reception of such child alleged to be in conflict with law during the pendency of any inquiry under this Act, it may register such institution as an observation home for the purposes of this Act.\n(3) The State Government may, by rules made under this Act, provide for the management and monitoring of observation homes, including the standards and various types of services to be provided by them for rehabilitation and social integration of a child alleged to be in conflict with law and the circumstances under which, and the manner in which, the registration of an observation home may be granted or withdrawn.\n(4) Every child alleged to be in conflict with law who is not placed under the charge of parent or guardian and is sent to an observation home shall be segregated according to the child’s age and gender, after giving due consideration to physical and mental status of the child and degree of the offence committed.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_47_chunk_0",
+      "section_id": "juvenile-justice_section_47",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Rehabilitation and Social Re-integration",
+      "section_number": "47",
+      "section_title": "Observation homes."
+    }
+  }
+]

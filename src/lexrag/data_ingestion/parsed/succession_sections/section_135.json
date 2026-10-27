@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-18.html",
+    "source_order": 18,
+    "article_order": 10,
+    "order": 135,
+    "stem": "section_135",
+    "heading_number": "Part VI · Chapter XI",
+    "heading_title": "Of Conditional Bequests",
+    "heading_range": "ss. 126–137",
+    "heading_source": "group-head",
+    "article_number": "135",
+    "article_title": "Such condition must not be invalid under section 120.",
+    "id": "succession_section_135"
+  },
+  "id": "succession_section_135",
+  "heading": {
+    "number": "Part VI · Chapter XI",
+    "title": "Of Conditional Bequests",
+    "range": "ss. 126–137"
+  },
+  "article": {
+    "number": "135",
+    "title": "Such condition must not be invalid under section 120.",
+    "content": "In order that a condition that a bequest shall cease to have effect may be valid, it is necessary that the event to which it relates be one which could legally constitute the condition of a bequest as contemplated by section 120.\n",
+    "html": "<article class=\"provision\" data-n=\"135\" data-report=\"Section 135 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">135</span>Such condition must not be invalid under section 120.</h3></div><p class=\"prov-cite\">Section 135  ·  Part VI · Chapter XI  ·  page 50 of the Act</p><div class=\"prov-body\"><p>In order that a condition that a bequest shall cease to have effect may be valid, it is necessary that the event to which it relates be one which could legally constitute the condition of a bequest as contemplated by section 120.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">135</span>Such condition must not be invalid under section 120.</h3></div><p class=\"prov-cite\">Section 135  ·  Part VI · Chapter XI  ·  page 50 of the Act</p><div class=\"prov-body\"><p>In order that a condition that a bequest shall cease to have effect may be valid, it is necessary that the event to which it relates be one which could legally constitute the condition of a bequest as contemplated by section 120.</p></div>"
+  }
+}

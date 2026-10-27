@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-34.html",
+    "source_order": 34,
+    "article_order": 15,
+    "order": 467,
+    "stem": "section_467",
+    "heading_number": "Chapter XXXIV",
+    "heading_title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "heading_range": "453 – 477",
+    "heading_source": "group-head",
+    "article_number": "467",
+    "article_title": "Sentence on offender already sentenced for another offence",
+    "id": "bnss_section_467"
+  },
+  "id": "bnss_section_467",
+  "heading": {
+    "number": "Chapter XXXIV",
+    "title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "range": "453 – 477"
+  },
+  "article": {
+    "number": "467",
+    "title": "Sentence on offender already sentenced for another offence",
+    "content": "(1)When a person already undergoing a sentence of imprisonment is sentenced on a subsequent conviction to imprisonment or imprisonment for life, such imprisonment or imprisonment for life shall commence at the expiration of the imprisonment to which he has been previously sentenced, unless the Court directs that the subsequent sentence shall run concurrently with such previous sentence:\nProvisoProvided that where a person who has been sentenced to imprisonment by an order under section 141 in default of furnishing security is, whilst undergoing such sentence, sentenced to imprisonment for an offence committed prior to the making of such order, the latter sentence shall commence immediately.\n(2)When a person already undergoing a sentence of imprisonment for life is sentenced on a subsequent conviction to imprisonment for a term or imprisonment for life, the subsequent sentence shall run concurrently with such previous sentence.\n",
+    "html": "<article class=\"provision\" data-n=\"467\" data-report=\"Section 467 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">467</span>Sentence on offender already sentenced for another offence</h3></div><p class=\"prov-cite\">Section 467 · Chapter XXXIV · General provisions regarding execution</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a person already undergoing a sentence of imprisonment is sentenced on a subsequent conviction to imprisonment or imprisonment for life, such imprisonment or imprisonment for life shall commence at the expiration of the imprisonment to which he has been previously sentenced, unless the Court directs that the subsequent sentence shall run concurrently with such previous sentence:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where a person who has been sentenced to imprisonment by an order under section 141 in default of furnishing security is, whilst undergoing such sentence, sentenced to imprisonment for an offence committed prior to the making of such order, the latter sentence shall commence immediately.</p><p><span class=\"lbl\">(2)</span>When a person already undergoing a sentence of imprisonment for life is sentenced on a subsequent conviction to imprisonment for a term or imprisonment for life, the subsequent sentence shall run concurrently with such previous sentence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">467</span>Sentence on offender already sentenced for another offence</h3></div><p class=\"prov-cite\">Section 467 · Chapter XXXIV · General provisions regarding execution</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a person already undergoing a sentence of imprisonment is sentenced on a subsequent conviction to imprisonment or imprisonment for life, such imprisonment or imprisonment for life shall commence at the expiration of the imprisonment to which he has been previously sentenced, unless the Court directs that the subsequent sentence shall run concurrently with such previous sentence:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where a person who has been sentenced to imprisonment by an order under section 141 in default of furnishing security is, whilst undergoing such sentence, sentenced to imprisonment for an offence committed prior to the making of such order, the latter sentence shall commence immediately.</p><p><span class=\"lbl\">(2)</span>When a person already undergoing a sentence of imprisonment for life is sentenced on a subsequent conviction to imprisonment for a term or imprisonment for life, the subsequent sentence shall run concurrently with such previous sentence.</p></div>"
+  }
+}

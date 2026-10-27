@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-91.html",
+    "source_order": 91,
+    "article_order": 1,
+    "order": 91,
+    "stem": "section_91",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Documentary Evidence",
+    "heading_range": "56 – 93",
+    "heading_source": "manifest",
+    "article_number": "91",
+    "article_title": "Presumption as to due execution, etc., of documents not produced",
+    "id": "bsa_section_91"
+  },
+  "id": "bsa_section_91",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Documentary Evidence",
+    "range": "56 – 93"
+  },
+  "article": {
+    "number": "91",
+    "title": "Presumption as to due execution, etc., of documents not produced",
+    "content": "The Court shall presume that every document, called for and not produced after notice to produce, was attested, stamped and executed in the manner required by law.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">91</span>Presumption as to due execution, etc., of documents not produced</h3></div><p class=\"prov-cite\">Section 91 · Part III · Chapter V · Presumptions as to documents</p><div class=\"prov-body\"><p>The Court shall presume that every document, called for and not produced after notice to produce, was attested, stamped and executed in the manner required by law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">91</span>Presumption as to due execution, etc., of documents not produced</h3></div><p class=\"prov-cite\">Section 91 · Part III · Chapter V · Presumptions as to documents</p><div class=\"prov-body\"><p>The Court shall presume that every document, called for and not produced after notice to produce, was attested, stamped and executed in the manner required by law.</p></div>"
+  }
+}

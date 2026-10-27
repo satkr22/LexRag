@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-02.html",
+    "source_order": 2,
+    "article_order": 11,
+    "order": 19,
+    "stem": "section_19",
+    "heading_number": "Part I",
+    "heading_title": "Suits in General",
+    "heading_range": "ss. 9–35B",
+    "heading_source": "group-head",
+    "article_number": "19",
+    "article_title": "Suits for compensation for wrongs to person or movables.",
+    "id": "cpc_section_19"
+  },
+  "id": "cpc_section_19",
+  "heading": {
+    "number": "Part I",
+    "title": "Suits in General",
+    "range": "ss. 9–35B"
+  },
+  "article": {
+    "number": "19",
+    "title": "Suits for compensation for wrongs to person or movables.",
+    "content": "Place of Suing\nWhere a suit is for compensation for wrong done to the person or to movable property, if the wrong was done within the local limits of the jurisdiction of one Court and the defendant resides, or carries on business, or personally works for gain, within the local limits of the jurisdiction of another Court, the suit may be instituted at the option of the plaintiff in either of the said Courts.\nIllustrations\n(a) A, residing in Delhi, beats B in Calcutta. B may sue A either in Calcutta or in Delhi.\n(b) A, residing in Delhi, publishes in Calcutta statements defamatory of B. B may sue A either in Calcutta or in Delhi.\n",
+    "html": "<article class=\"provision\" data-n=\"19\" data-report=\"Section 19 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Suits for compensation for wrongs to person or movables.</h3></div><p class=\"prov-cite\">Section 19</p><div class=\"prov-body\"><p class=\"sched-title\">Place of Suing</p><p>Where a suit is for compensation for wrong done to the person or to movable property, if the wrong was done within the local limits of the jurisdiction of one Court and the defendant resides, or carries on business, or personally works for gain, within the local limits of the jurisdiction of another Court, the suit may be instituted at the option of the plaintiff in either of the said Courts.</p><p>Illustrations</p><p class=\"lvl\">(a) A, residing in Delhi, beats B in Calcutta. B may sue A either in Calcutta or in Delhi.</p><p class=\"lvl\">(b) A, residing in Delhi, publishes in Calcutta statements defamatory of B. B may sue A either in Calcutta or in Delhi.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Suits for compensation for wrongs to person or movables.</h3></div><p class=\"prov-cite\">Section 19</p><div class=\"prov-body\"><p class=\"sched-title\">Place of Suing</p><p>Where a suit is for compensation for wrong done to the person or to movable property, if the wrong was done within the local limits of the jurisdiction of one Court and the defendant resides, or carries on business, or personally works for gain, within the local limits of the jurisdiction of another Court, the suit may be instituted at the option of the plaintiff in either of the said Courts.</p><p>Illustrations</p><p class=\"lvl\">(a) A, residing in Delhi, beats B in Calcutta. B may sue A either in Calcutta or in Delhi.</p><p class=\"lvl\">(b) A, residing in Delhi, publishes in Calcutta statements defamatory of B. B may sue A either in Calcutta or in Delhi.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-25.html",
+    "source_order": 25,
+    "article_order": 2,
+    "order": 448,
+    "stem": "section_397",
+    "heading_number": "Chapter XXIV",
+    "heading_title": "Registration Offices and Fees",
+    "heading_range": "ss. 396–404",
+    "heading_source": "group-head",
+    "article_number": "397",
+    "article_title": "Admissibility of certain documents as evidence.",
+    "id": "companies_section_397"
+  },
+  "id": "companies_section_397",
+  "heading": {
+    "number": "Chapter XXIV",
+    "title": "Registration Offices and Fees",
+    "range": "ss. 396–404"
+  },
+  "article": {
+    "number": "397",
+    "title": "Admissibility of certain documents as evidence.",
+    "content": "Notwithstanding anything contained in any other law for the time being in force, any document reproducing or derived from returns and documents filed by a company with the Registrar on paper or in electronic form or stored on any electronic data storage device or computer readable media by the Registrar, and authenticated by the Registrar or any other officer empowered by the Central Government in such manner as may be prescribed, shall be deemed to be a document for the purposes of this Act and the rules made thereunder and shall be admissible in any proceedings thereunder without further proof or production of the original as evidence of any contents of the original or of any fact stated therein of which direct evidence is admissible.\n",
+    "html": "<article class=\"provision\" data-n=\"397\" data-report=\"Section 397 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">397</span>Admissibility of certain documents as evidence.</h3></div><p class=\"prov-cite\">Section 397  ·  Chapter XXIV  ·  page 228 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in any other law for the time being in force, any document reproducing or derived from returns and documents filed by a company with the Registrar on paper or in electronic form or stored on any electronic data storage device or computer readable media by the Registrar, and authenticated by the Registrar or any other officer empowered by the Central Government in such manner as may be prescribed, shall be deemed to be a document for the purposes of this Act and the rules made thereunder and shall be admissible in any proceedings thereunder without further proof or production of the original as evidence of any contents of the original or of any fact stated therein of which direct evidence is admissible.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">397</span>Admissibility of certain documents as evidence.</h3></div><p class=\"prov-cite\">Section 397  ·  Chapter XXIV  ·  page 228 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in any other law for the time being in force, any document reproducing or derived from returns and documents filed by a company with the Registrar on paper or in electronic form or stored on any electronic data storage device or computer readable media by the Registrar, and authenticated by the Registrar or any other officer empowered by the Central Government in such manner as may be prescribed, shall be deemed to be a document for the purposes of this Act and the rules made thereunder and shall be admissible in any proceedings thereunder without further proof or production of the original as evidence of any contents of the original or of any fact stated therein of which direct evidence is admissible.</p></div>"
+  }
+}

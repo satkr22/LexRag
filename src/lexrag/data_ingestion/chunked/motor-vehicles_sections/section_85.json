@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_85_chunk_0",
+    "section_id": "motor-vehicles_section_85",
+    "token_count": 53,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 85::General form of permits.\n]\n\n\nEvery permit issued under this Act shall be complete in itself and shall contain all the necessary particulars of the permit and the conditions attached thereto.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_85_chunk_0",
+      "section_id": "motor-vehicles_section_85",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "85",
+      "section_title": "General form of permits."
+    }
+  }
+]

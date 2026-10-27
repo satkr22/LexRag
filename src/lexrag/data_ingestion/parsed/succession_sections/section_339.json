@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-42.html",
+    "source_order": 42,
+    "article_order": 2,
+    "order": 340,
+    "stem": "section_339",
+    "heading_number": "Part IX · Chapter IX",
+    "heading_title": "Of the Payment and Apportionment of Annuities",
+    "heading_range": "ss. 338–340",
+    "heading_source": "group-head",
+    "article_number": "339",
+    "article_title": "When annuity, to be paid quarterly or monthly, first falls due.",
+    "id": "succession_section_339"
+  },
+  "id": "succession_section_339",
+  "heading": {
+    "number": "Part IX · Chapter IX",
+    "title": "Of the Payment and Apportionment of Annuities",
+    "range": "ss. 338–340"
+  },
+  "article": {
+    "number": "339",
+    "title": "When annuity, to be paid quarterly or monthly, first falls due.",
+    "content": "Where there is a direction that the annuity shall be paid quarterly or monthly, the first payment shall be due at the end of the first quarter or first month, as the case may be, after the testator’s death; and shall, if the executor or administrator thinks fit, be paid when due, but the executor or administrator shall not be bound to pay it till the end of the year.\n",
+    "html": "<article class=\"provision\" data-n=\"339\" data-report=\"Section 339 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">339</span>When annuity, to be paid quarterly or monthly, first falls due.</h3></div><p class=\"prov-cite\">Section 339  ·  Part IX · Chapter IX  ·  page 87 of the Act</p><div class=\"prov-body\"><p>Where there is a direction that the annuity shall be paid quarterly or monthly, the first payment shall be due at the end of the first quarter or first month, as the case may be, after the testator’s death; and shall, if the executor or administrator thinks fit, be paid when due, but the executor or administrator shall not be bound to pay it till the end of the year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">339</span>When annuity, to be paid quarterly or monthly, first falls due.</h3></div><p class=\"prov-cite\">Section 339  ·  Part IX · Chapter IX  ·  page 87 of the Act</p><div class=\"prov-body\"><p>Where there is a direction that the annuity shall be paid quarterly or monthly, the first payment shall be due at the end of the first quarter or first month, as the case may be, after the testator’s death; and shall, if the executor or administrator thinks fit, be paid when due, but the executor or administrator shall not be bound to pay it till the end of the year.</p></div>"
+  }
+}

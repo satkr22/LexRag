@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_214_chunk_0",
+    "section_id": "income-tax-2025_section_214",
+    "token_count": 152,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 214::Tax on investment income and long-term capital gains.\n]\n\n\nThe income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.\nSl. No.\nIncome\nRate of Income-tax payable\n1.\nIncome from investment.\n20%\n2.\nIncome from long-term capital gains on specified asset.\n12.5%\n3.\nTotal income as reduced by income referred to against serial numbers 1 and 2.\nRates in force.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_214_chunk_0",
+      "section_id": "income-tax-2025_section_214",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "214",
+      "section_title": "Tax on investment income and long-term capital gains."
+    }
+  }
+]

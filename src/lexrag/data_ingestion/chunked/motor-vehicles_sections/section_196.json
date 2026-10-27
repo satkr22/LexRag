@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_196_chunk_0",
+    "section_id": "motor-vehicles_section_196",
+    "token_count": 141,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 196::Driving uninsured vehicle.\n]\n\n\nWhoever drives a motor vehicle or causes or allows a motor vehicle to be driven in contravention of the provisions of section 146 shall be 1[liable for the first contravention with penalty of three times the base premium for such vehicle specified under sub-section (2) of section 147 or five thousand rupees, whichever is higher, and for a subsequent contravention shall be liable to penalty of five times the base premium for such vehicle as specified under sub-section (2) of section 147 or ten thousand rupees, whichever is higher].",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_196_chunk_0",
+      "section_id": "motor-vehicles_section_196",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "196",
+      "section_title": "Driving uninsured vehicle."
+    }
+  }
+]

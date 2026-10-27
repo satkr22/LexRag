@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-19.html",
+    "source_order": 20,
+    "article_order": 7,
+    "order": 397,
+    "stem": "section_396",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 390–430",
+    "heading_source": "group-head",
+    "article_number": "396",
+    "article_title": "Tax deducted is income received.",
+    "id": "income-tax-2025_section_396"
+  },
+  "id": "income-tax-2025_section_396",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 390–430"
+  },
+  "article": {
+    "number": "396",
+    "title": "Tax deducted is income received.",
+    "content": "The following sums shall be deemed as income received for the purposes of computing the income of an assessee—\n(a) sums deducted under this Chapter; and\n(b) income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).\n",
+    "html": "<article class=\"provision\" data-n=\"396\" data-report=\"Section 396 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">396</span>Tax deducted is income received.</h3></div><p class=\"prov-cite\">Section 396  ·  Chapter XIX  ·  B.—Deduction and collection at source  ·  page 474 of the Act</p><div class=\"prov-body\"><p>The following sums shall be deemed as income received for the purposes of computing the income of an assessee—</p><p class=\"lvl\">(a) sums deducted under this Chapter; and</p><p class=\"lvl\">(b) income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">396</span>Tax deducted is income received.</h3></div><p class=\"prov-cite\">Section 396  ·  Chapter XIX  ·  B.—Deduction and collection at source  ·  page 474 of the Act</p><div class=\"prov-body\"><p>The following sums shall be deemed as income received for the purposes of computing the income of an assessee—</p><p class=\"lvl\">(a) sums deducted under this Chapter; and</p><p class=\"lvl\">(b) income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).</p></div>"
+  }
+}

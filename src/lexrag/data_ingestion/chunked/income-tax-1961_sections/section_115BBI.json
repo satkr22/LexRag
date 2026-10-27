@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115BBI_chunk_0",
+    "section_id": "income-tax-1961_section_115BBI",
+    "token_count": 474,
+    "text": "[Act: income-tax-1961\n Chapter: Determination of Tax in Certain Special Cases\n Section: 115BBI::Specified income of certain institutions.\n]\n\n\n(1) Where the total income of an assessee, being a person in receipt of income on behalf of any fund or institution referred to in sub-clause (iv) or any trust or institution referred to in sub-clause (v) or any university or other educational institution referred to in sub-clause (vi) or any hospital or other medical institution referred to in sub-clause (via), of clause (23C) of section 10 or any trust or institution referred to in section 11, includes any income by way of any specified income, notwithstanding anything contained in any other provision of this Act, the income-tax payable shall be the aggregate of,—\n  (i) the amount of income-tax calculated at the rate of thirty per cent on the aggregate of such specified income; and\n  (ii) the amount of income-tax with which the assessee would have been chargeable had the total income of the assessee been reduced by the aggregate of specified income referred to in clause (i).\n  (2) Notwithstanding anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing the specified income referred to in clause (i) of sub-section (1).\n  Explanation.—For the purposes of this section, \"specified income\" means,—\n  (a) income accumulated or set apart in excess of fifteen per cent of the income where such accumulation is not allowed under any specific provision of this Act; or\n  (b) deemed income referred to in Explanation 4 to the third proviso to clause (23C) of section 10, or sub-section (1B) or sub-section (3) of section 11; or\n  (c) any income, which is not exempt under clause (23C) of section 10 on account of violation of the provisions of clause (b) of the third proviso of clause (23C) of section 10, or not to be excluded from the total income under the provisions of clause (d) of sub-section (1) of section 13; or",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115BBI_chunk_0",
+      "section_id": "income-tax-1961_section_115BBI",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Determination of Tax in Certain Special Cases",
+      "section_number": "115BBI",
+      "section_title": "Specified income of certain institutions."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_115BBI_chunk_1",
+    "section_id": "income-tax-1961_section_115BBI",
+    "token_count": 255,
+    "text": "[Act: income-tax-1961\n Chapter: Determination of Tax in Certain Special Cases\n Section: 115BBI::Specified income of certain institutions.\n]\n\n\n(1) Where the total income of an assessee, being a person in receipt of income on behalf of any fund or institution referred to in sub-clause (iv) or any trust or institution referred to in sub-clause (v) or any university or other educational institution referred to in sub-clause (vi) or any hospital or other medical institution referred to in sub-clause (via), of clause (23C) of section 10 or any trust or institution referred to in section 11, includes any income by way of any specified income, notwithstanding anything contained in any other provision of this Act, the income-tax payable shall be the aggregate of,—\n  (d) any income which is deemed to be income under the twenty-first proviso to clause (23C) of section 10 or which is not excluded from the total income under clause (c) of sub-section (1) of section 13; or\n  (e) any income which is not excluded from the total income under clause (c) of sub-section (1) of section 11.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115BBI_chunk_1",
+      "section_id": "income-tax-1961_section_115BBI",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Determination of Tax in Certain Special Cases",
+      "section_number": "115BBI",
+      "section_title": "Specified income of certain institutions."
+    }
+  }
+]

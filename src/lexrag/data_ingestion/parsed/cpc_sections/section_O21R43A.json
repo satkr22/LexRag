@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 46,
+    "order": 523,
+    "stem": "section_O21R43A",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R43A",
+    "article_title": "Custody of movable property.",
+    "id": "cpc_section_O21R43A"
+  },
+  "id": "cpc_section_O21R43A",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R43A",
+    "title": "Custody of movable property.",
+    "content": "(1) Where the property attached consists of live-stock, agricultural implements or other articles which cannot conveniently be removed and the attaching officer does not act under the proviso to rule 43, he may, at the instance of the judgment-debtor or of the decree holder or of any other person claiming to be interested in such property, leave it in the village or place where it has been attached, in the custody of any respectable person (hereinafter referred to as the “custodian”).\n(2) If the custodian fails, after due notice, to produce such property at the place named by the Court before the officer deputed for the purpose or to restore it to the person in whose favour restoration is ordered by the Court, or if the property, though so produced or restored, is not in the same condition as it was when it was entrusted to him,—\n(a) the custodian shall be liable to pay compensation to the decree-holder, judgment-debtor or any other person who is found to be entitled to the restoration thereof, for any loss or damage caused by his default; and\n(b) such liability may be enforced—\n(i) at the instance of the decree-holder, as if the custodian were a surety under section 145;\n(ii) at the instance of the judgment-debtor or such other person, on an application in execution; and\n(c) any order determining such liability shall be appealable as a decree.]\n",
+    "html": "<article class=\"provision\" data-n=\"O21R43A\" data-report=\"Order 21, Rule 43A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43A</span>Custody of movable property.</h3></div><p class=\"prov-cite\">Order 21, Rule 43A</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the property attached consists of live-stock, agricultural implements or other articles which cannot conveniently be removed and the attaching officer does not act under the proviso to rule 43, he may, at the instance of the judgment-debtor or of the decree holder or of any other person claiming to be interested in such property, leave it in the village or place where it has been attached, in the custody of any respectable person (hereinafter referred to as the “custodian”).</p><p class=\"lvl\">(2) If the custodian fails, after due notice, to produce such property at the place named by the Court before the officer deputed for the purpose or to restore it to the person in whose favour restoration is ordered by the Court, or if the property, though so produced or restored, is not in the same condition as it was when it was entrusted to him,—</p><p class=\"lvl\">(a) the custodian shall be liable to pay compensation to the decree-holder, judgment-debtor or any other person who is found to be entitled to the restoration thereof, for any loss or damage caused by his default; and</p><p class=\"lvl\">(b) such liability may be enforced—</p><p class=\"lvl\">(i) at the instance of the decree-holder, as if the custodian were a surety under section 145;</p><p class=\"lvl\">(ii) at the instance of the judgment-debtor or such other person, on an application in execution; and</p><p class=\"lvl\">(c) any order determining such liability shall be appealable as a decree.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 72. (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43A</span>Custody of movable property.</h3></div><p class=\"prov-cite\">Order 21, Rule 43A</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the property attached consists of live-stock, agricultural implements or other articles which cannot conveniently be removed and the attaching officer does not act under the proviso to rule 43, he may, at the instance of the judgment-debtor or of the decree holder or of any other person claiming to be interested in such property, leave it in the village or place where it has been attached, in the custody of any respectable person (hereinafter referred to as the “custodian”).</p><p class=\"lvl\">(2) If the custodian fails, after due notice, to produce such property at the place named by the Court before the officer deputed for the purpose or to restore it to the person in whose favour restoration is ordered by the Court, or if the property, though so produced or restored, is not in the same condition as it was when it was entrusted to him,—</p><p class=\"lvl\">(a) the custodian shall be liable to pay compensation to the decree-holder, judgment-debtor or any other person who is found to be entitled to the restoration thereof, for any loss or damage caused by his default; and</p><p class=\"lvl\">(b) such liability may be enforced—</p><p class=\"lvl\">(i) at the instance of the decree-holder, as if the custodian were a surety under section 145;</p><p class=\"lvl\">(ii) at the instance of the judgment-debtor or such other person, on an application in execution; and</p><p class=\"lvl\">(c) any order determining such liability shall be appealable as a decree.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 72. (w.e.f. 1-2-1977).</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 38,
+    "order": 208,
+    "stem": "section_189",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "189",
+    "article_title": "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum",
+    "id": "constitution_section_189"
+  },
+  "id": "constitution_section_189",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "189",
+    "title": "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum",
+    "content": "(1)Save as otherwise provided in this Constitution, all questions at any sitting of a House of the Legislature of a State shall be determined by a majority of votes of the members present and voting, other than the Speaker or Chairman, or person acting as such. The Speaker or Chairman, or person acting as such, shall not vote in the first instance, but shall have and exercise a casting vote in the case of an equality of votes.\n(2)A House of the Legislature of a State shall have power to act notwithstanding any vacancy in the membership thereof, and any proceedings in the Legislature of a State shall be valid notwithstanding that it is discovered subsequently that some person who was not entitled so to do sat or voted or otherwise took part in the proceedings.\n(3)1[Until the Legislature of the State by law otherwise provides, the quorum to constitute a meeting of a House of the Legislature of a State shall be ten members or one-tenth of the total number of members of the House, whichever is greater.\n(4)If at any time during a meeting of the Legislative Assembly or the Legislative Council of a State there is no quorum, it shall be the duty of the Speaker or Chairman, or person acting as such, either to adjourn the House or to suspend the meeting until there is a quorum.]\n",
+    "html": "<article class=\"provision\" data-n=\"189\" data-report=\"Article 189 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">189</span>Voting in Houses, power of Houses to act notwithstanding vacancies and quorum</h3></div><p class=\"prov-cite\">Article 189 · Part VI · Conduct of Business</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Save as otherwise provided in this Constitution, all questions at any sitting of a House of the Legislature of a State shall be determined by a majority of votes of the members present and voting, other than the Speaker or Chairman, or person acting as such. The Speaker or Chairman, or person acting as such, shall not vote in the first instance, but shall have and exercise a casting vote in the case of an equality of votes.</p><p><span class=\"lbl\">(2)</span>A House of the Legislature of a State shall have power to act notwithstanding any vacancy in the membership thereof, and any proceedings in the Legislature of a State shall be valid notwithstanding that it is discovered subsequently that some person who was not entitled so to do sat or voted or otherwise took part in the proceedings.</p><p><span class=\"lbl\">(3)</span><sup>1</sup>[Until the Legislature of the State by law otherwise provides, the quorum to constitute a meeting of a House of the Legislature of a State shall be ten members or one-tenth of the total number of members of the House, whichever is greater.</p><p><span class=\"lbl\">(4)</span>If at any time during a meeting of the Legislative Assembly or the Legislative Council of a State there is no quorum, it shall be the duty of the Speaker or Chairman, or person acting as such, either to adjourn the House or to suspend the meeting until there is a quorum.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Omitted by the Constitution (Forty-second Amendment) Act, 1976, s. 31 (date not notified). This amendment was omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 45 (w.e.f. 20-6-1979).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">189</span>Voting in Houses, power of Houses to act notwithstanding vacancies and quorum</h3></div><p class=\"prov-cite\">Article 189 · Part VI · Conduct of Business</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Save as otherwise provided in this Constitution, all questions at any sitting of a House of the Legislature of a State shall be determined by a majority of votes of the members present and voting, other than the Speaker or Chairman, or person acting as such. The Speaker or Chairman, or person acting as such, shall not vote in the first instance, but shall have and exercise a casting vote in the case of an equality of votes.</p><p><span class=\"lbl\">(2)</span>A House of the Legislature of a State shall have power to act notwithstanding any vacancy in the membership thereof, and any proceedings in the Legislature of a State shall be valid notwithstanding that it is discovered subsequently that some person who was not entitled so to do sat or voted or otherwise took part in the proceedings.</p><p><span class=\"lbl\">(3)</span><sup>1</sup>[Until the Legislature of the State by law otherwise provides, the quorum to constitute a meeting of a House of the Legislature of a State shall be ten members or one-tenth of the total number of members of the House, whichever is greater.</p><p><span class=\"lbl\">(4)</span>If at any time during a meeting of the Legislative Assembly or the Legislative Council of a State there is no quorum, it shall be the duty of the Speaker or Chairman, or person acting as such, either to adjourn the House or to suspend the meeting until there is a quorum.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Omitted by the Constitution (Forty-second Amendment) Act, 1976, s. 31 (date not notified). This amendment was omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 45 (w.e.f. 20-6-1979).</p></div>"
+  }
+}

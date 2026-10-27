@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_66F_chunk_0",
+    "section_id": "technology_section_66F",
+    "token_count": 362,
+    "text": "[Act: technology\n Chapter: Offences\n Section: 66F::Punishment for cyber terrorism.\n]\n\n\n(1) Whoever,–\n(A) with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people or any section of the people by–\n(i) denying or cause the denial of access to any person authorised to access computer resource; or\n(ii) attempting to penetrate or access a computer resource without authorisation or exceeding authorised access; or\n(iii) introducing or causing to introduce any computer contaminant, and by means of such conduct causes or is likely to cause death or injuries to persons or damage to or destruction of property or disrupts or knowing that it is likely to cause damage or disruption of supplies or services essential to the life of the community or adversely affect the critical information infrastructure specified under section 70; or\n(B) knowingly or intentionally penetrates or accesses a computer resource without authorisation or exceeding authorised access, and by means of such conduct obtains access to information, data or computer data base that is restricted for reasons of the security of the State or foreign relations; or any restricted information, data or computer data base, with reasons to believe that such information, data or computer data base so obtained may be used to cause or likely to cause injury to the interests of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence, or to the advantage of any foreign nation, group of individuals or otherwise,\ncommits the offence of cyber terrorism.\n(2) Whoever commits or conspires to commit cyber terrorism shall be punishable with imprisonment which may extend to imprisonment for life.",
+    "metadata": {
+      "chunk_id": "technology_section_66F_chunk_0",
+      "section_id": "technology_section_66F",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Offences",
+      "section_number": "66F",
+      "section_title": "Punishment for cyber terrorism."
+    }
+  }
+]

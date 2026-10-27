@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_110A_chunk_0",
+    "section_id": "motor-vehicles_section_110A",
+    "token_count": 493,
+    "text": "[Act: motor-vehicles\n Chapter: Construction, Equipment and Maintenance of Motor Vehicles\n Section: 110A::Recall of motor vehicles.\n]\n\n\n(1) The Central Government may, by order, direct a manufacturer to recall motor vehicles of a particular type or its variants, if—\n  (a) a defect in that particular type of motor vehicle may cause harm to the environment or to the driver or occupants of such motor vehicle or other road users; and\n  (b) a defect in that particular type of motor vehicle has been reported to the Central Government by—\n  (i) such percentage of owners, as the Central Government, may by notification in the Official Gazette, specify; or\n  (ii) a testing agency; or\n  (iii) any other source.\n  (2) Where the defect referred to in sub-section (1) lies in a motor vehicle component, the Central Government may, by order, direct a manufacturer to recall all motor vehicles which contain such component, regardless of the type or variants of such motor vehicle.\n  (3) A manufacturer whose vehicles are recalled under sub-section (1) or sub-section (2), shall—\n  (a) reimburse the buyers for the full cost of the motor vehicle, subject to any hire-purchase or lease-hypothecation agreement; or\n  (b) replace the defective motor vehicle with another motor vehicle of similar or better specifications which complies with the standards specified under this Act or repair it; and\n  (c) pay such fines and other dues in accordance with sub-section (6).\n  (4) Where a manufacturer notices a defect in a motor vehicle manufactured by him, he shall inform the Central Government of the defect and initiate recall proceedings and in such case the manufacturer shall not be liable to pay fine under sub-section (3).\n  (5) The Central Government may authorise any officer to conduct investigation under this section who shall have all the powers of a civil court, while trying a suit under the Code of Civil Procedure, 1908 (5 of 1908) in respect of the following matters, namely:—\n  (a) summoning and enforcing the attendance of any person and examining him on oath;\n  (b) requiring the discovery and production of any document;\n  (c) receiving evidence on affidavit; and\n  (d) any other matter as may be prescribed.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_110A_chunk_0",
+      "section_id": "motor-vehicles_section_110A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Construction, Equipment and Maintenance of Motor Vehicles",
+      "section_number": "110A",
+      "section_title": "Recall of motor vehicles."
+    }
+  },
+  {
+    "chunk_id": "motor-vehicles_section_110A_chunk_1",
+    "section_id": "motor-vehicles_section_110A",
+    "token_count": 120,
+    "text": "[Act: motor-vehicles\n Chapter: Construction, Equipment and Maintenance of Motor Vehicles\n Section: 110A::Recall of motor vehicles.\n]\n\n\n(1) The Central Government may, by order, direct a manufacturer to recall motor vehicles of a particular type or its variants, if—\n  (6) The Central Government may make rules for regulating the recall of motor vehicles, of a particular type or its variants, for any defect which in the opinion of the Central Government, may cause harm to the environment or to the driver or occupants of such motor vehicle or to other road users.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_110A_chunk_1",
+      "section_id": "motor-vehicles_section_110A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Construction, Equipment and Maintenance of Motor Vehicles",
+      "section_number": "110A",
+      "section_title": "Recall of motor vehicles."
+    }
+  }
+]

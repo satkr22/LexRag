@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_182_chunk_0",
+    "section_id": "motor-vehicles_section_182",
+    "token_count": 259,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 182::Offences relating to licences.\n]\n\n\n(1) Whoever, being disqualified under this Act for holding or obtaining a driving licence drives a motor vehicle in a public place or in any other place, or applies for or obtains a driving licence or, not being entitled to have a driving licence issued to him free of endorsement, applies for or obtains a driving licence without disclosing the endorsement made on a driving licence previously held by him shall be punishable with imprisonment for a term which may extend to three months, or with fine 6[of ten thousand rupees] or with both, and any driving licence so obtained by him shall be of no effect.\n(2) Whoever, being disqualified under this Act for holding or obtaining a conductor’s licence, acts as a conductor of a stage carriage in a public place or applies for or obtains a conductor’s licence or, not being entitled to have a conductor’s licence issued to him free of endorsement, applies for or obtains a conductor’s licence without disclosing the endorsements made on a conductor’s licence previously held by him, shall be 7[liable to penalty of ten thousand rupees], and any conductor’s licence so obtained by him shall be of no effect.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_182_chunk_0",
+      "section_id": "motor-vehicles_section_182",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "182",
+      "section_title": "Offences relating to licences."
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_71_chunk_0",
+    "section_id": "income-tax-1961_section_71",
+    "token_count": 471,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 71::Set off of loss from one head against income from another.\n]\n\n\n(1) Where in respect of any assessment year the net result of the computation under any head of income, other than \"Capital gains\", is a loss and the assessee has no income under the head \"Capital gains\", he shall, subject to the provisions of this Chapter, be entitled to have the amount of such loss set off against his income, if any, assessable for that assessment year under any other head.\n  (2) Where in respect of any assessment year, the net result of the computation under any head of income, other than \"Capital gains\", is a loss and the assessee has income assessable under the head \"Capital gains\", such loss may, subject to the provisions of this Chapter, be set off against his income, if any, assessable for that assessment year under any head of income including the head \"Capital gains\" (whether relating to short-term capital assets or any other capital assets).\n  (2A) Notwithstanding anything contained in sub-section (1) or sub-section (2), where in respect of any assessment year, the net result of the computation under the head \"Profits and gains of business or profession\" is a loss and the assessee has income assessable under the head \"Salaries\", the assessee shall not be entitled to have such loss set off against such income.\n  (3) Where in respect of any assessment year, the net result of the computation under the head \"Capital gains\" is a loss and the assessee has income assessable under any other head of income, the assessee shall not be entitled to have such loss set off against income under the other head.\n  (3A) Notwithstanding anything contained in sub-section (1) or sub-section (2), where in respect of any assessment year, the net result of the computation under the head \"Income from house property\" is a loss and the assessee has income assessable under any other head of income, the assessee shall not be entitled to set off such loss, to the extent the amount of the loss exceeds two lakh rupees, against income under the other head.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_71_chunk_0",
+      "section_id": "income-tax-1961_section_71",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "71",
+      "section_title": "Set off of loss from one head against income from another."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_71_chunk_1",
+    "section_id": "income-tax-1961_section_71",
+    "token_count": 231,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 71::Set off of loss from one head against income from another.\n]\n\n\n(1) Where in respect of any assessment year the net result of the computation under any head of income, other than \"Capital gains\", is a loss and the assessee has no income under the head \"Capital gains\", he shall, subject to the provisions of this Chapter, be entitled to have the amount of such loss set off against his income, if any, assessable for that assessment year under any other head.\n  (4) Where the net result of the computation under the head \"Income from house property\" is a loss, in respect of the assessment years commencing on the 1st day of April, 1995 and the 1st day of April, 1996, such loss shall be first set off under sub-sections (1) and (2) and thereafter the loss referred to in section 71A shall be set off in the relevant assessment year in accordance with the provisions of that section.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_71_chunk_1",
+      "section_id": "income-tax-1961_section_71",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "71",
+      "section_title": "Set off of loss from one head against income from another."
+    }
+  }
+]

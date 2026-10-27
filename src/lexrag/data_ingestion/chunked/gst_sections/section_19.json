@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "gst_section_19_chunk_0",
+    "section_id": "gst_section_19",
+    "token_count": 496,
+    "text": "[Act: gst\n Chapter: Input Tax Credit\n Section: 19::Taking input tax credit in respect of inputs and capital goods sent for job work.\n]\n\n\n(1) The principal shall, subject to such conditions and restrictions as may be prescribed, be allowed input tax credit on inputs sent to a job worker for job work.\n  (2) Notwithstanding anything contained in clause (b) of sub-section (2) of section 16, the principal shall be entitled to take credit of input tax on inputs even if the inputs are directly sent to a job worker for job work without being first brought to his place of business.\n  (3) Where the inputs sent for job work are not received back by the principal after completion of job work or otherwise or are not supplied from the place of business of the job worker in accordance with clause (a) or clause (b) of sub-section (1) of section 143 within one year of being sent out, it shall be deemed that such inputs had been supplied by the principal to the job worker on the day when the said inputs were sent out:\n  Provided that where the inputs are sent directly to a job worker, the period of one year shall be counted from the date of receipt of inputs by the job worker.\n  (4) The principal shall, subject to such conditions and restrictions as may be prescribed, be allowed input tax credit on capital goods sent to a job worker for job work.\n  (5) Notwithstanding anything contained in clause (b) of sub-section (2) of section 16, the principal shall be entitled to take credit of input tax on capital goods even if the capital goods are directly sent to a job worker for job work without being first brought to his place of business.\n  (6) Where the capital goods sent for job work are not received back by the principal within a period of three years of being sent out, it shall be deemed that such capital goods had been supplied by the principal to the job worker on the day when the said capital goods were sent out:\n  Provided that where the capital goods are sent directly to a job worker, the period of three years shall be counted from the date of receipt of capital goods by the job worker.\n  (7) Nothing contained in sub-section (3) or sub-section (6) shall apply to moulds and dies, jigs and fixtures, or tools sent out to a job worker for job work.",
+    "metadata": {
+      "chunk_id": "gst_section_19_chunk_0",
+      "section_id": "gst_section_19",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Input Tax Credit",
+      "section_number": "19",
+      "section_title": "Taking input tax credit in respect of inputs and capital goods sent for job work."
+    }
+  },
+  {
+    "chunk_id": "gst_section_19_chunk_1",
+    "section_id": "gst_section_19",
+    "token_count": 91,
+    "text": "[Act: gst\n Chapter: Input Tax Credit\n Section: 19::Taking input tax credit in respect of inputs and capital goods sent for job work.\n]\n\n\n(1) The principal shall, subject to such conditions and restrictions as may be prescribed, be allowed input tax credit on inputs sent to a job worker for job work.\n  Explanation.––For the purpose of this section, “principal” means the person referred to in section 143.",
+    "metadata": {
+      "chunk_id": "gst_section_19_chunk_1",
+      "section_id": "gst_section_19",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Input Tax Credit",
+      "section_number": "19",
+      "section_title": "Taking input tax credit in respect of inputs and capital goods sent for job work."
+    }
+  }
+]

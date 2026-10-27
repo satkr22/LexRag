@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_72_chunk_0",
+    "section_id": "income-tax-1961_section_72",
+    "token_count": 500,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 72::Carry forward and set off of business losses.\n]\n\n\n(1) Where for any assessment year, the net result of the computation under the head \"Profits and gains of business or profession\" is a loss to the assessee, not being a loss sustained in a speculation business, and such loss cannot be or is not wholly set off against income under any head of income in accordance with the provisions of section 71, so much of the loss as has not been so set off or, where he has no income under any other head, the whole loss shall, subject to the other provisions of this Chapter, be carried forward to the following assessment year, and—\n  (i) it shall be set off against the profits and gains, if any, of any business or profession carried on by him and assessable for that assessment year;\n  (ii) if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following assessment year and so on :\n  Provided that where the whole or any part of such loss is sustained in any such business as is referred to in section 33B which is discontinued in the circumstances specified in that section, and, thereafter, at any time before the expiry of the period of three years referred to in that section, such business is re-established, reconstructed or revived by the assessee, so much of the loss as is attributable to such business shall be carried forward to the assessment year relevant to the previous year in which the business is so re-established, reconstructed or revived, and—\n  (a) it shall be set off against the profits and gains, if any, of that business or any other business carried on by him and assessable for that assessment year; and\n  (b) if the loss cannot be wholly so set off, the amount of loss not so set off shall, in case the business so re-established, reconstructed or revived continues to be carried on by the assessee, be carried forward to the following assessment year and so on for seven assessment years immediately succeeding.\n  (2) Where any allowance or part thereof is, under sub-section (2) of section 32 or sub-section (4) of section 35, to be carried forward, effect shall first be given to the provisions of this section.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_72_chunk_0",
+      "section_id": "income-tax-1961_section_72",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "72",
+      "section_title": "Carry forward and set off of business losses."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_72_chunk_1",
+    "section_id": "income-tax-1961_section_72",
+    "token_count": 217,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 72::Carry forward and set off of business losses.\n]\n\n\n(1) Where for any assessment year, the net result of the computation under the head \"Profits and gains of business or profession\" is a loss to the assessee, not being a loss sustained in a speculation business, and such loss cannot be or is not wholly set off against income under any head of income in accordance with the provisions of section 71, so much of the loss as has not been so set off or, where he has no income under any other head, the whole loss shall, subject to the other provisions of this Chapter, be carried forward to the following assessment year, and—\n  (3) No loss (other than the loss referred to in the proviso to sub-section (1) of this section) shall be carried forward under this section for more than eight assessment years immediately succeeding the assessment year for which the loss was first computed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_72_chunk_1",
+      "section_id": "income-tax-1961_section_72",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "72",
+      "section_title": "Carry forward and set off of business losses."
+    }
+  }
+]

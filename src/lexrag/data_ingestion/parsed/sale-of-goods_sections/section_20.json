@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-20.html",
+    "source_order": 20,
+    "article_order": 1,
+    "order": 20,
+    "stem": "section_20",
+    "heading_number": "Chapter III",
+    "heading_title": "Effects of the Contract",
+    "heading_range": "ss. 18–30",
+    "heading_source": "manifest",
+    "article_number": "20",
+    "article_title": "Specific goods in a deliverable state.",
+    "id": "sale-of-goods_section_20"
+  },
+  "id": "sale-of-goods_section_20",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Effects of the Contract",
+    "range": "ss. 18–30"
+  },
+  "article": {
+    "number": "20",
+    "title": "Specific goods in a deliverable state.",
+    "content": "Where there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made, and it is immaterial whether the time of payment of the price or the time of delivery of the goods, or both, is postponed.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Specific goods in a deliverable state.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter III  ·  Transfer of property as between seller and buyer  ·  page 8 of the Act</p><div class=\"prov-body\"><p>Where there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made, and it is immaterial whether the time of payment of the price or the time of delivery of the goods, or both, is postponed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Specific goods in a deliverable state.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter III  ·  Transfer of property as between seller and buyer  ·  page 8 of the Act</p><div class=\"prov-body\"><p>Where there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made, and it is immaterial whether the time of payment of the price or the time of delivery of the goods, or both, is postponed.</p></div>"
+  }
+}

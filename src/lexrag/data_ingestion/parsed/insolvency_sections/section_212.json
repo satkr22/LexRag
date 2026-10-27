@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-20.html",
+    "source_order": 20,
+    "article_order": 4,
+    "order": 237,
+    "stem": "section_212",
+    "heading_number": "Part IV · Chapter V",
+    "heading_title": "Information Utilities",
+    "heading_range": "ss. 209–216",
+    "heading_source": "group-head",
+    "article_number": "212",
+    "article_title": "Governing Board of information utility.",
+    "id": "insolvency_section_212"
+  },
+  "id": "insolvency_section_212",
+  "heading": {
+    "number": "Part IV · Chapter V",
+    "title": "Information Utilities",
+    "range": "ss. 209–216"
+  },
+  "article": {
+    "number": "212",
+    "title": "Governing Board of information utility.",
+    "content": "The Board may, for ensuring that an information utility takes into account the objectives sought to be achieved under this Code, require every information utility to set up a governing board, with such number of independent members, as may be specified by regulations.\n",
+    "html": "<article class=\"provision\" data-n=\"212\" data-report=\"Section 212 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">212</span>Governing Board of information utility.</h3></div><p class=\"prov-cite\">Section 212  ·  Part IV · Chapter V  ·  pages 135–136 of the Act</p><div class=\"prov-body\"><p>The Board may, for ensuring that an information utility takes into account the objectives sought to be achieved under this Code, require every information utility to set up a governing board, with such number of independent members, as may be specified by regulations.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">212</span>Governing Board of information utility.</h3></div><p class=\"prov-cite\">Section 212  ·  Part IV · Chapter V  ·  pages 135–136 of the Act</p><div class=\"prov-body\"><p>The Board may, for ensuring that an information utility takes into account the objectives sought to be achieved under this Code, require every information utility to set up a governing board, with such number of independent members, as may be specified by regulations.</p></div>"
+  }
+}

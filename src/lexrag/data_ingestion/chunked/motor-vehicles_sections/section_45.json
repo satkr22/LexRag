@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_45_chunk_0",
+    "section_id": "motor-vehicles_section_45",
+    "token_count": 194,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 45::Refusal of registration or renewal of the certificate of registration.\n]\n\n\nThe registering authority may, by order, refuse to register any motor vehicle, or renew the certificate of registration in respect of a motor vehicle (other than a transport vehicle), if in either case, the registering authority has reason to believe that it is a stolen motor vehicle or the vehicle is mechanically defective or fails to comply with the requirements of this Act or of the rules made thereunder, or if the applicant fails to furnish particulars of any previous registration of the vehicle or furnishes inaccurate particulars in the application for registration of the vehicle or, as the case may be, for renewal of the certificate or registration thereof and the registering authority shall furnish the applicant whose vehicle is refused registration, or whose application for renewal of the certificate of registration is refused, a copy of such order, together with the reasons for such refusal.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_45_chunk_0",
+      "section_id": "motor-vehicles_section_45",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "45",
+      "section_title": "Refusal of registration or renewal of the certificate of registration."
+    }
+  }
+]

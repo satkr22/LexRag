@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-44.html",
+    "source_order": 44,
+    "article_order": 4,
+    "order": 353,
+    "stem": "section_352",
+    "heading_number": "Part IX · Chapter XI",
+    "heading_title": "Of the Produce and Interest of Legacies",
+    "heading_range": "ss. 349–355",
+    "heading_source": "group-head",
+    "article_number": "352",
+    "article_title": "Interest when time fixed.",
+    "id": "succession_section_352"
+  },
+  "id": "succession_section_352",
+  "heading": {
+    "number": "Part IX · Chapter XI",
+    "title": "Of the Produce and Interest of Legacies",
+    "range": "ss. 349–355"
+  },
+  "article": {
+    "number": "352",
+    "title": "Interest when time fixed.",
+    "content": "Where a time has been fixed for the payment of a general legacy, interest begins to run from the time so fixed. The interest up to such time forms part of the residue of the testator’s estate.\nException.—Where the testator was a parent or a more remote ancestor of the legatee, or has put himself in the place of a parent of the legatee and the legatee is a minor, the legacy shall bear interest from the death of the testator, unless a specific sum is given by the will for maintenance, or unless the will contains a direction to the contrary.\n",
+    "html": "<article class=\"provision\" data-n=\"352\" data-report=\"Section 352 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">352</span>Interest when time fixed.</h3></div><p class=\"prov-cite\">Section 352  ·  Part IX · Chapter XI  ·  page 89 of the Act</p><div class=\"prov-body\"><p>Where a time has been fixed for the payment of a general legacy, interest begins to run from the time so fixed. The interest up to such time forms part of the residue of the testator’s estate.</p><p>Exception.—Where the testator was a parent or a more remote ancestor of the legatee, or has put himself in the place of a parent of the legatee and the legatee is a minor, the legacy shall bear interest from the death of the testator, unless a specific sum is given by the will for maintenance, or unless the will contains a direction to the contrary.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">352</span>Interest when time fixed.</h3></div><p class=\"prov-cite\">Section 352  ·  Part IX · Chapter XI  ·  page 89 of the Act</p><div class=\"prov-body\"><p>Where a time has been fixed for the payment of a general legacy, interest begins to run from the time so fixed. The interest up to such time forms part of the residue of the testator’s estate.</p><p>Exception.—Where the testator was a parent or a more remote ancestor of the legatee, or has put himself in the place of a parent of the legatee and the legatee is a minor, the legacy shall bear interest from the death of the testator, unless a specific sum is given by the will for maintenance, or unless the will contains a direction to the contrary.</p></div>"
+  }
+}

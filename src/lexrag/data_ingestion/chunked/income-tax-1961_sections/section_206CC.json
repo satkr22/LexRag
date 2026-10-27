@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_206CC_chunk_0",
+    "section_id": "income-tax-1961_section_206CC",
+    "token_count": 423,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 206CC::Requirement to furnish Permanent Account number by collectee.\n]\n\n\n(1) Notwithstanding anything contained in any other provisions of this Act, any person paying any sum or amount, on which tax is collectible at source under Chapter XVII-BB (herein referred to as collectee) shall furnish his Permanent Account Number to the person responsible for collecting such tax (herein referred to as collector), failing which tax shall be collected at the higher of the following rates, namely:—\n(i) at twice the rate specified in the relevant provision of this Act; or\n(ii) at the rate of five per cent:\nProvided that the rate of tax collection at source under this section shall not exceed twenty per cent.\n(2) No declaration under sub-section (1A) of section 206C shall be valid unless the person furnishes his Permanent Account Number in such declaration.\n(3) In case any declaration becomes invalid under sub-section (2), the collector shall collect the tax at source in accordance with the provisions of sub-section (1).\n(4) No certificate under sub-section (9) of section 206C shall be granted unless the application made under that section contains the Permanent Account Number of the applicant.\n(5) The collectee shall furnish his Permanent Account Number to the collector and both shall indicate the same in all the correspondence, bills, vouchers and other documents which are sent to each other.\n(6) Where the Permanent Account Number provided to the collector is invalid or does not belong to the collectee, it shall be deemed that the collectee has not furnished his Permanent Account Number to the collector and the provisions of sub-section (1) shall apply accordingly.\n(7) The provisions of this section shall not apply to a non-resident who does not have permanent establishment in India.\nExplanation.—For the purposes of this sub-section, the expression \"permanent establishment\" includes a fixed place of business through which the business of the enterprise is wholly or partly carried on.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_206CC_chunk_0",
+      "section_id": "income-tax-1961_section_206CC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "206CC",
+      "section_title": "Requirement to furnish Permanent Account number by collectee."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_22_chunk_0",
+    "section_id": "motor-vehicles_section_22",
+    "token_count": 495,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 22::Suspension or cancellation of driving licence on conviction.\n]\n\n\n(1) Without prejudice to the provisions of sub-section (3) of section 20 where a person, referred to in sub-section (1) of section 21 is convicted of an offence of causing, by such dangerous driving as is referred to in section 184 of any class or description of motor vehicle the death of, or grievous hurt to, one or more persons, the Court by which such person is convicted may cancel, or suspend for such period as it may think fit, the driving licence held by such person in so far as it relates to that class or description of motor vehicle.\n(2) Without prejudice to the provisions of sub-section (2) of section 20, if a person, having been previously convicted of an offence punishable under section 185 is again convicted of an offence punishable under that section, the Court, making such subsequent conviction, shall, by order, cancel the driving licence held by such person.\n(3) If a driving licence is cancelled or suspended under this section, the Court shall take the driving licence in its custody, endorse the cancellation or, as the case may be, suspension, thereon and send the driving licence so endorsed to the authority by which the licence was issued or last renewed and such authority shall, on receipt of the licence, keep the licence in its safe custody, and in the case of a suspended licence, return the licence to the holder thereof after the expiry of the period of suspension on an application made by him for such return:\nProvided that no such licence shall be returned unless the holder thereof has, after the expiry of the period of suspension, undergone and passed, to the satisfaction of the licensing authority by which the licence was issued or last renewed, a fresh test of competence to drive referred to in sub-section (3) of section 9 and produced a medical certificate in the same form and in the same manner as is referred to in sub-section (3) of section 8.\n(4) If a licence to drive a particular class or description of motor vehicles is cancelled or suspended under this section, the person holding such a licence shall be debarred from holding, or obtaining, any licence to drive such particular class or description of motor vehicles so long as the cancellation or suspension of the driving licence remains in force.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_22_chunk_0",
+      "section_id": "motor-vehicles_section_22",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "22",
+      "section_title": "Suspension or cancellation of driving licence on conviction."
+    }
+  }
+]

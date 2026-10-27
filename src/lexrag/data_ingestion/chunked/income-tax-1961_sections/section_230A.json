@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_230A_chunk_0",
+    "section_id": "income-tax-1961_section_230A",
+    "token_count": 38,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 230A::Restrictions on registration of transfers of immovable property in certain cases.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_230A_chunk_0",
+      "section_id": "income-tax-1961_section_230A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "230A",
+      "section_title": "Restrictions on registration of transfers of immovable property in certain cases."
+    }
+  }
+]

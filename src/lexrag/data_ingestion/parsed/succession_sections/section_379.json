@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-47.html",
+    "source_order": 47,
+    "article_order": 10,
+    "order": 380,
+    "stem": "section_379",
+    "heading_number": "Part X",
+    "heading_title": "Succession Certificates",
+    "heading_range": "ss. 370–390",
+    "heading_source": "group-head",
+    "article_number": "379",
+    "article_title": "Mode of collecting court-fees on certificates.",
+    "id": "succession_section_379"
+  },
+  "id": "succession_section_379",
+  "heading": {
+    "number": "Part X",
+    "title": "Succession Certificates",
+    "range": "ss. 370–390"
+  },
+  "article": {
+    "number": "379",
+    "title": "Mode of collecting court-fees on certificates.",
+    "content": "(1) Every application for a certificate or for the extension of a certificate shall be accompanied by a deposit of a sum equal to the fee payable under the Court-Fees Act, 1870 (7 of 1870), in respect of the certificate or extension applied for.\n(2) If the application is allowed, the sum deposited by the applicant shall be expended, under the direction of the Judge, in the purchase of the stamp to be used for denoting the fee payable as aforesaid.\n(3) Any sum received under sub-section (1) and not expended under sub-section (2) shall be refunded to the person who deposited it.\n",
+    "html": "<article class=\"provision\" data-n=\"379\" data-report=\"Section 379 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">379</span>Mode of collecting court-fees on certificates.</h3></div><p class=\"prov-cite\">Section 379  ·  Part X  ·  pages 93–94 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every application for a certificate or for the extension of a certificate shall be accompanied by a deposit of a sum equal to the fee payable under the Court-Fees Act, 1870 (7 of 1870), in respect of the certificate or extension applied for.</p><p class=\"lvl\">(2) If the application is allowed, the sum deposited by the applicant shall be expended, under the direction of the Judge, in the purchase of the stamp to be used for denoting the fee payable as aforesaid.</p><p class=\"lvl\">(3) Any sum received under sub-section (1) and not expended under sub-section (2) shall be refunded to the person who deposited it.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">379</span>Mode of collecting court-fees on certificates.</h3></div><p class=\"prov-cite\">Section 379  ·  Part X  ·  pages 93–94 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every application for a certificate or for the extension of a certificate shall be accompanied by a deposit of a sum equal to the fee payable under the Court-Fees Act, 1870 (7 of 1870), in respect of the certificate or extension applied for.</p><p class=\"lvl\">(2) If the application is allowed, the sum deposited by the applicant shall be expended, under the direction of the Judge, in the purchase of the stamp to be used for denoting the fee payable as aforesaid.</p><p class=\"lvl\">(3) Any sum received under sub-section (1) and not expended under sub-section (2) shall be refunded to the person who deposited it.</p></div>"
+  }
+}

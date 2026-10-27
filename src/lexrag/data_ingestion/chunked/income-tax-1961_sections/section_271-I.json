@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_271-I_chunk_0",
+    "section_id": "income-tax-1961_section_271-I",
+    "token_count": 98,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 271-I::Penalty for failure to furnish information or furnishing inaccurate information under section 195.\n]\n\n\nIf a person, who is required to furnish information under sub-section (6) of section 195, fails to furnish such information, or furnishes inaccurate information, the Assessing Officer may direct that such person shall pay, by way of penalty, a sum of one lakh rupees.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_271-I_chunk_0",
+      "section_id": "income-tax-1961_section_271-I",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "271-I",
+      "section_title": "Penalty for failure to furnish information or furnishing inaccurate information under section 195."
+    }
+  }
+]

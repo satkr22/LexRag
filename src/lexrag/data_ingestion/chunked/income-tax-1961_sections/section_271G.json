@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_271G_chunk_0",
+    "section_id": "income-tax-1961_section_271G",
+    "token_count": 134,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 271G::Penalty for failure to furnish information or document under section 92D.\n]\n\n\nIf any person who has entered into an international transaction or specified domestic transaction fails to furnish any such information or document as required by sub-section (3) of section 92D, the Assessing Officer or the Transfer Pricing Officer as referred to in section 92CA or the Commissioner (Appeals) may direct that such person shall pay, by way of penalty, a sum equal to two per cent of the value of the international transaction or specified domestic transaction for each such failure.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_271G_chunk_0",
+      "section_id": "income-tax-1961_section_271G",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "271G",
+      "section_title": "Penalty for failure to furnish information or document under section 92D."
+    }
+  }
+]

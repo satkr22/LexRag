@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_158B_chunk_0",
+    "section_id": "income-tax-1961_section_158B",
+    "token_count": 360,
+    "text": "[Act: income-tax-1961\n Chapter: Special Procedure for Assessment of Search Cases\n Section: 158B::Definitions.\n]\n\n\nIn this Chapter, unless the context otherwise requires,—\n(a) \"block period\" means the period comprising previous years relevant to six assessment years preceding the previous year in which the search was initiated under section 132 or any requisition was made under section 132A and also includes the period starting from the 1st day of April of the previous year in which search was initiated or requisition was made and ending on the date of the execution of the last of the authorisations for such search or such requisition;\n(b) \"undisclosed income\" includes any money, bullion, jewellery 90[, virtual digital asset] or other valuable article or thing or any expenditure or any income based on any entry in the books of account or other documents or transactions, where such money, bullion, jewellery 90[, virtual digital asset], valuable article, thing, entry in the books of account or other document or transaction represents wholly or partly income or property which has not been or would not have been disclosed for the purposes of this Act, or any expense, exemption, deduction or allowance claimed under this Act which is found to be incorrect, in respect of the block period.\nExplanation.—For the purposes of this Chapter, the last of the authorisations shall be deemed to have been executed,—\n(a) in the case of search, on the conclusion of search as recorded in the last panchnama drawn in relation to any person in whose case the warrant of authorisation has been issued;\n(b) in the case of requisition under section 132A, on the actual receipt of the books of account or other documents or assets by the Authorised Officer.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_158B_chunk_0",
+      "section_id": "income-tax-1961_section_158B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV-B",
+      "chapter_title": "Special Procedure for Assessment of Search Cases",
+      "section_number": "158B",
+      "section_title": "Definitions."
+    }
+  }
+]

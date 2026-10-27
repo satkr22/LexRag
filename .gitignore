@@ -5,9 +5,9 @@ __pycache__
 
 # my list
 
-*.json
-*.html
-*.htm
+# *.json
+# *.html
+# *.htm
 *.txt
 qdrant_db
 qdrant_db2

@@ -1,0 +1,248 @@
+{
+  "act": "legal-services",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/legal-services_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/legal-services_sections",
+  "count": 40,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "2 [Constitution of the National Legal Services Authority.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "3A",
+      "article_title": "Supreme Court Legal Services Committee.",
+      "file": "section_3A.json"
+    },
+    {
+      "order": 5,
+      "article_number": "4",
+      "article_title": "Functions of the Central Authority.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 6,
+      "article_number": "5",
+      "article_title": "Central Authority to work in coordination with other agencies.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 7,
+      "article_number": "6",
+      "article_title": "3 [Constitution of State Legal Services Authority.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 8,
+      "article_number": "7",
+      "article_title": "Functions of the State Authority.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 9,
+      "article_number": "8",
+      "article_title": "3 [State Authority to act in coordination with other agencies., etc., and be subject to directions given by the Central Authority.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 10,
+      "article_number": "8A",
+      "article_title": "High Court Legal Services Committee.",
+      "file": "section_8A.json"
+    },
+    {
+      "order": 11,
+      "article_number": "9",
+      "article_title": "District Legal Services Authority.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 12,
+      "article_number": "10",
+      "article_title": "Functions of the District Authority.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 13,
+      "article_number": "11",
+      "article_title": "District Authority to act in coordination with other agencies and be subject to directions given by the Central Authority, etc.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 14,
+      "article_number": "11A",
+      "article_title": "2 [Taluk Legal Services Committee.",
+      "file": "section_11A.json"
+    },
+    {
+      "order": 15,
+      "article_number": "11B",
+      "article_title": "Functions of Taluk Legal Services Committee.",
+      "file": "section_11B.json"
+    },
+    {
+      "order": 16,
+      "article_number": "12",
+      "article_title": "Criteria for giving legal services.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 17,
+      "article_number": "13",
+      "article_title": "Entitlement of legal services.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 18,
+      "article_number": "14",
+      "article_title": "Grants by the Central Government.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 19,
+      "article_number": "15",
+      "article_title": "National Legal Aid Fund.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 20,
+      "article_number": "16",
+      "article_title": "State Legal Aid Fund.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 21,
+      "article_number": "17",
+      "article_title": "District Legal Aid Fund.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 22,
+      "article_number": "18",
+      "article_title": "Accounts and audit.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 23,
+      "article_number": "19",
+      "article_title": "5 [Organisation of Lok Adalats.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 24,
+      "article_number": "20",
+      "article_title": "Cognizance of cases by Lok Adalats.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 25,
+      "article_number": "21",
+      "article_title": "Award of Lok Adalat.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 26,
+      "article_number": "22",
+      "article_title": "Powers of 2 [Lok Adalat or Permanent Lok Adalat.]",
+      "file": "section_22.json"
+    },
+    {
+      "order": 27,
+      "article_number": "22A",
+      "article_title": "Definitions.",
+      "file": "section_22A.json"
+    },
+    {
+      "order": 28,
+      "article_number": "22B",
+      "article_title": "Establishment of Permanent Lok Adalats.",
+      "file": "section_22B.json"
+    },
+    {
+      "order": 29,
+      "article_number": "22C",
+      "article_title": "Cognizance of cases by Permanent Lok Adalat.",
+      "file": "section_22C.json"
+    },
+    {
+      "order": 30,
+      "article_number": "22D",
+      "article_title": "Procedure of Permanent Lok Adalat.",
+      "file": "section_22D.json"
+    },
+    {
+      "order": 31,
+      "article_number": "22E",
+      "article_title": "Award of Permanent Lok Adalat to be final.",
+      "file": "section_22E.json"
+    },
+    {
+      "order": 32,
+      "article_number": "23",
+      "article_title": "1 [Members and staff of Authorities, Committees and Lok Adalats to be public servants.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 33,
+      "article_number": "24",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 34,
+      "article_number": "25",
+      "article_title": "Act to have overriding effect.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 35,
+      "article_number": "26",
+      "article_title": "Power to remove difficulties.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 36,
+      "article_number": "27",
+      "article_title": "1 [Power of Central Government to make rules.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 37,
+      "article_number": "28",
+      "article_title": "Power of State Government to make rules.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 38,
+      "article_number": "29",
+      "article_title": "Power of Central Authority to make regulations.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 39,
+      "article_number": "29A",
+      "article_title": "Power of State Authority to make regulations.",
+      "file": "section_29A.json"
+    },
+    {
+      "order": 40,
+      "article_number": "30",
+      "article_title": "Laying of rules and regulations.",
+      "file": "section_30.json"
+    }
+  ]
+}

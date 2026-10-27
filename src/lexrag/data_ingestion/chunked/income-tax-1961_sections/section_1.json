@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_1_chunk_0",
+    "section_id": "income-tax-1961_section_1",
+    "token_count": 84,
+    "text": "[Act: income-tax-1961\n Chapter: Preliminary\n Section: 1::Short title, extent and commencement.\n]\n\n\n(1) This Act may be called the Income-tax Act, 1961.\n(2) It extends to the whole of India.\n(3) Save as otherwise provided in this Act, it shall come into force on the 1st day of April, 1962.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_1_chunk_0",
+      "section_id": "income-tax-1961_section_1",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement."
+    }
+  }
+]

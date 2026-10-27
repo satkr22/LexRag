@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 93,
+    "order": 156,
+    "stem": "section_139",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "139",
+    "article_title": "Conferment on the Supreme Court of powers to issue certain writs",
+    "id": "constitution_section_139"
+  },
+  "id": "constitution_section_139",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "139",
+    "title": "Conferment on the Supreme Court of powers to issue certain writs",
+    "content": "Parliament may by law confer on the Supreme Court power to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them, for any purposes other than those mentioned in clause (2) of article 32.\n",
+    "html": "<article class=\"provision\" data-n=\"139\" data-report=\"Article 139 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">139</span>Conferment on the Supreme Court of powers to issue certain writs</h3></div><p class=\"prov-cite\">Article 139 · Part V</p><div class=\"prov-body\"><p>Parliament may by law confer on the Supreme Court power to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them, for any purposes other than those mentioned in clause (2) of article 32.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">139</span>Conferment on the Supreme Court of powers to issue certain writs</h3></div><p class=\"prov-cite\">Article 139 · Part V</p><div class=\"prov-body\"><p>Parliament may by law confer on the Supreme Court power to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them, for any purposes other than those mentioned in clause (2) of article 32.</p></div>"
+  }
+}

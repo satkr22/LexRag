@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "dpdp_section_9_chunk_0",
+    "section_id": "dpdp_section_9",
+    "token_count": 331,
+    "text": "[Act: dpdp\n Chapter: Obligations of Data Fiduciary\n Section: 9::Processing of personal data of children.\n]\n\n\n(1) The Data Fiduciary shall, before processing any personal data of a child or a person with disability who has a lawful guardian obtain verifiable consent of the parent of such child or the lawful guardian, as the case may be, in such manner as may be prescribed.\nExplanation.—For the purpose of this sub-section, the expression “consent of the parent” includes the consent of lawful guardian, wherever applicable.\n(2) A Data Fiduciary shall not undertake such processing of personal data that is likely to cause any detrimental effect on the well-being of a child.\n(3) A Data Fiduciary shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children.\n(4) The provisions of sub-sections (1) and (3) shall not be applicable to processing of personal data of a child by such classes of Data Fiduciaries or for such purposes, and subject to such conditions, as may be prescribed.\n(5) The Central Government may, if satisfied that a Data Fiduciary has ensured that its processing of personal data of children is done in a manner that is verifiably safe, notify for such processing by such Data Fiduciary the age above which that Data Fiduciary shall be exempt from the applicability of all or any of the obligations under sub-sections (1) and (3) in respect of processing by that Data Fiduciary as the notification may specify.",
+    "metadata": {
+      "chunk_id": "dpdp_section_9_chunk_0",
+      "section_id": "dpdp_section_9",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Obligations of Data Fiduciary",
+      "section_number": "9",
+      "section_title": "Processing of personal data of children."
+    }
+  }
+]

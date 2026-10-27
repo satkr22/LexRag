@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_239_chunk_0",
+    "section_id": "income-tax-1961_section_239",
+    "token_count": 61,
+    "text": "[Act: income-tax-1961\n Chapter: Refunds\n Section: 239::Form of claim for refund and limitation.\n]\n\n\n(1) Every claim for refund under this Chapter shall be made by furnishing return in accordance with the provisions of section 139.\n(2) [***]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_239_chunk_0",
+      "section_id": "income-tax-1961_section_239",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Refunds",
+      "section_number": "239",
+      "section_title": "Form of claim for refund and limitation."
+    }
+  }
+]

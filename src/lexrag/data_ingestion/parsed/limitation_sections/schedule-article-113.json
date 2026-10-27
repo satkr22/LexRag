@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-113.html",
+    "source_order": 113,
+    "article_order": 1,
+    "order": 113,
+    "stem": "schedule-article-113",
+    "heading_number": null,
+    "heading_title": "First Division · Part X · Suits for Which There Is No Prescribed Period",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "113",
+    "article_title": "Three years.",
+    "id": "limitation_schedule-article-113"
+  },
+  "id": "limitation_schedule-article-113",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part X · Suits for Which There Is No Prescribed Period",
+    "range": null
+  },
+  "article": {
+    "number": "113",
+    "title": "Three years.",
+    "content": "Any suit for which no period of limitation is provided elsewhere in this Schedule.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the right to sue accrues.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>113<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part X—Suits for Which There Is No Prescribed Period</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">Any suit for which no period of limitation is provided elsewhere in this Schedule.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the right to sue accrues.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>113<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part X—Suits for Which There Is No Prescribed Period</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">Any suit for which no period of limitation is provided elsewhere in this Schedule.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the right to sue accrues.</p></div></div></div></div>"
+  }
+}

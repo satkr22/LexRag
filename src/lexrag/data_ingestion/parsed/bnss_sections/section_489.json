@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-35.html",
+    "source_order": 35,
+    "article_order": 12,
+    "order": 489,
+    "stem": "section_489",
+    "heading_number": "Chapter XXXV",
+    "heading_title": "Provisions as to Bail and Bonds",
+    "heading_range": "478 – 496",
+    "heading_source": "group-head",
+    "article_number": "489",
+    "article_title": "Discharge of sureties",
+    "id": "bnss_section_489"
+  },
+  "id": "bnss_section_489",
+  "heading": {
+    "number": "Chapter XXXV",
+    "title": "Provisions as to Bail and Bonds",
+    "range": "478 – 496"
+  },
+  "article": {
+    "number": "489",
+    "title": "Discharge of sureties",
+    "content": "(1)All or any sureties for the attendance and appearance of a person released on bail may at any time apply to a Magistrate to discharge the bond, either wholly or so far as relates to the applicants.\n(2)On such application being made, the Magistrate shall issue his warrant of arrest directing that the person so released be brought before him.\n(3)On the appearance of such person pursuant to the warrant, or on his voluntary surrender, the Magistrate shall direct the bond to be discharged either wholly or so far as relates to the applicants, and shall call upon such person to find other sufficient sureties, and, if he fails to do so, may commit him to jail.\n",
+    "html": "<article class=\"provision\" data-n=\"489\" data-report=\"Section 489 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">489</span>Discharge of sureties</h3></div><p class=\"prov-cite\">Section 489 · Chapter XXXV</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>All or any sureties for the attendance and appearance of a person released on bail may at any time apply to a Magistrate to discharge the bond, either wholly or so far as relates to the applicants.</p><p><span class=\"lbl\">(2)</span>On such application being made, the Magistrate shall issue his warrant of arrest directing that the person so released be brought before him.</p><p><span class=\"lbl\">(3)</span>On the appearance of such person pursuant to the warrant, or on his voluntary surrender, the Magistrate shall direct the bond to be discharged either wholly or so far as relates to the applicants, and shall call upon such person to find other sufficient sureties, and, if he fails to do so, may commit him to jail.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">489</span>Discharge of sureties</h3></div><p class=\"prov-cite\">Section 489 · Chapter XXXV</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>All or any sureties for the attendance and appearance of a person released on bail may at any time apply to a Magistrate to discharge the bond, either wholly or so far as relates to the applicants.</p><p><span class=\"lbl\">(2)</span>On such application being made, the Magistrate shall issue his warrant of arrest directing that the person so released be brought before him.</p><p><span class=\"lbl\">(3)</span>On the appearance of such person pursuant to the warrant, or on his voluntary surrender, the Magistrate shall direct the bond to be discharged either wholly or so far as relates to the applicants, and shall call upon such person to find other sufficient sureties, and, if he fails to do so, may commit him to jail.</p></div>"
+  }
+}

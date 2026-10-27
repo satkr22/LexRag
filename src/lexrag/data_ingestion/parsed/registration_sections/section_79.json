@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "registration",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "registration_sections/section-79.html",
+    "source_order": 82,
+    "article_order": 1,
+    "order": 82,
+    "stem": "section_79",
+    "heading_number": "Part XIII",
+    "heading_title": "Of the Fees for Registration, Searches and Copies",
+    "heading_range": "ss. 78–80",
+    "heading_source": "manifest",
+    "article_number": "79",
+    "article_title": "Publication of fees.",
+    "id": "registration_section_79"
+  },
+  "id": "registration_section_79",
+  "heading": {
+    "number": "Part XIII",
+    "title": "Of the Fees for Registration, Searches and Copies",
+    "range": "ss. 78–80"
+  },
+  "article": {
+    "number": "79",
+    "title": "Publication of fees.",
+    "content": "A table of the fees so payable shall be published in the Official Gazette, and a copy thereof in English and the vernacular language of the district shall be exposed to public view in every registration office.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>Publication of fees.</h3></div><p class=\"prov-cite\">Section 79  ·  Part XIII  ·  page 48 of the Act</p><div class=\"prov-body\"><p>A table of the fees so payable shall be published in the Official Gazette, and a copy thereof in English and the vernacular language of the district shall be exposed to public view in every registration office.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>Publication of fees.</h3></div><p class=\"prov-cite\">Section 79  ·  Part XIII  ·  page 48 of the Act</p><div class=\"prov-body\"><p>A table of the fees so payable shall be published in the Official Gazette, and a copy thereof in English and the vernacular language of the district shall be exposed to public view in every registration office.</p></div>"
+  }
+}

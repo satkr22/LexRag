@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "hindu-succession_section_9_chunk_0",
+    "section_id": "hindu-succession_section_9",
+    "token_count": 93,
+    "text": "[Act: hindu-succession\n Chapter: Intestate Succession\n Section: 9::Order of succession among heirs in the Schedule.\n]\n\n\nAmong the heirs specified in the Schedule, those in class I shall take simultaneously and to the exclusion of all other heirs; those in the first entry in class II shall be preferred to those in the second entry; those in the second entry shall be preferred to those in the third entry; and so on in succession.",
+    "metadata": {
+      "chunk_id": "hindu-succession_section_9_chunk_0",
+      "section_id": "hindu-succession_section_9",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "hindu-succession",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Intestate Succession",
+      "section_number": "9",
+      "section_title": "Order of succession among heirs in the Schedule."
+    }
+  }
+]

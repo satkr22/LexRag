@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-29.html",
+    "source_order": 29,
+    "article_order": 6,
+    "order": 492,
+    "stem": "section_440",
+    "heading_number": "Chapter XXVIII",
+    "heading_title": "Special Courts",
+    "heading_range": "ss. 435–446B",
+    "heading_source": "group-head",
+    "article_number": "440",
+    "article_title": "Transitional provisions.",
+    "id": "companies_section_440"
+  },
+  "id": "companies_section_440",
+  "heading": {
+    "number": "Chapter XXVIII",
+    "title": "Special Courts",
+    "range": "ss. 435–446B"
+  },
+  "article": {
+    "number": "440",
+    "title": "Transitional provisions.",
+    "content": "Any offence committed under this Act, which is triable by a Special Court shall, until a Special Court is established, be tried by a 3[Court of Session or the Court of Metropolitan Magistrate or a Judicial Magistrate of the First Class, as the case may be] exercising jurisdiction over the area, notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974):\nProvided that nothing contained in this section shall affect the powers of the High Court under section 407 of the Code to transfer any case or class of cases taken cognizance by a 1[Court of Session or the Court of Metropolitan Magistrate or a Judicial Magistrate of the First Class, as the case may be] under this section.\n",
+    "html": "<article class=\"provision\" data-n=\"440\" data-report=\"Section 440 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">440</span>Transitional provisions.</h3></div><p class=\"prov-cite\">Section 440  ·  Chapter XXVIII  ·  page 241 of the Act</p><div class=\"prov-body\"><p>Any offence committed under this Act, which is triable by a Special Court shall, until a Special Court is established, be tried by a <sup>3</sup>[Court of Session or the Court of Metropolitan Magistrate or a Judicial Magistrate of the First Class, as the case may be] exercising jurisdiction over the area, notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974):</p><p class=\"prvso\">Provided that nothing contained in this section shall affect the powers of the High Court under section 407 of the Code to transfer any case or class of cases taken cognizance by a <sup>1</sup>[Court of Session or the Court of Metropolitan Magistrate or a Judicial Magistrate of the First Class, as the case may be] under this section.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 1 of 2018, s. 87 for “deemed to be a Court of Session” (w.e.f. 7-5-2018).</p><p class=\"fn\"><sup>3</sup> Subs. by Act 1 of 2018, s. 89, for “Court of Session” (w.e.f. 7-5-2018).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">440</span>Transitional provisions.</h3></div><p class=\"prov-cite\">Section 440  ·  Chapter XXVIII  ·  page 241 of the Act</p><div class=\"prov-body\"><p>Any offence committed under this Act, which is triable by a Special Court shall, until a Special Court is established, be tried by a <sup>3</sup>[Court of Session or the Court of Metropolitan Magistrate or a Judicial Magistrate of the First Class, as the case may be] exercising jurisdiction over the area, notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974):</p><p class=\"prvso\">Provided that nothing contained in this section shall affect the powers of the High Court under section 407 of the Code to transfer any case or class of cases taken cognizance by a <sup>1</sup>[Court of Session or the Court of Metropolitan Magistrate or a Judicial Magistrate of the First Class, as the case may be] under this section.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 1 of 2018, s. 87 for “deemed to be a Court of Session” (w.e.f. 7-5-2018).</p><p class=\"fn\"><sup>3</sup> Subs. by Act 1 of 2018, s. 89, for “Court of Session” (w.e.f. 7-5-2018).</p></div></div>"
+  }
+}

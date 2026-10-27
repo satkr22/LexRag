@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_292BC_chunk_0",
+    "section_id": "income-tax-1961_section_292BC",
+    "token_count": 161,
+    "text": "[Act: income-tax-1961\n Chapter: Miscellaneous\n Section: 292BC::Circumstances in which approvals by income-tax authority not to be invalid.\n]\n\n\nNotwithstanding anything contained in this Act or in any judgment, order or decree of any Court, for the removal of doubts, it is hereby clarified that any approval given by an income-tax authority in relation to any assessment, reassessment or recomputation proceedings under this Act shall be deemed to be administrative and supervisory in nature and shall not be invalid or shall not be deemed to be invalid by reason of any insufficiency of the reasons recorded or by reason of any defect in the form or manner of its authentication or communication including whether digital signature have been appended to such\napproval or not, where such approval is granted electronically.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_292BC_chunk_0",
+      "section_id": "income-tax-1961_section_292BC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "292BC",
+      "section_title": "Circumstances in which approvals by income-tax authority not to be invalid."
+    }
+  }
+]

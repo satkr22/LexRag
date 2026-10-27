@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-137.html",
+    "source_order": 137,
+    "article_order": 1,
+    "order": 137,
+    "stem": "section_137",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Witnesses",
+    "heading_range": "124 – 139",
+    "heading_source": "manifest",
+    "article_number": "137",
+    "article_title": "Witness not excused from answering on ground that answer will criminate",
+    "id": "bsa_section_137"
+  },
+  "id": "bsa_section_137",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Witnesses",
+    "range": "124 – 139"
+  },
+  "article": {
+    "number": "137",
+    "title": "Witness not excused from answering on ground that answer will criminate",
+    "content": "A witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any suit or in any civil or criminal proceeding, upon the ground that the answer to such question will criminate, or may tend directly or indirectly to criminate, such witness, or that it will expose, or tend directly or indirectly to expose, such witness to a penalty or forfeiture of any kind:\nProvisoProvided that no such answer, which a witness shall be compelled to give, shall subject him to any arrest or prosecution, or be proved against him in any criminal proceeding, except a prosecution forgiving false evidence by such answer.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">137</span>Witness not excused from answering on ground that answer will criminate</h3></div><p class=\"prov-cite\">Section 137 · Part IV · Chapter IX</p><div class=\"prov-body\"><p>A witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any suit or in any civil or criminal proceeding, upon the ground that the answer to such question will criminate, or may tend directly or indirectly to criminate, such witness, or that it will expose, or tend directly or indirectly to expose, such witness to a penalty or forfeiture of any kind:</p><p><span class=\"named\">Proviso</span>Provided that no such answer, which a witness shall be compelled to give, shall subject him to any arrest or prosecution, or be proved against him in any criminal proceeding, except a prosecution forgiving false evidence by such answer.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">137</span>Witness not excused from answering on ground that answer will criminate</h3></div><p class=\"prov-cite\">Section 137 · Part IV · Chapter IX</p><div class=\"prov-body\"><p>A witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any suit or in any civil or criminal proceeding, upon the ground that the answer to such question will criminate, or may tend directly or indirectly to criminate, such witness, or that it will expose, or tend directly or indirectly to expose, such witness to a penalty or forfeiture of any kind:</p><p><span class=\"named\">Proviso</span>Provided that no such answer, which a witness shall be compelled to give, shall subject him to any arrest or prosecution, or be proved against him in any criminal proceeding, except a prosecution forgiving false evidence by such answer.</p></div>"
+  }
+}

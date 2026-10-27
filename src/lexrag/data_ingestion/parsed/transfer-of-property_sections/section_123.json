@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-123.html",
+    "source_order": 132,
+    "article_order": 1,
+    "order": 132,
+    "stem": "section_123",
+    "heading_number": "Chapter VII",
+    "heading_title": "Of Gifts",
+    "heading_range": "ss. 122–129",
+    "heading_source": "manifest",
+    "article_number": "123",
+    "article_title": "Transfer how effected.",
+    "id": "transfer-of-property_section_123"
+  },
+  "id": "transfer-of-property_section_123",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Of Gifts",
+    "range": "ss. 122–129"
+  },
+  "article": {
+    "number": "123",
+    "title": "Transfer how effected.",
+    "content": "For the purpose of making a gift of immoveable property, the transfer must be effected by a registered instrument signed by or on behalf of the donor, and attested by at least two witnesses. For the purpose of making a gift of moveable property, the transfer may be effected either by a registered instrument signed as aforesaid or by delivery. Such delivery may be made in the same way as goods sold may be delivered.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Transfer how effected.</h3></div><p class=\"prov-cite\">Section 123  ·  Chapter VII  ·  page 43 of the Act</p><div class=\"prov-body\"><p>For the purpose of making a gift of immoveable property, the transfer must be effected by a registered instrument signed by or on behalf of the donor, and attested by at least two witnesses. For the purpose of making a gift of moveable property, the transfer may be effected either by a registered instrument signed as aforesaid or by delivery. Such delivery may be made in the same way as goods sold may be delivered.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Transfer how effected.</h3></div><p class=\"prov-cite\">Section 123  ·  Chapter VII  ·  page 43 of the Act</p><div class=\"prov-body\"><p>For the purpose of making a gift of immoveable property, the transfer must be effected by a registered instrument signed by or on behalf of the donor, and attested by at least two witnesses. For the purpose of making a gift of moveable property, the transfer may be effected either by a registered instrument signed as aforesaid or by delivery. Such delivery may be made in the same way as goods sold may be delivered.</p></div>"
+  }
+}

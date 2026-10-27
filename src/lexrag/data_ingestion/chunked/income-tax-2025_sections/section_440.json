@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_440_chunk_0",
+    "section_id": "income-tax-2025_section_440",
+    "token_count": 510,
+    "text": "[Act: income-tax-2025\n Chapter: Penalties\n Section: 440::Waiver of penalty and immunity from prosecution.\n]\n\n\n8a [(1) An assessee may make an application to the Assessing Officer to grant waiver of penalty levied under section 439 and immunity from initiation of proceedings under section 478 or 479 on fulfilment of the following conditions: ––\n  (a) the tax and interest payable as per the order of assessment under section 270(10) or reassessment under section 279, has been paid within the period specified in the notice of demand;\n  (b) where penalty has been levied under the circumstances referred to in section 439(11)(a) to (f), additional income-tax amounting to 100% of the amount of tax payable on under-reported income has been paid within the period specified in the notice of demand, in lieu of such penalty;\n  (c) where penalty has been levied under the circumstances referred to in section 439(11)(g), additional income-tax amounting to 120% of the amount of tax payable on under-reported income has been paid within the period specified in the notice of demand, in lieu of such penalty; and\n  (d) no appeal has been filed against the order of assessment or reassessment and levy of penalty referred to in clauses (a), (b) and (c).\n  (2) An application referred in sub-section (1) shall be made within one month from the end of the month in which the order referred to in the said sub-section is received by the assessee, in such form and verified in such manner, as may be prescribed.\n  (3) The Assessing Officer shall, on fulfilment of the conditions as specified in sub-section (1), and after the expiry of the period of filing appeal as specified in section 358(3)(a), grant waiver of penalty under section 439 and immunity from initiation of proceedings under section 478 or 479.\n  (4) No waiver or immunity under sub-section (3) shall be granted if any proceeding has been initiated under Chapter XXII.]\n  (5) The Assessing Officer, shall pass an order accepting or rejecting the application as referred to in sub-section (1) within three months from the end of the month of its receipt.\n  (6) No order of rejection under sub-section (5) shall be made without giving the assessee an opportunity of being heard.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_440_chunk_0",
+      "section_id": "income-tax-2025_section_440",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties",
+      "section_number": "440",
+      "section_title": "Waiver of penalty and immunity from prosecution."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_440_chunk_1",
+    "section_id": "income-tax-2025_section_440",
+    "token_count": 153,
+    "text": "[Act: income-tax-2025\n Chapter: Penalties\n Section: 440::Waiver of penalty and immunity from prosecution.\n]\n\n\n8a [(1) An assessee may make an application to the Assessing Officer to grant waiver of penalty levied under section 439 and immunity from initiation of proceedings under section 478 or 479 on fulfilment of the following conditions: ––\n  (7) The order made under sub-section (5) shall be final.\n  (8) No appeal under section 356 or 357 or an application for revision under section 378 shall be admissible against the order referred to in sub-section (1)(a), if an order under sub-section (5) has been made accepting the application.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_440_chunk_1",
+      "section_id": "income-tax-2025_section_440",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties",
+      "section_number": "440",
+      "section_title": "Waiver of penalty and immunity from prosecution."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-19.html",
+    "source_order": 19,
+    "article_order": 2,
+    "order": 249,
+    "stem": "section_249",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Trial before a Court of Session",
+    "heading_range": "248 – 260",
+    "heading_source": "group-head",
+    "article_number": "249",
+    "article_title": "Opening case for prosecution",
+    "id": "bnss_section_249"
+  },
+  "id": "bnss_section_249",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Trial before a Court of Session",
+    "range": "248 – 260"
+  },
+  "article": {
+    "number": "249",
+    "title": "Opening case for prosecution",
+    "content": "When the accused appears or is brought before the Court, in pursuance of a commitment of the case under section 232, or under any other law for the time being in force, the prosecutor shall open his case by describing the charge brought against the accused and stating by what evidence he proposes to prove the guilt of the accused.\n",
+    "html": "<article class=\"provision\" data-n=\"249\" data-report=\"Section 249 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">249</span>Opening case for prosecution</h3></div><p class=\"prov-cite\">Section 249 · Chapter XIX</p><div class=\"prov-body\"><p>When the accused appears or is brought before the Court, in pursuance of a commitment of the case under section 232, or under any other law for the time being in force, the prosecutor shall open his case by describing the charge brought against the accused and stating by what evidence he proposes to prove the guilt of the accused.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">249</span>Opening case for prosecution</h3></div><p class=\"prov-cite\">Section 249 · Chapter XIX</p><div class=\"prov-body\"><p>When the accused appears or is brought before the Court, in pursuance of a commitment of the case under section 232, or under any other law for the time being in force, the prosecutor shall open his case by describing the charge brought against the accused and stating by what evidence he proposes to prove the guilt of the accused.</p></div>"
+  }
+}

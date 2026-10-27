@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "domestic-violence",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "domestic-violence_sections/section-15.html",
+    "source_order": 15,
+    "article_order": 1,
+    "order": 15,
+    "stem": "section_15",
+    "heading_number": "Chapter IV",
+    "heading_title": "Procedure for Obtainingorders of Reliefs",
+    "heading_range": "ss. 12–29",
+    "heading_source": "manifest",
+    "article_number": "15",
+    "article_title": "Assistance of welfare expert.",
+    "id": "domestic-violence_section_15"
+  },
+  "id": "domestic-violence_section_15",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Procedure for Obtainingorders of Reliefs",
+    "range": "ss. 12–29"
+  },
+  "article": {
+    "number": "15",
+    "title": "Assistance of welfare expert.",
+    "content": "In any proceeding under this Act, the Magistrate may secure the services of such person, preferably a woman, whether related to the aggrieved person or not, including a person engaged in promoting family welfare as he thinks fit, for the purpose of assisting him in discharging his functions.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Assistance of welfare expert.</h3></div><p class=\"prov-cite\">Section 15  ·  Chapter IV  ·  page 8 of the Act</p><div class=\"prov-body\"><p>In any proceeding under this Act, the Magistrate may secure the services of such person, preferably a woman, whether related to the aggrieved person or not, including a person engaged in promoting family welfare as he thinks fit, for the purpose of assisting him in discharging his functions.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">15</span>Assistance of welfare expert.</h3></div><p class=\"prov-cite\">Section 15  ·  Chapter IV  ·  page 8 of the Act</p><div class=\"prov-body\"><p>In any proceeding under this Act, the Magistrate may secure the services of such person, preferably a woman, whether related to the aggrieved person or not, including a person engaged in promoting family welfare as he thinks fit, for the purpose of assisting him in discharging his functions.</p></div>"
+  }
+}

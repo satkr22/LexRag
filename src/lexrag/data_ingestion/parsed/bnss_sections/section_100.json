@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-07.html",
+    "source_order": 7,
+    "article_order": 7,
+    "order": 100,
+    "stem": "section_100",
+    "heading_number": "Chapter VII",
+    "heading_title": "Processes to Compel the Production of Things",
+    "heading_range": "94 – 110",
+    "heading_source": "group-head",
+    "article_number": "100",
+    "article_title": "Search for persons wrongfully confined",
+    "id": "bnss_section_100"
+  },
+  "id": "bnss_section_100",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Processes to Compel the Production of Things",
+    "range": "94 – 110"
+  },
+  "article": {
+    "number": "100",
+    "title": "Search for persons wrongfully confined",
+    "content": "If any District Magistrate, Sub-divisional Magistrate or Magistrate of the first class has reason to believe that any person is confined under such circumstances that the confinement amounts to an offence, he may issue a search-warrant, and the person to whom such warrant is directed may search for the person so confined; and such search shall be made in accordance therewith, and the person, if found, shall be immediately taken before a Magistrate, who shall make such order as in the circumstances of the case seems proper.\n",
+    "html": "<article class=\"provision\" data-n=\"100\" data-report=\"Section 100 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">100</span>Search for persons wrongfully confined</h3></div><p class=\"prov-cite\">Section 100 · Chapter VII · Search-warrants</p><div class=\"prov-body\"><p>If any District Magistrate, Sub-divisional Magistrate or Magistrate of the first class has reason to believe that any person is confined under such circumstances that the confinement amounts to an offence, he may issue a search-warrant, and the person to whom such warrant is directed may search for the person so confined; and such search shall be made in accordance therewith, and the person, if found, shall be immediately taken before a Magistrate, who shall make such order as in the circumstances of the case seems proper.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">100</span>Search for persons wrongfully confined</h3></div><p class=\"prov-cite\">Section 100 · Chapter VII · Search-warrants</p><div class=\"prov-body\"><p>If any District Magistrate, Sub-divisional Magistrate or Magistrate of the first class has reason to believe that any person is confined under such circumstances that the confinement amounts to an offence, he may issue a search-warrant, and the person to whom such warrant is directed may search for the person so confined; and such search shall be made in accordance therewith, and the person, if found, shall be immediately taken before a Magistrate, who shall make such order as in the circumstances of the case seems proper.</p></div>"
+  }
+}

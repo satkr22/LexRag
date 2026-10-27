@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_43_chunk_0",
+    "section_id": "negotiable-instruments_section_43",
+    "token_count": 245,
+    "text": "[Act: negotiable-instruments\n Chapter: Parties to Notes, Bills and Cheques.\n Section: 43::Negotiable instrument made, etc., without consideration.\n]\n\n\nA negotiable instrument made, drawn, accepted, indorsed or transferred without consideration, or for a consideration which fails, creates no obligation of payment between the parties to the transaction. But if any such party has transferred the instrument with or without indorsement to a holder for consideration, such holder, and every subsequent holder deriving title from him, may recover the amount due on such instrument from the transferor for consideration or any prior party thereto.\nException I.—No party for whose accommodation a negotiable instrument has been made, drawn, accepted or indorsed can, if he have paid the amount thereof, recover thereon such amount from any person who became a party to such instrument for his accommodation.\nException II.—No party to the instrument who has induced any other party to make, draw, accept, indorse or transfer the same to him for a consideration which he has failed to pay or perform in full shall recover thereon an amount exceeding the value of the consideration (if any) which he has actually paid or performed.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_43_chunk_0",
+      "section_id": "negotiable-instruments_section_43",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Parties to Notes, Bills and Cheques.",
+      "section_number": "43",
+      "section_title": "Negotiable instrument made, etc., without consideration."
+    }
+  }
+]

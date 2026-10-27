@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-25.html",
+    "source_order": 25,
+    "article_order": 4,
+    "order": 310,
+    "stem": "section_310",
+    "heading_number": "Chapter XXV",
+    "heading_title": "Evidence in Inquiries and Trials",
+    "heading_range": "307 – 336",
+    "heading_source": "group-head",
+    "article_number": "310",
+    "article_title": "Record in warrant-cases",
+    "id": "bnss_section_310"
+  },
+  "id": "bnss_section_310",
+  "heading": {
+    "number": "Chapter XXV",
+    "title": "Evidence in Inquiries and Trials",
+    "range": "307 – 336"
+  },
+  "article": {
+    "number": "310",
+    "title": "Record in warrant-cases",
+    "content": "(1)In all warrant-cases tried before a Magistrate, the evidence of each witness shall, as his examination proceeds, be taken down in writing either by the Magistrate himself or by his dictation in open Court or, where he is unable to do so owing to a physical or other incapacity, under his direction and superintendence, by an officer of the Court appointed by him in this behalf:\nProvisoProvided that evidence of a witness under this sub-section may also be recorded by audio-video electronic means in the presence of the advocate of the person accused of the offence.\n(2)Where the Magistrate causes the evidence to be taken down, he shall record a certificate that the evidence could not be taken down by himself for the reasons referred to in sub-section (1).\n(3)Such evidence shall ordinarily be taken down in the form of a narrative; but the Magistrate may, in his discretion take down, or cause to be taken down, any part of such evidence in the form of question and answer.\n(4)The evidence so taken down shall be signed by the Magistrate and shall form part of the record.\n",
+    "html": "<article class=\"provision\" data-n=\"310\" data-report=\"Section 310 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">310</span>Record in warrant-cases</h3></div><p class=\"prov-cite\">Section 310 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In all warrant-cases tried before a Magistrate, the evidence of each witness shall, as his examination proceeds, be taken down in writing either by the Magistrate himself or by his dictation in open Court or, where he is unable to do so owing to a physical or other incapacity, under his direction and superintendence, by an officer of the Court appointed by him in this behalf:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that evidence of a witness under this sub-section may also be recorded by audio-video electronic means in the presence of the advocate of the person accused of the offence.</p><p><span class=\"lbl\">(2)</span>Where the Magistrate causes the evidence to be taken down, he shall record a certificate that the evidence could not be taken down by himself for the reasons referred to in sub-section (1).</p><p><span class=\"lbl\">(3)</span>Such evidence shall ordinarily be taken down in the form of a narrative; but the Magistrate may, in his discretion take down, or cause to be taken down, any part of such evidence in the form of question and answer.</p><p><span class=\"lbl\">(4)</span>The evidence so taken down shall be signed by the Magistrate and shall form part of the record.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">310</span>Record in warrant-cases</h3></div><p class=\"prov-cite\">Section 310 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>In all warrant-cases tried before a Magistrate, the evidence of each witness shall, as his examination proceeds, be taken down in writing either by the Magistrate himself or by his dictation in open Court or, where he is unable to do so owing to a physical or other incapacity, under his direction and superintendence, by an officer of the Court appointed by him in this behalf:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that evidence of a witness under this sub-section may also be recorded by audio-video electronic means in the presence of the advocate of the person accused of the offence.</p><p><span class=\"lbl\">(2)</span>Where the Magistrate causes the evidence to be taken down, he shall record a certificate that the evidence could not be taken down by himself for the reasons referred to in sub-section (1).</p><p><span class=\"lbl\">(3)</span>Such evidence shall ordinarily be taken down in the form of a narrative; but the Magistrate may, in his discretion take down, or cause to be taken down, any part of such evidence in the form of question and answer.</p><p><span class=\"lbl\">(4)</span>The evidence so taken down shall be signed by the Magistrate and shall form part of the record.</p></div>"
+  }
+}

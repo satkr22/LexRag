@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-14.html",
+    "source_order": 14,
+    "article_order": 7,
+    "order": 325,
+    "stem": "section_250",
+    "heading_number": "Part XI",
+    "heading_title": "Relations between the Union and the States",
+    "heading_range": "245 – 263",
+    "heading_source": "group-head",
+    "article_number": "250",
+    "article_title": "Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation",
+    "id": "constitution_section_250"
+  },
+  "id": "constitution_section_250",
+  "heading": {
+    "number": "Part XI",
+    "title": "Relations between the Union and the States",
+    "range": "245 – 263"
+  },
+  "article": {
+    "number": "250",
+    "title": "Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation",
+    "content": "(1)Notwithstanding anything in this Chapter, Parliament shall, while a Proclamation of Emergency is in operation, have power to make laws for the whole or any part of the territory of India with respect to 1[goods and services tax provided under article 246A or] any of the matters enumerated in the State List.\n(2)A law made by Parliament which Parliament would not but for the issue of a Proclamation of Emergency have been competent to make shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the Proclamation has ceased to operate, except as respects things done or omitted to be done before the expiration of the said period.\n",
+    "html": "<article class=\"provision\" data-n=\"250\" data-report=\"Article 250 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">250</span>Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation</h3></div><p class=\"prov-cite\">Article 250 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything in this Chapter, Parliament shall, while a Proclamation of Emergency is in operation, have power to make laws for the whole or any part of the territory of India with respect to <sup>1</sup>[goods and services tax provided under article 246A or] any of the matters enumerated in the State List.</p><p><span class=\"lbl\">(2)</span>A law made by Parliament which Parliament would not but for the issue of a Proclamation of Emergency have been competent to make shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the Proclamation has ceased to operate, except as respects things done or omitted to be done before the expiration of the said period.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">250</span>Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation</h3></div><p class=\"prov-cite\">Article 250 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything in this Chapter, Parliament shall, while a Proclamation of Emergency is in operation, have power to make laws for the whole or any part of the territory of India with respect to <sup>1</sup>[goods and services tax provided under article 246A or] any of the matters enumerated in the State List.</p><p><span class=\"lbl\">(2)</span>A law made by Parliament which Parliament would not but for the issue of a Proclamation of Emergency have been competent to make shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the Proclamation has ceased to operate, except as respects things done or omitted to be done before the expiration of the said period.</p></div>"
+  }
+}

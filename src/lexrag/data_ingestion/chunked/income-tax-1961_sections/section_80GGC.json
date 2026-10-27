@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80GGC_chunk_0",
+    "section_id": "income-tax-1961_section_80GGC",
+    "token_count": 173,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80GGC::Deduction in respect of contributions given by any person to political parties.\n]\n\n\nIn computing the total income of an assessee, being any person, except local authority and every artificial juridical person wholly or partly funded by the Government, there shall be deducted any amount of contribution made by him, in the previous year, to a political party or an electoral trust :\nProvided that no deduction shall be allowed under this section in respect of any sum contributed by way of cash.\nExplanation.—For the purposes of sections 80GGB and 80GGC, \"political party\" means a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80GGC_chunk_0",
+      "section_id": "income-tax-1961_section_80GGC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80GGC",
+      "section_title": "Deduction in respect of contributions given by any person to political parties."
+    }
+  }
+]

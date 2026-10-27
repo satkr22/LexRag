@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-19.html",
+    "source_order": 20,
+    "article_order": 23,
+    "order": 413,
+    "stem": "section_412",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 390–430",
+    "heading_source": "group-head",
+    "article_number": "412",
+    "article_title": "Penalty payable when tax in default.",
+    "id": "income-tax-2025_section_412"
+  },
+  "id": "income-tax-2025_section_412",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 390–430"
+  },
+  "article": {
+    "number": "412",
+    "title": "Penalty payable when tax in default.",
+    "content": "(1) When an assessee is in default or is deemed to be in default in making a payment of tax, he shall, in addition to the amount of the arrears and the amount of interest payable under section 411(3), be liable, by way of penalty, to pay—\n(a) such amount as the Assessing Officer may direct; and\n(b) in the case of a continuing default, such further amount or amounts as the Assessing Officer may, from time to time, direct.\n(2) The total amount of penalty under sub-section (1) shall not exceed the amount of tax in arrears.\n(3) No penalty under sub-section (1) shall be levied—\n(a) unless the assessee has been given a reasonable opportunity of being heard;\n(b) where the assessee proves to the satisfaction of the Assessing Officer that the default was for good and sufficient reasons.\n(4) The assessee shall not cease to be liable to any penalty under sub-section (1) merely by reason of the fact that before the levy of such penalty he has paid the tax.\n(5) Where as a result of any final order the amount of tax, with respect to the default in the payment of which the penalty was levied, has been wholly reduced, the penalty levied shall be cancelled and the amount of penalty paid shall be refunded.\n",
+    "html": "<article class=\"provision\" data-n=\"412\" data-report=\"Section 412 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">412</span>Penalty payable when tax in default.</h3></div><p class=\"prov-cite\">Section 412  ·  Chapter XIX  ·  D.—Collection and Recovery  ·  page 495 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When an assessee is in default or is deemed to be in default in making a payment of tax, he shall, in addition to the amount of the arrears and the amount of interest payable under section 411(3), be liable, by way of penalty, to pay—</p><p class=\"lvl\">(a) such amount as the Assessing Officer may direct; and</p><p class=\"lvl\">(b) in the case of a continuing default, such further amount or amounts as the Assessing Officer may, from time to time, direct.</p><p class=\"lvl\">(2) The total amount of penalty under sub-section (1) shall not exceed the amount of tax in arrears.</p><p class=\"lvl\">(3) No penalty under sub-section (1) shall be levied—</p><p class=\"lvl\">(a) unless the assessee has been given a reasonable opportunity of being heard;</p><p class=\"lvl\">(b) where the assessee proves to the satisfaction of the Assessing Officer that the default was for good and sufficient reasons.</p><p class=\"lvl\">(4) The assessee shall not cease to be liable to any penalty under sub-section (1) merely by reason of the fact that before the levy of such penalty he has paid the tax.</p><p class=\"lvl\">(5) Where as a result of any final order the amount of tax, with respect to the default in the payment of which the penalty was levied, has been wholly reduced, the penalty levied shall be cancelled and the amount of penalty paid shall be refunded.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">412</span>Penalty payable when tax in default.</h3></div><p class=\"prov-cite\">Section 412  ·  Chapter XIX  ·  D.—Collection and Recovery  ·  page 495 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When an assessee is in default or is deemed to be in default in making a payment of tax, he shall, in addition to the amount of the arrears and the amount of interest payable under section 411(3), be liable, by way of penalty, to pay—</p><p class=\"lvl\">(a) such amount as the Assessing Officer may direct; and</p><p class=\"lvl\">(b) in the case of a continuing default, such further amount or amounts as the Assessing Officer may, from time to time, direct.</p><p class=\"lvl\">(2) The total amount of penalty under sub-section (1) shall not exceed the amount of tax in arrears.</p><p class=\"lvl\">(3) No penalty under sub-section (1) shall be levied—</p><p class=\"lvl\">(a) unless the assessee has been given a reasonable opportunity of being heard;</p><p class=\"lvl\">(b) where the assessee proves to the satisfaction of the Assessing Officer that the default was for good and sufficient reasons.</p><p class=\"lvl\">(4) The assessee shall not cease to be liable to any penalty under sub-section (1) merely by reason of the fact that before the levy of such penalty he has paid the tax.</p><p class=\"lvl\">(5) Where as a result of any final order the amount of tax, with respect to the default in the payment of which the penalty was levied, has been wholly reduced, the penalty levied shall be cancelled and the amount of penalty paid shall be refunded.</p></div>"
+  }
+}

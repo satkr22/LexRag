@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "juvenile-justice_section_4_chunk_0",
+    "section_id": "juvenile-justice_section_4",
+    "token_count": 492,
+    "text": "[Act: juvenile-justice\n Chapter: Juvenile Justice Board\n Section: 4::Juvenile Justice Board.\n]\n\n\n(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the State Government shall, constitute for every district, one or more Juvenile Justice Boards for exercising the powers and discharging its functions relating to children in conflict with law under this Act.\n  (2) A Board shall consist of a Metropolitan Magistrate or a Judicial Magistrate of First Class not being Chief Metropolitan Magistrate or Chief Judicial Magistrate (hereinafter referred to as Principal Magistrate) with at least three years experience and two social workers selected in such manner as may be prescribed, of whom at least one shall be a woman, forming a Bench and every such Bench shall have the powers conferred by the Code of Criminal Procedure, 1973 (2 of 1974) on a Metropolitan Magistrate or, as the case may be, a Judicial Magistrate of First Class.\n  (3) No social worker shall be appointed as a member of the Board unless such person has been actively involved in health, education, or welfare activities pertaining to children for atleast seven years or a practicing professional with a degree in child psychology, psychiatry, sociology or law.\n  (4) No person shall be eligible for selection as a member of the Board, if he—\n  (i) has any past record of violation of human rights or child rights;\n  (ii) has been convicted of an offence involving moral turpitude, and such conviction has not been reversed or has not been granted full pardon in respect of such offence;\n  (iii) has been removed or dismissed from service of the Central Government or a State Government or an undertaking or corporation owned or controlled by the Central Government or a State Government;\n  (iv) has ever indulged in child abuse or employment of child labour or any other violation of human rights or immoral act.\n  (5) The State Government shall ensure that induction training and sensitisation of all members including Principal Magistrate of the Board on care, protection, rehabilitation, legal provisions and justice for children, as may be prescribed, is provided within a period of sixty days from the date of appointment.\n  (6) The term of office of the members of the Board and the manner in which such member may resign shall be such, as may be prescribed.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_4_chunk_0",
+      "section_id": "juvenile-justice_section_4",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Juvenile Justice Board",
+      "section_number": "4",
+      "section_title": "Juvenile Justice Board."
+    }
+  },
+  {
+    "chunk_id": "juvenile-justice_section_4_chunk_1",
+    "section_id": "juvenile-justice_section_4",
+    "token_count": 209,
+    "text": "[Act: juvenile-justice\n Chapter: Juvenile Justice Board\n Section: 4::Juvenile Justice Board.\n]\n\n\n(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the State Government shall, constitute for every district, one or more Juvenile Justice Boards for exercising the powers and discharging its functions relating to children in conflict with law under this Act.\n  (7) The appointment of any member of the Board, except the Principal Magistrate, may be terminated after holding an inquiry by the State Government, if he—\n  (i) has been found guilty of misuse of power vested under this Act; or\n  (ii) fails to attend the proceedings of the Board consecutively for three months without any valid reason; or\n  (iii) fails to attend 1 [minimum] three-fourths of the sittings in a year; or\n  (iv) becomes ineligible under sub-section (4) during his term as a member.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_4_chunk_1",
+      "section_id": "juvenile-justice_section_4",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Juvenile Justice Board",
+      "section_number": "4",
+      "section_title": "Juvenile Justice Board."
+    }
+  }
+]

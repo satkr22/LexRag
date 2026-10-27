@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_23_chunk_0",
+    "section_id": "motor-vehicles_section_23",
+    "token_count": 284,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 23::Effect of disqualification order.\n]\n\n\n(1) A person in respect of whom any disqualification order is made under section 19 or section 20 shall be debarred to the extent and for the period specified in such order from holding or obtaining a driving licence and the driving licence, if any, held by such person at the date of the order shall cease to be effective to such extent and during such period.\n(2) The operation of a disqualification order made under section 20 shall not be suspended or postponed while an appeal is pending against such order or against the conviction as a result of which such order is made, unless the appellate court so directs.\n(3) Any person in respect of whom any disqualification order has been made may at any time after the expiry of six months from the date of the order apply to the Court or other authority by which the order was made, to remove the disqualification; and the Court or authority, as the case may be, may, having regard to all the circumstances, either cancel or vary the disqualification order:\nProvided that where the Court or other authority refuses to cancel or vary any disqualification order under this section, a second application thereunder shall not be entertained before the expiry of a period of three months from the date of such refusal.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_23_chunk_0",
+      "section_id": "motor-vehicles_section_23",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "23",
+      "section_title": "Effect of disqualification order."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 53,
+    "order": 116,
+    "stem": "section_104",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "104",
+    "article_title": "Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified",
+    "id": "constitution_section_104"
+  },
+  "id": "constitution_section_104",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "104",
+    "title": "Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified",
+    "content": "If a person sits or votes as a member of either House of Parliament before he has complied with the requirements of article 99, or when he knows that he is not qualified or that he is disqualified for membership thereof, or that he is prohibited from so doing by the provisions of any law made by Parliament, he shall be liable in respect of each day on which he so sits or votes to a penalty of five hundred rupees to be recovered as a debt due to the Union.\n",
+    "html": "<article class=\"provision\" data-n=\"104\" data-report=\"Article 104 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified</h3></div><p class=\"prov-cite\">Article 104 · Part V · Disqualifications of Members</p><div class=\"prov-body\"><p>If a person sits or votes as a member of either House of Parliament before he has complied with the requirements of article 99, or when he knows that he is not qualified or that he is disqualified for membership thereof, or that he is prohibited from so doing by the provisions of any law made by Parliament, he shall be liable in respect of each day on which he so sits or votes to a penalty of five hundred rupees to be recovered as a debt due to the Union.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">104</span>Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified</h3></div><p class=\"prov-cite\">Article 104 · Part V · Disqualifications of Members</p><div class=\"prov-body\"><p>If a person sits or votes as a member of either House of Parliament before he has complied with the requirements of article 99, or when he knows that he is not qualified or that he is disqualified for membership thereof, or that he is prohibited from so doing by the provisions of any law made by Parliament, he shall be liable in respect of each day on which he so sits or votes to a penalty of five hundred rupees to be recovered as a debt due to the Union.</p></div>"
+  }
+}

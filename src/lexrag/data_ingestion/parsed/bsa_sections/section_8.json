@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-8.html",
+    "source_order": 8,
+    "article_order": 1,
+    "order": 8,
+    "stem": "section_8",
+    "heading_number": "Chapter II",
+    "heading_title": "Relevancy of Facts",
+    "heading_range": "3 – 50",
+    "heading_source": "manifest",
+    "article_number": "8",
+    "article_title": "Things said or done by conspirator in reference to common design",
+    "id": "bsa_section_8"
+  },
+  "id": "bsa_section_8",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Relevancy of Facts",
+    "range": "3 – 50"
+  },
+  "article": {
+    "number": "8",
+    "title": "Things said or done by conspirator in reference to common design",
+    "content": "Where there is reasonable ground to believe that two or more persons have conspired together to commit an offence or an actionable wrong, anything said, done or written by any one of such persons in reference to their common intention, after the time when such intention was first entertained by any one of them, is a relevant fact as against each of the persons believed to be so conspiring, as well for the purpose of proving the existence of the conspiracy as for the purpose of showing that any such person was a party to it.\nIllustrations\nReasonable ground exists for believing that A has joined in a conspiracy to wage war against the State.\nThe facts that B procured arms in Europe for the purpose of the conspiracy, C collected money in Kolkata for a like object, D persuaded persons to join the conspiracy in Mumbai, E published writings advocating the object in view at Agra, and F transmitted from Delhi to G at Singapore the money which C had collected at Kolkata, and the contents of a letter written by H giving an account of the conspiracy, are each relevant, both to prove the existence of the conspiracy, and to prove A's complicity in it, although he may have been ignorant of all of them, and although the persons by whom they were done were strangers to him, and although they may have taken place before he joined the conspiracy or after he left it.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Things said or done by conspirator in reference to common design</h3></div><p class=\"prov-cite\">Section 8 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>Where there is reasonable ground to believe that two or more persons have conspired together to commit an offence or an actionable wrong, anything said, done or written by any one of such persons in reference to their common intention, after the time when such intention was first entertained by any one of them, is a relevant fact as against each of the persons believed to be so conspiring, as well for the purpose of proving the existence of the conspiracy as for the purpose of showing that any such person was a party to it.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">Reasonable ground exists for believing that A has joined in a conspiracy to wage war against the State.\nThe facts that B procured arms in Europe for the purpose of the conspiracy, C collected money in Kolkata for a like object, D persuaded persons to join the conspiracy in Mumbai, E published writings advocating the object in view at Agra, and F transmitted from Delhi to G at Singapore the money which C had collected at Kolkata, and the contents of a letter written by H giving an account of the conspiracy, are each relevant, both to prove the existence of the conspiracy, and to prove A's complicity in it, although he may have been ignorant of all of them, and although the persons by whom they were done were strangers to him, and although they may have taken place before he joined the conspiracy or after he left it.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Things said or done by conspirator in reference to common design</h3></div><p class=\"prov-cite\">Section 8 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>Where there is reasonable ground to believe that two or more persons have conspired together to commit an offence or an actionable wrong, anything said, done or written by any one of such persons in reference to their common intention, after the time when such intention was first entertained by any one of them, is a relevant fact as against each of the persons believed to be so conspiring, as well for the purpose of proving the existence of the conspiracy as for the purpose of showing that any such person was a party to it.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">Reasonable ground exists for believing that A has joined in a conspiracy to wage war against the State.\nThe facts that B procured arms in Europe for the purpose of the conspiracy, C collected money in Kolkata for a like object, D persuaded persons to join the conspiracy in Mumbai, E published writings advocating the object in view at Agra, and F transmitted from Delhi to G at Singapore the money which C had collected at Kolkata, and the contents of a letter written by H giving an account of the conspiracy, are each relevant, both to prove the existence of the conspiracy, and to prove A's complicity in it, although he may have been ignorant of all of them, and although the persons by whom they were done were strangers to him, and although they may have taken place before he joined the conspiracy or after he left it.</p></div>"
+  }
+}

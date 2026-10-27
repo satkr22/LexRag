@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_76_chunk_0",
+    "section_id": "succession_section_76",
+    "token_count": 438,
+    "text": "[Act: succession\n Chapter: Of the construction of Wills\n Section: 76::Misnomer or misdescription of object.\n]\n\n\n(1) Where the words used in a will to designate or describe a legatee or a class of legatees sufficiently show what is meant, and error in the name or description shall not prevent the legacy from taking effect.\n(2) A mistake in the name of a legatee may be corrected by a description of him, and a mistake in the description of a legatee may be corrected by the name.\nIllustrations\n(i) A bequeaths a legacy to “Thomas, the second son of my brother John”. The testator has an only brother named John, who has no son named Thomas, but has a second son whose name is William. William will have the legacy.\n(ii) A bequeaths a legacy “to Thomas, the second son of my brother John”. The testator has an only brother, named John, whose first son is named Thomas and whose second son is named William. Thomas will have the legacy.\n(iii) The testator bequeaths his property “to A and B, the legitimate children of C”. C has no legitimate child, but has two illegitimate children, A and B. The bequest to A and B takes effect, although they are illegitimate.\n(iv) The testator gives his residuary estate to be divided among “my seven children” and, proceeding to enumerate them, mentions six names only. This omission will not prevent the seventh child from taking a share with the others.\n(v) The testator, having six grandchildren, makes a bequest to “my six grandchildren” and, proceeding to mention them by their Christian names, mentions one twice over omitting another altogether. The one whose name is not mentioned will take a share with the others.\n(vi) The testator bequeaths “1,000 rupees to each of the three children of A”. At the date of the will A has four children. Each of these four children will, if he survives the testator, receive a legacy of 1,000 rupees.",
+    "metadata": {
+      "chunk_id": "succession_section_76_chunk_0",
+      "section_id": "succession_section_76",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter VI",
+      "chapter_title": "Of the construction of Wills",
+      "section_number": "76",
+      "section_title": "Misnomer or misdescription of object."
+    }
+  }
+]

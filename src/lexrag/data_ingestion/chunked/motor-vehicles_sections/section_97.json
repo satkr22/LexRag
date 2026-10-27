@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_97_chunk_0",
+    "section_id": "motor-vehicles_section_97",
+    "token_count": 63,
+    "text": "[Act: motor-vehicles\n Chapter: Special Provisions Relating to State Transport Undertakings\n Section: 97::Definition.\n]\n\n\nIn this Chapter, unless the context otherwise requires, “road transport service” means a service of motor vehicles carrying passengers or goods or both by road for hire or reward.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_97_chunk_0",
+      "section_id": "motor-vehicles_section_97",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Special Provisions Relating to State Transport Undertakings",
+      "section_number": "97",
+      "section_title": "Definition."
+    }
+  }
+]

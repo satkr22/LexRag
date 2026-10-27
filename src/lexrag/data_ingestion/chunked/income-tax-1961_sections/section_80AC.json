@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80AC_chunk_0",
+    "section_id": "income-tax-1961_section_80AC",
+    "token_count": 212,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80AC::Deduction not to be allowed unless return furnished.\n]\n\n\nWhere in computing the total income of an assessee of any previous year relevant to the assessment year commencing on or after—\n(i) the 1st day of April, 2006 but before the 1st day of April, 2018, any deduction is admissible under section 80-IA or section 80-IAB or section 80-IB or section 80-IC or section 80-ID or section 80-IE;\n(ii) the 1st day of April, 2018, any deduction is admissible under any provision of this Chapter under the heading \"C.—Deductions in respect of certain incomes\", no such deduction shall be allowed to him unless he furnishes a return of his income for such assessment year on or before the due date specified under sub-section (1) of section 139.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80AC_chunk_0",
+      "section_id": "income-tax-1961_section_80AC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80AC",
+      "section_title": "Deduction not to be allowed unless return furnished."
+    }
+  }
+]

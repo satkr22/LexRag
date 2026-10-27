@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_9_chunk_0",
+    "section_id": "succession_section_9",
+    "token_count": 40,
+    "text": "[Act: succession\n Chapter: Of Domicile\n Section: 9::Continuance of domicile of origin.\n]\n\n\nThe domicile of origin prevails until a new domicile has been acquired.",
+    "metadata": {
+      "chunk_id": "succession_section_9_chunk_0",
+      "section_id": "succession_section_9",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part II",
+      "chapter_title": "Of Domicile",
+      "section_number": "9",
+      "section_title": "Continuance of domicile of origin."
+    }
+  }
+]

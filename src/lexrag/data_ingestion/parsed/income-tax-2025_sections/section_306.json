@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-17.html",
+    "source_order": 18,
+    "article_order": 5,
+    "order": 306,
+    "stem": "section_306",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Special Provisions Relating to Certain Persons",
+    "heading_range": "ss. 302–355",
+    "heading_source": "group-head",
+    "article_number": "306",
+    "article_title": "Who may be regarded as agent.",
+    "id": "income-tax-2025_section_306"
+  },
+  "id": "income-tax-2025_section_306",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Special Provisions Relating to Certain Persons",
+    "range": "ss. 302–355"
+  },
+  "article": {
+    "number": "306",
+    "title": "Who may be regarded as agent.",
+    "content": "(1) For the purposes of this Act, \"agent\", in relation to a non-resident, includes—\n(a) any person in India—\n(i) who is employed by or on behalf of the non-resident; or\n(ii) who has any business connection with the non-resident; or\n(iii) from or through whom the non-resident is in receipt of any income, whether directly or indirectly; or\n(iv) who is the trustee of the non-resident;\n(b) any other person who, whether a resident or non-resident, has acquired by means of a transfer, a capital asset in India.\n(2) A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non-resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:—\n(a) the transactions are carried on in the ordinary course of business through the first-mentioned broker; and\n(b) the non-resident broker is carrying on such transactions in the ordinary course of his business and not as a principal.\n(3) A person shall not be treated as the agent of a non-resident unless he has had an opportunity of being heard by the Assessing Officer as to his liability to be treated as such.\n(4) For the purposes of this section, \"business connection\" shall have the meaning assigned to it in section 9(9)(a).\n",
+    "html": "<article class=\"provision\" data-n=\"306\" data-report=\"Section 306 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">306</span>Who may be regarded as agent.</h3></div><p class=\"prov-cite\">Section 306  ·  Chapter XVII  ·  A.—Association of persons, firm, Hindu undivided family, etc. — 3.—Representative assessees—Special cases  ·  page 370 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) For the purposes of this Act, \"agent\", in relation to a non-resident, includes—</p><p class=\"lvl\">(a) any person in India—</p><p class=\"lvl\">(i) who is employed by or on behalf of the non-resident; or</p><p class=\"lvl\">(ii) who has any business connection with the non-resident; or</p><p class=\"lvl\">(iii) from or through whom the non-resident is in receipt of any income, whether directly or indirectly; or</p><p class=\"lvl\">(iv) who is the trustee of the non-resident;</p><p class=\"lvl\">(b) any other person who, whether a resident or non-resident, has acquired by means of a transfer, a capital asset in India.</p><p class=\"lvl\">(2) A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non-resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:—</p><p class=\"lvl\">(a) the transactions are carried on in the ordinary course of business through the first-mentioned broker; and</p><p class=\"lvl\">(b) the non-resident broker is carrying on such transactions in the ordinary course of his business and not as a principal.</p><p class=\"lvl\">(3) A person shall not be treated as the agent of a non-resident unless he has had an opportunity of being heard by the Assessing Officer as to his liability to be treated as such.</p><p class=\"lvl\">(4) For the purposes of this section, \"business connection\" shall have the meaning assigned to it in section 9(9)(a).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">306</span>Who may be regarded as agent.</h3></div><p class=\"prov-cite\">Section 306  ·  Chapter XVII  ·  A.—Association of persons, firm, Hindu undivided family, etc. — 3.—Representative assessees—Special cases  ·  page 370 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) For the purposes of this Act, \"agent\", in relation to a non-resident, includes—</p><p class=\"lvl\">(a) any person in India—</p><p class=\"lvl\">(i) who is employed by or on behalf of the non-resident; or</p><p class=\"lvl\">(ii) who has any business connection with the non-resident; or</p><p class=\"lvl\">(iii) from or through whom the non-resident is in receipt of any income, whether directly or indirectly; or</p><p class=\"lvl\">(iv) who is the trustee of the non-resident;</p><p class=\"lvl\">(b) any other person who, whether a resident or non-resident, has acquired by means of a transfer, a capital asset in India.</p><p class=\"lvl\">(2) A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non-resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:—</p><p class=\"lvl\">(a) the transactions are carried on in the ordinary course of business through the first-mentioned broker; and</p><p class=\"lvl\">(b) the non-resident broker is carrying on such transactions in the ordinary course of his business and not as a principal.</p><p class=\"lvl\">(3) A person shall not be treated as the agent of a non-resident unless he has had an opportunity of being heard by the Assessing Officer as to his liability to be treated as such.</p><p class=\"lvl\">(4) For the purposes of this section, \"business connection\" shall have the meaning assigned to it in section 9(9)(a).</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-52.html",
+    "source_order": 54,
+    "article_order": 1,
+    "order": 54,
+    "stem": "section_52",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Negotiation",
+    "heading_range": "ss. 46–60",
+    "heading_source": "manifest",
+    "article_number": "52",
+    "article_title": "Indorser who excludes his own liability or makes it conditional.",
+    "id": "negotiable-instruments_section_52"
+  },
+  "id": "negotiable-instruments_section_52",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Negotiation",
+    "range": "ss. 46–60"
+  },
+  "article": {
+    "number": "52",
+    "title": "Indorser who excludes his own liability or makes it conditional.",
+    "content": "The indorser of a negotiable instrument may, by express words in the indorsement, exclude his own liability thereon, or make such liability or the right of the indorsee to receive the amount due thereon depend upon the happening of a specified event, although such event may never happen.\nWhere an indorser so excludes his liability and afterwards becomes the holder of the instrument, all intermediate indorsers are liable to him.\nIllustrations\n(a) The indorser of a negotiable instrument sign; his name adding the words— “Without recourse”.\nUpon this indorsement he incurs no liability.\n(b) A is the payee and holder of a negotiable instrument. Excluding personal liability by an indorsement “without recourse” he transfers the instrument to B, and B indorses it to C, who indorses it to A. A is not only reinstated in his former rights, but has the rights of an indorsee against B and C.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Indorser who excludes his own liability or makes it conditional.</h3></div><p class=\"prov-cite\">Section 52  ·  Chapter IV  ·  pages 15–16 of the Act</p><div class=\"prov-body\"><p>The indorser of a negotiable instrument may, by express words in the indorsement, exclude his own liability thereon, or make such liability or the right of the indorsee to receive the amount due thereon depend upon the happening of a specified event, although such event may never happen.</p><p>Where an indorser so excludes his liability and afterwards becomes the holder of the instrument, all intermediate indorsers are liable to him.</p><p>Illustrations</p><p class=\"lvl\">(a) The indorser of a negotiable instrument sign; his name adding the words— “Without recourse”.</p><p>Upon this indorsement he incurs no liability.</p><p class=\"lvl\">(b) A is the payee and holder of a negotiable instrument. Excluding personal liability by an indorsement “without recourse” he transfers the instrument to B, and B indorses it to C, who indorses it to A. A is not only reinstated in his former rights, but has the rights of an indorsee against B and C.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Indorser who excludes his own liability or makes it conditional.</h3></div><p class=\"prov-cite\">Section 52  ·  Chapter IV  ·  pages 15–16 of the Act</p><div class=\"prov-body\"><p>The indorser of a negotiable instrument may, by express words in the indorsement, exclude his own liability thereon, or make such liability or the right of the indorsee to receive the amount due thereon depend upon the happening of a specified event, although such event may never happen.</p><p>Where an indorser so excludes his liability and afterwards becomes the holder of the instrument, all intermediate indorsers are liable to him.</p><p>Illustrations</p><p class=\"lvl\">(a) The indorser of a negotiable instrument sign; his name adding the words— “Without recourse”.</p><p>Upon this indorsement he incurs no liability.</p><p class=\"lvl\">(b) A is the payee and holder of a negotiable instrument. Excluding personal liability by an indorsement “without recourse” he transfers the instrument to B, and B indorses it to C, who indorses it to A. A is not only reinstated in his former rights, but has the rights of an indorsee against B and C.</p></div>"
+  }
+}

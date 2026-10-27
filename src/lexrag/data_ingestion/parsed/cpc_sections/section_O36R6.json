@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-55.html",
+    "source_order": 55,
+    "article_order": 6,
+    "order": 764,
+    "stem": "section_O36R6",
+    "heading_number": "Order XXXVI",
+    "heading_title": "Special Case",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O36R6",
+    "article_title": "No appeal from a decree passed under rule 5.",
+    "id": "cpc_section_O36R6"
+  },
+  "id": "cpc_section_O36R6",
+  "heading": {
+    "number": "Order XXXVI",
+    "title": "Special Case",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O36R6",
+    "title": "No appeal from a decree passed under rule 5.",
+    "content": "No appeal shall lie from a decree passed under rule 5.]\n",
+    "html": "<article class=\"provision\" data-n=\"O36R6\" data-report=\"Order 36, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>No appeal from a decree passed under rule 5.</h3></div><p class=\"prov-cite\">Order 36, Rule 6</p><div class=\"prov-body\"><p>No appeal shall lie from a decree passed under rule 5.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 83. (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>No appeal from a decree passed under rule 5.</h3></div><p class=\"prov-cite\">Order 36, Rule 6</p><div class=\"prov-body\"><p>No appeal shall lie from a decree passed under rule 5.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 83. (w.e.f. 1-2-1977).</p></div>"
+  }
+}

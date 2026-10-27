@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "rpwd",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "rpwd_sections/section-20.html",
+    "source_order": 20,
+    "article_order": 1,
+    "order": 20,
+    "stem": "section_20",
+    "heading_number": "Chapter IV",
+    "heading_title": "Skill Development and Employment",
+    "heading_range": "ss. 19–23",
+    "heading_source": "manifest",
+    "article_number": "20",
+    "article_title": "Non-discrimination in employment.",
+    "id": "rpwd_section_20"
+  },
+  "id": "rpwd_section_20",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Skill Development and Employment",
+    "range": "ss. 19–23"
+  },
+  "article": {
+    "number": "20",
+    "title": "Non-discrimination in employment.",
+    "content": "(1) No Government establishment shall discriminate against any person with disability in any matter relating to employment:\nProvided that the appropriate Government may, having regard to the type of work carried on in any establishment, by notification and subject to such conditions, if any, exempt any establishment from the provisions of this section.\n(2) Every Government establishment shall provide reasonable accommodation and appropriate barrier free and conducive environment to employees with disability.\n(3) No promotion shall be denied to a person merely on the ground of disability.\n(4) No Government establishment shall dispense with or reduce in rank, an employee who acquires a disability during his or her service:\nProvided that, if an employee after acquiring disability is not suitable for the post he was holding, shall be shifted to some other post with the same pay scale and service benefits:\nProvided further that if it is not possible to adjust the employee against any post, he may be kept on a supernumerary post until a suitable post is available or he attains the age of superannuation, whichever is earlier.\n(5) The appropriate Government may frame policies for posting and transfer of employees with disabilities.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Non-discrimination in employment.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter IV  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No Government establishment shall discriminate against any person with disability in any matter relating to employment:</p><p class=\"prvso\">Provided that the appropriate Government may, having regard to the type of work carried on in any establishment, by notification and subject to such conditions, if any, exempt any establishment from the provisions of this section.</p><p class=\"lvl\">(2) Every Government establishment shall provide reasonable accommodation and appropriate barrier free and conducive environment to employees with disability.</p><p class=\"lvl\">(3) No promotion shall be denied to a person merely on the ground of disability.</p><p class=\"lvl\">(4) No Government establishment shall dispense with or reduce in rank, an employee who acquires a disability during his or her service:</p><p class=\"prvso\">Provided that, if an employee after acquiring disability is not suitable for the post he was holding, shall be shifted to some other post with the same pay scale and service benefits:</p><p class=\"prvso\">Provided further that if it is not possible to adjust the employee against any post, he may be kept on a supernumerary post until a suitable post is available or he attains the age of superannuation, whichever is earlier.</p><p class=\"lvl\">(5) The appropriate Government may frame policies for posting and transfer of employees with disabilities.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Non-discrimination in employment.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter IV  ·  page 12 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No Government establishment shall discriminate against any person with disability in any matter relating to employment:</p><p class=\"prvso\">Provided that the appropriate Government may, having regard to the type of work carried on in any establishment, by notification and subject to such conditions, if any, exempt any establishment from the provisions of this section.</p><p class=\"lvl\">(2) Every Government establishment shall provide reasonable accommodation and appropriate barrier free and conducive environment to employees with disability.</p><p class=\"lvl\">(3) No promotion shall be denied to a person merely on the ground of disability.</p><p class=\"lvl\">(4) No Government establishment shall dispense with or reduce in rank, an employee who acquires a disability during his or her service:</p><p class=\"prvso\">Provided that, if an employee after acquiring disability is not suitable for the post he was holding, shall be shifted to some other post with the same pay scale and service benefits:</p><p class=\"prvso\">Provided further that if it is not possible to adjust the employee against any post, he may be kept on a supernumerary post until a suitable post is available or he attains the age of superannuation, whichever is earlier.</p><p class=\"lvl\">(5) The appropriate Government may frame policies for posting and transfer of employees with disabilities.</p></div>"
+  }
+}

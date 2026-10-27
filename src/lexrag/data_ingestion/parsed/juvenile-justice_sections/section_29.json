@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "juvenile-justice",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "juvenile-justice_sections/section-29.html",
+    "source_order": 29,
+    "article_order": 1,
+    "order": 29,
+    "stem": "section_29",
+    "heading_number": "Chapter V",
+    "heading_title": "Child Welfare Committee",
+    "heading_range": "ss. 27–30",
+    "heading_source": "manifest",
+    "article_number": "29",
+    "article_title": "Powers of Committee.",
+    "id": "juvenile-justice_section_29"
+  },
+  "id": "juvenile-justice_section_29",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Child Welfare Committee",
+    "range": "ss. 27–30"
+  },
+  "article": {
+    "number": "29",
+    "title": "Powers of Committee.",
+    "content": "(1) The Committee shall have the authority to dispose of cases for the care, protection, treatment, development and rehabilitation of children in need of care and protection, as well as to provide for their basic needs and protection.\n(2) Where a Committee has been constituted for any area, such Committee shall, notwithstanding anything contained in any other law for the time being in force, but save as otherwise expressly provided in this Act, have the power to deal exclusively with all proceedings under this Act relating to children in need of care and protection.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">29</span>Powers of Committee.</h3></div><p class=\"prov-cite\">Section 29  ·  Chapter V  ·  page 22 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Committee shall have the authority to dispose of cases for the care, protection, treatment, development and rehabilitation of children in need of care and protection, as well as to provide for their basic needs and protection.</p><p class=\"lvl\">(2) Where a Committee has been constituted for any area, such Committee shall, notwithstanding anything contained in any other law for the time being in force, but save as otherwise expressly provided in this Act, have the power to deal exclusively with all proceedings under this Act relating to children in need of care and protection.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">29</span>Powers of Committee.</h3></div><p class=\"prov-cite\">Section 29  ·  Chapter V  ·  page 22 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Committee shall have the authority to dispose of cases for the care, protection, treatment, development and rehabilitation of children in need of care and protection, as well as to provide for their basic needs and protection.</p><p class=\"lvl\">(2) Where a Committee has been constituted for any area, such Committee shall, notwithstanding anything contained in any other law for the time being in force, but save as otherwise expressly provided in this Act, have the power to deal exclusively with all proceedings under this Act relating to children in need of care and protection.</p></div>"
+  }
+}

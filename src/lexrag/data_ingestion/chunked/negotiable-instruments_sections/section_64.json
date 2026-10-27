@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_64_chunk_0",
+    "section_id": "negotiable-instruments_section_64",
+    "token_count": 282,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Presentment\n Section: 64::Presentment for payment.\n]\n\n\n3[(1)] Promissory notes, bills of exchange and cheques must be presented for payment to the maker, acceptor or drawee thereof respectively, by or on behalf of the holder as hereinafter provided. In default of such presentment, the other parties thereto are not liable thereon to such holder.\n1[Where authorized by agreement or usage, a presentment through the post office by means of a registered letter is sufficient.]\nException.—Where a promissory note is payable on demand and is not payable at a specified place, no presentment is necessary in order to charge the maker thereof.\n4[(2) Notwithstanding anything contained in section 6, where an electronic image of a truncated cheque is presented for payment, the drawee bank is entitled to demand any further information regarding the truncated cheque from the bank holding the truncated cheque in case of any reasonable suspicion about the genuineness of the apparent tenor of instrument, and if the suspicion is that of any fraud, forgery, tampering or destruction of the instrument, it is entitled to further demand the presentment of the truncated cheque itself for verification:\nProvided that the truncated cheque so demanded by the drawee bank shall be retained by it, if the payment is made accordingly.]",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_64_chunk_0",
+      "section_id": "negotiable-instruments_section_64",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Presentment",
+      "section_number": "64",
+      "section_title": "Presentment for payment."
+    }
+  }
+]

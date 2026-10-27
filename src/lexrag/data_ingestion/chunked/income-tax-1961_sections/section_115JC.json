@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115JC_chunk_0",
+    "section_id": "income-tax-1961_section_115JC",
+    "token_count": 495,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Certain Persons Other Than a Company\n Section: 115JC::Special provisions for payment of tax by certain persons other than a company.\n]\n\n\n(1) Notwithstanding anything contained in this Act, where the regular income-tax payable for a previous year by a person, other than a company, is less than the alternate minimum tax payable for such previous year, the adjusted total income shall be deemed to be the total income of that person for such previous year and he shall be liable to pay income-tax on such total income at the rate of eighteen and one-half per cent.\n  (2) Adjusted total income referred to in sub-section (1) shall be the total income before giving effect to this Chapter as increased by—\n  (i) deductions claimed, if any, under any section (other than section 80P) included in Chapter VI-A under the heading \"C.—Deductions in respect of certain incomes\";\n  (ii) deduction claimed, if any, under section 10AA ; and\n  (iii) deduction claimed, if any, under section 35AD as reduced by the amount of depreciation allowable in accordance with the provisions of section 32 as if no deduction under section 35AD was allowed in respect of the assets on which the deduction under that section is claimed.\n  (3) Every person to whom this section applies shall obtain a report, before the specified date referred to in section 44AB, in such form as may be prescribed, from an accountant referred to in the Explanation below sub-section (2) of section 288, certifying that the adjusted total income and the alternate minimum tax have been computed in accordance with the provisions of this Chapter and furnish such report by that date.\n  (4) Notwithstanding anything contained in sub-section (1), where the person referred to therein, is a—\n  (i) unit located in an International Financial Services Centre and derives its income solely in convertible foreign exchange, the provisions of sub-section (1) shall have effect as if for the words \"eighteen and one-half per cent\", the words \"nine per cent\" had been substituted;\n  (ii) co-operative society, the provisions of sub-section (1) shall have effect as if for the words \"eighteen and one-half per cent\", the words \"fifteen per cent\" had been substituted.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115JC_chunk_0",
+      "section_id": "income-tax-1961_section_115JC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-BA",
+      "chapter_title": "Special Provisions Relating to Certain Persons Other Than a Company",
+      "section_number": "115JC",
+      "section_title": "Special provisions for payment of tax by certain persons other than a company."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_115JC_chunk_1",
+    "section_id": "income-tax-1961_section_115JC",
+    "token_count": 232,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Certain Persons Other Than a Company\n Section: 115JC::Special provisions for payment of tax by certain persons other than a company.\n]\n\n\n(1) Notwithstanding anything contained in this Act, where the regular income-tax payable for a previous year by a person, other than a company, is less than the alternate minimum tax payable for such previous year, the adjusted total income shall be deemed to be the total income of that person for such previous year and he shall be liable to pay income-tax on such total income at the rate of eighteen and one-half per cent.\n  (5) The provisions of this section shall not apply to a person, where—\n  (i) such person has exercised the option referred to in sub-section (5) of section 115BAC or sub-section (5) of section 115BAD or sub-section (5) of section 115BAE; or\n  (ii) income-tax payable in respect of the total income of such person is computed under sub-section (1A) of section 115BAC.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115JC_chunk_1",
+      "section_id": "income-tax-1961_section_115JC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-BA",
+      "chapter_title": "Special Provisions Relating to Certain Persons Other Than a Company",
+      "section_number": "115JC",
+      "section_title": "Special provisions for payment of tax by certain persons other than a company."
+    }
+  }
+]

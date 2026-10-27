@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "gst",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Central Goods and Services Tax Act, 2017",
+    "source_file": "gst_sections/gst-15.html",
+    "source_order": 15,
+    "article_order": 12,
+    "order": 90,
+    "stem": "section_83",
+    "heading_number": "Chapter XV",
+    "heading_title": "Demands and Recovery",
+    "heading_range": "ss. 73–84",
+    "heading_source": "group-head",
+    "article_number": "83",
+    "article_title": "Provisional attachment to protect revenue in certain cases.",
+    "id": "gst_section_83"
+  },
+  "id": "gst_section_83",
+  "heading": {
+    "number": "Chapter XV",
+    "title": "Demands and Recovery",
+    "range": "ss. 73–84"
+  },
+  "article": {
+    "number": "83",
+    "title": "Provisional attachment to protect revenue in certain cases.",
+    "content": "2[(1) Where, after the initiation of any proceeding under Chapter XII, Chapter XIV or Chapter XV, the Commissioner is of the opinion that for the purpose of protecting the interest of the Government revenue it is necessary so to do, he may, by order in writing, attach provisionally, any property, including bank account, belonging to the taxable person or any person specified in sub-section (1A) of section 122, in such manner as may be prescribed.]\n(2) Every such provisional attachment shall cease to have effect after the expiry of a period of one year from the date of the order made under sub-section (1).\n",
+    "html": "<article class=\"provision\" data-n=\"83\" data-report=\"Section 83 · The Central Goods and Services Tax Act, 2017\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">83</span>Provisional attachment to protect revenue in certain cases.</h3></div><p class=\"prov-cite\">Section 83  ·  Chapter XV  ·  page 75 of the Act</p><div class=\"prov-body\"><p class=\"lvl\"><sup>2</sup>[(1) Where, after the initiation of any proceeding under Chapter XII, Chapter XIV or Chapter XV, the Commissioner is of the opinion that for the purpose of protecting the interest of the Government revenue it is necessary so to do, he may, by order in writing, attach provisionally, any property, including bank account, belonging to the taxable person or any person specified in sub-section (1A) of section 122, in such manner as may be prescribed.]</p><p class=\"lvl\">(2) Every such provisional attachment shall cease to have effect after the expiry of a period of one year from the date of the order made under sub-section (1).</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 13 of 2021, s. 115, for sub-section (1) (w.e.f. 1-1-2022).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">83</span>Provisional attachment to protect revenue in certain cases.</h3></div><p class=\"prov-cite\">Section 83  ·  Chapter XV  ·  page 75 of the Act</p><div class=\"prov-body\"><p class=\"lvl\"><sup>2</sup>[(1) Where, after the initiation of any proceeding under Chapter XII, Chapter XIV or Chapter XV, the Commissioner is of the opinion that for the purpose of protecting the interest of the Government revenue it is necessary so to do, he may, by order in writing, attach provisionally, any property, including bank account, belonging to the taxable person or any person specified in sub-section (1A) of section 122, in such manner as may be prescribed.]</p><p class=\"lvl\">(2) Every such provisional attachment shall cease to have effect after the expiry of a period of one year from the date of the order made under sub-section (1).</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 13 of 2021, s. 115, for sub-section (1) (w.e.f. 1-1-2022).</p></div></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_37_chunk_0",
+    "section_id": "motor-vehicles_section_37",
+    "token_count": 125,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Conductors of Stage Carriages\n Section: 37::Savings.\n]\n\n\nIf any licence to act as a conductor of a stage carriage (by whatever name called) has been issued in any State and is effective immediately before the commencement of this Act, it shall continue to be effective, notwithstanding such commencement, for the period for which it would have been effective, if this Act had not been passed, and every such licence shall be deemed to be a licence issued under this Chapter as if this Chapter had been in force on the date on which that licence was granted.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_37_chunk_0",
+      "section_id": "motor-vehicles_section_37",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter III",
+      "chapter_title": "Licensing of Conductors of Stage Carriages",
+      "section_number": "37",
+      "section_title": "Savings."
+    }
+  }
+]

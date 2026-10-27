@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_270AA_chunk_0",
+    "section_id": "income-tax-1961_section_270AA",
+    "token_count": 510,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 270AA::Immunity from imposition of penalty, etc.\n]\n\n\n7 [(1) An assessee may make an application to the Assessing Officer to grant immunity from imposition or, as the case may be, waiver of penalty under section 270A and immunity from initiation of proceedings under section 276C or section 276CC, if he fulfils the following conditions, namely: —\n  (a) the tax and interest payable as per the order of assessment under sub-section (3) of section 143 or reassessment under section 147 has been paid within the period specified in the notice of demand;\n  (b) where penalty has been levied or, as the case may be, leviable under the circumstances referred to in sub-section (9) of section 270A, additional income-tax amounting to one hundred per cent of the amount of tax payable on under-reported income has been paid within the period specified in the notice of demand, in lieu of such penalty; and\n  (c) no appeal has been filed against the order referred to in clauses (a) and (b).\n  (2) An application referred to in sub-section (1) shall be made within one month from the end of the month in which the order referred to in clause (a) and clause (b) of the said sub-section has been received by the assessee, in such form and verified in such manner, as may be prescribed.\n  (3) The Assessing Officer shall, on fulfilment of the conditions specified in sub-section (1) and after the expiry of the period of filing the appeal as specified in clause (b) of sub-section (2) of section 249, grant immunity from imposition or, as the case may be, waiver of penalty under section 270A and initiation of proceedings under section 276C or section 276CC.\n  (3A) No immunity or, as the case may be, waiver under sub-section (3) shall be granted where any proceedings has been initiated under Chapter XXII.]\n  (4) The Assessing Officer shall, within a period of 8 [three months] from the end of the month in which the application under sub-section (1) is received, pass an order accepting or rejecting such application:\n  Provided that no order rejecting the application shall be passed unless the assessee has been given an opportunity of being heard.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_270AA_chunk_0",
+      "section_id": "income-tax-1961_section_270AA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "270AA",
+      "section_title": "Immunity from imposition of penalty, etc."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_270AA_chunk_1",
+    "section_id": "income-tax-1961_section_270AA",
+    "token_count": 185,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 270AA::Immunity from imposition of penalty, etc.\n]\n\n\n7 [(1) An assessee may make an application to the Assessing Officer to grant immunity from imposition or, as the case may be, waiver of penalty under section 270A and immunity from initiation of proceedings under section 276C or section 276CC, if he fulfils the following conditions, namely: —\n  (5) The order made under sub-section (4) shall be final.\n  (6) No appeal under section 246 or section 246A or an application for revision under section 264 shall be admissible against the order of assessment or reassessment, referred to in clause (a) of sub-section (1), in a case where an order under sub-section (4) has been made accepting the application.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_270AA_chunk_1",
+      "section_id": "income-tax-1961_section_270AA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "270AA",
+      "section_title": "Immunity from imposition of penalty, etc."
+    }
+  }
+]

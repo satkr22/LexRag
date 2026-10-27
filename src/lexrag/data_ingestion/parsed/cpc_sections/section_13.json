@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-02.html",
+    "source_order": 2,
+    "article_order": 5,
+    "order": 13,
+    "stem": "section_13",
+    "heading_number": "Part I",
+    "heading_title": "Suits in General",
+    "heading_range": "ss. 9–35B",
+    "heading_source": "group-head",
+    "article_number": "13",
+    "article_title": "When foreign judgment not conclusive.",
+    "id": "cpc_section_13"
+  },
+  "id": "cpc_section_13",
+  "heading": {
+    "number": "Part I",
+    "title": "Suits in General",
+    "range": "ss. 9–35B"
+  },
+  "article": {
+    "number": "13",
+    "title": "When foreign judgment not conclusive.",
+    "content": "Jurisdiction of The Courts and res judicata\nA foreign judgment shall be conclusive as to any matter thereby directly adjudicated upon between the same parties or between parties under whom they or any of them claim litigating under the same title except—\n(a) where it has not been pronounced by a Court of competent jurisdiction;\n(b) where it has not been given on the merits of the case;\n(c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of 2[India] in cases in which such law is applicable;\n(d) where the proceedings in which the judgment was obtained are opposed to natural justice;\n(e) where it has been obtained by fraud;\n(f) where it sustains a claim founded on a breach of any law in force in 2[India].\n",
+    "html": "<article class=\"provision\" data-n=\"13\" data-report=\"Section 13 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>When foreign judgment not conclusive.</h3></div><p class=\"prov-cite\">Section 13</p><div class=\"prov-body\"><p class=\"sched-title\">Jurisdiction of The Courts and res judicata</p><p>A foreign judgment shall be conclusive as to any matter thereby directly adjudicated upon between the same parties or between parties under whom they or any of them claim litigating under the same title except—</p><p class=\"lvl\">(a) where it has not been pronounced by a Court of competent jurisdiction;</p><p class=\"lvl\">(b) where it has not been given on the merits of the case;</p><p class=\"lvl\">(c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of <sup>2</sup>[India] in cases in which such law is applicable;</p><p class=\"lvl\">(d) where the proceedings in which the judgment was obtained are opposed to natural justice;</p><p class=\"lvl\">(e) where it has been obtained by fraud;</p><p class=\"lvl\">(f) where it sustains a claim founded on a breach of any law in force in <sup>2</sup>[India].</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 2 of 1951, s. 3, for “the States” (w.e.f. 1-4-1951).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>When foreign judgment not conclusive.</h3></div><p class=\"prov-cite\">Section 13</p><div class=\"prov-body\"><p class=\"sched-title\">Jurisdiction of The Courts and res judicata</p><p>A foreign judgment shall be conclusive as to any matter thereby directly adjudicated upon between the same parties or between parties under whom they or any of them claim litigating under the same title except—</p><p class=\"lvl\">(a) where it has not been pronounced by a Court of competent jurisdiction;</p><p class=\"lvl\">(b) where it has not been given on the merits of the case;</p><p class=\"lvl\">(c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of <sup>2</sup>[India] in cases in which such law is applicable;</p><p class=\"lvl\">(d) where the proceedings in which the judgment was obtained are opposed to natural justice;</p><p class=\"lvl\">(e) where it has been obtained by fraud;</p><p class=\"lvl\">(f) where it sustains a claim founded on a breach of any law in force in <sup>2</sup>[India].</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 2 of 1951, s. 3, for “the States” (w.e.f. 1-4-1951).</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 93,
+    "order": 570,
+    "stem": "section_O21R80",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R80",
+    "article_title": "Transfer of negotiable instruments and shares.",
+    "id": "cpc_section_O21R80"
+  },
+  "id": "cpc_section_O21R80",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R80",
+    "title": "Transfer of negotiable instruments and shares.",
+    "content": "(1) Where the execution of a document or the endorsement of the party in whose name a negotiable instrument or a share in a corporation is standing is required to transfer such negotiable instrument or, share the Judge or such officer as he may appoint in this behalf may execute such document or make such endorsement as may be necessary, and such execution or endorsement shall have the same effect as an execution or endorsement by the party.\n(2) Such execution or endorsement may be in the following form, namely:—\nA. B. by C.D. Judge of the Court of (or as the case may be), in a suit by E. F. against A.B.\n(3) Until the transfer of such negotiable instrument or share, the Court may, by order, appoint some person to receive any interest or dividend due thereon and to sign a receipt for the same; and any receipt so signed shall be as valid and effectual for all purposes as if the same had been signed by the party himself.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R80\" data-report=\"Order 21, Rule 80 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80</span>Transfer of negotiable instruments and shares.</h3></div><p class=\"prov-cite\">Order 21, Rule 80</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the execution of a document or the endorsement of the party in whose name a negotiable instrument or a share in a corporation is standing is required to transfer such negotiable instrument or, share the Judge or such officer as he may appoint in this behalf may execute such document or make such endorsement as may be necessary, and such execution or endorsement shall have the same effect as an execution or endorsement by the party.</p><p class=\"lvl\">(2) Such execution or endorsement may be in the following form, namely:—</p><p>A. B. by C.D. Judge of the Court of (or as the case may be), in a suit by E. F. against A.B.</p><p class=\"lvl\">(3) Until the transfer of such negotiable instrument or share, the Court may, by order, appoint some person to receive any interest or dividend due thereon and to sign a receipt for the same; and any receipt so signed shall be as valid and effectual for all purposes as if the same had been signed by the party himself.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80</span>Transfer of negotiable instruments and shares.</h3></div><p class=\"prov-cite\">Order 21, Rule 80</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the execution of a document or the endorsement of the party in whose name a negotiable instrument or a share in a corporation is standing is required to transfer such negotiable instrument or, share the Judge or such officer as he may appoint in this behalf may execute such document or make such endorsement as may be necessary, and such execution or endorsement shall have the same effect as an execution or endorsement by the party.</p><p class=\"lvl\">(2) Such execution or endorsement may be in the following form, namely:—</p><p>A. B. by C.D. Judge of the Court of (or as the case may be), in a suit by E. F. against A.B.</p><p class=\"lvl\">(3) Until the transfer of such negotiable instrument or share, the Court may, by order, appoint some person to receive any interest or dividend due thereon and to sign a receipt for the same; and any receipt so signed shall be as valid and effectual for all purposes as if the same had been signed by the party himself.</p></div>"
+  }
+}

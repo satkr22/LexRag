@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80RR_chunk_0",
+    "section_id": "income-tax-1961_section_80RR",
+    "token_count": 407,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80RR::Deduction in respect of professional income from foreign sources in certain cases.\n]\n\n\nWhere the gross total income of an individual resident in India, being an author, playwright, artist, musician, actor or sportsman (including an athlete), includes any income derived by him in the exercise of his profession from the Government of a foreign State or any person not resident in India, there shall be allowed, in computing the total income of the individual, a deduction from such income of an amount equal to—\n(i) sixty per cent of such income for an assessment year beginning on the 1st day of April, 2001;\n(ii) forty-five per cent of such income for an assessment year beginning on the 1st day of April, 2002;\n(iii) thirty per cent of such income for an assessment year beginning on the 1st day of April, 2003;\n(iv) fifteen per cent of such income for an assessment year beginning on the 1st day of April, 2004, as is brought into India by, or on behalf of, the assessee in convertible foreign exchange within a period of six months from the end of the previous year or within such further period as the competent authority may allow in this behalf and no deduction shall be allowed in respect of the assessment year beginning on the 1st day of April, 2005 and any subsequent assessment year :\nProvided that no deduction under this section shall be allowed unless the assessee furnishes a certificate, in the prescribed form, along with the return of income, certifying that the deduction has been correctly claimed in accordance with the provisions of this section.\nExplanation.—For the purposes of this section, the expression \"competent authority\" means the Reserve Bank of India or such other authority as is authorised under any law for the time being in force for regulating payments and dealings in foreign exchange.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80RR_chunk_0",
+      "section_id": "income-tax-1961_section_80RR",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80RR",
+      "section_title": "Deduction in respect of professional income from foreign sources in certain cases."
+    }
+  }
+]

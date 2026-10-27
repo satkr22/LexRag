@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "consumer_section_85_chunk_0",
+    "section_id": "consumer_section_85",
+    "token_count": 151,
+    "text": "[Act: consumer\n Chapter: Product Liability\n Section: 85::Liability of product service provider.\n]\n\n\nA product service provider shall be liable in a product liability action, if—\n(a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise; or\n(b) there was an act of omission or commission or negligence or conscious withholding any information which caused harm; or\n(c) the service provider did not issue adequate instructions or warnings to prevent any harm; or\n(d) the service did not conform to express warranty or the terms and conditions of the contract.",
+    "metadata": {
+      "chunk_id": "consumer_section_85_chunk_0",
+      "section_id": "consumer_section_85",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "consumer",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Product Liability",
+      "section_number": "85",
+      "section_title": "Liability of product service provider."
+    }
+  }
+]

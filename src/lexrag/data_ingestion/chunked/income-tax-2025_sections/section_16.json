@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_16_chunk_0",
+    "section_id": "income-tax-2025_section_16",
+    "token_count": 306,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 16::Income from salary.\n]\n\n\nFor the purposes of this Part, \"salary\" includes—\n(a) wages;\n(b) any annuity or pension;\n(c) any gratuity;\n(d) any fees or commission;\n(e) perquisites;\n(f) profits in lieu of, or in addition to, any salary or wages;\n(g) any advance of salary;\n(h) any payment received by an employee in respect of any period of leave not availed of by him;\n(i) the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI;\n(j) the aggregate of all sums that are comprised in the transferred balance as referred to in paragraph 11(2) of Part A of Schedule XI of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-paragraphs (4) and (5) thereof;\n(k) the contribution made by the Central Government or any other employer in any tax year, to the account of an employee under a pension scheme referred to in section 124; and\n(l) the contribution made by the Central Government in any tax year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 125.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_16_chunk_0",
+      "section_id": "income-tax-2025_section_16",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "16",
+      "section_title": "Income from salary."
+    }
+  }
+]

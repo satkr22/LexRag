@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-23.html",
+    "source_order": 23,
+    "article_order": 6,
+    "order": 294,
+    "stem": "section_294",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Plea Bargaining",
+    "heading_range": "289 – 300",
+    "heading_source": "group-head",
+    "article_number": "294",
+    "article_title": "Judgment of Court",
+    "id": "bnss_section_294"
+  },
+  "id": "bnss_section_294",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Plea Bargaining",
+    "range": "289 – 300"
+  },
+  "article": {
+    "number": "294",
+    "title": "Judgment of Court",
+    "content": "The Court shall deliver its judgment in terms of section 293 in the open Court and the same shall be signed by the presiding officer of the Court.\n",
+    "html": "<article class=\"provision\" data-n=\"294\" data-report=\"Section 294 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">294</span>Judgment of Court</h3></div><p class=\"prov-cite\">Section 294 · Chapter XXIII</p><div class=\"prov-body\"><p>The Court shall deliver its judgment in terms of section 293 in the open Court and the same shall be signed by the presiding officer of the Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">294</span>Judgment of Court</h3></div><p class=\"prov-cite\">Section 294 · Chapter XXIII</p><div class=\"prov-body\"><p>The Court shall deliver its judgment in terms of section 293 in the open Court and the same shall be signed by the presiding officer of the Court.</p></div>"
+  }
+}

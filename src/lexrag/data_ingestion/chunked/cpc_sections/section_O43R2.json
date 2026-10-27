@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "cpc_section_O43R2_chunk_0",
+    "section_id": "cpc_section_O43R2",
+    "token_count": 42,
+    "text": "[Act: cpc\n Chapter: Appeals from Orders\n Section: O43R2::Procedure.\n]\n\n\nThe rules of Order XLI shall apply, so far as may be, to appeals from orders.",
+    "metadata": {
+      "chunk_id": "cpc_section_O43R2_chunk_0",
+      "section_id": "cpc_section_O43R2",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "cpc",
+      "document_title": "The Code of Civil Procedure, 1908",
+      "chapter_number": "Order XLIII",
+      "chapter_title": "Appeals from Orders",
+      "section_number": "O43R2",
+      "section_title": "Procedure."
+    }
+  }
+]

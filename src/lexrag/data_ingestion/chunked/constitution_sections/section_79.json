@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_79_chunk_0",
+    "section_id": "constitution_section_79",
+    "token_count": 54,
+    "text": "[Act: constitution\n Chapter: The Union\n Section: 79::Constitution of Parliament\n]\n\n\nThere shall be a Parliament for the Union which shall consist of the President and two Houses to be known respectively as the Council of States and the House of the People.",
+    "metadata": {
+      "chunk_id": "constitution_section_79_chunk_0",
+      "section_id": "constitution_section_79",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part V",
+      "chapter_title": "The Union",
+      "section_number": "79",
+      "section_title": "Constitution of Parliament"
+    }
+  }
+]

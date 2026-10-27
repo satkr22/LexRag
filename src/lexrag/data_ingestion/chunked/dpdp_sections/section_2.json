@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "dpdp_section_2_chunk_0",
+    "section_id": "dpdp_section_2",
+    "token_count": 506,
+    "text": "[Act: dpdp\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\nIn this Act, unless the context otherwise requires,—\n\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and Appellate Tribunal established under section 14 of the Telecom Regulatory Authority of India Act, 1997 (24 of 1997);\n  (b) “automated” means any digital process capable of operating automatically in response to instructions given or otherwise for the purpose of processing data;\n  (c) “Board” means the Data Protection Board of India established by the Central Government under section 18;\n  (d) “certain legitimate uses” means the uses referred to in section 7;\n  (e) “Chairperson” means the Chairperson of the Board;\n  (f) “child” means an individual who has not completed the age of eighteen years;\n  (g) “Consent Manager” means a person registered with the Board, who acts as a single point of contact to enable a Data Principal to give, manage, review and withdraw her consent through an accessible, transparent and interoperable platform;\n  (h) “data” means a representation of information, facts, concepts, opinions or instructions in a manner suitable for communication, interpretation or processing by human beings or by automated means;\n  (i) “Data Fiduciary” means any person who alone or in conjunction with other persons determines the purpose and means of processing of personal data;\n  (j) “Data Principal” means the individual to whom the personal data relates and where such individual is—\n  (i) a child, includes the parents or lawful guardian of such a child;\n  (ii) a person with disability, includes her lawful guardian, acting on her behalf;\n  (k) “Data Processor” means any person who processes personal data on behalf of a Data Fiduciary;\n  (l) “Data Protection Officer” means an individual appointed by the Significant Data Fiduciary under clause (a) of sub-section (2) of section 10;\n  (m) “digital office” means an office that adopts an online mechanism wherein the proceedings, from receipt of intimation or complaint or reference or directions or appeal, as the case may be, to the disposal thereof, are conducted in online or digital mode;\n  (n) “digital personal data” means personal data in digital form;\n  (o) “gain” means—",
+    "metadata": {
+      "chunk_id": "dpdp_section_2_chunk_0",
+      "section_id": "dpdp_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "dpdp_section_2_chunk_1",
+    "section_id": "dpdp_section_2",
+    "token_count": 450,
+    "text": "[Act: dpdp\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\nIn this Act, unless the context otherwise requires,—\n\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and Appellate Tribunal established under section 14 of the Telecom Regulatory Authority of India Act, 1997 (24 of 1997);\n  (i) a gain in property or supply of services, whether temporary or permanent; or\n  (ii) an opportunity to earn remuneration or greater remuneration or to gain a financial advantage otherwise than by way of legitimate remuneration;\n  (p) “loss” means—\n  (i) a loss in property or interruption in supply of services, whether temporary or permanent; or\n  (ii) a loss of opportunity to earn remuneration or greater remuneration or to gain a financial advantage otherwise than by way of legitimate remuneration;\n  (q) “Member” means a Member of the Board and includes the Chairperson;\n  (r) “notification” means a notification published in the Official Gazette and the expressions “notify” and “notified” shall be construed accordingly;\n  (s) “person” includes—\n  (i) an individual;\n  (ii) a Hindu undivided family;\n  (iii) a company;\n  (iv) a firm;\n  (v) an association of persons or a body of individuals, whether incorporated or not;\n  (vi) the State; and\n  (vii) every artificial juristic person, not falling within any of the preceding sub-clauses;\n  (t) “personal data” means any data about an individual who is identifiable by or in relation to such data;\n  (u) “personal data breach” means any unauthorised processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss of access to personal data, that compromises the confidentiality, integrity or availability of personal data;\n  (v) “prescribed” means prescribed by rules made under this Act;\n  (w) “proceeding” means any action taken by the Board under the provisions of this Act;",
+    "metadata": {
+      "chunk_id": "dpdp_section_2_chunk_1",
+      "section_id": "dpdp_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "dpdp_section_2_chunk_2",
+    "section_id": "dpdp_section_2",
+    "token_count": 278,
+    "text": "[Act: dpdp\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\nIn this Act, unless the context otherwise requires,—\n\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and Appellate Tribunal established under section 14 of the Telecom Regulatory Authority of India Act, 1997 (24 of 1997);\n  (x) “processing” in relation to personal data, means a wholly or partly automated operation or set of operations performed on digital personal data, and includes operations such as collection, recording, organisation, structuring, storage, adaptation, retrieval, use, alignment or combination, indexing, sharing, disclosure by transmission, dissemination or otherwise making available, restriction, erasure or destruction;\n  (y) “she” in relation to an individual includes the reference to such individual irrespective of gender;\n  (z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data Fiduciaries as may be notified by the Central Government under section 10;\n  (za) “specified purpose” means the purpose mentioned in the notice given by the Data Fiduciary to the Data Principal in accordance with the provisions of this Act and the rules made thereunder; and\n  (zb) “State” means the State as defined under article 12 of the Constitution.",
+    "metadata": {
+      "chunk_id": "dpdp_section_2_chunk_2",
+      "section_id": "dpdp_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 2,
+      "is_intact_section": false,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  }
+]

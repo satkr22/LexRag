@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_36_chunk_0",
+    "section_id": "contract_section_36",
+    "token_count": 141,
+    "text": "[Act: contract\n Chapter: Of Contingent Contracts\n Section: 36::Agreement contingent on impossible events void.\n]\n\n\nContingent agreements to do or not to do anything, if an impossible event happens, are void, whether the impossibility of the event is known or not to the parties to the agreement at the time when it is made.\nIllustrations\n(a)A agrees to pay B 1,000 rupees if two straight lines should enclose a space. The agreement is void.\n(b)A agrees to pay B 1,000 rupees if B will marry A’s daughter C. C was dead at the time of the agreement. The agreement is void.",
+    "metadata": {
+      "chunk_id": "contract_section_36_chunk_0",
+      "section_id": "contract_section_36",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Of Contingent Contracts",
+      "section_number": "36",
+      "section_title": "Agreement contingent on impossible events void."
+    }
+  }
+]

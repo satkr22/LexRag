@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 44,
+    "order": 107,
+    "stem": "section_95",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "95",
+    "article_title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+    "id": "constitution_section_95"
+  },
+  "id": "constitution_section_95",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "95",
+    "title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+    "content": "(1)While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the House of the People as the President may appoint for the purpose.\n(2)During the absence of the Speaker from any sitting of the House of the People the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the House, or, if no such person is present, such other person as may be determined by the House, shall act as Speaker.\n",
+    "html": "<article class=\"provision\" data-n=\"95\" data-report=\"Article 95 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">95</span>Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker</h3></div><p class=\"prov-cite\">Article 95 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the House of the People as the President may appoint for the purpose.</p><p><span class=\"lbl\">(2)</span>During the absence of the Speaker from any sitting of the House of the People the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the House, or, if no such person is present, such other person as may be determined by the House, shall act as Speaker.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">95</span>Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker</h3></div><p class=\"prov-cite\">Article 95 · Part V · Officers of Parliament</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the House of the People as the President may appoint for the purpose.</p><p><span class=\"lbl\">(2)</span>During the absence of the Speaker from any sitting of the House of the People the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the House, or, if no such person is present, such other person as may be determined by the House, shall act as Speaker.</p></div>"
+  }
+}

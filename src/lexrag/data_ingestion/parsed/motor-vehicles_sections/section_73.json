@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-05.html",
+    "source_order": 5,
+    "article_order": 10,
+    "order": 80,
+    "stem": "section_73",
+    "heading_number": "Chapter V",
+    "heading_title": "Control of Transport Vehicles",
+    "heading_range": "ss. 66–96",
+    "heading_source": "group-head",
+    "article_number": "73",
+    "article_title": "Application for contract carriage permit.",
+    "id": "motor-vehicles_section_73"
+  },
+  "id": "motor-vehicles_section_73",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Control of Transport Vehicles",
+    "range": "ss. 66–96"
+  },
+  "article": {
+    "number": "73",
+    "title": "Application for contract carriage permit.",
+    "content": "An application for a permit in respect of a contract carriage (in this Chapter referred to as a contract carriage permit) shall contain the following particulars, namely:—\n(a) the type and seating capacity of the vehicle;\n(b) the area for which the permit is required;\n(c) any other particulars which may be prescribed.\n",
+    "html": "<article class=\"provision\" data-n=\"73\" data-report=\"Section 73 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Application for contract carriage permit.</h3></div><p class=\"prov-cite\">Section 73  ·  Chapter V  ·  page 54 of the Act</p><div class=\"prov-body\"><p>An application for a permit in respect of a contract carriage (in this Chapter referred to as a contract carriage permit) shall contain the following particulars, namely:—</p><p class=\"lvl\">(a) the type and seating capacity of the vehicle;</p><p class=\"lvl\">(b) the area for which the permit is required;</p><p class=\"lvl\">(c) any other particulars which may be prescribed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Application for contract carriage permit.</h3></div><p class=\"prov-cite\">Section 73  ·  Chapter V  ·  page 54 of the Act</p><div class=\"prov-body\"><p>An application for a permit in respect of a contract carriage (in this Chapter referred to as a contract carriage permit) shall contain the following particulars, namely:—</p><p class=\"lvl\">(a) the type and seating capacity of the vehicle;</p><p class=\"lvl\">(b) the area for which the permit is required;</p><p class=\"lvl\">(c) any other particulars which may be prescribed.</p></div>"
+  }
+}

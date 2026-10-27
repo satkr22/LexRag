@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_206A_chunk_0",
+    "section_id": "income-tax-1961_section_206A",
+    "token_count": 365,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 206A::Furnishing of statement in respect of payment of any income to residents without deduction of tax.\n]\n\n\n(1) Any banking company or co-operative society or public company referred to in the proviso to clause (i) of sub-section (3) of section 194A responsible for paying to a resident any income not exceeding forty thousand rupees, where the payer is a banking company or a co-operative society, and five thousand rupees in any other case by way of interest (other than interest on securities), shall prepare such statement in such form, containing such particulars, for such period, verified in such manner and within such time, as may be prescribed, and deliver or cause to be delivered the said statement to the prescribed income-tax authority or to the person authorised by such authority.\n(2) The Board may require any person, other than a person mentioned in sub-section (1), responsible for paying to a resident any income liable for deduction of tax at source under Chapter XVII, to prepare such statement in such form, containing such particulars, for such period, verified in such manner and within such time, as may be prescribed, and deliver or cause to be delivered the said statement to the income-tax authority or the authorised person referred to in sub-section (1).\n(3) The person responsible for paying to a resident any income referred to in sub-section (1) or sub-section (2) may also deliver to the income-tax authority referred to in sub-section (1), a correction statement for rectification of any mistake or to add, delete or update the information furnished in the statement delivered under the said sub-sections in such form and verified in such manner, as may be prescribed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_206A_chunk_0",
+      "section_id": "income-tax-1961_section_206A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "206A",
+      "section_title": "Furnishing of statement in respect of payment of any income to residents without deduction of tax."
+    }
+  }
+]

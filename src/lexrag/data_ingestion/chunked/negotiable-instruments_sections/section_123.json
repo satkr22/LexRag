@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_123_chunk_0",
+    "section_id": "negotiable-instruments_section_123",
+    "token_count": 94,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Crossed Cheques\n Section: 123::Cheque crossed generally.\n]\n\n\nWhere a cheque bears across its face an addition of the words “and company” or any abbreviation thereof, between two parallel transverse lines, or of two parallel transverse lines simply, either with or without the words “not negotiable,” that addition shall be deemed a crossing, and the cheque shall be deemed to be crossed generally.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_123_chunk_0",
+      "section_id": "negotiable-instruments_section_123",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Of Crossed Cheques",
+      "section_number": "123",
+      "section_title": "Cheque crossed generally."
+    }
+  }
+]

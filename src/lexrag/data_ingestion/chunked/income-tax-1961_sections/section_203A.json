@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_203A_chunk_0",
+    "section_id": "income-tax-1961_section_203A",
+    "token_count": 345,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 203A::Tax deduction and collection account number.\n]\n\n\n(1) Every person, deducting tax or collecting tax in accordance with the provisions of this Chapter, who has not been allotted a tax deduction account number or, as the case may be, a tax collection account number, shall, within such time as may be prescribed, apply to the Assessing Officer for the allotment of a \"tax deduction and collection account number\".\n(2) Where a \"tax deduction account number\" or, as the case may be, a \"tax collection account number\" or a \"tax deduction and collection account number\" has been allotted to a person, such person shall quote such number—\n(a) in all challans for the payment of any sum in accordance with the provisions of section 200 or sub-section (3) of section 206C;\n(b) in all certificates furnished under section 203 or sub-section (5) of section 206C;\n(ba) in all the statements prepared and delivered or caused to be delivered in accordance with the provisions of sub-section (3) of section 200 or sub-section (3) of section 206C;\n(c) in all the returns, delivered in accordance with the provisions of section 206 or sub-section (5A) or sub-section (5B) of section 206C to any income-tax authority; and\n(d) in all other documents pertaining to such transactions as may be prescribed in the interests of revenue.\n(3) The provisions of this section shall not apply to such person, as may be notified by the Central Government in this behalf.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_203A_chunk_0",
+      "section_id": "income-tax-1961_section_203A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "203A",
+      "section_title": "Tax deduction and collection account number."
+    }
+  }
+]

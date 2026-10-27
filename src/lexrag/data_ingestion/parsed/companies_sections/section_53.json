@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 11,
+    "order": 55,
+    "stem": "section_53",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "53",
+    "article_title": "Prohibition on issue of shares at discount.",
+    "id": "companies_section_53"
+  },
+  "id": "companies_section_53",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "53",
+    "title": "Prohibition on issue of shares at discount.",
+    "content": "(1) Except as provided in section 54, a company shall not issue shares at a discount.\n(2) Any share issued by a company at a 1[discount] shall be void.\n2[(2A) Notwithstanding anything contained in sub-sections (1) and (2), a company may issue shares at a discount to its creditors when its debt is converted into shares in pursuance of any statutory resolution plan or debt restructuring scheme in accordance with any guidelines or directions or regulations specified by the Reserve Bank of India under the Reserve Bank of India Act, 1934 (2 of 1934) or the Banking (Regulation) Act, 1949 (10 of 1949).]\n3[(3) Where any company fails to comply with the provisions of this section, such company and every officer who is in default shall be liable to a penalty which may extend to an amount equal to the amount raised through the issue of shares at a discount of five lakh rupees, whichever is less, and the company shall also be liable to refund all monies received with interest at the rate of twelve per cent. per annum from the date of issue of such shares to the persons to whom such shares have been issued.]\n",
+    "html": "<article class=\"provision\" data-n=\"53\" data-report=\"Section 53 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Prohibition on issue of shares at discount.</h3></div><p class=\"prov-cite\">Section 53  ·  Chapter IV  ·  page 49 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Except as provided in section 54, a company shall not issue shares at a discount.</p><p class=\"lvl\">(2) Any share issued by a company at a <sup>1</sup>[discount] shall be void.</p><p class=\"lvl\"><sup>2</sup>[(2A) Notwithstanding anything contained in sub-sections (1) and (2), a company may issue shares at a discount to its creditors when its debt is converted into shares in pursuance of any statutory resolution plan or debt restructuring scheme in accordance with any guidelines or directions or regulations specified by the Reserve Bank of India under the Reserve Bank of India Act, 1934 (2 of 1934) or the Banking (Regulation) Act, 1949 (10 of 1949).]</p><p class=\"lvl\"><sup>3</sup>[(3) Where any company fails to comply with the provisions of this section, such company and every officer who is in default shall be liable to a penalty which may extend to an amount equal to the amount raised through the issue of shares at a discount of five lakh rupees, whichever is less, and the company shall also be liable to refund all monies received with interest at the rate of twelve per cent. per annum from the date of issue of such shares to the persons to whom such shares have been issued.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 1 of 2018, s. 12, for “discounted price” (w.e.f. 9-2-2018).</p><p class=\"fn\"><sup>2</sup> Ins. by Act 1 of 2018, s. 12 (w.e.f. 9-2-2018).</p><p class=\"fn\"><sup>3</sup> Subs. by Act 22 of 2019, s. 9, for sub-section (3) (w.e.f. 2-11-2018).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Prohibition on issue of shares at discount.</h3></div><p class=\"prov-cite\">Section 53  ·  Chapter IV  ·  page 49 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Except as provided in section 54, a company shall not issue shares at a discount.</p><p class=\"lvl\">(2) Any share issued by a company at a <sup>1</sup>[discount] shall be void.</p><p class=\"lvl\"><sup>2</sup>[(2A) Notwithstanding anything contained in sub-sections (1) and (2), a company may issue shares at a discount to its creditors when its debt is converted into shares in pursuance of any statutory resolution plan or debt restructuring scheme in accordance with any guidelines or directions or regulations specified by the Reserve Bank of India under the Reserve Bank of India Act, 1934 (2 of 1934) or the Banking (Regulation) Act, 1949 (10 of 1949).]</p><p class=\"lvl\"><sup>3</sup>[(3) Where any company fails to comply with the provisions of this section, such company and every officer who is in default shall be liable to a penalty which may extend to an amount equal to the amount raised through the issue of shares at a discount of five lakh rupees, whichever is less, and the company shall also be liable to refund all monies received with interest at the rate of twelve per cent. per annum from the date of issue of such shares to the persons to whom such shares have been issued.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 1 of 2018, s. 12, for “discounted price” (w.e.f. 9-2-2018).</p><p class=\"fn\"><sup>2</sup> Ins. by Act 1 of 2018, s. 12 (w.e.f. 9-2-2018).</p><p class=\"fn\"><sup>3</sup> Subs. by Act 22 of 2019, s. 9, for sub-section (3) (w.e.f. 2-11-2018).</p></div></div>"
+  }
+}

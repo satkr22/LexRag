@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_39_chunk_0",
+    "section_id": "easements_section_39",
+    "token_count": 61,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 39::Extinction by revocation.\n]\n\n\nAn easement is extinguished when the servient owner, in exercise of a power reserved in this behalf, revokes the easement.",
+    "metadata": {
+      "chunk_id": "easements_section_39_chunk_0",
+      "section_id": "easements_section_39",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "39",
+      "section_title": "Extinction by revocation."
+    }
+  }
+]

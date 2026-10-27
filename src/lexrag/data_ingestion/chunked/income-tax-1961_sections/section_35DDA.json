@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_35DDA_chunk_0",
+    "section_id": "income-tax-1961_section_35DDA",
+    "token_count": 425,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 35DDA::Amortisation of expenditure incurred under voluntary retirement scheme.\n]\n\n\n(1) Where an assessee incurs any expenditure in any previous year by way of payment of any sum to an employee in connection with his voluntary retirement, in accordance with any scheme or schemes of voluntary retirement, one-fifth of the amount so paid shall be deducted in computing the profits and gains of the business for that previous year, and the balance shall be deducted in equal instalments for each of the four immediately succeeding previous years.\n  (2) Where the assessee, being an Indian company, is entitled to the deduction under sub-section (1) and the undertaking of such Indian company entitled to the deduction under sub-section (1) is transferred, before the expiry of the period specified in that sub-section, to another Indian company in a scheme of amalgamation, the provisions of this section shall, as far as may be, apply to the amalgamated company as they would have applied to the amalgamating company if the amalgamation had not taken place.\n  (3) Where the undertaking of an Indian company entitled to the deduction under sub-section (1) is transferred, before the expiry of the period specified in that sub-section, to another company in a scheme of demerger, the provisions of this section shall, as far as may be, apply to the resulting company, as they would have applied to the demerged company, if the demerger had not taken place.\n  (4) Where there has been reorganisation of business, whereby a firm is succeeded by a company fulfilling the conditions laid down in clause (xiii) of section 47 or a proprietary concern is succeeded by a company fulfilling the conditions laid down in clause (xiv) of section 47, the provisions of this section shall, as far as may be, apply to the successor company, as they would have applied to the firm or the proprietary concern, if reorganisation of business had not taken place.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_35DDA_chunk_0",
+      "section_id": "income-tax-1961_section_35DDA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "35DDA",
+      "section_title": "Amortisation of expenditure incurred under voluntary retirement scheme."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_35DDA_chunk_1",
+    "section_id": "income-tax-1961_section_35DDA",
+    "token_count": 363,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 35DDA::Amortisation of expenditure incurred under voluntary retirement scheme.\n]\n\n\n(1) Where an assessee incurs any expenditure in any previous year by way of payment of any sum to an employee in connection with his voluntary retirement, in accordance with any scheme or schemes of voluntary retirement, one-fifth of the amount so paid shall be deducted in computing the profits and gains of the business for that previous year, and the balance shall be deducted in equal instalments for each of the four immediately succeeding previous years.\n  (4A) Where there has been reorganisation of business, whereby a private company or unlisted public company is succeeded by a limited liability partnership fulfilling the conditions laid down in the proviso to clause (xiiib) of section 47, the provisions of this section shall, as far as may be, apply to the successor limited liability partnership, as they would have applied to the said company, if reorganisation of business had not taken place.\n  (5) No deduction shall be allowed in respect of the expenditure mentioned in sub-section (1) in the case of the amalgamating company referred to in sub-section (2), in the case of demerged company referred to in sub-section (3), in the case of a firm or proprietary concern referred to in sub-section (4) and in the case of a company referred to in sub-section (4A) of this section, for the previous year in which amalgamation, demerger or succession, as the case may be, takes place.\n  (6) No deduction shall be allowed in respect of the expenditure mentioned in sub-section (1) under any other provision of this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_35DDA_chunk_1",
+      "section_id": "income-tax-1961_section_35DDA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "35DDA",
+      "section_title": "Amortisation of expenditure incurred under voluntary retirement scheme."
+    }
+  }
+]

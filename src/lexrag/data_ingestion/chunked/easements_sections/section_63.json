@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_63_chunk_0",
+    "section_id": "easements_section_63",
+    "token_count": 61,
+    "text": "[Act: easements\n Chapter: Licenses\n Section: 63::Licensee’s rights on revocation.\n]\n\n\nWhere a license is revoked, the licensee is entitled to a reasonable time to leave the property affected thereby and to remove any goods which he has been allowed to place on such property.",
+    "metadata": {
+      "chunk_id": "easements_section_63_chunk_0",
+      "section_id": "easements_section_63",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Licenses",
+      "section_number": "63",
+      "section_title": "Licensee’s rights on revocation."
+    }
+  }
+]

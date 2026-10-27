@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-16.html",
+    "source_order": 17,
+    "article_order": 30,
+    "order": 297,
+    "stem": "section_297",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Procedure for Assessment",
+    "heading_range": "ss. 268–301",
+    "heading_source": "group-head",
+    "article_number": "297",
+    "article_title": "Certain interests and penalties not to be levied or imposed.",
+    "id": "income-tax-2025_section_297"
+  },
+  "id": "income-tax-2025_section_297",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Procedure for Assessment",
+    "range": "ss. 268–301"
+  },
+  "article": {
+    "number": "297",
+    "title": "Certain interests and penalties not to be levied or imposed.",
+    "content": "Interest under section 423, 424 or 425 or penalty under section 439 shall not be levied or imposed upon the assessee for the undisclosed income assessed or reassessed for the block period.\n",
+    "html": "<article class=\"provision\" data-n=\"297\" data-report=\"Section 297 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">297</span>Certain interests and penalties not to be levied or imposed.</h3></div><p class=\"prov-cite\">Section 297  ·  Chapter XVI  ·  B.—Special procedure for assessment of search cases  ·  page 361 of the Act</p><div class=\"prov-body\"><p>Interest under section 423, 424 or 425 or penalty under section 439 shall not be levied or imposed upon the assessee for the undisclosed income assessed or reassessed for the block period.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">297</span>Certain interests and penalties not to be levied or imposed.</h3></div><p class=\"prov-cite\">Section 297  ·  Chapter XVI  ·  B.—Special procedure for assessment of search cases  ·  page 361 of the Act</p><div class=\"prov-body\"><p>Interest under section 423, 424 or 425 or penalty under section 439 shall not be levied or imposed upon the assessee for the undisclosed income assessed or reassessed for the block period.</p></div>"
+  }
+}

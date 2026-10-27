@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-36.html",
+    "source_order": 36,
+    "article_order": 4,
+    "order": 500,
+    "stem": "section_500",
+    "heading_number": "Chapter XXXVI",
+    "heading_title": "Disposal of Property",
+    "heading_range": "497 – 505",
+    "heading_source": "group-head",
+    "article_number": "500",
+    "article_title": "Appeal against orders under section 498 or section 499",
+    "id": "bnss_section_500"
+  },
+  "id": "bnss_section_500",
+  "heading": {
+    "number": "Chapter XXXVI",
+    "title": "Disposal of Property",
+    "range": "497 – 505"
+  },
+  "article": {
+    "number": "500",
+    "title": "Appeal against orders under section 498 or section 499",
+    "content": "(1)Any person aggrieved by an order made by a Court or Magistrate under section 498 or section 499, may appeal against it to the Court to which appeals ordinarily lie from convictions by the former Court.\n(2)On such appeal, the Appellate Court may direct the order to be stayed pending disposal of the appeal, or may modify, alter or annul the order and make any further orders that may be just.\n(3)The powers referred to in sub-section (2) may also be exercised by a Court of appeal, confirmation or revision while dealing with the case in which the order referred to in sub-section (1) was made.\n",
+    "html": "<article class=\"provision\" data-n=\"500\" data-report=\"Section 500 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">500</span>Appeal against orders under section 498 or section 499</h3></div><p class=\"prov-cite\">Section 500 · Chapter XXXVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any person aggrieved by an order made by a Court or Magistrate under section 498 or section 499, may appeal against it to the Court to which appeals ordinarily lie from convictions by the former Court.</p><p><span class=\"lbl\">(2)</span>On such appeal, the Appellate Court may direct the order to be stayed pending disposal of the appeal, or may modify, alter or annul the order and make any further orders that may be just.</p><p><span class=\"lbl\">(3)</span>The powers referred to in sub-section (2) may also be exercised by a Court of appeal, confirmation or revision while dealing with the case in which the order referred to in sub-section (1) was made.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">500</span>Appeal against orders under section 498 or section 499</h3></div><p class=\"prov-cite\">Section 500 · Chapter XXXVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any person aggrieved by an order made by a Court or Magistrate under section 498 or section 499, may appeal against it to the Court to which appeals ordinarily lie from convictions by the former Court.</p><p><span class=\"lbl\">(2)</span>On such appeal, the Appellate Court may direct the order to be stayed pending disposal of the appeal, or may modify, alter or annul the order and make any further orders that may be just.</p><p><span class=\"lbl\">(3)</span>The powers referred to in sub-section (2) may also be exercised by a Court of appeal, confirmation or revision while dealing with the case in which the order referred to in sub-section (1) was made.</p></div>"
+  }
+}

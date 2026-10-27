@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_41_chunk_0",
+    "section_id": "technology_section_41",
+    "token_count": 191,
+    "text": "[Act: technology\n Chapter: Duties of Subscribers\n Section: 41::Acceptance of Digital Signature Certificate.\n]\n\n\n(1) A subscriber shall be deemed to have accepted a Digital Signature Certificate if he publishes or authorises the publication of a Digital Signature Certificate–\n(a) to one or more persons;\n(b) in a repository; or\notherwise demonstrates his approval of the Digital Signature Certificate in any manner.\n(2) By accepting a Digital Signature Certificate the subscriber certifies to all who reasonably rely on the information contained in the Digital Signature Certificate that–\n(a) the subscriber holds the private key corresponding to the public key listed in the Digital Signature Certificate and is entitled to hold the same;\n(b) all representations made by the subscriber to the Certifying Authority and all material relevant to the information contained in the Digital Signature Certificate are true;\n(c) all information in the Digital Signature Certificate that is within the knowledge of the subscriber is true.",
+    "metadata": {
+      "chunk_id": "technology_section_41_chunk_0",
+      "section_id": "technology_section_41",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Duties of Subscribers",
+      "section_number": "41",
+      "section_title": "Acceptance of Digital Signature Certificate."
+    }
+  }
+]

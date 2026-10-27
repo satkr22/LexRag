@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_100_chunk_0",
+    "section_id": "income-tax-2025_section_100",
+    "token_count": 213,
+    "text": "[Act: income-tax-2025\n Chapter: Income of Other Persons Included in Total Income of Assessee\n Section: 100::Liability of person in respect of income included in income of another person.\n]\n\n\nWhere, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,—\n(a) such person, in whose name such asset stands, or who is a member of the firm, shall be liable to pay, that portion of the tax levied on the assessee which is attributable to the income so included, upon service of notice of demand by the Assessing Officer in this behalf;\n(b) where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay such tax; and\n(c) the provisions of Chapter XIX-D shall apply accordingly.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_100_chunk_0",
+      "section_id": "income-tax-2025_section_100",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Income of Other Persons Included in Total Income of Assessee",
+      "section_number": "100",
+      "section_title": "Liability of person in respect of income included in income of another person."
+    }
+  }
+]

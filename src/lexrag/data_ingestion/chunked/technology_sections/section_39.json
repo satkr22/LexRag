@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_39_chunk_0",
+    "section_id": "technology_section_39",
+    "token_count": 119,
+    "text": "[Act: technology\n Chapter: Electronic Signature Certificates2\n Section: 39::Notice of suspension or revocation.\n]\n\n\n(1) Where a Digital Signature Certificate is suspended or revoked under section 37 or section 38, the Certifying Authority shall publish a notice of such suspension or revocation, as the case may be, in the repository specified in the Digital Signature Certificate for publication of such notice.\n(2) Where one or more repositories are specified, the Certifying Authority shall publish notices of such suspension or revocation, as the case may be, in all such repositories.",
+    "metadata": {
+      "chunk_id": "technology_section_39_chunk_0",
+      "section_id": "technology_section_39",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Electronic Signature Certificates2",
+      "section_number": "39",
+      "section_title": "Notice of suspension or revocation."
+    }
+  }
+]

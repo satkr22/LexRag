@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-28.html",
+    "source_order": 28,
+    "article_order": 1,
+    "order": 28,
+    "stem": "section_28",
+    "heading_number": "Chapter III",
+    "heading_title": "Effects of the Contract",
+    "heading_range": "ss. 18–30",
+    "heading_source": "manifest",
+    "article_number": "28",
+    "article_title": "Sale by one of joint owners.",
+    "id": "sale-of-goods_section_28"
+  },
+  "id": "sale-of-goods_section_28",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Effects of the Contract",
+    "range": "ss. 18–30"
+  },
+  "article": {
+    "number": "28",
+    "title": "Sale by one of joint owners.",
+    "content": "If one of several joint owners of goods has the sole possession of them by permission of the co-owners, the property in the goods is transferred to any person who buys them of such joint owner in good faith and has not at the time of the contract of sale notice that the seller has not authority to sell.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Sale by one of joint owners.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter III  ·  Transfer of title  ·  page 9 of the Act</p><div class=\"prov-body\"><p>If one of several joint owners of goods has the sole possession of them by permission of the co-owners, the property in the goods is transferred to any person who buys them of such joint owner in good faith and has not at the time of the contract of sale notice that the seller has not authority to sell.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Sale by one of joint owners.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter III  ·  Transfer of title  ·  page 9 of the Act</p><div class=\"prov-body\"><p>If one of several joint owners of goods has the sole possession of them by permission of the co-owners, the property in the goods is transferred to any person who buys them of such joint owner in good faith and has not at the time of the contract of sale notice that the seller has not authority to sell.</p></div>"
+  }
+}

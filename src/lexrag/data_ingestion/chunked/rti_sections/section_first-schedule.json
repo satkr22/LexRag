@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "rti_section_first-schedule_chunk_0",
+    "section_id": "rti_section_first-schedule",
+    "token_count": 166,
+    "text": "[Act: rti\n Chapter: Schedules · The Schedules\n Section: first-schedule::The First Schedule\n]\n\n\n“I, ....................., having been appointed Chief Information Commissioner/Information Commissioner/State Chief Information Commissioner/State Information Commissioner swear in the name of God / solemnly affirm that I will bear true faith and allegiance to the Constitution of India as by law established, that I will uphold the sovereignty and integrity of India, that I will duly and faithfully and to the best of my ability, knowledge and judgment perform the duties of my office without fear or favour, affection or ill-will and that I will uphold the Constitution and the laws.”.\nNote: the printed form stacks “swear in the name of God” over “solemnly affirm” as alternatives; they are set here with a slash.",
+    "metadata": {
+      "chunk_id": "rti_section_first-schedule_chunk_0",
+      "section_id": "rti_section_first-schedule",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "rti",
+      "document_title": null,
+      "chapter_number": null,
+      "chapter_title": "Schedules · The Schedules",
+      "section_number": "first-schedule",
+      "section_title": "The First Schedule"
+    }
+  }
+]

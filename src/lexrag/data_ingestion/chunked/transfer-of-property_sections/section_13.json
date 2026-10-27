@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_13_chunk_0",
+    "section_id": "transfer-of-property_section_13",
+    "token_count": 195,
+    "text": "[Act: transfer-of-property\n Chapter: Of Transfers of Property by Act of Parties1\n Section: 13::Transfer for benefit of unborn person.\n]\n\n\nWhere, on a transfer of property, an interest therein is created for the benefit of a person not in existence at the date of the transfer, subject to a prior interest created by the same transfer, the interest created for the benefit of such person shall not take effect, unless it extends to the whole of the remaining interest of the transferor in the property.\nIllustration\nA transfers property of which he is the owner to B in trust for A and his intended wife succesively for their lives, and, after the death of the survivor for the eldest son of the intended marriage for life, and after his death for A's second son. The interest so created for the benefit of the eldest son does not take effect, because it does not extend to the whole of A's remaining interest in the property.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_13_chunk_0",
+      "section_id": "transfer-of-property_section_13",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Transfers of Property by Act of Parties1",
+      "section_number": "13",
+      "section_title": "Transfer for benefit of unborn person."
+    }
+  }
+]

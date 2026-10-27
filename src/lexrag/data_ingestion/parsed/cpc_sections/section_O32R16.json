@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-50.html",
+    "source_order": 50,
+    "article_order": 18,
+    "order": 707,
+    "stem": "section_O32R16",
+    "heading_number": "Order XXXII",
+    "heading_title": "Suits by or against minors and persons of unsound mind",
+    "heading_range": "18 rules",
+    "heading_source": "group-head",
+    "article_number": "O32R16",
+    "article_title": "Savings.",
+    "id": "cpc_section_O32R16"
+  },
+  "id": "cpc_section_O32R16",
+  "heading": {
+    "number": "Order XXXII",
+    "title": "Suits by or against minors and persons of unsound mind",
+    "range": "18 rules"
+  },
+  "article": {
+    "number": "O32R16",
+    "title": "Savings.",
+    "content": "(1) Nothing contained in this Order shall apply to the Ruler of a foreign State suing or being sued in the name of his State, or being sued by the direction of the Central Government in the name of an agent or in any other name.\n(2) Nothing contained in this Order shall be construed as affecting or in any way derogating from the provisions of any local law for the time being in force relating to suits by or against minors or by or against lunatics or other persons of unsound mind.]\n",
+    "html": "<article class=\"provision\" data-n=\"O32R16\" data-report=\"Order 32, Rule 16 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Savings.</h3></div><p class=\"prov-cite\">Order 32, Rule 16</p><div class=\"prov-body\"><p class=\"lvl\">(1) Nothing contained in this Order shall apply to the Ruler of a foreign State suing or being sued in the name of his State, or being sued by the direction of the Central Government in the name of an agent or in any other name.</p><p class=\"lvl\">(2) Nothing contained in this Order shall be construed as affecting or in any way derogating from the provisions of any local law for the time being in force relating to suits by or against minors or by or against lunatics or other persons of unsound mind.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 79, for rule 16 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Savings.</h3></div><p class=\"prov-cite\">Order 32, Rule 16</p><div class=\"prov-body\"><p class=\"lvl\">(1) Nothing contained in this Order shall apply to the Ruler of a foreign State suing or being sued in the name of his State, or being sued by the direction of the Central Government in the name of an agent or in any other name.</p><p class=\"lvl\">(2) Nothing contained in this Order shall be construed as affecting or in any way derogating from the provisions of any local law for the time being in force relating to suits by or against minors or by or against lunatics or other persons of unsound mind.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 79, for rule 16 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

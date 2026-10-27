@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-15.html",
+    "source_order": 15,
+    "article_order": 11,
+    "order": 280,
+    "stem": "section_280",
+    "heading_number": "Chapter XV",
+    "heading_title": "Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals",
+    "heading_range": "270 – 297",
+    "heading_source": "group-head",
+    "article_number": "280",
+    "article_title": "Making atmosphere noxious to health",
+    "id": "bns_section_280"
+  },
+  "id": "bns_section_280",
+  "heading": {
+    "number": "Chapter XV",
+    "title": "Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals",
+    "range": "270 – 297"
+  },
+  "article": {
+    "number": "280",
+    "title": "Making atmosphere noxious to health",
+    "content": "Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to one thousand rupees.\n",
+    "html": "<article class=\"provision\" data-n=\"280\" data-report=\"Section 280 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280</span>Making atmosphere noxious to health</h3></div><p class=\"prov-cite\">Section 280 · Chapter XV</p><div class=\"prov-body\"><p>Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to one thousand rupees.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280</span>Making atmosphere noxious to health</h3></div><p class=\"prov-cite\">Section 280 · Chapter XV</p><div class=\"prov-body\"><p>Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to one thousand rupees.</p></div>"
+  }
+}

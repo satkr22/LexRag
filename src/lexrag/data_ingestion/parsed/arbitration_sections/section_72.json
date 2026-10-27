@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-72.html",
+    "source_order": 96,
+    "article_order": 1,
+    "order": 96,
+    "stem": "section_72",
+    "heading_number": "Part III",
+    "heading_title": "Conciliation",
+    "heading_range": "ss. 61–81",
+    "heading_source": "manifest",
+    "article_number": "72",
+    "article_title": "Suggestions by parties for settlement of dispute.",
+    "id": "arbitration_section_72"
+  },
+  "id": "arbitration_section_72",
+  "heading": {
+    "number": "Part III",
+    "title": "Conciliation",
+    "range": "ss. 61–81"
+  },
+  "article": {
+    "number": "72",
+    "title": "Suggestions by parties for settlement of dispute.",
+    "content": "Each party may, on his own initiative or at the invitation of the conciliator, submit to the conciliator suggestions for the settlement of the dispute.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">72</span>Suggestions by parties for settlement of dispute.</h3></div><p class=\"prov-cite\">Section 72  ·  Part III  ·  page 37 of the Act</p><div class=\"prov-body\"><p>Each party may, on his own initiative or at the invitation of the conciliator, submit to the conciliator suggestions for the settlement of the dispute.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">72</span>Suggestions by parties for settlement of dispute.</h3></div><p class=\"prov-cite\">Section 72  ·  Part III  ·  page 37 of the Act</p><div class=\"prov-body\"><p>Each party may, on his own initiative or at the invitation of the conciliator, submit to the conciliator suggestions for the settlement of the dispute.</p></div>"
+  }
+}

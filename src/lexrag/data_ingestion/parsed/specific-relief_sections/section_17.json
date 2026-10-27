@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "specific-relief",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "specific-relief_sections/section-17.html",
+    "source_order": 18,
+    "article_order": 1,
+    "order": 18,
+    "stem": "section_17",
+    "heading_number": "Part II · Chapter II",
+    "heading_title": "Specific Performance of Contracts",
+    "heading_range": "ss. 9–25",
+    "heading_source": "manifest",
+    "article_number": "17",
+    "article_title": "Contract to sell or let property by one who has no title, not specifically enforceable.",
+    "id": "specific-relief_section_17"
+  },
+  "id": "specific-relief_section_17",
+  "heading": {
+    "number": "Part II · Chapter II",
+    "title": "Specific Performance of Contracts",
+    "range": "ss. 9–25"
+  },
+  "article": {
+    "number": "17",
+    "title": "Contract to sell or let property by one who has no title, not specifically enforceable.",
+    "content": "(1) A contract to sell or let any immovable property cannot be specifically enforced in favour of a vendor or lessor—\n(a) who, knowing himself not to have any title to the property, has contracted to sell or let the property;\n(b) who, though he entered into the contract believing that he had a good title to the property, cannot at the time fixed by the parties or by the court for the completion of the sale or letting, give the purchaser or lessee a title free from reasonable doubt.\n(2) The provisions of sub-section (1) shall also apply, as far as may be, to contracts for the sale or hire of movable property.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Contract to sell or let property by one who has no title, not specifically enforceable.</h3></div><p class=\"prov-cite\">Section 17  ·  Part II · Chapter II  ·  PERSONS FOR OR AGAINST WHOM CONTRACTS MAY BE SPECIFICALLY ENFORCED  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A contract to sell or let any immovable property cannot be specifically enforced in favour of a vendor or lessor—</p><p class=\"lvl\">(a) who, knowing himself not to have any title to the property, has contracted to sell or let the property;</p><p class=\"lvl\">(b) who, though he entered into the contract believing that he had a good title to the property, cannot at the time fixed by the parties or by the court for the completion of the sale or letting, give the purchaser or lessee a title free from reasonable doubt.</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall also apply, as far as may be, to contracts for the sale or hire of movable property.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">17</span>Contract to sell or let property by one who has no title, not specifically enforceable.</h3></div><p class=\"prov-cite\">Section 17  ·  Part II · Chapter II  ·  PERSONS FOR OR AGAINST WHOM CONTRACTS MAY BE SPECIFICALLY ENFORCED  ·  page 8 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A contract to sell or let any immovable property cannot be specifically enforced in favour of a vendor or lessor—</p><p class=\"lvl\">(a) who, knowing himself not to have any title to the property, has contracted to sell or let the property;</p><p class=\"lvl\">(b) who, though he entered into the contract believing that he had a good title to the property, cannot at the time fixed by the parties or by the court for the completion of the sale or letting, give the purchaser or lessee a title free from reasonable doubt.</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall also apply, as far as may be, to contracts for the sale or hire of movable property.</p></div>"
+  }
+}

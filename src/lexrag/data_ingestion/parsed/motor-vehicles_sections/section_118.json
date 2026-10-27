@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-08.html",
+    "source_order": 8,
+    "article_order": 7,
+    "order": 128,
+    "stem": "section_118",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Control of Traffic",
+    "heading_range": "ss. 112–138",
+    "heading_source": "group-head",
+    "article_number": "118",
+    "article_title": "Driving regulations.",
+    "id": "motor-vehicles_section_118"
+  },
+  "id": "motor-vehicles_section_118",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Control of Traffic",
+    "range": "ss. 112–138"
+  },
+  "article": {
+    "number": "118",
+    "title": "Driving regulations.",
+    "content": "The Central Government may, by notification in the Official Gazette, make regulations for the driving of motor vehicles.\n",
+    "html": "<article class=\"provision\" data-n=\"118\" data-report=\"Section 118 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">118</span>Driving regulations.</h3></div><p class=\"prov-cite\">Section 118  ·  Chapter VIII  ·  page 78 of the Act</p><div class=\"prov-body\"><p>The Central Government may, by notification in the Official Gazette, make regulations for the driving of motor vehicles.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">118</span>Driving regulations.</h3></div><p class=\"prov-cite\">Section 118  ·  Chapter VIII  ·  page 78 of the Act</p><div class=\"prov-body\"><p>The Central Government may, by notification in the Official Gazette, make regulations for the driving of motor vehicles.</p></div>"
+  }
+}

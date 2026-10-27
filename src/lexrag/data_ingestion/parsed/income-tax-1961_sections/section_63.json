@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-05.html",
+    "source_order": 8,
+    "article_order": 4,
+    "order": 154,
+    "stem": "section_63",
+    "heading_number": "Chapter V",
+    "heading_title": "Income of Other Persons, Included in Assessee's Total Income",
+    "heading_range": "ss. 60–65",
+    "heading_source": "group-head",
+    "article_number": "63",
+    "article_title": "\"Transfer\" and \"revocable transfer\" defined.",
+    "id": "income-tax-1961_section_63"
+  },
+  "id": "income-tax-1961_section_63",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Income of Other Persons, Included in Assessee's Total Income",
+    "range": "ss. 60–65"
+  },
+  "article": {
+    "number": "63",
+    "title": "\"Transfer\" and \"revocable transfer\" defined.",
+    "content": "For the purposes of sections 60, 61 and 62 and of this section,—\n(a) a transfer shall be deemed to be revocable if—\n(i) it contains any provision for the re-transfer directly or indirectly of the whole or any part of the income or assets to the transferor, or\n(ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets ;\n(b) \"transfer\" includes any settlement, trust, covenant, agreement or arrangement.\n",
+    "html": "<article class=\"provision\" data-n=\"63\" data-report=\"Section 63 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">63</span>\"Transfer\" and \"revocable transfer\" defined.</h3></div><p class=\"prov-cite\">Section 63  ·  Chapter V  ·  page 245 of the Act</p><div class=\"prov-body\"><p>For the purposes of sections 60, 61 and 62 and of this section,—</p><p class=\"lvl\">(a) a transfer shall be deemed to be revocable if—</p><p class=\"lvl\">(i) it contains any provision for the re-transfer directly or indirectly of the whole or any part of the income or assets to the transferor, or</p><p class=\"lvl\">(ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets ;</p><p class=\"lvl\">(b) \"transfer\" includes any settlement, trust, covenant, agreement or arrangement.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">63</span>\"Transfer\" and \"revocable transfer\" defined.</h3></div><p class=\"prov-cite\">Section 63  ·  Chapter V  ·  page 245 of the Act</p><div class=\"prov-body\"><p>For the purposes of sections 60, 61 and 62 and of this section,—</p><p class=\"lvl\">(a) a transfer shall be deemed to be revocable if—</p><p class=\"lvl\">(i) it contains any provision for the re-transfer directly or indirectly of the whole or any part of the income or assets to the transferor, or</p><p class=\"lvl\">(ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets ;</p><p class=\"lvl\">(b) \"transfer\" includes any settlement, trust, covenant, agreement or arrangement.</p></div>"
+  }
+}

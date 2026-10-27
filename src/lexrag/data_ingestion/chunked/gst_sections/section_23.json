@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_23_chunk_0",
+    "section_id": "gst_section_23",
+    "token_count": 167,
+    "text": "[Act: gst\n Chapter: Registration\n Section: 23::Persons not liable for registration.\n]\n\n\n(1) The following persons shall not be liable to registration, namely:––\n(a) any person engaged exclusively in the business of supplying goods or services or both that are not liable to tax or wholly exempt from tax under this Act or under the Integrated Goods and Services Tax Act;\n(b) an agriculturist, to the extent of supply of produce out of cultivation of land.\n3[(2) Notwithstanding anything to the contrary contained in sub-section (1) of section 22 or section 24, the Government may, on the recommendations of the Council, by notification, subject to such conditions and restrictions as may be specified therein, specify the category of persons who may be exempted from obtaining registration under this Act.]",
+    "metadata": {
+      "chunk_id": "gst_section_23_chunk_0",
+      "section_id": "gst_section_23",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Registration",
+      "section_number": "23",
+      "section_title": "Persons not liable for registration."
+    }
+  }
+]

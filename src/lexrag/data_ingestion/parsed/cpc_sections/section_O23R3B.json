@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-40.html",
+    "source_order": 40,
+    "article_order": 6,
+    "order": 616,
+    "stem": "section_O23R3B",
+    "heading_number": "Order XXIII",
+    "heading_title": "Withdrawal and Adjustment of Suits",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O23R3B",
+    "article_title": "No agreement or compromise to be entered in a representative suit without leave of Court.",
+    "id": "cpc_section_O23R3B"
+  },
+  "id": "cpc_section_O23R3B",
+  "heading": {
+    "number": "Order XXIII",
+    "title": "Withdrawal and Adjustment of Suits",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O23R3B",
+    "title": "No agreement or compromise to be entered in a representative suit without leave of Court.",
+    "content": "(1) No agreement or compromise in a representative suit shall be entered into without the leave of the Court expressly recorded in the proceedings; and any such agreement or compromise entered into without the leave of the Court so recorded shall be void.\n(2) Below granting such leave, the Court shall give notice in such manner as it may think fit to such persons is as may appear to it to be interested in the suit.\nExplanation.—In this rule, “representative suit” means,—\n(a) a suit under Section 91 or Section 92,\n(b) a suit under rule 8 of Order I,\n(c) a suit in which the manager of an undivided Hindu family sues or is sued as representing the other members of the family,\n(d) any other suit in which the decree passed may, by virtue of the provisions of this Code or of any other law for the time being in force, bind any person who is not named as party to the suit.]\n",
+    "html": "<article class=\"provision\" data-n=\"O23R3B\" data-report=\"Order 23, Rule 3B · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3B</span>No agreement or compromise to be entered in a representative suit without leave of Court.</h3></div><p class=\"prov-cite\">Order 23, Rule 3B</p><div class=\"prov-body\"><p class=\"lvl\">(1) No agreement or compromise in a representative suit shall be entered into without the leave of the Court expressly recorded in the proceedings; and any such agreement or compromise entered into without the leave of the Court so recorded shall be void.</p><p class=\"lvl\">(2) Below granting such leave, the Court shall give notice in such manner as it may think fit to such persons is as may appear to it to be interested in the suit.</p><p class=\"prvso\">Explanation.—In this rule, “representative suit” means,—</p><p class=\"lvl\">(a) a suit under Section 91 or Section 92,</p><p class=\"lvl\">(b) a suit under rule 8 of Order I,</p><p class=\"lvl\">(c) a suit in which the manager of an undivided Hindu family sues or is sued as representing the other members of the family,</p><p class=\"lvl\">(d) any other suit in which the decree passed may, by virtue of the provisions of this Code or of any other law for the time being in force, bind any person who is not named as party to the suit.]</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3B</span>No agreement or compromise to be entered in a representative suit without leave of Court.</h3></div><p class=\"prov-cite\">Order 23, Rule 3B</p><div class=\"prov-body\"><p class=\"lvl\">(1) No agreement or compromise in a representative suit shall be entered into without the leave of the Court expressly recorded in the proceedings; and any such agreement or compromise entered into without the leave of the Court so recorded shall be void.</p><p class=\"lvl\">(2) Below granting such leave, the Court shall give notice in such manner as it may think fit to such persons is as may appear to it to be interested in the suit.</p><p class=\"prvso\">Explanation.—In this rule, “representative suit” means,—</p><p class=\"lvl\">(a) a suit under Section 91 or Section 92,</p><p class=\"lvl\">(b) a suit under rule 8 of Order I,</p><p class=\"lvl\">(c) a suit in which the manager of an undivided Hindu family sues or is sued as representing the other members of the family,</p><p class=\"lvl\">(d) any other suit in which the decree passed may, by virtue of the provisions of this Code or of any other law for the time being in force, bind any person who is not named as party to the suit.]</p></div>"
+  }
+}

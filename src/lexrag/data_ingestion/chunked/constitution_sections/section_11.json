@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_11_chunk_0",
+    "section_id": "constitution_section_11",
+    "token_count": 63,
+    "text": "[Act: constitution\n Chapter: Citizenship\n Section: 11::Parliament to regulate the right of citizenship by law\n]\n\n\nNothing in the foregoing provisions of this Part shall derogate from the power of Parliament to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.",
+    "metadata": {
+      "chunk_id": "constitution_section_11_chunk_0",
+      "section_id": "constitution_section_11",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part II",
+      "chapter_title": "Citizenship",
+      "section_number": "11",
+      "section_title": "Parliament to regulate the right of citizenship by law"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-19.html",
+    "source_order": 19,
+    "article_order": 12,
+    "order": 259,
+    "stem": "section_259",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Trial before a Court of Session",
+    "heading_range": "248 – 260",
+    "heading_source": "group-head",
+    "article_number": "259",
+    "article_title": "Previous conviction",
+    "id": "bnss_section_259"
+  },
+  "id": "bnss_section_259",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Trial before a Court of Session",
+    "range": "248 – 260"
+  },
+  "article": {
+    "number": "259",
+    "title": "Previous conviction",
+    "content": "In a case where a previous conviction is charged under the provisions of sub-section (7) of section 234, and the accused does not admit that he has been previously convicted as alleged in the charge, the Judge may, after he has convicted the said accused under section 252 or section 258, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:\nProvisoProvided that no such charge shall be read out by the Judge nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under section 252 or section 258.\n",
+    "html": "<article class=\"provision\" data-n=\"259\" data-report=\"Section 259 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">259</span>Previous conviction</h3></div><p class=\"prov-cite\">Section 259 · Chapter XIX</p><div class=\"prov-body\"><p>In a case where a previous conviction is charged under the provisions of sub-section (7) of section 234, and the accused does not admit that he has been previously convicted as alleged in the charge, the Judge may, after he has convicted the said accused under section 252 or section 258, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:</p><p><span class=\"named\">Proviso</span>Provided that no such charge shall be read out by the Judge nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under section 252 or section 258.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">259</span>Previous conviction</h3></div><p class=\"prov-cite\">Section 259 · Chapter XIX</p><div class=\"prov-body\"><p>In a case where a previous conviction is charged under the provisions of sub-section (7) of section 234, and the accused does not admit that he has been previously convicted as alleged in the charge, the Judge may, after he has convicted the said accused under section 252 or section 258, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:</p><p><span class=\"named\">Proviso</span>Provided that no such charge shall be read out by the Judge nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under section 252 or section 258.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-09.html",
+    "source_order": 9,
+    "article_order": 1,
+    "order": 262,
+    "stem": "section_239",
+    "heading_number": "Part VIII",
+    "heading_title": "The Union Territories",
+    "heading_range": "239 – 242",
+    "heading_source": "group-head",
+    "article_number": "239",
+    "article_title": "Administration of Union territories",
+    "id": "constitution_section_239"
+  },
+  "id": "constitution_section_239",
+  "heading": {
+    "number": "Part VIII",
+    "title": "The Union Territories",
+    "range": "239 – 242"
+  },
+  "article": {
+    "number": "239",
+    "title": "Administration of Union territories",
+    "content": "(1)Save as otherwise provided by Parliament by law, every Union territory shall be administered by the President acting, to such extent as he thinks fit, through an administrator to be appointed by him with such designation as he may specify.\n(2)Notwithstanding anything contained in Part VI, the President may appoint the Governor of a State as the administrator of an adjoining Union territory, and where a Governor is so appointed, he shall exercise his functions as such administrator independently of his Council of Ministers.\n",
+    "html": "<article class=\"provision\" data-n=\"239\" data-report=\"Article 239 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">239</span>Administration of Union territories</h3></div><p class=\"prov-cite\">Article 239 · Part VIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Save as otherwise provided by Parliament by law, every Union territory shall be administered by the President acting, to such extent as he thinks fit, through an administrator to be appointed by him with such designation as he may specify.</p><p><span class=\"lbl\">(2)</span>Notwithstanding anything contained in Part VI, the President may appoint the Governor of a State as the administrator of an adjoining Union territory, and where a Governor is so appointed, he shall exercise his functions as such administrator independently of his Council of Ministers.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by s. 17, ibid., for art. 239 (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">239</span>Administration of Union territories</h3></div><p class=\"prov-cite\">Article 239 · Part VIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Save as otherwise provided by Parliament by law, every Union territory shall be administered by the President acting, to such extent as he thinks fit, through an administrator to be appointed by him with such designation as he may specify.</p><p><span class=\"lbl\">(2)</span>Notwithstanding anything contained in Part VI, the President may appoint the Governor of a State as the administrator of an adjoining Union territory, and where a Governor is so appointed, he shall exercise his functions as such administrator independently of his Council of Ministers.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by s. 17, ibid., for art. 239 (w.e.f. 1-11-1956).</p></div>"
+  }
+}

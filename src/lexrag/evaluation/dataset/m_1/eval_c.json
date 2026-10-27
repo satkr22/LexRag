@@ -1,0 +1,170 @@
+[
+  {
+    "question": "A person is accused of intentionally killing another person. How should the criminal justice system address the allegation, from reporting the offence and investigating it to presenting evidence and determining guilt?",
+    "referenced_sections": [
+      "bns_section_101",
+      "bnss_section_173"
+    ],
+    "answer": "The BNS provision on murder identifies the alleged substantive offence, while the BNSS provision on information in cognizable cases addresses the reporting of information about the offence. The allegation must then be investigated and adjudicated according to the applicable criminal procedure."
+  },
+  {
+    "question": "A person is accused of attempting to kill another individual, but the victim survives. How does criminal law distinguish the alleged conduct from a completed killing, and what procedural steps can follow when the offence is reported?",
+    "referenced_sections": [
+      "bns_section_109",
+      "bnss_section_175"
+    ],
+    "answer": "The BNS provision on attempt to murder addresses conduct alleged to constitute an attempt to kill, whereas the BNSS provision on police investigation of cognizable cases addresses the investigation process. The investigation must establish the relevant facts and evidence before the allegation can be adjudicated."
+  },
+  {
+    "question": "A person is accused of taking another person's property dishonestly without consent. How can the allegation be investigated, and how does the prosecution subsequently present its case in court?",
+    "referenced_sections": [
+      "bns_section_303",
+      "bnss_section_254"
+    ],
+    "answer": "The BNS provision on theft identifies the alleged offence. The BNSS provision on evidence for the prosecution concerns the presentation of prosecution evidence during the relevant criminal proceedings. The prosecution must establish the legally required elements of theft using admissible evidence."
+  },
+  {
+    "question": "An individual allegedly deceives another person and obtains money or property through that deception. How does the substantive criminal provision relate to the investigation of the alleged offence?",
+    "referenced_sections": [
+      "bns_section_318",
+      "bnss_section_175"
+    ],
+    "answer": "The BNS provision on cheating addresses the alleged deceptive conduct, while the BNSS provision on investigation of cognizable cases governs police investigative powers where applicable. The investigation would need to establish the relevant circumstances, including the alleged deception and the elements required for the particular offence."
+  },
+  {
+    "question": "A person threatens another individual with harm in circumstances that may constitute criminal intimidation. If the allegation is reported to the police, what roles do the substantive offence provision and the criminal investigation framework play?",
+    "referenced_sections": [
+      "bns_section_351",
+      "bnss_section_173"
+    ],
+    "answer": "The BNS provision on criminal intimidation identifies the alleged offence, while the BNSS provision on information in cognizable cases addresses the reporting of information to the police. The applicable procedural requirements depend on the nature of the allegation and the circumstances of the case."
+  },
+  {
+    "question": "A woman alleges that she was subjected to conduct involving sexual intercourse under circumstances covered by the law on rape. How does the substantive offence provision connect with the statutory procedure for medical examination of the victim?",
+    "referenced_sections": [
+      "bns_section_63",
+      "bnss_section_184"
+    ],
+    "answer": "The BNS provision on rape defines the substantive offence, while the BNSS provision on medical examination of a rape victim addresses a specific investigative procedure. The medical examination may provide relevant evidence, but the allegation must be assessed according to all applicable legal requirements and evidence rather than treating medical findings as automatically conclusive."
+  },
+  {
+    "question": "A woman alleges that a person used criminal force against her with the intention of outraging her modesty. How can the allegation be investigated, and what procedural framework governs the collection and presentation of evidence?",
+    "referenced_sections": [
+      "bns_section_74",
+      "bnss_section_175"
+    ],
+    "answer": "The BNS provision on assault or criminal force against a woman with intent to outrage her modesty identifies the alleged offence. The BNSS provision on police investigation of cognizable cases governs the investigation where applicable. Investigators must collect relevant evidence, and the prosecution must establish the elements of the alleged offence."
+  },
+  {
+    "question": "A person is accused of causing grievous hurt by using acid. How does the substantive criminal law address the alleged injury, and how can the investigation proceed to establish the circumstances of the incident?",
+    "referenced_sections": [
+      "bns_section_124",
+      "bnss_section_175"
+    ],
+    "answer": "The BNS provision on voluntarily causing grievous hurt by use of acid addresses the alleged offence. The BNSS provision on police investigation of cognizable cases provides the relevant investigative framework where applicable. The investigation should establish the circumstances of the incident, the nature of the injuries, the alleged conduct, and the evidence connecting the accused to the offence."
+  },
+  {
+    "question": "A person dies following a road incident allegedly caused by a driver's negligence. How does criminal law address the alleged death, and what role does the procedure for investigating a death play?",
+    "referenced_sections": [
+      "bns_section_106",
+      "bnss_section_194"
+    ],
+    "answer": "The BNS provision on causing death by negligence addresses the potential criminal liability arising from the alleged negligent conduct. The BNSS provision on police inquiry and reporting concerning suicide and other specified deaths addresses a related death-investigation procedure. The applicable investigation must establish the circumstances of the death and whether the statutory requirements for criminal liability are satisfied."
+  },
+  {
+    "question": "An individual allegedly fabricates evidence intended to mislead a court. How does the substantive offence provision connect with the procedural rules governing prosecution for offences relating to documents or evidence given in judicial proceedings?",
+    "referenced_sections": [
+      "bns_section_228",
+      "bnss_section_215"
+    ],
+    "answer": "The BNS provision on fabricating false evidence identifies the alleged wrongful conduct. The BNSS provision on prosecution for specified offences against public justice and offences relating to documents given in evidence addresses procedural requirements for prosecuting covered offences. Whether the special prosecution procedure applies must be determined from the provision's actual scope and the circumstances of the case."
+  },
+  {
+    "question": "A witness allegedly gives false evidence during criminal proceedings. How does the substantive law address the alleged conduct, and what special procedural requirements may govern prosecution for offences against public justice?",
+    "referenced_sections": [
+      "bns_section_229",
+      "bnss_section_215"
+    ],
+    "answer": "The BNS provision on punishment for false evidence specifies the penal consequence associated with the offence. The BNSS provision concerning prosecution for specified offences against public justice establishes relevant procedural requirements for offences within its scope. The precise procedure depends on the statutory conditions governing prosecution for the particular allegation."
+  },
+  {
+    "question": "A person allegedly destroys evidence of an offence or provides false information to protect the suspected offender. How does the criminal law address this conduct, and how can the investigation of the underlying incident proceed?",
+    "referenced_sections": [
+      "bns_section_238",
+      "bnss_section_175"
+    ],
+    "answer": "The BNS provision on causing disappearance of evidence or giving false information to screen an offender addresses the alleged obstruction of justice. The BNSS provision on police investigation of cognizable cases governs the investigative process where applicable. Investigators may examine the available evidence to establish the underlying offence and determine whether the alleged concealment or false information satisfies the applicable statutory requirements."
+  },
+  {
+    "question": "A person is accused of promoting enmity between groups on religious or other specified grounds through conduct prejudicial to social harmony. How does the substantive offence provision connect with the process for reporting and investigating the allegation?",
+    "referenced_sections": [
+      "bns_section_196",
+      "bnss_section_173"
+    ],
+    "answer": "The BNS provision on promoting enmity between groups addresses the alleged conduct and the circumstances specified by the statute. The BNSS provision on information in cognizable cases concerns the reporting of information about an alleged offence. The applicable reporting, investigation, and prosecution requirements must be determined from the full statutory provisions."
+  },
+  {
+    "question": "An individual is suspected of participating in organised criminal activity. How does the substantive criminal provision identify the alleged offence, and how can the police investigate the allegation under the criminal procedure framework?",
+    "referenced_sections": [
+      "bns_section_111",
+      "bnss_section_175"
+    ],
+    "answer": "The BNS provision on organised crime addresses the substantive offence. The BNSS provision on police investigation of cognizable cases supplies the general investigative framework where applicable. The investigation must establish the conduct and other statutory elements necessary to determine whether the alleged activity falls within the organised-crime provision."
+  },
+  {
+    "question": "A person allegedly obtains property from another by threatening to cause harm. How does criminal law address the alleged extortion, and what role does the prosecution's presentation of evidence play in establishing the allegation?",
+    "referenced_sections": [
+      "bns_section_308",
+      "bnss_section_267"
+    ],
+    "answer": "The BNS provision on extortion addresses the alleged offence, while the BNSS provision on evidence for the prosecution concerns the presentation of prosecution evidence. The prosecution must establish the elements of extortion through evidence that satisfies the applicable rules of criminal procedure and evidence."
+  },
+  {
+    "question": "A person entrusted with property allegedly dishonestly misuses or converts that property for personal purposes. How does the substantive offence provision connect with the procedure for providing the accused with the police report and relevant documents before trial?",
+    "referenced_sections": [
+      "bns_section_316",
+      "bnss_section_230"
+    ],
+    "answer": "The BNS provision on criminal breach of trust addresses the alleged misuse of entrusted property. The BNSS provision on supplying the accused with copies of the police report and other documents concerns disclosure of specified prosecution materials. These materials enable the accused to understand the case and prepare a defence, subject to the applicable statutory provisions."
+  },
+  {
+    "question": "A person is accused of defamation, and the complainant seeks criminal proceedings. How does the substantive offence provision relate to the procedural rules governing the institution of a prosecution for this allegation?",
+    "referenced_sections": [
+      "bns_section_356",
+      "bnss_section_222"
+    ],
+    "answer": "The BNS provision on defamation defines the substantive offence and its applicable legal consequences. The BNSS provision on prosecution for defamation addresses the procedure governing such prosecutions. The applicable requirements must be determined from the full provisions, including any restrictions on who may initiate proceedings and the manner in which they may be instituted."
+  },
+  {
+    "question": "A woman alleges that her husband or one of his relatives subjected her to cruelty. How does the substantive offence provision connect with the specific procedural provision governing prosecution for this offence?",
+    "referenced_sections": [
+      "bns_section_85",
+      "bnss_section_220"
+    ],
+    "answer": "The BNS provision on cruelty by a husband or his relative identifies the substantive offence. The BNSS provision specifically addressing prosecution of offences under that BNS provision governs the associated procedural requirements. The prosecution must satisfy the applicable statutory conditions, and the accused's criminal liability must be determined through the prescribed process."
+  },
+  {
+    "question": "A person is accused of committing a terrorist act. If the alleged offence is one that must be tried exclusively by a Court of Session, how does the substantive offence provision connect with the procedure for transferring the case to that court?",
+    "referenced_sections": [
+      "bns_section_113",
+      "bnss_section_232"
+    ],
+    "answer": "The BNS provision on terrorist acts addresses the substantive offence. The BNSS provision on committing a case to the Court of Session applies when an offence is triable exclusively by that court. Whether this commitment procedure applies to a particular allegation must be determined from the governing jurisdictional provisions and any applicable special legislation."
+  },
+  {
+    "question": "A person accused of a serious criminal offence has been arrested and seeks release while the criminal proceedings continue. How does the substantive allegation relate to the court's statutory powers to consider bail?",
+    "referenced_sections": [
+      "bns_section_111",
+      "bnss_section_483"
+    ],
+    "answer": "The BNS provision on organised crime identifies the substantive allegation in this example. The BNSS provision on the special bail powers of the High Court or Court of Session governs the relevant bail framework. Bail eligibility and the decision to grant release depend on the applicable statutory restrictions, the facts of the case, and any other governing law."
+  },
+  {
+    "question": "A person is accused of theft, but the prosecution's evidence does not establish the alleged offence to the required legal standard. How does the substantive offence provision relate to the court's authority to acquit or convict?",
+    "referenced_sections": [
+      "bns_section_303",
+      "bnss_section_278"
+    ],
+    "answer": "The BNS provision on theft identifies the offence whose elements must be established. The BNSS provision on acquittal or conviction governs the court's determination of the accused's guilt. If the prosecution fails to establish guilt to the applicable standard, the court must apply the governing law when deciding whether an acquittal is warranted."
+  }
+]

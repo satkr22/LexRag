@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-14.html",
+    "source_order": 14,
+    "article_order": 5,
+    "order": 323,
+    "stem": "section_248",
+    "heading_number": "Part XI",
+    "heading_title": "Relations between the Union and the States",
+    "heading_range": "245 – 263",
+    "heading_source": "group-head",
+    "article_number": "248",
+    "article_title": "Residuary powers of legislation",
+    "id": "constitution_section_248"
+  },
+  "id": "constitution_section_248",
+  "heading": {
+    "number": "Part XI",
+    "title": "Relations between the Union and the States",
+    "range": "245 – 263"
+  },
+  "article": {
+    "number": "248",
+    "title": "Residuary powers of legislation",
+    "content": "(1)1[Subject to article 246A, Parliament] has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List.\n(2)Such power shall include the power of making any law imposing a tax not mentioned in either of those Lists.\n",
+    "html": "<article class=\"provision\" data-n=\"248\" data-report=\"Article 248 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">248</span>Residuary powers of legislation</h3></div><p class=\"prov-cite\">Article 248 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span><sup>1</sup>[Subject to article 246A, Parliament] has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List.</p><p><span class=\"lbl\">(2)</span>Such power shall include the power of making any law imposing a tax not mentioned in either of those Lists.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 3, for \"Parliament\" (w.e.f. 16-9-2016).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">248</span>Residuary powers of legislation</h3></div><p class=\"prov-cite\">Article 248 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span><sup>1</sup>[Subject to article 246A, Parliament] has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List.</p><p><span class=\"lbl\">(2)</span>Such power shall include the power of making any law imposing a tax not mentioned in either of those Lists.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 3, for \"Parliament\" (w.e.f. 16-9-2016).</p></div>"
+  }
+}

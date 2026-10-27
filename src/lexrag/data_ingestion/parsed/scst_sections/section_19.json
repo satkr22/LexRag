@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "scst",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "scst_sections/section-19.html",
+    "source_order": 22,
+    "article_order": 1,
+    "order": 22,
+    "stem": "section_19",
+    "heading_number": "Chapter V",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 16–23",
+    "heading_source": "manifest",
+    "article_number": "19",
+    "article_title": "Section 360 of the Code or the provisions of the Probation of Offenders Act not to apply to persons guilty of an offence under the Act.",
+    "id": "scst_section_19"
+  },
+  "id": "scst_section_19",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Miscellaneous",
+    "range": "ss. 16–23"
+  },
+  "article": {
+    "number": "19",
+    "title": "Section 360 of the Code or the provisions of the Probation of Offenders Act not to apply to persons guilty of an offence under the Act.",
+    "content": "The provisions of section 360 of the Code and the provisions of the Probation of Offenders Act, 1958 (20 of 1958) shall not apply to any person above the age of eighteen years who is found guilty of having committed an offence under this Act.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Section 360 of the Code or the provisions of the Probation of Offenders Act not to apply to persons guilty of an offence under the Act.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter V  ·  page 16 of the Act</p><div class=\"prov-body\"><p>The provisions of section 360 of the Code and the provisions of the Probation of Offenders Act, 1958 (20 of 1958) shall not apply to any person above the age of eighteen years who is found guilty of having committed an offence under this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Section 360 of the Code or the provisions of the Probation of Offenders Act not to apply to persons guilty of an offence under the Act.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter V  ·  page 16 of the Act</p><div class=\"prov-body\"><p>The provisions of section 360 of the Code and the provisions of the Probation of Offenders Act, 1958 (20 of 1958) shall not apply to any person above the age of eighteen years who is found guilty of having committed an offence under this Act.</p></div>"
+  }
+}

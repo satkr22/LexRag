@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "scst",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "scst_sections/section-5.html",
+    "source_order": 5,
+    "article_order": 1,
+    "order": 5,
+    "stem": "section_5",
+    "heading_number": "Chapter II",
+    "heading_title": "Offences of Atrocities",
+    "heading_range": "ss. 3–9",
+    "heading_source": "manifest",
+    "article_number": "5",
+    "article_title": "Enhanced punishment subsequent conviction.",
+    "id": "scst_section_5"
+  },
+  "id": "scst_section_5",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Offences of Atrocities",
+    "range": "ss. 3–9"
+  },
+  "article": {
+    "number": "5",
+    "title": "Enhanced punishment subsequent conviction.",
+    "content": "Whoever, having already been convicted of an offence under this Chapter is convicted for the second offence or any offence subsequent to the second offence, shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to the punishment provided for that offence.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Enhanced punishment subsequent conviction.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 10 of the Act</p><div class=\"prov-body\"><p>Whoever, having already been convicted of an offence under this Chapter is convicted for the second offence or any offence subsequent to the second offence, shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to the punishment provided for that offence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Enhanced punishment subsequent conviction.</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 10 of the Act</p><div class=\"prov-body\"><p>Whoever, having already been convicted of an offence under this Chapter is convicted for the second offence or any offence subsequent to the second offence, shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to the punishment provided for that offence.</p></div>"
+  }
+}

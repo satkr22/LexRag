@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "domestic-violence",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "domestic-violence_sections/section-24.html",
+    "source_order": 24,
+    "article_order": 1,
+    "order": 24,
+    "stem": "section_24",
+    "heading_number": "Chapter IV",
+    "heading_title": "Procedure for Obtainingorders of Reliefs",
+    "heading_range": "ss. 12–29",
+    "heading_source": "manifest",
+    "article_number": "24",
+    "article_title": "Court to give copies of order free of cost.",
+    "id": "domestic-violence_section_24"
+  },
+  "id": "domestic-violence_section_24",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Procedure for Obtainingorders of Reliefs",
+    "range": "ss. 12–29"
+  },
+  "article": {
+    "number": "24",
+    "title": "Court to give copies of order free of cost.",
+    "content": "The Magistrate shall, in all cases where he has passed any order under this Act, order that a copy of such order, shall be given free of cost, to the parties to the application, the police officer in-charge of the police station in the jurisdiction of which the Magistrate has been approached, and any service provider located within the local limits of the jurisdiction of the court and if any service provider has registered a domestic incident report, to that service provider.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Court to give copies of order free of cost.</h3></div><p class=\"prov-cite\">Section 24  ·  Chapter IV  ·  page 10 of the Act</p><div class=\"prov-body\"><p>The Magistrate shall, in all cases where he has passed any order under this Act, order that a copy of such order, shall be given free of cost, to the parties to the application, the police officer in-charge of the police station in the jurisdiction of which the Magistrate has been approached, and any service provider located within the local limits of the jurisdiction of the court and if any service provider has registered a domestic incident report, to that service provider.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Court to give copies of order free of cost.</h3></div><p class=\"prov-cite\">Section 24  ·  Chapter IV  ·  page 10 of the Act</p><div class=\"prov-body\"><p>The Magistrate shall, in all cases where he has passed any order under this Act, order that a copy of such order, shall be given free of cost, to the parties to the application, the police officer in-charge of the police station in the jurisdiction of which the Magistrate has been approached, and any service provider located within the local limits of the jurisdiction of the court and if any service provider has registered a domestic incident report, to that service provider.</p></div>"
+  }
+}

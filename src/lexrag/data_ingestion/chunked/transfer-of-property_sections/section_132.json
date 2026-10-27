@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_132_chunk_0",
+    "section_id": "transfer-of-property_section_132",
+    "token_count": 183,
+    "text": "[Act: transfer-of-property\n Chapter: Of Transfers of Actionable Claims3\n Section: 132::Liability of transferee of actionable claim.\n]\n\n\nThe transferee of an actionable claim shall take it subject to all the liabilities and equities to which the transferor was subject in respect thereof at the date of the transfer.\nIllustrations\n(i) A transfers to C a debt due to him by B, A being then indebted to B. C sues B for the debt due by B to A. In such suit B is entitled to set off the debt due by A to him; although C was unaware of it at the date of such transfer.\n(ii) A executed a bond in favour of B under circumstances entitling the former to have it delivered up and cancelled. B assigns the bond to C for value and without notice of such circumstances. C cannot enforce the bond against A.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_132_chunk_0",
+      "section_id": "transfer-of-property_section_132",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Of Transfers of Actionable Claims3",
+      "section_number": "132",
+      "section_title": "Liability of transferee of actionable claim."
+    }
+  }
+]

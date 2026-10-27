@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "dpdp",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "dpdp_sections/section-33.html",
+    "source_order": 33,
+    "article_order": 1,
+    "order": 33,
+    "stem": "section_33",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Penalties and Adjudication",
+    "heading_range": "ss. 33–34",
+    "heading_source": "manifest",
+    "article_number": "33",
+    "article_title": "Penalties.",
+    "id": "dpdp_section_33"
+  },
+  "id": "dpdp_section_33",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Penalties and Adjudication",
+    "range": "ss. 33–34"
+  },
+  "article": {
+    "number": "33",
+    "title": "Penalties.",
+    "content": "(1) If the Board determines on conclusion of an inquiry that breach of the provisions of this Act or the rules made thereunder by a person is significant, it may, after giving the person an opportunity of being heard, impose such monetary penalty specified in the Schedule.\n(2) While determining the amount of monetary penalty to be imposed under sub-section (1), the Board shall have regard to the following matters, namely:—\n(a) the nature, gravity and duration of the breach;\n(b) the type and nature of the personal data affected by the breach;\n(c) repetitive nature of the breach;\n(d) whether the person, as a result of the breach, has realised a gain or avoided any loss;\n(e) whether the person took any action to mitigate the effects and consequences of the breach, and the timeliness and effectiveness of such action;\n(f) whether the monetary penalty to be imposed is proportionate and effective, having regard to the need to secure observance of and deter breach of the provisions of this Act; and\n(g) the likely impact of the imposition of the monetary penalty on the person.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Penalties.</h3></div><p class=\"prov-cite\">Section 33  ·  Chapter VIII  ·  page 20 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If the Board determines on conclusion of an inquiry that breach of the provisions of this Act or the rules made thereunder by a person is significant, it may, after giving the person an opportunity of being heard, impose such monetary penalty specified in the Schedule.</p><p class=\"lvl\">(2) While determining the amount of monetary penalty to be imposed under sub-section (1), the Board shall have regard to the following matters, namely:—</p><p class=\"lvl\">(a) the nature, gravity and duration of the breach;</p><p class=\"lvl\">(b) the type and nature of the personal data affected by the breach;</p><p class=\"lvl\">(c) repetitive nature of the breach;</p><p class=\"lvl\">(d) whether the person, as a result of the breach, has realised a gain or avoided any loss;</p><p class=\"lvl\">(e) whether the person took any action to mitigate the effects and consequences of the breach, and the timeliness and effectiveness of such action;</p><p class=\"lvl\">(f) whether the monetary penalty to be imposed is proportionate and effective, having regard to the need to secure observance of and deter breach of the provisions of this Act; and</p><p class=\"lvl\">(g) the likely impact of the imposition of the monetary penalty on the person.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">33</span>Penalties.</h3></div><p class=\"prov-cite\">Section 33  ·  Chapter VIII  ·  page 20 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If the Board determines on conclusion of an inquiry that breach of the provisions of this Act or the rules made thereunder by a person is significant, it may, after giving the person an opportunity of being heard, impose such monetary penalty specified in the Schedule.</p><p class=\"lvl\">(2) While determining the amount of monetary penalty to be imposed under sub-section (1), the Board shall have regard to the following matters, namely:—</p><p class=\"lvl\">(a) the nature, gravity and duration of the breach;</p><p class=\"lvl\">(b) the type and nature of the personal data affected by the breach;</p><p class=\"lvl\">(c) repetitive nature of the breach;</p><p class=\"lvl\">(d) whether the person, as a result of the breach, has realised a gain or avoided any loss;</p><p class=\"lvl\">(e) whether the person took any action to mitigate the effects and consequences of the breach, and the timeliness and effectiveness of such action;</p><p class=\"lvl\">(f) whether the monetary penalty to be imposed is proportionate and effective, having regard to the need to secure observance of and deter breach of the provisions of this Act; and</p><p class=\"lvl\">(g) the likely impact of the imposition of the monetary penalty on the person.</p></div>"
+  }
+}

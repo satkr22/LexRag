@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-06.html",
+    "source_order": 6,
+    "article_order": 7,
+    "order": 106,
+    "stem": "section_106",
+    "heading_number": "Chapter VI",
+    "heading_title": "Of Offences Affecting the Human Body",
+    "heading_range": "100 – 146",
+    "heading_source": "group-head",
+    "article_number": "106",
+    "article_title": "Causing death by negligence",
+    "id": "bns_section_106"
+  },
+  "id": "bns_section_106",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Of Offences Affecting the Human Body",
+    "range": "100 – 146"
+  },
+  "article": {
+    "number": "106",
+    "title": "Causing death by negligence",
+    "content": "(1)Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.\nExplanationFor the purposes of this sub-section, “registered medical practitioner” means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 (30 of 2019) and whose name has been entered in the National Medical Register or a State Medical Register under that Act.\n(2)Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.\n",
+    "html": "<article class=\"provision\" data-n=\"106\" data-report=\"Section 106 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Causing death by negligence</h3></div><p class=\"prov-cite\">Section 106 · Chapter VI · Of offences affecting life</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>For the purposes of this sub-section, “registered medical practitioner” means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 (30 of 2019) and whose name has been entered in the National Medical Register or a State Medical Register under that Act.</p><p><span class=\"lbl\">(2)</span>Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Causing death by negligence</h3></div><p class=\"prov-cite\">Section 106 · Chapter VI · Of offences affecting life</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>For the purposes of this sub-section, “registered medical practitioner” means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 (30 of 2019) and whose name has been entered in the National Medical Register or a State Medical Register under that Act.</p><p><span class=\"lbl\">(2)</span>Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_229_chunk_0",
+    "section_id": "contract_section_229",
+    "token_count": 241,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 229::Consequences of notice given to agent.\n]\n\n\nAny notice given to or information obtained by the agent, provided it be given or obtained in the course of the business transacted by him for the principal, shall, as between the principal and third parties, have the same legal consequences as if it had been given to or obtained by the principal.\nIllustrations\n(a)A is employed by B to buy from C certain goods, of which C is the apparent owner, and buys them accordingly. In the course of the treaty for the sale, A learns that the goods really belonged to D, but B is ignorant of that fact. B is not entitled to set-off a debt owing to him from C against the price of the goods.\n(b)A is employed by B to buy from C goods of which C is the apparent owner. A was, before he was so employed, a servant of C, and then learnt that the goods really belonged to D, but B is ignorant of that fact. In spite of the knowledge of his agent, B may set-off against the price of the goods a debt owing to him from C.",
+    "metadata": {
+      "chunk_id": "contract_section_229_chunk_0",
+      "section_id": "contract_section_229",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "229",
+      "section_title": "Consequences of notice given to agent."
+    }
+  }
+]

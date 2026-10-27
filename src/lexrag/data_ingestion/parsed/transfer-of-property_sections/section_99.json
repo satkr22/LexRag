@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-99.html",
+    "source_order": 107,
+    "article_order": 1,
+    "order": 107,
+    "stem": "section_99",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Mortgages of Immoveable Property and Charges",
+    "heading_range": "ss. 58–104",
+    "heading_source": "manifest",
+    "article_number": "99",
+    "article_title": "Attachment of mortgaged property",
+    "id": "transfer-of-property_section_99"
+  },
+  "id": "transfer-of-property_section_99",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Mortgages of Immoveable Property and Charges",
+    "range": "ss. 58–104"
+  },
+  "article": {
+    "number": "99",
+    "title": "Attachment of mortgaged property",
+    "content": "",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Attachment of mortgaged property</h3></div><p class=\"repnote\">Rep. by the Code of Civil Procedure, 1908 (5 of 1908), s. 156 and V Schedule.</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Attachment of mortgaged property</h3></div><p class=\"repnote\">Rep. by the Code of Civil Procedure, 1908 (5 of 1908), s. 156 and V Schedule.</p>"
+  }
+}

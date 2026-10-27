@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "family-courts_section_15_chunk_0",
+    "section_id": "family-courts_section_15",
+    "token_count": 99,
+    "text": "[Act: family-courts\n Chapter: Procedure\n Section: 15::Record of oral evidence.\n]\n\n\nIn suits or proceedings before a Family Court, it shall not be necessary to record the evidence of witnesses at length, but the Judge, as the examination of each witness proceeds, shall, record or cause to be recorded, a memorandum of the substance of what the witness deposes, and such memorandum shall be signed by the witness and the Judge and shall form part of the record.",
+    "metadata": {
+      "chunk_id": "family-courts_section_15_chunk_0",
+      "section_id": "family-courts_section_15",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "family-courts",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Procedure",
+      "section_number": "15",
+      "section_title": "Record of oral evidence."
+    }
+  }
+]

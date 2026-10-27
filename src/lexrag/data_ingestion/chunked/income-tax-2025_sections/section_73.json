@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_73_chunk_0",
+    "section_id": "income-tax-2025_section_73",
+    "token_count": 330,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 73::Cost with reference to certain modes of acquisition.\n]\n\n\n(1) In the case of a capital asset specified in column B of the Table below, the cost of acquisition of the asset shall be deemed to be the cost as mentioned in column C of the said Table.\n  (2) For the purposes of the Table in sub-section (1), in respect of the entries against—\n  (a) serial number 1, \"previous owner of the property\" for any capital asset owned by an assessee, means the last previous owner of the capital asset who acquired it by a mode of acquisition other than that referred to in column B thereof;\n  (b) serial numbers 11 and 12, \"main portfolio\", \"segregated portfolio\" and \"total portfolio\" shall have the same meanings as respectively assigned to them in the Circular No. SEBI/HO/IMD/DF2/CIR/P/2018/160, dated the 28th December, 2018, issued by the Securities and Exchange Board of India;\n  (c) serial numbers 14 and 15, \"net worth\" means the total of the paid-up share capital and general reserves as appearing in the books of account of the demerged company immediately before the demerger;\n  (d) serial numbers 2, 14 and 15, the provisions as contained therein, shall, as far as may be, also apply in relation to business reorganisation of a co-operative bank as referred to in section 64.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_73_chunk_0",
+      "section_id": "income-tax-2025_section_73",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "73",
+      "section_title": "Cost with reference to certain modes of acquisition."
+    }
+  }
+]

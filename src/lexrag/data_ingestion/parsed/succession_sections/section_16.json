@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-02.html",
+    "source_order": 2,
+    "article_order": 13,
+    "order": 16,
+    "stem": "section_16",
+    "heading_number": "Part II",
+    "heading_title": "Of Domicile",
+    "heading_range": "ss. 4–19",
+    "heading_source": "group-head",
+    "article_number": "16",
+    "article_title": "Wife’s domicile during marriage.",
+    "id": "succession_section_16"
+  },
+  "id": "succession_section_16",
+  "heading": {
+    "number": "Part II",
+    "title": "Of Domicile",
+    "range": "ss. 4–19"
+  },
+  "article": {
+    "number": "16",
+    "title": "Wife’s domicile during marriage.",
+    "content": "A wife’s domicile during her marriage follows the domicile of her husband.\nException.—The wife’s domcile no longer follows that of her husband if they are separated by the sentence of a competent Court, or if the husband is undergoing a sentence of transportation.\n",
+    "html": "<article class=\"provision\" data-n=\"16\" data-report=\"Section 16 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Wife’s domicile during marriage.</h3></div><p class=\"prov-cite\">Section 16  ·  Part II  ·  pages 19–20 of the Act</p><div class=\"prov-body\"><p>A wife’s domicile during her marriage follows the domicile of her husband.</p><p>Exception.—The wife’s domcile no longer follows that of her husband if they are separated by the sentence of a competent Court, or if the husband is undergoing a sentence of transportation.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Wife’s domicile during marriage.</h3></div><p class=\"prov-cite\">Section 16  ·  Part II  ·  pages 19–20 of the Act</p><div class=\"prov-body\"><p>A wife’s domicile during her marriage follows the domicile of her husband.</p><p>Exception.—The wife’s domcile no longer follows that of her husband if they are separated by the sentence of a competent Court, or if the husband is undergoing a sentence of transportation.</p></div>"
+  }
+}

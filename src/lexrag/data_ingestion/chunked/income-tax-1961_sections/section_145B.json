@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_145B_chunk_0",
+    "section_id": "income-tax-1961_section_145B",
+    "token_count": 172,
+    "text": "[Act: income-tax-1961\n Chapter: Procedure for Assessment\n Section: 145B::Taxability of certain income.\n]\n\n\n(1) Notwithstanding anything to the contrary contained in section 145, the interest received by an assessee on any compensation or on enhanced compensation, as the case may be, shall be deemed to be the income of the previous year in which it is received.\n(2) Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the previous year in which reasonable certainty of its realisation is achieved.\n(3) The income referred to in sub-clause (xviii) of clause (24) of section 2 shall be deemed to be the income of the previous year in which it is received, if not charged to income-tax in any earlier previous year.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_145B_chunk_0",
+      "section_id": "income-tax-1961_section_145B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Procedure for Assessment",
+      "section_number": "145B",
+      "section_title": "Taxability of certain income."
+    }
+  }
+]

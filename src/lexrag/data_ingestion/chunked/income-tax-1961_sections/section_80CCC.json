@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80CCC_chunk_0",
+    "section_id": "income-tax-1961_section_80CCC",
+    "token_count": 442,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80CCC::Deduction in respect of contribution to certain pension funds.\n]\n\n\n(1) Where an assessee being an individual has in the previous year paid or deposited any amount out of his income chargeable to tax to effect or keep in force a contract for any annuity plan of Life Insurance Corporation of India or any other insurer for receiving pension from the fund referred to in clause (23AAB) of section 10, he shall, in accordance with, and subject to, the provisions of this section, be allowed a deduction in the computation of his total income, of the whole of the amount paid or deposited (excluding interest or bonus accrued or credited to the assessee's account, if any) as does not exceed the amount of one hundred and fifty thousand rupees in the previous year.\n(2) Where any amount standing to the credit of the assessee in a fund, referred to in sub-section (1) in respect of which a deduction has been allowed under sub-section (1), together with the interest or bonus accrued or credited to the assessee's account, if any, is received by the assessee or his nominee—\n(a) on account of the surrender of the annuity plan whether in whole or in part, in any previous year, or\n(b) as pension received from the annuity plan, an amount equal to the whole of the amount referred to in clause (a) or clause (b) shall be deemed to be the income of the assessee or his nominee, as the case may be, in that previous year in which such withdrawal is made or, as the case may be, pension is received, and shall accordingly be chargeable to tax as income of that previous year.\n(3) Where any amount paid or deposited by the assessee has been taken into account for the purposes of this section,—\n(a) [***]\n(b) a deduction with reference to such amount shall not be allowed under section 80C for any assessment year beginning on or after the 1st day of April, 2006.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80CCC_chunk_0",
+      "section_id": "income-tax-1961_section_80CCC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80CCC",
+      "section_title": "Deduction in respect of contribution to certain pension funds."
+    }
+  }
+]

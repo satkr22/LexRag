@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "rpwd",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "rpwd_sections/section-8.html",
+    "source_order": 8,
+    "article_order": 1,
+    "order": 8,
+    "stem": "section_8",
+    "heading_number": "Chapter II",
+    "heading_title": "Rights and Entitlements",
+    "heading_range": "ss. 3–15",
+    "heading_source": "manifest",
+    "article_number": "8",
+    "article_title": "Protection and safety.",
+    "id": "rpwd_section_8"
+  },
+  "id": "rpwd_section_8",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Rights and Entitlements",
+    "range": "ss. 3–15"
+  },
+  "article": {
+    "number": "8",
+    "title": "Protection and safety.",
+    "content": "(1) The persons with disabilities shall have equal protection and safety in situations of risk, armed conflict, humanitarian emergencies and natural disasters.\n(2) The National Disaster Management Authority and the State Disaster Management Authority shall take appropriate measures to ensure inclusion of persons with disabilities in its disaster management activities as defined under clause (e) of section 2 of the Disaster Management Act, 2005 (53 of 2005) for the safety and protection of persons with disabilities.\n(3) The District Disaster Management Authority constituted under section 25 of the Disaster Management Act, 2005 (53 of 2005) shall maintain record of details of persons with disabilities in the district and take suitable measures to inform such persons of any situations of risk so as to enhance disaster preparedness.\n(4) The authorities engaged in reconstruction activities subsequent to any situation of risk, armed conflict or natural disasters shall undertake such activities, in consultation with the concerned State Commissioner, in accordance with the accessibility requirements of persons with disabilities.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Protection and safety.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The persons with disabilities shall have equal protection and safety in situations of risk, armed conflict, humanitarian emergencies and natural disasters.</p><p class=\"lvl\">(2) The National Disaster Management Authority and the State Disaster Management Authority shall take appropriate measures to ensure inclusion of persons with disabilities in its disaster management activities as defined under clause (e) of section 2 of the Disaster Management Act, 2005 (53 of 2005) for the safety and protection of persons with disabilities.</p><p class=\"lvl\">(3) The District Disaster Management Authority constituted under section 25 of the Disaster Management Act, 2005 (53 of 2005) shall maintain record of details of persons with disabilities in the district and take suitable measures to inform such persons of any situations of risk so as to enhance disaster preparedness.</p><p class=\"lvl\">(4) The authorities engaged in reconstruction activities subsequent to any situation of risk, armed conflict or natural disasters shall undertake such activities, in consultation with the concerned State Commissioner, in accordance with the accessibility requirements of persons with disabilities.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">8</span>Protection and safety.</h3></div><p class=\"prov-cite\">Section 8  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The persons with disabilities shall have equal protection and safety in situations of risk, armed conflict, humanitarian emergencies and natural disasters.</p><p class=\"lvl\">(2) The National Disaster Management Authority and the State Disaster Management Authority shall take appropriate measures to ensure inclusion of persons with disabilities in its disaster management activities as defined under clause (e) of section 2 of the Disaster Management Act, 2005 (53 of 2005) for the safety and protection of persons with disabilities.</p><p class=\"lvl\">(3) The District Disaster Management Authority constituted under section 25 of the Disaster Management Act, 2005 (53 of 2005) shall maintain record of details of persons with disabilities in the district and take suitable measures to inform such persons of any situations of risk so as to enhance disaster preparedness.</p><p class=\"lvl\">(4) The authorities engaged in reconstruction activities subsequent to any situation of risk, armed conflict or natural disasters shall undertake such activities, in consultation with the concerned State Commissioner, in accordance with the accessibility requirements of persons with disabilities.</p></div>"
+  }
+}

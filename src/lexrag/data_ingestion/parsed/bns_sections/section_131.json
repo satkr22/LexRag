@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-06.html",
+    "source_order": 6,
+    "article_order": 32,
+    "order": 131,
+    "stem": "section_131",
+    "heading_number": "Chapter VI",
+    "heading_title": "Of Offences Affecting the Human Body",
+    "heading_range": "100 – 146",
+    "heading_source": "group-head",
+    "article_number": "131",
+    "article_title": "Punishment for assault or criminal force otherwise than on grave provocation",
+    "id": "bns_section_131"
+  },
+  "id": "bns_section_131",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Of Offences Affecting the Human Body",
+    "range": "100 – 146"
+  },
+  "article": {
+    "number": "131",
+    "title": "Punishment for assault or criminal force otherwise than on grave provocation",
+    "content": "Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.\nExplanation 1Grave and sudden provocation will not mitigate the punishment for an offence under this section,—\n(a)if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or\n(b)if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant; or\n(c)if the provocation is given by anything done in the lawful exercise of the right of private defence.\nExplanation 2Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.\n",
+    "html": "<article class=\"provision\" data-n=\"131\" data-report=\"Section 131 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Punishment for assault or criminal force otherwise than on grave provocation</h3></div><p class=\"prov-cite\">Section 131 · Chapter VI · Of criminal force and assault</p><div class=\"prov-body\"><p>Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.</p><p><span class=\"named\">Explanation 1</span>Grave and sudden provocation will not mitigate the punishment for an offence under this section,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant; or</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>if the provocation is given by anything done in the lawful exercise of the right of private defence.</p><p><span class=\"named\">Explanation 2</span>Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Punishment for assault or criminal force otherwise than on grave provocation</h3></div><p class=\"prov-cite\">Section 131 · Chapter VI · Of criminal force and assault</p><div class=\"prov-body\"><p>Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.</p><p><span class=\"named\">Explanation 1</span>Grave and sudden provocation will not mitigate the punishment for an offence under this section,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant; or</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>if the provocation is given by anything done in the lawful exercise of the right of private defence.</p><p><span class=\"named\">Explanation 2</span>Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.</p></div>"
+  }
+}

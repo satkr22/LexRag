@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-55.html",
+    "source_order": 57,
+    "article_order": 1,
+    "order": 57,
+    "stem": "section_55",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Negotiation",
+    "heading_range": "ss. 46–60",
+    "heading_source": "manifest",
+    "article_number": "55",
+    "article_title": "Conversion of indorsement in blank into indorsement in full.",
+    "id": "negotiable-instruments_section_55"
+  },
+  "id": "negotiable-instruments_section_55",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Negotiation",
+    "range": "ss. 46–60"
+  },
+  "article": {
+    "number": "55",
+    "title": "Conversion of indorsement in blank into indorsement in full.",
+    "content": "If a negotiable instrument, after having been indorsed in blank, is indorsed in full, the amount of it cannot be claimed from the indorser in full, except by the person to whom it has been indorsed in full, or by one who derives title through such person.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">55</span>Conversion of indorsement in blank into indorsement in full.</h3></div><p class=\"prov-cite\">Section 55  ·  Chapter IV  ·  page 16 of the Act</p><div class=\"prov-body\"><p>If a negotiable instrument, after having been indorsed in blank, is indorsed in full, the amount of it cannot be claimed from the indorser in full, except by the person to whom it has been indorsed in full, or by one who derives title through such person.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">55</span>Conversion of indorsement in blank into indorsement in full.</h3></div><p class=\"prov-cite\">Section 55  ·  Chapter IV  ·  page 16 of the Act</p><div class=\"prov-body\"><p>If a negotiable instrument, after having been indorsed in blank, is indorsed in full, the amount of it cannot be claimed from the indorser in full, except by the person to whom it has been indorsed in full, or by one who derives title through such person.</p></div>"
+  }
+}

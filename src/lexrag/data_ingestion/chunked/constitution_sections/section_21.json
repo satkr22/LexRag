@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_21_chunk_0",
+    "section_id": "constitution_section_21",
+    "token_count": 42,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 21::Protection of life and personal liberty\n]\n\n\nNo person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "metadata": {
+      "chunk_id": "constitution_section_21_chunk_0",
+      "section_id": "constitution_section_21",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "21",
+      "section_title": "Protection of life and personal liberty"
+    }
+  }
+]

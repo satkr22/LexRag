@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_32_chunk_0",
+    "section_id": "contract_section_32",
+    "token_count": 190,
+    "text": "[Act: contract\n Chapter: Of Contingent Contracts\n Section: 32::Enforcement of contracts contingent on an event happening.\n]\n\n\nContingent contracts to do or not to do anything if an uncertain future event happens cannot be enforced by law unless and until that event has happened.\nIf the event becomes impossible, such contracts become void.\nIllustrations\n(a)A makes a contract with B to buy B’s horse if A survives C. This contract cannot be enforced by law unless and until C dies in A’s lifetime.\n(b)A makes a contract with B to sell a horse to B at a specified price, if C, to whom the horse has been offered, refuses to buy him. The contract cannot be enforced by law unless and until C refuses to buy the horse.\n(c)A contracts to pay B a sum of money when B marries C. C dies without being married to B. The contract becomes void.",
+    "metadata": {
+      "chunk_id": "contract_section_32_chunk_0",
+      "section_id": "contract_section_32",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Of Contingent Contracts",
+      "section_number": "32",
+      "section_title": "Enforcement of contracts contingent on an event happening."
+    }
+  }
+]

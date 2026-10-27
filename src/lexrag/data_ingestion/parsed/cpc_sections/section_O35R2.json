@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-54.html",
+    "source_order": 54,
+    "article_order": 2,
+    "order": 754,
+    "stem": "section_O35R2",
+    "heading_number": "Order XXXV",
+    "heading_title": "Interpleader",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O35R2",
+    "article_title": "Payment of thing claimed into Court.",
+    "id": "cpc_section_O35R2"
+  },
+  "id": "cpc_section_O35R2",
+  "heading": {
+    "number": "Order XXXV",
+    "title": "Interpleader",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O35R2",
+    "title": "Payment of thing claimed into Court.",
+    "content": "Where the thing claimed is capable of being paid into Court or placed in the custody of the Court, the plaintiff may be required to so pay or place it before he can be entitled to any order in the suit.\n",
+    "html": "<article class=\"provision\" data-n=\"O35R2\" data-report=\"Order 35, Rule 2 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Payment of thing claimed into Court.</h3></div><p class=\"prov-cite\">Order 35, Rule 2</p><div class=\"prov-body\"><p>Where the thing claimed is capable of being paid into Court or placed in the custody of the Court, the plaintiff may be required to so pay or place it before he can be entitled to any order in the suit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Payment of thing claimed into Court.</h3></div><p class=\"prov-cite\">Order 35, Rule 2</p><div class=\"prov-body\"><p>Where the thing claimed is capable of being paid into Court or placed in the custody of the Court, the plaintiff may be required to so pay or place it before he can be entitled to any order in the suit.</p></div>"
+  }
+}

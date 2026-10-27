@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-18.html",
+    "source_order": 18,
+    "article_order": 8,
+    "order": 133,
+    "stem": "section_133",
+    "heading_number": "Part VI · Chapter XI",
+    "heading_title": "Of Conditional Bequests",
+    "heading_range": "ss. 126–137",
+    "heading_source": "group-head",
+    "article_number": "133",
+    "article_title": "Original bequest not affected by invalidity of second.",
+    "id": "succession_section_133"
+  },
+  "id": "succession_section_133",
+  "heading": {
+    "number": "Part VI · Chapter XI",
+    "title": "Of Conditional Bequests",
+    "range": "ss. 126–137"
+  },
+  "article": {
+    "number": "133",
+    "title": "Original bequest not affected by invalidity of second.",
+    "content": "If the ulterior bequest be not valid the original bequest is not affected by it.\nIllustrations\n(i) An estate is bequeathed to A for his life with condition super-added that, if he shall not on a given day walk 100 miles in an hour, the estate shall go to B. The condition being void, A retains his estate as if no condition had been inserted in the will.\n(ii) An estate is bequeathed to A for her life and, if she do not desert her husband, to B. A is entitled to the estate during her life as if no condition had been inserted in the will.\n(iii) An estate is bequeathed to A for life, and, if he marries, to the eldest son of B for life. B, at the date of the testator’s death, had not had a son. The bequest over is void under section 105, and A is entitled to the estate during his life.\n",
+    "html": "<article class=\"provision\" data-n=\"133\" data-report=\"Section 133 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">133</span>Original bequest not affected by invalidity of second.</h3></div><p class=\"prov-cite\">Section 133  ·  Part VI · Chapter XI  ·  pages 49–50 of the Act</p><div class=\"prov-body\"><p>If the ulterior bequest be not valid the original bequest is not affected by it.</p><p>Illustrations</p><p class=\"lvl\">(i) An estate is bequeathed to A for his life with condition super-added that, if he shall not on a given day walk 100 miles in an hour, the estate shall go to B. The condition being void, A retains his estate as if no condition had been inserted in the will.</p><p class=\"lvl\">(ii) An estate is bequeathed to A for her life and, if she do not desert her husband, to B. A is entitled to the estate during her life as if no condition had been inserted in the will.</p><p class=\"lvl\">(iii) An estate is bequeathed to A for life, and, if he marries, to the eldest son of B for life. B, at the date of the testator’s death, had not had a son. The bequest over is void under section 105, and A is entitled to the estate during his life.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">133</span>Original bequest not affected by invalidity of second.</h3></div><p class=\"prov-cite\">Section 133  ·  Part VI · Chapter XI  ·  pages 49–50 of the Act</p><div class=\"prov-body\"><p>If the ulterior bequest be not valid the original bequest is not affected by it.</p><p>Illustrations</p><p class=\"lvl\">(i) An estate is bequeathed to A for his life with condition super-added that, if he shall not on a given day walk 100 miles in an hour, the estate shall go to B. The condition being void, A retains his estate as if no condition had been inserted in the will.</p><p class=\"lvl\">(ii) An estate is bequeathed to A for her life and, if she do not desert her husband, to B. A is entitled to the estate during her life as if no condition had been inserted in the will.</p><p class=\"lvl\">(iii) An estate is bequeathed to A for life, and, if he marries, to the eldest son of B for life. B, at the date of the testator’s death, had not had a son. The bequest over is void under section 105, and A is entitled to the estate during his life.</p></div>"
+  }
+}

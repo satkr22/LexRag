@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-36.html",
+    "source_order": 36,
+    "article_order": 2,
+    "order": 263,
+    "stem": "section_262",
+    "heading_number": "Part IX · Chapter III",
+    "heading_title": "Alteration and Revocation of Grants",
+    "heading_range": "ss. 261–263",
+    "heading_source": "group-head",
+    "article_number": "262",
+    "article_title": "Procedure where codicil discovered after grant of administration with will annexed.",
+    "id": "succession_section_262"
+  },
+  "id": "succession_section_262",
+  "heading": {
+    "number": "Part IX · Chapter III",
+    "title": "Alteration and Revocation of Grants",
+    "range": "ss. 261–263"
+  },
+  "article": {
+    "number": "262",
+    "title": "Procedure where codicil discovered after grant of administration with will annexed.",
+    "content": "If, after the grant of letters of administration with the will annexed, a codicil is discovered, it may be added to the grant on due proof and identification, and the grant may be altered and amended accordingly.\n",
+    "html": "<article class=\"provision\" data-n=\"262\" data-report=\"Section 262 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">262</span>Procedure where codicil discovered after grant of administration with will annexed.</h3></div><p class=\"prov-cite\">Section 262  ·  Part IX · Chapter III  ·  page 74 of the Act</p><div class=\"prov-body\"><p>If, after the grant of letters of administration with the will annexed, a codicil is discovered, it may be added to the grant on due proof and identification, and the grant may be altered and amended accordingly.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">262</span>Procedure where codicil discovered after grant of administration with will annexed.</h3></div><p class=\"prov-cite\">Section 262  ·  Part IX · Chapter III  ·  page 74 of the Act</p><div class=\"prov-body\"><p>If, after the grant of letters of administration with the will annexed, a codicil is discovered, it may be added to the grant on due proof and identification, and the grant may be altered and amended accordingly.</p></div>"
+  }
+}

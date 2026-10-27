@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-43.html",
+    "source_order": 43,
+    "article_order": 24,
+    "order": 647,
+    "stem": "section_O26R18A",
+    "heading_number": "Order XXVI",
+    "heading_title": "Commissions",
+    "heading_range": "29 rules",
+    "heading_source": "group-head",
+    "article_number": "O26R18A",
+    "article_title": "Application of order to execution proceedings.",
+    "id": "cpc_section_O26R18A"
+  },
+  "id": "cpc_section_O26R18A",
+  "heading": {
+    "number": "Order XXVI",
+    "title": "Commissions",
+    "range": "29 rules"
+  },
+  "article": {
+    "number": "O26R18A",
+    "title": "Application of order to execution proceedings.",
+    "content": "The provisions of this Order shall apply, so far as may be, to proceedings in execution of a decree or order.\n",
+    "html": "<article class=\"provision\" data-n=\"O26R18A\" data-report=\"Order 26, Rule 18A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18A</span>Application of order to execution proceedings.</h3></div><p class=\"prov-cite\">Order 26, Rule 18A</p><div class=\"prov-body\"><p>The provisions of this Order shall apply, so far as may be, to proceedings in execution of a decree or order.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 75 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18A</span>Application of order to execution proceedings.</h3></div><p class=\"prov-cite\">Order 26, Rule 18A</p><div class=\"prov-body\"><p>The provisions of this Order shall apply, so far as may be, to proceedings in execution of a decree or order.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 75 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

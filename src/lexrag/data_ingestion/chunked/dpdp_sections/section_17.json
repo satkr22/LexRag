@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "dpdp_section_17_chunk_0",
+    "section_id": "dpdp_section_17",
+    "token_count": 435,
+    "text": "[Act: dpdp\n Chapter: Special Provisions\n Section: 17::Exemptions.\n]\n\n\n(1) The provisions of Chapter II, except sub-sections (1) and (5) of section 8, and those of Chapter III and section 16 shall not apply where—\n  (a) the processing of personal data is necessary for enforcing any legal right or claim;\n  (b) the processing of personal data by any court or tribunal or any other body in India which is entrusted by law with the performance of any judicial or quasi-judicial or regulatory or supervisory function, where such processing is necessary for the performance of such function;\n  (c) personal data is processed in the interest of prevention, detection, investigation or prosecution of any offence or contravention of any law for the time being in force in India;\n  (d) personal data of Data Principals not within the territory of India is processed pursuant to any contract entered into with any person outside the territory of India by any person based in India;\n  (e) the processing is necessary for a scheme of compromise or arrangement or merger or amalgamation of two or more companies or a reconstruction by way of demerger or otherwise of a company, or transfer of undertaking of one or more company to another company, or involving division of one or more companies, approved by a court or tribunal or other authority competent to do so by any law for the time being in force; and\n  (f) the processing is for the purpose of ascertaining the financial information and assets and liabilities of any person who has defaulted in payment due on account of a loan or advance taken from a financial institution, subject to such processing being in accordance with the provisions regarding disclosure of information or data in any other law for the time being in force.\n  Explanation.—For the purposes of this clause, the expressions “default” and “financial institution” shall have the meanings respectively assigned to them in sub-sections (12) and (14) of section 3 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016).\n\nIllustration.",
+    "metadata": {
+      "chunk_id": "dpdp_section_17_chunk_0",
+      "section_id": "dpdp_section_17",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Special Provisions",
+      "section_number": "17",
+      "section_title": "Exemptions."
+    }
+  },
+  {
+    "chunk_id": "dpdp_section_17_chunk_1",
+    "section_id": "dpdp_section_17",
+    "token_count": 512,
+    "text": "[Act: dpdp\n Chapter: Special Provisions\n Section: 17::Exemptions.\n]\n\n\nX, an individual, takes a loan from Y, a bank. X defaults in paying her monthly loan repayment instalment on the date on which it falls due. Y may process the personal data of X for ascertaining her financial information and assets and liabilities.\n  (2) The provisions of this Act shall not apply in respect of the processing of personal data—\n  (a) by such instrumentality of the State as the Central Government may notify, in the interests of sovereignty and integrity of India, security of the State, friendly relations with foreign States, maintenance of public order or preventing incitement to any cognizable offence relating to any of these, and the processing by the Central Government of any personal data that such instrumentality may furnish to it; and\n  (b) necessary for research, archiving or statistical purposes if the personal data is not to be used to take any decision specific to a Data Principal and such processing is carried on in accordance with such standards as may be prescribed.\n  (3) The Central Government may, having regard to the volume and nature of personal data processed, notify certain Data Fiduciaries or class of Data Fiduciaries, including startups, as Data Fiduciaries to whom the provisions of section 5, sub-sections (3) and (7) of section 8 and sections 10 and 11 shall not apply.\n  Explanation.—For the purposes of this sub-section, the term “startup” means a private limited company or a partnership firm or a limited liability partnership incorporated in India, which is eligible to be and is recognised as such in accordance with the criteria and process notified by the department to which matters relating to startups are allocated in the Central Government.\n  (4) In respect of processing by the State or any instrumentality of the State, the provisions of sub-section (7) of section 8 and sub-section (3) of section 12 and, where such processing is for a purpose that does not include making of a decision that affects the Data Principal, sub-section (2) of section 12 shall not apply.\n  (5) The Central Government may, before expiry of five years from the date of commencement of this Act, by notification, declare that any provision of this Act shall not apply to such Data Fiduciary or classes of Data Fiduciaries for such period as may be specified in the notification.",
+    "metadata": {
+      "chunk_id": "dpdp_section_17_chunk_1",
+      "section_id": "dpdp_section_17",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Special Provisions",
+      "section_number": "17",
+      "section_title": "Exemptions."
+    }
+  }
+]

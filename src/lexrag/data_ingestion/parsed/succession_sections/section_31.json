@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-06.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 31,
+    "stem": "section_31",
+    "heading_number": "Part V · Chapter II",
+    "heading_title": "Rules in cases of Intestates other than Parsis",
+    "heading_range": "ss. 31–49",
+    "heading_source": "group-head",
+    "article_number": "31",
+    "article_title": "Chapter not to apply to Parsis.",
+    "id": "succession_section_31"
+  },
+  "id": "succession_section_31",
+  "heading": {
+    "number": "Part V · Chapter II",
+    "title": "Rules in cases of Intestates other than Parsis",
+    "range": "ss. 31–49"
+  },
+  "article": {
+    "number": "31",
+    "title": "Chapter not to apply to Parsis.",
+    "content": "Nothing in this Chapter shall apply to Parsis.\n",
+    "html": "<article class=\"provision\" data-n=\"31\" data-report=\"Section 31 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Chapter not to apply to Parsis.</h3></div><p class=\"prov-cite\">Section 31  ·  Part V · Chapter II  ·  page 22 of the Act</p><div class=\"prov-body\"><p>Nothing in this Chapter shall apply to Parsis.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>Chapter not to apply to Parsis.</h3></div><p class=\"prov-cite\">Section 31  ·  Part V · Chapter II  ·  page 22 of the Act</p><div class=\"prov-body\"><p>Nothing in this Chapter shall apply to Parsis.</p></div>"
+  }
+}

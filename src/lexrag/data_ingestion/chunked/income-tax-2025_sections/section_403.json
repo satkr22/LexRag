@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_403_chunk_0",
+    "section_id": "income-tax-2025_section_403",
+    "token_count": 167,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 403::Liability for payment of advance tax.\n]\n\n\n(1) Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.\n(2) For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.\n(3) The provisions of sub-section (1) shall not apply to an individual resident in India, who—\n(a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and\n(b) is of the age of sixty years or more at any time during the tax year.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_403_chunk_0",
+      "section_id": "income-tax-2025_section_403",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "403",
+      "section_title": "Liability for payment of advance tax."
+    }
+  }
+]

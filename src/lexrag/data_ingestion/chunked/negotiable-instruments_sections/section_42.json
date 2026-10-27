@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_42_chunk_0",
+    "section_id": "negotiable-instruments_section_42",
+    "token_count": 104,
+    "text": "[Act: negotiable-instruments\n Chapter: Parties to Notes, Bills and Cheques.\n Section: 42::Acceptance of bill drawn in fictitious name.\n]\n\n\nAn acceptor of a bill of exchange drawn in a fictitious name and payable to the drawer's order is not, by reason that such name is fictitious, relieved from liability to any holder in due course claiming under an indorsement by the same hand as the drawer's signature, and purporting to be made by the drawer.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_42_chunk_0",
+      "section_id": "negotiable-instruments_section_42",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Parties to Notes, Bills and Cheques.",
+      "section_number": "42",
+      "section_title": "Acceptance of bill drawn in fictitious name."
+    }
+  }
+]

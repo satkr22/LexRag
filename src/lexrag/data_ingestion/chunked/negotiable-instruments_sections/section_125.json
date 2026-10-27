@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_125_chunk_0",
+    "section_id": "negotiable-instruments_section_125",
+    "token_count": 109,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Crossed Cheques\n Section: 125::Crossing after issue.\n]\n\n\nWhere a cheque is uncrossed, the holder may cross it generally or specially.\nWhere a cheque is crossed generally, the holder may cross it specially.\nWhere a cheque is crossed generally, or specially, the holder may add the words “not negotiable”.\nWhere a cheque is crossed specially, the banker to whom it is crossed may again cross it specially to another banker, his agent, for collection.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_125_chunk_0",
+      "section_id": "negotiable-instruments_section_125",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Of Crossed Cheques",
+      "section_number": "125",
+      "section_title": "Crossing after issue."
+    }
+  }
+]

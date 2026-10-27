@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "domestic-violence_section_31_chunk_0",
+    "section_id": "domestic-violence_section_31",
+    "token_count": 212,
+    "text": "[Act: domestic-violence\n Chapter: Miscellaneous\n Section: 31::Penalty for breach of protection order by respondent.\n]\n\n\n(1) A breach of protection order, or of an interim protection order, by the respondent shall be an offence under this Act and shall be punishable with imprisonment of either description for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both.\n(2) The offence under sub-section (1) shall as far as practicable be tried by the Magistrate who had passed the order, the breach of which has been alleged to have been caused by the accused.\n(3) While framing charges under sub-section (1), the Magistrate may also frame charges under section 498A of the Indian Penal Code (45 of 1860) or any other provision of that Code or the Dowry Prohibition Act, 1961 (28 of 1961), as the case may be, if the facts disclose the commission of an offence under those provisions.",
+    "metadata": {
+      "chunk_id": "domestic-violence_section_31_chunk_0",
+      "section_id": "domestic-violence_section_31",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "domestic-violence",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Miscellaneous",
+      "section_number": "31",
+      "section_title": "Penalty for breach of protection order by respondent."
+    }
+  }
+]

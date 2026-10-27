@@ -1,0 +1,77 @@
+[
+  {
+    "question": "When police examine witnesses during investigation, how may a witness later refresh memory at trial, and can an earlier statement be used to corroborate later testimony?",
+    "referenced_sections": ["bnss_section_180", "bsa_section_162", "bsa_section_160"],
+    "answer": "Police may examine witnesses in investigation; at trial a witness may refresh memory from a writing subject to the adverse party's rights, and a former statement may be proved to corroborate later testimony on the same fact."
+  },
+  {
+    "question": "If an accused first confesses to a police officer and later a Magistrate records a confession, how is each confession treated in evidence?",
+    "referenced_sections": ["bnss_section_183", "bsa_section_23", "bsa_section_22"],
+    "answer": "A confession to a police officer is not proved against the accused; a Magistrate may record confessions and statements under the prescribed procedure; a confession caused by inducement, threat, coercion or promise is irrelevant in criminal proceedings."
+  },
+  {
+    "question": "In a rape prosecution, what is the procedure for medical examination of the victim and what presumption may the court draw about consent?",
+    "referenced_sections": ["bnss_section_184", "bsa_section_120"],
+    "answer": "The victim may be medically examined under the prescribed procedure; in certain rape prosecutions the court may presume absence of consent."
+  },
+  {
+    "question": "If police record a search and seizure through audio-video electronic means, what must be shown for the electronic record to be admissible?",
+    "referenced_sections": ["bnss_section_105", "bsa_section_63"],
+    "answer": "Search and seizure may be recorded through audio-video electronic means; an electronic record is admissible subject to the statutory conditions, including the required certificate."
+  },
+  {
+    "question": "When a court summons a person to produce a document, what rules govern production of documents and notice to produce?",
+    "referenced_sections": ["bnss_section_94", "bsa_section_165", "bsa_section_64"],
+    "answer": "The court may summon production of a document or thing; production of documents is governed by evidence rules, and notice to produce must follow the prescribed rules."
+  },
+  {
+    "question": "In a non-bailable offence, when may bail be taken, and who bears the burden of showing that the accused's case falls within an exception?",
+    "referenced_sections": ["bnss_section_480", "bsa_section_108"],
+    "answer": "Bail may be taken in a non-bailable offence in the circumstances allowed by law; the burden of proving that the accused's case comes within an exception lies on the accused."
+  },
+  {
+    "question": "How does the rule against trying a person twice for the same offence relate to the admissibility of a previous judgment?",
+    "referenced_sections": ["bnss_section_337", "bsa_section_34"],
+    "answer": "A person once convicted or acquitted is not to be tried again for the same offence; a previous judgment is relevant to bar a second suit or trial."
+  },
+  {
+    "question": "May a court summon a material witness or examine a person present, and may the judge put questions or order production of documents?",
+    "referenced_sections": ["bnss_section_348", "bsa_section_168"],
+    "answer": "The court may summon a material witness or examine a person present; the judge may put questions and order production."
+  },
+  {
+    "question": "When a court examines the accused, can a witness refuse to answer on the ground that the answer would criminate him?",
+    "referenced_sections": ["bnss_section_351", "bsa_section_137"],
+    "answer": "The court may examine the accused; a witness is not excused from answering merely because the answer will criminate him, subject to the law's safeguards."
+  },
+  {
+    "question": "What is an accused's right to be defended, and how are communications with a legal adviser protected?",
+    "referenced_sections": ["bnss_section_340", "bsa_section_132"],
+    "answer": "A person against whom proceedings are instituted has a right to be defended; professional communications with a legal adviser are protected from disclosure under the evidence rules."
+  },
+  {
+    "question": "If a Magistrate orders a person to give specimen signatures or handwriting, how may those specimens be used in proving handwriting?",
+    "referenced_sections": ["bnss_section_349", "bsa_section_72"],
+    "answer": "The Magistrate may order specimen signatures or handwriting; signatures, writing or seals may be compared with others admitted or proved."
+  },
+  {
+    "question": "When a Government scientific expert's report is used, what must be shown about the grounds of the expert's opinion?",
+    "referenced_sections": ["bnss_section_329", "bsa_section_45"],
+    "answer": "Reports of certain Government scientific experts may be used as evidence; when an expert's opinion is relevant, the grounds of that opinion are also relevant."
+  },
+  {
+    "question": "How is a previous conviction or acquittal proved, and why is a previous judgment relevant?",
+    "referenced_sections": ["bnss_section_334", "bsa_section_34"],
+    "answer": "Previous conviction or acquittal must be proved as prescribed; a previous judgment is relevant to bar a second suit or trial."
+  },
+  {
+    "question": "In a rape case, how are victims to be treated, and is evidence of the victim's character or previous sexual experience relevant?",
+    "referenced_sections": ["bnss_section_397", "bsa_section_48"],
+    "answer": "Victims are to be treated as prescribed; evidence of character or previous sexual experience is not relevant in certain cases."
+  },
+  {
+    "question": "In a prosecution for defamation, is evidence of the accused's previous good character relevant?",
+    "referenced_sections": ["bnss_section_222", "bsa_section_47"],
+    "answer": "Defamation may be prosecuted as prescribed; in criminal cases previous good character is relevant."
+  }
+]

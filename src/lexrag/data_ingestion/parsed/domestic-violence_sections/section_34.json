@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "domestic-violence",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "domestic-violence_sections/section-34.html",
+    "source_order": 34,
+    "article_order": 1,
+    "order": 34,
+    "stem": "section_34",
+    "heading_number": "Chapter V",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 30–37",
+    "heading_source": "manifest",
+    "article_number": "34",
+    "article_title": "Cognizance of offence committed by Protection Officer.",
+    "id": "domestic-violence_section_34"
+  },
+  "id": "domestic-violence_section_34",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Miscellaneous",
+    "range": "ss. 30–37"
+  },
+  "article": {
+    "number": "34",
+    "title": "Cognizance of offence committed by Protection Officer.",
+    "content": "No prosecution or other legal proceeding shall lie against the Protection Officer unless a complaint is filed with the previous sanction of the State Government or an officer authorised by it in this behalf.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">34</span>Cognizance of offence committed by Protection Officer.</h3></div><p class=\"prov-cite\">Section 34  ·  Chapter V  ·  page 11 of the Act</p><div class=\"prov-body\"><p>No prosecution or other legal proceeding shall lie against the Protection Officer unless a complaint is filed with the previous sanction of the State Government or an officer authorised by it in this behalf.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">34</span>Cognizance of offence committed by Protection Officer.</h3></div><p class=\"prov-cite\">Section 34  ·  Chapter V  ·  page 11 of the Act</p><div class=\"prov-body\"><p>No prosecution or other legal proceeding shall lie against the Protection Officer unless a complaint is filed with the previous sanction of the State Government or an officer authorised by it in this behalf.</p></div>"
+  }
+}

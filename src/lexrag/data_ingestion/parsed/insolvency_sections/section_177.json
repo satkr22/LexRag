@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-13.html",
+    "source_order": 13,
+    "article_order": 30,
+    "order": 201,
+    "stem": "section_177",
+    "heading_number": "Part III · Chapter V",
+    "heading_title": "Administration and Distribution of the Estate of the Bankrupt",
+    "heading_range": "ss. 149–178",
+    "heading_source": "group-head",
+    "article_number": "177",
+    "article_title": "Claims of creditors.",
+    "id": "insolvency_section_177"
+  },
+  "id": "insolvency_section_177",
+  "heading": {
+    "number": "Part III · Chapter V",
+    "title": "Administration and Distribution of the Estate of the Bankrupt",
+    "range": "ss. 149–178"
+  },
+  "article": {
+    "number": "177",
+    "title": "Claims of creditors.",
+    "content": "(1) A creditor who has not proved his debt before the declaration of any dividend is not entitled to disturb, by reason that he has not participated in it, the distribution of that dividend or any other dividend declared before his debt was proved, but—\n(a) when he has proved the debt, he shall be entitled to be paid any dividend or dividends which he has failed to receive, out of any money for the time being available for the payment of any further dividend; and\n(b) any dividend or dividends payable to him shall be paid before that money is applied to the payment of any such further dividend.\n(2) No action shall lie against the bankruptcy trustee for a dividend, but if the bankruptcy trustee refuses to pay a dividend payable under sub-section (1), the Adjudicating Authority may order him to—\n(a) pay the dividend; and\n(b) pay, out of his own money—\n(i) interest on the dividend; and\n(ii) the costs of the proceedings in which the order to pay has been made.\n",
+    "html": "<article class=\"provision\" data-n=\"177\" data-report=\"Section 177 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">177</span>Claims of creditors.</h3></div><p class=\"prov-cite\">Section 177  ·  Part III · Chapter V  ·  pages 123–124 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A creditor who has not proved his debt before the declaration of any dividend is not entitled to disturb, by reason that he has not participated in it, the distribution of that dividend or any other dividend declared before his debt was proved, but—</p><p class=\"lvl\">(a) when he has proved the debt, he shall be entitled to be paid any dividend or dividends which he has failed to receive, out of any money for the time being available for the payment of any further dividend; and</p><p class=\"lvl\">(b) any dividend or dividends payable to him shall be paid before that money is applied to the payment of any such further dividend.</p><p class=\"lvl\">(2) No action shall lie against the bankruptcy trustee for a dividend, but if the bankruptcy trustee refuses to pay a dividend payable under sub-section (1), the Adjudicating Authority may order him to—</p><p class=\"lvl\">(a) pay the dividend; and</p><p class=\"lvl\">(b) pay, out of his own money—</p><p class=\"lvl\">(i) interest on the dividend; and</p><p class=\"lvl\">(ii) the costs of the proceedings in which the order to pay has been made.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">177</span>Claims of creditors.</h3></div><p class=\"prov-cite\">Section 177  ·  Part III · Chapter V  ·  pages 123–124 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A creditor who has not proved his debt before the declaration of any dividend is not entitled to disturb, by reason that he has not participated in it, the distribution of that dividend or any other dividend declared before his debt was proved, but—</p><p class=\"lvl\">(a) when he has proved the debt, he shall be entitled to be paid any dividend or dividends which he has failed to receive, out of any money for the time being available for the payment of any further dividend; and</p><p class=\"lvl\">(b) any dividend or dividends payable to him shall be paid before that money is applied to the payment of any such further dividend.</p><p class=\"lvl\">(2) No action shall lie against the bankruptcy trustee for a dividend, but if the bankruptcy trustee refuses to pay a dividend payable under sub-section (1), the Adjudicating Authority may order him to—</p><p class=\"lvl\">(a) pay the dividend; and</p><p class=\"lvl\">(b) pay, out of his own money—</p><p class=\"lvl\">(i) interest on the dividend; and</p><p class=\"lvl\">(ii) the costs of the proceedings in which the order to pay has been made.</p></div>"
+  }
+}

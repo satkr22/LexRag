@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-5.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "section_5",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Notes, Billsand Cheques",
+    "heading_range": "ss. 4–25",
+    "heading_source": "manifest",
+    "article_number": "5",
+    "article_title": "“Bill of exchange.”",
+    "id": "negotiable-instruments_section_5"
+  },
+  "id": "negotiable-instruments_section_5",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Notes, Billsand Cheques",
+    "range": "ss. 4–25"
+  },
+  "article": {
+    "number": "5",
+    "title": "“Bill of exchange.”",
+    "content": "A “bill of exchange” is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.\nA promise or order to pay is not “conditional”, within the meaning of this section and section 4, by reason of the time for payment of the amount or any instalment thereof being expressed to be on the lapse of a certain period after the occurrence of a specified even which, according to the ordinary expectation of mankind, is certain to happen, although the time of its happening may be uncertain.\nThe sum payble may be “certain”, within the meaning of this section and section 4, although it includes future interest or is payable at an indicated rate of exchange, or is according to the course of exchange, and although the instrument provides that, on default of payment of an instalment, the balance unpaid shall become due.\nThe person to whom it is clear that the direction is given or that payment is to be made may be a “certain person”, within the meaning of this section and section 4, although he is mis-named or designated by description only.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>“Bill of exchange.”</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p>A “bill of exchange” is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.</p><p>A promise or order to pay is not “conditional”, within the meaning of this section and section 4, by reason of the time for payment of the amount or any instalment thereof being expressed to be on the lapse of a certain period after the occurrence of a specified even which, according to the ordinary expectation of mankind, is certain to happen, although the time of its happening may be uncertain.</p><p>The sum payble may be “certain”, within the meaning of this section and section 4, although it includes future interest or is payable at an indicated rate of exchange, or is according to the course of exchange, and although the instrument provides that, on default of payment of an instalment, the balance unpaid shall become due.</p><p>The person to whom it is clear that the direction is given or that payment is to be made may be a “certain person”, within the meaning of this section and section 4, although he is mis-named or designated by description only.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>“Bill of exchange.”</h3></div><p class=\"prov-cite\">Section 5  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p>A “bill of exchange” is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.</p><p>A promise or order to pay is not “conditional”, within the meaning of this section and section 4, by reason of the time for payment of the amount or any instalment thereof being expressed to be on the lapse of a certain period after the occurrence of a specified even which, according to the ordinary expectation of mankind, is certain to happen, although the time of its happening may be uncertain.</p><p>The sum payble may be “certain”, within the meaning of this section and section 4, although it includes future interest or is payable at an indicated rate of exchange, or is according to the course of exchange, and although the instrument provides that, on default of payment of an instalment, the balance unpaid shall become due.</p><p>The person to whom it is clear that the direction is given or that payment is to be made may be a “certain person”, within the meaning of this section and section 4, although he is mis-named or designated by description only.</p></div>"
+  }
+}

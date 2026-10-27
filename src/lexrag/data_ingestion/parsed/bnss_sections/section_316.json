@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-25.html",
+    "source_order": 25,
+    "article_order": 10,
+    "order": 316,
+    "stem": "section_316",
+    "heading_number": "Chapter XXV",
+    "heading_title": "Evidence in Inquiries and Trials",
+    "heading_range": "307 – 336",
+    "heading_source": "group-head",
+    "article_number": "316",
+    "article_title": "Record of examination of accused",
+    "id": "bnss_section_316"
+  },
+  "id": "bnss_section_316",
+  "heading": {
+    "number": "Chapter XXV",
+    "title": "Evidence in Inquiries and Trials",
+    "range": "307 – 336"
+  },
+  "article": {
+    "number": "316",
+    "title": "Record of examination of accused",
+    "content": "(1)Whenever the accused is examined by any Magistrate, or by a Court of Session, the whole of such examination, including every question put to him and every answer given by him, shall be recorded in full by the presiding Judge or Magistrate himself or where he is unable to do so owing to a physical or other incapacity, under his direction and superintendence by an officer of the Court appointed by him in this behalf.\n(2)The record shall, if practicable, be in the language in which the accused is examined or, if that is not practicable, in the language of the Court.\n(3)The record shall be shown or read to the accused, or, if he does not understand the language in which it is written, shall be interpreted to him in a language which he understands, and he shall be at liberty to explain or add to his answers.\n(4)It shall thereafter be signed by the accused and by the Magistrate or presiding Judge, who shall certify under his own hand that the examination was taken in his presence and hearing and that the record contains a full and true account of the statement made by the accused:\nProvisoProvided that where the accused is in custody and is examined through electronic communication, his signature shall be taken within seventy-two hours of such examination.\n(5)Nothing in this section shall be deemed to apply to the examination of an accused person in the course of a summary trial.\n",
+    "html": "<article class=\"provision\" data-n=\"316\" data-report=\"Section 316 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">316</span>Record of examination of accused</h3></div><p class=\"prov-cite\">Section 316 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whenever the accused is examined by any Magistrate, or by a Court of Session, the whole of such examination, including every question put to him and every answer given by him, shall be recorded in full by the presiding Judge or Magistrate himself or where he is unable to do so owing to a physical or other incapacity, under his direction and superintendence by an officer of the Court appointed by him in this behalf.</p><p><span class=\"lbl\">(2)</span>The record shall, if practicable, be in the language in which the accused is examined or, if that is not practicable, in the language of the Court.</p><p><span class=\"lbl\">(3)</span>The record shall be shown or read to the accused, or, if he does not understand the language in which it is written, shall be interpreted to him in a language which he understands, and he shall be at liberty to explain or add to his answers.</p><p><span class=\"lbl\">(4)</span>It shall thereafter be signed by the accused and by the Magistrate or presiding Judge, who shall certify under his own hand that the examination was taken in his presence and hearing and that the record contains a full and true account of the statement made by the accused:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the accused is in custody and is examined through electronic communication, his signature shall be taken within seventy-two hours of such examination.</p><p><span class=\"lbl\">(5)</span>Nothing in this section shall be deemed to apply to the examination of an accused person in the course of a summary trial.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">316</span>Record of examination of accused</h3></div><p class=\"prov-cite\">Section 316 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Whenever the accused is examined by any Magistrate, or by a Court of Session, the whole of such examination, including every question put to him and every answer given by him, shall be recorded in full by the presiding Judge or Magistrate himself or where he is unable to do so owing to a physical or other incapacity, under his direction and superintendence by an officer of the Court appointed by him in this behalf.</p><p><span class=\"lbl\">(2)</span>The record shall, if practicable, be in the language in which the accused is examined or, if that is not practicable, in the language of the Court.</p><p><span class=\"lbl\">(3)</span>The record shall be shown or read to the accused, or, if he does not understand the language in which it is written, shall be interpreted to him in a language which he understands, and he shall be at liberty to explain or add to his answers.</p><p><span class=\"lbl\">(4)</span>It shall thereafter be signed by the accused and by the Magistrate or presiding Judge, who shall certify under his own hand that the examination was taken in his presence and hearing and that the record contains a full and true account of the statement made by the accused:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that where the accused is in custody and is examined through electronic communication, his signature shall be taken within seventy-two hours of such examination.</p><p><span class=\"lbl\">(5)</span>Nothing in this section shall be deemed to apply to the examination of an accused person in the course of a summary trial.</p></div>"
+  }
+}

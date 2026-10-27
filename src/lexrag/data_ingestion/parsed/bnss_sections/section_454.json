@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-34.html",
+    "source_order": 34,
+    "article_order": 2,
+    "order": 454,
+    "stem": "section_454",
+    "heading_number": "Chapter XXXIV",
+    "heading_title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "heading_range": "453 – 477",
+    "heading_source": "group-head",
+    "article_number": "454",
+    "article_title": "Execution of sentence of death passed by High Court",
+    "id": "bnss_section_454"
+  },
+  "id": "bnss_section_454",
+  "heading": {
+    "number": "Chapter XXXIV",
+    "title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "range": "453 – 477"
+  },
+  "article": {
+    "number": "454",
+    "title": "Execution of sentence of death passed by High Court",
+    "content": "When a sentence of death is passed by the High Court in appeal or in revision, the Court of Session shall, on receiving the order of the High Court, cause the sentence to be carried into effect by issuing a warrant.\n",
+    "html": "<article class=\"provision\" data-n=\"454\" data-report=\"Section 454 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">454</span>Execution of sentence of death passed by High Court</h3></div><p class=\"prov-cite\">Section 454 · Chapter XXXIV · Death sentences</p><div class=\"prov-body\"><p>When a sentence of death is passed by the High Court in appeal or in revision, the Court of Session shall, on receiving the order of the High Court, cause the sentence to be carried into effect by issuing a warrant.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">454</span>Execution of sentence of death passed by High Court</h3></div><p class=\"prov-cite\">Section 454 · Chapter XXXIV · Death sentences</p><div class=\"prov-body\"><p>When a sentence of death is passed by the High Court in appeal or in revision, the Court of Session shall, on receiving the order of the High Court, cause the sentence to be carried into effect by issuing a warrant.</p></div>"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_50B_chunk_0",
+    "section_id": "income-tax-1961_section_50B",
+    "token_count": 504,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 50B::Special provision for computation of capital gains in case of slump sale.\n]\n\n\n(1) Any profits or gains arising from the slump sale effected in the previous year shall be chargeable to income-tax as capital gains arising from the transfer of long-term capital assets and shall be deemed to be the income of the previous year in which the transfer took place :\n  Provided that any profits or gains arising from the transfer under the slump sale of any capital asset being one or more undertakings owned and held by an assessee for not more than thirty-six months immediately preceding the date of its transfer shall be deemed to be the capital gains arising from the transfer of short-term capital assets.\n  (2) In relation to capital assets being an undertaking or division transferred by way of such slump sale,—\n  (i) the \"net worth\" of the undertaking or the division, as the case may be, shall be deemed to be the cost of acquisition and the cost of improvement for the purposes of sections 48 and 49 and no regard shall be given to the provisions contained in the second proviso to section 48;\n  (ii) fair market value of the capital assets as on the date of transfer, calculated in the prescribed manner, shall be deemed to be the full value of the consideration received or accruing as a result of the transfer of such capital asset.\n  (3) Every assessee, in the case of slump sale, shall furnish in the prescribed form a report of an accountant as defined in the Explanation below sub-section\n  (2) of section 288 before the specified date referred to in section 44AB indicating the computation of the net worth of the undertaking or division, as the case may be, and certifying that the net worth of the undertaking or division, as the case may be, has been correctly arrived at in accordance with the provisions of this section.\n  Explanation 1.—For the purposes of this section, \"net worth\" shall be the aggregate value of total assets of the undertaking or division as reduced by the value of liabilities of such undertaking or division as appearing in its books of account :\n  Provided that any change in the value of assets on account of revaluation of assets shall be ignored for the purposes of computing the net worth.\n  Explanation 2.—For computing the net worth, the aggregate value of total assets shall be,—",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_50B_chunk_0",
+      "section_id": "income-tax-1961_section_50B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "50B",
+      "section_title": "Special provision for computation of capital gains in case of slump sale."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_50B_chunk_1",
+    "section_id": "income-tax-1961_section_50B",
+    "token_count": 247,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 50B::Special provision for computation of capital gains in case of slump sale.\n]\n\n\n(1) Any profits or gains arising from the slump sale effected in the previous year shall be chargeable to income-tax as capital gains arising from the transfer of long-term capital assets and shall be deemed to be the income of the previous year in which the transfer took place :\n  (a) in the case of depreciable assets, the written down value of the block of assets determined in accordance with the provisions contained in sub-item\n  (C) of item (i) of sub-clause (c) of clause (6) of section 43;\n  (aa) in the case of capital asset being goodwill of a business or profession, which has not been acquired by the assessee by purchase from a previous owner, nil;\n  (b) in the case of capital assets in respect of which the whole of the expenditure has been allowed or is allowable as a deduction under section 35AD, nil; and\n  (c) in the case of other assets, the book value of such assets.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_50B_chunk_1",
+      "section_id": "income-tax-1961_section_50B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "50B",
+      "section_title": "Special provision for computation of capital gains in case of slump sale."
+    }
+  }
+]

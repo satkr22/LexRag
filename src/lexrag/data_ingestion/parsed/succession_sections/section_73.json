@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-12.html",
+    "source_order": 12,
+    "article_order": 7,
+    "order": 73,
+    "stem": "section_73",
+    "heading_number": "Part VI · Chapter V",
+    "heading_title": "Of the Attestation, Revocation, Alteration and Revival of Wills",
+    "heading_range": "ss. 67–73",
+    "heading_source": "group-head",
+    "article_number": "73",
+    "article_title": "Revival of unprivileged will.",
+    "id": "succession_section_73"
+  },
+  "id": "succession_section_73",
+  "heading": {
+    "number": "Part VI · Chapter V",
+    "title": "Of the Attestation, Revocation, Alteration and Revival of Wills",
+    "range": "ss. 67–73"
+  },
+  "article": {
+    "number": "73",
+    "title": "Revival of unprivileged will.",
+    "content": "(1) No unprivileged will or codicil, nor any part thereof, which has been revoked in any manner, shall be revived otherwise than by the re-execution thereof, or by a codicil executed in manner hereinbefore required, and showing an intention to revive the same.\n(2) When any will or codicil, which has been partly revoked and afterwards wholly revoked, is revived, such revival shall not extend to so much thereof as has been revoked before the revocation of the whole thereof, unless an intention to the contrary is shown by the will or codicil.\n",
+    "html": "<article class=\"provision\" data-n=\"73\" data-report=\"Section 73 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Revival of unprivileged will.</h3></div><p class=\"prov-cite\">Section 73  ·  Part VI · Chapter V  ·  page 31 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No unprivileged will or codicil, nor any part thereof, which has been revoked in any manner, shall be revived otherwise than by the re-execution thereof, or by a codicil executed in manner hereinbefore required, and showing an intention to revive the same.</p><p class=\"lvl\">(2) When any will or codicil, which has been partly revoked and afterwards wholly revoked, is revived, such revival shall not extend to so much thereof as has been revoked before the revocation of the whole thereof, unless an intention to the contrary is shown by the will or codicil.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">73</span>Revival of unprivileged will.</h3></div><p class=\"prov-cite\">Section 73  ·  Part VI · Chapter V  ·  page 31 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No unprivileged will or codicil, nor any part thereof, which has been revoked in any manner, shall be revived otherwise than by the re-execution thereof, or by a codicil executed in manner hereinbefore required, and showing an intention to revive the same.</p><p class=\"lvl\">(2) When any will or codicil, which has been partly revoked and afterwards wholly revoked, is revived, such revival shall not extend to so much thereof as has been revoked before the revocation of the whole thereof, unless an intention to the contrary is shown by the will or codicil.</p></div>"
+  }
+}

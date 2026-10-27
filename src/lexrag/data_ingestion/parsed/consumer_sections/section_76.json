@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-76.html",
+    "source_order": 76,
+    "article_order": 1,
+    "order": 76,
+    "stem": "section_76",
+    "heading_number": "Chapter V",
+    "heading_title": "Mediation",
+    "heading_range": "ss. 74–81",
+    "heading_source": "manifest",
+    "article_number": "76",
+    "article_title": "Nomination of mediators from panel.",
+    "id": "consumer_section_76"
+  },
+  "id": "consumer_section_76",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Mediation",
+    "range": "ss. 74–81"
+  },
+  "article": {
+    "number": "76",
+    "title": "Nomination of mediators from panel.",
+    "content": "The District Commission, the State Commission or the National Commission shall, while nominating any person from the panel of mediators referred to in section 75, consider his suitability for resolving the consumer dispute involved.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">76</span>Nomination of mediators from panel.</h3></div><p class=\"prov-cite\">Section 76  ·  Chapter V  ·  page 30 of the Act</p><div class=\"prov-body\"><p>The District Commission, the State Commission or the National Commission shall, while nominating any person from the panel of mediators referred to in section 75, consider his suitability for resolving the consumer dispute involved.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">76</span>Nomination of mediators from panel.</h3></div><p class=\"prov-cite\">Section 76  ·  Chapter V  ·  page 30 of the Act</p><div class=\"prov-body\"><p>The District Commission, the State Commission or the National Commission shall, while nominating any person from the panel of mediators referred to in section 75, consider his suitability for resolving the consumer dispute involved.</p></div>"
+  }
+}

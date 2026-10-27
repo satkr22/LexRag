@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "registration_section_22_chunk_0",
+    "section_id": "registration_section_22",
+    "token_count": 180,
+    "text": "[Act: registration\n Chapter: Of Registrable Documents\n Section: 22::Description of houses and land by reference to Government maps or surveys.\n]\n\n\n(1) Where it is, in the opinion of the 1 [State Government], practicable to describe houses, not being houses in towns, and lands by reference to a Government map or survey, the 1 [State Government] may, by rule made under this Act, require that such houses and lands as aforesaid shall, for the purposes of section 21, be so described.\n  (2) Save as otherwise provided by any rule made under sub-section (1), failure to comply with the provisions of section 21, sub-section (2) or sub-section (3), shall not disentitle a document to be registered if the description of the property to which it relates is sufficient to identify that property.",
+    "metadata": {
+      "chunk_id": "registration_section_22_chunk_0",
+      "section_id": "registration_section_22",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "registration",
+      "document_title": null,
+      "chapter_number": "Part III",
+      "chapter_title": "Of Registrable Documents",
+      "section_number": "22",
+      "section_title": "Description of houses and land by reference to Government maps or surveys."
+    }
+  }
+]

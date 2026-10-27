@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_7_chunk_0",
+    "section_id": "succession_section_7",
+    "token_count": 127,
+    "text": "[Act: succession\n Chapter: Of Domicile\n Section: 7::Domicile of origin of person of legitimate birth.\n]\n\n\nThe domicile of origin of every person of legitimate birth is in the country in which at the time of his birth his father was domiciled; or, if he is a posthumous child, in the country in which his father was domiciled at the time of the father’s death.\nIllustration\nAt the time of the birth of A, his father was domiciled in England. A’s domicile of origin is in England, whatever may be the country in which he was born.",
+    "metadata": {
+      "chunk_id": "succession_section_7_chunk_0",
+      "section_id": "succession_section_7",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part II",
+      "chapter_title": "Of Domicile",
+      "section_number": "7",
+      "section_title": "Domicile of origin of person of legitimate birth."
+    }
+  }
+]

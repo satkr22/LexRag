@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-22.html",
+    "source_order": 22,
+    "article_order": 4,
+    "order": 286,
+    "stem": "section_286",
+    "heading_number": "Chapter XXII",
+    "heading_title": "Summary Trials",
+    "heading_range": "283 – 288",
+    "heading_source": "group-head",
+    "article_number": "286",
+    "article_title": "Record in summary trials",
+    "id": "bnss_section_286"
+  },
+  "id": "bnss_section_286",
+  "heading": {
+    "number": "Chapter XXII",
+    "title": "Summary Trials",
+    "range": "283 – 288"
+  },
+  "article": {
+    "number": "286",
+    "title": "Record in summary trials",
+    "content": "In every case tried summarily, the Magistrate shall enter, in such form as the State Government may direct, the following particulars, namely:—\n(a)the serial number of the case;\n(b)the date of the commission of the offence;\n(c)the date of the report or complaint;\n(d)the name of the complainant (if any);\n(e)the name, parentage and residence of the accused;\n(f)the offence complained of and the offence (if any) proved, and in cases coming under clause (i), clause (ii) or clause (iii) of sub-section (1) of section 283, the value of the property in respect of which the offence has been committed;\n(g)the plea of the accused and his examination (if any);\n(h)the finding;\n(i)the sentence or other final order;\n(j)the date on which proceedings terminated.\n",
+    "html": "<article class=\"provision\" data-n=\"286\" data-report=\"Section 286 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">286</span>Record in summary trials</h3></div><p class=\"prov-cite\">Section 286 · Chapter XXII</p><div class=\"prov-body\"><p>In every case tried summarily, the Magistrate shall enter, in such form as the State Government may direct, the following particulars, namely:—</p><p><span class=\"lbl\">(a)</span>the serial number of the case;</p><p><span class=\"lbl\">(b)</span>the date of the commission of the offence;</p><p><span class=\"lbl\">(c)</span>the date of the report or complaint;</p><p><span class=\"lbl\">(d)</span>the name of the complainant (if any);</p><p><span class=\"lbl\">(e)</span>the name, parentage and residence of the accused;</p><p><span class=\"lbl\">(f)</span>the offence complained of and the offence (if any) proved, and in cases coming under clause (i), clause (ii) or clause (iii) of sub-section (1) of section 283, the value of the property in respect of which the offence has been committed;</p><p><span class=\"lbl\">(g)</span>the plea of the accused and his examination (if any);</p><p><span class=\"lbl\">(h)</span>the finding;</p><p><span class=\"lbl\">(i)</span>the sentence or other final order;</p><p><span class=\"lbl\">(j)</span>the date on which proceedings terminated.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">286</span>Record in summary trials</h3></div><p class=\"prov-cite\">Section 286 · Chapter XXII</p><div class=\"prov-body\"><p>In every case tried summarily, the Magistrate shall enter, in such form as the State Government may direct, the following particulars, namely:—</p><p><span class=\"lbl\">(a)</span>the serial number of the case;</p><p><span class=\"lbl\">(b)</span>the date of the commission of the offence;</p><p><span class=\"lbl\">(c)</span>the date of the report or complaint;</p><p><span class=\"lbl\">(d)</span>the name of the complainant (if any);</p><p><span class=\"lbl\">(e)</span>the name, parentage and residence of the accused;</p><p><span class=\"lbl\">(f)</span>the offence complained of and the offence (if any) proved, and in cases coming under clause (i), clause (ii) or clause (iii) of sub-section (1) of section 283, the value of the property in respect of which the offence has been committed;</p><p><span class=\"lbl\">(g)</span>the plea of the accused and his examination (if any);</p><p><span class=\"lbl\">(h)</span>the finding;</p><p><span class=\"lbl\">(i)</span>the sentence or other final order;</p><p><span class=\"lbl\">(j)</span>the date on which proceedings terminated.</p></div>"
+  }
+}

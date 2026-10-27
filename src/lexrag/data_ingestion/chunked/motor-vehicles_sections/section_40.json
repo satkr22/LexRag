@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_40_chunk_0",
+    "section_id": "motor-vehicles_section_40",
+    "token_count": 89,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 40::Registration, where to be made.\n]\n\n\nSubject to the provisions of section 42, section 43 and section 60, every owner of a motor vehicle shall cause the vehicle to be registered by 1[any registering authority in the State] in 2[which] he has the residence or place of business where the vehicle is normally kept.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_40_chunk_0",
+      "section_id": "motor-vehicles_section_40",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "40",
+      "section_title": "Registration, where to be made."
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "insolvency_section_52_chunk_0",
+    "section_id": "insolvency_section_52",
+    "token_count": 459,
+    "text": "[Act: insolvency\n Chapter: Liquidation Process\n Section: 52::Secured creditor in liquidation proceedings.\n]\n\n\n(1) A secured creditor in the liquidation proceedings may—\n  (a) relinquish its security interest to the liquidation estate and receive proceeds from the sale of assets by the liquidator in the manner specified in section 53; or\n  (b) realise its security interest in the manner specified in this section.\n  3 [(2) Where the secured creditor intends to realise the security interest under clause (b) of sub-section (1), he shall inform the liquidator of such security interest and identify the asset subject to such security interest to be realised within a period of fourteen days from the liquidation commencement date, and if he fails to do so, such security interest shall be deemed to be relinquished to the liquidation estate:\n  Provided that where more than one secured creditor has any security interest over an asset of the corporate debtor, no secured creditor shall be entitled to realise its security interest, unless the realisation is agreed upon by the secured creditors representing not less than sixty-six per cent. of the value of all claims that are secured by such security interests.]\n  (3) Before any security interest is realised by the secured creditor under this section, the liquidator shall verify such security interest and permit the secured creditor to realise only such security interest, the existence of which may be proved either—\n  (a) by the records of such security interest maintained by an information utility; or\n  (b) by such other means as may be specified by the Board.\n  (4) A secured creditor may enforce, realise, settle, compromise or deal with the secured assets in accordance with such law as applicable to the security interest being realised and to the secured creditor and apply the proceeds to recover the debts due to it.\n  (5) If in the course of realising a secured asset, any secured creditor faces resistance from the corporate debtor or any person connected therewith in taking possession of, selling or otherwise disposing of the security, the secured creditor may make an application to the Adjudicating Authority to facilitate the secured creditor to realise such security interest in accordance with law for the time being in force.",
+    "metadata": {
+      "chunk_id": "insolvency_section_52_chunk_0",
+      "section_id": "insolvency_section_52",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter III",
+      "chapter_title": "Liquidation Process",
+      "section_number": "52",
+      "section_title": "Secured creditor in liquidation proceedings."
+    }
+  },
+  {
+    "chunk_id": "insolvency_section_52_chunk_1",
+    "section_id": "insolvency_section_52",
+    "token_count": 441,
+    "text": "[Act: insolvency\n Chapter: Liquidation Process\n Section: 52::Secured creditor in liquidation proceedings.\n]\n\n\n(1) A secured creditor in the liquidation proceedings may—\n  (6) The Adjudicating Authority, on the receipt of an application from a secured creditor under sub-section (5) may pass such order as may be necessary to permit a secured creditor to realise security interest in accordance with law for the time being in force.\n  (7) Where the enforcement of the security interest under sub-section (4) yields an amount by way of proceeds which is in excess of the debts due to the secured creditor, the secured creditor shall—\n  (a) account to the liquidator for such surplus; and\n  (b) tender to the liquidator any surplus funds received from the enforcement of such secured assets.\n  1 [(8) The amount of insolvency resolution process, costs and the liquidation costs, and workmen’s dues as referred to in clause (a) and sub-clause (i) of clause (b) of sub-section (1) of section 53, respectively, shall be deducted from the proceeds of any realisation by the secured creditors who realise their security interests in the manner provided in this section, and they shall transfer such amounts to the liquidator to be included in the liquidation estate in such manner, within such period and subject to such conditions to secure the payment as may be specified.]\n  (9) Where the proceeds of the realisation of the secured assets are not adequate to repay debts owed to the secured creditor, the unpaid debts of such secured creditor shall be paid by the liquidator in the manner specified in clause (e) of sub-section (1) of section 53.\n  2 [Explanation.—For the purposes of this section, it is hereby declared that the provisions of sub-section (2) as amended by the Insolvency and Bankruptcy Code (Amendment) Act, 2026, shall not apply to the liquidation process initiated on and before the date of commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2026.]",
+    "metadata": {
+      "chunk_id": "insolvency_section_52_chunk_1",
+      "section_id": "insolvency_section_52",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter III",
+      "chapter_title": "Liquidation Process",
+      "section_number": "52",
+      "section_title": "Secured creditor in liquidation proceedings."
+    }
+  }
+]

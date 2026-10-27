@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "registration",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "registration_sections/section-63.html",
+    "source_order": 66,
+    "article_order": 1,
+    "order": 66,
+    "stem": "section_63",
+    "heading_number": "Part XI",
+    "heading_title": "Of the Duites and Powers of Registering Officers",
+    "heading_range": "ss. 51–70",
+    "heading_source": "manifest",
+    "article_number": "63",
+    "article_title": "Power to administer oaths and record of substance of statements.",
+    "id": "registration_section_63"
+  },
+  "id": "registration_section_63",
+  "heading": {
+    "number": "Part XI",
+    "title": "Of the Duites and Powers of Registering Officers",
+    "range": "ss. 51–70"
+  },
+  "article": {
+    "number": "63",
+    "title": "Power to administer oaths and record of substance of statements.",
+    "content": "(1) Every registering officer may, at his discretion, administer an oath to any person examined by him under the provisions of this Act.\n(2) Every such officer may also at his discretion record a note of the substance of the statement made by each such person, and such statement shall be read over, or (if made in a language with which such person is not acquainted) interpreted to him in a language with which he is acquainted, and, if he admits the correctness of such note, it shall be signed by the registering officer.\n(3) Every such note so signed shall be admissible for the purpose of proving that the statements therein recorded were made by the persons and under the circumstances therein stated.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">63</span>Power to administer oaths and record of substance of statements.</h3></div><p class=\"prov-cite\">Section 63  ·  Part XI  ·  (B) As to the procedure on admitting to registration  ·  page 39 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every registering officer may, at his discretion, administer an oath to any person examined by him under the provisions of this Act.</p><p class=\"lvl\">(2) Every such officer may also at his discretion record a note of the substance of the statement made by each such person, and such statement shall be read over, or (if made in a language with which such person is not acquainted) interpreted to him in a language with which he is acquainted, and, if he admits the correctness of such note, it shall be signed by the registering officer.</p><p class=\"lvl\">(3) Every such note so signed shall be admissible for the purpose of proving that the statements therein recorded were made by the persons and under the circumstances therein stated.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">63</span>Power to administer oaths and record of substance of statements.</h3></div><p class=\"prov-cite\">Section 63  ·  Part XI  ·  (B) As to the procedure on admitting to registration  ·  page 39 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every registering officer may, at his discretion, administer an oath to any person examined by him under the provisions of this Act.</p><p class=\"lvl\">(2) Every such officer may also at his discretion record a note of the substance of the statement made by each such person, and such statement shall be read over, or (if made in a language with which such person is not acquainted) interpreted to him in a language with which he is acquainted, and, if he admits the correctness of such note, it shall be signed by the registering officer.</p><p class=\"lvl\">(3) Every such note so signed shall be admissible for the purpose of proving that the statements therein recorded were made by the persons and under the circumstances therein stated.</p></div>"
+  }
+}

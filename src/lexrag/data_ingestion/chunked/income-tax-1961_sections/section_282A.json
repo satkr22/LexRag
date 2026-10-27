@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_282A_chunk_0",
+    "section_id": "income-tax-1961_section_282A",
+    "token_count": 182,
+    "text": "[Act: income-tax-1961\n Chapter: Miscellaneous\n Section: 282A::Authentication of notices and other documents.\n]\n\n\n(1) Where this Act requires a notice or other document to be issued by any income-tax authority, such notice or other document shall be signed and issued in paper form or communicated in electronic form by that authority in accordance with such procedure as may be prescribed.\n(2) Every notice or other document to be issued, served or given for the purposes of this Act by any income-tax authority, shall be deemed to be authenticated if the name and office of a designated income-tax authority is printed, stamped or otherwise written thereon.\n(3) For the purposes of this section, a designated income-tax authority shall mean any income-tax authority authorised by the Board to issue, serve or give such notice or other document after authentication in the manner as provided in sub-section (2).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_282A_chunk_0",
+      "section_id": "income-tax-1961_section_282A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "282A",
+      "section_title": "Authentication of notices and other documents."
+    }
+  }
+]

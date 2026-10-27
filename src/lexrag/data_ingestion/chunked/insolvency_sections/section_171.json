@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "insolvency_section_171_chunk_0",
+    "section_id": "insolvency_section_171",
+    "token_count": 386,
+    "text": "[Act: insolvency\n Chapter: Administration and Distribution of the Estate of the Bankrupt\n Section: 171::Proof of debt.\n]\n\n\n(1) The bankruptcy trustee shall give notice to each of the creditors to submit proof of debt within fourteen days of preparing the list of creditors under section 132.\n(2) The proof of debt shall—\n(a) require the creditor to give full particulars of debt, including the date on which the debt was contracted and the value at which that person assesses it;\n(b) require the creditor to give full particulars of the security, including the date on which the security was given and the value at which that person assesses it;\n(c) be in such form and manner as may be prescribed.\n(3) In case the creditor is a decree holder against the bankrupt, a copy of the decree shall be a valid proof of debt.\n(4) Where a debt bears interest, that interest shall be provable as part of the debt except in so far as it is owed in respect of any period after the bankruptcy commencement date.\n(5) The bankruptcy trustee shall estimate the value of any bankruptcy debt which does not have a specific value.\n(6) The value assigned by the bankruptcy trustee under sub-section (5) shall be the amount provable by the concerned creditor.\n(7) A creditor may prove for a debt where payment would have become due at a date later than the bankruptcy commencement date as if it were owed presently and may receive dividends in a manner as may be prescribed.\n(8) Where the bankruptcy trustee serves a notice under sub-section (1) and the person on whom the notice is served does not file a proof of security within thirty days after the date of service of the notice, the bankruptcy trustee may, with leave of the Adjudicating Authority, sell or dispose of any property that was subject to the security, free of that security.",
+    "metadata": {
+      "chunk_id": "insolvency_section_171_chunk_0",
+      "section_id": "insolvency_section_171",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part III · Chapter V",
+      "chapter_title": "Administration and Distribution of the Estate of the Bankrupt",
+      "section_number": "171",
+      "section_title": "Proof of debt."
+    }
+  }
+]

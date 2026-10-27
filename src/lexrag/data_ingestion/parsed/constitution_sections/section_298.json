@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-15.html",
+    "source_order": 15,
+    "article_order": 39,
+    "order": 379,
+    "stem": "section_298",
+    "heading_number": "Part XII",
+    "heading_title": "Finance, Property, Contracts and Suits",
+    "heading_range": "264 – 300A",
+    "heading_source": "group-head",
+    "article_number": "298",
+    "article_title": "Power to carry on trade, etc",
+    "id": "constitution_section_298"
+  },
+  "id": "constitution_section_298",
+  "heading": {
+    "number": "Part XII",
+    "title": "Finance, Property, Contracts and Suits",
+    "range": "264 – 300A"
+  },
+  "article": {
+    "number": "298",
+    "title": "Power to carry on trade, etc",
+    "content": "The executive power of the Union and of each State shall extend to the carrying on of any trade or business and to the acquisition, holding and disposal of property and the making of contracts for any purpose:\nProvisoProvided that—\n(a)the said executive power of the Union shall, in so far as such trade or business or such purpose is not one with respect to which Parliament may make laws, be subject in each State to legislation by the State; and\n(b)the said executive power of each State shall, in so far as such trade or business or such purpose is not one with respect to which the State Legislature may make laws, be subject to legislation by Parliament.\n",
+    "html": "<article class=\"provision\" data-n=\"298\" data-report=\"Article 298 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">298</span>Power to carry on trade, etc</h3></div><p class=\"prov-cite\">Article 298 · Part XII</p><div class=\"prov-body\"><p>The executive power of the Union and of each State shall extend to the carrying on of any trade or business and to the acquisition, holding and disposal of property and the making of contracts for any purpose:</p><p><span class=\"named\">Proviso</span>Provided that—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the said executive power of the Union shall, in so far as such trade or business or such purpose is not one with respect to which Parliament may make laws, be subject in each State to legislation by the State; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>the said executive power of each State shall, in so far as such trade or business or such purpose is not one with respect to which the State Legislature may make laws, be subject to legislation by Parliament.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 20 (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">298</span>Power to carry on trade, etc</h3></div><p class=\"prov-cite\">Article 298 · Part XII</p><div class=\"prov-body\"><p>The executive power of the Union and of each State shall extend to the carrying on of any trade or business and to the acquisition, holding and disposal of property and the making of contracts for any purpose:</p><p><span class=\"named\">Proviso</span>Provided that—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the said executive power of the Union shall, in so far as such trade or business or such purpose is not one with respect to which Parliament may make laws, be subject in each State to legislation by the State; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>the said executive power of each State shall, in so far as such trade or business or such purpose is not one with respect to which the State Legislature may make laws, be subject to legislation by Parliament.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 20 (w.e.f. 1-11-1956).</p></div>"
+  }
+}

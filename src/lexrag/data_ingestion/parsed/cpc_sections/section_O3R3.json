@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-15.html",
+    "source_order": 15,
+    "article_order": 3,
+    "order": 197,
+    "stem": "section_O3R3",
+    "heading_number": "Order III",
+    "heading_title": "Recognized Agents and Pleaders",
+    "heading_range": "6 rules",
+    "heading_source": "group-head",
+    "article_number": "O3R3",
+    "article_title": "Service of process on recognized agent.",
+    "id": "cpc_section_O3R3"
+  },
+  "id": "cpc_section_O3R3",
+  "heading": {
+    "number": "Order III",
+    "title": "Recognized Agents and Pleaders",
+    "range": "6 rules"
+  },
+  "article": {
+    "number": "O3R3",
+    "title": "Service of process on recognized agent.",
+    "content": "(1) Processes served on the recognised agent of a party shall be as effectual as if the same had been served on the party in person, unless the Court otherwise directs.\n(2) The provisions for the service of process on a party to a suit shall apply to the service of process on his recognised agent.\n",
+    "html": "<article class=\"provision\" data-n=\"O3R3\" data-report=\"Order 3, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Service of process on recognized agent.</h3></div><p class=\"prov-cite\">Order 3, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\">(1) Processes served on the recognised agent of a party shall be as effectual as if the same had been served on the party in person, unless the Court otherwise directs.</p><p class=\"lvl\">(2) The provisions for the service of process on a party to a suit shall apply to the service of process on his recognised agent.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Service of process on recognized agent.</h3></div><p class=\"prov-cite\">Order 3, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\">(1) Processes served on the recognised agent of a party shall be as effectual as if the same had been served on the party in person, unless the Court otherwise directs.</p><p class=\"lvl\">(2) The provisions for the service of process on a party to a suit shall apply to the service of process on his recognised agent.</p></div>"
+  }
+}

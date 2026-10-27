@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 27,
+    "order": 300,
+    "stem": "section_296",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "296",
+    "article_title": "Power of Tribunal to make calls.",
+    "id": "companies_section_296"
+  },
+  "id": "companies_section_296",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "296",
+    "title": "Power of Tribunal to make calls.",
+    "content": "The Tribunal may, at any time after the passing of a winding up order, and either before or after it has ascertained the sufficiency of the assets of the company,—\n(a) make calls on all or any of the contributories for the time being on the list of the contributories, to the extent of their liability, for payment of any money which the Tribunal considers necessary to satisfy the debts and liabilities of the company, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves; and\n(b) make an order for payment of any calls so made.\n",
+    "html": "<article class=\"provision\" data-n=\"296\" data-report=\"Section 296 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">296</span>Power of Tribunal to make calls.</h3></div><p class=\"prov-cite\">Section 296  ·  Chapter XX  ·  Part I  ·  page 179 of the Act</p><div class=\"prov-body\"><p>The Tribunal may, at any time after the passing of a winding up order, and either before or after it has ascertained the sufficiency of the assets of the company,—</p><p class=\"lvl\">(a) make calls on all or any of the contributories for the time being on the list of the contributories, to the extent of their liability, for payment of any money which the Tribunal considers necessary to satisfy the debts and liabilities of the company, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves; and</p><p class=\"lvl\">(b) make an order for payment of any calls so made.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">296</span>Power of Tribunal to make calls.</h3></div><p class=\"prov-cite\">Section 296  ·  Chapter XX  ·  Part I  ·  page 179 of the Act</p><div class=\"prov-body\"><p>The Tribunal may, at any time after the passing of a winding up order, and either before or after it has ascertained the sufficiency of the assets of the company,—</p><p class=\"lvl\">(a) make calls on all or any of the contributories for the time being on the list of the contributories, to the extent of their liability, for payment of any money which the Tribunal considers necessary to satisfy the debts and liabilities of the company, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves; and</p><p class=\"lvl\">(b) make an order for payment of any calls so made.</p></div>"
+  }
+}

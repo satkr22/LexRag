@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194-IC_chunk_0",
+    "section_id": "income-tax-1961_section_194-IC",
+    "token_count": 139,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194-IC::Payment under specified agreement.\n]\n\n\nNotwithstanding anything contained in section 194-IA, any person responsible for paying to a resident any sum by way of consideration, not being consideration in kind, under the agreement referred to in sub-section (5A) of section 45, shall at the time of credit of such sum to the account of the payee or at the time of payment thereof in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct an amount equal to ten per cent of such sum as income-tax thereon.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194-IC_chunk_0",
+      "section_id": "income-tax-1961_section_194-IC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194-IC",
+      "section_title": "Payment under specified agreement."
+    }
+  }
+]

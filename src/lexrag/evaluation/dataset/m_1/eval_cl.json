@@ -1,0 +1,102 @@
+[
+  {
+    "question": "A court clerk alters an entry in a court's official record so that it shows something false. What offence has the clerk committed, and who may initiate prosecution for an offence of this kind where the document was given in evidence in a court proceeding?",
+    "referenced_sections": ["bns_section_337", "bnss_section_215"],
+    "answer": "Altering a court record is forgery of a record of a Court or of a public register (bns_section_337). Under the procedural provision on prosecution for offences relating to documents given in evidence (bnss_section_215), a court generally cannot take cognizance of such an offence unless the court concerned, or another authorised court, files a written complaint."
+  },
+  {
+    "question": "A private citizen publishes a statement that harms the reputation of a named individual. What offence does this amount to, and what procedural rule governs who may set the prosecution in motion?",
+    "referenced_sections": ["bns_section_356", "bnss_section_222"],
+    "answer": "Harming someone's reputation by publication is defamation (bns_section_356). The procedure for prosecution for defamation (bnss_section_222) generally requires a Magistrate to take cognizance only on a complaint by the aggrieved person, with special rules for defamation of certain public functionaries."
+  },
+  {
+    "question": "A man marries a second time while his first spouse is alive and the first marriage is still valid. What is the offence, and who is allowed to bring a complaint so that the court can take cognizance?",
+    "referenced_sections": ["bns_section_82", "bnss_section_219"],
+    "answer": "Remarrying during the lifetime of a husband or wife is the offence of bigamy (bns_section_82). Under the rules on prosecution for offences against marriage (bnss_section_219), the court generally takes cognizance only on a complaint by the aggrieved person, or by specified relatives where the aggrieved person cannot complain."
+  },
+  {
+    "question": "A young wife dies in suspicious circumstances a few years after marriage, and her family alleges harassment over dowry demands. Which offence may apply to the husband's family, and which procedural step into the cause of her death is triggered?",
+    "referenced_sections": ["bns_section_80", "bnss_section_196"],
+    "answer": "The offence is dowry death (bns_section_80). Procedurally, the provision on inquiry by a Magistrate into cause of death (bnss_section_196) applies to such suspicious deaths of a married woman, so a Magistrate holds an inquiry into the cause of death in addition to any police investigation."
+  },
+  {
+    "question": "After a woman reports being raped, what substantive offence is alleged, and what procedural step must be taken on her person to preserve medical evidence?",
+    "referenced_sections": ["bns_section_63", "bnss_section_184"],
+    "answer": "The alleged offence is rape (bns_section_63). The procedure on medical examination of the victim of rape (bnss_section_184) requires the victim to be examined by a registered medical practitioner, who prepares a report of the findings."
+  },
+  {
+    "question": "A newspaper prints the name of a rape survivor. Which penal provision does this engage, and how does the general rule that courts are open to the public interact with the way such trials are conducted?",
+    "referenced_sections": ["bns_section_72", "bnss_section_366"],
+    "answer": "Disclosing the identity of a victim of certain offences, including rape, is penalised (bns_section_72). The rule that courts are open (bnss_section_366) is the general default, but it allows inquiry or trial of rape cases to be conducted in camera, which supports the confidentiality of the victim."
+  },
+  {
+    "question": "A man against whom a proclamation has been published as an absconder ignores it and does not appear at the specified place and time. What offence does his non-appearance constitute, and what procedural provision authorises that proclamation in the first place?",
+    "referenced_sections": ["bns_section_209", "bnss_section_84"],
+    "answer": "Not appearing in response to a proclamation is an offence under bns_section_209. That proclamation is issued under the procedure for proclamation for a person absconding (bnss_section_84), which the Court uses when a warrant cannot be executed because the person is absconding."
+  },
+  {
+    "question": "A shopkeeper learns that his neighbours plan an offence punishable with death or life imprisonment and keeps quiet to help them. What offence may he commit, and what general duty to inform authorities does the procedural code impose on members of the public?",
+    "referenced_sections": ["bns_section_58", "bnss_section_33"],
+    "answer": "Hiding a design to commit an offence punishable with death or life imprisonment is an offence (bns_section_58). The procedural provision on public to give information of certain offences (bnss_section_33) imposes a duty on persons aware of specified offences to inform the nearest Magistrate or police officer."
+  },
+  {
+    "question": "A man being lawfully arrested violently pushes the police officer away. What offence is this, and what does the law say about how an arrest is validly made, including when force may be used?",
+    "referenced_sections": ["bns_section_262", "bnss_section_43"],
+    "answer": "Resisting one's own lawful apprehension is an offence (bns_section_262). The provision on how arrest is made (bnss_section_43) provides that an arrest is made by touching or confining the body unless the person submits by word or action, and that necessary force may be used if the person resists or tries to evade arrest."
+  },
+  {
+    "question": "An accused released on bail does not appear in court on the date fixed. Which offence may he have committed, and what procedure follows with respect to the bond he executed?",
+    "referenced_sections": ["bns_section_269", "bnss_section_491"],
+    "answer": "Failing to appear in Court after release on a bail bond or bond is an offence (bns_section_269). The procedure when a bond has been forfeited (bnss_section_491) requires the Court to record the grounds of forfeiture and call on the person bound to pay the penalty or show cause why it should not be paid."
+  },
+  {
+    "question": "A witness lies in the witness box during a trial. What is the offence, and can the court that observed it deal with the witness through a faster procedure instead of a full trial?",
+    "referenced_sections": ["bns_section_229", "bnss_section_383"],
+    "answer": "Giving false evidence is punishable under the punishment for false evidence provision (bns_section_229). The summary procedure for trial for giving false evidence (bnss_section_383) allows the court before which the false evidence was given to try the offence summarily in specified circumstances."
+  },
+  {
+    "question": "A man threatens a key witness so that the witness will give false testimony. What offence has been committed, and what procedural protections exist for witnesses who are threatened?",
+    "referenced_sections": ["bns_section_232", "bnss_section_216"],
+    "answer": "Threatening a person to give false evidence is an offence (bns_section_232). The procedure for witnesses in case of threatening (bnss_section_216) provides a way for the court to deal with the situation so that the witness is not deterred from testifying."
+  },
+  {
+    "question": "Two persons agree to carry out a plot to wage war against the Government of India. Which offence is committed by the agreement itself, and what procedural condition governs whether a court may take cognizance of it?",
+    "referenced_sections": ["bns_section_148", "bnss_section_217"],
+    "answer": "A conspiracy to commit offences punishable as waging war is a distinct offence (bns_section_148). The provision on prosecution for offences against the State and criminal conspiracy to commit such offences (bnss_section_217) generally requires prior sanction of the Government before a court takes cognizance."
+  },
+  {
+    "question": "A police officer deliberately prepares a false document to harm a person. What offence does this amount to, and what protection or precondition applies when a court is asked to take cognizance of an offence by a public servant acting in official duty?",
+    "referenced_sections": ["bns_section_201", "bnss_section_218"],
+    "answer": "Framing an incorrect document with intent to cause injury is an offence by a public servant (bns_section_201). The provision on prosecution of Judges and public servants (bnss_section_218) generally requires prior sanction from the appropriate Government before cognizance is taken for acts done in official duty."
+  },
+  {
+    "question": "A gang is caught counterfeiting coins. What is the substantive offence, and what special evidentiary rule helps prove that the coins are counterfeit at trial?",
+    "referenced_sections": ["bns_section_178", "bnss_section_328"],
+    "answer": "Counterfeiting coin is an offence (bns_section_178). The provision on evidence of officers of the Mint (bnss_section_328) lets a report or evidence from Mint officers be used to establish facts about coin, supporting proof of the counterfeiting."
+  },
+  {
+    "question": "A court imposes a fine on a convicted person who then fails to pay it. What does the penal code say about liability in default of fine, and what does the procedural code say about the sentence of imprisonment that may be imposed in default?",
+    "referenced_sections": ["bns_section_8", "bnss_section_24"],
+    "answer": "The penal provision on amount of fine and liability in default of payment (bns_section_8) allows imprisonment in default of fine. The procedural provision on sentence of imprisonment in default of fine (bnss_section_24) sets the court's power to order that imprisonment and its limits."
+  },
+  {
+    "question": "A Sessions Court convicts a man of murder and sentences him to death. What does the penal code prescribe for murder, and what procedural step must follow before the death sentence can be carried out?",
+    "referenced_sections": ["bns_section_103", "bnss_section_407"],
+    "answer": "Murder is punishable under the punishment for murder provision (bns_section_103), which provides for death or life imprisonment and a fine. Under the provision on sentence of death to be submitted for confirmation (bnss_section_407), the Court of Session must submit a death sentence to the High Court for confirmation before it can be executed."
+  },
+  {
+    "question": "A person who is mentally ill commits an act that would otherwise be an offence. Why might the act not be criminal, and what procedure must the court follow if the accused appears to be of unsound mind at trial?",
+    "referenced_sections": ["bns_section_22", "bnss_section_367"],
+    "answer": "The penal code's treatment of an act of a person of unsound mind (bns_section_22) provides that an act is not an offence if the person was incapable of knowing its nature or that it was wrong or contrary to law. The procedure for an accused of unsound mind (bnss_section_367) requires the Magistrate or court to inquire into the person's soundness of mind, with medical examination, before proceeding."
+  },
+  {
+    "question": "A man files a false criminal complaint against a rival intending to injure him, and the case ends with no evidence against the rival. What offence did the complainant commit, and what compensation remedy does the procedural code give the wrongly accused person?",
+    "referenced_sections": ["bns_section_248", "bnss_section_273"],
+    "answer": "Making a false charge of an offence with intent to injure is an offence (bns_section_248). The provision on compensation for accusation without reasonable cause (bnss_section_273) allows the Magistrate to order the complainant or informant to pay compensation to the accused."
+  },
+  {
+    "question": "A court is unsure whether the facts show one offence or another similar offence, and the penal code also contemplates uncertainty about which of several offences was committed. How does the penal code handle punishment in that situation, and how does the procedural code allow the charge to be framed?",
+    "referenced_sections": ["bns_section_10", "bnss_section_244"],
+    "answer": "The penal provision on punishment of a person guilty of one of several offences where the judgment states it is doubtful which (bns_section_10) allows punishment for the offence carrying the lesser penalty. The procedural provision on cases where it is doubtful what offence has been committed (bnss_section_244) allows the accused to be charged with all or any of the possible offences, or in the alternative, and convicted of the one that is proved."
+  }
+]

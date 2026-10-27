@@ -1,0 +1,77 @@
+[
+  {
+    "question": "A man deletes incriminating emails and chat logs from his server so they cannot be produced before a court. Which offence does this conduct fall under, and can the electronic records he tried to destroy be denied evidentiary value merely because they are electronic?",
+    "referenced_sections": ["bns_section_241", "bsa_section_61"],
+    "answer": "Destroying a document or electronic record to prevent its production as evidence is an offence under BNS Section 241. Under BSA Section 61, an electronic or digital record cannot be denied admissibility just because it is electronic. It has the same legal effect, validity and enforceability as any other document, so the records the accused tried to destroy would have been usable as evidence."
+  },
+  {
+    "question": "A person is prosecuted for stealing property from a shop. Which offence applies, and may the accused lead evidence of his good character in his defence?",
+    "referenced_sections": ["bns_section_303", "bsa_section_47"],
+    "answer": "The offence is theft under BNS Section 303. Under BSA Section 47, in criminal cases the accused's previous good character is relevant, so he may lead evidence of it in his defence."
+  },
+  {
+    "question": "In a rape prosecution, sexual intercourse by the accused is proved, and the complainant states in court that she did not consent. What is the offence, and how does the law of evidence treat the question of consent in this situation?",
+    "referenced_sections": ["bns_section_63", "bsa_section_120"],
+    "answer": "The offence is rape under BNS Section 63. Under BSA Section 120, once intercourse by the accused is proved and the woman says in court that she did not consent, the court presumes she did not consent. The presumption shifts the burden to the accused to rebut it."
+  },
+  {
+    "question": "A young married woman dies in suspicious circumstances within a few years of marriage, and there is evidence that her husband's family harassed her for dowry shortly before her death. Which offence is made out, and what presumption can the court raise against the accused?",
+    "referenced_sections": ["bns_section_80", "bsa_section_118"],
+    "answer": "The offence is dowry death under BNS Section 80. BSA Section 118 lets the court presume that the accused caused the dowry death when it is shown that the woman was subjected to cruelty or harassment for dowry soon before her death."
+  },
+  {
+    "question": "A married woman dies by suicide a few years after her marriage, and her husband is accused of having driven her to it. Which offence is alleged, and what presumption does the law of evidence allow the court to raise against him?",
+    "referenced_sections": ["bns_section_108", "bsa_section_117"],
+    "answer": "The offence is abetment of suicide under BNS Section 108. BSA Section 117 allows the court to presume that the husband abetted the suicide, having regard to all the circumstances including the cruelty she faced. This applies where the suicide happened within the prescribed period of marriage and the husband or his relatives subjected her to cruelty."
+  },
+  {
+    "question": "A witness in a criminal trial refuses to answer a question on the ground that the answer would incriminate him. Is he excused from answering? If he then answers falsely, what offence does he commit?",
+    "referenced_sections": ["bsa_section_137", "bns_section_227"],
+    "answer": "Under BSA Section 137, a witness is not excused from answering merely because the answer would criminate him. The Act protects him from arrest or prosecution on the strength of such an answer, except for prosecution for giving false answers. If he answers falsely, he commits the offence of giving false evidence under BNS Section 227."
+  },
+  {
+    "question": "Two persons agree to commit a robbery, and one of them, while preparing for the crime, tells a third party about the common plan. What offence do the two commit by agreeing, and can the statement made by one conspirator be used as evidence against the other?",
+    "referenced_sections": ["bns_section_61", "bsa_section_8"],
+    "answer": "Agreeing to commit an offence is criminal conspiracy under BNS Section 61. Under BSA Section 8, things said or done by any conspirator in reference to their common design are relevant against the other conspirators. So the statement made while preparing the crime can be used against both."
+  },
+  {
+    "question": "A man is charged with murder. Before dying, the victim told a neighbour who had attacked him. Which offence is charged, and under what rule can the dead victim's statement about the cause of his death be used in court?",
+    "referenced_sections": ["bns_section_101", "bsa_section_26"],
+    "answer": "The offence is murder under BNS Section 101. BSA Section 26 makes relevant a statement of a relevant fact by a person who is dead or cannot be found. This includes a statement made by a person as to the cause of his death or the circumstances of the transaction that resulted in it, so the victim's statement can be proved through the neighbour."
+  },
+  {
+    "question": "A person signs a cheque in another's name without authority and is prosecuted for forgery. Which offence is this, and whose opinion becomes relevant when the court has to decide whether the signature is genuine?",
+    "referenced_sections": ["bns_section_336", "bsa_section_41"],
+    "answer": "This is forgery under BNS Section 336. Under BSA Section 41, the opinion of a person acquainted with the handwriting of the person said to have written it, and of experts, is relevant on whether the signature or handwriting is genuine."
+  },
+  {
+    "question": "An accused produces a forged electronic record in a dispute and tries to pass it off as authentic. Which offence does this amount to, and what provision governs whether the electronic record itself can be admitted in evidence?",
+    "referenced_sections": ["bns_section_340", "bsa_section_63"],
+    "answer": "Fraudulently or dishonestly using a forged document or electronic record as genuine is an offence under BNS Section 340. Whether such an electronic record is admissible in evidence is governed by BSA Section 63. It sets out the conditions for admissibility of electronic records, including the supporting certificate."
+  },
+  {
+    "question": "An accused who killed a person claims that because of unsound mind he could not know the nature of his act and so should be exempt from criminal liability. Which substantive provision gives such an exemption, and on whom does the law of evidence place the burden of proving that his case falls within it?",
+    "referenced_sections": ["bns_section_22", "bsa_section_108"],
+    "answer": "BNS Section 22 exempts an act of a person of unsound mind who, at the time, is incapable of knowing the nature of the act or that it is wrong or contrary to law. Under BSA Section 108, the burden of proving that the case comes within such an exception lies on the accused. The court presumes the absence of such circumstances until he proves them."
+  },
+  {
+    "question": "A parent abandons a six-year-old child in a deserted place, and the only eyewitness to the incident is another young child. What offence has the parent committed, and is the child eyewitness automatically barred from testifying because of tender age?",
+    "referenced_sections": ["bns_section_93", "bsa_section_124"],
+    "answer": "Exposing or abandoning a child under twelve by a parent or person having care of it is an offence under BNS Section 93. Under BSA Section 124, all persons are competent to testify unless the court considers they cannot understand the questions or give rational answers because of tender age or similar reasons. So the child witness is not automatically barred, and competence depends on the court's assessment."
+  },
+  {
+    "question": "In a prosecution for the punishment of rape, the defence wants to cross-examine the complainant about her previous sexual experience to suggest she consented. Which offence is being tried, and does the law of evidence allow such questioning to prove consent?",
+    "referenced_sections": ["bns_section_64", "bsa_section_48"],
+    "answer": "The offence is rape, punishable under BNS Section 64. BSA Section 48 makes evidence of the complainant's character or previous sexual experience not relevant in such cases, including on the question of consent. The defence therefore cannot use her past sexual experience to suggest that she consented."
+  },
+  {
+    "question": "A client tells his advocate of his plan to cheat investors and asks for legal help to carry it out. Which offence does the plan involve, and is the client's communication to the advocate protected by professional privilege?",
+    "referenced_sections": ["bns_section_318", "bsa_section_132"],
+    "answer": "The plan involves cheating under BNS Section 318. BSA Section 132 protects professional communications between a client and advocate from disclosure. That protection does not extend to a communication made in furtherance of an illegal purpose, so this communication is not privileged."
+  },
+  {
+    "question": "A suspect in a terrorist act case allegedly confessed while in the custody of a police officer. Which offence is being investigated, and can that confession be proved against him at trial?",
+    "referenced_sections": ["bns_section_113", "bsa_section_23"],
+    "answer": "The offence is a terrorist act under BNS Section 113. Under BSA Section 23, a confession made to a police officer cannot be proved against the person accused of an offence. The Act carves out exceptions, such as a confession made in the immediate presence of a Magistrate, and information leading to discovery of a fact."
+  }
+]

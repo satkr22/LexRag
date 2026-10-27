@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-06.html",
+    "source_order": 9,
+    "article_order": 13,
+    "order": 169,
+    "stem": "section_71B",
+    "heading_number": "Chapter VI",
+    "heading_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+    "heading_range": "ss. 66–80",
+    "heading_source": "group-head",
+    "article_number": "71B",
+    "article_title": "Carry forward and set off of loss from house property.",
+    "id": "income-tax-1961_section_71B"
+  },
+  "id": "income-tax-1961_section_71B",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+    "range": "ss. 66–80"
+  },
+  "article": {
+    "number": "71B",
+    "title": "Carry forward and set off of loss from house property.",
+    "content": "Where for any assessment year the net result of computation under the head \"Income from house property\" is a loss to the assessee and such loss cannot be or is not wholly set off against income from any other head of income in accordance with the provisions of section 71, so much of the loss as has not been so set-off or where he has no income under any other head, the whole loss shall, subject to the other provisions of this Chapter, be carried forward to the following assessment year and—\n(i) be set off against the income from house property assessable for that assessment year; and\n(ii) the loss, if any, which has not been set off wholly, the amount of loss not so set off, shall be carried forward to the following assessment year, not being more than eight assessment years immediately succeeding the assessment year for which the loss was first computed.\n",
+    "html": "<article class=\"provision\" data-n=\"71B\" data-report=\"Section 71B · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">71B</span>Carry forward and set off of loss from house property.</h3></div><p class=\"prov-cite\">Section 71B  ·  Chapter VI  ·  Set off, or carry forward and set off  ·  page 261 of the Act</p><div class=\"prov-body\"><p>Where for any assessment year the net result of computation under the head \"Income from house property\" is a loss to the assessee and such loss cannot be or is not wholly set off against income from any other head of income in accordance with the provisions of section 71, so much of the loss as has not been so set-off or where he has no income under any other head, the whole loss shall, subject to the other provisions of this Chapter, be carried forward to the following assessment year and—</p><p class=\"lvl\">(i) be set off against the income from house property assessable for that assessment year; and</p><p class=\"lvl\">(ii) the loss, if any, which has not been set off wholly, the amount of loss not so set off, shall be carried forward to the following assessment year, not being more than eight assessment years immediately succeeding the assessment year for which the loss was first computed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">71B</span>Carry forward and set off of loss from house property.</h3></div><p class=\"prov-cite\">Section 71B  ·  Chapter VI  ·  Set off, or carry forward and set off  ·  page 261 of the Act</p><div class=\"prov-body\"><p>Where for any assessment year the net result of computation under the head \"Income from house property\" is a loss to the assessee and such loss cannot be or is not wholly set off against income from any other head of income in accordance with the provisions of section 71, so much of the loss as has not been so set-off or where he has no income under any other head, the whole loss shall, subject to the other provisions of this Chapter, be carried forward to the following assessment year and—</p><p class=\"lvl\">(i) be set off against the income from house property assessable for that assessment year; and</p><p class=\"lvl\">(ii) the loss, if any, which has not been set off wholly, the amount of loss not so set off, shall be carried forward to the following assessment year, not being more than eight assessment years immediately succeeding the assessment year for which the loss was first computed.</p></div>"
+  }
+}

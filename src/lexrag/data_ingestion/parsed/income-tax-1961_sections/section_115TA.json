@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-25.html",
+    "source_order": 29,
+    "article_order": 1,
+    "order": 372,
+    "stem": "section_115TA",
+    "heading_number": "Chapter XII-EA",
+    "heading_title": null,
+    "heading_range": "ss. 115TA–115TCA",
+    "heading_source": "group-head",
+    "article_number": "115TA",
+    "article_title": "SPECIAL PROVISIONS RELATING TO TAX ON DISTRIBUTED INCOME BY SECURITISATION TRUSTS Tax on distributed income to investors.",
+    "id": "income-tax-1961_section_115TA"
+  },
+  "id": "income-tax-1961_section_115TA",
+  "heading": {
+    "number": "Chapter XII-EA",
+    "title": null,
+    "range": "ss. 115TA–115TCA"
+  },
+  "article": {
+    "number": "115TA",
+    "title": "SPECIAL PROVISIONS RELATING TO TAX ON DISTRIBUTED INCOME BY SECURITISATION TRUSTS Tax on distributed income to investors.",
+    "content": "(1) Notwithstanding anything contained in any other provisions of the Act, any amount of income distributed by the securitisation trust to its investors shall be chargeable to tax and such securitisation trust shall be liable to pay additional income-tax on such distributed income at the rate of—\n(i) twenty-five per cent on income distributed to any person being an individual or a Hindu undivided family;\n(ii) thirty per cent on income distributed to any other person:\nProvided that nothing contained in this sub-section shall apply in respect of any income distributed by the securitisation trust to any person in whose case income, irrespective of its nature and source, is not chargeable to tax under the Act.\n(2) The person responsible for making payment of the income distributed by the securitisation trust shall be liable to pay tax to the credit of the Central Government within fourteen days from the date of distribution or payment of such income, whichever is earlier.\n(3) [***]\n(4) No deduction under any other provisions of this Act shall be allowed to the securitisation trust in respect of the income which has been charged to tax under sub-section (1).\n(5) Nothing contained in this section shall apply in respect of any income distributed by a securitisation trust to its investors on or after the 1st day of June, 2016.\n",
+    "html": "<article class=\"provision\" data-n=\"115TA\" data-report=\"Section 115TA · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115TA</span>SPECIAL PROVISIONS RELATING TO TAX ON DISTRIBUTED INCOME BY SECURITISATION TRUSTS Tax on distributed income to investors.</h3></div><p class=\"prov-cite\">Section 115TA  ·  Chapter XII-EA  ·  page 498 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in any other provisions of the Act, any amount of income distributed by the securitisation trust to its investors shall be chargeable to tax and such securitisation trust shall be liable to pay additional income-tax on such distributed income at the rate of—</p><p class=\"lvl\">(i) twenty-five per cent on income distributed to any person being an individual or a Hindu undivided family;</p><p class=\"lvl\">(ii) thirty per cent on income distributed to any other person:</p><p class=\"prvso\">Provided that nothing contained in this sub-section shall apply in respect of any income distributed by the securitisation trust to any person in whose case income, irrespective of its nature and source, is not chargeable to tax under the Act.</p><p class=\"lvl\">(2) The person responsible for making payment of the income distributed by the securitisation trust shall be liable to pay tax to the credit of the Central Government within fourteen days from the date of distribution or payment of such income, whichever is earlier.</p><p class=\"lvl\">(3) [***]</p><p class=\"lvl\">(4) No deduction under any other provisions of this Act shall be allowed to the securitisation trust in respect of the income which has been charged to tax under sub-section (1).</p><p class=\"lvl\">(5) Nothing contained in this section shall apply in respect of any income distributed by a securitisation trust to its investors on or after the 1st day of June, 2016.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115TA</span>SPECIAL PROVISIONS RELATING TO TAX ON DISTRIBUTED INCOME BY SECURITISATION TRUSTS Tax on distributed income to investors.</h3></div><p class=\"prov-cite\">Section 115TA  ·  Chapter XII-EA  ·  page 498 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Notwithstanding anything contained in any other provisions of the Act, any amount of income distributed by the securitisation trust to its investors shall be chargeable to tax and such securitisation trust shall be liable to pay additional income-tax on such distributed income at the rate of—</p><p class=\"lvl\">(i) twenty-five per cent on income distributed to any person being an individual or a Hindu undivided family;</p><p class=\"lvl\">(ii) thirty per cent on income distributed to any other person:</p><p class=\"prvso\">Provided that nothing contained in this sub-section shall apply in respect of any income distributed by the securitisation trust to any person in whose case income, irrespective of its nature and source, is not chargeable to tax under the Act.</p><p class=\"lvl\">(2) The person responsible for making payment of the income distributed by the securitisation trust shall be liable to pay tax to the credit of the Central Government within fourteen days from the date of distribution or payment of such income, whichever is earlier.</p><p class=\"lvl\">(3) [***]</p><p class=\"lvl\">(4) No deduction under any other provisions of this Act shall be allowed to the securitisation trust in respect of the income which has been charged to tax under sub-section (1).</p><p class=\"lvl\">(5) Nothing contained in this section shall apply in respect of any income distributed by a securitisation trust to its investors on or after the 1st day of June, 2016.</p></div>"
+  }
+}

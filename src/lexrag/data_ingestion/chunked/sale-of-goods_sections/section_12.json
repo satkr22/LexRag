@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_12_chunk_0",
+    "section_id": "sale-of-goods_section_12",
+    "token_count": 181,
+    "text": "[Act: sale-of-goods\n Chapter: Formation of the Contract\n Section: 12::Condition and warranty.\n]\n\n\n(1) A stipulation in a contract of sale with reference to goods which are the subject thereof may be a condition or a warranty.\n(2) A condition is a stipulation essential to the main purpose of the contract, the breach of which gives rise to a right to treat the contract as repudiated.\n(3) A warranty is a stipulation collateral to the main purpose of the contract, the breach of which gives rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated.\n(4) Whether a stipulation in a contract of sale is a condition or a warranty depends in each case on the construction of the contract. A stipulation may be a condition, though called a warranty in the contract.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_12_chunk_0",
+      "section_id": "sale-of-goods_section_12",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Formation of the Contract",
+      "section_number": "12",
+      "section_title": "Condition and warranty."
+    }
+  }
+]

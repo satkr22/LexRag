@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "cpc_section_O24R2_chunk_0",
+    "section_id": "cpc_section_O24R2",
+    "token_count": 64,
+    "text": "[Act: cpc\n Chapter: Payment into Court\n Section: O24R2::Notice of deposit.\n]\n\n\nNotice of the deposit shall be given through the Court by the defendant to the plaintiff, and the amount of the deposit shall (unless the Court otherwise directs) be paid to the plaintiff on his application.",
+    "metadata": {
+      "chunk_id": "cpc_section_O24R2_chunk_0",
+      "section_id": "cpc_section_O24R2",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "cpc",
+      "document_title": "The Code of Civil Procedure, 1908",
+      "chapter_number": "Order XXIV",
+      "chapter_title": "Payment into Court",
+      "section_number": "O24R2",
+      "section_title": "Notice of deposit."
+    }
+  }
+]

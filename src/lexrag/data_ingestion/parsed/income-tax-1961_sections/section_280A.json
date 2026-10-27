@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-49.html",
+    "source_order": 54,
+    "article_order": 29,
+    "order": 866,
+    "stem": "section_280A",
+    "heading_number": "Chapter XXII",
+    "heading_title": "Offences and Prosecutions",
+    "heading_range": "ss. 275A–280A",
+    "heading_source": "group-head",
+    "article_number": "280A",
+    "article_title": "Special Courts.",
+    "id": "income-tax-1961_section_280A"
+  },
+  "id": "income-tax-1961_section_280A",
+  "heading": {
+    "number": "Chapter XXII",
+    "title": "Offences and Prosecutions",
+    "range": "ss. 275A–280A"
+  },
+  "article": {
+    "number": "280A",
+    "title": "Special Courts.",
+    "content": "(1) The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Magistrate of the first class as Special Court for such area or areas or for such cases or class or group of cases as may be specified in the notification.\nExplanation.— In this sub-section, \"High Court\" means the High Court of the State in which a Magistrate of first class designated as Special Court was functioning immediately before such designation.\n(2) While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Code of Criminal Procedure, 1973 (2 of 1974), be charged at the same trial.\n",
+    "html": "<article class=\"provision\" data-n=\"280A\" data-report=\"Section 280A · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280A</span>Special Courts.</h3></div><p class=\"prov-cite\">Section 280A  ·  Chapter XXII  ·  page 1031 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Magistrate of the first class as Special Court for such area or areas or for such cases or class or group of cases as may be specified in the notification.</p><p class=\"prvso\">Explanation.— In this sub-section, \"High Court\" means the High Court of the State in which a Magistrate of first class designated as Special Court was functioning immediately before such designation.</p><p class=\"lvl\">(2) While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Code of Criminal Procedure, 1973 (2 of 1974), be charged at the same trial.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280A</span>Special Courts.</h3></div><p class=\"prov-cite\">Section 280A  ·  Chapter XXII  ·  page 1031 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Magistrate of the first class as Special Court for such area or areas or for such cases or class or group of cases as may be specified in the notification.</p><p class=\"prvso\">Explanation.— In this sub-section, \"High Court\" means the High Court of the State in which a Magistrate of first class designated as Special Court was functioning immediately before such designation.</p><p class=\"lvl\">(2) While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Code of Criminal Procedure, 1973 (2 of 1974), be charged at the same trial.</p></div>"
+  }
+}

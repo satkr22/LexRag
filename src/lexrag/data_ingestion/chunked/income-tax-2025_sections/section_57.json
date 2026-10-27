@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_57_chunk_0",
+    "section_id": "income-tax-2025_section_57",
+    "token_count": 222,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 57::Revenue recognition for construction and service contracts.\n]\n\n\n(1) The profits and gains arising from a construction contract or a contract for providing services, shall be determined on the basis of percentage of completion method, subject to provisions of sub-section (2), as per the income computation and disclosure standards notified under section 276(2).\n(2) For the purposes of sub-section (1), the profits and gains arising from a contract for providing services shall be determined—\n(a) on the basis of project completion method, if the duration of such contract is not more than ninety days;\n(b) on the basis of straight line method, if the contract involves indeterminate number of acts over a specified period of time.\n(3) For the purposes of percentage of completion method, project completion method or straight line method under this section,—\n(a) the contract revenue shall include retention money;\n(b) the contract costs shall not be reduced by any incidental income in the nature of interest, dividends or capital gains.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_57_chunk_0",
+      "section_id": "income-tax-2025_section_57",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "57",
+      "section_title": "Revenue recognition for construction and service contracts."
+    }
+  }
+]

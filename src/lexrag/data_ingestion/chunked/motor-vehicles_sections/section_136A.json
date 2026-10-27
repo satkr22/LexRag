@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_136A_chunk_0",
+    "section_id": "motor-vehicles_section_136A",
+    "token_count": 163,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 136A::Electronic monitoring and enforcement of road safety.\n]\n\n\n(1) The State Government shall ensure electronic monitoring and enforcement of road safety in the manner provided under sub-section (2) on national highways, state highways, roads or in any urban city within a State which has a population up to such limits as may be prescribed by the Central Government.\n(2) The Central Government shall make rules for the electronic monitoring and enforcement of road safety including speed cameras, closed-circuit television cameras, speed guns, body wearable cameras and such other technology.\nExplanation.—For the purpose of this section the expression “body wearable camera” means a mobile audio and video capture device worn on the body or uniform of a person authorised by the State Government.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_136A_chunk_0",
+      "section_id": "motor-vehicles_section_136A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "136A",
+      "section_title": "Electronic monitoring and enforcement of road safety."
+    }
+  }
+]

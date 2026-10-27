@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-36.html",
+    "source_order": 40,
+    "article_order": 3,
+    "order": 521,
+    "stem": "section_161",
+    "heading_number": "Chapter XV",
+    "heading_title": "Liability in Special Cases",
+    "heading_range": "ss. 159–181",
+    "heading_source": "group-head",
+    "article_number": "161",
+    "article_title": "Liability of representative assessee.",
+    "id": "income-tax-1961_section_161"
+  },
+  "id": "income-tax-1961_section_161",
+  "heading": {
+    "number": "Chapter XV",
+    "title": "Liability in Special Cases",
+    "range": "ss. 159–181"
+  },
+  "article": {
+    "number": "161",
+    "title": "Liability of representative assessee.",
+    "content": "(1) Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially, and shall be liable to assessment in his own name in respect of that income; but any such assessment shall be deemed to be made upon him in his representative capacity only, and the tax shall, subject to the other provisions contained in this Chapter, be levied upon and recovered from him in like manner and to the same extent as it would be leviable upon and recoverable from the person represented by him.\n(1A) Notwithstanding anything contained in sub-section (1), where any income in respect of which the person mentioned in clause (iv) of sub-section (1) of section 160 is liable as representative assessee consists of, or includes, profits and gains of business, tax shall be charged on the whole of the income in respect of which such person is so liable at the maximum marginal rate :\nProvided that the provisions of this sub-section shall not apply where such profits and gains are receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance, and such trust is the only trust so declared by him.\n(2) Where any person is, in respect of any income, assessable under this Chapter in the capacity of a representative assessee, he shall not, in respect of that income, be assessed under any other provision of this Act.\n",
+    "html": "<article class=\"provision\" data-n=\"161\" data-report=\"Section 161 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">161</span>Liability of representative assessee.</h3></div><p class=\"prov-cite\">Section 161  ·  Chapter XV  ·  B.—Representative assessees - General provisions  ·  page 669 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially, and shall be liable to assessment in his own name in respect of that income; but any such assessment shall be deemed to be made upon him in his representative capacity only, and the tax shall, subject to the other provisions contained in this Chapter, be levied upon and recovered from him in like manner and to the same extent as it would be leviable upon and recoverable from the person represented by him.</p><p class=\"lvl\">(1A) Notwithstanding anything contained in sub-section (1), where any income in respect of which the person mentioned in clause (iv) of sub-section (1) of section 160 is liable as representative assessee consists of, or includes, profits and gains of business, tax shall be charged on the whole of the income in respect of which such person is so liable at the maximum marginal rate :</p><p class=\"prvso\">Provided that the provisions of this sub-section shall not apply where such profits and gains are receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance, and such trust is the only trust so declared by him.</p><p class=\"lvl\">(2) Where any person is, in respect of any income, assessable under this Chapter in the capacity of a representative assessee, he shall not, in respect of that income, be assessed under any other provision of this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">161</span>Liability of representative assessee.</h3></div><p class=\"prov-cite\">Section 161  ·  Chapter XV  ·  B.—Representative assessees - General provisions  ·  page 669 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially, and shall be liable to assessment in his own name in respect of that income; but any such assessment shall be deemed to be made upon him in his representative capacity only, and the tax shall, subject to the other provisions contained in this Chapter, be levied upon and recovered from him in like manner and to the same extent as it would be leviable upon and recoverable from the person represented by him.</p><p class=\"lvl\">(1A) Notwithstanding anything contained in sub-section (1), where any income in respect of which the person mentioned in clause (iv) of sub-section (1) of section 160 is liable as representative assessee consists of, or includes, profits and gains of business, tax shall be charged on the whole of the income in respect of which such person is so liable at the maximum marginal rate :</p><p class=\"prvso\">Provided that the provisions of this sub-section shall not apply where such profits and gains are receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance, and such trust is the only trust so declared by him.</p><p class=\"lvl\">(2) Where any person is, in respect of any income, assessable under this Chapter in the capacity of a representative assessee, he shall not, in respect of that income, be assessed under any other provision of this Act.</p></div>"
+  }
+}

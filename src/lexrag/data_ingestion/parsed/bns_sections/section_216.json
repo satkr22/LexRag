@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-13.html",
+    "source_order": 13,
+    "article_order": 11,
+    "order": 216,
+    "stem": "section_216",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Of Contempts of the Lawful Authority of Public Servants",
+    "heading_range": "206 – 226",
+    "heading_source": "group-head",
+    "article_number": "216",
+    "article_title": "False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation",
+    "id": "bns_section_216"
+  },
+  "id": "bns_section_216",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Of Contempts of the Lawful Authority of Public Servants",
+    "range": "206 – 226"
+  },
+  "article": {
+    "number": "216",
+    "title": "False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation",
+    "content": "Whoever, being legally bound by an oath or affirmation to state the truth on any subject to any public servant or other person authorised by law to administer such oath or affirmation, makes, to such public servant or other person as aforesaid, touching that subject, any statement which is false, and which he either knows or believes to be false or does not believe to be true, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.\n",
+    "html": "<article class=\"provision\" data-n=\"216\" data-report=\"Section 216 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">216</span>False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation</h3></div><p class=\"prov-cite\">Section 216 · Chapter XIII</p><div class=\"prov-body\"><p>Whoever, being legally bound by an oath or affirmation to state the truth on any subject to any public servant or other person authorised by law to administer such oath or affirmation, makes, to such public servant or other person as aforesaid, touching that subject, any statement which is false, and which he either knows or believes to be false or does not believe to be true, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">216</span>False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation</h3></div><p class=\"prov-cite\">Section 216 · Chapter XIII</p><div class=\"prov-body\"><p>Whoever, being legally bound by an oath or affirmation to state the truth on any subject to any public servant or other person authorised by law to administer such oath or affirmation, makes, to such public servant or other person as aforesaid, touching that subject, any statement which is false, and which he either knows or believes to be false or does not believe to be true, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_13_chunk_0",
+    "section_id": "motor-vehicles_section_13",
+    "token_count": 51,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 13::Extent of effectiveness of licences, to drive motor vehicles.\n]\n\n\nA learner’s licence or a driving licence issued under this Act shall be effective throughout India.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_13_chunk_0",
+      "section_id": "motor-vehicles_section_13",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "13",
+      "section_title": "Extent of effectiveness of licences, to drive motor vehicles."
+    }
+  }
+]

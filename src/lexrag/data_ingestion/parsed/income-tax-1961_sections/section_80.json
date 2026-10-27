@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-06.html",
+    "source_order": 9,
+    "article_order": 27,
+    "order": 183,
+    "stem": "section_80",
+    "heading_number": "Chapter VI",
+    "heading_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+    "heading_range": "ss. 66–80",
+    "heading_source": "group-head",
+    "article_number": "80",
+    "article_title": "Submission of return for losses.",
+    "id": "income-tax-1961_section_80"
+  },
+  "id": "income-tax-1961_section_80",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+    "range": "ss. 66–80"
+  },
+  "article": {
+    "number": "80",
+    "title": "Submission of return for losses.",
+    "content": "Notwithstanding anything contained in this Chapter, no loss which has not been determined in pursuance of a return filed in accordance with the provisions of sub-section (3) of section 139, shall be carried forward and set off under sub-section (1) of section 72 or sub-section (2) of section 73 or sub-section (2) of section 73A or sub-section (1) or sub-section (3) of section 74 or sub-section (3) of section 74A.\n",
+    "html": "<article class=\"provision\" data-n=\"80\" data-report=\"Section 80 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80</span>Submission of return for losses.</h3></div><p class=\"prov-cite\">Section 80  ·  Chapter VI  ·  Set off, or carry forward and set off  ·  page 277 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in this Chapter, no loss which has not been determined in pursuance of a return filed in accordance with the provisions of sub-section (3) of section 139, shall be carried forward and set off under sub-section (1) of section 72 or sub-section (2) of section 73 or sub-section (2) of section 73A or sub-section (1) or sub-section (3) of section 74 or sub-section (3) of section 74A.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">80</span>Submission of return for losses.</h3></div><p class=\"prov-cite\">Section 80  ·  Chapter VI  ·  Set off, or carry forward and set off  ·  page 277 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in this Chapter, no loss which has not been determined in pursuance of a return filed in accordance with the provisions of sub-section (3) of section 139, shall be carried forward and set off under sub-section (1) of section 72 or sub-section (2) of section 73 or sub-section (2) of section 73A or sub-section (1) or sub-section (3) of section 74 or sub-section (3) of section 74A.</p></div>"
+  }
+}

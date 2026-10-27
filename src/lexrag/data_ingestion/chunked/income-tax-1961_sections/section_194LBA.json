@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194LBA_chunk_0",
+    "section_id": "income-tax-1961_section_194LBA",
+    "token_count": 505,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194LBA::Certain income from units of a business trust.\n]\n\n\n(1) Where any distributed income referred to in section 115UA, being of the nature referred to in clause (23FC) or clause (23FCA) of section 10, is payable by a business trust to its unit holder being a resident, the person responsible for making the payment shall at the time of credit of such payment to the account of the payee or at the time of payment thereof in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of ten per cent.\n(2) Where any distributed income referred to in section 115UA, being of the nature referred to in clause (23FC) of section 10, is payable by a business trust to its unit holder, being a non-resident (not being a company) or a foreign company, the person responsible for making the payment shall at the time of credit of such payment to the account of the payee or at the time of payment thereof in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of five per cent in case of income of the nature referred to in sub-clause (a) and ten per cent in case of income of the nature referred to in sub-clause (b), of the said clause.\n(2A) Nothing contained in sub-sections (1) and (2) shall apply in respect of income of the nature referred to in sub-clause (b) of clause (23FC) of section 10, if the special purpose vehicle referred to in the said clause has not exercised the option under section 115BAA.\n(3) Where any distributed income referred to in section 115UA, being of the nature referred to in clause (23FCA) of section 10, is payable by a business trust to its unit holder, being a non-resident (not being a company), or a foreign company, the person responsible for making the payment shall at the time of credit of such payment to the account of the payee or at the time of payment thereof in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rates in force.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194LBA_chunk_0",
+      "section_id": "income-tax-1961_section_194LBA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194LBA",
+      "section_title": "Certain income from units of a business trust."
+    }
+  }
+]

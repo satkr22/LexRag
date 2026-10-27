@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-70.html",
+    "source_order": 72,
+    "article_order": 1,
+    "order": 72,
+    "stem": "section_70",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Presentment",
+    "heading_range": "ss. 61–77",
+    "heading_source": "manifest",
+    "article_number": "70",
+    "article_title": "Presentment where no exclusive place specified.",
+    "id": "negotiable-instruments_section_70"
+  },
+  "id": "negotiable-instruments_section_70",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Presentment",
+    "range": "ss. 61–77"
+  },
+  "article": {
+    "number": "70",
+    "title": "Presentment where no exclusive place specified.",
+    "content": "A promissory note or bill of exchange, not made payable as mentioned in sections 68 and 69, must be presented for payment at the place of business (if any), or at the usual residence, of the maker, drawee or acceptor thereof, as the case may be.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Presentment where no exclusive place specified.</h3></div><p class=\"prov-cite\">Section 70  ·  Chapter V  ·  page 18 of the Act</p><div class=\"prov-body\"><p>A promissory note or bill of exchange, not made payable as mentioned in sections 68 and 69, must be presented for payment at the place of business (if any), or at the usual residence, of the maker, drawee or acceptor thereof, as the case may be.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Presentment where no exclusive place specified.</h3></div><p class=\"prov-cite\">Section 70  ·  Chapter V  ·  page 18 of the Act</p><div class=\"prov-body\"><p>A promissory note or bill of exchange, not made payable as mentioned in sections 68 and 69, must be presented for payment at the place of business (if any), or at the usual residence, of the maker, drawee or acceptor thereof, as the case may be.</p></div>"
+  }
+}

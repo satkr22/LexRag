@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 84,
+    "order": 561,
+    "stem": "section_O21R72",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R72",
+    "article_title": "Decree-holder not to bid for or buy property without permission.",
+    "id": "cpc_section_O21R72"
+  },
+  "id": "cpc_section_O21R72",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R72",
+    "title": "Decree-holder not to bid for or buy property without permission.",
+    "content": "(1) No holder of a decree in execution of which property is sold shall, without the express permission of the Court, bid for or purchase the property.\n(2) Where decree-holder purchases, amount of decree may be taken as payment.—Where a decree-holder purchases with such permission, the purchase-money and the amount due on the decree may, subject to the provisions of section 73, be set off against one another, and the Court executing the decree shall enter up satisfaction of the decree in whole or in part accordingly.\n(3) Where a decree-holder purchases, by himself or through another person, without such permission, the Court may, if it thinks fit, on the application of the judgment-debtor or any other person whose interests are affected by the sale, by order set aside the sale; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R72\" data-report=\"Order 21, Rule 72 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">72</span>Decree-holder not to bid for or buy property without permission.</h3></div><p class=\"prov-cite\">Order 21, Rule 72</p><div class=\"prov-body\"><p class=\"lvl\">(1) No holder of a decree in execution of which property is sold shall, without the express permission of the Court, bid for or purchase the property.</p><p class=\"lvl\">(2) Where decree-holder purchases, amount of decree may be taken as payment.—Where a decree-holder purchases with such permission, the purchase-money and the amount due on the decree may, subject to the provisions of section 73, be set off against one another, and the Court executing the decree shall enter up satisfaction of the decree in whole or in part accordingly.</p><p class=\"lvl\">(3) Where a decree-holder purchases, by himself or through another person, without such permission, the Court may, if it thinks fit, on the application of the judgment-debtor or any other person whose interests are affected by the sale, by order set aside the sale; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">72</span>Decree-holder not to bid for or buy property without permission.</h3></div><p class=\"prov-cite\">Order 21, Rule 72</p><div class=\"prov-body\"><p class=\"lvl\">(1) No holder of a decree in execution of which property is sold shall, without the express permission of the Court, bid for or purchase the property.</p><p class=\"lvl\">(2) Where decree-holder purchases, amount of decree may be taken as payment.—Where a decree-holder purchases with such permission, the purchase-money and the amount due on the decree may, subject to the provisions of section 73, be set off against one another, and the Court executing the decree shall enter up satisfaction of the decree in whole or in part accordingly.</p><p class=\"lvl\">(3) Where a decree-holder purchases, by himself or through another person, without such permission, the Court may, if it thinks fit, on the application of the judgment-debtor or any other person whose interests are affected by the sale, by order set aside the sale; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.</p></div>"
+  }
+}

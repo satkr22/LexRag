@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-151.html",
+    "source_order": 151,
+    "article_order": 1,
+    "order": 151,
+    "stem": "section_151",
+    "heading_number": "Chapter X",
+    "heading_title": "Of Examination of Witnesses",
+    "heading_range": "140 – 168",
+    "heading_source": "manifest",
+    "article_number": "151",
+    "article_title": "Court to decide when question shall be asked and when witness compelled to answer",
+    "id": "bsa_section_151"
+  },
+  "id": "bsa_section_151",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Of Examination of Witnesses",
+    "range": "140 – 168"
+  },
+  "article": {
+    "number": "151",
+    "title": "Court to decide when question shall be asked and when witness compelled to answer",
+    "content": "(1)If any such question relates to a matter not relevant to the suit or proceeding, except in so far as it affects the credit of the witness by injuring his character, the Court shall decide whether or not the witness shall be compelled to answer it, and may, if it thinks fit, warn the witness that he is not obliged to answer it.\n(2)In exercising its discretion, the Court shall have regard to the following considerations, namely:—\n(a)such questions are proper if they are of such a nature that the truth of the imputation conveyed by them would seriously affect the opinion of the Court as to the credibility of the witness on the matter to which he testifies;\n(b)such questions are improper if the imputation which they convey relates to matters so remote in time, or of such a character, that the truth of the imputation would not affect, or would affect in a slight degree, the opinion of the Court as to the credibility of the witness on the matter to which he testifies;\n(c)such questions are improper if there is a great disproportion between the importance of the imputation made against the witness's character and the importance of his evidence;\n(d)the Court may, if it sees fit, draw, from the witness’s refusal to answer, the inference that the answer if given would be unfavourable.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">151</span>Court to decide when question shall be asked and when witness compelled to answer</h3></div><p class=\"prov-cite\">Section 151 · Part IV · Chapter X</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If any such question relates to a matter not relevant to the suit or proceeding, except in so far as it affects the credit of the witness by injuring his character, the Court shall decide whether or not the witness shall be compelled to answer it, and may, if it thinks fit, warn the witness that he is not obliged to answer it.</p><p><span class=\"lbl\">(2)</span>In exercising its discretion, the Court shall have regard to the following considerations, namely:—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>such questions are proper if they are of such a nature that the truth of the imputation conveyed by them would seriously affect the opinion of the Court as to the credibility of the witness on the matter to which he testifies;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>such questions are improper if the imputation which they convey relates to matters so remote in time, or of such a character, that the truth of the imputation would not affect, or would affect in a slight degree, the opinion of the Court as to the credibility of the witness on the matter to which he testifies;</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>such questions are improper if there is a great disproportion between the importance of the imputation made against the witness's character and the importance of his evidence;</p><p class=\"lvl\"><span class=\"lbl\">(d)</span>the Court may, if it sees fit, draw, from the witness’s refusal to answer, the inference that the answer if given would be unfavourable.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">151</span>Court to decide when question shall be asked and when witness compelled to answer</h3></div><p class=\"prov-cite\">Section 151 · Part IV · Chapter X</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If any such question relates to a matter not relevant to the suit or proceeding, except in so far as it affects the credit of the witness by injuring his character, the Court shall decide whether or not the witness shall be compelled to answer it, and may, if it thinks fit, warn the witness that he is not obliged to answer it.</p><p><span class=\"lbl\">(2)</span>In exercising its discretion, the Court shall have regard to the following considerations, namely:—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>such questions are proper if they are of such a nature that the truth of the imputation conveyed by them would seriously affect the opinion of the Court as to the credibility of the witness on the matter to which he testifies;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>such questions are improper if the imputation which they convey relates to matters so remote in time, or of such a character, that the truth of the imputation would not affect, or would affect in a slight degree, the opinion of the Court as to the credibility of the witness on the matter to which he testifies;</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>such questions are improper if there is a great disproportion between the importance of the imputation made against the witness's character and the importance of his evidence;</p><p class=\"lvl\"><span class=\"lbl\">(d)</span>the Court may, if it sees fit, draw, from the witness’s refusal to answer, the inference that the answer if given would be unfavourable.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_5_chunk_0",
+    "section_id": "constitution_section_5",
+    "token_count": 105,
+    "text": "[Act: constitution\n Chapter: Citizenship\n Section: 5::Citizenship at the commencement of the Constitution\n]\n\n\nAt the commencement of this Constitution, every person who has his domicile in the territory of India and—\n(a)who was born in the territory of India; or\n(b)either of whose parents was born in the territory of India; or\n(c)who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement,\nshall be a citizen of India.",
+    "metadata": {
+      "chunk_id": "constitution_section_5_chunk_0",
+      "section_id": "constitution_section_5",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part II",
+      "chapter_title": "Citizenship",
+      "section_number": "5",
+      "section_title": "Citizenship at the commencement of the Constitution"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-122.html",
+    "source_order": 122,
+    "article_order": 1,
+    "order": 122,
+    "stem": "section_122",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Estoppel",
+    "heading_range": "121 – 123",
+    "heading_source": "manifest",
+    "article_number": "122",
+    "article_title": "Estoppel of tenant and of licensee of person in possession",
+    "id": "bsa_section_122"
+  },
+  "id": "bsa_section_122",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Estoppel",
+    "range": "121 – 123"
+  },
+  "article": {
+    "number": "122",
+    "title": "Estoppel of tenant and of licensee of person in possession",
+    "content": "No tenant of immovable property, or person claiming through such tenant, shall, during the continuance of the tenancy or any time thereafter, be permitted to deny that the landlord of such tenant had, at the beginning of the tenancy, a title to such immovable property; and no person who came upon any immovable property by the licence of the person in possession thereof shall be permitted to deny that such person had a title to such possession at the time when such licence was given.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">122</span>Estoppel of tenant and of licensee of person in possession</h3></div><p class=\"prov-cite\">Section 122 · Part IV · Chapter VIII</p><div class=\"prov-body\"><p>No tenant of immovable property, or person claiming through such tenant, shall, during the continuance of the tenancy or any time thereafter, be permitted to deny that the landlord of such tenant had, at the beginning of the tenancy, a title to such immovable property; and no person who came upon any immovable property by the licence of the person in possession thereof shall be permitted to deny that such person had a title to such possession at the time when such licence was given.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">122</span>Estoppel of tenant and of licensee of person in possession</h3></div><p class=\"prov-cite\">Section 122 · Part IV · Chapter VIII</p><div class=\"prov-body\"><p>No tenant of immovable property, or person claiming through such tenant, shall, during the continuance of the tenancy or any time thereafter, be permitted to deny that the landlord of such tenant had, at the beginning of the tenancy, a title to such immovable property; and no person who came upon any immovable property by the licence of the person in possession thereof shall be permitted to deny that such person had a title to such possession at the time when such licence was given.</p></div>"
+  }
+}

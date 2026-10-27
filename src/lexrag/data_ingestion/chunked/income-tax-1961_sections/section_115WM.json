@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115WM_chunk_0",
+    "section_id": "income-tax-1961_section_115WM",
+    "token_count": 73,
+    "text": "[Act: income-tax-1961\n Chapter: Income-tax on Fringe Benefits\n Section: 115WM::Chapter XII-H not to apply after a certain date.\n]\n\n\nNothing contained in this Chapter shall apply, in respect of any assessment for the assessment year commencing on the 1st day of April, 2010 or any subsequent assessment year.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115WM_chunk_0",
+      "section_id": "income-tax-1961_section_115WM",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-H",
+      "chapter_title": "Income-tax on Fringe Benefits",
+      "section_number": "115WM",
+      "section_title": "Chapter XII-H not to apply after a certain date."
+    }
+  }
+]

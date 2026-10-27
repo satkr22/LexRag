@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-30.html",
+    "source_order": 34,
+    "article_order": 22,
+    "order": 403,
+    "stem": "section_115VW",
+    "heading_number": "Chapter XII-G",
+    "heading_title": "Special Provisions Relating to Income of Shipping Companies",
+    "heading_range": "ss. 115V–115VZC",
+    "heading_source": "group-head",
+    "article_number": "115VW",
+    "article_title": "Maintenance and audit of accounts.",
+    "id": "income-tax-1961_section_115VW"
+  },
+  "id": "income-tax-1961_section_115VW",
+  "heading": {
+    "number": "Chapter XII-G",
+    "title": "Special Provisions Relating to Income of Shipping Companies",
+    "range": "ss. 115V–115VZC"
+  },
+  "article": {
+    "number": "115VW",
+    "title": "Maintenance and audit of accounts.",
+    "content": "An option for tonnage tax scheme by a tonnage tax company shall not have effect in relation to a previous year unless such company—\n(i) maintains separate books of account in respect of the business of operating qualifying ships; and\n(ii) furnishes, before the specified date referred to in section 44AB, the report of an accountant, in the prescribed form duly signed and verified by such accountant.\nExplanation.—For the purposes of this section, \"accountant\" shall have the same meaning as in the Explanation below sub-section (2) of section 288.\n",
+    "html": "<article class=\"provision\" data-n=\"115VW\" data-report=\"Section 115VW · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VW</span>Maintenance and audit of accounts.</h3></div><p class=\"prov-cite\">Section 115VW  ·  Chapter XII-G  ·  D.—Conditions for applicability of tonnage tax scheme  ·  page 532 of the Act</p><div class=\"prov-body\"><p>An option for tonnage tax scheme by a tonnage tax company shall not have effect in relation to a previous year unless such company—</p><p class=\"lvl\">(i) maintains separate books of account in respect of the business of operating qualifying ships; and</p><p class=\"lvl\">(ii) furnishes, before the specified date referred to in section 44AB, the report of an accountant, in the prescribed form duly signed and verified by such accountant.</p><p class=\"prvso\">Explanation.—For the purposes of this section, \"accountant\" shall have the same meaning as in the Explanation below sub-section (2) of section 288.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VW</span>Maintenance and audit of accounts.</h3></div><p class=\"prov-cite\">Section 115VW  ·  Chapter XII-G  ·  D.—Conditions for applicability of tonnage tax scheme  ·  page 532 of the Act</p><div class=\"prov-body\"><p>An option for tonnage tax scheme by a tonnage tax company shall not have effect in relation to a previous year unless such company—</p><p class=\"lvl\">(i) maintains separate books of account in respect of the business of operating qualifying ships; and</p><p class=\"lvl\">(ii) furnishes, before the specified date referred to in section 44AB, the report of an accountant, in the prescribed form duly signed and verified by such accountant.</p><p class=\"prvso\">Explanation.—For the purposes of this section, \"accountant\" shall have the same meaning as in the Explanation below sub-section (2) of section 288.</p></div>"
+  }
+}

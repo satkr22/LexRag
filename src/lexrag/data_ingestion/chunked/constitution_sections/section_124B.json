@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_124B_chunk_0",
+    "section_id": "constitution_section_124B",
+    "token_count": 106,
+    "text": "[Act: constitution\n Chapter: The Union\n Section: 124B::Functions of Commission\n]\n\n\nIt shall be the duty of the National Judicial Appointments Commission to—\n(a)recommend persons for appointment as Chief Justice of India, Judges of the Supreme Court, Chief Justices of High Courts and other Judges of High Courts;\n(b)recommend transfer of Chief Justices and other Judges of High Courts from one High Court to any other High Court; and\n(c)ensure that the person recommended is of ability and integrity.",
+    "metadata": {
+      "chunk_id": "constitution_section_124B_chunk_0",
+      "section_id": "constitution_section_124B",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part V",
+      "chapter_title": "The Union",
+      "section_number": "124B",
+      "section_title": "Functions of Commission"
+    }
+  }
+]

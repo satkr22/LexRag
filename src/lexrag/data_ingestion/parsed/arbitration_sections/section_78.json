@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-78.html",
+    "source_order": 102,
+    "article_order": 1,
+    "order": 102,
+    "stem": "section_78",
+    "heading_number": "Part III",
+    "heading_title": "Conciliation",
+    "heading_range": "ss. 61–81",
+    "heading_source": "manifest",
+    "article_number": "78",
+    "article_title": "Costs.",
+    "id": "arbitration_section_78"
+  },
+  "id": "arbitration_section_78",
+  "heading": {
+    "number": "Part III",
+    "title": "Conciliation",
+    "range": "ss. 61–81"
+  },
+  "article": {
+    "number": "78",
+    "title": "Costs.",
+    "content": "(1) Upon termination of the conciliation proceedings, the conciliator shall fix the costs of the conciliation and give written notice thereof to the parties.\n(2) For the purpose of sub-section (1), “costs” means reasonable costs relating to—\n(a) the fee and expenses of the conciliator and witnesses requested by the conciliator with the consent of the parties;\n(b) any expert advice requested by the conciliator with the consent of the parties;\n(c) any assistance provided pursuant to clause (b) of sub-section (2) of section 64 and section 68;\n(d) any other expenses incurred in connection with the conciliation proceedings and the settlement agreement.\n(3) The costs shall be borne equally by the parties unless the settlement agreement provides for a different apportionment. All other expenses incurred by a party shall be borne by that party.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">78</span>Costs.</h3></div><p class=\"prov-cite\">Section 78  ·  Part III  ·  pages 37–38 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Upon termination of the conciliation proceedings, the conciliator shall fix the costs of the conciliation and give written notice thereof to the parties.</p><p class=\"lvl\">(2) For the purpose of sub-section (1), “costs” means reasonable costs relating to—</p><p class=\"lvl\">(a) the fee and expenses of the conciliator and witnesses requested by the conciliator with the consent of the parties;</p><p class=\"lvl\">(b) any expert advice requested by the conciliator with the consent of the parties;</p><p class=\"lvl\">(c) any assistance provided pursuant to clause (b) of sub-section (2) of section 64 and section 68;</p><p class=\"lvl\">(d) any other expenses incurred in connection with the conciliation proceedings and the settlement agreement.</p><p class=\"lvl\">(3) The costs shall be borne equally by the parties unless the settlement agreement provides for a different apportionment. All other expenses incurred by a party shall be borne by that party.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">78</span>Costs.</h3></div><p class=\"prov-cite\">Section 78  ·  Part III  ·  pages 37–38 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Upon termination of the conciliation proceedings, the conciliator shall fix the costs of the conciliation and give written notice thereof to the parties.</p><p class=\"lvl\">(2) For the purpose of sub-section (1), “costs” means reasonable costs relating to—</p><p class=\"lvl\">(a) the fee and expenses of the conciliator and witnesses requested by the conciliator with the consent of the parties;</p><p class=\"lvl\">(b) any expert advice requested by the conciliator with the consent of the parties;</p><p class=\"lvl\">(c) any assistance provided pursuant to clause (b) of sub-section (2) of section 64 and section 68;</p><p class=\"lvl\">(d) any other expenses incurred in connection with the conciliation proceedings and the settlement agreement.</p><p class=\"lvl\">(3) The costs shall be borne equally by the parties unless the settlement agreement provides for a different apportionment. All other expenses incurred by a party shall be borne by that party.</p></div>"
+  }
+}

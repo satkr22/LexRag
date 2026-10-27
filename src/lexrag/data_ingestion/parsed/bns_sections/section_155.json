@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-07.html",
+    "source_order": 7,
+    "article_order": 9,
+    "order": 155,
+    "stem": "section_155",
+    "heading_number": "Chapter VII",
+    "heading_title": "Of Offences Against the State",
+    "heading_range": "147 – 158",
+    "heading_source": "group-head",
+    "article_number": "155",
+    "article_title": "Receiving property taken by war or depredation mentioned in sections 153 and 154",
+    "id": "bns_section_155"
+  },
+  "id": "bns_section_155",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Of Offences Against the State",
+    "range": "147 – 158"
+  },
+  "article": {
+    "number": "155",
+    "title": "Receiving property taken by war or depredation mentioned in sections 153 and 154",
+    "content": "Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 153 and 154, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of the property so received.\n",
+    "html": "<article class=\"provision\" data-n=\"155\" data-report=\"Section 155 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">155</span>Receiving property taken by war or depredation mentioned in sections 153 and 154</h3></div><p class=\"prov-cite\">Section 155 · Chapter VII</p><div class=\"prov-body\"><p>Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 153 and 154, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of the property so received.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">155</span>Receiving property taken by war or depredation mentioned in sections 153 and 154</h3></div><p class=\"prov-cite\">Section 155 · Chapter VII</p><div class=\"prov-body\"><p>Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 153 and 154, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of the property so received.</p></div>"
+  }
+}

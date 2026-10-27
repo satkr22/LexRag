@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_I_chunk_0",
+    "section_id": "gst_section_I",
+    "token_count": 200,
+    "text": "[Act: gst\n Chapter: The Schedules\n Section: I::SCHEDULE I\n]\n\n\n1. Permanent transfer or disposal of business assets where input tax credit has been availed on such assets.\n2. Supply of goods or services or both between related persons or between distinct persons as specified in section 25, when made in the course or furtherance of business:\nProvided that gifts not exceeding fifty thousand rupees in value in a financial year by an employer to an employee shall not be treated as supply of goods or services or both.\n3. Supply of goods—\n(a) by a principal to his agent where the agent undertakes to supply such goods on behalf of the principal; or\n(b) by an agent to his principal where the agent undertakes to receive such goods on behalf of the principal.\n4. Import of services by a 1[person] from a related person or from any of his other establishments outside India, in the course or furtherance of business.",
+    "metadata": {
+      "chunk_id": "gst_section_I_chunk_0",
+      "section_id": "gst_section_I",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "I",
+      "section_title": "SCHEDULE I"
+    }
+  }
+]

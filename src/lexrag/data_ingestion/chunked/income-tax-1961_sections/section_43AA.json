@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_43AA_chunk_0",
+    "section_id": "income-tax-1961_section_43AA",
+    "token_count": 183,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 43AA::Taxation of foreign exchange fluctuation.\n]\n\n\n(1) Subject to the provisions of section 43A, any gain or loss arising on account of any change in foreign exchange rates shall be treated as income or loss, as the case may be, and such gain or loss shall be computed in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145.\n(2) For the purposes of sub-section (1), gain or loss arising on account of the effects of change in foreign exchange rates shall be in respect of all foreign currency transactions, including those relating to—\n(i) monetary items and non-monetary items;\n(ii) translation of financial statements of foreign operations;\n(iii) forward exchange contracts;\n(iv) foreign currency translation reserves.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_43AA_chunk_0",
+      "section_id": "income-tax-1961_section_43AA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "43AA",
+      "section_title": "Taxation of foreign exchange fluctuation."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_18_chunk_0",
+    "section_id": "sale-of-goods_section_18",
+    "token_count": 63,
+    "text": "[Act: sale-of-goods\n Chapter: Effects of the Contract\n Section: 18::Goods must be ascertained.\n]\n\n\nWhere there is a contract for the sale of unascertained goods, no property in the goods is transferred to the buyer unless and until the goods are ascertained.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_18_chunk_0",
+      "section_id": "sale-of-goods_section_18",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Effects of the Contract",
+      "section_number": "18",
+      "section_title": "Goods must be ascertained."
+    }
+  }
+]

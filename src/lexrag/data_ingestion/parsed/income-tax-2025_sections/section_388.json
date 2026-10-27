@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-18.html",
+    "source_order": 19,
+    "article_order": 33,
+    "order": 389,
+    "stem": "section_388",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "heading_range": "ss. 356–389",
+    "heading_source": "group-head",
+    "article_number": "388",
+    "article_title": "Procedure of Board for Advance Rulings.",
+    "id": "income-tax-2025_section_388"
+  },
+  "id": "income-tax-2025_section_388",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "range": "ss. 356–389"
+  },
+  "article": {
+    "number": "388",
+    "title": "Procedure of Board for Advance Rulings.",
+    "content": "The Board for Advance Rulings shall, subject to the provisions of this Chapter, have power to regulate its own procedure in all matters arising out of the exercise of its powers under this Act.\n",
+    "html": "<article class=\"provision\" data-n=\"388\" data-report=\"Section 388 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">388</span>Procedure of Board for Advance Rulings.</h3></div><p class=\"prov-cite\">Section 388  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 455 of the Act</p><div class=\"prov-body\"><p>The Board for Advance Rulings shall, subject to the provisions of this Chapter, have power to regulate its own procedure in all matters arising out of the exercise of its powers under this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">388</span>Procedure of Board for Advance Rulings.</h3></div><p class=\"prov-cite\">Section 388  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 455 of the Act</p><div class=\"prov-body\"><p>The Board for Advance Rulings shall, subject to the provisions of this Chapter, have power to regulate its own procedure in all matters arising out of the exercise of its powers under this Act.</p></div>"
+  }
+}

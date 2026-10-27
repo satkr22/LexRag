@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-226.html",
+    "source_order": 228,
+    "article_order": 1,
+    "order": 228,
+    "stem": "section_226",
+    "heading_number": "Chapter X",
+    "heading_title": "Agency",
+    "heading_range": "ss. 182–238",
+    "heading_source": "manifest",
+    "article_number": "226",
+    "article_title": "Enforcement and consequences of agent’s contracts.",
+    "id": "contract_section_226"
+  },
+  "id": "contract_section_226",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Agency",
+    "range": "ss. 182–238"
+  },
+  "article": {
+    "number": "226",
+    "title": "Enforcement and consequences of agent’s contracts.",
+    "content": "Contracts entered into through an agent, and obligations arising from acts done by an agent, may be enforced in the same manner, and will have the same legal consequences, as if the contracts had been entered into and the acts done by the principal in person.\nIllustrations\n(a)A buys goods from B, knowing that he is an agent for their sale, but not knowing who is the principal. B’s principal is the person entitled to claim from A the price of the goods, and A cannot, in a suit by the principal, set-off against that claim a debt due to himself from B.\n(b)A, being B’s agent, with authority to receive money on his behalf, receives from C a sum of money due to B. C is discharged of his obligation to pay the sum in question to B.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">226</span>Enforcement and consequences of agent’s contracts.</h3></div><p class=\"prov-cite\">Section 226  ·  Chapter X  ·  Effect of agency on contracts with third persons  ·  page 49 of the Act</p><div class=\"prov-body\"><p>Contracts entered into through an agent, and obligations arising from acts done by an agent, may be enforced in the same manner, and will have the same legal consequences, as if the contracts had been entered into and the acts done by the principal in person.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A buys goods from B, knowing that he is an agent for their sale, but not knowing who is the principal. B’s principal is the person entitled to claim from A the price of the goods, and A cannot, in a suit by the principal, set-off against that claim a debt due to himself from B.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A, being B’s agent, with authority to receive money on his behalf, receives from C a sum of money due to B. C is discharged of his obligation to pay the sum in question to B.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">226</span>Enforcement and consequences of agent’s contracts.</h3></div><p class=\"prov-cite\">Section 226  ·  Chapter X  ·  Effect of agency on contracts with third persons  ·  page 49 of the Act</p><div class=\"prov-body\"><p>Contracts entered into through an agent, and obligations arising from acts done by an agent, may be enforced in the same manner, and will have the same legal consequences, as if the contracts had been entered into and the acts done by the principal in person.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A buys goods from B, knowing that he is an agent for their sale, but not knowing who is the principal. B’s principal is the person entitled to claim from A the price of the goods, and A cannot, in a suit by the principal, set-off against that claim a debt due to himself from B.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A, being B’s agent, with authority to receive money on his behalf, receives from C a sum of money due to B. C is discharged of his obligation to pay the sum in question to B.</p></div>"
+  }
+}

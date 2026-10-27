@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "right-to-education",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "right-to-education_sections/section-6.html",
+    "source_order": 6,
+    "article_order": 1,
+    "order": 6,
+    "stem": "section_6",
+    "heading_number": "Chapter III",
+    "heading_title": "Duties of Appropriate Government, Local Authority and Parents",
+    "heading_range": "ss. 6–11",
+    "heading_source": "manifest",
+    "article_number": "6",
+    "article_title": "Duty of appropriate Government and local authority to establish school.",
+    "id": "right-to-education_section_6"
+  },
+  "id": "right-to-education_section_6",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Duties of Appropriate Government, Local Authority and Parents",
+    "range": "ss. 6–11"
+  },
+  "article": {
+    "number": "6",
+    "title": "Duty of appropriate Government and local authority to establish school.",
+    "content": "For carrying out the provisions of this Act, the appropriate Government and the local authority shall establish, within such area or limits of neighbourhood, as may be prescribed, a school, where it is not so established, within a period of three years from the commencement of this Act.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Duty of appropriate Government and local authority to establish school.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter III  ·  page 5 of the Act</p><div class=\"prov-body\"><p>For carrying out the provisions of this Act, the appropriate Government and the local authority shall establish, within such area or limits of neighbourhood, as may be prescribed, a school, where it is not so established, within a period of three years from the commencement of this Act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Duty of appropriate Government and local authority to establish school.</h3></div><p class=\"prov-cite\">Section 6  ·  Chapter III  ·  page 5 of the Act</p><div class=\"prov-body\"><p>For carrying out the provisions of this Act, the appropriate Government and the local authority shall establish, within such area or limits of neighbourhood, as may be prescribed, a school, where it is not so established, within a period of three years from the commencement of this Act.</p></div>"
+  }
+}

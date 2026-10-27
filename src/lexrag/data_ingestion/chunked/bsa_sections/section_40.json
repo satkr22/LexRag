@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_40_chunk_0",
+    "section_id": "bsa_section_40",
+    "token_count": 161,
+    "text": "[Act: bsa\n Chapter: Relevancy of Facts\n Section: 40::Facts bearing upon opinions of experts\n]\n\n\nFacts, not otherwise relevant, are relevant if they support or are inconsistent with the opinions of experts, when such opinions are relevant.\nIllustrations\n(a)The question is, whether A was poisoned by a certain poison. The fact that other persons, who were poisoned by that poison, exhibited certain symptoms which experts affirm or deny to be the symptoms of that poison, is relevant.\n(b)The question is, whether an obstruction to a harbour is caused by a certain sea-wall. The fact that other harbours similarly situated in other respects, but where there were no such sea-walls, began to be obstructed at about the same time, is relevant.",
+    "metadata": {
+      "chunk_id": "bsa_section_40_chunk_0",
+      "section_id": "bsa_section_40",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Relevancy of Facts",
+      "section_number": "40",
+      "section_title": "Facts bearing upon opinions of experts"
+    }
+  }
+]

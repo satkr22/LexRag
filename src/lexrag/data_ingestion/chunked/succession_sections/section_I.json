@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_I_chunk_0",
+    "section_id": "succession_section_I",
+    "token_count": 154,
+    "text": "[Act: succession\n Chapter: The Schedules\n Section: I::SCHEDULE I\n]\n\n\nGreat Grandfather’s Father.\n4\nGreat Grandfather.\nGreat Great Uncle.\n3\n5\nGrandfather.\nGreat Uncle.\n2\n4\nFather\nUncle.\nGreat Uncle’s son.\n1\n3\n5\nTHE PERSON WHOSE RELATIVES ARE TO BE RECKONED\nBrother.\nCousin-german.\nSecond Cousin.\n2\n4\n6\nSon.\nNephew.\nSon of the Cousin-german.\n1\n3\n5\nGrandson.\nSon of the Nephew or Brother’s\nGrandson of the Cousin-german.\n2\nGrandson.\nGreat Grandson.",
+    "metadata": {
+      "chunk_id": "succession_section_I_chunk_0",
+      "section_id": "succession_section_I",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "I",
+      "section_title": "SCHEDULE I"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_41_chunk_0",
+    "section_id": "bsa_section_41",
+    "token_count": 352,
+    "text": "[Act: bsa\n Chapter: Relevancy of Facts\n Section: 41::Opinion as to handwriting and signature, when relevant\n]\n\n\n(1)When the Court has to form an opinion as to the person by whom any document was written or signed, the opinion of any person acquainted with the handwriting of the person by whom it is supposed to be written or signed that it was or was not written or signed by that person, is a relevant fact.\nExplanationA person is said to be acquainted with the handwriting of another person when he has seen that person write, or when he has received documents purporting to be written by that person in answer to documents written by himself or under his authority and addressed to that person, or when, in the ordinary course of business, documents purporting to be written by that person have been habitually submitted to him.\nIllustrations\nThe question is, whether a given letter is in the handwriting of A, a merchant in Itanagar. B is a merchant in Bengaluru, who has written letters addressed to A and received letters purporting to be written by him. C, is B's clerk whose duty it was to examine and file B's correspondence. D is B's broker, to whom B habitually submitted the letters purporting to be written by A for the purpose of advising him thereon. The opinions of B, C and D on the question whether the letter is in the handwriting of A are relevant, though neither B, C nor D ever saw A write.\n(2)When the Court has to form an opinion as to the electronic signature of any person, the opinion of the Certifying Authority which has issued the Electronic Signature Certificate is a relevant fact.",
+    "metadata": {
+      "chunk_id": "bsa_section_41_chunk_0",
+      "section_id": "bsa_section_41",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Relevancy of Facts",
+      "section_number": "41",
+      "section_title": "Opinion as to handwriting and signature, when relevant"
+    }
+  }
+]

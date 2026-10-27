@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 98,
+    "order": 575,
+    "stem": "section_O21R85",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R85",
+    "article_title": "Time for payment in full of purchase money.",
+    "id": "cpc_section_O21R85"
+  },
+  "id": "cpc_section_O21R85",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R85",
+    "title": "Time for payment in full of purchase money.",
+    "content": "The full amount of purchase-money payable shall be paid by the purchaser into Court before the Court closes on the fifteenth day from the sale of the property:\nProvided that, in calculating the amount to be so paid into Court, the purchaser shall have the advantage of any set-off to which he may be entitled under rule 72.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R85\" data-report=\"Order 21, Rule 85 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>Time for payment in full of purchase money.</h3></div><p class=\"prov-cite\">Order 21, Rule 85</p><div class=\"prov-body\"><p>The full amount of purchase-money payable shall be paid by the purchaser into Court before the Court closes on the fifteenth day from the sale of the property:</p><p class=\"prvso\">Provided that, in calculating the amount to be so paid into Court, the purchaser shall have the advantage of any set-off to which he may be entitled under rule 72.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">85</span>Time for payment in full of purchase money.</h3></div><p class=\"prov-cite\">Order 21, Rule 85</p><div class=\"prov-body\"><p>The full amount of purchase-money payable shall be paid by the purchaser into Court before the Court closes on the fifteenth day from the sale of the property:</p><p class=\"prvso\">Provided that, in calculating the amount to be so paid into Court, the purchaser shall have the advantage of any set-off to which he may be entitled under rule 72.</p></div>"
+  }
+}

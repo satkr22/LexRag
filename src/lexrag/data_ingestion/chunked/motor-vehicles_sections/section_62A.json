@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_62A_chunk_0",
+    "section_id": "motor-vehicles_section_62A",
+    "token_count": 105,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 62A::Prohibition of registration and issuance of certificate of fitness to oversized vehicles.\n]\n\n\n(1) No registering authority shall register any motor vehicle that contravenes any rule made under clause (a) of sub-section (1) of section 110.\n(2) No prescribed authority or authorised testing station shall issue a certificate of fitness under section 56 to any motor vehicle that contravenes any rule made under section 110.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_62A_chunk_0",
+      "section_id": "motor-vehicles_section_62A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "62A",
+      "section_title": "Prohibition of registration and issuance of certificate of fitness to oversized vehicles."
+    }
+  }
+]

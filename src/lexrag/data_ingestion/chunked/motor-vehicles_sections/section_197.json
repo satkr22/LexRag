@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_197_chunk_0",
+    "section_id": "motor-vehicles_section_197",
+    "token_count": 262,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 197::Taking vehicle without authority.\n]\n\n\n(1) Whoever takes and drives away any motor vehicle without having either the consent of the owner thereof or other lawful authority shall be punishable with imprisonment which may extend to three months or with fine 2[of five thousand rupees], or with both.\nProvided that no person shall be convicted under this section if the Court is satisfied that such person acted in the reasonable belief that he had lawful authority or in the reasonable belief that the owner would in the circumstances of the case have given his consent if he had been asked therefor.\n(2) Whoever, unlawfully by force or threat of force or by any other form of intimidation, seizes or exercises control of a motor vehicle, shall be punishable with imprisonment which may extend to three months, or with fine 2[of five thousand rupees], or with both.\n(3) Whoever attempts to commit any of the acts referred to in sub-section (1) or sub-section (2) in relation to any motor vehicle, or abets the commission of any such act, shall also be deemed to have committed an offence under sub-section (1) or, as the case may be, sub-section (2).",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_197_chunk_0",
+      "section_id": "motor-vehicles_section_197",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "197",
+      "section_title": "Taking vehicle without authority."
+    }
+  }
+]

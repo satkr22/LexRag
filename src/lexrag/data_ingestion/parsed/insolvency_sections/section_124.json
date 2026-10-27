@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-12.html",
+    "source_order": 12,
+    "article_order": 4,
+    "order": 147,
+    "stem": "section_124",
+    "heading_number": "Part III · Chapter IV",
+    "heading_title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "heading_range": "ss. 121–148",
+    "heading_source": "group-head",
+    "article_number": "124",
+    "article_title": "Effect of application.",
+    "id": "insolvency_section_124"
+  },
+  "id": "insolvency_section_124",
+  "heading": {
+    "number": "Part III · Chapter IV",
+    "title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "range": "ss. 121–148"
+  },
+  "article": {
+    "number": "124",
+    "title": "Effect of application.",
+    "content": "(1) When an application is filed under section 122 or section 123,—\n(a) an interim-moratorium shall commence on the date of the making of the application on all actions against the properties of the debtor in respect of his debts and such moratorium shall cease to have effect on the bankruptcy commencement date; and\n(b) during the interim-moratorium period—\n(i) any pending legal action or legal proceeding against any property of the debtor in respect of any of his debts shall be deemed to have been stayed;\n(ii) the creditors of the debtor shall not be entitled to initiate any legal action or legal proceedings against any property of the debtor in respect of any of his debts.\n(2) Where the application has been made in relation to a firm, the interim-moratorium under sub-section (1) shall operate against all the partners of the firm as on the date of the making of the application.\n(3) The provisions of this section shall not apply to such transactions as may be notified by the Central Government in consultation with any financial sector regulator.\n1[(4) The provisions of this section shall not apply where an application is filed for initiating a bankruptcy process in respect of a personal guarantor to a corporate debtor.]\n",
+    "html": "<article class=\"provision\" data-n=\"124\" data-report=\"Section 124 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124</span>Effect of application.</h3></div><p class=\"prov-cite\">Section 124  ·  Part III · Chapter IV  ·  page 106 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When an application is filed under section 122 or section 123,—</p><p class=\"lvl\">(a) an interim-moratorium shall commence on the date of the making of the application on all actions against the properties of the debtor in respect of his debts and such moratorium shall cease to have effect on the bankruptcy commencement date; and</p><p class=\"lvl\">(b) during the interim-moratorium period—</p><p class=\"lvl\">(i) any pending legal action or legal proceeding against any property of the debtor in respect of any of his debts shall be deemed to have been stayed;</p><p class=\"lvl\">(ii) the creditors of the debtor shall not be entitled to initiate any legal action or legal proceedings against any property of the debtor in respect of any of his debts.</p><p class=\"lvl\">(2) Where the application has been made in relation to a firm, the interim-moratorium under sub-section (1) shall operate against all the partners of the firm as on the date of the making of the application.</p><p class=\"lvl\">(3) The provisions of this section shall not apply to such transactions as may be notified by the Central Government in consultation with any financial sector regulator.</p><p class=\"lvl\"><sup>1</sup>[(4) The provisions of this section shall not apply where an application is filed for initiating a bankruptcy process in respect of a personal guarantor to a corporate debtor.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 6 of 2026, s. 55 (w.e.f. 26-05-2026).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124</span>Effect of application.</h3></div><p class=\"prov-cite\">Section 124  ·  Part III · Chapter IV  ·  page 106 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When an application is filed under section 122 or section 123,—</p><p class=\"lvl\">(a) an interim-moratorium shall commence on the date of the making of the application on all actions against the properties of the debtor in respect of his debts and such moratorium shall cease to have effect on the bankruptcy commencement date; and</p><p class=\"lvl\">(b) during the interim-moratorium period—</p><p class=\"lvl\">(i) any pending legal action or legal proceeding against any property of the debtor in respect of any of his debts shall be deemed to have been stayed;</p><p class=\"lvl\">(ii) the creditors of the debtor shall not be entitled to initiate any legal action or legal proceedings against any property of the debtor in respect of any of his debts.</p><p class=\"lvl\">(2) Where the application has been made in relation to a firm, the interim-moratorium under sub-section (1) shall operate against all the partners of the firm as on the date of the making of the application.</p><p class=\"lvl\">(3) The provisions of this section shall not apply to such transactions as may be notified by the Central Government in consultation with any financial sector regulator.</p><p class=\"lvl\"><sup>1</sup>[(4) The provisions of this section shall not apply where an application is filed for initiating a bankruptcy process in respect of a personal guarantor to a corporate debtor.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 6 of 2026, s. 55 (w.e.f. 26-05-2026).</p></div></div>"
+  }
+}

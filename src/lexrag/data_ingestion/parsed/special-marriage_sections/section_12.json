@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "special-marriage",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": null,
+    "source_file": "special-marriage_sections/section-12.html",
+    "source_order": 16,
+    "article_order": 1,
+    "order": 16,
+    "stem": "section_12",
+    "heading_number": "Chapter II",
+    "heading_title": "Solemnization of Special Marriages",
+    "heading_range": "ss. 4–14",
+    "heading_source": "manifest",
+    "article_number": "12",
+    "article_title": "Place and form of solemnization.",
+    "id": "special-marriage_section_12"
+  },
+  "id": "special-marriage_section_12",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Solemnization of Special Marriages",
+    "range": "ss. 4–14"
+  },
+  "article": {
+    "number": "12",
+    "title": "Place and form of solemnization.",
+    "content": "(1) The marriage may be solemnized at the office of the Marriage Officer, or at such other place within a reasonable distance therefrom as the parties may desire, and upon such conditions and the payment of such additional fees as may be prescribed.\n(2) The marriage may be solemnized in any form which the parties may choose to adopt:\nProvided that it shall not be complete and binding on the parties unless each party says to the other in the presence of the Marriage Officer and the three witnesses and in any language understood by the parties,―“I, (A), take the (B), to be my lawful wife (or husband)”.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Place and form of solemnization.</h3></div><p class=\"prov-cite\">Section 12  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The marriage may be solemnized at the office of the Marriage Officer, or at such other place within a reasonable distance therefrom as the parties may desire, and upon such conditions and the payment of such additional fees as may be prescribed.</p><p class=\"lvl\">(2) The marriage may be solemnized in any form which the parties may choose to adopt:</p><p class=\"prvso\">Provided that it shall not be complete and binding on the parties unless each party says to the other in the presence of the Marriage Officer and the three witnesses and in any language understood by the parties,―“I, (A), take the (B), to be my lawful wife (or husband)”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12</span>Place and form of solemnization.</h3></div><p class=\"prov-cite\">Section 12  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The marriage may be solemnized at the office of the Marriage Officer, or at such other place within a reasonable distance therefrom as the parties may desire, and upon such conditions and the payment of such additional fees as may be prescribed.</p><p class=\"lvl\">(2) The marriage may be solemnized in any form which the parties may choose to adopt:</p><p class=\"prvso\">Provided that it shall not be complete and binding on the parties unless each party says to the other in the presence of the Marriage Officer and the three witnesses and in any language understood by the parties,―“I, (A), take the (B), to be my lawful wife (or husband)”.</p></div>"
+  }
+}

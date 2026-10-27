@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_63_chunk_0",
+    "section_id": "motor-vehicles_section_63",
+    "token_count": 118,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 63::Maintenance of State Registers of Motor Vehicles.\n]\n\n\n(1) Each State Government shall maintain in such form as may be prescribed by the Central Government a register to be known as the State Register of Motor Vehicles, in respect of the motor vehicles in that State, containing the particulars including—\n(a) registration numbers;\n(b) years of manufacture;\n(c) classes and types;\n(d) names and addresses of registered owners; and\n(e) such other particulars as may be prescribed by the Central Government.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_63_chunk_0",
+      "section_id": "motor-vehicles_section_63",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "63",
+      "section_title": "Maintenance of State Registers of Motor Vehicles."
+    }
+  }
+]

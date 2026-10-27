@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "specific-relief",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "specific-relief_sections/section-18.html",
+    "source_order": 19,
+    "article_order": 1,
+    "order": 19,
+    "stem": "section_18",
+    "heading_number": "Part II · Chapter II",
+    "heading_title": "Specific Performance of Contracts",
+    "heading_range": "ss. 9–25",
+    "heading_source": "manifest",
+    "article_number": "18",
+    "article_title": "Non-enforcement except with variation.",
+    "id": "specific-relief_section_18"
+  },
+  "id": "specific-relief_section_18",
+  "heading": {
+    "number": "Part II · Chapter II",
+    "title": "Specific Performance of Contracts",
+    "range": "ss. 9–25"
+  },
+  "article": {
+    "number": "18",
+    "title": "Non-enforcement except with variation.",
+    "content": "Where a plaintiff seeks specific performance of a contract in writing, to which the defendant sets up a variation, the plaintiff cannot obtain the performance sought, except with the variation so set up, in the following cases, namely:—\n(a) where by fraud, mistake of fact or mis-representation, the written contract of which performance is sought is in its terms or effect different from what the parties agreed to, or does not contain all the terms agreed to between the parties on the basis of which the defendant entered into the contact;\n(b) where the object of the parties was to produce a certain legal result which the contract as framed is not calculated to produce;\n(c) where the parties have, subsequently to the execution of the contract, varied its terms.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18</span>Non-enforcement except with variation.</h3></div><p class=\"prov-cite\">Section 18  ·  Part II · Chapter II  ·  PERSONS FOR OR AGAINST WHOM CONTRACTS MAY BE SPECIFICALLY ENFORCED  ·  pages 8–9 of the Act</p><div class=\"prov-body\"><p>Where a plaintiff seeks specific performance of a contract in writing, to which the defendant sets up a variation, the plaintiff cannot obtain the performance sought, except with the variation so set up, in the following cases, namely:—</p><p class=\"lvl\">(a) where by fraud, mistake of fact or mis-representation, the written contract of which performance is sought is in its terms or effect different from what the parties agreed to, or does not contain all the terms agreed to between the parties on the basis of which the defendant entered into the contact;</p><p class=\"lvl\">(b) where the object of the parties was to produce a certain legal result which the contract as framed is not calculated to produce;</p><p class=\"lvl\">(c) where the parties have, subsequently to the execution of the contract, varied its terms.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18</span>Non-enforcement except with variation.</h3></div><p class=\"prov-cite\">Section 18  ·  Part II · Chapter II  ·  PERSONS FOR OR AGAINST WHOM CONTRACTS MAY BE SPECIFICALLY ENFORCED  ·  pages 8–9 of the Act</p><div class=\"prov-body\"><p>Where a plaintiff seeks specific performance of a contract in writing, to which the defendant sets up a variation, the plaintiff cannot obtain the performance sought, except with the variation so set up, in the following cases, namely:—</p><p class=\"lvl\">(a) where by fraud, mistake of fact or mis-representation, the written contract of which performance is sought is in its terms or effect different from what the parties agreed to, or does not contain all the terms agreed to between the parties on the basis of which the defendant entered into the contact;</p><p class=\"lvl\">(b) where the object of the parties was to produce a certain legal result which the contract as framed is not calculated to produce;</p><p class=\"lvl\">(c) where the parties have, subsequently to the execution of the contract, varied its terms.</p></div>"
+  }
+}

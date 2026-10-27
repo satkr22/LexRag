@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_199_chunk_0",
+    "section_id": "income-tax-1961_section_199",
+    "token_count": 235,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 199::Credit for tax deducted.\n]\n\n\n(1) Any deduction made in accordance with the foregoing provisions of this Chapter and paid to the Central Government shall be treated as a payment of tax on behalf of the person from whose income the deduction was made, or of the owner of the security, or of the depositor or of the owner of property or of the unit-holder, or of the shareholder, as the case may be.\n(2) Any sum referred to in sub-section (1A) of section 192 and paid to the Central Government shall be treated as the tax paid on behalf of the person in respect of whose income such payment of tax has been made.\n(3) The Board may, for the purposes of giving credit in respect of tax deducted or tax paid in terms of the provisions of this Chapter, make such rules as may be necessary, including the rules for the purposes of giving credit to a person other than those referred to in sub-section (1) and sub-section (2) and also the assessment year for which such credit may be given.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_199_chunk_0",
+      "section_id": "income-tax-1961_section_199",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "199",
+      "section_title": "Credit for tax deducted."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-21.html",
+    "source_order": 21,
+    "article_order": 9,
+    "order": 443,
+    "stem": "section_350A",
+    "heading_number": "Part XVII",
+    "heading_title": "Official Language",
+    "heading_range": "343 – 351",
+    "heading_source": "group-head",
+    "article_number": "350A",
+    "article_title": "Facilities for instruction in mother-tongue at primary stage",
+    "id": "constitution_section_350A"
+  },
+  "id": "constitution_section_350A",
+  "heading": {
+    "number": "Part XVII",
+    "title": "Official Language",
+    "range": "343 – 351"
+  },
+  "article": {
+    "number": "350A",
+    "title": "Facilities for instruction in mother-tongue at primary stage",
+    "content": "2[It shall be the endeavour of every State and of every local authority within the State to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and the President may issue such directions to any State as he considers necessary or proper for securing the provision of such facilities.\n",
+    "html": "<article class=\"provision\" data-n=\"350A\" data-report=\"Article 350A · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">350A</span>Facilities for instruction in mother-tongue at primary stage</h3></div><p class=\"prov-cite\">Article 350A · Part XVII</p><div class=\"prov-body\"><p><sup>2</sup>[It shall be the endeavour of every State and of every local authority within the State to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and the President may issue such directions to any State as he considers necessary or proper for securing the provision of such facilities.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Arts. 350A and 350B ins. by s.21., ibid. (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">350A</span>Facilities for instruction in mother-tongue at primary stage</h3></div><p class=\"prov-cite\">Article 350A · Part XVII</p><div class=\"prov-body\"><p><sup>2</sup>[It shall be the endeavour of every State and of every local authority within the State to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and the President may issue such directions to any State as he considers necessary or proper for securing the provision of such facilities.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Arts. 350A and 350B ins. by s.21., ibid. (w.e.f. 1-11-1956).</p></div>"
+  }
+}

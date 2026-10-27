@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-56.html",
+    "source_order": 56,
+    "article_order": 5,
+    "order": 769,
+    "stem": "section_O37R5",
+    "heading_number": "Order XXXVII",
+    "heading_title": "Summary Procedure 2***",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O37R5",
+    "article_title": "Power to order bill, etc., to be deposited with officer of Court.",
+    "id": "cpc_section_O37R5"
+  },
+  "id": "cpc_section_O37R5",
+  "heading": {
+    "number": "Order XXXVII",
+    "title": "Summary Procedure 2***",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O37R5",
+    "title": "Power to order bill, etc., to be deposited with officer of Court.",
+    "content": "In any proceeding under this Order the Court may order the bill, hundi or note on which the suit is founded to be forthwith deposited with an officer of the Court, and may further order that all proceedings shall be stayed until the plaintiff gives security for the costs thereof.\n",
+    "html": "<article class=\"provision\" data-n=\"O37R5\" data-report=\"Order 37, Rule 5 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Power to order bill, etc., to be deposited with officer of Court.</h3></div><p class=\"prov-cite\">Order 37, Rule 5</p><div class=\"prov-body\"><p>In any proceeding under this Order the Court may order the bill, hundi or note on which the suit is founded to be forthwith deposited with an officer of the Court, and may further order that all proceedings shall be stayed until the plaintiff gives security for the costs thereof.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5</span>Power to order bill, etc., to be deposited with officer of Court.</h3></div><p class=\"prov-cite\">Order 37, Rule 5</p><div class=\"prov-body\"><p>In any proceeding under this Order the Court may order the bill, hundi or note on which the suit is founded to be forthwith deposited with an officer of the Court, and may further order that all proceedings shall be stayed until the plaintiff gives security for the costs thereof.</p></div>"
+  }
+}

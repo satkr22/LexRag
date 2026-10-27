@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What constitutes the offence of robbery involving theft or extortion with force or fear, and under what conditions may a police officer arrest a person suspected of such an offence without a warrant?",
+    "referenced_sections": ["bns_section_309", "bnss_section_35"],
+    "answer": "Robbery involves theft or extortion accompanied by voluntary causing or attempting to cause death, hurt, wrongful restraint, or fear of instant death/hurt/restraint (or presence-based fear for extortion). A police officer may arrest without warrant if the person commits a cognizable offence in the officer's presence, or if there is reasonable complaint/credible information/suspicion of a cognizable offence (with additional necessity conditions for offences up to 7 years, or belief for more serious ones)."
+  },
+  {
+    "question": "How is culpable homicide amounting to murder defined when death is caused with intention or knowledge of likelihood, and what is the procedure for police to enquire and report when a person has been killed under circumstances raising suspicion of an offence?",
+    "referenced_sections": ["bns_section_101", "bnss_section_194"],
+    "answer": "Culpable homicide is murder if the act is done with intention of causing death, or intention of causing bodily injury known to be likely to cause death, or injury sufficient in ordinary course to cause death, or knowledge that the act is imminently dangerous and must cause death/likely injury without excuse. Police receiving information of a killing under suspicious circumstances must immediately inform the nearest Executive Magistrate empowered to hold inquests, proceed to the body, investigate in presence of respectable inhabitants, and draw up a report of apparent cause of death describing injuries and manner/weapon, forwarding it within 24 hours."
+  },
+  {
+    "question": "What is the punishment prescribed for the offence of rape, and in what circumstances can offences generally be compounded by the victim or other specified persons with or without court permission?",
+    "referenced_sections": ["bns_section_64", "bnss_section_359"],
+    "answer": "Punishment for rape is rigorous imprisonment of not less than ten years which may extend to imprisonment for life, and shall also be liable to fine. Certain specified offences under BNS may be compounded by the persons mentioned in the relevant table (e.g., the person to whom hurt is caused for voluntarily causing hurt), some without permission and others only with permission of the Court before which the prosecution is pending."
+  },
+  {
+    "question": "Under what circumstances does an act of voluntarily causing grievous hurt amount to an offence, and what powers does a Magistrate have regarding security for keeping the peace on conviction for such an offence?",
+    "referenced_sections": ["bns_section_117", "bnss_section_125"],
+    "answer": "Voluntarily causing grievous hurt is an offence when a person causes any of the specified grievous injuries (e.g., emasculation, permanent privation of sight/hearing, privation of any member or joint, permanent disfiguration, fracture or dislocation, or any hurt endangering life or causing severe bodily pain for 20 days or more or inability to follow ordinary pursuits). On conviction, a Magistrate may require the person to execute a bond with or without sureties for keeping the peace for a period not exceeding three years."
+  },
+  {
+    "question": "What acts constitute the offence of criminal conspiracy, and what is the procedure when a Magistrate finds after commencement of inquiry or trial that the case should be committed to a higher court?",
+    "referenced_sections": ["bns_section_61", "bnss_section_362"],
+    "answer": "Criminal conspiracy is when two or more persons agree to do or cause to be done an illegal act or an act by illegal means, and if the agreement is to commit an offence, the mere agreement is punishable (with an overt act required only for non-offence illegal acts). If after commencement of inquiry or trial the Magistrate finds the case should be committed, the Magistrate shall commit the case to the Court of Session or High Court as appropriate after following the prescribed procedure for commitment."
+  },
+  {
+    "question": "How is the right of private defence of the body defined including when it extends to causing death, and what are the duties of a police officer making an arrest regarding informing the arrested person of grounds and right to bail?",
+    "referenced_sections": ["bns_section_38", "bnss_section_47"],
+    "answer": "The right of private defence of the body extends to causing death when there is reasonable apprehension of death or grievous hurt, or assault with intention of committing rape/gratifying unnatural lust/kidnapping/abducting/wrongfully confining under circumstances reasonably causing apprehension of inability to have recourse to public authorities. The police officer making the arrest must forthwith inform the person of the full particulars of the offence or grounds of arrest and of the right to bail in case of a bailable offence."
+  },
+  {
+    "question": "What constitutes the offence of theft, and under what conditions may a police officer seize certain property during investigation?",
+    "referenced_sections": ["bns_section_303", "bnss_section_106"],
+    "answer": "Theft is committed when a person intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking. A police officer may seize any property which may be alleged or suspected to have been stolen, or which may be found under circumstances creating suspicion of commission of any offence, and shall forthwith report the seizure to the Magistrate having jurisdiction."
+  },
+  {
+    "question": "What is the definition and punishment for the offence of dacoity, and what is the power of the Court regarding disposal of property at the conclusion of a trial involving such an offence?",
+    "referenced_sections": ["bns_section_310", "bnss_section_498"],
+    "answer": "Dacoity is committed when five or more persons conjointly commit or attempt to commit robbery, or where the whole number of persons committing or attempting to commit robbery and persons present and aiding amount to five or more; punishment is imprisonment for life or rigorous imprisonment up to ten years and fine. At conclusion of trial, the Court may make such order as it thinks fit for disposal by destruction, confiscation or delivery to any person claiming to be entitled to possession, or otherwise, of any property or document produced before it or in its custody or regarding which any offence appears to have been committed."
+  },
+  {
+    "question": "When does an act of promoting enmity between different groups on grounds of religion, race etc. constitute an offence, and what is the procedure for prosecution of offences against the State and for criminal conspiracy to commit such offences?",
+    "referenced_sections": ["bns_section_196", "bnss_section_217"],
+    "answer": "It is an offence to promote or attempt to promote disharmony or feelings of enmity, hatred or ill-will between different religious, racial, language or regional groups or castes or communities by words, signs, visible representations or otherwise, or to commit acts prejudicial to maintenance of harmony, or to organize or participate in activities involving such, or to make or publish imputations/assertions prejudicial to national integration. No Court shall take cognizance of any such offence or of criminal conspiracy to commit it except with previous sanction of the Central Government or of the State Government or of such officer as may be authorized."
+  },
+  {
+    "question": "What constitutes the offence of voluntarily causing hurt by dangerous weapons or means, and what is the power of a Magistrate to convert a summons-case into a warrant-case during trial of such an offence?",
+    "referenced_sections": ["bns_section_118", "bnss_section_282"],
+    "answer": "Voluntarily causing hurt by means of any instrument for shooting, stabbing or cutting, or any instrument used as a weapon of offence likely to cause death, or by fire or heated substance, or by poison or corrosive/explosive substance, or by means of any animal, is an offence punishable with imprisonment up to three years or fine or both (or higher for grievous hurt). When in the course of trial of a summons-case relating to an offence punishable with imprisonment for a term exceeding six months, it appears to the Magistrate that in the interests of justice the offence should be tried as a warrant-case, the Magistrate may convert it into a warrant-case and proceed accordingly."
+  },
+  {
+    "question": "How is the offence of criminal breach of trust defined, and what is the procedure for the police officer's power to investigate a cognizable case involving such an offence?",
+    "referenced_sections": ["bns_section_316", "bnss_section_175"],
+    "answer": "Criminal breach of trust is committed by a person who, being in any manner entrusted with property or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract express or implied. Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try."
+  },
+  {
+    "question": "What acts amount to the offence of assault or use of criminal force to a woman with intent to outrage her modesty, and what special procedure applies for medical examination of a victim of rape or similar sexual offence?",
+    "referenced_sections": ["bns_section_74", "bnss_section_184"],
+    "answer": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine. Where a person is in police custody or is produced before a medical practitioner under circumstances raising reasonable suspicion of rape or similar offence, the registered medical practitioner shall examine the person without delay and prepare a report of injuries, age, and other material particulars, forwarding it to the investigating officer."
+  },
+  {
+    "question": "Under what conditions is causing death by negligence an offence, and what is the maximum period for which an undertrial prisoner can be detained in relation to such cases?",
+    "referenced_sections": ["bns_section_106", "bnss_section_479"],
+    "answer": "Causing death by doing any rash or negligent act not amounting to culpable homicide is an offence punishable with imprisonment up to five years or fine or both (or up to ten years if under influence of alcohol/drugs or in certain other aggravated cases). Where a person has undergone detention for a period extending up to one-half of the maximum period of imprisonment specified for the offence (or one-third in certain cases for first-time offenders), he shall be released on bail, subject to exceptions for offences punishable with death or life imprisonment or where investigation is pending for multiple offences."
+  },
+  {
+    "question": "What constitutes the offence of house-trespass after preparation for hurt, assault or wrongful restraint, and what is the procedure for recording search and seizure through audio-video electronic means?",
+    "referenced_sections": ["bns_section_333", "bnss_section_105"],
+    "answer": "Whoever commits house-trespass having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment up to seven years and fine. The process of conducting search of a place or taking possession of any property, article or thing and preparing the list of such property shall be recorded through any audio-video electronic means preferably mobile phone, and the recording shall be kept in safe custody."
+  },
+  {
+    "question": "How is the offence of cheating defined, and what power does the Court have to order the person to give specimen signatures or handwriting in connection with investigation or trial of such an offence?",
+    "referenced_sections": ["bns_section_318", "bnss_section_349"],
+    "answer": "Cheating is committed by a person who by deceiving any person fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property. A Magistrate may, for the purposes of any investigation or proceeding under the Sanhita, order any person to give specimen signatures or handwriting or finger impressions or voice sample."
+  },
+  {
+    "question": "What is the offence of kidnapping from lawful guardianship, and what power does a police officer have to require attendance of witnesses during investigation of such an offence?",
+    "referenced_sections": ["bns_section_137", "bnss_section_179"],
+    "answer": "Kidnapping from lawful guardianship is committed by taking or enticing any minor under sixteen years of age if a male, or under eighteen years of age if a female, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind, without the consent of such guardian. A police officer making an investigation may by order in writing require the attendance before himself of any person being within the limits of his own or any adjoining station who from the information given or otherwise appears to be acquainted with the facts and circumstances of the case."
+  },
+  {
+    "question": "When does an act endangering the sovereignty, unity and integrity of India constitute an offence, and what is the special provision regarding place of trial for offences committed outside India?",
+    "referenced_sections": ["bns_section_152", "bnss_section_208"],
+    "answer": "Whoever, purposely or knowingly, by words either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial means, or otherwise, excites or attempts to excite secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India, or indulges in or commits any such act, shall be punished with imprisonment for life or with imprisonment up to seven years and fine. When an offence is committed outside India by a citizen of India or on any ship or aircraft registered in India, or by a person on any ship or aircraft registered in India wherever it may be, he may be dealt with in respect of such offence as if it had been committed at any place within India at which he may be found."
+  },
+  {
+    "question": "What constitutes the offence of criminal intimidation, and what is the provision for legal aid to an accused at State expense in certain cases involving such an offence?",
+    "referenced_sections": ["bns_section_351", "bnss_section_341"],
+    "answer": "Criminal intimidation is committed by a person who threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat. Where in a trial before the Court of Session the accused is not represented by an advocate and where it appears to the Court that the accused has not sufficient means to engage an advocate, the Court shall assign an advocate for his defence at the expense of the State."
+  },
+  {
+    "question": "How is the offence of forgery defined, and what is the procedure regarding previous conviction or acquittal how proved in a subsequent trial?",
+    "referenced_sections": ["bns_section_336", "bnss_section_334"],
+    "answer": "Forgery is committed by a person who makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed. In any inquiry, trial or other proceeding, a previous conviction or acquittal may be proved by an extract certified under the hand of the officer having custody of the records of the Court in which such conviction or acquittal was held to be a copy of the sentence or order, or in case of acquittal by a certificate signed by such officer, together with evidence as to identity."
+  },
+  {
+    "question": "What acts amount to the offence of public nuisance, and what power does a Magistrate have to issue an order in urgent cases of nuisance or apprehended danger?",
+    "referenced_sections": ["bns_section_270", "bnss_section_163"],
+    "answer": "A person is guilty of public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right. In cases of urgency where there is sufficient ground for proceeding under the relevant chapter and immediate prevention or speedy remedy is desirable, a Magistrate may direct any person to abstain from a certain act or to take certain order with respect to certain property in his possession or under his management, if such Magistrate considers that such direction is likely to prevent obstruction, annoyance or injury, or risk of it, to any person lawfully employed, or danger to human life, health or safety, or a disturbance of public tranquillity, or a riot or affray."
+  }
+]

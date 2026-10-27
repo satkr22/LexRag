@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "easements_section_4_chunk_0",
+    "section_id": "easements_section_4",
+    "token_count": 251,
+    "text": "[Act: easements\n Chapter: Of Easements Generally\n Section: 4::“Easement” defined.\n]\n\nAn easement is a right which the owner or occupier of certain land possesses, as such, for the beneficial enjoyment of that land, to do and continue to do something, or to prevent and continue to prevent something being done, in or upon, or in respect of, certain other land not his own.\n\nDominant and servient heritages and owners.—The land for the beneficial enjoyment of which the right exists is called the dominant heritage, and the owner or occupier thereof the dominant owner; the land on which the liability is imposed is called the servient heritage, and the owner or occupier thereof the servient owner.\n  Explanation.—In the first and second clauses of this section, the expression “land” includes also things permanently attached to the earth; the expression “beneficial enjoyment” includes also possible convenience, remote advantage, and even a mere amenity; and the expression “to do something” includes removal and appropriation by the dominant owner, for the beneficial enjoyment of the dominant heritage, of any part of the soil of the servient heritage or anything growing or subsisting thereon.",
+    "metadata": {
+      "chunk_id": "easements_section_4_chunk_0",
+      "section_id": "easements_section_4",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Of Easements Generally",
+      "section_number": "4",
+      "section_title": "“Easement” defined."
+    }
+  },
+  {
+    "chunk_id": "easements_section_4_chunk_1",
+    "section_id": "easements_section_4",
+    "token_count": 415,
+    "text": "[Act: easements\n Chapter: Of Easements Generally\n Section: 4::“Easement” defined.\n]\n\nAn easement is a right which the owner or occupier of certain land possesses, as such, for the beneficial enjoyment of that land, to do and continue to do something, or to prevent and continue to prevent something being done, in or upon, or in respect of, certain other land not his own.\n\nIllustrations\n  (a) A, as the owner of a certain house, has a right of way thither over his neighbour B’s land for purposes connected with the beneficial enjoyment of the house. This is an easement.\n  (b) A, as the owner of a certain house, has the right to go on his neighbour B’s land, and to take water for the purposes of his household out of a spring therein. This is an easement.\n  (c) A, as the owner of a certain house, has the right to conduct water from B’s stream to supply the fountains in the garden attached to the house. This is an easement.\n  (d) A, as the owner of a certain house and farm, has the right to graze a certain number of his own cattle on B’s field, or to take, for the purpose of being used in the house, by himself, his family, guests, lodgers and servants, water or fish out of C’s tank, or timber out of D’s wood, or to use, for the purpose of manuring his land, the leaves which have fallen from the trees on E’s land. These are easements.\n  (e) A dedicates to the public the right to occupy the surface of certain land for the purpose of passing and re-passing. This right is not an easement.\n  (f) A is bound to cleanse a water course running through his land and keep it free from obstruction for the benefit of B, a lower riparian owner. This is not an easement.",
+    "metadata": {
+      "chunk_id": "easements_section_4_chunk_1",
+      "section_id": "easements_section_4",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Of Easements Generally",
+      "section_number": "4",
+      "section_title": "“Easement” defined."
+    }
+  }
+]

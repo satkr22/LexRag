@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-115.html",
+    "source_order": 120,
+    "article_order": 1,
+    "order": 120,
+    "stem": "section_115",
+    "heading_number": "Chapter XI",
+    "heading_title": "Of Acceptance and Payment for Honour and Reference in Case of Need",
+    "heading_range": "ss. 108–116",
+    "heading_source": "manifest",
+    "article_number": "115",
+    "article_title": "Drawee in case of need.",
+    "id": "negotiable-instruments_section_115"
+  },
+  "id": "negotiable-instruments_section_115",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Of Acceptance and Payment for Honour and Reference in Case of Need",
+    "range": "ss. 108–116"
+  },
+  "article": {
+    "number": "115",
+    "title": "Drawee in case of need.",
+    "content": "Where a drawee in case of need is named in a bill of exchange, or in any indorsement thereon, the bill is not dishonoured until it has been dishonoured by such drawee.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115</span>Drawee in case of need.</h3></div><p class=\"prov-cite\">Section 115  ·  Chapter XI  ·  page 24 of the Act</p><div class=\"prov-body\"><p>Where a drawee in case of need is named in a bill of exchange, or in any indorsement thereon, the bill is not dishonoured until it has been dishonoured by such drawee.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115</span>Drawee in case of need.</h3></div><p class=\"prov-cite\">Section 115  ·  Chapter XI  ·  page 24 of the Act</p><div class=\"prov-body\"><p>Where a drawee in case of need is named in a bill of exchange, or in any indorsement thereon, the bill is not dishonoured until it has been dishonoured by such drawee.</p></div>"
+  }
+}

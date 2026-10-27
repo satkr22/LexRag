@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_260B_chunk_0",
+    "section_id": "income-tax-1961_section_260B",
+    "token_count": 170,
+    "text": "[Act: income-tax-1961\n Chapter: Appeals and Revision\n Section: 260B::Case before High Court to be heard by not less than two Judges.\n]\n\n\n(1) When an appeal has been filed before the High Court under section 260A, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided in accordance with the opinion of such Judges or of the majority, if any, of such Judges.\n(2) Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_260B_chunk_0",
+      "section_id": "income-tax-1961_section_260B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX",
+      "chapter_title": "Appeals and Revision",
+      "section_number": "260B",
+      "section_title": "Case before High Court to be heard by not less than two Judges."
+    }
+  }
+]

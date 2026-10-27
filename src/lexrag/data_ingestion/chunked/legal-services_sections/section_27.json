@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "legal-services_section_27_chunk_0",
+    "section_id": "legal-services_section_27",
+    "token_count": 500,
+    "text": "[Act: legal-services\n Chapter: Miscellaneous\n Section: 27::1 [Power of Central Government to make rules.\n]\n\n\n(1) The Central Government in consultation with the Chief Justice of India may, by notification, make rules to carry out the provisions of this Act.\n  (2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—\n  (a) the number, experience and qualifications of other members of the Central Authority under clause (c) of sub-section(2) of section 3 ;\n  (b) the experience and qualifications of the Member-Secretary of the Central Authority and his powers and functions under sub-section(3) of section 3 ;\n  (c) the terms of office and other conditions relating thereto, of members and Member-Secretary of the Central Authority under sub-section(4) of section 3;\n  (d) the number of officers and other employees of the Central Authority under sub-section(5) of section 3 ;\n  (e) the conditions of service and the salary and allowances of officers and other employees of the Central Authority under sub-section(6) of section 3 ;\n  (f) the number, experience and qualifications of members of the Supreme Court Legal Services Committee under clause (b) of sub-section(2) of section 3A;\n  (g) the experience and qualifications of Secretary of the Supreme Court Legal Services Committee under sub-section(3) of section3A;\n  (h) the number of officers and other employees of the Supreme Court Legal Services Committee under sub-section(5) of section 3A and the conditions of service and the salary and allowances payable to them under sub-section(6) of that section;\n  (i) the upper limit of annual income of a person entitling him to legal services under clause (h) of section 12 , if the case is before the Supreme Court;\n  (j) the manner in which the accounts of the Central Authority, the State Authority or the District Authority shall be maintained under section 18 ;\n  (k) the experience and qualifications of other persons of the LokAdalatsorganised by the Supreme Court Legal Services Committee specified in sub-section(3) of section 19 ;\n  (l) other matters under clause (e) of sub-section(1) of section 22 ;",
+    "metadata": {
+      "chunk_id": "legal-services_section_27_chunk_0",
+      "section_id": "legal-services_section_27",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "legal-services",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "27",
+      "section_title": "1 [Power of Central Government to make rules."
+    }
+  },
+  {
+    "chunk_id": "legal-services_section_27_chunk_1",
+    "section_id": "legal-services_section_27",
+    "token_count": 106,
+    "text": "[Act: legal-services\n Chapter: Miscellaneous\n Section: 27::1 [Power of Central Government to make rules.\n]\n\n\n(1) The Central Government in consultation with the Chief Justice of India may, by notification, make rules to carry out the provisions of this Act.\n  1 [(la) the other terms and conditions of appointment of the Chairman and other persons under sub-section (2) of section 22B;]\n  (m) any other matter which is to be, or may be, prescribed.",
+    "metadata": {
+      "chunk_id": "legal-services_section_27_chunk_1",
+      "section_id": "legal-services_section_27",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "legal-services",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "27",
+      "section_title": "1 [Power of Central Government to make rules."
+    }
+  }
+]

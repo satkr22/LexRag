@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-04.html",
+    "source_order": 4,
+    "article_order": 18,
+    "order": 60,
+    "stem": "section_49",
+    "heading_number": "Part IV",
+    "heading_title": "Directive Principles of State Policy",
+    "heading_range": "36 – 51",
+    "heading_source": "group-head",
+    "article_number": "49",
+    "article_title": "Protection of monuments and places and objects of national importance",
+    "id": "constitution_section_49"
+  },
+  "id": "constitution_section_49",
+  "heading": {
+    "number": "Part IV",
+    "title": "Directive Principles of State Policy",
+    "range": "36 – 51"
+  },
+  "article": {
+    "number": "49",
+    "title": "Protection of monuments and places and objects of national importance",
+    "content": "It shall be the obligation of the State to protect every monument or place or object of artistic or historic interest, 1[declared by or under law made by Parliament] to be of national importance, from spoliation, disfigurement, destruction, removal, disposal or export, as the case may be.\n",
+    "html": "<article class=\"provision\" data-n=\"49\" data-report=\"Article 49 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">49</span>Protection of monuments and places and objects of national importance</h3></div><p class=\"prov-cite\">Article 49 · Part IV</p><div class=\"prov-body\"><p>It shall be the obligation of the State to protect every monument or place or object of artistic or historic interest, <sup>1</sup>[declared by or under law made by Parliament] to be of national importance, from spoliation, disfigurement, destruction, removal, disposal or export, as the case may be.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 27, for \"declared by Parliament by law\" (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">49</span>Protection of monuments and places and objects of national importance</h3></div><p class=\"prov-cite\">Article 49 · Part IV</p><div class=\"prov-body\"><p>It shall be the obligation of the State to protect every monument or place or object of artistic or historic interest, <sup>1</sup>[declared by or under law made by Parliament] to be of national importance, from spoliation, disfigurement, destruction, removal, disposal or export, as the case may be.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 27, for \"declared by Parliament by law\" (w.e.f. 1-11-1956).</p></div>"
+  }
+}

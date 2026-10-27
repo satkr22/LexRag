@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_150_chunk_0",
+    "section_id": "contract_section_150",
+    "token_count": 224,
+    "text": "[Act: contract\n Chapter: Of Bailment\n Section: 150::Bailor’s duty to disclose faults in goods bailed.\n]\n\n\nThe bailor is bound to disclose to the bailee faults in the goods bailed, of which the bailor is aware, and which materially interfere with the use of them, or expose the bailee to extraordinary risks; and if he does not make such disclosure, he is responsible for damage arising to the bailee directly from such faults.\nIf the goods are bailed for hire, the bailor is responsible for such damage, whether he was or was not aware of the existence of such faults in the goods bailed.\nIllustrations\n(a)A lends a horse, which he knows to be vicious, to B. He does not disclose the fact that the horse is vicious. The horse runs away. B is thrown and injured. A is responsible to B for damage sustained.\n(b)A hires a carriage of B. The carriage is unsafe, though B is not aware of it, and A is injured. B is responsible to A for the injury.",
+    "metadata": {
+      "chunk_id": "contract_section_150_chunk_0",
+      "section_id": "contract_section_150",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Of Bailment",
+      "section_number": "150",
+      "section_title": "Bailor’s duty to disclose faults in goods bailed."
+    }
+  }
+]

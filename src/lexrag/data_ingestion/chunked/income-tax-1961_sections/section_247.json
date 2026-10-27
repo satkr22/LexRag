@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_247_chunk_0",
+    "section_id": "income-tax-1961_section_247",
+    "token_count": 26,
+    "text": "[Act: income-tax-1961\n Chapter: Appeals and Revision\n Section: 247::Appeal by partner.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_247_chunk_0",
+      "section_id": "income-tax-1961_section_247",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX",
+      "chapter_title": "Appeals and Revision",
+      "section_number": "247",
+      "section_title": "Appeal by partner."
+    }
+  }
+]

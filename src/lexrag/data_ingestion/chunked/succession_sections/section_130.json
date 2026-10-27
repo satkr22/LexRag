@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_130_chunk_0",
+    "section_id": "succession_section_130",
+    "token_count": 148,
+    "text": "[Act: succession\n Chapter: Of Conditional Bequests\n Section: 130::When second bequest not to take effect on failure of first.\n]\n\n\nWhere the will shows an intention that the second bequest shall take effect only in the event of the first bequest failing in a particular manner, the second bequest shall not take effect, unless the prior bequest fails in that particular manner.\nIllustration\nA makes a bequest to his wife, but in case she should die in his lifetime, bequeaths to B that which he had bequeathed to her. A and his wife perish together, under circumstances which make it impossible to prove that she died before him, the bequest to B does not take effect.",
+    "metadata": {
+      "chunk_id": "succession_section_130_chunk_0",
+      "section_id": "succession_section_130",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter XI",
+      "chapter_title": "Of Conditional Bequests",
+      "section_number": "130",
+      "section_title": "When second bequest not to take effect on failure of first."
+    }
+  }
+]

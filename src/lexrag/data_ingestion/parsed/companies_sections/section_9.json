@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-02.html",
+    "source_order": 2,
+    "article_order": 8,
+    "order": 10,
+    "stem": "section_9",
+    "heading_number": "Chapter II",
+    "heading_title": "Incorporation of Company and Matters Incidental Thereto",
+    "heading_range": "ss. 3–22",
+    "heading_source": "group-head",
+    "article_number": "9",
+    "article_title": "Effect of registration.",
+    "id": "companies_section_9"
+  },
+  "id": "companies_section_9",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Incorporation of Company and Matters Incidental Thereto",
+    "range": "ss. 3–22"
+  },
+  "article": {
+    "number": "9",
+    "title": "Effect of registration.",
+    "content": "From the date of incorporation mentioned in the certificate of incorporation, such subscribers to the memorandum and all other persons, as may, from time to time, become members of the company, shall be a body corporate by the name contained in the memorandum, capable of exercising all the functions of an incorporated company under this Act and having perpetual succession 1*** with power to acquire, hold and dispose of property, both movable and immovable, tangible and intangible, to contract and to sue and be sued, by the said name.\n",
+    "html": "<article class=\"provision\" data-n=\"9\" data-report=\"Section 9 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Effect of registration.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  pages 32–33 of the Act</p><div class=\"prov-body\"><p>From the date of incorporation mentioned in the certificate of incorporation, such subscribers to the memorandum and all other persons, as may, from time to time, become members of the company, shall be a body corporate by the name contained in the memorandum, capable of exercising all the functions of an incorporated company under this Act and having perpetual succession <sup>1</sup>*** with power to acquire, hold and dispose of property, both movable and immovable, tangible and intangible, to contract and to sue and be sued, by the said name.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> The words “and a common seal” omitted by Act 21 of 2015, s. 3 (w.e.f. 29-5-2015).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Effect of registration.</h3></div><p class=\"prov-cite\">Section 9  ·  Chapter II  ·  pages 32–33 of the Act</p><div class=\"prov-body\"><p>From the date of incorporation mentioned in the certificate of incorporation, such subscribers to the memorandum and all other persons, as may, from time to time, become members of the company, shall be a body corporate by the name contained in the memorandum, capable of exercising all the functions of an incorporated company under this Act and having perpetual succession <sup>1</sup>*** with power to acquire, hold and dispose of property, both movable and immovable, tangible and intangible, to contract and to sue and be sued, by the said name.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> The words “and a common seal” omitted by Act 21 of 2015, s. 3 (w.e.f. 29-5-2015).</p></div></div>"
+  }
+}

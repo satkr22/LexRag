@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-25.html",
+    "source_order": 25,
+    "article_order": 21,
+    "order": 487,
+    "stem": "section_378",
+    "heading_number": "Part XXI",
+    "heading_title": "Temporary, Transitional and Special Provisions",
+    "heading_range": "369 – 392",
+    "heading_source": "group-head",
+    "article_number": "378",
+    "article_title": "Provisions as to Public Service Commissions",
+    "id": "constitution_section_378"
+  },
+  "id": "constitution_section_378",
+  "heading": {
+    "number": "Part XXI",
+    "title": "Temporary, Transitional and Special Provisions",
+    "range": "369 – 392"
+  },
+  "article": {
+    "number": "378",
+    "title": "Provisions as to Public Service Commissions",
+    "content": "(1)The members of the Public Service Commission for the Dominion of India holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the Union and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.\n(2)The Members of a Public Service Commission of a Province or of a Public Service Commission serving the needs of a group of Provinces holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the corresponding State or the members of the Joint State Public Service Commission serving the needs of the corresponding States, as the case may be, and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.\n",
+    "html": "<article class=\"provision\" data-n=\"378\" data-report=\"Article 378 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">378</span>Provisions as to Public Service Commissions</h3></div><p class=\"prov-cite\">Article 378 · Part XXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The members of the Public Service Commission for the Dominion of India holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the Union and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.</p><p><span class=\"lbl\">(2)</span>The Members of a Public Service Commission of a Province or of a Public Service Commission serving the needs of a group of Provinces holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the corresponding State or the members of the Joint State Public Service Commission serving the needs of the corresponding States, as the case may be, and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">378</span>Provisions as to Public Service Commissions</h3></div><p class=\"prov-cite\">Article 378 · Part XXI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The members of the Public Service Commission for the Dominion of India holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the Union and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.</p><p><span class=\"lbl\">(2)</span>The Members of a Public Service Commission of a Province or of a Public Service Commission serving the needs of a group of Provinces holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the corresponding State or the members of the Joint State Public Service Commission serving the needs of the corresponding States, as the case may be, and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.</p></div>"
+  }
+}

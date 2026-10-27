@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_205_chunk_0",
+    "section_id": "motor-vehicles_section_205",
+    "token_count": 150,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 205::Presumption of unfitness to drive.\n]\n\n\nIn any proceeding for an offence punishable under section 185 if it is proved that the accused, when requested by a police officer at any time so to do, had refused, omitted or failed to consent to the taking of or providing a specimen of his breath for a breath test or a specimen of his blood for a laboratory test, his refusal, omission or failure may, unless reasonable cause therefor is shown, be presumed to be a circumstance supporting any evidence given on behalf of the prosecution, or rebutting any evidence given on behalf of the defence, with respect to his condition at that time.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_205_chunk_0",
+      "section_id": "motor-vehicles_section_205",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "205",
+      "section_title": "Presumption of unfitness to drive."
+    }
+  }
+]

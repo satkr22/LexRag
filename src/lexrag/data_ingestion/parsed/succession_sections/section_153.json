@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-23.html",
+    "source_order": 23,
+    "article_order": 2,
+    "order": 153,
+    "stem": "section_153",
+    "heading_number": "Part VI · Chapter XVI",
+    "heading_title": "Of Ademption of Legacies",
+    "heading_range": "ss. 152–166",
+    "heading_source": "group-head",
+    "article_number": "153",
+    "article_title": "Non-ademption of demonstrative legacy.",
+    "id": "succession_section_153"
+  },
+  "id": "succession_section_153",
+  "heading": {
+    "number": "Part VI · Chapter XVI",
+    "title": "Of Ademption of Legacies",
+    "range": "ss. 152–166"
+  },
+  "article": {
+    "number": "153",
+    "title": "Non-ademption of demonstrative legacy.",
+    "content": "A demonstrative legacy is not adeemed by reason that the property on which it is charged by the will does not exist at the time of the death of the testator, or has been converted into property of a different kind, but it shall in such case be paid out of the general assets of the testator.\n",
+    "html": "<article class=\"provision\" data-n=\"153\" data-report=\"Section 153 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153</span>Non-ademption of demonstrative legacy.</h3></div><p class=\"prov-cite\">Section 153  ·  Part VI · Chapter XVI  ·  page 56 of the Act</p><div class=\"prov-body\"><p>A demonstrative legacy is not adeemed by reason that the property on which it is charged by the will does not exist at the time of the death of the testator, or has been converted into property of a different kind, but it shall in such case be paid out of the general assets of the testator.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153</span>Non-ademption of demonstrative legacy.</h3></div><p class=\"prov-cite\">Section 153  ·  Part VI · Chapter XVI  ·  page 56 of the Act</p><div class=\"prov-body\"><p>A demonstrative legacy is not adeemed by reason that the property on which it is charged by the will does not exist at the time of the death of the testator, or has been converted into property of a different kind, but it shall in such case be paid out of the general assets of the testator.</p></div>"
+  }
+}

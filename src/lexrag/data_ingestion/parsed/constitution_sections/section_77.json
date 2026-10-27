@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 26,
+    "order": 89,
+    "stem": "section_77",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "77",
+    "article_title": "Conduct of business of the Government of India",
+    "id": "constitution_section_77"
+  },
+  "id": "constitution_section_77",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "77",
+    "title": "Conduct of business of the Government of India",
+    "content": "(1)All executive action of the Government of India shall be expressed to be taken in the name of the President.\n(2)Orders and other instruments made and executed in the name of the President shall be authenticated in such manner as may be specified in rules1 to be made by the President, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.\n(3)The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business.\n(4)2* * * *\n",
+    "html": "<article class=\"provision\" data-n=\"77\" data-report=\"Article 77 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">77</span>Conduct of business of the Government of India</h3></div><p class=\"prov-cite\">Article 77 · Part V · Conduct of Government Business</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>All executive action of the Government of India shall be expressed to be taken in the name of the President.</p><p><span class=\"lbl\">(2)</span>Orders and other instruments made and executed in the name of the President shall be authenticated in such manner as may be specified in rules1 to be made by the President, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.</p><p><span class=\"lbl\">(3)</span>The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business.</p><p><span class=\"lbl\">(4)</span><sup>2</sup>* * * *</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> See notifin No. S.O. 2297, dated the 3rd November, 1958, Gazette of India, Extraordinary, Pt. II, Sec. 3 (ii), p. 1315, as amended from time to time.</p><p class=\"fn\"><sup>2</sup> Cl. (4) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s.14 (w.e.f. 3-1-1977) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 12 (w.e.f. 20-6-1979).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">77</span>Conduct of business of the Government of India</h3></div><p class=\"prov-cite\">Article 77 · Part V · Conduct of Government Business</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>All executive action of the Government of India shall be expressed to be taken in the name of the President.</p><p><span class=\"lbl\">(2)</span>Orders and other instruments made and executed in the name of the President shall be authenticated in such manner as may be specified in rules1 to be made by the President, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.</p><p><span class=\"lbl\">(3)</span>The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business.</p><p><span class=\"lbl\">(4)</span><sup>2</sup>* * * *</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> See notifin No. S.O. 2297, dated the 3rd November, 1958, Gazette of India, Extraordinary, Pt. II, Sec. 3 (ii), p. 1315, as amended from time to time.</p><p class=\"fn\"><sup>2</sup> Cl. (4) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s.14 (w.e.f. 3-1-1977) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 12 (w.e.f. 20-6-1979).</p></div>"
+  }
+}

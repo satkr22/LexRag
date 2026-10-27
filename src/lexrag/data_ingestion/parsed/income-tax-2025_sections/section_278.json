@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-16.html",
+    "source_order": 17,
+    "article_order": 11,
+    "order": 278,
+    "stem": "section_278",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Procedure for Assessment",
+    "heading_range": "ss. 268–301",
+    "heading_source": "group-head",
+    "article_number": "278",
+    "article_title": "Taxability of certain income.",
+    "id": "income-tax-2025_section_278"
+  },
+  "id": "income-tax-2025_section_278",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Procedure for Assessment",
+    "range": "ss. 268–301"
+  },
+  "article": {
+    "number": "278",
+    "title": "Taxability of certain income.",
+    "content": "(1) Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.\n(2) Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.\n(3) The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.\n",
+    "html": "<article class=\"provision\" data-n=\"278\" data-report=\"Section 278 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">278</span>Taxability of certain income.</h3></div><p class=\"prov-cite\">Section 278  ·  Chapter XVI  ·  A.—Procedure for assessment  ·  page 339 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.</p><p class=\"lvl\">(2) Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.</p><p class=\"lvl\">(3) The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">278</span>Taxability of certain income.</h3></div><p class=\"prov-cite\">Section 278  ·  Chapter XVI  ·  A.—Procedure for assessment  ·  page 339 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.</p><p class=\"lvl\">(2) Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.</p><p class=\"lvl\">(3) The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.</p></div>"
+  }
+}

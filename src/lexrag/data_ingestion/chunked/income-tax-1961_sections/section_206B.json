@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_206B_chunk_0",
+    "section_id": "income-tax-1961_section_206B",
+    "token_count": 39,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 206B::Person paying dividend to certain residents without deduction of tax to furnish prescribed return.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_206B_chunk_0",
+      "section_id": "income-tax-1961_section_206B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "206B",
+      "section_title": "Person paying dividend to certain residents without deduction of tax to furnish prescribed return."
+    }
+  }
+]

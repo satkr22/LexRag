@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 74,
+    "order": 137,
+    "stem": "section_124A",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "124A",
+    "article_title": "National Judicial Appointments Commission",
+    "id": "constitution_section_124A"
+  },
+  "id": "constitution_section_124A",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "124A",
+    "title": "National Judicial Appointments Commission",
+    "content": "(1)There shall be a Commission to be known as the National Judicial Appointments Commission consisting of the following, namely:—\n(a)the Chief Justice of India, Chairperson, ex officio;\n(b)two other senior Judges of the Supreme Court next to the Chief Justice of India––Members, ex officio;\n(c)the Union Minister in charge of Law and Justice––Member, ex officio;\n(d)two eminent persons to be nominated by the committee consisting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of Opposition, then, the Leader of single largest Opposition Party in the House of the People––Members:\nProvisoProvided that one of the eminent person shall be nominated from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities or Women:\nSecond provisoProvided further that an eminent person shall be nominated for a period of three years and shall not be eligible for renomination.\n(2)No act or proceedings of the National Judicial Appointments Commission shall be questioned or be invalidated merely on the ground of the existence of any vacancy or defect in the constitution of the Commission.\n",
+    "html": "<article class=\"provision\" data-n=\"124A\" data-report=\"Article 124A · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124A</span>National Judicial Appointments Commission</h3></div><p class=\"prov-cite\">Article 124A · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be a Commission to be known as the National Judicial Appointments Commission consisting of the following, namely:—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the Chief Justice of India, Chairperson, ex officio;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>two other senior Judges of the Supreme Court next to the Chief Justice of India––Members, ex officio;</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>the Union Minister in charge of Law and Justice––Member, ex officio;</p><p class=\"lvl\"><span class=\"lbl\">(d)</span>two eminent persons to be nominated by the committee consisting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of Opposition, then, the Leader of single largest Opposition Party in the House of the People––Members:</p><p class=\"lvl2\"><span class=\"named\">Proviso</span>Provided that one of the eminent person shall be nominated from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities or Women:</p><p class=\"lvl2\"><span class=\"named\">Second proviso</span>Provided further that an eminent person shall be nominated for a period of three years and shall not be eligible for renomination.</p><p><span class=\"lbl\">(2)</span>No act or proceedings of the National Judicial Appointments Commission shall be questioned or be invalidated merely on the ground of the existence of any vacancy or defect in the constitution of the Commission.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 3 (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court in the case of Supreme Court Advocates-on-Record Association and another Vs Union of India in its judgment dated 16-10-2015, AIR 2016 SC 117.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124A</span>National Judicial Appointments Commission</h3></div><p class=\"prov-cite\">Article 124A · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be a Commission to be known as the National Judicial Appointments Commission consisting of the following, namely:—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the Chief Justice of India, Chairperson, ex officio;</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>two other senior Judges of the Supreme Court next to the Chief Justice of India––Members, ex officio;</p><p class=\"lvl\"><span class=\"lbl\">(c)</span>the Union Minister in charge of Law and Justice––Member, ex officio;</p><p class=\"lvl\"><span class=\"lbl\">(d)</span>two eminent persons to be nominated by the committee consisting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of Opposition, then, the Leader of single largest Opposition Party in the House of the People––Members:</p><p class=\"lvl2\"><span class=\"named\">Proviso</span>Provided that one of the eminent person shall be nominated from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities or Women:</p><p class=\"lvl2\"><span class=\"named\">Second proviso</span>Provided further that an eminent person shall be nominated for a period of three years and shall not be eligible for renomination.</p><p><span class=\"lbl\">(2)</span>No act or proceedings of the National Judicial Appointments Commission shall be questioned or be invalidated merely on the ground of the existence of any vacancy or defect in the constitution of the Commission.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 3 (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court in the case of Supreme Court Advocates-on-Record Association and another Vs Union of India in its judgment dated 16-10-2015, AIR 2016 SC 117.</p></div>"
+  }
+}

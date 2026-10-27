@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_271BA_chunk_0",
+    "section_id": "income-tax-1961_section_271BA",
+    "token_count": 81,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 271BA::Penalty for failure to furnish report under section 92E.\n]\n\n\nIf any person fails to furnish a report from an accountant as required by section 92E, the Assessing Officer may direct that such person shall pay, by way of penalty, a sum of one hundred thousand rupees.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_271BA_chunk_0",
+      "section_id": "income-tax-1961_section_271BA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "271BA",
+      "section_title": "Penalty for failure to furnish report under section 92E."
+    }
+  }
+]

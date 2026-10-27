@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-34.html",
+    "source_order": 34,
+    "article_order": 10,
+    "order": 437,
+    "stem": "section_O18R9",
+    "heading_number": "Order XVIII",
+    "heading_title": "Hearing of the suit and examination of witnesses",
+    "heading_range": "21 rules",
+    "heading_source": "group-head",
+    "article_number": "O18R9",
+    "article_title": "When evidence may be taken in English.",
+    "id": "cpc_section_O18R9"
+  },
+  "id": "cpc_section_O18R9",
+  "heading": {
+    "number": "Order XVIII",
+    "title": "Hearing of the suit and examination of witnesses",
+    "range": "21 rules"
+  },
+  "article": {
+    "number": "O18R9",
+    "title": "When evidence may be taken in English.",
+    "content": "(1) Where English is not the language of the Court, but all the parties to the suit who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence as is given in English, being taken down in English, the judge may so take it down or cause it to be taken down.\n(2) Where evidence is not given in English but all the parties who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence being taken down in English, the Judge may take down, or cause to be taken down, such evidence in English.]\n",
+    "html": "<article class=\"provision\" data-n=\"O18R9\" data-report=\"Order 18, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>When evidence may be taken in English.</h3></div><p class=\"prov-cite\">Order 18, Rule 9</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where English is not the language of the Court, but all the parties to the suit who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence as is given in English, being taken down in English, the judge may so take it down or cause it to be taken down.</p><p class=\"lvl\">(2) Where evidence is not given in English but all the parties who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence being taken down in English, the Judge may take down, or cause to be taken down, such evidence in English.]</p></div><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 69 for rule 9 (w.e.f. 1-2-1977).</p><p class=\"fn loose\">The provisions of rules 6, 7, 8, 9, so far as they relate to the manner of taking evidence, are not applicable to the Chief Court of Oudh, see, s. 16 (2), ibid.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>When evidence may be taken in English.</h3></div><p class=\"prov-cite\">Order 18, Rule 9</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where English is not the language of the Court, but all the parties to the suit who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence as is given in English, being taken down in English, the judge may so take it down or cause it to be taken down.</p><p class=\"lvl\">(2) Where evidence is not given in English but all the parties who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence being taken down in English, the Judge may take down, or cause to be taken down, such evidence in English.]</p></div><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 69 for rule 9 (w.e.f. 1-2-1977).</p><p class=\"fn loose\">The provisions of rules 6, 7, 8, 9, so far as they relate to the manner of taking evidence, are not applicable to the Chief Court of Oudh, see, s. 16 (2), ibid.</p></div>"
+  }
+}

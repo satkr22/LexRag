@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-2.html",
+    "source_order": 3,
+    "article_order": 1,
+    "order": 3,
+    "stem": "section_2",
+    "heading_number": "Chapter I",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–3",
+    "heading_source": "manifest",
+    "article_number": "2",
+    "article_title": "Repeal of enactments",
+    "id": "negotiable-instruments_section_2"
+  },
+  "id": "negotiable-instruments_section_2",
+  "heading": {
+    "number": "Chapter I",
+    "title": "Preliminary",
+    "range": "ss. 1–3"
+  },
+  "article": {
+    "number": "2",
+    "title": "Repeal of enactments",
+    "content": "",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Repeal of enactments</h3></div><p class=\"repnote\">Rep. by the Repealing and Amending Act, 1891(12 of 1891), s. 2 and the Schedule I.</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">2</span>Repeal of enactments</h3></div><p class=\"repnote\">Rep. by the Repealing and Amending Act, 1891(12 of 1891), s. 2 and the Schedule I.</p>"
+  }
+}

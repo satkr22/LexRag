@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-29.html",
+    "source_order": 29,
+    "article_order": 11,
+    "order": 497,
+    "stem": "section_445",
+    "heading_number": "Chapter XXVIII",
+    "heading_title": "Special Courts",
+    "heading_range": "ss. 435–446B",
+    "heading_source": "group-head",
+    "article_number": "445",
+    "article_title": "Compensation for accusation without reasonable cause.",
+    "id": "companies_section_445"
+  },
+  "id": "companies_section_445",
+  "heading": {
+    "number": "Chapter XXVIII",
+    "title": "Special Courts",
+    "range": "ss. 435–446B"
+  },
+  "article": {
+    "number": "445",
+    "title": "Compensation for accusation without reasonable cause.",
+    "content": "The provisions of section 250 of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply mutatis mutandis to compensation for accusation without reasonable cause before the Special Court or the Court of Session.\n",
+    "html": "<article class=\"provision\" data-n=\"445\" data-report=\"Section 445 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">445</span>Compensation for accusation without reasonable cause.</h3></div><p class=\"prov-cite\">Section 445  ·  Chapter XXVIII  ·  page 243 of the Act</p><div class=\"prov-body\"><p>The provisions of section 250 of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply mutatis mutandis to compensation for accusation without reasonable cause before the Special Court or the Court of Session.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">445</span>Compensation for accusation without reasonable cause.</h3></div><p class=\"prov-cite\">Section 445  ·  Chapter XXVIII  ·  page 243 of the Act</p><div class=\"prov-body\"><p>The provisions of section 250 of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply mutatis mutandis to compensation for accusation without reasonable cause before the Special Court or the Court of Session.</p></div>"
+  }
+}

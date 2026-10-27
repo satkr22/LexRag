@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-04.html",
+    "source_order": 4,
+    "article_order": 2,
+    "order": 24,
+    "stem": "section_24",
+    "heading_number": "Part IV",
+    "heading_title": "Of Consanguinity",
+    "heading_range": "ss. 23–28",
+    "heading_source": "group-head",
+    "article_number": "24",
+    "article_title": "Kindred or consanguinity.",
+    "id": "succession_section_24"
+  },
+  "id": "succession_section_24",
+  "heading": {
+    "number": "Part IV",
+    "title": "Of Consanguinity",
+    "range": "ss. 23–28"
+  },
+  "article": {
+    "number": "24",
+    "title": "Kindred or consanguinity.",
+    "content": "Kindred or consanguinity is the connection or relation of persons descended from the same stock or common ancestor.\n",
+    "html": "<article class=\"provision\" data-n=\"24\" data-report=\"Section 24 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Kindred or consanguinity.</h3></div><p class=\"prov-cite\">Section 24  ·  Part IV  ·  page 20 of the Act</p><div class=\"prov-body\"><p>Kindred or consanguinity is the connection or relation of persons descended from the same stock or common ancestor.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Kindred or consanguinity.</h3></div><p class=\"prov-cite\">Section 24  ·  Part IV  ·  page 20 of the Act</p><div class=\"prov-body\"><p>Kindred or consanguinity is the connection or relation of persons descended from the same stock or common ancestor.</p></div>"
+  }
+}

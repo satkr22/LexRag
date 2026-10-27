@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-28.html",
+    "source_order": 28,
+    "article_order": 8,
+    "order": 465,
+    "stem": "section_414",
+    "heading_number": "Chapter XXVII",
+    "heading_title": "National Company Law Tribunal and Appellate Tribunal",
+    "heading_range": "ss. 407–434",
+    "heading_source": "group-head",
+    "article_number": "414",
+    "article_title": "Salary, allowances and other terms and conditions of service of Members.",
+    "id": "companies_section_414"
+  },
+  "id": "companies_section_414",
+  "heading": {
+    "number": "Chapter XXVII",
+    "title": "National Company Law Tribunal and Appellate Tribunal",
+    "range": "ss. 407–434"
+  },
+  "article": {
+    "number": "414",
+    "title": "Salary, allowances and other terms and conditions of service of Members.",
+    "content": "The salary, allowances and other terms and conditions of service of the Members of the Tribunal and the Appellate Tribunal shall be such as may be prescribed:\nProvided that neither the salary and allowances nor the other terms and conditions of service of the Members shall be varied to their disadvantage after their appointment.\n",
+    "html": "<article class=\"provision\" data-n=\"414\" data-report=\"Section 414 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">414</span>Salary, allowances and other terms and conditions of service of Members.</h3></div><p class=\"prov-cite\">Section 414  ·  Chapter XXVII  ·  page 234 of the Act</p><div class=\"prov-body\"><p>The salary, allowances and other terms and conditions of service of the Members of the Tribunal and the Appellate Tribunal shall be such as may be prescribed:</p><p class=\"prvso\">Provided that neither the salary and allowances nor the other terms and conditions of service of the Members shall be varied to their disadvantage after their appointment.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">414</span>Salary, allowances and other terms and conditions of service of Members.</h3></div><p class=\"prov-cite\">Section 414  ·  Chapter XXVII  ·  page 234 of the Act</p><div class=\"prov-body\"><p>The salary, allowances and other terms and conditions of service of the Members of the Tribunal and the Appellate Tribunal shall be such as may be prescribed:</p><p class=\"prvso\">Provided that neither the salary and allowances nor the other terms and conditions of service of the Members shall be varied to their disadvantage after their appointment.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "gst",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Central Goods and Services Tax Act, 2017",
+    "source_file": "gst_sections/gst-06.html",
+    "source_order": 6,
+    "article_order": 2,
+    "order": 24,
+    "stem": "section_23",
+    "heading_number": "Chapter VI",
+    "heading_title": "Registration",
+    "heading_range": "ss. 22–30",
+    "heading_source": "group-head",
+    "article_number": "23",
+    "article_title": "Persons not liable for registration.",
+    "id": "gst_section_23"
+  },
+  "id": "gst_section_23",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Registration",
+    "range": "ss. 22–30"
+  },
+  "article": {
+    "number": "23",
+    "title": "Persons not liable for registration.",
+    "content": "(1) The following persons shall not be liable to registration, namely:––\n(a) any person engaged exclusively in the business of supplying goods or services or both that are not liable to tax or wholly exempt from tax under this Act or under the Integrated Goods and Services Tax Act;\n(b) an agriculturist, to the extent of supply of produce out of cultivation of land.\n3[(2) Notwithstanding anything to the contrary contained in sub-section (1) of section 22 or section 24, the Government may, on the recommendations of the Council, by notification, subject to such conditions and restrictions as may be specified therein, specify the category of persons who may be exempted from obtaining registration under this Act.]\n",
+    "html": "<article class=\"provision\" data-n=\"23\" data-report=\"Section 23 · The Central Goods and Services Tax Act, 2017\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Persons not liable for registration.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter VI  ·  page 37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The following persons shall not be liable to registration, namely:––</p><p class=\"lvl\">(a) any person engaged exclusively in the business of supplying goods or services or both that are not liable to tax or wholly exempt from tax under this Act or under the Integrated Goods and Services Tax Act;</p><p class=\"lvl\">(b) an agriculturist, to the extent of supply of produce out of cultivation of land.</p><p class=\"lvl\"><sup>3</sup>[(2) Notwithstanding anything to the contrary contained in sub-section (1) of section 22 or section 24, the Government may, on the recommendations of the Council, by notification, subject to such conditions and restrictions as may be specified therein, specify the category of persons who may be exempted from obtaining registration under this Act.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by Act 8 of 2023, s. 140, for sub-section (2) (w.e.f. 1-7-2017).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Persons not liable for registration.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter VI  ·  page 37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The following persons shall not be liable to registration, namely:––</p><p class=\"lvl\">(a) any person engaged exclusively in the business of supplying goods or services or both that are not liable to tax or wholly exempt from tax under this Act or under the Integrated Goods and Services Tax Act;</p><p class=\"lvl\">(b) an agriculturist, to the extent of supply of produce out of cultivation of land.</p><p class=\"lvl\"><sup>3</sup>[(2) Notwithstanding anything to the contrary contained in sub-section (1) of section 22 or section 24, the Government may, on the recommendations of the Council, by notification, subject to such conditions and restrictions as may be specified therein, specify the category of persons who may be exempted from obtaining registration under this Act.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by Act 8 of 2023, s. 140, for sub-section (2) (w.e.f. 1-7-2017).</p></div></div>"
+  }
+}

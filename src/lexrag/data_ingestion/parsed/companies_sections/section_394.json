@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-24.html",
+    "source_order": 24,
+    "article_order": 1,
+    "order": 445,
+    "stem": "section_394",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Government Companies",
+    "heading_range": "ss. 394–395",
+    "heading_source": "group-head",
+    "article_number": "394",
+    "article_title": "Annual reports on Government companies.",
+    "id": "companies_section_394"
+  },
+  "id": "companies_section_394",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Government Companies",
+    "range": "ss. 394–395"
+  },
+  "article": {
+    "number": "394",
+    "title": "Annual reports on Government companies.",
+    "content": "(1) Where the Central Government is a member of a Government company, the Central Government shall cause an annual report on the working and affairs of that company to be—\n(a) prepared within three months of its annual general meeting before which the comments given by the Comptroller and Auditor-General of India and the audit report is placed under the proviso to sub-section (6) of section 143; and\n(b) as soon as may be after such preparation, laid before both Houses of Parliament together with a copy of the audit report and comments upon or supplement to the audit report, made by the Comptroller and Auditor-General of India.\n(2) Where in addition to the Central Government, any State Government is also a member of a Government company, that State Government shall cause a copy of the annual report prepared under sub-section (1) to be laid before the House or both Houses of the State Legislature together with a copy of the audit report and the comments upon or supplement to the audit report referred to in sub-section (1).\n",
+    "html": "<article class=\"provision\" data-n=\"394\" data-report=\"Section 394 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">394</span>Annual reports on Government companies.</h3></div><p class=\"prov-cite\">Section 394  ·  Chapter XXIII  ·  page 227 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the Central Government is a member of a Government company, the Central Government shall cause an annual report on the working and affairs of that company to be—</p><p class=\"lvl\">(a) prepared within three months of its annual general meeting before which the comments given by the Comptroller and Auditor-General of India and the audit report is placed under the proviso to sub-section (6) of section 143; and</p><p class=\"lvl\">(b) as soon as may be after such preparation, laid before both Houses of Parliament together with a copy of the audit report and comments upon or supplement to the audit report, made by the Comptroller and Auditor-General of India.</p><p class=\"lvl\">(2) Where in addition to the Central Government, any State Government is also a member of a Government company, that State Government shall cause a copy of the annual report prepared under sub-section (1) to be laid before the House or both Houses of the State Legislature together with a copy of the audit report and the comments upon or supplement to the audit report referred to in sub-section (1).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">394</span>Annual reports on Government companies.</h3></div><p class=\"prov-cite\">Section 394  ·  Chapter XXIII  ·  page 227 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the Central Government is a member of a Government company, the Central Government shall cause an annual report on the working and affairs of that company to be—</p><p class=\"lvl\">(a) prepared within three months of its annual general meeting before which the comments given by the Comptroller and Auditor-General of India and the audit report is placed under the proviso to sub-section (6) of section 143; and</p><p class=\"lvl\">(b) as soon as may be after such preparation, laid before both Houses of Parliament together with a copy of the audit report and comments upon or supplement to the audit report, made by the Comptroller and Auditor-General of India.</p><p class=\"lvl\">(2) Where in addition to the Central Government, any State Government is also a member of a Government company, that State Government shall cause a copy of the annual report prepared under sub-section (1) to be laid before the House or both Houses of the State Legislature together with a copy of the audit report and the comments upon or supplement to the audit report referred to in sub-section (1).</p></div>"
+  }
+}

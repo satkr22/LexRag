@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_179_chunk_0",
+    "section_id": "income-tax-1961_section_179",
+    "token_count": 291,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 179::Liability of directors of private company.\n]\n\n\n(1) Notwithstanding anything contained in the Companies Act, 1956 (1 of 1956), where any tax due from a private company in respect of any income of any previous year or from any other company in respect of any income of any previous year during which such other company was a private company cannot be recovered, then, every person who was a director of the private company at any time during the relevant previous year shall be jointly and severally liable for the payment of such tax unless he proves that the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on his part in relation to the affairs of the company.\n(2) Where a private company is converted into a public company and the tax assessed in respect of any income of any previous year during which such company was a private company cannot be recovered, then, nothing contained in sub-section (1) shall apply to any person who was a director of such private company in relation to any tax due in respect of any income of such private company assessable for any assessment year commencing before the 1st day of April, 1962.\nExplanation.—For the purposes of this section, the expression \"tax due\" includes penalty, interest, fees or any other sum payable under the Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_179_chunk_0",
+      "section_id": "income-tax-1961_section_179",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "179",
+      "section_title": "Liability of directors of private company."
+    }
+  }
+]

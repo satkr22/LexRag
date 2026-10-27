@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 55,
+    "order": 118,
+    "stem": "section_106",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "106",
+    "article_title": "Salaries and allowances of members",
+    "id": "constitution_section_106"
+  },
+  "id": "constitution_section_106",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "106",
+    "title": "Salaries and allowances of members",
+    "content": "Members of either House of Parliament shall be entitled to receive such salaries and allowances as may from time to time be determined by Parliament by law and, until provision in that respect is so made, allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Constituent Assembly of the Dominion of India.\n",
+    "html": "<article class=\"provision\" data-n=\"106\" data-report=\"Article 106 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Salaries and allowances of members</h3></div><p class=\"prov-cite\">Article 106 · Part V · Powers, Privileges and Immunities of Parliament and its Members</p><div class=\"prov-body\"><p>Members of either House of Parliament shall be entitled to receive such salaries and allowances as may from time to time be determined by Parliament by law and, until provision in that respect is so made, allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Constituent Assembly of the Dominion of India.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Salaries and allowances of members</h3></div><p class=\"prov-cite\">Article 106 · Part V · Powers, Privileges and Immunities of Parliament and its Members</p><div class=\"prov-body\"><p>Members of either House of Parliament shall be entitled to receive such salaries and allowances as may from time to time be determined by Parliament by law and, until provision in that respect is so made, allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Constituent Assembly of the Dominion of India.</p></div>"
+  }
+}

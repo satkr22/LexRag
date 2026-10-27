@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_152_chunk_0",
+    "section_id": "income-tax-2025_section_152",
+    "token_count": 509,
+    "text": "[Act: income-tax-2025\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 152::Deduction in respect of royalty on patents.\n]\n\n\n(1) An assessee, being an individual, who is—\n  (a) resident in India;\n  (b) a patentee;\n  (c) in receipt of income by way of royalty in respect of a patent registered on or after the 1st April, 2003 under the Patents Act, 1970 (39 of 1970); and\n  (d) having gross total income for the tax year which includes royalty, shall be allowed a deduction from such income computed in the manner specified in sub-sections (2) to (7).\n  (2) The deduction under this section shall be equal to the whole of such income referred to in sub-section (1) or Rs. 300000, whichever is less.\n  (3) Where a compulsory licence is granted in respect of any patent under the Patents Act, 1970 (39 of 1970), the income by way of royalty for the purpose of allowing deduction under this section shall not exceed the amount of royalty under the terms and conditions of a licence settled by the Controller under that Act.\n  (4) In respect of any income earned from any source outside India, so much of the income, shall be taken into account for the purpose of this section as is brought into India by, or on behalf of, the assessee in convertible foreign exchange within six months from the end of the tax year in which such income is earned or within such further period as the competent authority referred to in section 151(8)(c) may allow in this behalf.\n  (5) No deduction under this section shall be allowed unless the assessee furnishes a certificate in the prescribed form, duly signed by the authority as may be prescribed, along with the return of income setting forth such particulars as may be prescribed.\n  (6) No deduction under this section shall be allowed in respect of any income earned from any source outside India, unless the assessee furnishes a certificate in such form, from the authority or authorities, as may be prescribed, along with the return of income.\n  (7) Where a deduction for any tax year has been claimed and allowed in respect of any income referred to in this section, no deduction in respect of such income shall be allowed under any other provision of this Act in any tax year.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_152_chunk_0",
+      "section_id": "income-tax-2025_section_152",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "152",
+      "section_title": "Deduction in respect of royalty on patents."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_152_chunk_1",
+    "section_id": "income-tax-2025_section_152",
+    "token_count": 506,
+    "text": "[Act: income-tax-2025\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 152::Deduction in respect of royalty on patents.\n]\n\n\n(1) An assessee, being an individual, who is—\n  (8) For the purposes of this section,—\n  (a) \"Controller\" means the authority as defined in section 2(1)(b) of the Patents Act, 1970 (39 of 1970);\n  (b) \"lump sum\" includes a non-returnable advance payment for royalties;\n  (c) \"patent\" means any patent granted, including a patent of addition, under the Patents Act, 1970 (39 of 1970);\n  (d) \"patentee\" means the true and first inventor recorded as the patentee under the Patents Act, 1970 (39 of 1970), including joint patentees recorded as such true and first inventors;\n  (e) \"patent of addition\" shall have the same meaning as assigned to it in section 2(1)(q) of the Patents Act, 1970 (39 of 1970);\n  (f) \"patented article\" and \"patented process\" shall have the same meanings as assigned to them in section 2(1)(o) of the Patents Act, 1970 (39 of 1970);\n  (g) \"royalty\" in respect of a patent, means consideration for—\n  (i) the transfer of all or any rights (including the granting of a licence) in respect of a patent; or\n  (ii) the imparting of any information concerning the working of, or the use of, a patent; or\n  (iii) the use of any patent; or\n  (iv) the rendering of any services in connection with the activities referred to in sub-clauses (i) to (iii), but does not include any consideration,—\n  (A) which would be the income of the recipient chargeable under the head \"Capital gains\"; or\n  (B) for sale of product manufactured with the use of patented process or of the patented article for commercial use;\n  (h) \"true and first inventor\" shall have the same meaning as assigned to it in section 2(1)(y) of the Patents Act, 1970 (39 of 1970).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_152_chunk_1",
+      "section_id": "income-tax-2025_section_152",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "152",
+      "section_title": "Deduction in respect of royalty on patents."
+    }
+  }
+]

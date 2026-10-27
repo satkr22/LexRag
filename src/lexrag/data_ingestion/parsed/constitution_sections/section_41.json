@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-04.html",
+    "source_order": 4,
+    "article_order": 7,
+    "order": 49,
+    "stem": "section_41",
+    "heading_number": "Part IV",
+    "heading_title": "Directive Principles of State Policy",
+    "heading_range": "36 – 51",
+    "heading_source": "group-head",
+    "article_number": "41",
+    "article_title": "Right to work, to education and to public assistance in certain cases",
+    "id": "constitution_section_41"
+  },
+  "id": "constitution_section_41",
+  "heading": {
+    "number": "Part IV",
+    "title": "Directive Principles of State Policy",
+    "range": "36 – 51"
+  },
+  "article": {
+    "number": "41",
+    "title": "Right to work, to education and to public assistance in certain cases",
+    "content": "The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want.\n",
+    "html": "<article class=\"provision\" data-n=\"41\" data-report=\"Article 41 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Right to work, to education and to public assistance in certain cases</h3></div><p class=\"prov-cite\">Article 41 · Part IV</p><div class=\"prov-body\"><p>The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Right to work, to education and to public assistance in certain cases</h3></div><p class=\"prov-cite\">Article 41 · Part IV</p><div class=\"prov-body\"><p>The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-06.html",
+    "source_order": 6,
+    "article_order": 8,
+    "order": 38,
+    "stem": "section_37",
+    "heading_number": "Part V · Chapter II",
+    "heading_title": "Rules in cases of Intestates other than Parsis",
+    "heading_range": "ss. 31–49",
+    "heading_source": "group-head",
+    "article_number": "37",
+    "article_title": "Where intestate has left child or children only.",
+    "id": "succession_section_37"
+  },
+  "id": "succession_section_37",
+  "heading": {
+    "number": "Part V · Chapter II",
+    "title": "Rules in cases of Intestates other than Parsis",
+    "range": "ss. 31–49"
+  },
+  "article": {
+    "number": "37",
+    "title": "Where intestate has left child or children only.",
+    "content": "Where the intestate has left surviving him a child or children, but no more remote lineal descendant through a deceased child, the property shall belong to his surviving child, if there is only one, or shall be equally divided among all his surviving children.\n",
+    "html": "<article class=\"provision\" data-n=\"37\" data-report=\"Section 37 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Where intestate has left child or children only.</h3></div><p class=\"prov-cite\">Section 37  ·  Part V · Chapter II  ·  page 23 of the Act</p><div class=\"prov-body\"><p>Where the intestate has left surviving him a child or children, but no more remote lineal descendant through a deceased child, the property shall belong to his surviving child, if there is only one, or shall be equally divided among all his surviving children.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Where intestate has left child or children only.</h3></div><p class=\"prov-cite\">Section 37  ·  Part V · Chapter II  ·  page 23 of the Act</p><div class=\"prov-body\"><p>Where the intestate has left surviving him a child or children, but no more remote lineal descendant through a deceased child, the property shall belong to his surviving child, if there is only one, or shall be equally divided among all his surviving children.</p></div>"
+  }
+}

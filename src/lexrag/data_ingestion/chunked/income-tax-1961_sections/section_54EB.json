@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_54EB_chunk_0",
+    "section_id": "income-tax-1961_section_54EB",
+    "token_count": 482,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 54EB::Capital gain on transfer of long-term capital assets not to be charged in certain cases.\n]\n\n\n(1) Where the capital gain arises from the transfer of a long-term capital asset before the 1st day of April, 2000 (the capital asset so transferred being hereafter in this section referred to as the original asset), and the assessee has, at any time within a period of six months after the date of such transfer invested the whole or any part of capital gains, in any of the assets specified by the Board in this behalf by notification in the Official Gazette (such assets hereafter in this section referred to as the long-term specified assets), the capital gain shall be dealt with in accordance with the following provisions of this section, that is to say,—\n  (a) if the cost of the long-term specified asset is not less than the capital gain arising from the transfer of the original asset, the whole of such capital gain shall not be charged under section 45 ;\n  (b) if the cost of the long-term specified asset is less than the capital gain arising from the transfer of the original asset, so much of the capital gain as bears to the whole of the capital gain the same proportion as the cost of acquisition of the long-term specified asset bears to the whole of the capital gain, shall not be charged under section 45.\n  Explanation.—\"Cost\", in relation to any long-term specified asset, means the amount invested in such specified asset out of capital gains received or accruing as a result of the transfer of the original asset.\n  (2) Where the long-term specified asset is transferred or converted (otherwise than by transfer) into money at any time within a period of seven years from the date of its acquisition, the amount of capital gains arising from the transfer of the original asset not charged under section 45 on the basis of the cost of such long-term specified asset as provided in clause (a), or as the case may be, clause (b) of sub-section (1) shall be deemed to be the income chargeable under the head \"Capital gains\" relating to long-term capital assets of the previous year in which the long-term specified asset is transferred or converted (otherwise than by transfer) into money.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_54EB_chunk_0",
+      "section_id": "income-tax-1961_section_54EB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "54EB",
+      "section_title": "Capital gain on transfer of long-term capital assets not to be charged in certain cases."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_54EB_chunk_1",
+    "section_id": "income-tax-1961_section_54EB",
+    "token_count": 281,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 54EB::Capital gain on transfer of long-term capital assets not to be charged in certain cases.\n]\n\n\n(1) Where the capital gain arises from the transfer of a long-term capital asset before the 1st day of April, 2000 (the capital asset so transferred being hereafter in this section referred to as the original asset), and the assessee has, at any time within a period of six months after the date of such transfer invested the whole or any part of capital gains, in any of the assets specified by the Board in this behalf by notification in the Official Gazette (such assets hereafter in this section referred to as the long-term specified assets), the capital gain shall be dealt with in accordance with the following provisions of this section, that is to say,—\n  Explanation.—In a case where the original asset is transferred and the assessee invests the whole or any part of the capital gain received or accrued as a result of transfer of the original asset in any long-term specified asset and such assessee takes any loan or advance on the security of such specified asset, he shall be deemed to have converted (otherwise than by transfer) such specified asset into money on the date on which such loan or advance is taken.\n  (3) [***]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_54EB_chunk_1",
+      "section_id": "income-tax-1961_section_54EB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "54EB",
+      "section_title": "Capital gain on transfer of long-term capital assets not to be charged in certain cases."
+    }
+  }
+]

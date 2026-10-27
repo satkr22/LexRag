@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bnss_section_245_chunk_0",
+    "section_id": "bnss_section_245",
+    "token_count": 380,
+    "text": "[Act: bnss\n Chapter: The Charge\n Section: 245::When offence proved included in offence charged\n]\n\n\n(1)When a person is charged with an offence consisting of several particulars, a combination of some only of which constitutes a complete minor offence, and such combination is proved, but the remaining particulars are not proved, he may be convicted of the minor offence, though he was not charged with it.\n(2)When a person is charged with an offence and facts are proved which reduce it to a minor offence, he may be convicted of the minor offence, although he is not charged with it.\n(3)When a person is charged with an offence, he may be convicted of an attempt to commit such offence although the attempt is not separately charged.\n(4)Nothing in this section shall be deemed to authorise a conviction of any minor offence where the conditions requisite for the initiation of proceedings in respect of that minor offence have not been satisfied.\nIllustrations\n(a)A is charged, under sub-section (3) of section 316 of the Bharatiya Nyaya Sanhita, 2023, with criminal breach of trust in respect of property entrusted to him as a carrier. It appears, that he did commit criminal breach of trust under sub-section (2) of section 316 of that Sanhita in respect of the property, but that it was not entrusted to him as a carrier. He may be convicted of criminal breach of trust under the said sub-section (2) of section 316.\n(b)A is charged, under sub-section (2) of section 117 of the Bharatiya Nyaya Sanhita, 2023, with causing grievous hurt. He proves that he acted on grave and sudden provocation. He may be convicted under sub-section (2) of section 122 of that Sanhita.",
+    "metadata": {
+      "chunk_id": "bnss_section_245_chunk_0",
+      "section_id": "bnss_section_245",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bnss",
+      "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "chapter_number": "Chapter XVIII",
+      "chapter_title": "The Charge",
+      "section_number": "245",
+      "section_title": "When offence proved included in offence charged"
+    }
+  }
+]

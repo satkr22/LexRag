@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_23_chunk_0",
+    "section_id": "income-tax-1961_section_23",
+    "token_count": 494,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 23::Annual value how determined.\n]\n\n\n(1) For the purposes of section 242, the annual value of any property shall be deemed to be—\n  (a) the sum for which the property might reasonably be expected to let from year to year; or\n  (b) where the property or any part of the property is let and the actual rent received or receivable by the owner in respect thereof is in excess of the sum referred to in clause (a), the amount so received or receivable; or\n  (c) where the property or any part of the property is let and was vacant during the whole or any part of the previous year and owing to such vacancy the actual rent received or receivable by the owner in respect thereof is less than the sum referred to in clause (a), the amount so received or receivable :\n  Provided that the taxes levied by any local authority in respect of the property shall be deducted (irrespective of the previous year in which the liability to pay such taxes was incurred by the owner according to the method of accounting regularly employed by him) in determining the annual value of the property of that previous year in which such taxes are actually paid by him.\n  Explanation.—For the purposes of clause (b) or clause (c) of this sub-section, the amount of actual rent received or receivable by the owner shall not include, subject to such rules as may be made in this behalf, the amount of rent which the owner cannot realise.\n  56 [(2) The annual value of the property consisting of a house or any part thereof shall be taken as nil, if the owner occupies it for his own residence or cannot actually occupy it due to any reason.]\n  (3) The provisions of sub-section (2) shall not apply if—\n  (a) the house or part of the house is actually let during the whole or any part of the previous year; or\n  (b) any other benefit therefrom is derived by the owner.\n  (4) Where the property referred to in sub-section (21) consists of more than two houses —\n  (a) the provisions of that sub-section shall apply only in respect of two of such houses, which the assessee may, at his option, specify in this behalf;",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_23_chunk_0",
+      "section_id": "income-tax-1961_section_23",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "23",
+      "section_title": "Annual value how determined."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_23_chunk_1",
+    "section_id": "income-tax-1961_section_23",
+    "token_count": 208,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 23::Annual value how determined.\n]\n\n\n(1) For the purposes of section 242, the annual value of any property shall be deemed to be—\n  (b) the annual value of the house or houses, other than the house or houses in respect of which the assessee has exercised an option under clause (a), shall be determined under sub-section (1) as if such house or houses had been let.\n  (5) Where the property consisting of any building or land appurtenant thereto is held as stock-in-trade and the property or any part of the property is not let during the whole or any part of the previous year, the annual value of such property or part of the property, for the period up to two years from the end of the financial year in which the certificate of completion of construction of the property is obtained from the competent authority, shall be taken to be nil.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_23_chunk_1",
+      "section_id": "income-tax-1961_section_23",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "23",
+      "section_title": "Annual value how determined."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-18.html",
+    "source_order": 18,
+    "article_order": 2,
+    "order": 253,
+    "stem": "section_249",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Removal of Names of Companies from the Register of Companies",
+    "heading_range": "ss. 248–252",
+    "heading_source": "group-head",
+    "article_number": "249",
+    "article_title": "Restrictions on making application under section 248 in certain situations.",
+    "id": "companies_section_249"
+  },
+  "id": "companies_section_249",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Removal of Names of Companies from the Register of Companies",
+    "range": "ss. 248–252"
+  },
+  "article": {
+    "number": "249",
+    "title": "Restrictions on making application under section 248 in certain situations.",
+    "content": "(1) An application under sub-section (2) of section 248 on behalf of a company shall not be made if, at any time in the previous three months, the company—\n(a) has changed its name or shifted its registered office from one State to another;\n(b) has made a disposal for value of property or rights held by it, immediately before cesser of trade or otherwise carrying on of business, for the purpose of disposal for gain in the normal course of trading or otherwise carrying on of business;\n(c) has engaged in any other activity except the one which is necessary or expedient for the purpose of making an application under that section, or deciding whether to do so or concluding the affairs of the company, or complying with any statutory requirement;\n(d) has made an application to the Tribunal for the sanctioning of a compromise or arrangement and the matter has not been finally concluded; or\n1[(e) is being wound up under Chapter XX of this Act or under the Insolvency and Bankruptcy Code, 2016 (31 of 2016).]\n(2) If a company files an application under sub-section (2) of section 248 in violation of sub-section\n(1), it shall be punishable with fine which may extend to one lakh rupees.\n(3) An application filed under sub-section (2) of section 248 shall be withdrawn by the company or rejected by the Registrar as soon as conditions under sub-section (1) are brought to his notice.\n",
+    "html": "<article class=\"provision\" data-n=\"249\" data-report=\"Section 249 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">249</span>Restrictions on making application under section 248 in certain situations.</h3></div><p class=\"prov-cite\">Section 249  ·  Chapter XVIII  ·  page 167 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An application under sub-section (2) of section 248 on behalf of a company shall not be made if, at any time in the previous three months, the company—</p><p class=\"lvl\">(a) has changed its name or shifted its registered office from one State to another;</p><p class=\"lvl\">(b) has made a disposal for value of property or rights held by it, immediately before cesser of trade or otherwise carrying on of business, for the purpose of disposal for gain in the normal course of trading or otherwise carrying on of business;</p><p class=\"lvl\">(c) has engaged in any other activity except the one which is necessary or expedient for the purpose of making an application under that section, or deciding whether to do so or concluding the affairs of the company, or complying with any statutory requirement;</p><p class=\"lvl\">(d) has made an application to the Tribunal for the sanctioning of a compromise or arrangement and the matter has not been finally concluded; or</p><p class=\"lvl\"><sup>1</sup>[(e) is being wound up under Chapter XX of this Act or under the Insolvency and Bankruptcy Code, 2016 (31 of 2016).]</p><p class=\"lvl\">(2) If a company files an application under sub-section (2) of section 248 in violation of sub-section</p><p class=\"lvl\">(1), it shall be punishable with fine which may extend to one lakh rupees.</p><p class=\"lvl\">(3) An application filed under sub-section (2) of section 248 shall be withdrawn by the company or rejected by the Registrar as soon as conditions under sub-section (1) are brought to his notice.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 31 of 2016, s. 255 and the Eleventh Schedule, for clause (e) (w.e.f. 15-11-2016).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">249</span>Restrictions on making application under section 248 in certain situations.</h3></div><p class=\"prov-cite\">Section 249  ·  Chapter XVIII  ·  page 167 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An application under sub-section (2) of section 248 on behalf of a company shall not be made if, at any time in the previous three months, the company—</p><p class=\"lvl\">(a) has changed its name or shifted its registered office from one State to another;</p><p class=\"lvl\">(b) has made a disposal for value of property or rights held by it, immediately before cesser of trade or otherwise carrying on of business, for the purpose of disposal for gain in the normal course of trading or otherwise carrying on of business;</p><p class=\"lvl\">(c) has engaged in any other activity except the one which is necessary or expedient for the purpose of making an application under that section, or deciding whether to do so or concluding the affairs of the company, or complying with any statutory requirement;</p><p class=\"lvl\">(d) has made an application to the Tribunal for the sanctioning of a compromise or arrangement and the matter has not been finally concluded; or</p><p class=\"lvl\"><sup>1</sup>[(e) is being wound up under Chapter XX of this Act or under the Insolvency and Bankruptcy Code, 2016 (31 of 2016).]</p><p class=\"lvl\">(2) If a company files an application under sub-section (2) of section 248 in violation of sub-section</p><p class=\"lvl\">(1), it shall be punishable with fine which may extend to one lakh rupees.</p><p class=\"lvl\">(3) An application filed under sub-section (2) of section 248 shall be withdrawn by the company or rejected by the Registrar as soon as conditions under sub-section (1) are brought to his notice.</p><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 31 of 2016, s. 255 and the Eleventh Schedule, for clause (e) (w.e.f. 15-11-2016).</p></div></div>"
+  }
+}

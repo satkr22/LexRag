@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-02.html",
+    "source_order": 2,
+    "article_order": 22,
+    "order": 24,
+    "stem": "section_22",
+    "heading_number": "Chapter II",
+    "heading_title": "Incorporation of Company and Matters Incidental Thereto",
+    "heading_range": "ss. 3–22",
+    "heading_source": "group-head",
+    "article_number": "22",
+    "article_title": "Execution of bills of exchange, etc.",
+    "id": "companies_section_22"
+  },
+  "id": "companies_section_22",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Incorporation of Company and Matters Incidental Thereto",
+    "range": "ss. 3–22"
+  },
+  "article": {
+    "number": "22",
+    "title": "Execution of bills of exchange, etc.",
+    "content": "(1) A bill of exchange, hundi or promissory note shall be deemed to have been made, accepted, drawn or endorsed on behalf of a company if made, accepted, drawn, or endorsed in the name of, or on behalf of or on account of, the company by any person acting under its authority, express or implied.\n(2) A company may, by writing 2[under its common seal, if any,] authorise any person, either generally or in respect of any specified matters, as its attorney to execute other deeds on its behalf in any place either in or outside India:\n3[Provided that in case a company does not have a common seal, the authorisation under this sub-section shall be made by two directors or by a director and the Company Secretary, wherever the company has appointed a Company Secretary.]\n(3) A deed signed by such an attorney on behalf of the company and under his seal shall bind the company 4***.\n",
+    "html": "<article class=\"provision\" data-n=\"22\" data-report=\"Section 22 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Execution of bills of exchange, etc.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter II  ·  page 38 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A bill of exchange, hundi or promissory note shall be deemed to have been made, accepted, drawn or endorsed on behalf of a company if made, accepted, drawn, or endorsed in the name of, or on behalf of or on account of, the company by any person acting under its authority, express or implied.</p><p class=\"lvl\">(2) A company may, by writing <sup>2</sup>[under its common seal, if any,] authorise any person, either generally or in respect of any specified matters, as its attorney to execute other deeds on its behalf in any place either in or outside India:</p><p class=\"prvso\"><sup>3</sup>[Provided that in case a company does not have a common seal, the authorisation under this sub-section shall be made by two directors or by a director and the Company Secretary, wherever the company has appointed a Company Secretary.]</p><p class=\"lvl\">(3) A deed signed by such an attorney on behalf of the company and under his seal shall bind the company <sup>4</sup>***.</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 21 of 2015, s. 6, for “under its common seal” (w.e.f. 29-5-2015).</p><p class=\"fn\"><sup>3</sup> The proviso ins. by Act 21 of 2015, s. 6 (w.e.f. 29-5-2015).</p><p class=\"fn\"><sup>4</sup> The words “and have the effect as if it were made under its common seal” omitted by Act 21 of 2015, s. 6 (w.e.f. 29-5-2015).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Execution of bills of exchange, etc.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter II  ·  page 38 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A bill of exchange, hundi or promissory note shall be deemed to have been made, accepted, drawn or endorsed on behalf of a company if made, accepted, drawn, or endorsed in the name of, or on behalf of or on account of, the company by any person acting under its authority, express or implied.</p><p class=\"lvl\">(2) A company may, by writing <sup>2</sup>[under its common seal, if any,] authorise any person, either generally or in respect of any specified matters, as its attorney to execute other deeds on its behalf in any place either in or outside India:</p><p class=\"prvso\"><sup>3</sup>[Provided that in case a company does not have a common seal, the authorisation under this sub-section shall be made by two directors or by a director and the Company Secretary, wherever the company has appointed a Company Secretary.]</p><p class=\"lvl\">(3) A deed signed by such an attorney on behalf of the company and under his seal shall bind the company <sup>4</sup>***.</p><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 21 of 2015, s. 6, for “under its common seal” (w.e.f. 29-5-2015).</p><p class=\"fn\"><sup>3</sup> The proviso ins. by Act 21 of 2015, s. 6 (w.e.f. 29-5-2015).</p><p class=\"fn\"><sup>4</sup> The words “and have the effect as if it were made under its common seal” omitted by Act 21 of 2015, s. 6 (w.e.f. 29-5-2015).</p></div></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-12.html",
+    "source_order": 12,
+    "article_order": 3,
+    "order": 179,
+    "stem": "section_175",
+    "heading_number": "Chapter XII",
+    "heading_title": "Meetings of Board and Its Powers",
+    "heading_range": "ss. 173–195",
+    "heading_source": "group-head",
+    "article_number": "175",
+    "article_title": "Passing of resolution by circulation.",
+    "id": "companies_section_175"
+  },
+  "id": "companies_section_175",
+  "heading": {
+    "number": "Chapter XII",
+    "title": "Meetings of Board and Its Powers",
+    "range": "ss. 173–195"
+  },
+  "article": {
+    "number": "175",
+    "title": "Passing of resolution by circulation.",
+    "content": "(1) No resolution shall be deemed to have been duly passed by the Board or by a committee thereof by circulation, unless the resolution has been circulated in draft, together with the necessary papers, if any, to all the directors, or members of the committee, as the case may be, at their addresses registered with the company in India by hand delivery or by post or by courier, or through such electronic means as may be prescribed and has been approved by a majority of the directors or members, who are entitled to vote on the resolution:\nProvided that, where not less than one-third of the total number of directors of the company for the time being require that any resolution under circulation must be decided at a meeting, the chairperson shall put the resolution to be decided at a meeting of the Board.\n(2) A resolution under sub-section (1) shall be noted at a subsequent meeting of the Board or the committee thereof, as the case may be, and made part of the minutes of such meeting.\n",
+    "html": "<article class=\"provision\" data-n=\"175\" data-report=\"Section 175 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">175</span>Passing of resolution by circulation.</h3></div><p class=\"prov-cite\">Section 175  ·  Chapter XII  ·  page 118 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No resolution shall be deemed to have been duly passed by the Board or by a committee thereof by circulation, unless the resolution has been circulated in draft, together with the necessary papers, if any, to all the directors, or members of the committee, as the case may be, at their addresses registered with the company in India by hand delivery or by post or by courier, or through such electronic means as may be prescribed and has been approved by a majority of the directors or members, who are entitled to vote on the resolution:</p><p class=\"prvso\">Provided that, where not less than one-third of the total number of directors of the company for the time being require that any resolution under circulation must be decided at a meeting, the chairperson shall put the resolution to be decided at a meeting of the Board.</p><p class=\"lvl\">(2) A resolution under sub-section (1) shall be noted at a subsequent meeting of the Board or the committee thereof, as the case may be, and made part of the minutes of such meeting.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">175</span>Passing of resolution by circulation.</h3></div><p class=\"prov-cite\">Section 175  ·  Chapter XII  ·  page 118 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No resolution shall be deemed to have been duly passed by the Board or by a committee thereof by circulation, unless the resolution has been circulated in draft, together with the necessary papers, if any, to all the directors, or members of the committee, as the case may be, at their addresses registered with the company in India by hand delivery or by post or by courier, or through such electronic means as may be prescribed and has been approved by a majority of the directors or members, who are entitled to vote on the resolution:</p><p class=\"prvso\">Provided that, where not less than one-third of the total number of directors of the company for the time being require that any resolution under circulation must be decided at a meeting, the chairperson shall put the resolution to be decided at a meeting of the Board.</p><p class=\"lvl\">(2) A resolution under sub-section (1) shall be noted at a subsequent meeting of the Board or the committee thereof, as the case may be, and made part of the minutes of such meeting.</p></div>"
+  }
+}

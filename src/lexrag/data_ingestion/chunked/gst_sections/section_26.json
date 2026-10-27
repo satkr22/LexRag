@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_26_chunk_0",
+    "section_id": "gst_section_26",
+    "token_count": 162,
+    "text": "[Act: gst\n Chapter: Registration\n Section: 26::Deemed registration.\n]\n\n\n(1) The grant of registration or the Unique Identity Number under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act shall be deemed to be a grant of registration or the Unique Identity Number under this Act subject to the condition that the application for registration or the Unique Identity Number has not been rejected under this Act within the time specified in sub-section (10) of section 25.\n(2) Notwithstanding anything contained in sub-section (10) of section 25, any rejection of application for registration or the Unique Identity Number under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act shall be deemed to be a rejection of application for registration under this Act.",
+    "metadata": {
+      "chunk_id": "gst_section_26_chunk_0",
+      "section_id": "gst_section_26",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Registration",
+      "section_number": "26",
+      "section_title": "Deemed registration."
+    }
+  }
+]

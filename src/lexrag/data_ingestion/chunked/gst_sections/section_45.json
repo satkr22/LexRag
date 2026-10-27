@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_45_chunk_0",
+    "section_id": "gst_section_45",
+    "token_count": 78,
+    "text": "[Act: gst\n Chapter: Returns\n Section: 45::Final return.\n]\n\n\nEvery registered person who is required to furnish a return under sub-section (1) of section 39 and whose registration has been cancelled shall furnish a final return within three months of the date of cancellation or date of order of cancellation, whichever is later, in such form and manner as may be prescribed.",
+    "metadata": {
+      "chunk_id": "gst_section_45_chunk_0",
+      "section_id": "gst_section_45",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Returns",
+      "section_number": "45",
+      "section_title": "Final return."
+    }
+  }
+]

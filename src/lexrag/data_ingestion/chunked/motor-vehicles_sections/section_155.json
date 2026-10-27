@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_155_chunk_0",
+    "section_id": "motor-vehicles_section_155",
+    "token_count": 126,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 155::Effect of death on certain causes of action.\n]\n\n\nNotwithstanding anything contained in section 306 of the Indian Succession Act, 1925 (39 of 1925), the death of a person in whose favour a certificate of insurance had been issued, if it occurs after the happening of an event which has given rise to a claim under the provisions of this Chapter, shall not be a bar to the survival of any cause of action arising out of such event against his estate or against the insurer.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_155_chunk_0",
+      "section_id": "motor-vehicles_section_155",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "155",
+      "section_title": "Effect of death on certain causes of action."
+    }
+  }
+]

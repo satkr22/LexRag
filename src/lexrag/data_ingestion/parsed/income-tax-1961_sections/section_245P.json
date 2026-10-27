@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-43.html",
+    "source_order": 48,
+    "article_order": 5,
+    "order": 710,
+    "stem": "section_245P",
+    "heading_number": "Chapter XIX-B",
+    "heading_title": "Advance Rulings",
+    "heading_range": "ss. 245N–245W",
+    "heading_source": "group-head",
+    "article_number": "245P",
+    "article_title": "Vacancies, etc., not to invalidate proceedings.",
+    "id": "income-tax-1961_section_245P"
+  },
+  "id": "income-tax-1961_section_245P",
+  "heading": {
+    "number": "Chapter XIX-B",
+    "title": "Advance Rulings",
+    "range": "ss. 245N–245W"
+  },
+  "article": {
+    "number": "245P",
+    "title": "Vacancies, etc., not to invalidate proceedings.",
+    "content": "(1) No proceeding before, or pronouncement of advance ruling by, the Authority shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Authority.\n(2) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint, the provisions of this section shall have effect as if for the word \"Authority\", the words \"Board for Advance Rulings\" had been substituted.\n",
+    "html": "<article class=\"provision\" data-n=\"245P\" data-report=\"Section 245P · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245P</span>Vacancies, etc., not to invalidate proceedings.</h3></div><p class=\"prov-cite\">Section 245P  ·  Chapter XIX-B  ·  page 870 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No proceeding before, or pronouncement of advance ruling by, the Authority shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Authority.</p><p class=\"lvl\">(2) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint, the provisions of this section shall have effect as if for the word \"Authority\", the words \"Board for Advance Rulings\" had been substituted.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245P</span>Vacancies, etc., not to invalidate proceedings.</h3></div><p class=\"prov-cite\">Section 245P  ·  Chapter XIX-B  ·  page 870 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No proceeding before, or pronouncement of advance ruling by, the Authority shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Authority.</p><p class=\"lvl\">(2) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint, the provisions of this section shall have effect as if for the word \"Authority\", the words \"Board for Advance Rulings\" had been substituted.</p></div>"
+  }
+}

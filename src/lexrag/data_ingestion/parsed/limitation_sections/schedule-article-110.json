@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-110.html",
+    "source_order": 110,
+    "article_order": 1,
+    "order": 110,
+    "stem": "schedule-article-110",
+    "heading_number": null,
+    "heading_title": "First Division · Part IX · Suits Relating to Miscellaneous Matters",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "110",
+    "article_title": "Twelve years.",
+    "id": "limitation_schedule-article-110"
+  },
+  "id": "limitation_schedule-article-110",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part IX · Suits Relating to Miscellaneous Matters",
+    "range": null
+  },
+  "article": {
+    "number": "110",
+    "title": "Twelve years.",
+    "content": "By a person excluded from a joint family property to enforce a right to share therein.\nPeriod of limitationTwelve years.\n\nTime from which period begins to runWhen the exclusion becomes known to the plaintiff.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>110<span class=\"badge\">Twelve years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part IX—Suits Relating to Miscellaneous Matters</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">By a person excluded from a joint family property to enforce a right to share therein.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Twelve years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the exclusion becomes known to the plaintiff.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>110<span class=\"badge\">Twelve years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part IX—Suits Relating to Miscellaneous Matters</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">By a person excluded from a joint family property to enforce a right to share therein.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Twelve years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the exclusion becomes known to the plaintiff.</p></div></div></div></div>"
+  }
+}

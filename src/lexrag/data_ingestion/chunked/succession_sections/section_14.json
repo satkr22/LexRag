@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_14_chunk_0",
+    "section_id": "succession_section_14",
+    "token_count": 93,
+    "text": "[Act: succession\n Chapter: Of Domicile\n Section: 14::Minor’s domicile.\n]\n\n\nThe domicile of a minor follows the domicile of the parent from whom he derived his domicile of origin.\nException.—The domicile of a minor does not change with that of his parent, if the minor is married, or holds any office or employment in the service of Government, or has set up, with the consent of the parent, in any distinct business.",
+    "metadata": {
+      "chunk_id": "succession_section_14_chunk_0",
+      "section_id": "succession_section_14",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part II",
+      "chapter_title": "Of Domicile",
+      "section_number": "14",
+      "section_title": "Minor’s domicile."
+    }
+  }
+]

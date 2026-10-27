@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-37.html",
+    "source_order": 38,
+    "article_order": 1,
+    "order": 38,
+    "stem": "section_37",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of the Performance of Contracts",
+    "heading_range": "ss. 37–67",
+    "heading_source": "manifest",
+    "article_number": "37",
+    "article_title": "Obligation of parties to contracts.",
+    "id": "contract_section_37"
+  },
+  "id": "contract_section_37",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of the Performance of Contracts",
+    "range": "ss. 37–67"
+  },
+  "article": {
+    "number": "37",
+    "title": "Obligation of parties to contracts.",
+    "content": "The parties to a contract must either perform, or offer to perform, their respective promises, unless such performance is dispensed with or excused under the provisions of this Act, or of any other law.\nPromises bind the representatives of the promisors in case of the death of such promisors before performance, unless a contrary intention appears from the contract.\nIllustrations\n(a)A promises to deliver goods to B on a certain day on payment of Rs. 1,000. A dies before that day. A’s representatives are bound to deliver the goods to B, and B is bound to pay the Rs. 1,000 to A’s representatives.\n(b)A promises to paint a picture for B by a certain day, at a certain price. A dies before the day. The contract cannot be enforced either by A’s representatives or by B.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Obligation of parties to contracts.</h3></div><p class=\"prov-cite\">Section 37  ·  Chapter IV  ·  Contracts which must be performed  ·  page 21 of the Act</p><div class=\"prov-body\"><p>The parties to a contract must either perform, or offer to perform, their respective promises, unless such performance is dispensed with or excused under the provisions of this Act, or of any other law.</p><p>Promises bind the representatives of the promisors in case of the death of such promisors before performance, unless a contrary intention appears from the contract.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A promises to deliver goods to B on a certain day on payment of Rs. 1,000. A dies before that day. A’s representatives are bound to deliver the goods to B, and B is bound to pay the Rs. 1,000 to A’s representatives.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A promises to paint a picture for B by a certain day, at a certain price. A dies before the day. The contract cannot be enforced either by A’s representatives or by B.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">37</span>Obligation of parties to contracts.</h3></div><p class=\"prov-cite\">Section 37  ·  Chapter IV  ·  Contracts which must be performed  ·  page 21 of the Act</p><div class=\"prov-body\"><p>The parties to a contract must either perform, or offer to perform, their respective promises, unless such performance is dispensed with or excused under the provisions of this Act, or of any other law.</p><p>Promises bind the representatives of the promisors in case of the death of such promisors before performance, unless a contrary intention appears from the contract.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A promises to deliver goods to B on a certain day on payment of Rs. 1,000. A dies before that day. A’s representatives are bound to deliver the goods to B, and B is bound to pay the Rs. 1,000 to A’s representatives.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A promises to paint a picture for B by a certain day, at a certain price. A dies before the day. The contract cannot be enforced either by A’s representatives or by B.</p></div>"
+  }
+}

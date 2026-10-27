@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "juvenile-justice",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "juvenile-justice_sections/section-45.html",
+    "source_order": 45,
+    "article_order": 1,
+    "order": 45,
+    "stem": "section_45",
+    "heading_number": "Chapter VII",
+    "heading_title": "Rehabilitation and Social Re-integration",
+    "heading_range": "ss. 39–55",
+    "heading_source": "manifest",
+    "article_number": "45",
+    "article_title": "Sponsorship.",
+    "id": "juvenile-justice_section_45"
+  },
+  "id": "juvenile-justice_section_45",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Rehabilitation and Social Re-integration",
+    "range": "ss. 39–55"
+  },
+  "article": {
+    "number": "45",
+    "title": "Sponsorship.",
+    "content": "(1) The State Government shall make rules for the purpose of undertaking various programmes of sponsorship of children, such as individual to individual sponsorship, group sponsorship or community sponsorship.\n(2) The criteria for sponsorship shall include,—\n(i) where mother is a widow or divorced or abandoned by family;\n(ii) where children are orphan and are living with the extended family;\n(iii) where parents are victims of life threatening disease;\n(iv) where parents are incapacitated due to accident and unable to take care of children both financially and physically.\n(3) The duration of sponsorship shall be such as may be prescribed.\n(4) The sponsorship programme may provide supplementary support to families, to Children’s Homes and to special homes to meet medical, nutritional, educational and other needs of the children, with a view to improving their quality of life.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>Sponsorship.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter VII  ·  pages 28–29 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government shall make rules for the purpose of undertaking various programmes of sponsorship of children, such as individual to individual sponsorship, group sponsorship or community sponsorship.</p><p class=\"lvl\">(2) The criteria for sponsorship shall include,—</p><p class=\"lvl\">(i) where mother is a widow or divorced or abandoned by family;</p><p class=\"lvl\">(ii) where children are orphan and are living with the extended family;</p><p class=\"lvl\">(iii) where parents are victims of life threatening disease;</p><p class=\"lvl\">(iv) where parents are incapacitated due to accident and unable to take care of children both financially and physically.</p><p class=\"lvl\">(3) The duration of sponsorship shall be such as may be prescribed.</p><p class=\"lvl\">(4) The sponsorship programme may provide supplementary support to families, to Children’s Homes and to special homes to meet medical, nutritional, educational and other needs of the children, with a view to improving their quality of life.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>Sponsorship.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter VII  ·  pages 28–29 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government shall make rules for the purpose of undertaking various programmes of sponsorship of children, such as individual to individual sponsorship, group sponsorship or community sponsorship.</p><p class=\"lvl\">(2) The criteria for sponsorship shall include,—</p><p class=\"lvl\">(i) where mother is a widow or divorced or abandoned by family;</p><p class=\"lvl\">(ii) where children are orphan and are living with the extended family;</p><p class=\"lvl\">(iii) where parents are victims of life threatening disease;</p><p class=\"lvl\">(iv) where parents are incapacitated due to accident and unable to take care of children both financially and physically.</p><p class=\"lvl\">(3) The duration of sponsorship shall be such as may be prescribed.</p><p class=\"lvl\">(4) The sponsorship programme may provide supplementary support to families, to Children’s Homes and to special homes to meet medical, nutritional, educational and other needs of the children, with a view to improving their quality of life.</p></div>"
+  }
+}

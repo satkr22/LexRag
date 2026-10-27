@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_241A_chunk_0",
+    "section_id": "income-tax-1961_section_241A",
+    "token_count": 191,
+    "text": "[Act: income-tax-1961\n Chapter: Refunds\n Section: 241A::Withholding of refund in certain cases.\n]\n\n\nFor every assessment year commencing on or after the 1st day of April, 2017, where refund of any amount becomes due to the assessee under the provisions of sub-section (1) of section 143 and the Assessing Officer is of the opinion, having regard to the fact that a notice has been issued under sub-section (2) of section 143 in respect of such return, that the grant of the refund is likely to adversely affect the revenue, he may, for reasons to be recorded in writing and with the previous approval of the Principal Commissioner or Commissioner, as the case may be, withhold the refund up to the date on which the assessment is made:\nProvided that the provisions of this section shall not apply from the 1st day of April, 2023.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_241A_chunk_0",
+      "section_id": "income-tax-1961_section_241A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Refunds",
+      "section_number": "241A",
+      "section_title": "Withholding of refund in certain cases."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_119A_chunk_0",
+    "section_id": "income-tax-1961_section_119A",
+    "token_count": 65,
+    "text": "[Act: income-tax-1961\n Chapter: Income-tax Authorities\n Section: 119A::Taxpayer's Charter.\n]\n\n\nThe Board shall adopt and declare a Taxpayer's Charter and issue such orders, instructions, directions or guidelines to other income-tax authorities as it may deem fit for the administration of such Charter.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_119A_chunk_0",
+      "section_id": "income-tax-1961_section_119A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Income-tax Authorities",
+      "section_number": "119A",
+      "section_title": "Taxpayer's Charter."
+    }
+  }
+]

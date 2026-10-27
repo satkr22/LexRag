@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_124_chunk_0",
+    "section_id": "succession_section_124",
+    "token_count": 356,
+    "text": "[Act: succession\n Chapter: Of Contingent Bequests\n Section: 124::Bequest contingent upon specified uncertain event, no time being mentioned for its occurrence.\n]\n\n\nWhere a legacy is given if a specified uncertain event shall happen and no time is mentioned in the will for the occurrence of that event, the legacy cannot take effect, unless such event happens before the period when the fund bequeathed is payable or distributable.\nIllustrations\n(i) A legacy is bequeathed to A, and, in case of his death, to B. If A survives the testator, the legacy to B does not take effect.\n(ii) A legacy is bequeathed to A, and, in case of his death without children, to B. If A survives the testator or dies in his lifetime leaving a child, the legacy to B does not take effect.\n(iii) A legacy is bequeathed to A when and if he attains the age of 18, and, in case of his death, to B. A attains the age of 18. The Legacy to B does not take effect.\n(iv) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death without children,” to C. The words “in case of B’s death without children” are to be understood as meaning in case B dies without children during the lifetime of A.\n(v) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death,” to C. The words “in case of B’s death” are to be considered as meaning “in case B dies in the lifetime of A”.",
+    "metadata": {
+      "chunk_id": "succession_section_124_chunk_0",
+      "section_id": "succession_section_124",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter X",
+      "chapter_title": "Of Contingent Bequests",
+      "section_number": "124",
+      "section_title": "Bequest contingent upon specified uncertain event, no time being mentioned for its occurrence."
+    }
+  }
+]

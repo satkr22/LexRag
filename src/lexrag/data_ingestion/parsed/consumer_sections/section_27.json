@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-27.html",
+    "source_order": 27,
+    "article_order": 1,
+    "order": 27,
+    "stem": "section_27",
+    "heading_number": "Chapter III",
+    "heading_title": "Cenral Consumer Protection Authority",
+    "heading_range": "ss. 10–27",
+    "heading_source": "manifest",
+    "article_number": "27",
+    "article_title": "Furnishing of annual reports, etc.",
+    "id": "consumer_section_27"
+  },
+  "id": "consumer_section_27",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Cenral Consumer Protection Authority",
+    "range": "ss. 10–27"
+  },
+  "article": {
+    "number": "27",
+    "title": "Furnishing of annual reports, etc.",
+    "content": "(1) The Central Authority shall prepare once in every year, in such form, manner and at such time as may be prescribed, an annual report giving full account of its activities during the previous year and such other reports and returns, as may be directed, and copies of such report and returns shall be forwarded to the Central Government.\n(2) A copy of the annual report received under sub-section (1) shall be laid, as soon as may be after it is received, before each House of Parliament.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">27</span>Furnishing of annual reports, etc.</h3></div><p class=\"prov-cite\">Section 27  ·  Chapter III  ·  page 17 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Authority shall prepare once in every year, in such form, manner and at such time as may be prescribed, an annual report giving full account of its activities during the previous year and such other reports and returns, as may be directed, and copies of such report and returns shall be forwarded to the Central Government.</p><p class=\"lvl\">(2) A copy of the annual report received under sub-section (1) shall be laid, as soon as may be after it is received, before each House of Parliament.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">27</span>Furnishing of annual reports, etc.</h3></div><p class=\"prov-cite\">Section 27  ·  Chapter III  ·  page 17 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Authority shall prepare once in every year, in such form, manner and at such time as may be prescribed, an annual report giving full account of its activities during the previous year and such other reports and returns, as may be directed, and copies of such report and returns shall be forwarded to the Central Government.</p><p class=\"lvl\">(2) A copy of the annual report received under sub-section (1) shall be laid, as soon as may be after it is received, before each House of Parliament.</p></div>"
+  }
+}

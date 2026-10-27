@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-17.html",
+    "source_order": 17,
+    "article_order": 9,
+    "order": 311,
+    "stem": "section_311",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Of Offences Against Property",
+    "heading_range": "303 – 334",
+    "heading_source": "group-head",
+    "article_number": "311",
+    "article_title": "Robbery, or dacoity, with attempt to cause death or grievous hurt",
+    "id": "bns_section_311"
+  },
+  "id": "bns_section_311",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Of Offences Against Property",
+    "range": "303 – 334"
+  },
+  "article": {
+    "number": "311",
+    "title": "Robbery, or dacoity, with attempt to cause death or grievous hurt",
+    "content": "If, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.\n",
+    "html": "<article class=\"provision\" data-n=\"311\" data-report=\"Section 311 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">311</span>Robbery, or dacoity, with attempt to cause death or grievous hurt</h3></div><p class=\"prov-cite\">Section 311 · Chapter XVII · Of robbery and dacoity</p><div class=\"prov-body\"><p>If, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">311</span>Robbery, or dacoity, with attempt to cause death or grievous hurt</h3></div><p class=\"prov-cite\">Section 311 · Chapter XVII · Of robbery and dacoity</p><div class=\"prov-body\"><p>If, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.</p></div>"
+  }
+}

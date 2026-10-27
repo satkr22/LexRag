@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-20.html",
+    "source_order": 20,
+    "article_order": 11,
+    "order": 271,
+    "stem": "section_271",
+    "heading_number": "Chapter XX",
+    "heading_title": "Trial of Warrant-Cases by Magistrates",
+    "heading_range": "261 – 273",
+    "heading_source": "group-head",
+    "article_number": "271",
+    "article_title": "Acquittal or conviction",
+    "id": "bnss_section_271"
+  },
+  "id": "bnss_section_271",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Trial of Warrant-Cases by Magistrates",
+    "range": "261 – 273"
+  },
+  "article": {
+    "number": "271",
+    "title": "Acquittal or conviction",
+    "content": "(1)If, in any case under this Chapter in which a charge has been framed, the Magistrate finds the accused not guilty, he shall record an order of acquittal.\n(2)Where, in any case under this Chapter, the Magistrate finds the accused guilty, but does not proceed in accordance with the provisions of section 364 or section 401, he shall, after hearing the accused on the question of sentence, pass sentence upon him according to law.\n(3)Where, in any case under this Chapter, a previous conviction is charged under the provisions of sub-section (7) of section 234 and the accused does not admit that he has been previously convicted as alleged in the charge, the Magistrate may, after he has convicted the said accused, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:\nProvisoProvided that no such charge shall be read out by the Magistrate nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under sub-section (2).\n",
+    "html": "<article class=\"provision\" data-n=\"271\" data-report=\"Section 271 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">271</span>Acquittal or conviction</h3></div><p class=\"prov-cite\">Section 271 · Chapter XX · Conclusion of trial</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If, in any case under this Chapter in which a charge has been framed, the Magistrate finds the accused not guilty, he shall record an order of acquittal.</p><p><span class=\"lbl\">(2)</span>Where, in any case under this Chapter, the Magistrate finds the accused guilty, but does not proceed in accordance with the provisions of section 364 or section 401, he shall, after hearing the accused on the question of sentence, pass sentence upon him according to law.</p><p><span class=\"lbl\">(3)</span>Where, in any case under this Chapter, a previous conviction is charged under the provisions of sub-section (7) of section 234 and the accused does not admit that he has been previously convicted as alleged in the charge, the Magistrate may, after he has convicted the said accused, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no such charge shall be read out by the Magistrate nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under sub-section (2).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">271</span>Acquittal or conviction</h3></div><p class=\"prov-cite\">Section 271 · Chapter XX · Conclusion of trial</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If, in any case under this Chapter in which a charge has been framed, the Magistrate finds the accused not guilty, he shall record an order of acquittal.</p><p><span class=\"lbl\">(2)</span>Where, in any case under this Chapter, the Magistrate finds the accused guilty, but does not proceed in accordance with the provisions of section 364 or section 401, he shall, after hearing the accused on the question of sentence, pass sentence upon him according to law.</p><p><span class=\"lbl\">(3)</span>Where, in any case under this Chapter, a previous conviction is charged under the provisions of sub-section (7) of section 234 and the accused does not admit that he has been previously convicted as alleged in the charge, the Magistrate may, after he has convicted the said accused, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no such charge shall be read out by the Magistrate nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under sub-section (2).</p></div>"
+  }
+}

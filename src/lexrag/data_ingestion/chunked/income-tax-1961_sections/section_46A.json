@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_46A_chunk_0",
+    "section_id": "income-tax-1961_section_46A",
+    "token_count": 293,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 46A::Capital gains on purchase by company of its own shares or other specified securities.\n]\n\n\nWhere a shareholder or a holder of other specified securities receives any consideration from any company for purchase of its own shares or other specified securities held by such shareholder or holder of other specified securities, then, subject to the provisions of section 48, the difference between the cost of acquisition and the value of consideration received by the shareholder or the holder of other specified securities, as the case may be, shall be deemed to be the capital gains arising to such shareholder or the holder of other specified securities, as the case may be, in the year in which such shares or other specified securities were purchased by the company:\n70[Provided that where the shareholder receives any consideration of the nature referred to in sub-clause (f) of clause (22) of section 2 from any company, in respect of any buy-back of shares, that takes place on or after the 1st day of October, 2024, then for the purposes of this section, the value of consideration received by the shareholder shall be deemed to be nil.]\nExplanation.—For the purposes of this section, \"specified securities\" shall have the meaning assigned to it in Explanation to section 77A of the Companies Act, 1956 (1 of 1956).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_46A_chunk_0",
+      "section_id": "income-tax-1961_section_46A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "46A",
+      "section_title": "Capital gains on purchase by company of its own shares or other specified securities."
+    }
+  }
+]

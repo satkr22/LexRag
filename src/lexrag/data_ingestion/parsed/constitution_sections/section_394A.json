@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-26.html",
+    "source_order": 26,
+    "article_order": 3,
+    "order": 505,
+    "stem": "section_394A",
+    "heading_number": "Part XXII",
+    "heading_title": "Short Title, Commencement, Authoritative Text in Hindi and Repeals",
+    "heading_range": "393 – 395",
+    "heading_source": "group-head",
+    "article_number": "394A",
+    "article_title": "Authoritative text in the Hindi language",
+    "id": "constitution_section_394A"
+  },
+  "id": "constitution_section_394A",
+  "heading": {
+    "number": "Part XXII",
+    "title": "Short Title, Commencement, Authoritative Text in Hindi and Repeals",
+    "range": "393 – 395"
+  },
+  "article": {
+    "number": "394A",
+    "title": "Authoritative text in the Hindi language",
+    "content": "(1)1[The President shall cause to be published under his authority,—\n(a)the translation of this Constitution in the Hindi language, signed by the members of the Constituent Assembly, with such modifications as may be necessary to bring it in conformity with the language, style and terminology adopted in the authoritative texts of Central Acts in the Hindi language, and incorporating therein all the amendments of this Constitution made before such publication; and\n(b)the translation in the Hindi language of every amendment of this Constitution made in the English language.\n(2)The translation of this Constitution and of every amendment thereof published under clause (1) shall be construed to have the same meaning as the original thereof and if any difficulty arises in so construing any part of such translation, the President shall cause the same to be revised suitably.\n(3)The translation of this Constitution and of every amendment thereof published under this article shall be deemed to be, for all purposes, the authoritative text thereof in the Hindi language.]\n",
+    "html": "<article class=\"provision\" data-n=\"394A\" data-report=\"Article 394A · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">394A</span>Authoritative text in the Hindi language</h3></div><p class=\"prov-cite\">Article 394A · Part XXII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span><sup>1</sup>[The President shall cause to be published under his authority,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the translation of this Constitution in the Hindi language, signed by the members of the Constituent Assembly, with such modifications as may be necessary to bring it in conformity with the language, style and terminology adopted in the authoritative texts of Central Acts in the Hindi language, and incorporating therein all the amendments of this Constitution made before such publication; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>the translation in the Hindi language of every amendment of this Constitution made in the English language.</p><p><span class=\"lbl\">(2)</span>The translation of this Constitution and of every amendment thereof published under clause (1) shall be construed to have the same meaning as the original thereof and if any difficulty arises in so construing any part of such translation, the President shall cause the same to be revised suitably.</p><p><span class=\"lbl\">(3)</span>The translation of this Constitution and of every amendment thereof published under this article shall be deemed to be, for all purposes, the authoritative text thereof in the Hindi language.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Art 394A, Ins. by the Constitution (Fifty-eighth Amendment) Act, 1987, s. 3 (w.e.f. 9-12-1987).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">394A</span>Authoritative text in the Hindi language</h3></div><p class=\"prov-cite\">Article 394A · Part XXII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span><sup>1</sup>[The President shall cause to be published under his authority,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>the translation of this Constitution in the Hindi language, signed by the members of the Constituent Assembly, with such modifications as may be necessary to bring it in conformity with the language, style and terminology adopted in the authoritative texts of Central Acts in the Hindi language, and incorporating therein all the amendments of this Constitution made before such publication; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>the translation in the Hindi language of every amendment of this Constitution made in the English language.</p><p><span class=\"lbl\">(2)</span>The translation of this Constitution and of every amendment thereof published under clause (1) shall be construed to have the same meaning as the original thereof and if any difficulty arises in so construing any part of such translation, the President shall cause the same to be revised suitably.</p><p><span class=\"lbl\">(3)</span>The translation of this Constitution and of every amendment thereof published under this article shall be deemed to be, for all purposes, the authoritative text thereof in the Hindi language.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Art 394A, Ins. by the Constitution (Fifty-eighth Amendment) Act, 1987, s. 3 (w.e.f. 9-12-1987).</p></div>"
+  }
+}

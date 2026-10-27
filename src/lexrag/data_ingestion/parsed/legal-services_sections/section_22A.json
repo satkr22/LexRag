@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "legal-services",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": null,
+    "source_file": "legal-services_sections/section-22a.html",
+    "source_order": 27,
+    "article_order": 1,
+    "order": 27,
+    "stem": "section_22A",
+    "heading_number": "Chapter VIA",
+    "heading_title": "Pre-litigation Conciliation and Settlement",
+    "heading_range": "ss. 22A–22E",
+    "heading_source": "manifest",
+    "article_number": "22A",
+    "article_title": "Definitions.",
+    "id": "legal-services_section_22A"
+  },
+  "id": "legal-services_section_22A",
+  "heading": {
+    "number": "Chapter VIA",
+    "title": "Pre-litigation Conciliation and Settlement",
+    "range": "ss. 22A–22E"
+  },
+  "article": {
+    "number": "22A",
+    "title": "Definitions.",
+    "content": "In this Chapter and for the purposes of sections 22 and 23, unless the context otherwise requires,—\n(a) “Permanent Lok Adalat” means a Permanent Lok Adalat established under sub-section (1) of section22B;\n(b) “public utility service” means any—\n(i) transport service for the carriage of passengers or goods by air, road or water; or\n(ii) postal, telegraph or telephone service; or\n(iii) supply of power, light or water to the public by any establishment; or\n(iv) system of public conservancy or sanitation; or\n(v) service in hospital or dispensary; or\n(vi)insurance service, and includes any service which the Central Government or the State Government, as the case may be, in the public interest, by notification, declare to be a public utility service for the purposes of this Chapter.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22A</span>Definitions.</h3></div><p class=\"prov-cite\">Section 22A  ·  Chapter VIA  ·  pages 13–14 of the Act</p><div class=\"prov-body\"><p>In this Chapter and for the purposes of sections 22 and 23, unless the context otherwise requires,—</p><p class=\"lvl\">(a) “Permanent Lok Adalat” means a Permanent Lok Adalat established under sub-section (1) of section22B;</p><p class=\"lvl\">(b) “public utility service” means any—</p><p class=\"lvl\">(i) transport service for the carriage of passengers or goods by air, road or water; or</p><p class=\"lvl\">(ii) postal, telegraph or telephone service; or</p><p class=\"lvl\">(iii) supply of power, light or water to the public by any establishment; or</p><p class=\"lvl\">(iv) system of public conservancy or sanitation; or</p><p class=\"lvl\">(v) service in hospital or dispensary; or</p><p class=\"lvl\">(vi)insurance service, and includes any service which the Central Government or the State Government, as the case may be, in the public interest, by notification, declare to be a public utility service for the purposes of this Chapter.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22A</span>Definitions.</h3></div><p class=\"prov-cite\">Section 22A  ·  Chapter VIA  ·  pages 13–14 of the Act</p><div class=\"prov-body\"><p>In this Chapter and for the purposes of sections 22 and 23, unless the context otherwise requires,—</p><p class=\"lvl\">(a) “Permanent Lok Adalat” means a Permanent Lok Adalat established under sub-section (1) of section22B;</p><p class=\"lvl\">(b) “public utility service” means any—</p><p class=\"lvl\">(i) transport service for the carriage of passengers or goods by air, road or water; or</p><p class=\"lvl\">(ii) postal, telegraph or telephone service; or</p><p class=\"lvl\">(iii) supply of power, light or water to the public by any establishment; or</p><p class=\"lvl\">(iv) system of public conservancy or sanitation; or</p><p class=\"lvl\">(v) service in hospital or dispensary; or</p><p class=\"lvl\">(vi)insurance service, and includes any service which the Central Government or the State Government, as the case may be, in the public interest, by notification, declare to be a public utility service for the purposes of this Chapter.</p></div>"
+  }
+}

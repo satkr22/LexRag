@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-53.html",
+    "source_order": 53,
+    "article_order": 3,
+    "order": 738,
+    "stem": "section_O34R3",
+    "heading_number": "Order XXXIV",
+    "heading_title": "Suits relating to mortgages of immovable property",
+    "heading_range": "17 rules",
+    "heading_source": "group-head",
+    "article_number": "O34R3",
+    "article_title": "Final decree in foreclosure suit.",
+    "id": "cpc_section_O34R3"
+  },
+  "id": "cpc_section_O34R3",
+  "heading": {
+    "number": "Order XXXIV",
+    "title": "Suits relating to mortgages of immovable property",
+    "range": "17 rules"
+  },
+  "article": {
+    "number": "O34R3",
+    "title": "Final decree in foreclosure suit.",
+    "content": "(1) Where, before a final decree debarring the defendant from all right to redeem the mortgaged property has been passed, the defendant makes payment into Court of all amounts due from him under sub-rule (1) of rule 2, the Court shall, on application made by the defendant in this behalf, pass a final decree—\n(a) ordering the plaintiff to deliver up the documents referred to in the preliminary decree, and, if necessary,—\n(b) ordering him to re-transfer at the cost or the defendant the mortgaged property as directed in the said decree, and also, if necessary,—\n(c) ordering him to put the defendant in possession of the property.\n(2) Where payment in accordance with sub-rule (1) has not been made, the Court shall, on application made by the plaintiff in this behalf, pass a final decree declaring that the defendant and all persons claiming through or under him or debarred from all right to redeem the mortgaged property and also, if necessary, ordering the defendant to put the plaintiff in possession of the property.\n(3) On the passing of a final decree under sub-rule (2), all liabilities to which the defendant is subject in respect of the mortgage or on account of the suit shall be deemed to have been discharged.\n",
+    "html": "<article class=\"provision\" data-n=\"O34R3\" data-report=\"Order 34, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Final decree in foreclosure suit.</h3></div><p class=\"prov-cite\">Order 34, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where, before a final decree debarring the defendant from all right to redeem the mortgaged property has been passed, the defendant makes payment into Court of all amounts due from him under sub-rule (1) of rule 2, the Court shall, on application made by the defendant in this behalf, pass a final decree—</p><p class=\"lvl\">(a) ordering the plaintiff to deliver up the documents referred to in the preliminary decree, and, if necessary,—</p><p class=\"lvl\">(b) ordering him to re-transfer at the cost or the defendant the mortgaged property as directed in the said decree, and also, if necessary,—</p><p class=\"lvl\">(c) ordering him to put the defendant in possession of the property.</p><p class=\"lvl\">(2) Where payment in accordance with sub-rule (1) has not been made, the Court shall, on application made by the plaintiff in this behalf, pass a final decree declaring that the defendant and all persons claiming through or under him or debarred from all right to redeem the mortgaged property and also, if necessary, ordering the defendant to put the plaintiff in possession of the property.</p><p class=\"lvl\">(3) On the passing of a final decree under sub-rule (2), all liabilities to which the defendant is subject in respect of the mortgage or on account of the suit shall be deemed to have been discharged.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Final decree in foreclosure suit.</h3></div><p class=\"prov-cite\">Order 34, Rule 3</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where, before a final decree debarring the defendant from all right to redeem the mortgaged property has been passed, the defendant makes payment into Court of all amounts due from him under sub-rule (1) of rule 2, the Court shall, on application made by the defendant in this behalf, pass a final decree—</p><p class=\"lvl\">(a) ordering the plaintiff to deliver up the documents referred to in the preliminary decree, and, if necessary,—</p><p class=\"lvl\">(b) ordering him to re-transfer at the cost or the defendant the mortgaged property as directed in the said decree, and also, if necessary,—</p><p class=\"lvl\">(c) ordering him to put the defendant in possession of the property.</p><p class=\"lvl\">(2) Where payment in accordance with sub-rule (1) has not been made, the Court shall, on application made by the plaintiff in this behalf, pass a final decree declaring that the defendant and all persons claiming through or under him or debarred from all right to redeem the mortgaged property and also, if necessary, ordering the defendant to put the plaintiff in possession of the property.</p><p class=\"lvl\">(3) On the passing of a final decree under sub-rule (2), all liabilities to which the defendant is subject in respect of the mortgage or on account of the suit shall be deemed to have been discharged.</p></div>"
+  }
+}

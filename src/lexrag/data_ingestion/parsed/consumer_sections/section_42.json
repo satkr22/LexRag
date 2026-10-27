@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-42.html",
+    "source_order": 42,
+    "article_order": 1,
+    "order": 42,
+    "stem": "section_42",
+    "heading_number": "Chapter IV",
+    "heading_title": "Consumer Disputer Redressal Commission",
+    "heading_range": "ss. 28–73",
+    "heading_source": "manifest",
+    "article_number": "42",
+    "article_title": "Establishment of State Consumer Disputes Redressal Commission.",
+    "id": "consumer_section_42"
+  },
+  "id": "consumer_section_42",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Consumer Disputer Redressal Commission",
+    "range": "ss. 28–73"
+  },
+  "article": {
+    "number": "42",
+    "title": "Establishment of State Consumer Disputes Redressal Commission.",
+    "content": "(1) The State Government shall, by notification, establish a State Consumer Disputes Redressal Commission, to be known as the State Commission, in the State.\n(2) The State Commission shall ordinarily function at the State capital and perform its functions at such other places as the State Government may in consultation with the State Commission notify in the Official Gazette:\nProvided that the State Government may, by notification, establish regional benches of the State Commission, at such places, as it deems fit.\n(3) Each State Commission shall consist of—\n(a) a President; and\n(b) not less than four or not more than such number of members as may be prescribed in consultation with the Central Government.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Establishment of State Consumer Disputes Redressal Commission.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter IV  ·  page 23 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government shall, by notification, establish a State Consumer Disputes Redressal Commission, to be known as the State Commission, in the State.</p><p class=\"lvl\">(2) The State Commission shall ordinarily function at the State capital and perform its functions at such other places as the State Government may in consultation with the State Commission notify in the Official Gazette:</p><p class=\"prvso\">Provided that the State Government may, by notification, establish regional benches of the State Commission, at such places, as it deems fit.</p><p class=\"lvl\">(3) Each State Commission shall consist of—</p><p class=\"lvl\">(a) a President; and</p><p class=\"lvl\">(b) not less than four or not more than such number of members as may be prescribed in consultation with the Central Government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Establishment of State Consumer Disputes Redressal Commission.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter IV  ·  page 23 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government shall, by notification, establish a State Consumer Disputes Redressal Commission, to be known as the State Commission, in the State.</p><p class=\"lvl\">(2) The State Commission shall ordinarily function at the State capital and perform its functions at such other places as the State Government may in consultation with the State Commission notify in the Official Gazette:</p><p class=\"prvso\">Provided that the State Government may, by notification, establish regional benches of the State Commission, at such places, as it deems fit.</p><p class=\"lvl\">(3) Each State Commission shall consist of—</p><p class=\"lvl\">(a) a President; and</p><p class=\"lvl\">(b) not less than four or not more than such number of members as may be prescribed in consultation with the Central Government.</p></div>"
+  }
+}

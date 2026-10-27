@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "gst",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Central Goods and Services Tax Act, 2017",
+    "source_file": "gst_sections/gst-16.html",
+    "source_order": 16,
+    "article_order": 3,
+    "order": 94,
+    "stem": "section_87",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Liability to Pay in Certain Cases",
+    "heading_range": "ss. 85–94",
+    "heading_source": "group-head",
+    "article_number": "87",
+    "article_title": "Liability in case of amalgamation or merger of companies.",
+    "id": "gst_section_87"
+  },
+  "id": "gst_section_87",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Liability to Pay in Certain Cases",
+    "range": "ss. 85–94"
+  },
+  "article": {
+    "number": "87",
+    "title": "Liability in case of amalgamation or merger of companies.",
+    "content": "(1) When two or more companies are amalgamated or merged in pursuance of an order of court or of Tribunal or otherwise and the order is to take effect from a date earlier to the date of the order and any two or more of such companies have supplied or received any goods or services or both to or from each other during the period commencing on the date from which the order takes effect till the date of the order, then such transactions of supply and receipt shall be included in the turnover of supply or receipt of the respective companies and they shall be liable to pay tax accordingly.\n(2) Notwithstanding anything contained in the said order, for the purposes of this Act, the said two or more companies shall be treated as distinct companies for the period up to the date of the said order and the registration certificates of the said companies shall be cancelled with effect from the date of the said order.\n",
+    "html": "<article class=\"provision\" data-n=\"87\" data-report=\"Section 87 · The Central Goods and Services Tax Act, 2017\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">87</span>Liability in case of amalgamation or merger of companies.</h3></div><p class=\"prov-cite\">Section 87  ·  Chapter XVI  ·  page 76 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When two or more companies are amalgamated or merged in pursuance of an order of court or of Tribunal or otherwise and the order is to take effect from a date earlier to the date of the order and any two or more of such companies have supplied or received any goods or services or both to or from each other during the period commencing on the date from which the order takes effect till the date of the order, then such transactions of supply and receipt shall be included in the turnover of supply or receipt of the respective companies and they shall be liable to pay tax accordingly.</p><p class=\"lvl\">(2) Notwithstanding anything contained in the said order, for the purposes of this Act, the said two or more companies shall be treated as distinct companies for the period up to the date of the said order and the registration certificates of the said companies shall be cancelled with effect from the date of the said order.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">87</span>Liability in case of amalgamation or merger of companies.</h3></div><p class=\"prov-cite\">Section 87  ·  Chapter XVI  ·  page 76 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When two or more companies are amalgamated or merged in pursuance of an order of court or of Tribunal or otherwise and the order is to take effect from a date earlier to the date of the order and any two or more of such companies have supplied or received any goods or services or both to or from each other during the period commencing on the date from which the order takes effect till the date of the order, then such transactions of supply and receipt shall be included in the turnover of supply or receipt of the respective companies and they shall be liable to pay tax accordingly.</p><p class=\"lvl\">(2) Notwithstanding anything contained in the said order, for the purposes of this Act, the said two or more companies shall be treated as distinct companies for the period up to the date of the said order and the registration certificates of the said companies shall be cancelled with effect from the date of the said order.</p></div>"
+  }
+}

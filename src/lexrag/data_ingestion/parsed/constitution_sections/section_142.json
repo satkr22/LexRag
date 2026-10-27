@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 97,
+    "order": 160,
+    "stem": "section_142",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "142",
+    "article_title": "Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc",
+    "id": "constitution_section_142"
+  },
+  "id": "constitution_section_142",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "142",
+    "title": "Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc",
+    "content": "(1)The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order1 prescribe.\n(2)Subject to the provisions of any law made in this behalf by Parliament, the Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself.\n",
+    "html": "<article class=\"provision\" data-n=\"142\" data-report=\"Article 142 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc</h3></div><p class=\"prov-cite\">Article 142 · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order1 prescribe.</p><p><span class=\"lbl\">(2)</span>Subject to the provisions of any law made in this behalf by Parliament, the Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> See the Supreme Court (Decrees and Orders) Enforcement Order, 1954 (C.O. 47).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">142</span>Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc</h3></div><p class=\"prov-cite\">Article 142 · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order1 prescribe.</p><p><span class=\"lbl\">(2)</span>Subject to the provisions of any law made in this behalf by Parliament, the Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> See the Supreme Court (Decrees and Orders) Enforcement Order, 1954 (C.O. 47).</p></div>"
+  }
+}

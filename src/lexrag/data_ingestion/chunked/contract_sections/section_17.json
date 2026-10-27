@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_17_chunk_0",
+    "section_id": "contract_section_17",
+    "token_count": 404,
+    "text": "[Act: contract\n Chapter: Of Contracts, Voidable Contracts and Void Agreements\n Section: 17::“Fraud” defined.\n]\n\n\n“Fraud” means and includes any of the following acts committed by a party to a contract, or with his connivance, or by his agent2, with intent to deceive another party thereto of his agent, or to induce him to enter into the contract:—\n(1) the suggestion, as a fact, of that which is not true, by one who does not believe it to be true;\n(2) the active concealment of a fact by one having knowledge or belief of the fact;\n(3) a promise made without any intention of performing it;\n(4) any other act fitted to deceive;\n(5) any such act or omission as the law specially declares to be fraudulent.\nExplanation.—Mere silence as to facts likely to affect the willingness of a person to enter into a contract is not fraud, unless the circumstances of the case are such that, regard being had to them, it is the duty of the person keeping silence to speak3, or unless his silence is, in itself, equivalent to speech.\nIllustrations\n(a)A sells, by auction, to B, a horse which A knows to be unsound. A says nothing to B about the horse’s unsoundness. This is not fraud in A.\n(b)B is A’s daughter and has just come of age. Here, the relation between the parties would make it A’s duty to tell B if the horse is unsound.\n(c)B says to A—“If you do not deny it, I shall assume that the horse is sound.” A says nothing. Here, A’s silence is equivalent to speech.\n(d)A and B, being traders, enter upon a contract. A has private information of a change in prices which would affect B’s willingness to proceed with the contract. A is not bound to inform B.",
+    "metadata": {
+      "chunk_id": "contract_section_17_chunk_0",
+      "section_id": "contract_section_17",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Of Contracts, Voidable Contracts and Void Agreements",
+      "section_number": "17",
+      "section_title": "“Fraud” defined."
+    }
+  }
+]

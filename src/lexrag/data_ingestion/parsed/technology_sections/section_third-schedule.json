@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "technology",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "technology_sections/third-schedule.html",
+    "source_order": 129,
+    "article_order": 1,
+    "order": 129,
+    "stem": "section_third-schedule",
+    "heading_number": null,
+    "heading_title": "Schedules · The Schedules",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "third-schedule",
+    "article_title": "The Third Schedule",
+    "id": "technology_section_third-schedule"
+  },
+  "id": "technology_section_third-schedule",
+  "heading": {
+    "number": null,
+    "title": "Schedules · The Schedules",
+    "range": null
+  },
+  "article": {
+    "number": "third-schedule",
+    "title": "The Third Schedule",
+    "content": "",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Third</span>The Third Schedule</h3></div><p class=\"repnote\">[THE THIRD SCHEDULE.] Omitted by the Information Technology (Amendment) Act, 2008 (10 of 2009), s. 50 (w.e.f. 27-10-2009).</p><p class=\"snote\">Note: this Schedule had carried the amendments to the Banker's Books Evidence Act, 1891 made by section 93.</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Third</span>The Third Schedule</h3></div><p class=\"repnote\">[THE THIRD SCHEDULE.] Omitted by the Information Technology (Amendment) Act, 2008 (10 of 2009), s. 50 (w.e.f. 27-10-2009).</p><p class=\"snote\">Note: this Schedule had carried the amendments to the Banker's Books Evidence Act, 1891 made by section 93.</p>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_34_chunk_0",
+    "section_id": "sale-of-goods_section_34",
+    "token_count": 95,
+    "text": "[Act: sale-of-goods\n Chapter: Performance of the Contract\n Section: 34::Effect of part delivery.\n]\n\n\nA delivery of part of goods, in progress of the delivery of the whole, has the same effect, for the purpose of passing the property in such goods, as a delivery of the whole; but a delivery of part of the goods, with an intention of severing it from the whole, does not operate as a delivery of the remainder.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_34_chunk_0",
+      "section_id": "sale-of-goods_section_34",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Performance of the Contract",
+      "section_number": "34",
+      "section_title": "Effect of part delivery."
+    }
+  }
+]

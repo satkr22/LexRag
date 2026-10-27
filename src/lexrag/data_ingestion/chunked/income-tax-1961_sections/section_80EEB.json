@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80EEB_chunk_0",
+    "section_id": "income-tax-1961_section_80EEB",
+    "token_count": 410,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80EEB::Deduction in respect of purchase of electric vehicle.\n]\n\n\n(1) In computing the total income of an assessee, being an individual, there shall be deducted, in accordance with and subject to the provisions of this section, interest payable on loan taken by him from any financial institution for the purpose of purchase of an electric vehicle.\n(2) The deduction under sub-section (1) shall not exceed one lakh and fifty thousand rupees and shall be allowed in computing the total income of the individual for the assessment year beginning on the 1st day of April, 2020 and subsequent assessment years.\n(3) The deduction under sub-section (1) shall be subject to the condition that the loan has been sanctioned by the financial institution during the period beginning on the 1st day of April, 2019 and ending on the 31st day of March, 2023.\n(4) Where a deduction under this section is allowed for any interest referred to in sub-section (1), deduction shall not be allowed in respect of such interest under any other provision of this Act for the same or any other assessment year.\n(5) For the purposes of this section,—\n(a) \"electric vehicle\" means a vehicle which is powered exclusively by an electric motor whose traction energy is supplied exclusively by traction battery installed in the vehicle and has such electric regenerative braking system, which during braking provides for the conversion of vehicle kinetic energy into electrical energy;\n(b) \"financial institution\" means a banking company to which the Banking Regulation Act, 1949 (10 of 1949) applies, or any bank or banking institution referred to in section 51 of that Act and includes any deposit taking non-banking financial company or a systemically important non-deposit taking non-banking financial company as defined in clauses (e) and (g) of Explanation 4 to section 43B.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80EEB_chunk_0",
+      "section_id": "income-tax-1961_section_80EEB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80EEB",
+      "section_title": "Deduction in respect of purchase of electric vehicle."
+    }
+  }
+]

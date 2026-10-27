@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 30,
+    "order": 74,
+    "stem": "section_72",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "72",
+    "article_title": "Power to nominate.",
+    "id": "companies_section_72"
+  },
+  "id": "companies_section_72",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "72",
+    "title": "Power to nominate.",
+    "content": "(1) Every holder of securities of a company may, at any time, nominate, in the prescribed manner, any person to whom his securities shall vest in the event of his death.\n(2) Where the securities of a company are held by more than one person jointly, the joint holders may together nominate, in the prescribed manner, any person to whom all the rights in the securities shall vest in the event of death of all the joint holders.\n(3) Notwithstanding anything contained in any other law for the time being in force or in any disposition, whether testamentary or otherwise, in respect of the securities of a company, where a nomination made in the prescribed manner purports to confer on any person the right to vest the securities of the company, the nominee shall, on the death of the holder of securities or, as the case may be, on the death of the joint holders, become entitled to all the rights in the securities, of the holder or, as the case may be, of all the joint holders, in relation to such securities, to the exclusion of all other persons, unless the nomination is varied or cancelled in the prescribed manner.\n(4) Where the nominee is a minor, it shall be lawful for the holder of the securities, making the nomination to appoint, in the prescribed manner, any person to become entitled to the securities of the company, in the event of the death of the nominee during his minority.\n",
+    "html": "<article class=\"provision\" data-n=\"72\" data-report=\"Section 72 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">72</span>Power to nominate.</h3></div><p class=\"prov-cite\">Section 72  ·  Chapter IV  ·  page 61 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every holder of securities of a company may, at any time, nominate, in the prescribed manner, any person to whom his securities shall vest in the event of his death.</p><p class=\"lvl\">(2) Where the securities of a company are held by more than one person jointly, the joint holders may together nominate, in the prescribed manner, any person to whom all the rights in the securities shall vest in the event of death of all the joint holders.</p><p class=\"lvl\">(3) Notwithstanding anything contained in any other law for the time being in force or in any disposition, whether testamentary or otherwise, in respect of the securities of a company, where a nomination made in the prescribed manner purports to confer on any person the right to vest the securities of the company, the nominee shall, on the death of the holder of securities or, as the case may be, on the death of the joint holders, become entitled to all the rights in the securities, of the holder or, as the case may be, of all the joint holders, in relation to such securities, to the exclusion of all other persons, unless the nomination is varied or cancelled in the prescribed manner.</p><p class=\"lvl\">(4) Where the nominee is a minor, it shall be lawful for the holder of the securities, making the nomination to appoint, in the prescribed manner, any person to become entitled to the securities of the company, in the event of the death of the nominee during his minority.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">72</span>Power to nominate.</h3></div><p class=\"prov-cite\">Section 72  ·  Chapter IV  ·  page 61 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every holder of securities of a company may, at any time, nominate, in the prescribed manner, any person to whom his securities shall vest in the event of his death.</p><p class=\"lvl\">(2) Where the securities of a company are held by more than one person jointly, the joint holders may together nominate, in the prescribed manner, any person to whom all the rights in the securities shall vest in the event of death of all the joint holders.</p><p class=\"lvl\">(3) Notwithstanding anything contained in any other law for the time being in force or in any disposition, whether testamentary or otherwise, in respect of the securities of a company, where a nomination made in the prescribed manner purports to confer on any person the right to vest the securities of the company, the nominee shall, on the death of the holder of securities or, as the case may be, on the death of the joint holders, become entitled to all the rights in the securities, of the holder or, as the case may be, of all the joint holders, in relation to such securities, to the exclusion of all other persons, unless the nomination is varied or cancelled in the prescribed manner.</p><p class=\"lvl\">(4) Where the nominee is a minor, it shall be lawful for the holder of the securities, making the nomination to appoint, in the prescribed manner, any person to become entitled to the securities of the company, in the event of the death of the nominee during his minority.</p></div>"
+  }
+}

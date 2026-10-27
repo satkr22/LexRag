@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-50.html",
+    "source_order": 50,
+    "article_order": 1,
+    "order": 50,
+    "stem": "section_50",
+    "heading_number": "Chapter IV",
+    "heading_title": "Consumer Disputer Redressal Commission",
+    "heading_range": "ss. 28–73",
+    "heading_source": "manifest",
+    "article_number": "50",
+    "article_title": "Review by State Commission in certain cases.",
+    "id": "consumer_section_50"
+  },
+  "id": "consumer_section_50",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Consumer Disputer Redressal Commission",
+    "range": "ss. 28–73"
+  },
+  "article": {
+    "number": "50",
+    "title": "Review by State Commission in certain cases.",
+    "content": "The State Commission shall have the power to review any of the order passed by it if there is an error apparent on the face of the record, either of its own motion or on an application made by any of the parties within thirty days of such order.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">50</span>Review by State Commission in certain cases.</h3></div><p class=\"prov-cite\">Section 50  ·  Chapter IV  ·  page 25 of the Act</p><div class=\"prov-body\"><p>The State Commission shall have the power to review any of the order passed by it if there is an error apparent on the face of the record, either of its own motion or on an application made by any of the parties within thirty days of such order.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">50</span>Review by State Commission in certain cases.</h3></div><p class=\"prov-cite\">Section 50  ·  Chapter IV  ·  page 25 of the Act</p><div class=\"prov-body\"><p>The State Commission shall have the power to review any of the order passed by it if there is an error apparent on the face of the record, either of its own motion or on an application made by any of the parties within thirty days of such order.</p></div>"
+  }
+}

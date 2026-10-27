@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-30.html",
+    "source_order": 34,
+    "article_order": 21,
+    "order": 402,
+    "stem": "section_115VV",
+    "heading_number": "Chapter XII-G",
+    "heading_title": "Special Provisions Relating to Income of Shipping Companies",
+    "heading_range": "ss. 115V–115VZC",
+    "heading_source": "group-head",
+    "article_number": "115VV",
+    "article_title": "Limit for charter in of tonnage.",
+    "id": "income-tax-1961_section_115VV"
+  },
+  "id": "income-tax-1961_section_115VV",
+  "heading": {
+    "number": "Chapter XII-G",
+    "title": "Special Provisions Relating to Income of Shipping Companies",
+    "range": "ss. 115V–115VZC"
+  },
+  "article": {
+    "number": "115VV",
+    "title": "Limit for charter in of tonnage.",
+    "content": "(1) In the case of every company which has opted for tonnage tax scheme, not more than forty-nine per cent of the net tonnage of the qualifying ships operated by it during any previous year shall be chartered in.\n(2) The proportion of net tonnage referred to in sub-section (1) in respect of a previous year shall be calculated based on the average of net tonnage during that previous year.\n(3) For the purposes of sub-section (2), the average of net tonnage shall be computed in such manner as may be prescribed in consultation with the Director-General of Shipping.\n(4) Where the net tonnage of ships 48[or inland vessels, as the case may be,] chartered in exceeds the limit under sub-section (1) during any previous year, the total income of such company in relation to that previous year shall be computed as if the option for tonnage tax scheme does not have effect for that previous year.\n(5) Where the limit under sub-section (1) had exceeded in any two consecutive previous years, the option for tonnage tax scheme shall cease to have effect from the beginning of the previous year following the second consecutive previous year in which the limit had exceeded.\nExplanation.—For the purposes of this section, the term \"chartered in\" shall exclude a ship 48[or inland vessel, as the case may be,] chartered in by the company on bareboat charter-cum-demise terms.\n",
+    "html": "<article class=\"provision\" data-n=\"115VV\" data-report=\"Section 115VV · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VV</span>Limit for charter in of tonnage.</h3></div><p class=\"prov-cite\">Section 115VV  ·  Chapter XII-G  ·  D.—Conditions for applicability of tonnage tax scheme  ·  page 531 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) In the case of every company which has opted for tonnage tax scheme, not more than forty-nine per cent of the net tonnage of the qualifying ships operated by it during any previous year shall be chartered in.</p><p class=\"lvl\">(2) The proportion of net tonnage referred to in sub-section (1) in respect of a previous year shall be calculated based on the average of net tonnage during that previous year.</p><p class=\"lvl\">(3) For the purposes of sub-section (2), the average of net tonnage shall be computed in such manner as may be prescribed in consultation with the Director-General of Shipping.</p><p class=\"lvl\">(4) Where the net tonnage of ships <sup>48</sup>[or inland vessels, as the case may be,] chartered in exceeds the limit under sub-section (1) during any previous year, the total income of such company in relation to that previous year shall be computed as if the option for tonnage tax scheme does not have effect for that previous year.</p><p class=\"lvl\">(5) Where the limit under sub-section (1) had exceeded in any two consecutive previous years, the option for tonnage tax scheme shall cease to have effect from the beginning of the previous year following the second consecutive previous year in which the limit had exceeded.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the term \"chartered in\" shall exclude a ship <sup>48</sup>[or inland vessel, as the case may be,] chartered in by the company on bareboat charter-cum-demise terms.</p><div class=\"fnotes\"><p class=\"fn\"><sup>48</sup> Ins. by Act No. 7 of 2025, w.e.f. 1-4-2026.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">115VV</span>Limit for charter in of tonnage.</h3></div><p class=\"prov-cite\">Section 115VV  ·  Chapter XII-G  ·  D.—Conditions for applicability of tonnage tax scheme  ·  page 531 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) In the case of every company which has opted for tonnage tax scheme, not more than forty-nine per cent of the net tonnage of the qualifying ships operated by it during any previous year shall be chartered in.</p><p class=\"lvl\">(2) The proportion of net tonnage referred to in sub-section (1) in respect of a previous year shall be calculated based on the average of net tonnage during that previous year.</p><p class=\"lvl\">(3) For the purposes of sub-section (2), the average of net tonnage shall be computed in such manner as may be prescribed in consultation with the Director-General of Shipping.</p><p class=\"lvl\">(4) Where the net tonnage of ships <sup>48</sup>[or inland vessels, as the case may be,] chartered in exceeds the limit under sub-section (1) during any previous year, the total income of such company in relation to that previous year shall be computed as if the option for tonnage tax scheme does not have effect for that previous year.</p><p class=\"lvl\">(5) Where the limit under sub-section (1) had exceeded in any two consecutive previous years, the option for tonnage tax scheme shall cease to have effect from the beginning of the previous year following the second consecutive previous year in which the limit had exceeded.</p><p class=\"prvso\">Explanation.—For the purposes of this section, the term \"chartered in\" shall exclude a ship <sup>48</sup>[or inland vessel, as the case may be,] chartered in by the company on bareboat charter-cum-demise terms.</p><div class=\"fnotes\"><p class=\"fn\"><sup>48</sup> Ins. by Act No. 7 of 2025, w.e.f. 1-4-2026.</p></div></div>"
+  }
+}

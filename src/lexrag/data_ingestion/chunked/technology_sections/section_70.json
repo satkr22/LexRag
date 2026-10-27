@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_70_chunk_0",
+    "section_id": "technology_section_70",
+    "token_count": 204,
+    "text": "[Act: technology\n Chapter: Offences\n Section: 70::Protected system.\n]\n\n\n2[(1) The appropriate Government may, by notification in the Official Gazette, declare any computer resource which directly or indirectly affects the facility of Critical Information Infrastructure, to be a protected system.\nExplanation.–For the purposes of this section, “Critical Information Infrastructure” means the computer resource, the incapacitation or destruction of which, shall have debilitating impact on national security, economy, public health or safety.]\n(2) The appropriate Government may, by order in writing, authorise the persons who are authorised to access protected systems notified under sub-section (1).\n(3) Any person who secures access or attempts to secure access to a protected system in contravention of the provisions of this section shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine.\n3[(4) The Central Government shall prescribe the information security practices and procedures for such protected system.]",
+    "metadata": {
+      "chunk_id": "technology_section_70_chunk_0",
+      "section_id": "technology_section_70",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Offences",
+      "section_number": "70",
+      "section_title": "Protected system."
+    }
+  }
+]

@@ -1,0 +1,1166 @@
+{
+  "act": "gst",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/gst_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/gst_sections",
+  "count": 193,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Officers under this Act.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Appointment of officers.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Powers of officers.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Authorisation of officers of State tax or Union territory tax as proper officer in certain circumstances.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Scope of supply.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Tax liability on composite and mixed supplies.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Levy and collection.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Composition levy.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Power to grant exemption from tax.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "11A",
+      "article_title": "Power not to recover Goods and Services Tax not levied or short-levied as a result of general practice.",
+      "file": "section_11A.json"
+    },
+    {
+      "order": 13,
+      "article_number": "12",
+      "article_title": "Time of supply of goods.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 14,
+      "article_number": "13",
+      "article_title": "Time of supply of services.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 15,
+      "article_number": "14",
+      "article_title": "Change in rate of tax in respect of supply of goods or services.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 16,
+      "article_number": "15",
+      "article_title": "Value of taxable supply.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 17,
+      "article_number": "16",
+      "article_title": "Eligibility and conditions for taking input tax credit.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 18,
+      "article_number": "17",
+      "article_title": "Apportionment of credit and blocked credits.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 19,
+      "article_number": "18",
+      "article_title": "Availability of credit in special circumstances.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 20,
+      "article_number": "19",
+      "article_title": "Taking input tax credit in respect of inputs and capital goods sent for job work.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 21,
+      "article_number": "20",
+      "article_title": "Manner of distribution of credit by Input Service Distributor.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 22,
+      "article_number": "21",
+      "article_title": "Manner of recovery of credit distributed in excess.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 23,
+      "article_number": "22",
+      "article_title": "Persons liable for registration.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 24,
+      "article_number": "23",
+      "article_title": "Persons not liable for registration.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 25,
+      "article_number": "24",
+      "article_title": "Compulsory registration in certain cases.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 26,
+      "article_number": "25",
+      "article_title": "Procedure for registration.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 27,
+      "article_number": "26",
+      "article_title": "Deemed registration.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 28,
+      "article_number": "27",
+      "article_title": "Special provisions relating to casual taxable person and non-resident taxable person.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 29,
+      "article_number": "28",
+      "article_title": "Amendment of registration.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 30,
+      "article_number": "29",
+      "article_title": "Cancellation or suspension of registration.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 31,
+      "article_number": "30",
+      "article_title": "Revocation of cancellation of registration.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 32,
+      "article_number": "31",
+      "article_title": "Tax invoice.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 33,
+      "article_number": "31A",
+      "article_title": "Facility of digital payment to recipient.",
+      "file": "section_31A.json"
+    },
+    {
+      "order": 34,
+      "article_number": "32",
+      "article_title": "Prohibition of unauthorised collection of tax.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 35,
+      "article_number": "33",
+      "article_title": "Amount of tax to be indicated in tax invoice and other documents.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 36,
+      "article_number": "34",
+      "article_title": "Credit and debit notes.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 37,
+      "article_number": "35",
+      "article_title": "Accounts and other records.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 38,
+      "article_number": "36",
+      "article_title": "Period of retention of accounts.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 39,
+      "article_number": "37",
+      "article_title": "Furnishing details of outward supplies.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 40,
+      "article_number": "38",
+      "article_title": "Communication of details of inward supplies and input tax credit.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 41,
+      "article_number": "39",
+      "article_title": "Furnishing of returns.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 42,
+      "article_number": "40",
+      "article_title": "First return.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 43,
+      "article_number": "41",
+      "article_title": "Availment of input tax credit.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 44,
+      "article_number": "42",
+      "article_title": "Matching, reversal and reclaim of input tax credit",
+      "file": "section_42.json"
+    },
+    {
+      "order": 45,
+      "article_number": "43",
+      "article_title": "Matching, reversal and reclaim of reduction in output tax liability",
+      "file": "section_43.json"
+    },
+    {
+      "order": 46,
+      "article_number": "43A",
+      "article_title": "Procedure for furnishing return and availing input tax credit",
+      "file": "section_43A.json"
+    },
+    {
+      "order": 47,
+      "article_number": "44",
+      "article_title": "Annual return.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 48,
+      "article_number": "45",
+      "article_title": "Final return.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 49,
+      "article_number": "46",
+      "article_title": "Notice to return defaulters.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 50,
+      "article_number": "47",
+      "article_title": "Levy of late fee.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 51,
+      "article_number": "48",
+      "article_title": "Goods and services tax practitioners.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 52,
+      "article_number": "49",
+      "article_title": "Payment of tax, interest, penalty and other amounts.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 53,
+      "article_number": "49A",
+      "article_title": "Utilisation of input tax credit subject to certain conditions.",
+      "file": "section_49A.json"
+    },
+    {
+      "order": 54,
+      "article_number": "49B",
+      "article_title": "Order of utilisation of input tax credit.",
+      "file": "section_49B.json"
+    },
+    {
+      "order": 55,
+      "article_number": "50",
+      "article_title": "Interest on delayed payment of tax.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 56,
+      "article_number": "51",
+      "article_title": "Tax deduction at source.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 57,
+      "article_number": "52",
+      "article_title": "Collection of tax at source.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 58,
+      "article_number": "53",
+      "article_title": "Transfer of input tax credit.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 59,
+      "article_number": "53A",
+      "article_title": "Transfer of certain amounts.",
+      "file": "section_53A.json"
+    },
+    {
+      "order": 60,
+      "article_number": "54",
+      "article_title": "Refund of tax.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 61,
+      "article_number": "55",
+      "article_title": "Refund in certain cases.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 62,
+      "article_number": "56",
+      "article_title": "Interest on delayed refunds.",
+      "file": "section_56.json"
+    },
+    {
+      "order": 63,
+      "article_number": "57",
+      "article_title": "Consumer Welfare Fund.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 64,
+      "article_number": "58",
+      "article_title": "Utilisation of Fund.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 65,
+      "article_number": "59",
+      "article_title": "Self-assessment.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 66,
+      "article_number": "60",
+      "article_title": "Provisional assessment.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 67,
+      "article_number": "61",
+      "article_title": "Scrutiny of returns.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 68,
+      "article_number": "62",
+      "article_title": "Assessment of non-filers of returns.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 69,
+      "article_number": "63",
+      "article_title": "Assessment of unregistered persons.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 70,
+      "article_number": "64",
+      "article_title": "Summary assessment in certain special cases.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 71,
+      "article_number": "65",
+      "article_title": "Audit by tax authorities.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 72,
+      "article_number": "66",
+      "article_title": "Special audit.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 73,
+      "article_number": "67",
+      "article_title": "Power of inspection, search and seizure.",
+      "file": "section_67.json"
+    },
+    {
+      "order": 74,
+      "article_number": "68",
+      "article_title": "Inspection of goods in movement.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 75,
+      "article_number": "69",
+      "article_title": "Power to arrest.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 76,
+      "article_number": "70",
+      "article_title": "Power to summon persons to give evidence and produce documents.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 77,
+      "article_number": "71",
+      "article_title": "Access to business premises.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 78,
+      "article_number": "72",
+      "article_title": "Officers to assist proper officers.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 79,
+      "article_number": "73",
+      "article_title": "Determination of tax, pertaining to the period up to Financial Year 2023-24, not paid or short paid or erroneously refunded or input tax credit wrongly availed or utilised for any reason other than fraud or any wilful-misstatement or suppression of facts.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 80,
+      "article_number": "74",
+      "article_title": "Determination of tax, pertaining to the period up to Financial Year 2023-24, not paid or short paid or erroneously refunded or input tax credit wrongly availed or utilised by reason of fraud or any wilful-misstatement or suppression of facts.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 81,
+      "article_number": "74A",
+      "article_title": "Determination of tax not paid or short paid or erroneously refunded or input tax credit wrongly availed or utilised for any reason pertaining to Financial Year 2024-25 onward.",
+      "file": "section_74A.json"
+    },
+    {
+      "order": 82,
+      "article_number": "75",
+      "article_title": "General provisions relating to determination of tax.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 83,
+      "article_number": "76",
+      "article_title": "Tax collected but not paid to Government.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 84,
+      "article_number": "77",
+      "article_title": "Tax wrongfully collected and paid to Central Government or State Government.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 85,
+      "article_number": "78",
+      "article_title": "Initiation of recovery proceedings.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 86,
+      "article_number": "79",
+      "article_title": "Recovery of tax.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 87,
+      "article_number": "80",
+      "article_title": "Payment of tax and other amount in instalments.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 88,
+      "article_number": "81",
+      "article_title": "Transfer of property to be void in certain cases.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 89,
+      "article_number": "82",
+      "article_title": "Tax to be first charge on property.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 90,
+      "article_number": "83",
+      "article_title": "Provisional attachment to protect revenue in certain cases.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 91,
+      "article_number": "84",
+      "article_title": "Continuation and validation of certain recovery proceedings.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 92,
+      "article_number": "85",
+      "article_title": "Liability in case of transfer of business.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 93,
+      "article_number": "86",
+      "article_title": "Liability of agent and principal.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 94,
+      "article_number": "87",
+      "article_title": "Liability in case of amalgamation or merger of companies.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 95,
+      "article_number": "88",
+      "article_title": "Liability in case of company in liquidation.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 96,
+      "article_number": "89",
+      "article_title": "Liability of directors of private company.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 97,
+      "article_number": "90",
+      "article_title": "Liability of partners of firm to pay tax.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 98,
+      "article_number": "91",
+      "article_title": "Liability of guardians, trustees, etc.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 99,
+      "article_number": "92",
+      "article_title": "Liability of Court of Wards, etc.",
+      "file": "section_92.json"
+    },
+    {
+      "order": 100,
+      "article_number": "93",
+      "article_title": "Special provisions regarding liability to pay tax, interest or penalty in certain cases.",
+      "file": "section_93.json"
+    },
+    {
+      "order": 101,
+      "article_number": "94",
+      "article_title": "Liability in other cases.",
+      "file": "section_94.json"
+    },
+    {
+      "order": 102,
+      "article_number": "95",
+      "article_title": "Definitions.",
+      "file": "section_95.json"
+    },
+    {
+      "order": 103,
+      "article_number": "96",
+      "article_title": "Authority for advance ruling.",
+      "file": "section_96.json"
+    },
+    {
+      "order": 104,
+      "article_number": "97",
+      "article_title": "Application for advance ruling.",
+      "file": "section_97.json"
+    },
+    {
+      "order": 105,
+      "article_number": "98",
+      "article_title": "Procedure on receipt of application.",
+      "file": "section_98.json"
+    },
+    {
+      "order": 106,
+      "article_number": "99",
+      "article_title": "Appellate Authority for advance ruling.",
+      "file": "section_99.json"
+    },
+    {
+      "order": 107,
+      "article_number": "100",
+      "article_title": "Appeal to Appellate Authority.",
+      "file": "section_100.json"
+    },
+    {
+      "order": 108,
+      "article_number": "101",
+      "article_title": "Orders of Appellate Authority.",
+      "file": "section_101.json"
+    },
+    {
+      "order": 109,
+      "article_number": "101A",
+      "article_title": "Constitution of National Appellate Authority for Advance Ruling.",
+      "file": "section_101A.json"
+    },
+    {
+      "order": 110,
+      "article_number": "101B",
+      "article_title": "Appeal to National Appellate Authority.",
+      "file": "section_101B.json"
+    },
+    {
+      "order": 111,
+      "article_number": "101C",
+      "article_title": "Order of National Appellate Authority.",
+      "file": "section_101C.json"
+    },
+    {
+      "order": 112,
+      "article_number": "102",
+      "article_title": "Rectification of advance ruling.",
+      "file": "section_102.json"
+    },
+    {
+      "order": 113,
+      "article_number": "103",
+      "article_title": "Applicability of advance ruling.",
+      "file": "section_103.json"
+    },
+    {
+      "order": 114,
+      "article_number": "104",
+      "article_title": "Advance ruling to be void in certain circumstances.",
+      "file": "section_104.json"
+    },
+    {
+      "order": 115,
+      "article_number": "105",
+      "article_title": "Powers of Authority, Appellate Authority and National Appellate Authority.",
+      "file": "section_105.json"
+    },
+    {
+      "order": 116,
+      "article_number": "106",
+      "article_title": "Procedure of Authority, Appellate Authority and National Appellate Authority.",
+      "file": "section_106.json"
+    },
+    {
+      "order": 117,
+      "article_number": "107",
+      "article_title": "Appeals to Appellate Authority.",
+      "file": "section_107.json"
+    },
+    {
+      "order": 118,
+      "article_number": "108",
+      "article_title": "Powers of Revisional Authority.",
+      "file": "section_108.json"
+    },
+    {
+      "order": 119,
+      "article_number": "109",
+      "article_title": "Constitution of Appellate Tribunal and Benches thereof.",
+      "file": "section_109.json"
+    },
+    {
+      "order": 120,
+      "article_number": "110",
+      "article_title": "President and Members of Appellate Tribunal, their qualification, appointment, conditions of service, etc.",
+      "file": "section_110.json"
+    },
+    {
+      "order": 121,
+      "article_number": "111",
+      "article_title": "Procedure before Appellate Tribunal.",
+      "file": "section_111.json"
+    },
+    {
+      "order": 122,
+      "article_number": "112",
+      "article_title": "Appeals to Appellate Tribunal.",
+      "file": "section_112.json"
+    },
+    {
+      "order": 123,
+      "article_number": "113",
+      "article_title": "Orders of Appellate Tribunal.",
+      "file": "section_113.json"
+    },
+    {
+      "order": 124,
+      "article_number": "114",
+      "article_title": "Financial and administrative powers of President.",
+      "file": "section_114.json"
+    },
+    {
+      "order": 125,
+      "article_number": "115",
+      "article_title": "Interest on refund of amount paid for admission of appeal.",
+      "file": "section_115.json"
+    },
+    {
+      "order": 126,
+      "article_number": "116",
+      "article_title": "Appearance by authorised representative.",
+      "file": "section_116.json"
+    },
+    {
+      "order": 127,
+      "article_number": "117",
+      "article_title": "Appeal to High Court.",
+      "file": "section_117.json"
+    },
+    {
+      "order": 128,
+      "article_number": "118",
+      "article_title": "Appeal to Supreme Court.",
+      "file": "section_118.json"
+    },
+    {
+      "order": 129,
+      "article_number": "119",
+      "article_title": "Sums due to be paid notwithstanding appeal, etc.",
+      "file": "section_119.json"
+    },
+    {
+      "order": 130,
+      "article_number": "120",
+      "article_title": "Appeal not to be filed in certain cases.",
+      "file": "section_120.json"
+    },
+    {
+      "order": 131,
+      "article_number": "121",
+      "article_title": "Non-appealable decisions and orders.",
+      "file": "section_121.json"
+    },
+    {
+      "order": 132,
+      "article_number": "122",
+      "article_title": "Penalty for certain offences.",
+      "file": "section_122.json"
+    },
+    {
+      "order": 133,
+      "article_number": "122A",
+      "article_title": "Penalty for failure to register certain machines used in manufacture of goods as per special procedure.",
+      "file": "section_122A.json"
+    },
+    {
+      "order": 134,
+      "article_number": "122B",
+      "article_title": "Penalty for failure to comply with track and trace mechanism.",
+      "file": "section_122B.json"
+    },
+    {
+      "order": 135,
+      "article_number": "123",
+      "article_title": "Penalty for failure to furnish information return.",
+      "file": "section_123.json"
+    },
+    {
+      "order": 136,
+      "article_number": "124",
+      "article_title": "Fine for failure to furnish statistics.",
+      "file": "section_124.json"
+    },
+    {
+      "order": 137,
+      "article_number": "125",
+      "article_title": "General penalty.",
+      "file": "section_125.json"
+    },
+    {
+      "order": 138,
+      "article_number": "126",
+      "article_title": "General disciplines related to penalty.",
+      "file": "section_126.json"
+    },
+    {
+      "order": 139,
+      "article_number": "127",
+      "article_title": "Power to impose penalty in certain cases.",
+      "file": "section_127.json"
+    },
+    {
+      "order": 140,
+      "article_number": "128",
+      "article_title": "Power to waive penalty or fee or both.",
+      "file": "section_128.json"
+    },
+    {
+      "order": 141,
+      "article_number": "128A",
+      "article_title": "Waiver of interest or penalty or both relating to demands raised under section 73, for certain tax periods.",
+      "file": "section_128A.json"
+    },
+    {
+      "order": 142,
+      "article_number": "129",
+      "article_title": "Detention, seizure and release of goods and conveyances in transit.",
+      "file": "section_129.json"
+    },
+    {
+      "order": 143,
+      "article_number": "130",
+      "article_title": "Confiscation of goods or conveyances and levy of penalty.",
+      "file": "section_130.json"
+    },
+    {
+      "order": 144,
+      "article_number": "131",
+      "article_title": "Confiscation or penalty not to interfere with other punishments.",
+      "file": "section_131.json"
+    },
+    {
+      "order": 145,
+      "article_number": "132",
+      "article_title": "Punishment for certain offences.",
+      "file": "section_132.json"
+    },
+    {
+      "order": 146,
+      "article_number": "133",
+      "article_title": "Liability of officers and certain other persons.",
+      "file": "section_133.json"
+    },
+    {
+      "order": 147,
+      "article_number": "134",
+      "article_title": "Cognizance of offences.",
+      "file": "section_134.json"
+    },
+    {
+      "order": 148,
+      "article_number": "135",
+      "article_title": "Presumption of culpable mental state.",
+      "file": "section_135.json"
+    },
+    {
+      "order": 149,
+      "article_number": "136",
+      "article_title": "Relevancy of statements under certain circumstances.",
+      "file": "section_136.json"
+    },
+    {
+      "order": 150,
+      "article_number": "137",
+      "article_title": "Offences by companies.",
+      "file": "section_137.json"
+    },
+    {
+      "order": 151,
+      "article_number": "138",
+      "article_title": "Compounding of offences.",
+      "file": "section_138.json"
+    },
+    {
+      "order": 152,
+      "article_number": "139",
+      "article_title": "Migration of existing taxpayers.",
+      "file": "section_139.json"
+    },
+    {
+      "order": 153,
+      "article_number": "140",
+      "article_title": "Transitional arrangements for input tax credit.",
+      "file": "section_140.json"
+    },
+    {
+      "order": 154,
+      "article_number": "141",
+      "article_title": "Transitional provisions relating to job work.",
+      "file": "section_141.json"
+    },
+    {
+      "order": 155,
+      "article_number": "142",
+      "article_title": "Miscellaneous transitional provisions.",
+      "file": "section_142.json"
+    },
+    {
+      "order": 156,
+      "article_number": "143",
+      "article_title": "Job work procedure.",
+      "file": "section_143.json"
+    },
+    {
+      "order": 157,
+      "article_number": "144",
+      "article_title": "Presumption as to documents in certain cases.",
+      "file": "section_144.json"
+    },
+    {
+      "order": 158,
+      "article_number": "145",
+      "article_title": "Admissibility of micro films, facsimile copies of documents and computer printouts as documents and as evidence.",
+      "file": "section_145.json"
+    },
+    {
+      "order": 159,
+      "article_number": "146",
+      "article_title": "Common Portal.",
+      "file": "section_146.json"
+    },
+    {
+      "order": 160,
+      "article_number": "147",
+      "article_title": "Deemed exports.",
+      "file": "section_147.json"
+    },
+    {
+      "order": 161,
+      "article_number": "148",
+      "article_title": "Special procedure for certain processes.",
+      "file": "section_148.json"
+    },
+    {
+      "order": 162,
+      "article_number": "148A",
+      "article_title": "Track and trace mechanism for certain goods.",
+      "file": "section_148A.json"
+    },
+    {
+      "order": 163,
+      "article_number": "149",
+      "article_title": "Goods and services tax compliance rating.",
+      "file": "section_149.json"
+    },
+    {
+      "order": 164,
+      "article_number": "150",
+      "article_title": "Obligation to furnish information return.",
+      "file": "section_150.json"
+    },
+    {
+      "order": 165,
+      "article_number": "151",
+      "article_title": "Power to call for information.",
+      "file": "section_151.json"
+    },
+    {
+      "order": 166,
+      "article_number": "152",
+      "article_title": "Bar on disclosure of information.",
+      "file": "section_152.json"
+    },
+    {
+      "order": 167,
+      "article_number": "153",
+      "article_title": "Taking assistance from an expert.",
+      "file": "section_153.json"
+    },
+    {
+      "order": 168,
+      "article_number": "154",
+      "article_title": "Power to take samples.",
+      "file": "section_154.json"
+    },
+    {
+      "order": 169,
+      "article_number": "155",
+      "article_title": "Burden of proof.",
+      "file": "section_155.json"
+    },
+    {
+      "order": 170,
+      "article_number": "156",
+      "article_title": "Persons deemed to be public servants.",
+      "file": "section_156.json"
+    },
+    {
+      "order": 171,
+      "article_number": "157",
+      "article_title": "Protection of action taken under this Act.",
+      "file": "section_157.json"
+    },
+    {
+      "order": 172,
+      "article_number": "158",
+      "article_title": "Disclosure of information by a public servant.",
+      "file": "section_158.json"
+    },
+    {
+      "order": 173,
+      "article_number": "158A",
+      "article_title": "Consent based sharing of information furnished by taxable person.",
+      "file": "section_158A.json"
+    },
+    {
+      "order": 174,
+      "article_number": "159",
+      "article_title": "Publication of information in respect of persons in certain cases.",
+      "file": "section_159.json"
+    },
+    {
+      "order": 175,
+      "article_number": "160",
+      "article_title": "Assessment proceedings, etc., not to be invalid on certain grounds.",
+      "file": "section_160.json"
+    },
+    {
+      "order": 176,
+      "article_number": "161",
+      "article_title": "Rectification of errors apparent on the face of record.",
+      "file": "section_161.json"
+    },
+    {
+      "order": 177,
+      "article_number": "162",
+      "article_title": "Bar on jurisdiction of civil courts.",
+      "file": "section_162.json"
+    },
+    {
+      "order": 178,
+      "article_number": "163",
+      "article_title": "Levy of fee.",
+      "file": "section_163.json"
+    },
+    {
+      "order": 179,
+      "article_number": "164",
+      "article_title": "Power of Government to make rules.",
+      "file": "section_164.json"
+    },
+    {
+      "order": 180,
+      "article_number": "165",
+      "article_title": "Power to make regulations.",
+      "file": "section_165.json"
+    },
+    {
+      "order": 181,
+      "article_number": "166",
+      "article_title": "Laying of rules, regulations and notifications.",
+      "file": "section_166.json"
+    },
+    {
+      "order": 182,
+      "article_number": "167",
+      "article_title": "Delegation of powers.",
+      "file": "section_167.json"
+    },
+    {
+      "order": 183,
+      "article_number": "168",
+      "article_title": "Power to issue instructions or directions.",
+      "file": "section_168.json"
+    },
+    {
+      "order": 184,
+      "article_number": "168A",
+      "article_title": "Power of Government to extend time limit in special circumstances.",
+      "file": "section_168A.json"
+    },
+    {
+      "order": 185,
+      "article_number": "169",
+      "article_title": "Service of notice in certain circumstances.",
+      "file": "section_169.json"
+    },
+    {
+      "order": 186,
+      "article_number": "170",
+      "article_title": "Rounding off of tax, etc.",
+      "file": "section_170.json"
+    },
+    {
+      "order": 187,
+      "article_number": "171",
+      "article_title": "Anti-profiteering measure.",
+      "file": "section_171.json"
+    },
+    {
+      "order": 188,
+      "article_number": "172",
+      "article_title": "Removal of difficulties.",
+      "file": "section_172.json"
+    },
+    {
+      "order": 189,
+      "article_number": "173",
+      "article_title": "Amendment of Act 32 of 1994.",
+      "file": "section_173.json"
+    },
+    {
+      "order": 190,
+      "article_number": "174",
+      "article_title": "Repeal and saving.",
+      "file": "section_174.json"
+    },
+    {
+      "order": 191,
+      "article_number": "I",
+      "article_title": "SCHEDULE I",
+      "file": "section_I.json"
+    },
+    {
+      "order": 192,
+      "article_number": "II",
+      "article_title": "SCHEDULE II",
+      "file": "section_II.json"
+    },
+    {
+      "order": 193,
+      "article_number": "III",
+      "article_title": "SCHEDULE III",
+      "file": "section_III.json"
+    }
+  ]
+}

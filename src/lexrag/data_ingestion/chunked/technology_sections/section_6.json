@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_6_chunk_0",
+    "section_id": "technology_section_6",
+    "token_count": 244,
+    "text": "[Act: technology\n Chapter: Electronic Governance\n Section: 6::Use of electronic records and 1 [electronic signatures] in Government and its agencies.\n]\n\n\n(1) Where any law provides for–\n(a) the filing of any form, application or any other document with any office, authority, body or agency owned or controlled by the appropriate Government in a particular manner;\n(b) the issue or grant of any licence, permit, sanction or approval by whatever name called in a particular manner;\n(c) the receipt or payment of money in a particular manner,\nthen, notwithstanding anything contained in any other law for the time being in force, such requirement shall be deemed to have been satisfied if such filing, issue, grant, receipt or payment, as the case may be, is effected by means of such electronic form as may be prescribed by the appropriate Government.\n(2) The appropriate Government may, for the purposes of sub-section (1), by rules, prescribe–\n(a) the manner and format in which such electronic records shall be filed, created or issued;\n(b) the manner or method of payment of any fee or charges for filing, creation or issue any electronic record under clause (a).",
+    "metadata": {
+      "chunk_id": "technology_section_6_chunk_0",
+      "section_id": "technology_section_6",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Electronic Governance",
+      "section_number": "6",
+      "section_title": "Use of electronic records and 1 [electronic signatures] in Government and its agencies."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_3A_chunk_0",
+    "section_id": "technology_section_3A",
+    "token_count": 432,
+    "text": "[Act: technology\n Chapter: Digital Signature and Electronic Signature2\n Section: 3A::Electronic signature.\n]\n\n\n3[3A. Electronic signature.–(1) Notwithstanding anything contained in section 3, but subject to the provisions of sub-section (2), a subscriber may authenticate any electronic record by such electronic signature or electronic authentication technique which–\n(a) is considered reliable; and\n(b) may be specified in the Second Schedule.\n(2) For the purposes of this section any electronic signature or electronic authentication technique shall be considered reliable if–\n(a) the signature creation data or the authentication data are, within the context in which they are used, linked to the signatory or, as the case may be, the authenticator and to no other person;\n(b) the signature creation data or the authentication data were, at the time of signing, under the control of the signatory or, as the case may be, the authenticator and of no other person;\n(c) any alteration to the electronic signature made after affixing such signature is detectable;\n(d) any alteration to the information made after its authentication by electronic signature is detectable; and\n(e) it fulfils such other conditions which may be prescribed.\n(3) The Central Government may prescribe the procedure for the purpose of ascertaining whether electronic signature is that of the person by whom it is purported to have been affixed or authenticated.\n(4) The Central Government may, by notification in the Official Gazette, add to or omit any electronic signature or electronic authentication technique and the procedure for affixing such signature from the Second Schedule:\nProvided that no electronic signature or authentication technique shall be specified in the Second Schedule unless such signature or technique is reliable.\n(5) Every notification issued under sub-section (4) shall be laid before each House of Parliament.]\nInserted by Act 10 of 2009, s. 6 (w.e.f. 27-10-2009).\nNote: the whole section is enclosed in the insertion bracket that opens before its number, so the opening marker and number are kept in the text.",
+    "metadata": {
+      "chunk_id": "technology_section_3A_chunk_0",
+      "section_id": "technology_section_3A",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Digital Signature and Electronic Signature2",
+      "section_number": "3A",
+      "section_title": "Electronic signature."
+    }
+  }
+]

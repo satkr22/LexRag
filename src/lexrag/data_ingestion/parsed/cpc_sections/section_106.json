@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-08.html",
+    "source_order": 8,
+    "article_order": 13,
+    "order": 114,
+    "stem": "section_106",
+    "heading_number": "Part Vii",
+    "heading_title": "Appeals",
+    "heading_range": "ss. 96–112",
+    "heading_source": "group-head",
+    "article_number": "106",
+    "article_title": "What Courts to hear appeals.",
+    "id": "cpc_section_106"
+  },
+  "id": "cpc_section_106",
+  "heading": {
+    "number": "Part Vii",
+    "title": "Appeals",
+    "range": "ss. 96–112"
+  },
+  "article": {
+    "number": "106",
+    "title": "What Courts to hear appeals.",
+    "content": "Appeals from orders\nWhere an appeal from any order is allowed it shall lie to the Court to which an appeal would lie from the decree in the suit in which such order was made, or where such order is made by a Court (not being a High Court) in the exercise of appellate jurisdiction, then to the High Court.\n",
+    "html": "<article class=\"provision\" data-n=\"106\" data-report=\"Section 106 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>What Courts to hear appeals.</h3></div><p class=\"prov-cite\">Section 106</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from orders</p><p>Where an appeal from any order is allowed it shall lie to the Court to which an appeal would lie from the decree in the suit in which such order was made, or where such order is made by a Court (not being a High Court) in the exercise of appellate jurisdiction, then to the High Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>What Courts to hear appeals.</h3></div><p class=\"prov-cite\">Section 106</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from orders</p><p>Where an appeal from any order is allowed it shall lie to the Court to which an appeal would lie from the decree in the suit in which such order was made, or where such order is made by a Court (not being a High Court) in the exercise of appellate jurisdiction, then to the High Court.</p></div>"
+  }
+}

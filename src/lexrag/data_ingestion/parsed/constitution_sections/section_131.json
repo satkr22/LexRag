@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 83,
+    "order": 146,
+    "stem": "section_131",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "131",
+    "article_title": "Original jurisdiction of the Supreme Court",
+    "id": "constitution_section_131"
+  },
+  "id": "constitution_section_131",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "131",
+    "title": "Original jurisdiction of the Supreme Court",
+    "content": "Subject to the provisions of this Constitution, the Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute—\n(a)between the Government of India and one or more States; or\n(b)between the Government of India and any State or States on one side and one or more other States on the other; or\n(c)between two or more States,\nif and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends:\nProviso1[Provided that the said jurisdiction shall not extend to a dispute arising out of any treaty, agreement, covenant, engagement, sanad or other similar instrument which, having been entered into or executed before the commencement of this Constitution, continues in operation after such commencement, or which provides that the said jurisdiction shall not extend to such a dispute.]\n",
+    "html": "<article class=\"provision\" data-n=\"131\" data-report=\"Article 131 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Original jurisdiction of the Supreme Court</h3></div><p class=\"prov-cite\">Article 131 · Part V</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, the Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute—</p><p><span class=\"lbl\">(a)</span>between the Government of India and one or more States; or</p><p><span class=\"lbl\">(b)</span>between the Government of India and any State or States on one side and one or more other States on the other; or</p><p><span class=\"lbl\">(c)</span>between two or more States,</p><p>if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends:</p><p><span class=\"named\">Proviso</span><sup>1</sup>[Provided that the said jurisdiction shall not extend to a dispute arising out of any treaty, agreement, covenant, engagement, sanad or other similar instrument which, having been entered into or executed before the commencement of this Constitution, continues in operation after such commencement, or which provides that the said jurisdiction shall not extend to such a dispute.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 5, for the proviso (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Original jurisdiction of the Supreme Court</h3></div><p class=\"prov-cite\">Article 131 · Part V</p><div class=\"prov-body\"><p>Subject to the provisions of this Constitution, the Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute—</p><p><span class=\"lbl\">(a)</span>between the Government of India and one or more States; or</p><p><span class=\"lbl\">(b)</span>between the Government of India and any State or States on one side and one or more other States on the other; or</p><p><span class=\"lbl\">(c)</span>between two or more States,</p><p>if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends:</p><p><span class=\"named\">Proviso</span><sup>1</sup>[Provided that the said jurisdiction shall not extend to a dispute arising out of any treaty, agreement, covenant, engagement, sanad or other similar instrument which, having been entered into or executed before the commencement of this Constitution, continues in operation after such commencement, or which provides that the said jurisdiction shall not extend to such a dispute.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 5, for the proviso (w.e.f. 1-11-1956).</p></div>"
+  }
+}

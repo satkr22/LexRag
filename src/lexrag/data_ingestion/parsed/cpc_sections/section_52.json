@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-03.html",
+    "source_order": 3,
+    "article_order": 18,
+    "order": 56,
+    "stem": "section_52",
+    "heading_number": "Part Ii",
+    "heading_title": "Execution",
+    "heading_range": "ss. 36–74",
+    "heading_source": "group-head",
+    "article_number": "52",
+    "article_title": "Enforcement of decree against legal representative.",
+    "id": "cpc_section_52"
+  },
+  "id": "cpc_section_52",
+  "heading": {
+    "number": "Part Ii",
+    "title": "Execution",
+    "range": "ss. 36–74"
+  },
+  "article": {
+    "number": "52",
+    "title": "Enforcement of decree against legal representative.",
+    "content": "Procedure in execution\n(1) Where a decree is passed against a party as the legal representative of a deceased person, and the decree is for the payment of money out of the property of the deceased, it may be executed by the attachment and sale of any such property.\n(2) Where no such property remains in the possession of the judgment-debtor and he fails to satisfy the Court that he has duly applied such property of the deceased as is proved to have come into his possession, the decree may be executed against the judgment-debtor to the extent of the property in respect of which he has failed so to satisfy the Court in the same manner as if the decree had been against him personally.\n",
+    "html": "<article class=\"provision\" data-n=\"52\" data-report=\"Section 52 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Enforcement of decree against legal representative.</h3></div><p class=\"prov-cite\">Section 52</p><div class=\"prov-body\"><p class=\"sched-title\">Procedure in execution</p><p class=\"lvl\">(1) Where a decree is passed against a party as the legal representative of a deceased person, and the decree is for the payment of money out of the property of the deceased, it may be executed by the attachment and sale of any such property.</p><p class=\"lvl\">(2) Where no such property remains in the possession of the judgment-debtor and he fails to satisfy the Court that he has duly applied such property of the deceased as is proved to have come into his possession, the decree may be executed against the judgment-debtor to the extent of the property in respect of which he has failed so to satisfy the Court in the same manner as if the decree had been against him personally.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Enforcement of decree against legal representative.</h3></div><p class=\"prov-cite\">Section 52</p><div class=\"prov-body\"><p class=\"sched-title\">Procedure in execution</p><p class=\"lvl\">(1) Where a decree is passed against a party as the legal representative of a deceased person, and the decree is for the payment of money out of the property of the deceased, it may be executed by the attachment and sale of any such property.</p><p class=\"lvl\">(2) Where no such property remains in the possession of the judgment-debtor and he fails to satisfy the Court that he has duly applied such property of the deceased as is proved to have come into his possession, the decree may be executed against the judgment-debtor to the extent of the property in respect of which he has failed so to satisfy the Court in the same manner as if the decree had been against him personally.</p></div>"
+  }
+}

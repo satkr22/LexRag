@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-03.html",
+    "source_order": 3,
+    "article_order": 17,
+    "order": 41,
+    "stem": "section_39",
+    "heading_number": "Chapter III",
+    "heading_title": "Prospectus and Allotment of Securities",
+    "heading_range": "ss. 23–42",
+    "heading_source": "group-head",
+    "article_number": "39",
+    "article_title": "Allotment of securities by company.",
+    "id": "companies_section_39"
+  },
+  "id": "companies_section_39",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Prospectus and Allotment of Securities",
+    "range": "ss. 23–42"
+  },
+  "article": {
+    "number": "39",
+    "title": "Allotment of securities by company.",
+    "content": "(1) No allotment of any securities of a company offered to the public for subscription shall be made unless the amount stated in the prospectus as the minimum amount has been subscribed and the sums payable on application for the amount so stated have been paid to and received by the company by cheque or other instrument.\n(2) The amount payable on application on every security shall not be less than five per cent. of the nominal amount of the security or such other percentage or amount, as may be specified by the Securities and Exchange Board by making regulations in this behalf.\n(3) If the stated minimum amount has not been subscribed and the sum payable on application is not received within a period of thirty days from the date of issue of the prospectus, or such other period as may be specified by the Securities and Exchange Board, the amount received under sub-section (1) shall be returned within such time and manner as may be prescribed.\n(4) Whenever a company having a share capital makes any allotment of securities, it shall file with the Registrar a return of allotment in such manner as may be prescribed.\n(5) In case of any default under sub-section (3) or sub-section (4), the company and its officer who is in default shall be liable to a penalty, for each default, of one thousand rupees for each day during which such default continues or one lakh rupees, whichever is less.\n",
+    "html": "<article class=\"provision\" data-n=\"39\" data-report=\"Section 39 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">39</span>Allotment of securities by company.</h3></div><p class=\"prov-cite\">Section 39  ·  Chapter III  ·  Part I  ·  page 44 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No allotment of any securities of a company offered to the public for subscription shall be made unless the amount stated in the prospectus as the minimum amount has been subscribed and the sums payable on application for the amount so stated have been paid to and received by the company by cheque or other instrument.</p><p class=\"lvl\">(2) The amount payable on application on every security shall not be less than five per cent. of the nominal amount of the security or such other percentage or amount, as may be specified by the Securities and Exchange Board by making regulations in this behalf.</p><p class=\"lvl\">(3) If the stated minimum amount has not been subscribed and the sum payable on application is not received within a period of thirty days from the date of issue of the prospectus, or such other period as may be specified by the Securities and Exchange Board, the amount received under sub-section (1) shall be returned within such time and manner as may be prescribed.</p><p class=\"lvl\">(4) Whenever a company having a share capital makes any allotment of securities, it shall file with the Registrar a return of allotment in such manner as may be prescribed.</p><p class=\"lvl\">(5) In case of any default under sub-section (3) or sub-section (4), the company and its officer who is in default shall be liable to a penalty, for each default, of one thousand rupees for each day during which such default continues or one lakh rupees, whichever is less.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">39</span>Allotment of securities by company.</h3></div><p class=\"prov-cite\">Section 39  ·  Chapter III  ·  Part I  ·  page 44 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No allotment of any securities of a company offered to the public for subscription shall be made unless the amount stated in the prospectus as the minimum amount has been subscribed and the sums payable on application for the amount so stated have been paid to and received by the company by cheque or other instrument.</p><p class=\"lvl\">(2) The amount payable on application on every security shall not be less than five per cent. of the nominal amount of the security or such other percentage or amount, as may be specified by the Securities and Exchange Board by making regulations in this behalf.</p><p class=\"lvl\">(3) If the stated minimum amount has not been subscribed and the sum payable on application is not received within a period of thirty days from the date of issue of the prospectus, or such other period as may be specified by the Securities and Exchange Board, the amount received under sub-section (1) shall be returned within such time and manner as may be prescribed.</p><p class=\"lvl\">(4) Whenever a company having a share capital makes any allotment of securities, it shall file with the Registrar a return of allotment in such manner as may be prescribed.</p><p class=\"lvl\">(5) In case of any default under sub-section (3) or sub-section (4), the company and its officer who is in default shall be liable to a penalty, for each default, of one thousand rupees for each day during which such default continues or one lakh rupees, whichever is less.</p></div>"
+  }
+}

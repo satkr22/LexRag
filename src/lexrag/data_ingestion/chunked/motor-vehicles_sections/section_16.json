@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_16_chunk_0",
+    "section_id": "motor-vehicles_section_16",
+    "token_count": 167,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 16::Revocation of driving licence on grounds of disease or disability.\n]\n\n\nNotwithstanding anything contained in the foregoing sections, any licensing authority may at any time revoke a driving licence or may require, as a condition of continuing to hold such driving licence, the holder thereof to produce a medical certificate in the same form and in the same manner as is referred to in sub-section (3) of section 8, if the licensing authority has reasonable grounds to believe that the holder of the driving licence is, by virtue of any disease or disability, unfit to drive a motor vehicle and where the authority revoking a driving licence is not the authority which issued the same, it shall intimate the fact of revocation to the authority which issued that licence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_16_chunk_0",
+      "section_id": "motor-vehicles_section_16",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "16",
+      "section_title": "Revocation of driving licence on grounds of disease or disability."
+    }
+  }
+]

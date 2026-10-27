@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-13.html",
+    "source_order": 13,
+    "article_order": 10,
+    "order": 181,
+    "stem": "section_158",
+    "heading_number": "Part III · Chapter V",
+    "heading_title": "Administration and Distribution of the Estate of the Bankrupt",
+    "heading_range": "ss. 149–178",
+    "heading_source": "group-head",
+    "article_number": "158",
+    "article_title": "Restrictions on disposition of property.",
+    "id": "insolvency_section_158"
+  },
+  "id": "insolvency_section_158",
+  "heading": {
+    "number": "Part III · Chapter V",
+    "title": "Administration and Distribution of the Estate of the Bankrupt",
+    "range": "ss. 149–178"
+  },
+  "article": {
+    "number": "158",
+    "title": "Restrictions on disposition of property.",
+    "content": "(1) Any disposition of property made by the debtor, during the period between the date of filing of the application for bankruptcy and the bankruptcy commencement date shall be void.\n(2) Any disposition of property made under sub-section (1) shall not give rise to any right against any person, in respect of such property, even if he has received such property before the bankruptcy commencement date in—\n(a) good faith;\n(b) for value; and\n(c) without notice of the filing of the application for bankruptcy.\n(3) For the purposes of this section, the term “property” means all the property of the debtor, whether or not it is comprised in the estate of the bankrupt, but shall not include property held by the debtor in trust for any other person.\n",
+    "html": "<article class=\"provision\" data-n=\"158\" data-report=\"Section 158 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158</span>Restrictions on disposition of property.</h3></div><p class=\"prov-cite\">Section 158  ·  Part III · Chapter V  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Any disposition of property made by the debtor, during the period between the date of filing of the application for bankruptcy and the bankruptcy commencement date shall be void.</p><p class=\"lvl\">(2) Any disposition of property made under sub-section (1) shall not give rise to any right against any person, in respect of such property, even if he has received such property before the bankruptcy commencement date in—</p><p class=\"lvl\">(a) good faith;</p><p class=\"lvl\">(b) for value; and</p><p class=\"lvl\">(c) without notice of the filing of the application for bankruptcy.</p><p class=\"lvl\">(3) For the purposes of this section, the term “property” means all the property of the debtor, whether or not it is comprised in the estate of the bankrupt, but shall not include property held by the debtor in trust for any other person.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">158</span>Restrictions on disposition of property.</h3></div><p class=\"prov-cite\">Section 158  ·  Part III · Chapter V  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Any disposition of property made by the debtor, during the period between the date of filing of the application for bankruptcy and the bankruptcy commencement date shall be void.</p><p class=\"lvl\">(2) Any disposition of property made under sub-section (1) shall not give rise to any right against any person, in respect of such property, even if he has received such property before the bankruptcy commencement date in—</p><p class=\"lvl\">(a) good faith;</p><p class=\"lvl\">(b) for value; and</p><p class=\"lvl\">(c) without notice of the filing of the application for bankruptcy.</p><p class=\"lvl\">(3) For the purposes of this section, the term “property” means all the property of the debtor, whether or not it is comprised in the estate of the bankrupt, but shall not include property held by the debtor in trust for any other person.</p></div>"
+  }
+}

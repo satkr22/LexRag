@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_38_chunk_0",
+    "section_id": "easements_section_38",
+    "token_count": 480,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 38::Extinction by release.\n]\n\n\nAn easement is extinguished when the dominant owner releases it, expressly or impliedly, to the servient owner.\nSuch release can be made only in the circumstances and to the extent in and to which the dominant owner can alienate the dominant heritage.\nAn easement may be released as to part only of the servient heritage.\nExplanation I.—An easement is impliedly released—\n(a) where the dominant owner expressly authorises an act of a permanent nature to be done on the servient heritage, the necessary consequence of which is to prevent his future enjoyment of the easement, and such act is done is pursuance of such authority;\n(b) where any permanent alteration is made in the dominant heritage of such a nature as to show that the dominant owner intended to cease to enjoy the easement in future.\nExplanation II.—Mere non-user of an easement is not an implied release within the meaning of this section.\nIllustrations\n(a) A, B and C are co-owners of a house to which an easement is annexed. A, without the consent of B and C, releases the easement. This release is effectual only as against A and his legal representative.\n(b) A grants B an easement over A’s land for the beneficial enjoyment of his house. B assigns the house to C. B then purports to release the easement. The release is ineffectual.\n(c) A, having the right to discharge his eavesdroppings into B's yard, expressly authorises B to build over this yard to a height which will interfere with the discharge. B builds accordingly. A’s easement is extinguished to the extent of the interference.\n(d) A, having an easement of light to a window, builds up that window with bricks and mortar so as to manifest an intention to abandon the easement permanently. The easement is impliedly released.\n(e) A, having a projecting roof by means of which he enjoys an easement to discharge eavesdroppings on B’s land, permanently alters the roof so as to direct the rain-water into a different channel and discharge it on C’s land. The easement is impliedly released.",
+    "metadata": {
+      "chunk_id": "easements_section_38_chunk_0",
+      "section_id": "easements_section_38",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "38",
+      "section_title": "Extinction by release."
+    }
+  }
+]

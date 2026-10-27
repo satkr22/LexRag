@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-106.html",
+    "source_order": 111,
+    "article_order": 1,
+    "order": 111,
+    "stem": "section_106",
+    "heading_number": "Chapter X",
+    "heading_title": "Of Reasonable Time",
+    "heading_range": "ss. 105–107",
+    "heading_source": "manifest",
+    "article_number": "106",
+    "article_title": "Reasonable time of giving notice of dishonour.",
+    "id": "negotiable-instruments_section_106"
+  },
+  "id": "negotiable-instruments_section_106",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Of Reasonable Time",
+    "range": "ss. 105–107"
+  },
+  "article": {
+    "number": "106",
+    "title": "Reasonable time of giving notice of dishonour.",
+    "content": "If the holder and the party to whom notice of dishonour is given carry on business or live (as the case may be) in different places, such notice is given within a reasonable time if it is dispatched by the next post or on the day next after the day of dishonour.\nIf the said parties carry on business or live in the same place, such notice is given within a reasonable time if it is dispatched in time to reach its destination on the day next after the day of dishonour.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Reasonable time of giving notice of dishonour.</h3></div><p class=\"prov-cite\">Section 106  ·  Chapter X  ·  page 23 of the Act</p><div class=\"prov-body\"><p>If the holder and the party to whom notice of dishonour is given carry on business or live (as the case may be) in different places, such notice is given within a reasonable time if it is dispatched by the next post or on the day next after the day of dishonour.</p><p>If the said parties carry on business or live in the same place, such notice is given within a reasonable time if it is dispatched in time to reach its destination on the day next after the day of dishonour.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">106</span>Reasonable time of giving notice of dishonour.</h3></div><p class=\"prov-cite\">Section 106  ·  Chapter X  ·  page 23 of the Act</p><div class=\"prov-body\"><p>If the holder and the party to whom notice of dishonour is given carry on business or live (as the case may be) in different places, such notice is given within a reasonable time if it is dispatched by the next post or on the day next after the day of dishonour.</p><p>If the said parties carry on business or live in the same place, such notice is given within a reasonable time if it is dispatched in time to reach its destination on the day next after the day of dishonour.</p></div>"
+  }
+}

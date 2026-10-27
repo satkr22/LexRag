@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-44.html",
+    "source_order": 49,
+    "article_order": 27,
+    "order": 745,
+    "stem": "section_266",
+    "heading_number": "Chapter XX",
+    "heading_title": "Appeals and Revision",
+    "heading_range": "ss. 246–269",
+    "heading_source": "group-head",
+    "article_number": "266",
+    "article_title": "Execution for costs awarded by Supreme Court.",
+    "id": "income-tax-1961_section_266"
+  },
+  "id": "income-tax-1961_section_266",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Appeals and Revision",
+    "range": "ss. 246–269"
+  },
+  "article": {
+    "number": "266",
+    "title": "Execution for costs awarded by Supreme Court.",
+    "content": "The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.\n",
+    "html": "<article class=\"provision\" data-n=\"266\" data-report=\"Section 266 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">266</span>Execution for costs awarded by Supreme Court.</h3></div><p class=\"prov-cite\">Section 266  ·  Chapter XX  ·  F.—General  ·  page 907 of the Act</p><div class=\"prov-body\"><p>The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">266</span>Execution for costs awarded by Supreme Court.</h3></div><p class=\"prov-cite\">Section 266  ·  Chapter XX  ·  F.—General  ·  page 907 of the Act</p><div class=\"prov-body\"><p>The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.</p></div>"
+  }
+}

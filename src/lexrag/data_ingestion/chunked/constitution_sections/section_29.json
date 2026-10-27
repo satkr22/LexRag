@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_29_chunk_0",
+    "section_id": "constitution_section_29",
+    "token_count": 100,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 29::Protection of interests of minorities\n]\n\n\n(1)Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same.\n(2)No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.",
+    "metadata": {
+      "chunk_id": "constitution_section_29_chunk_0",
+      "section_id": "constitution_section_29",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "29",
+      "section_title": "Protection of interests of minorities"
+    }
+  }
+]

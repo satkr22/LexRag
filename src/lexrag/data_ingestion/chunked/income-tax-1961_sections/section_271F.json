@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_271F_chunk_0",
+    "section_id": "income-tax-1961_section_271F",
+    "token_count": 152,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 271F::Penalty for failure to furnish return of income.\n]\n\n\nIf a person who is required to furnish a return of his income, as required under sub-section (1) of section 139 or by the provisos to that sub-section, fails to furnish such return before the end of the relevant assessment year, the Assessing Officer may direct that such person shall pay, by way of penalty, a sum of five thousand rupees:\nProvided that nothing contained in this section shall apply to and in relation to the return of income required to be furnished for any assessment year commencing on or after the 1st day of April, 2018.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_271F_chunk_0",
+      "section_id": "income-tax-1961_section_271F",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "271F",
+      "section_title": "Penalty for failure to furnish return of income."
+    }
+  }
+]

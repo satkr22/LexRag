@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_15_chunk_0",
+    "section_id": "income-tax-2025_section_15",
+    "token_count": 244,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 15::Salaries.\n]\n\n\n(1) The following income shall be chargeable to income-tax under the head \"Salaries\":—\n(a) any salary due from an employer to an assessee in the tax year, whether paid or not;\n(b) any salary paid or allowed to him in the tax year by or on behalf of an employer though not due or before it became due to him;\n(c) any arrears of salary paid or allowed to him in the tax year by or on behalf of an employer, if not charged to income-tax for any earlier tax year.\n(2) For the purposes of sub-section (1), employer includes former employer.\n(3) If any salary paid in advance is included in the total income of any person for any tax year, it shall not be included again in the total income of such person when the salary becomes due.\n(4) Any salary, bonus, commission or remuneration, by whatever name called, due to, or received by, a partner of a firm from the firm shall not be regarded as salary for the purposes of this section.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_15_chunk_0",
+      "section_id": "income-tax-2025_section_15",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "15",
+      "section_title": "Salaries."
+    }
+  }
+]

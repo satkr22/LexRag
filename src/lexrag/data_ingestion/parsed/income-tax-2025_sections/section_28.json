@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-04a.html",
+    "source_order": 4,
+    "article_order": 16,
+    "order": 28,
+    "stem": "section_28",
+    "heading_number": "Chapter IV",
+    "heading_title": "Computation of Total Income",
+    "heading_range": "ss. 13–95",
+    "heading_source": "group-head",
+    "article_number": "28",
+    "article_title": "Rent, rates, taxes, repairs and insurance.",
+    "id": "income-tax-2025_section_28"
+  },
+  "id": "income-tax-2025_section_28",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Computation of Total Income",
+    "range": "ss. 13–95"
+  },
+  "article": {
+    "number": "28",
+    "title": "Rent, rates, taxes, repairs and insurance.",
+    "content": "(1) The following amounts shall be allowed as deduction in respect of premises, machinery, plant or furniture used for the purposes of the business or profession:—\n(a) any premium paid in respect of insurance against risk of damage or destruction thereof;\n(b) land revenue, local rates or municipal taxes paid;\n(c) rent paid, when the premises are occupied by the assessee as a tenant;\n(d) amount paid on account of current repairs to the premises, not being in the nature of capital expenditure, when the premises are occupied by the assessee otherwise than as a tenant;\n(e) amount paid on account of cost of repairs, not being in the nature of capital expenditure, when the premises are occupied by the assessee as a tenant and where he has undertaken to bear the cost of repairs to the premises; and\n(f) the amount paid on account of current repairs to machinery, plant or furniture, not being in the nature of capital expenditure.\n(2) In case where the premises, building, machinery, plant or furniture is partly used or not wholly and exclusively used for the purposes of the business or profession, the deduction allowable under sub-section (1) shall be restricted to the fair proportionate part thereof as determined by the Assessing Officer, having regard to the usage for the purposes of the business or profession.\n",
+    "html": "<article class=\"provision\" data-n=\"28\" data-report=\"Section 28 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Rent, rates, taxes, repairs and insurance.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 43 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The following amounts shall be allowed as deduction in respect of premises, machinery, plant or furniture used for the purposes of the business or profession:—</p><p class=\"lvl\">(a) any premium paid in respect of insurance against risk of damage or destruction thereof;</p><p class=\"lvl\">(b) land revenue, local rates or municipal taxes paid;</p><p class=\"lvl\">(c) rent paid, when the premises are occupied by the assessee as a tenant;</p><p class=\"lvl\">(d) amount paid on account of current repairs to the premises, not being in the nature of capital expenditure, when the premises are occupied by the assessee otherwise than as a tenant;</p><p class=\"lvl\">(e) amount paid on account of cost of repairs, not being in the nature of capital expenditure, when the premises are occupied by the assessee as a tenant and where he has undertaken to bear the cost of repairs to the premises; and</p><p class=\"lvl\">(f) the amount paid on account of current repairs to machinery, plant or furniture, not being in the nature of capital expenditure.</p><p class=\"lvl\">(2) In case where the premises, building, machinery, plant or furniture is partly used or not wholly and exclusively used for the purposes of the business or profession, the deduction allowable under sub-section (1) shall be restricted to the fair proportionate part thereof as determined by the Assessing Officer, having regard to the usage for the purposes of the business or profession.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Rent, rates, taxes, repairs and insurance.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter IV  ·  D.—Profits and gains of business or profession  ·  page 43 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The following amounts shall be allowed as deduction in respect of premises, machinery, plant or furniture used for the purposes of the business or profession:—</p><p class=\"lvl\">(a) any premium paid in respect of insurance against risk of damage or destruction thereof;</p><p class=\"lvl\">(b) land revenue, local rates or municipal taxes paid;</p><p class=\"lvl\">(c) rent paid, when the premises are occupied by the assessee as a tenant;</p><p class=\"lvl\">(d) amount paid on account of current repairs to the premises, not being in the nature of capital expenditure, when the premises are occupied by the assessee otherwise than as a tenant;</p><p class=\"lvl\">(e) amount paid on account of cost of repairs, not being in the nature of capital expenditure, when the premises are occupied by the assessee as a tenant and where he has undertaken to bear the cost of repairs to the premises; and</p><p class=\"lvl\">(f) the amount paid on account of current repairs to machinery, plant or furniture, not being in the nature of capital expenditure.</p><p class=\"lvl\">(2) In case where the premises, building, machinery, plant or furniture is partly used or not wholly and exclusively used for the purposes of the business or profession, the deduction allowable under sub-section (1) shall be restricted to the fair proportionate part thereof as determined by the Assessing Officer, having regard to the usage for the purposes of the business or profession.</p></div>"
+  }
+}

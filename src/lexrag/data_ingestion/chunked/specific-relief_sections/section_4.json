@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "specific-relief_section_4_chunk_0",
+    "section_id": "specific-relief_section_4",
+    "token_count": 62,
+    "text": "[Act: specific-relief\n Chapter: Preliminary\n Section: 4::Specific relief to be granted only for enforcing individual civil rights and not for enforcing penal laws.\n]\n\n\nSpecific relief can be granted only for the purpose of enforcing individual civil rights and not for the mere purpose of enforcing a penal law.",
+    "metadata": {
+      "chunk_id": "specific-relief_section_4_chunk_0",
+      "section_id": "specific-relief_section_4",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "specific-relief",
+      "document_title": null,
+      "chapter_number": "Part I",
+      "chapter_title": "Preliminary",
+      "section_number": "4",
+      "section_title": "Specific relief to be granted only for enforcing individual civil rights and not for enforcing penal laws."
+    }
+  }
+]

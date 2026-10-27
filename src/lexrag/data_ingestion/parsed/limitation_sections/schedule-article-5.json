@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-5.html",
+    "source_order": 5,
+    "article_order": 1,
+    "order": 5,
+    "stem": "schedule-article-5",
+    "heading_number": null,
+    "heading_title": "First Division · Part I · Suits Relating to Accounts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "5",
+    "article_title": "Three years.",
+    "id": "limitation_schedule-article-5"
+  },
+  "id": "limitation_schedule-article-5",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part I · Suits Relating to Accounts",
+    "range": null
+  },
+  "article": {
+    "number": "5",
+    "title": "Three years.",
+    "content": "For an account and a share of the profits of a dissolved partnership.\nPeriod of limitationThree years.\n\nTime from which period begins to runThe date of the dissolution.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>5<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part I—Suits Relating to Accounts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For an account and a share of the profits of a dissolved partnership.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the dissolution.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>5<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part I—Suits Relating to Accounts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For an account and a share of the profits of a dissolved partnership.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>The date of the dissolution.</p></div></div></div></div>"
+  }
+}

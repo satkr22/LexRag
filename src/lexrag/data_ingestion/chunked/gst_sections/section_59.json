@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_59_chunk_0",
+    "section_id": "gst_section_59",
+    "token_count": 47,
+    "text": "[Act: gst\n Chapter: Assessment\n Section: 59::Self-assessment.\n]\n\n\nEvery registered person shall self-assess the taxes payable under this Act and furnish a return for each tax period as specified under section 39.",
+    "metadata": {
+      "chunk_id": "gst_section_59_chunk_0",
+      "section_id": "gst_section_59",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Assessment",
+      "section_number": "59",
+      "section_title": "Self-assessment."
+    }
+  }
+]

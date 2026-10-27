@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-36.html",
+    "source_order": 37,
+    "article_order": 1,
+    "order": 37,
+    "stem": "section_36",
+    "heading_number": "Chapter III",
+    "heading_title": "Of Contingent Contracts",
+    "heading_range": "ss. 31–36",
+    "heading_source": "manifest",
+    "article_number": "36",
+    "article_title": "Agreement contingent on impossible events void.",
+    "id": "contract_section_36"
+  },
+  "id": "contract_section_36",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Of Contingent Contracts",
+    "range": "ss. 31–36"
+  },
+  "article": {
+    "number": "36",
+    "title": "Agreement contingent on impossible events void.",
+    "content": "Contingent agreements to do or not to do anything, if an impossible event happens, are void, whether the impossibility of the event is known or not to the parties to the agreement at the time when it is made.\nIllustrations\n(a)A agrees to pay B 1,000 rupees if two straight lines should enclose a space. The agreement is void.\n(b)A agrees to pay B 1,000 rupees if B will marry A’s daughter C. C was dead at the time of the agreement. The agreement is void.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Agreement contingent on impossible events void.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter III  ·  page 21 of the Act</p><div class=\"prov-body\"><p>Contingent agreements to do or not to do anything, if an impossible event happens, are void, whether the impossibility of the event is known or not to the parties to the agreement at the time when it is made.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A agrees to pay B 1,000 rupees if two straight lines should enclose a space. The agreement is void.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A agrees to pay B 1,000 rupees if B will marry A’s daughter C. C was dead at the time of the agreement. The agreement is void.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Agreement contingent on impossible events void.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter III  ·  page 21 of the Act</p><div class=\"prov-body\"><p>Contingent agreements to do or not to do anything, if an impossible event happens, are void, whether the impossibility of the event is known or not to the parties to the agreement at the time when it is made.</p><p class=\"illus-head\">Illustrations</p><p class=\"illus\"><span class=\"lbl\">(a)</span>A agrees to pay B 1,000 rupees if two straight lines should enclose a space. The agreement is void.</p><p class=\"illus\"><span class=\"lbl\">(b)</span>A agrees to pay B 1,000 rupees if B will marry A’s daughter C. C was dead at the time of the agreement. The agreement is void.</p></div>"
+  }
+}

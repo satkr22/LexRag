@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 29,
+    "order": 199,
+    "stem": "section_180",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "180",
+    "article_title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+    "id": "constitution_section_180"
+  },
+  "id": "constitution_section_180",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "180",
+    "title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+    "content": "(1)While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the Assembly as the Governor may appoint for the purpose.\n(2)During the absence of the Speaker from any sitting of the Assembly the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the Assembly, or, if no such person is present, such other person as may be determined by the Assembly, shall act as Speaker.\n",
+    "html": "<article class=\"provision\" data-n=\"180\" data-report=\"Article 180 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">180</span>Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker</h3></div><p class=\"prov-cite\">Article 180 · Part VI · Officers of the State Legislature</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the Assembly as the Governor may appoint for the purpose.</p><p><span class=\"lbl\">(2)</span>During the absence of the Speaker from any sitting of the Assembly the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the Assembly, or, if no such person is present, such other person as may be determined by the Assembly, shall act as Speaker.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">180</span>Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker</h3></div><p class=\"prov-cite\">Article 180 · Part VI · Officers of the State Legislature</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the Assembly as the Governor may appoint for the purpose.</p><p><span class=\"lbl\">(2)</span>During the absence of the Speaker from any sitting of the Assembly the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the Assembly, or, if no such person is present, such other person as may be determined by the Assembly, shall act as Speaker.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-21.html",
+    "source_order": 21,
+    "article_order": 6,
+    "order": 300,
+    "stem": "section_O9R6",
+    "heading_number": "Order IX",
+    "heading_title": "Appearance of parties and consequence of non-appearance",
+    "heading_range": "14 rules",
+    "heading_source": "group-head",
+    "article_number": "O9R6",
+    "article_title": "Procedure when only plaintiff appears.",
+    "id": "cpc_section_O9R6"
+  },
+  "id": "cpc_section_O9R6",
+  "heading": {
+    "number": "Order IX",
+    "title": "Appearance of parties and consequence of non-appearance",
+    "range": "14 rules"
+  },
+  "article": {
+    "number": "O9R6",
+    "title": "Procedure when only plaintiff appears.",
+    "content": "(1) Where the plaintiff appears and the defendant does not appear when the suit is called on for hearing, then—\n1[(a) When summons duly served.—if it is proved that the summons was duly served, the Court may make an order that the suit shall be heard ex parte;]\n(b) When summons not duly served.—if it is not proved that the summons was duly served, the Court shall direct a second summons to be issued and served on the defendant;\n(c) When summons served but not in due time.—if it is proved that the summons was served on the defendant, but not in sufficient time to enable him to appear and answer on the day fixed in the summons,\nthe Court shall postpone the hearing of the suit to a future day to be fixed by the Court, and shall direct notice of such day to be given to the defendant.\n(2) Where it is owing to the plaintiff’s default that the summons was not duly served or was not served in sufficient time, the Court shall order the plaintiff to pay the costs occasioned by the postponement.\n",
+    "html": "<article class=\"provision\" data-n=\"O9R6\" data-report=\"Order 9, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Procedure when only plaintiff appears.</h3></div><p class=\"prov-cite\">Order 9, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the plaintiff appears and the defendant does not appear when the suit is called on for hearing, then—</p><p class=\"lvl\"><sup>1</sup>[(a) When summons duly served.—if it is proved that the summons was duly served, the Court may make an order that the suit shall be heard ex parte;]</p><p class=\"lvl\">(b) When summons not duly served.—if it is not proved that the summons was duly served, the Court shall direct a second summons to be issued and served on the defendant;</p><p class=\"lvl\">(c) When summons served but not in due time.—if it is proved that the summons was served on the defendant, but not in sufficient time to enable him to appear and answer on the day fixed in the summons,</p><p>the Court shall postpone the hearing of the suit to a future day to be fixed by the Court, and shall direct notice of such day to be given to the defendant.</p><p class=\"lvl\">(2) Where it is owing to the plaintiff’s default that the summons was not duly served or was not served in sufficient time, the Court shall order the plaintiff to pay the costs occasioned by the postponement.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 59, for cl. (a) (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Procedure when only plaintiff appears.</h3></div><p class=\"prov-cite\">Order 9, Rule 6</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the plaintiff appears and the defendant does not appear when the suit is called on for hearing, then—</p><p class=\"lvl\"><sup>1</sup>[(a) When summons duly served.—if it is proved that the summons was duly served, the Court may make an order that the suit shall be heard ex parte;]</p><p class=\"lvl\">(b) When summons not duly served.—if it is not proved that the summons was duly served, the Court shall direct a second summons to be issued and served on the defendant;</p><p class=\"lvl\">(c) When summons served but not in due time.—if it is proved that the summons was served on the defendant, but not in sufficient time to enable him to appear and answer on the day fixed in the summons,</p><p>the Court shall postpone the hearing of the suit to a future day to be fixed by the Court, and shall direct notice of such day to be given to the defendant.</p><p class=\"lvl\">(2) Where it is owing to the plaintiff’s default that the summons was not duly served or was not served in sufficient time, the Court shall order the plaintiff to pay the costs occasioned by the postponement.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 104 of 1976, s. 59, for cl. (a) (w.e.f. 1-2-1977).</p></div>"
+  }
+}

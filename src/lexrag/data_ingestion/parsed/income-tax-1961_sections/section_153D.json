@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-33.html",
+    "source_order": 37,
+    "article_order": 39,
+    "order": 497,
+    "stem": "section_153D",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Procedure for Assessment",
+    "heading_range": "ss. 139–158",
+    "heading_source": "group-head",
+    "article_number": "153D",
+    "article_title": "Prior approval necessary for assessment in cases of search or requisition.",
+    "id": "income-tax-1961_section_153D"
+  },
+  "id": "income-tax-1961_section_153D",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Procedure for Assessment",
+    "range": "ss. 139–158"
+  },
+  "article": {
+    "number": "153D",
+    "title": "Prior approval necessary for assessment in cases of search or requisition.",
+    "content": "No order of assessment or reassessment shall be passed by an Assessing Officer below the rank of Joint Commissioner in respect of each assessment year referred to in clause (b) of sub-section (1) of section 153A or the assessment year referred to in clause (b) of sub-section (1) of section 153B, except with the prior approval of the Joint Commissioner:\nProvided that nothing contained in this section shall apply where the assessment or reassessment order, as the case may be, is required to be passed by the Assessing Officer with the prior approval of the Principal Commissioner or Commissioner under sub-section (12) of section 144BA.\n",
+    "html": "<article class=\"provision\" data-n=\"153D\" data-report=\"Section 153D · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153D</span>Prior approval necessary for assessment in cases of search or requisition.</h3></div><p class=\"prov-cite\">Section 153D  ·  Chapter XIV  ·  D.—Disclosure of information  ·  page 640 of the Act</p><div class=\"prov-body\"><p>No order of assessment or reassessment shall be passed by an Assessing Officer below the rank of Joint Commissioner in respect of each assessment year referred to in clause (b) of sub-section (1) of section 153A or the assessment year referred to in clause (b) of sub-section (1) of section 153B, except with the prior approval of the Joint Commissioner:</p><p class=\"prvso\">Provided that nothing contained in this section shall apply where the assessment or reassessment order, as the case may be, is required to be passed by the Assessing Officer with the prior approval of the Principal Commissioner or Commissioner under sub-section (12) of section 144BA.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153D</span>Prior approval necessary for assessment in cases of search or requisition.</h3></div><p class=\"prov-cite\">Section 153D  ·  Chapter XIV  ·  D.—Disclosure of information  ·  page 640 of the Act</p><div class=\"prov-body\"><p>No order of assessment or reassessment shall be passed by an Assessing Officer below the rank of Joint Commissioner in respect of each assessment year referred to in clause (b) of sub-section (1) of section 153A or the assessment year referred to in clause (b) of sub-section (1) of section 153B, except with the prior approval of the Joint Commissioner:</p><p class=\"prvso\">Provided that nothing contained in this section shall apply where the assessment or reassessment order, as the case may be, is required to be passed by the Assessing Officer with the prior approval of the Principal Commissioner or Commissioner under sub-section (12) of section 144BA.</p></div>"
+  }
+}

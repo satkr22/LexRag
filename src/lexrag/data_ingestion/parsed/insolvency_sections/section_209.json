@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-20.html",
+    "source_order": 20,
+    "article_order": 1,
+    "order": 234,
+    "stem": "section_209",
+    "heading_number": "Part IV · Chapter V",
+    "heading_title": "Information Utilities",
+    "heading_range": "ss. 209–216",
+    "heading_source": "group-head",
+    "article_number": "209",
+    "article_title": "No person to function as information utility without certificate of registration.",
+    "id": "insolvency_section_209"
+  },
+  "id": "insolvency_section_209",
+  "heading": {
+    "number": "Part IV · Chapter V",
+    "title": "Information Utilities",
+    "range": "ss. 209–216"
+  },
+  "article": {
+    "number": "209",
+    "title": "No person to function as information utility without certificate of registration.",
+    "content": "Save as otherwise provided in this Code, no person shall carry on its business as information utility under this Code without a certificate of registration issued in that behalf by the Board.\n",
+    "html": "<article class=\"provision\" data-n=\"209\" data-report=\"Section 209 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">209</span>No person to function as information utility without certificate of registration.</h3></div><p class=\"prov-cite\">Section 209  ·  Part IV · Chapter V  ·  page 135 of the Act</p><div class=\"prov-body\"><p>Save as otherwise provided in this Code, no person shall carry on its business as information utility under this Code without a certificate of registration issued in that behalf by the Board.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">209</span>No person to function as information utility without certificate of registration.</h3></div><p class=\"prov-cite\">Section 209  ·  Part IV · Chapter V  ·  page 135 of the Act</p><div class=\"prov-body\"><p>Save as otherwise provided in this Code, no person shall carry on its business as information utility under this Code without a certificate of registration issued in that behalf by the Board.</p></div>"
+  }
+}

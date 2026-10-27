@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_35_chunk_0",
+    "section_id": "motor-vehicles_section_35",
+    "token_count": 175,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Conductors of Stage Carriages\n Section: 35::Power of Court to disqualify.\n]\n\n\n(1) Where any person holding a conductor’s licence is convicted of an offence under this Act, the Court by which such person is convicted may, in addition to imposing any other punishment authorised by law, declare the person so convicted to be disqualified for such period as the Court may specify for holding a conductor’s licence.\n(2) The Court to which an appeal lies from any conviction of an offence under this Act may set aside or vary any order of disqualification made by the Court below, and the Court to which appeals ordinarily lie from such Court, may set aside or vary any order of disqualification made by that Court, notwithstanding that no appeal lies against the conviction in connection with which such order was made.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_35_chunk_0",
+      "section_id": "motor-vehicles_section_35",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter III",
+      "chapter_title": "Licensing of Conductors of Stage Carriages",
+      "section_number": "35",
+      "section_title": "Power of Court to disqualify."
+    }
+  }
+]

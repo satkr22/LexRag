@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-10.html",
+    "source_order": 10,
+    "article_order": 9,
+    "order": 111,
+    "stem": "section_88",
+    "heading_number": "Part III · Chapter II",
+    "heading_title": "Fresh Start Process",
+    "heading_range": "ss. 80–93",
+    "heading_source": "group-head",
+    "article_number": "88",
+    "article_title": "General duties of debtor.",
+    "id": "insolvency_section_88"
+  },
+  "id": "insolvency_section_88",
+  "heading": {
+    "number": "Part III · Chapter II",
+    "title": "Fresh Start Process",
+    "range": "ss. 80–93"
+  },
+  "article": {
+    "number": "88",
+    "title": "General duties of debtor.",
+    "content": "The debtor shall—\n(a) make available to the resolution professional all information relating to his affairs, attend meetings and comply with the requests of the resolution professional in relation to the fresh start process.\n(b) inform the resolution professional as soon as reasonably possible of—\n(i) any material error or omission in relation to the information or document supplied to the resolution professional; or\n(ii) any change in financial circumstances after the date of application, where such change has an impact on the fresh start process.\n",
+    "html": "<article class=\"provision\" data-n=\"88\" data-report=\"Section 88 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">88</span>General duties of debtor.</h3></div><p class=\"prov-cite\">Section 88  ·  Part III · Chapter II  ·  pages 93–94 of the Act</p><div class=\"prov-body\"><p>The debtor shall—</p><p class=\"lvl\">(a) make available to the resolution professional all information relating to his affairs, attend meetings and comply with the requests of the resolution professional in relation to the fresh start process.</p><p class=\"lvl\">(b) inform the resolution professional as soon as reasonably possible of—</p><p class=\"lvl\">(i) any material error or omission in relation to the information or document supplied to the resolution professional; or</p><p class=\"lvl\">(ii) any change in financial circumstances after the date of application, where such change has an impact on the fresh start process.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">88</span>General duties of debtor.</h3></div><p class=\"prov-cite\">Section 88  ·  Part III · Chapter II  ·  pages 93–94 of the Act</p><div class=\"prov-body\"><p>The debtor shall—</p><p class=\"lvl\">(a) make available to the resolution professional all information relating to his affairs, attend meetings and comply with the requests of the resolution professional in relation to the fresh start process.</p><p class=\"lvl\">(b) inform the resolution professional as soon as reasonably possible of—</p><p class=\"lvl\">(i) any material error or omission in relation to the information or document supplied to the resolution professional; or</p><p class=\"lvl\">(ii) any change in financial circumstances after the date of application, where such change has an impact on the fresh start process.</p></div>"
+  }
+}

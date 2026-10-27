@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-16.html",
+    "source_order": 16,
+    "article_order": 1,
+    "order": 16,
+    "stem": "section_16",
+    "heading_number": "Chapter II",
+    "heading_title": "Relevancy of Facts",
+    "heading_range": "3 – 50",
+    "heading_source": "manifest",
+    "article_number": "16",
+    "article_title": "Admission by party to proceeding or his agent",
+    "id": "bsa_section_16"
+  },
+  "id": "bsa_section_16",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Relevancy of Facts",
+    "range": "3 – 50"
+  },
+  "article": {
+    "number": "16",
+    "title": "Admission by party to proceeding or his agent",
+    "content": "(1)Statements made by a party to the proceeding, or by an agent to any such party, whom the Court regards, under the circumstances of the case, as expressly or impliedly authorised by him to make them, are admissions.\n(2)Statements made by—\n(i)parties to suits suing or sued in a representative character, are not admissions, unless they were made while the party making them held that character; or\n(ii)(a) persons who have any proprietary or pecuniary interest in the subject matter of the proceeding, and who make the statement in their character of persons so interested; or (b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit,\nare admissions, if they are made during the continuance of the interest of the persons making the statements.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Admission by party to proceeding or his agent</h3></div><p class=\"prov-cite\">Section 16 · Part II · Chapter II · Admissions</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Statements made by a party to the proceeding, or by an agent to any such party, whom the Court regards, under the circumstances of the case, as expressly or impliedly authorised by him to make them, are admissions.</p><p><span class=\"lbl\">(2)</span>Statements made by—</p><p class=\"lvl\"><span class=\"lbl\">(i)</span>parties to suits suing or sued in a representative character, are not admissions, unless they were made while the party making them held that character; or</p><p class=\"lvl\"><span class=\"lbl\">(ii)</span>(a) persons who have any proprietary or pecuniary interest in the subject matter of the proceeding, and who make the statement in their character of persons so interested; or (b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit,</p><p>are admissions, if they are made during the continuance of the interest of the persons making the statements.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">16</span>Admission by party to proceeding or his agent</h3></div><p class=\"prov-cite\">Section 16 · Part II · Chapter II · Admissions</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Statements made by a party to the proceeding, or by an agent to any such party, whom the Court regards, under the circumstances of the case, as expressly or impliedly authorised by him to make them, are admissions.</p><p><span class=\"lbl\">(2)</span>Statements made by—</p><p class=\"lvl\"><span class=\"lbl\">(i)</span>parties to suits suing or sued in a representative character, are not admissions, unless they were made while the party making them held that character; or</p><p class=\"lvl\"><span class=\"lbl\">(ii)</span>(a) persons who have any proprietary or pecuniary interest in the subject matter of the proceeding, and who make the statement in their character of persons so interested; or (b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit,</p><p>are admissions, if they are made during the continuance of the interest of the persons making the statements.</p></div>"
+  }
+}

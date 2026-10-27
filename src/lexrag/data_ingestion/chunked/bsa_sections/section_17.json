@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_17_chunk_0",
+    "section_id": "bsa_section_17",
+    "token_count": 176,
+    "text": "[Act: bsa\n Chapter: Relevancy of Facts\n Section: 17::Admissions by persons whose position must be proved as against party to suit\n]\n\n\nStatements made by persons whose position or liability, it is necessary to prove as against any party to the suit, are admissions, if such statements would be relevant as against such persons in relation to such position or liability in a suit brought by or against them, and if they are made whilst the person making them occupies such position or is subject to such liability.\nIllustrations\nA undertakes to collect rents for B. B sues A for not collecting rent due from C to B. A denies that rent was due from C to B. A statement by C that he owed B rent is an admission, and is a relevant fact as against A, if A denies that C did owe rent to B.",
+    "metadata": {
+      "chunk_id": "bsa_section_17_chunk_0",
+      "section_id": "bsa_section_17",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Relevancy of Facts",
+      "section_number": "17",
+      "section_title": "Admissions by persons whose position must be proved as against party to suit"
+    }
+  }
+]

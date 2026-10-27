@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_245S_chunk_0",
+    "section_id": "income-tax-1961_section_245S",
+    "token_count": 190,
+    "text": "[Act: income-tax-1961\n Chapter: Advance Rulings\n Section: 245S::Applicability of advance ruling.\n]\n\n\n(1) The advance ruling pronounced by the Authority under section 245R shall be binding only—\n(a) on the applicant who had sought it;\n(b) in respect of the transaction in relation to which the ruling had been sought; and\n(c) on the Principal Commissioner or Commissioner, and the income-tax authorities subordinate to him, in respect of the applicant and the said transaction.\n(2) The advance ruling referred to in sub-section (1) shall be binding as aforesaid unless there is a change in law or facts on the basis of which the advance ruling has been pronounced.\n(3) Nothing contained in this section shall apply to any advance ruling pronounced under section 245R on or after such date as the Central Government may, by notification in the Official Gazette, appoint.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245S_chunk_0",
+      "section_id": "income-tax-1961_section_245S",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-B",
+      "chapter_title": "Advance Rulings",
+      "section_number": "245S",
+      "section_title": "Applicability of advance ruling."
+    }
+  }
+]

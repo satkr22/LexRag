@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-13.html",
+    "source_order": 13,
+    "article_order": 4,
+    "order": 203,
+    "stem": "section_199",
+    "heading_number": "Chapter XIII",
+    "heading_title": "Appointment and Remuneration of Managerial Personnel",
+    "heading_range": "ss. 196–205",
+    "heading_source": "group-head",
+    "article_number": "199",
+    "article_title": "Recovery of remuneration in certain cases.",
+    "id": "companies_section_199"
+  },
+  "id": "companies_section_199",
+  "heading": {
+    "number": "Chapter XIII",
+    "title": "Appointment and Remuneration of Managerial Personnel",
+    "range": "ss. 196–205"
+  },
+  "article": {
+    "number": "199",
+    "title": "Recovery of remuneration in certain cases.",
+    "content": "Without prejudice to any liability incurred under the provisions of this Act or any other law for the time being in force, where a company is required to re-state its financial statements due to fraud or non-compliance with any requirement under this Act and the rules made thereunder, the company shall recover from any past or present managing director or whole-time director or manager or Chief Executive Officer (by whatever name called) who, during the period for which the financial statements are required to be re-stated, received the remuneration (including stock option) in excess of what would have been payable to him as per restatement of financial statements.\n",
+    "html": "<article class=\"provision\" data-n=\"199\" data-report=\"Section 199 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">199</span>Recovery of remuneration in certain cases.</h3></div><p class=\"prov-cite\">Section 199  ·  Chapter XIII  ·  page 136 of the Act</p><div class=\"prov-body\"><p>Without prejudice to any liability incurred under the provisions of this Act or any other law for the time being in force, where a company is required to re-state its financial statements due to fraud or non-compliance with any requirement under this Act and the rules made thereunder, the company shall recover from any past or present managing director or whole-time director or manager or Chief Executive Officer (by whatever name called) who, during the period for which the financial statements are required to be re-stated, received the remuneration (including stock option) in excess of what would have been payable to him as per restatement of financial statements.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">199</span>Recovery of remuneration in certain cases.</h3></div><p class=\"prov-cite\">Section 199  ·  Chapter XIII  ·  page 136 of the Act</p><div class=\"prov-body\"><p>Without prejudice to any liability incurred under the provisions of this Act or any other law for the time being in force, where a company is required to re-state its financial statements due to fraud or non-compliance with any requirement under this Act and the rules made thereunder, the company shall recover from any past or present managing director or whole-time director or manager or Chief Executive Officer (by whatever name called) who, during the period for which the financial statements are required to be re-stated, received the remuneration (including stock option) in excess of what would have been payable to him as per restatement of financial statements.</p></div>"
+  }
+}

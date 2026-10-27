@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 72,
+    "order": 135,
+    "stem": "section_123",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "123",
+    "article_title": "Power of President to promulgate Ordinances during recess of Parliament",
+    "id": "constitution_section_123"
+  },
+  "id": "constitution_section_123",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "123",
+    "title": "Power of President to promulgate Ordinances during recess of Parliament",
+    "content": "(1)If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.\n(2)An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance—\n(a)shall be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or, if before the expiration of that period resolutions disapproving it are passed by both Houses, upon the passing of the second of those resolutions; and\n(b)may be withdrawn at any time by the President.\nExplanationWhere the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.\n(3)If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.\n(4)1* * * * *\n",
+    "html": "<article class=\"provision\" data-n=\"123\" data-report=\"Article 123 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Power of President to promulgate Ordinances during recess of Parliament</h3></div><p class=\"prov-cite\">Article 123 · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.</p><p><span class=\"lbl\">(2)</span>An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>shall be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or, if before the expiration of that period resolutions disapproving it are passed by both Houses, upon the passing of the second of those resolutions; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>may be withdrawn at any time by the President.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.</p><p><span class=\"lbl\">(3)</span>If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.</p><p><span class=\"lbl\">(4)</span><sup>1</sup>* * * * *</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Cl. (4) ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, and omitted by the Constitution (Forty-fourth Amendment) Act, 1978.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">123</span>Power of President to promulgate Ordinances during recess of Parliament</h3></div><p class=\"prov-cite\">Article 123 · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.</p><p><span class=\"lbl\">(2)</span>An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>shall be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or, if before the expiration of that period resolutions disapproving it are passed by both Houses, upon the passing of the second of those resolutions; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>may be withdrawn at any time by the President.</p><p class=\"lvl\"><span class=\"named\">Explanation</span>Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.</p><p><span class=\"lbl\">(3)</span>If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.</p><p><span class=\"lbl\">(4)</span><sup>1</sup>* * * * *</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Cl. (4) ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, and omitted by the Constitution (Forty-fourth Amendment) Act, 1978.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_265_chunk_0",
+    "section_id": "income-tax-2025_section_265",
+    "token_count": 110,
+    "text": "[Act: income-tax-2025\n Chapter: Return of Income\n Section: 265::Return by whom to be verified.\n]\n\nThe return of income under section 263 required to be furnished by the person specified in column B of the Table below shall be verified by the person specified in corresponding entry in column C of the said Table:\n\n(ii) by the principal officer of the association. 13. Any other person. (i) By the person himself; or\n  (ii) by any person competent to act on his behalf.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_265_chunk_0",
+      "section_id": "income-tax-2025_section_265",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Return of Income",
+      "section_number": "265",
+      "section_title": "Return by whom to be verified."
+    }
+  }
+]

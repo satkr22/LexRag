@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-03.html",
+    "source_order": 3,
+    "article_order": 19,
+    "order": 57,
+    "stem": "section_53",
+    "heading_number": "Part Ii",
+    "heading_title": "Execution",
+    "heading_range": "ss. 36–74",
+    "heading_source": "group-head",
+    "article_number": "53",
+    "article_title": "Liability of ancestral property.",
+    "id": "cpc_section_53"
+  },
+  "id": "cpc_section_53",
+  "heading": {
+    "number": "Part Ii",
+    "title": "Execution",
+    "range": "ss. 36–74"
+  },
+  "article": {
+    "number": "53",
+    "title": "Liability of ancestral property.",
+    "content": "Procedure in execution\nFor the purposes of section 50 and section 52, property in the hands of a son or other descendant which is liable under Hindu law for the payment of the debt of a deceased ancestor, in respect of which a decree has been passed, shall be deemed to be property of the deceased which has come to the hands of the son or other descendant as his legal representative.\n",
+    "html": "<article class=\"provision\" data-n=\"53\" data-report=\"Section 53 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Liability of ancestral property.</h3></div><p class=\"prov-cite\">Section 53</p><div class=\"prov-body\"><p class=\"sched-title\">Procedure in execution</p><p>For the purposes of section 50 and section 52, property in the hands of a son or other descendant which is liable under Hindu law for the payment of the debt of a deceased ancestor, in respect of which a decree has been passed, shall be deemed to be property of the deceased which has come to the hands of the son or other descendant as his legal representative.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Liability of ancestral property.</h3></div><p class=\"prov-cite\">Section 53</p><div class=\"prov-body\"><p class=\"sched-title\">Procedure in execution</p><p>For the purposes of section 50 and section 52, property in the hands of a son or other descendant which is liable under Hindu law for the payment of the debt of a deceased ancestor, in respect of which a decree has been passed, shall be deemed to be property of the deceased which has come to the hands of the son or other descendant as his legal representative.</p></div>"
+  }
+}

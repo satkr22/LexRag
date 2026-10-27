@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-60.html",
+    "source_order": 60,
+    "article_order": 27,
+    "order": 829,
+    "stem": "section_O41R24",
+    "heading_number": "Order XLI",
+    "heading_title": "Appeals from Original Decrees",
+    "heading_range": "41 rules",
+    "heading_source": "group-head",
+    "article_number": "O41R24",
+    "article_title": "Where evidence on record sufficient Appellate Court may determine case finally.",
+    "id": "cpc_section_O41R24"
+  },
+  "id": "cpc_section_O41R24",
+  "heading": {
+    "number": "Order XLI",
+    "title": "Appeals from Original Decrees",
+    "range": "41 rules"
+  },
+  "article": {
+    "number": "O41R24",
+    "title": "Where evidence on record sufficient Appellate Court may determine case finally.",
+    "content": "Where the evidence upon the record is sufficient to enable the Appellate Court to pronounce judgement, the Appellate Court may, after resettling the issues, if necessary, finally determine the suit, notwithstanding that the judgment of the Court from whose decree the appeal is preferred has proceeded wholly upon some ground other than that on which the Appellate Court proceeds.\n",
+    "html": "<article class=\"provision\" data-n=\"O41R24\" data-report=\"Order 41, Rule 24 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Where evidence on record sufficient Appellate Court may determine case finally.</h3></div><p class=\"prov-cite\">Order 41, Rule 24</p><div class=\"prov-body\"><p>Where the evidence upon the record is sufficient to enable the Appellate Court to pronounce judgement, the Appellate Court may, after resettling the issues, if necessary, finally determine the suit, notwithstanding that the judgment of the Court from whose decree the appeal is preferred has proceeded wholly upon some ground other than that on which the Appellate Court proceeds.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Where evidence on record sufficient Appellate Court may determine case finally.</h3></div><p class=\"prov-cite\">Order 41, Rule 24</p><div class=\"prov-body\"><p>Where the evidence upon the record is sufficient to enable the Appellate Court to pronounce judgement, the Appellate Court may, after resettling the issues, if necessary, finally determine the suit, notwithstanding that the judgment of the Court from whose decree the appeal is preferred has proceeded wholly upon some ground other than that on which the Appellate Court proceeds.</p></div>"
+  }
+}

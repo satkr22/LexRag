@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_183_chunk_0",
+    "section_id": "motor-vehicles_section_183",
+    "token_count": 401,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 183::Driving at excessive speed, etc.\n]\n\n\n(1) Whoever drives 3[or causes any person who is employed by him or subjects someone under his control to drive] a motor vehicle in contravention of the speed limits referred to in section 112 shall be punishable 4[in the following manner, namely:—\n(i) where such motor vehicle is a light motor vehicle with fine which shall not be less than one thousand rupees but may extend to two thousand rupees;\n(ii) where such motor vehicle is a medium goods vehicle or a medium passenger vehicle or a heavy goods vehicle or a heavy passenger vehicle with fine which shall not be less than two thousand rupees, but may extend to four thousand rupees; and\n(iii) for the second or any subsequent offence under this sub-section the driving licence of such driver shall be impounded as per the provisions of the sub-section (4) of section 206.]\n5* * * * *\n(3) No person shall be convicted of an offence punishable under sub-section (1) solely on the evidence of one witness to the effect that in the opinion of the witness such person was driving at a speed which was unlawful, unless that opinion is shown to be based on an estimate obtained by the use of some mechanical 6[or electronic] device.\n(4) The publication of a time table under which, or the giving of any direction that, any journey or part of a journey is to be completed within a specified time shall, if in the opinion of the Court it is not practicable in the circumstances of the case for that journey or part of a journey to be completed in the specified time without contravening the speed limits referred to in section 112 be prima facie evidence that the person who published the time table or gave the direction has committed an offence punishable under 7[sub-section (1)].",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_183_chunk_0",
+      "section_id": "motor-vehicles_section_183",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "183",
+      "section_title": "Driving at excessive speed, etc."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-52.html",
+    "source_order": 57,
+    "article_order": 6,
+    "order": 876,
+    "stem": "section_280ZD",
+    "heading_number": "Chapter XXII-B",
+    "heading_title": "Tax Credit Certificates",
+    "heading_range": "ss. 280Y–280ZE",
+    "heading_source": "group-head",
+    "article_number": "280ZD",
+    "article_title": "Tax credit certificates in relation to increased production of certain goods.",
+    "id": "income-tax-1961_section_280ZD"
+  },
+  "id": "income-tax-1961_section_280ZD",
+  "heading": {
+    "number": "Chapter XXII-B",
+    "title": "Tax Credit Certificates",
+    "range": "ss. 280Y–280ZE"
+  },
+  "article": {
+    "number": "280ZD",
+    "title": "Tax credit certificates in relation to increased production of certain goods.",
+    "content": "",
+    "html": "<article class=\"provision dead\" data-n=\"280ZD\" data-report=\"Section 280ZD · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280ZD</span>Tax credit certificates in relation to increased production of certain goods.</h3></div><p class=\"repnote\">[Omitted by the Finance Act, 1990, w.e.f. 1-4-1990.]</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">280ZD</span>Tax credit certificates in relation to increased production of certain goods.</h3></div><p class=\"repnote\">[Omitted by the Finance Act, 1990, w.e.f. 1-4-1990.]</p>"
+  }
+}

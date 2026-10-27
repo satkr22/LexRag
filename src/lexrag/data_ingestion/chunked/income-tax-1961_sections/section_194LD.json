@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194LD_chunk_0",
+    "section_id": "income-tax-1961_section_194LD",
+    "token_count": 481,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194LD::Income by way of interest on certain bonds and Government securities.\n]\n\n\n(1) Any person who is responsible for paying to a person being a Foreign Institutional Investor or a Qualified Foreign Investor, any income by way of interest referred to in sub-section (2), shall, at the time of credit of such income to the account of the payee or at the time of payment of such income in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of five per cent.\n  (2) The income by way of interest referred to in sub-section (1) shall be the interest payable,—\n  (a) on or after the 1st day of June, 2013 but before the 1st day of July, 2023 in respect of the investment made by the payee in—\n  (i) a rupee denominated bond of an Indian company; or\n  (ii) a Government security;\n  (b) on or after the 1st day of April, 2020 but before the 1st day of July, 2023 in respect of the investment made by the payee in municipal debt securities:\n  Provided that the rate of interest in respect of bond referred to in sub-clause (i) of clause (a) shall not exceed the rate as the Central Government may, by notification in the Official Gazette, specify.\n  Explanation.—For the purpose of this section,—\n  (a) \"Foreign Institutional Investor\" shall have the meaning assigned to it in clause (a) of the Explanation to section 115AD;\n  (b) \"Government security\" shall have the meaning assigned to it in clause (b) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);\n  (ba) \"municipal debt securities\" shall have the meaning assigned to it in clause (m) of sub-regulation (1) of regulation 2 of the Securities and Exchange Board of India (Issue and Listing of Municipal Debt Securities) Regulations, 2015 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194LD_chunk_0",
+      "section_id": "income-tax-1961_section_194LD",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194LD",
+      "section_title": "Income by way of interest on certain bonds and Government securities."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_194LD_chunk_1",
+    "section_id": "income-tax-1961_section_194LD",
+    "token_count": 219,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194LD::Income by way of interest on certain bonds and Government securities.\n]\n\n\n(1) Any person who is responsible for paying to a person being a Foreign Institutional Investor or a Qualified Foreign Investor, any income by way of interest referred to in sub-section (2), shall, at the time of credit of such income to the account of the payee or at the time of payment of such income in cash or by the issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rate of five per cent.\n  (c) \"Qualified Foreign Investor\" shall have the meaning assigned to it in the Circular No. Cir/IMD/DF/14/2011, dated the 9th August, 2011, as amended from time to time, issued by the Securities and Exchange Board of India, under section 11 of the Securities and Exchange Board of India Act, 1992 (15 of 1992).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194LD_chunk_1",
+      "section_id": "income-tax-1961_section_194LD",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194LD",
+      "section_title": "Income by way of interest on certain bonds and Government securities."
+    }
+  }
+]

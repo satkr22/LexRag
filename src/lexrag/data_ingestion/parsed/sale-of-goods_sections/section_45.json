@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-45.html",
+    "source_order": 45,
+    "article_order": 1,
+    "order": 45,
+    "stem": "section_45",
+    "heading_number": "Chapter V",
+    "heading_title": "Rights of Unpaid Seller Against the Goods",
+    "heading_range": "ss. 45–54",
+    "heading_source": "manifest",
+    "article_number": "45",
+    "article_title": "“Unpaid seller” defined.",
+    "id": "sale-of-goods_section_45"
+  },
+  "id": "sale-of-goods_section_45",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Rights of Unpaid Seller Against the Goods",
+    "range": "ss. 45–54"
+  },
+  "article": {
+    "number": "45",
+    "title": "“Unpaid seller” defined.",
+    "content": "(1) The seller of goods is deemed to be an “unpaid seller” within the meaning of this Act—\n(a) when the whole of the price has not been paid or tendered;\n(b) when a bill of exchange or other negotiable instrument has been received as conditional payment, and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise.\n(2) In this Chapter, the term “seller” includes any person who is in the position of a seller, as, for instance, an agent of the seller to whom the bill of lading has been endorsed, or a consignor or agent who has himself paid, or is directly responsible for, the price.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>“Unpaid seller” defined.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter V  ·  page 11 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The seller of goods is deemed to be an “unpaid seller” within the meaning of this Act—</p><p class=\"lvl\">(a) when the whole of the price has not been paid or tendered;</p><p class=\"lvl\">(b) when a bill of exchange or other negotiable instrument has been received as conditional payment, and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise.</p><p class=\"lvl\">(2) In this Chapter, the term “seller” includes any person who is in the position of a seller, as, for instance, an agent of the seller to whom the bill of lading has been endorsed, or a consignor or agent who has himself paid, or is directly responsible for, the price.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">45</span>“Unpaid seller” defined.</h3></div><p class=\"prov-cite\">Section 45  ·  Chapter V  ·  page 11 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The seller of goods is deemed to be an “unpaid seller” within the meaning of this Act—</p><p class=\"lvl\">(a) when the whole of the price has not been paid or tendered;</p><p class=\"lvl\">(b) when a bill of exchange or other negotiable instrument has been received as conditional payment, and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise.</p><p class=\"lvl\">(2) In this Chapter, the term “seller” includes any person who is in the position of a seller, as, for instance, an agent of the seller to whom the bill of lading has been endorsed, or a consignor or agent who has himself paid, or is directly responsible for, the price.</p></div>"
+  }
+}

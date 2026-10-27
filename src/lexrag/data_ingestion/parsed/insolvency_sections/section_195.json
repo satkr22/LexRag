@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-16.html",
+    "source_order": 16,
+    "article_order": 8,
+    "order": 220,
+    "stem": "section_195",
+    "heading_number": "Part IV · Chapter I",
+    "heading_title": "The Insolvency and Bankruptcy Board of India",
+    "heading_range": "ss. 188–195",
+    "heading_source": "group-head",
+    "article_number": "195",
+    "article_title": "Power to designate financial sector regulator.",
+    "id": "insolvency_section_195"
+  },
+  "id": "insolvency_section_195",
+  "heading": {
+    "number": "Part IV · Chapter I",
+    "title": "The Insolvency and Bankruptcy Board of India",
+    "range": "ss. 188–195"
+  },
+  "article": {
+    "number": "195",
+    "title": "Power to designate financial sector regulator.",
+    "content": "Until the Board is established, the Central Government may by notification, designate any financial sector regulator to exercise the powers and functions of the Board under this Code.\n",
+    "html": "<article class=\"provision\" data-n=\"195\" data-report=\"Section 195 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">195</span>Power to designate financial sector regulator.</h3></div><p class=\"prov-cite\">Section 195  ·  Part IV · Chapter I  ·  page 129 of the Act</p><div class=\"prov-body\"><p>Until the Board is established, the Central Government may by notification, designate any financial sector regulator to exercise the powers and functions of the Board under this Code.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">195</span>Power to designate financial sector regulator.</h3></div><p class=\"prov-cite\">Section 195  ·  Part IV · Chapter I  ·  page 129 of the Act</p><div class=\"prov-body\"><p>Until the Board is established, the Central Government may by notification, designate any financial sector regulator to exercise the powers and functions of the Board under this Code.</p></div>"
+  }
+}

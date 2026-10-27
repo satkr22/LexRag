@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80EEA_chunk_0",
+    "section_id": "income-tax-1961_section_80EEA",
+    "token_count": 405,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80EEA::Deduction in respect of interest on loan taken for certain house property.\n]\n\n\n(1) In computing the total income of an assessee, being an individual not eligible to claim deduction under section 80EE, there shall be deducted, in accordance with and subject to the provisions of this section, interest payable on loan taken by him from any financial institution for the purpose of acquisition of a residential house property.\n(2) The deduction under sub-section (1) shall not exceed one lakh and fifty thousand rupees and shall be allowed in computing the total income of the individual for the assessment year beginning on the 1st day of April, 2020 and subsequent assessment years.\n(3) The deduction under sub-section (1) shall be subject to the following conditions, namely:—\n(i) the loan has been sanctioned by the financial institution during the period beginning on the 1st day of April, 2019 and ending on the 31st day of March, 2022;\n(ii) the stamp duty value of residential house property does not exceed forty-five lakh rupees;\n(iii) the assessee does not own any residential house property on the date of sanction of loan.\n(4) Where a deduction under this section is allowed for any interest referred to in sub-section (1), deduction shall not be allowed in respect of such interest under any other provision of this Act for the same or any other assessment year.\n(5) For the purposes of this section,—\n(a) the expression \"financial institution\" shall have the meaning assigned to it in clause (a) of sub-section (5) of section 80EE;\n(b) the expression \"stamp duty value\" means value adopted or assessed or assessable by any authority of the Central Government or a State Government for the purpose of payment of stamp duty in respect of an immovable property.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80EEA_chunk_0",
+      "section_id": "income-tax-1961_section_80EEA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80EEA",
+      "section_title": "Deduction in respect of interest on loan taken for certain house property."
+    }
+  }
+]

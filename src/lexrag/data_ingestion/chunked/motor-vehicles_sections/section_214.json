@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_214_chunk_0",
+    "section_id": "motor-vehicles_section_214",
+    "token_count": 291,
+    "text": "[Act: motor-vehicles\n Chapter: Miscellaneous\n Section: 214::Effect of appeal and revision on orders passed by original authority.\n]\n\n\n(1) Where an appeal has been preferred or an application for revision has been made against any order passed by an original authority under this Act, the appeal or the application for revision shall not operate as a stay of the order passed by the original authority and such order shall remain in force pending the disposal of the appeal or the application for revision, as the case may be, unless the prescribed appellate authority or revisional authority otherwise directs.\n(2) Notwithstanding anything contained in sub-section (1), if an application made by a person for the renewal of permit has been rejected by the original authority and such person has preferred an appeal or made an application for revision under this Act against such rejection, the appellate authority or, as the case may be, the revisional authority may by order direct that the permit shall, notwithstanding the expiration of the term specified therein, continue to be valid until the appeal or application for revision is disposed of.\n(3) No order made by a competent authority under this Act shall be reversed or altered on appeal or revision on account of any error, omission or irregularity in the proceedings, unless it appears to the prescribed appellate authority or revisional authority, as the case may be, that such error, omission or irregularity has, in fact, occasioned a failure of justice.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_214_chunk_0",
+      "section_id": "motor-vehicles_section_214",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Miscellaneous",
+      "section_number": "214",
+      "section_title": "Effect of appeal and revision on orders passed by original authority."
+    }
+  }
+]

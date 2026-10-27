@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-13.html",
+    "source_order": 13,
+    "article_order": 24,
+    "order": 97,
+    "stem": "section_97",
+    "heading_number": "Part VI · Chapter VI",
+    "heading_title": "Of the construction of Wills",
+    "heading_range": "ss. 74–111",
+    "heading_source": "group-head",
+    "article_number": "97",
+    "article_title": "Effect of words describing a class added to bequest to person.",
+    "id": "succession_section_97"
+  },
+  "id": "succession_section_97",
+  "heading": {
+    "number": "Part VI · Chapter VI",
+    "title": "Of the construction of Wills",
+    "range": "ss. 74–111"
+  },
+  "article": {
+    "number": "97",
+    "title": "Effect of words describing a class added to bequest to person.",
+    "content": "Where property is bequeathed to a person, and words are added which describe a class of persons but do not denote them as direct objects of a distinct and independent gift, such person is entitled to the whole interest of the testator therein, unless a contrary intention appears by the will.\nIllustrations\n(i) A bequest is made—\nto A and his children,\nto A and his children by his present wife,\nto A and his heirs,\nto A and the heirs of his body,\nto A and the heirs male of his body,\nto A and the heirs female of his body,\nto A and his issue,\nto A and his family,\nto A and his descendants,\nto A and his representatives,\nto A and his personal representatives,\nto A, his executors and administrators.\nIn each of these cases, A takes the whole interest which the testator had in the property.\n(ii) A bequest is made to A and his brothers. A and his brothers are jointly entitled to the legacy.\n(iii) A bequest is made to A for life and after his death to his issue. At the death of A the property belongs in equal shares to all persons who then answer the description of issue of A.\n",
+    "html": "<article class=\"provision\" data-n=\"97\" data-report=\"Section 97 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Effect of words describing a class added to bequest to person.</h3></div><p class=\"prov-cite\">Section 97  ·  Part VI · Chapter VI  ·  page 37 of the Act</p><div class=\"prov-body\"><p>Where property is bequeathed to a person, and words are added which describe a class of persons but do not denote them as direct objects of a distinct and independent gift, such person is entitled to the whole interest of the testator therein, unless a contrary intention appears by the will.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequest is made—</p><p>to A and his children,</p><p>to A and his children by his present wife,</p><p>to A and his heirs,</p><p>to A and the heirs of his body,</p><p>to A and the heirs male of his body,</p><p>to A and the heirs female of his body,</p><p>to A and his issue,</p><p>to A and his family,</p><p>to A and his descendants,</p><p>to A and his representatives,</p><p>to A and his personal representatives,</p><p>to A, his executors and administrators.</p><p>In each of these cases, A takes the whole interest which the testator had in the property.</p><p class=\"lvl\">(ii) A bequest is made to A and his brothers. A and his brothers are jointly entitled to the legacy.</p><p class=\"lvl\">(iii) A bequest is made to A for life and after his death to his issue. At the death of A the property belongs in equal shares to all persons who then answer the description of issue of A.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">97</span>Effect of words describing a class added to bequest to person.</h3></div><p class=\"prov-cite\">Section 97  ·  Part VI · Chapter VI  ·  page 37 of the Act</p><div class=\"prov-body\"><p>Where property is bequeathed to a person, and words are added which describe a class of persons but do not denote them as direct objects of a distinct and independent gift, such person is entitled to the whole interest of the testator therein, unless a contrary intention appears by the will.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequest is made—</p><p>to A and his children,</p><p>to A and his children by his present wife,</p><p>to A and his heirs,</p><p>to A and the heirs of his body,</p><p>to A and the heirs male of his body,</p><p>to A and the heirs female of his body,</p><p>to A and his issue,</p><p>to A and his family,</p><p>to A and his descendants,</p><p>to A and his representatives,</p><p>to A and his personal representatives,</p><p>to A, his executors and administrators.</p><p>In each of these cases, A takes the whole interest which the testator had in the property.</p><p class=\"lvl\">(ii) A bequest is made to A and his brothers. A and his brothers are jointly entitled to the legacy.</p><p class=\"lvl\">(iii) A bequest is made to A for life and after his death to his issue. At the death of A the property belongs in equal shares to all persons who then answer the description of issue of A.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-40.html",
+    "source_order": 40,
+    "article_order": 5,
+    "order": 615,
+    "stem": "section_O23R3A",
+    "heading_number": "Order XXIII",
+    "heading_title": "Withdrawal and Adjustment of Suits",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O23R3A",
+    "article_title": "Bar to suit.",
+    "id": "cpc_section_O23R3A"
+  },
+  "id": "cpc_section_O23R3A",
+  "heading": {
+    "number": "Order XXIII",
+    "title": "Withdrawal and Adjustment of Suits",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O23R3A",
+    "title": "Bar to suit.",
+    "content": "No suit shall lie to set aside a decree on the ground that the compromise on which the decree is based was not lawful.\n",
+    "html": "<article class=\"provision\" data-n=\"O23R3A\" data-report=\"Order 23, Rule 3A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3A</span>Bar to suit.</h3></div><p class=\"prov-cite\">Order 23, Rule 3A</p><div class=\"prov-body\"><p>No suit shall lie to set aside a decree on the ground that the compromise on which the decree is based was not lawful.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 74 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3A</span>Bar to suit.</h3></div><p class=\"prov-cite\">Order 23, Rule 3A</p><div class=\"prov-body\"><p>No suit shall lie to set aside a decree on the ground that the compromise on which the decree is based was not lawful.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 74 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_105_chunk_0",
+    "section_id": "contract_section_105",
+    "token_count": 23,
+    "text": "[Act: contract\n Chapter: Sales of Goods\n Section: 105::Notice of seller’s claim.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "contract_section_105_chunk_0",
+      "section_id": "contract_section_105",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Sales of Goods",
+      "section_number": "105",
+      "section_title": "Notice of seller’s claim."
+    }
+  }
+]

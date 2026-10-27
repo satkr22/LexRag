@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_352_chunk_0",
+    "section_id": "income-tax-2025_section_352",
+    "token_count": 322,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Certain Persons\n Section: 352::Tax on accreted income.\n]\n\n\n(1) Every specified person shall, in addition to the income-tax chargeable in respect of his total income, be liable to pay additional income-tax on accreted income at the maximum marginal rate in any of the cases specified in column B(i) and (ii) of the Table in sub-section (4).\n  (2) The accreted income referred to in sub-section (1) shall be computed using the following formula:— A = B – C where,— A = Accreted income; B = Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed; C = Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed.\n  (3) The accreted income, computed as per the provisions of sub-section (2) shall be reduced by such amount of accreted income as is attributable to specified assets, and liabilities, if any, related to such assets.\n  (4) The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below:",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_352_chunk_0",
+      "section_id": "income-tax-2025_section_352",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Special Provisions Relating to Certain Persons",
+      "section_number": "352",
+      "section_title": "Tax on accreted income."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_352_chunk_1",
+    "section_id": "income-tax-2025_section_352",
+    "token_count": 459,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Certain Persons\n Section: 352::Tax on accreted income.\n]\n\n\n68 [8. The specified person has merged with any other The date of merger. The date of merger.] —\n  (a) entity other than a registered non-profit organisation; or\n  (b) registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or\n  (c) registered non-profit organisation that does not have same or similar objects. 9. The specified person has failed to transfer upon The date of The date on which such dissolution, all its assets to any other registered dissolution. period of twelve months non-profit organisation within twelve months expires. from the end of the month in which the dissolution takes place.\n  (5) The payment of tax on the accreted income by the specified person under this section shall be deemed as the final payment of tax in respect of the said income and no further credit therefor shall be claimed by, or any deduction be allowed to, the specified person or any other person in respect of the amount of tax so paid under any other provision of this Act.\n  (6) Where the specified person, or the principal officer or trustee of such specified person, fails to pay the whole or any part of the tax on the accreted income within the time allowed under sub-section (4), such specified person, principal officer or trustee shall be liable to pay simple interest, computed as per the following formula:— I = 1% of (T × P) where,— I = interest; T = tax on accreted income; and P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof.\n  (7) All the provisions of this Act shall apply for the collection and recovery of income-tax in respect of the amount of tax payable by the specified person, principal officer or trustee and the following persons shall be deemed to be assessee in default:—\n  (a) the specified person and principal officer or the trustee of such specified person;",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_352_chunk_1",
+      "section_id": "income-tax-2025_section_352",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Special Provisions Relating to Certain Persons",
+      "section_number": "352",
+      "section_title": "Tax on accreted income."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_352_chunk_2",
+    "section_id": "income-tax-2025_section_352",
+    "token_count": 168,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Certain Persons\n Section: 352::Tax on accreted income.\n]\n\n\n68 [8. The specified person has merged with any other The date of merger. The date of merger.] —\n  (b) the person to whom any asset forming part of the computation of accreted income under sub-section (2) has been transferred, where the tax on accreted income is payable under the cases specified in sub-section (4) (Table: Sl. No. 9).\n  (8) Subject to the provisions of sub-section (7), the liability of the person referred to in clause (b) of the said sub-section shall be limited to the extent to which the asset received by him is capable of meeting the liability.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_352_chunk_2",
+      "section_id": "income-tax-2025_section_352",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 2,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Special Provisions Relating to Certain Persons",
+      "section_number": "352",
+      "section_title": "Tax on accreted income."
+    }
+  }
+]

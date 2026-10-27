@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-12.html",
+    "source_order": 12,
+    "article_order": 1,
+    "order": 141,
+    "stem": "section_132",
+    "heading_number": "Part Xi",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 132–158",
+    "heading_source": "group-head",
+    "article_number": "132",
+    "article_title": "Exemption of certain women from personal appearance.",
+    "id": "cpc_section_132"
+  },
+  "id": "cpc_section_132",
+  "heading": {
+    "number": "Part Xi",
+    "title": "Miscellaneous",
+    "range": "ss. 132–158"
+  },
+  "article": {
+    "number": "132",
+    "title": "Exemption of certain women from personal appearance.",
+    "content": "(1) Women who, according to the customs and manners of the country, ought not to be compelled to appear in public shall be exempt from personal appearance in Court.\n(2) Nothing herein contained shall be deemed to exempt such women from arrest in execution of civil process in any case in which the arrest of women is not prohibited by this Code.\n",
+    "html": "<article class=\"provision\" data-n=\"132\" data-report=\"Section 132 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">132</span>Exemption of certain women from personal appearance.</h3></div><p class=\"prov-cite\">Section 132</p><div class=\"prov-body\"><p class=\"lvl\">(1) Women who, according to the customs and manners of the country, ought not to be compelled to appear in public shall be exempt from personal appearance in Court.</p><p class=\"lvl\">(2) Nothing herein contained shall be deemed to exempt such women from arrest in execution of civil process in any case in which the arrest of women is not prohibited by this Code.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">132</span>Exemption of certain women from personal appearance.</h3></div><p class=\"prov-cite\">Section 132</p><div class=\"prov-body\"><p class=\"lvl\">(1) Women who, according to the customs and manners of the country, ought not to be compelled to appear in public shall be exempt from personal appearance in Court.</p><p class=\"lvl\">(2) Nothing herein contained shall be deemed to exempt such women from arrest in execution of civil process in any case in which the arrest of women is not prohibited by this Code.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "dpdp_section_4_chunk_0",
+    "section_id": "dpdp_section_4",
+    "token_count": 110,
+    "text": "[Act: dpdp\n Chapter: Obligations of Data Fiduciary\n Section: 4::Grounds for processing personal data.\n]\n\n\n(1) A person may process the personal data of a Data Principal only in accordance with the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any purpose which is not expressly forbidden by law.",
+    "metadata": {
+      "chunk_id": "dpdp_section_4_chunk_0",
+      "section_id": "dpdp_section_4",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Obligations of Data Fiduciary",
+      "section_number": "4",
+      "section_title": "Grounds for processing personal data."
+    }
+  }
+]

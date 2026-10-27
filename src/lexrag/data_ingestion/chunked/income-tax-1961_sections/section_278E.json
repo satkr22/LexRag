@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_278E_chunk_0",
+    "section_id": "income-tax-1961_section_278E",
+    "token_count": 181,
+    "text": "[Act: income-tax-1961\n Chapter: Offences and Prosecutions\n Section: 278E::Presumption as to culpable mental state.\n]\n\n\n(1) In any prosecution for any offence under this Act which requires a culpable mental state on the part of the accused, the court shall presume the existence of such mental state but it shall be a defence for the accused to prove the fact that he had no such mental state with respect to the act charged as an offence in that prosecution.\nExplanation.—In this sub-section, \"culpable mental state\" includes intention, motive or knowledge of a fact or belief in, or reason to believe, a fact.\n(2) For the purposes of this section, a fact is said to be proved only when the court believes it to exist beyond reasonable doubt and not merely when its existence is established by a preponderance of probability.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_278E_chunk_0",
+      "section_id": "income-tax-1961_section_278E",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXII",
+      "chapter_title": "Offences and Prosecutions",
+      "section_number": "278E",
+      "section_title": "Presumption as to culpable mental state."
+    }
+  }
+]

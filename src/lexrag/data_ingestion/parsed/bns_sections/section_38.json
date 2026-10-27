@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-03.html",
+    "source_order": 3,
+    "article_order": 25,
+    "order": 38,
+    "stem": "section_38",
+    "heading_number": "Chapter III",
+    "heading_title": "General Exceptions",
+    "heading_range": "14 – 44",
+    "heading_source": "group-head",
+    "article_number": "38",
+    "article_title": "When right of private defence of body extends to causing death",
+    "id": "bns_section_38"
+  },
+  "id": "bns_section_38",
+  "heading": {
+    "number": "Chapter III",
+    "title": "General Exceptions",
+    "range": "14 – 44"
+  },
+  "article": {
+    "number": "38",
+    "title": "When right of private defence of body extends to causing death",
+    "content": "The right of private defence of the body extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:—\n(a)such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;\n(b)such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;\n(c)an assault with the intention of committing rape;\n(d)an assault with the intention of gratifying unnatural lust;\n(e)an assault with the intention of kidnapping or abducting;\n(f)an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release;\n(g)an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.\n",
+    "html": "<article class=\"provision\" data-n=\"38\" data-report=\"Section 38 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>When right of private defence of body extends to causing death</h3></div><p class=\"prov-cite\">Section 38 · Chapter III · Of right of private defence</p><div class=\"prov-body\"><p>The right of private defence of the body extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:—</p><p><span class=\"lbl\">(a)</span>such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;</p><p><span class=\"lbl\">(b)</span>such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;</p><p><span class=\"lbl\">(c)</span>an assault with the intention of committing rape;</p><p><span class=\"lbl\">(d)</span>an assault with the intention of gratifying unnatural lust;</p><p><span class=\"lbl\">(e)</span>an assault with the intention of kidnapping or abducting;</p><p><span class=\"lbl\">(f)</span>an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release;</p><p><span class=\"lbl\">(g)</span>an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>When right of private defence of body extends to causing death</h3></div><p class=\"prov-cite\">Section 38 · Chapter III · Of right of private defence</p><div class=\"prov-body\"><p>The right of private defence of the body extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:—</p><p><span class=\"lbl\">(a)</span>such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;</p><p><span class=\"lbl\">(b)</span>such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;</p><p><span class=\"lbl\">(c)</span>an assault with the intention of committing rape;</p><p><span class=\"lbl\">(d)</span>an assault with the intention of gratifying unnatural lust;</p><p><span class=\"lbl\">(e)</span>an assault with the intention of kidnapping or abducting;</p><p><span class=\"lbl\">(f)</span>an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release;</p><p><span class=\"lbl\">(g)</span>an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.</p></div>"
+  }
+}

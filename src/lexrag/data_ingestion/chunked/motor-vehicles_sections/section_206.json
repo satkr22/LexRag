@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_206_chunk_0",
+    "section_id": "motor-vehicles_section_206",
+    "token_count": 431,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 206::Power of police officer to impound document.\n]\n\n\n(1) Any police officer or other person authorised in this behalf by the State Government may, if he has reason to believe that any identification mark carried on a motor vehicle or any licence, permit, certificate of registration, certificate of insurance or other document produced to him by the driver or person in charge of a motor vehicle is a false document within the meaning of section 464 of the Indian Penal Code (45 of 1860), seize the mark or document and call upon the driver or owner of the vehicle to account for his possession of or the presence in the vehicle of such mark or document.\n  (2) Any police officer or other person authorised in this behalf by the State Government may, if he has reason to believe that the driver of a motor vehicle who is charged with any offence under this Act may abscond or otherwise avoid the service of a summons, seize any licence held by such driver and forward it to the Court taking cognizance of the offence and the said Court shall on the first appearance of such driver before it, return the licence to him in exchange for the temporary acknowledgment given under sub-section (3).\n  (3) A police officer or other person seizing a licence under sub-section (2) shall give to the person surrendering the licence a temporary acknowledgment therefor and such acknowledgment shall authorise the holder to drive until the licence has been returned to him or until such date as may be specified by the police officer or other person in the acknowledgment, whichever is earlier:\n  Provided that if any magistrate, police officer or other person authorised by the State Government in this behalf is, on an application made to him, satisfied that the licence cannot be, or has not been, returned to the holder thereof before the date specified in the acknowledgment for any reason for which the holder is not responsible, the magistrate, police officer or other person, as the case may be, may extend the period of authorization to drive to such date as may be specified in the acknowledgment.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_206_chunk_0",
+      "section_id": "motor-vehicles_section_206",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "206",
+      "section_title": "Power of police officer to impound document."
+    }
+  },
+  {
+    "chunk_id": "motor-vehicles_section_206_chunk_1",
+    "section_id": "motor-vehicles_section_206",
+    "token_count": 293,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 206::Power of police officer to impound document.\n]\n\n\n(1) Any police officer or other person authorised in this behalf by the State Government may, if he has reason to believe that any identification mark carried on a motor vehicle or any licence, permit, certificate of registration, certificate of insurance or other document produced to him by the driver or person in charge of a motor vehicle is a false document within the meaning of section 464 of the Indian Penal Code (45 of 1860), seize the mark or document and call upon the driver or owner of the vehicle to account for his possession of or the presence in the vehicle of such mark or document.\n  1 [(4) A police officer or other person authorised in this behalf by the State Government shall, if he has reason to believe that the driver of a motor vehicle has committed an offence under any of sections 183, 184, 185, 189, 190, 194C, 194D, or 194E, seize the driving licence held by such driver and forward it to the licensing authority for disqualification or revocation proceedings under section 19:\n  Provided that the person seizing the licence shall give to the person surrendering the licence a temporary acknowledgement therefor, but such acknowledgement shall not authorise the holder to drive until the licence has been returned to him.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_206_chunk_1",
+      "section_id": "motor-vehicles_section_206",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "206",
+      "section_title": "Power of police officer to impound document."
+    }
+  }
+]

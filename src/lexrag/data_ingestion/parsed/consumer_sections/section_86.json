@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-86.html",
+    "source_order": 86,
+    "article_order": 1,
+    "order": 86,
+    "stem": "section_86",
+    "heading_number": "Chapter VI",
+    "heading_title": "Product Liability",
+    "heading_range": "ss. 82–87",
+    "heading_source": "manifest",
+    "article_number": "86",
+    "article_title": "Liability of product sellers.",
+    "id": "consumer_section_86"
+  },
+  "id": "consumer_section_86",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Product Liability",
+    "range": "ss. 82–87"
+  },
+  "article": {
+    "number": "86",
+    "title": "Liability of product sellers.",
+    "content": "A product seller who is not a product manufacturer shall be liable in a product liability action, if—\n(a) he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm; or\n(b) he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm; or\n(c) he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm; or\n(d) the product has been sold by him and the identity of product manufacturer of such product is not known, or if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him; or\n(e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Liability of product sellers.</h3></div><p class=\"prov-cite\">Section 86  ·  Chapter VI  ·  page 32 of the Act</p><div class=\"prov-body\"><p>A product seller who is not a product manufacturer shall be liable in a product liability action, if—</p><p class=\"lvl\">(a) he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm; or</p><p class=\"lvl\">(b) he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm; or</p><p class=\"lvl\">(c) he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm; or</p><p class=\"lvl\">(d) the product has been sold by him and the identity of product manufacturer of such product is not known, or if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him; or</p><p class=\"lvl\">(e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Liability of product sellers.</h3></div><p class=\"prov-cite\">Section 86  ·  Chapter VI  ·  page 32 of the Act</p><div class=\"prov-body\"><p>A product seller who is not a product manufacturer shall be liable in a product liability action, if—</p><p class=\"lvl\">(a) he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm; or</p><p class=\"lvl\">(b) he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm; or</p><p class=\"lvl\">(c) he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm; or</p><p class=\"lvl\">(d) the product has been sold by him and the identity of product manufacturer of such product is not known, or if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him; or</p><p class=\"lvl\">(e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm.</p></div>"
+  }
+}

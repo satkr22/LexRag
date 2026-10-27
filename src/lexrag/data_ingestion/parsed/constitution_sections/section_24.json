@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-03.html",
+    "source_order": 3,
+    "article_order": 14,
+    "order": 26,
+    "stem": "section_24",
+    "heading_number": "Part III",
+    "heading_title": "Fundamental Rights",
+    "heading_range": "12 – 35",
+    "heading_source": "group-head",
+    "article_number": "24",
+    "article_title": "Prohibition of employment of children in factories, etc",
+    "id": "constitution_section_24"
+  },
+  "id": "constitution_section_24",
+  "heading": {
+    "number": "Part III",
+    "title": "Fundamental Rights",
+    "range": "12 – 35"
+  },
+  "article": {
+    "number": "24",
+    "title": "Prohibition of employment of children in factories, etc",
+    "content": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.\n",
+    "html": "<article class=\"provision\" data-n=\"24\" data-report=\"Article 24 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Prohibition of employment of children in factories, etc</h3></div><p class=\"prov-cite\">Article 24 · Part III · Right against Exploitation</p><div class=\"prov-body\"><p>No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Prohibition of employment of children in factories, etc</h3></div><p class=\"prov-cite\">Article 24 · Part III · Right against Exploitation</p><div class=\"prov-body\"><p>No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.</p></div>"
+  }
+}

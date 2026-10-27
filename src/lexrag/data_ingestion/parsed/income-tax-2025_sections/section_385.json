@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-18.html",
+    "source_order": 19,
+    "article_order": 30,
+    "order": 386,
+    "stem": "section_385",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "heading_range": "ss. 356–389",
+    "heading_source": "group-head",
+    "article_number": "385",
+    "article_title": "Appellate authority not to proceed in certain cases.",
+    "id": "income-tax-2025_section_385"
+  },
+  "id": "income-tax-2025_section_385",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "range": "ss. 356–389"
+  },
+  "article": {
+    "number": "385",
+    "title": "Appellate authority not to proceed in certain cases.",
+    "content": "No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).\n",
+    "html": "<article class=\"provision\" data-n=\"385\" data-report=\"Section 385 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">385</span>Appellate authority not to proceed in certain cases.</h3></div><p class=\"prov-cite\">Section 385  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 452 of the Act</p><div class=\"prov-body\"><p>No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">385</span>Appellate authority not to proceed in certain cases.</h3></div><p class=\"prov-cite\">Section 385  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 452 of the Act</p><div class=\"prov-body\"><p>No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).</p></div>"
+  }
+}

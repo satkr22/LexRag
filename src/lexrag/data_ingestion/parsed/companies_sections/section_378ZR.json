@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-22.html",
+    "source_order": 22,
+    "article_order": 44,
+    "order": 426,
+    "stem": "section_378ZR",
+    "heading_number": "Chapter XXIA",
+    "heading_title": "Producer Companies 1",
+    "heading_range": "ss. 378A–378ZU",
+    "heading_source": "group-head",
+    "article_number": "378ZR",
+    "article_title": "Application of provisions relating to private companies.",
+    "id": "companies_section_378ZR"
+  },
+  "id": "companies_section_378ZR",
+  "heading": {
+    "number": "Chapter XXIA",
+    "title": "Producer Companies 1",
+    "range": "ss. 378A–378ZU"
+  },
+  "article": {
+    "number": "378ZR",
+    "title": "Application of provisions relating to private companies.",
+    "content": "All the limitations, restrictions and provisions of this Act, other than those specified in this Chapter, applicable to a private company, shall, as far as may be, apply to a Producer Company, as if it is a private limited company under this Act in so far as they are not in conflict with the provisions of this Chapter.\n",
+    "html": "<article class=\"provision\" data-n=\"378ZR\" data-report=\"Section 378ZR · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">378ZR</span>Application of provisions relating to private companies.</h3></div><p class=\"prov-cite\">Section 378ZR  ·  Chapter XXIA  ·  Part XI  ·  page 221 of the Act</p><div class=\"prov-body\"><p>All the limitations, restrictions and provisions of this Act, other than those specified in this Chapter, applicable to a private company, shall, as far as may be, apply to a Producer Company, as if it is a private limited company under this Act in so far as they are not in conflict with the provisions of this Chapter.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">378ZR</span>Application of provisions relating to private companies.</h3></div><p class=\"prov-cite\">Section 378ZR  ·  Chapter XXIA  ·  Part XI  ·  page 221 of the Act</p><div class=\"prov-body\"><p>All the limitations, restrictions and provisions of this Act, other than those specified in this Chapter, applicable to a private company, shall, as far as may be, apply to a Producer Company, as if it is a private limited company under this Act in so far as they are not in conflict with the provisions of this Chapter.</p></div>"
+  }
+}

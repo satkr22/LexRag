@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_150_chunk_0",
+    "section_id": "succession_section_150",
+    "token_count": 408,
+    "text": "[Act: succession\n Chapter: Of Demonstrative Legacies\n Section: 150::Demonstrative legacy defined.\n]\n\n\nWhere a testator bequeaths a certain sum of money, or a certain quantity of any other commodity, and refers to a particular fund or stock so as to constitute the same the primary fund or stock out of which payment is to be made, the legacy is said to be demonstrative.\nExplanation.—The distinction between a specific legacy and a demonstrative legacy consists in this, that—\nwhere specified property is given to the legatee, the legacy is specific;\nwhere the legacy is directed to be paid out of specified property, it is demonstrative.\nIllustrations\n(i) A bequeaths to B 1,000 rupees, being part of a debt due to him from W. He also bequeaths to C 1,000 rupees to be paid out of the debt due to him from W. The legacy to B is specific, the legacy to C is demonstrative.\n(ii) A bequeaths to B—\n“ten bushels of the corn which shall grow in my field of Green Acre”:\n“80 chests of the indigo which shall be made at my factory of Rampur”:\n“10,000 rupees out of my five per cent. promissory notes of the Central Government”:\n“An annuity of 500 rupees from my funded property”:\n“1,000 rupees out of the sum of 2,000 rupees due to me by C”:\nAn annuity, and directs it to be paid “out of the rents arising from my taluk of Ramnagar”.\n(iii) A bequeaths to B—\n“10,000 rupees out of my estate at Ramnagar,” or charges it on his estate at Ramnagar:\n“10,000 rupees, being my share of the capital embarked in a certain business.”\nEach of these bequests is demonstrative.",
+    "metadata": {
+      "chunk_id": "succession_section_150_chunk_0",
+      "section_id": "succession_section_150",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter XV",
+      "chapter_title": "Of Demonstrative Legacies",
+      "section_number": "150",
+      "section_title": "Demonstrative legacy defined."
+    }
+  }
+]

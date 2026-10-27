@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_41_chunk_0",
+    "section_id": "gst_section_41",
+    "token_count": 184,
+    "text": "[Act: gst\n Chapter: Returns\n Section: 41::Availment of input tax credit.\n]\n\n\n(1) Every registered person shall, subject to such conditions and restrictions as may be prescribed, be entitled to avail the credit of eligible input tax, as self-assessed, in his return and such amount shall be credited to his electronic credit ledger.\n(2) The credit of input tax availed by a registered person under sub-section (1) in respect of such supplies of goods or services or both, the tax payable whereon has not been paid by the supplier, shall be reversed along with applicable interest, by the said person in such manner as may be prescribed:\nProvided that where the said supplier makes payment of the tax payable in respect of the aforesaid supplies, the said registered person may re-avail the amount of credit reversed by him in such manner as may be prescribed.]",
+    "metadata": {
+      "chunk_id": "gst_section_41_chunk_0",
+      "section_id": "gst_section_41",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Returns",
+      "section_number": "41",
+      "section_title": "Availment of input tax credit."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-06.html",
+    "source_order": 6,
+    "article_order": 24,
+    "order": 86,
+    "stem": "section_86",
+    "heading_number": "Chapter VI",
+    "heading_title": "Processes to Compel Appearance",
+    "heading_range": "63 – 93",
+    "heading_source": "group-head",
+    "article_number": "86",
+    "article_title": "Identification and attachment of property of proclaimed person",
+    "id": "bnss_section_86"
+  },
+  "id": "bnss_section_86",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Processes to Compel Appearance",
+    "range": "63 – 93"
+  },
+  "article": {
+    "number": "86",
+    "title": "Identification and attachment of property of proclaimed person",
+    "content": "The Court may, on the written request from a police officer not below the rank of the Superintendent of Police or Commissioner of Police, initiate the process of requesting assistance from a Court or an authority in the contracting State for identification, attachment and forfeiture of property belonging to a proclaimed person in accordance with the procedure provided in Chapter VIII.\n",
+    "html": "<article class=\"provision\" data-n=\"86\" data-report=\"Section 86 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Identification and attachment of property of proclaimed person</h3></div><p class=\"prov-cite\">Section 86 · Chapter VI · Proclamation and attachment</p><div class=\"prov-body\"><p>The Court may, on the written request from a police officer not below the rank of the Superintendent of Police or Commissioner of Police, initiate the process of requesting assistance from a Court or an authority in the contracting State for identification, attachment and forfeiture of property belonging to a proclaimed person in accordance with the procedure provided in Chapter VIII.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Identification and attachment of property of proclaimed person</h3></div><p class=\"prov-cite\">Section 86 · Chapter VI · Proclamation and attachment</p><div class=\"prov-body\"><p>The Court may, on the written request from a police officer not below the rank of the Superintendent of Police or Commissioner of Police, initiate the process of requesting assistance from a Court or an authority in the contracting State for identification, attachment and forfeiture of property belonging to a proclaimed person in accordance with the procedure provided in Chapter VIII.</p></div>"
+  }
+}

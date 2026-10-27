@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_40_chunk_0",
+    "section_id": "negotiable-instruments_section_40",
+    "token_count": 210,
+    "text": "[Act: negotiable-instruments\n Chapter: Parties to Notes, Bills and Cheques.\n Section: 40::Discharge of indorser's liability.\n]\n\n\nWhere the holder of a negotiable instrument, without the consent of the indorser, destroys or impairs the indorser’s remedy against a prior party, the indorser is discharged from liability to the holder to the same extent as if the instrument had been paid at maturity.\nIllustration\nA is the holder of a bill of exchange made payable to the order of B, which contains the following indorsements in blank:—\nFirst indorsement, “B”.\nSecond indorsement, “Peter Williams”.\nThird indorsement, “Wright & Co.”\nFourth indorsement. “John Rozario”.\nThis bill A puts in suit against John Rozario and strikes out, without John Rozario's consent, the indorsements by Peter Williams and Wright & Co. A is not entitled to recover anything from John Rozario.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_40_chunk_0",
+      "section_id": "negotiable-instruments_section_40",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Parties to Notes, Bills and Cheques.",
+      "section_number": "40",
+      "section_title": "Discharge of indorser's liability."
+    }
+  }
+]

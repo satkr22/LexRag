@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-07.html",
+    "source_order": 8,
+    "article_order": 5,
+    "order": 112,
+    "stem": "section_112",
+    "heading_number": "Chapter VII",
+    "heading_title": "Set Off, or Carry Forward and Set Off of Losses",
+    "heading_range": "ss. 108–121",
+    "heading_source": "group-head",
+    "article_number": "112",
+    "article_title": "Carry forward and set off of business loss.",
+    "id": "income-tax-2025_section_112"
+  },
+  "id": "income-tax-2025_section_112",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Set Off, or Carry Forward and Set Off of Losses",
+    "range": "ss. 108–121"
+  },
+  "article": {
+    "number": "112",
+    "title": "Carry forward and set off of business loss.",
+    "content": "(1) Where for any tax year, loss computed under the head \"Profits and gains of business or profession\" (not being a loss sustained in a speculation business) cannot be wholly set off against the income under any other head as per section 109, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and—\n(i) be set off against the profits and gains, if any, of any business or profession carried on by him for that tax year; and\n(ii) if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following tax year and so on.\n(2) No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.\n(3) Where any allowance of part thereof under section 33(11) or 45(7) is to be carried forward, effect shall first be given to the provision of this section.\n",
+    "html": "<article class=\"provision\" data-n=\"112\" data-report=\"Section 112 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">112</span>Carry forward and set off of business loss.</h3></div><p class=\"prov-cite\">Section 112  ·  Chapter VII  ·  page 147 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where for any tax year, loss computed under the head \"Profits and gains of business or profession\" (not being a loss sustained in a speculation business) cannot be wholly set off against the income under any other head as per section 109, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and—</p><p class=\"lvl\">(i) be set off against the profits and gains, if any, of any business or profession carried on by him for that tax year; and</p><p class=\"lvl\">(ii) if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following tax year and so on.</p><p class=\"lvl\">(2) No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.</p><p class=\"lvl\">(3) Where any allowance of part thereof under section 33(11) or 45(7) is to be carried forward, effect shall first be given to the provision of this section.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">112</span>Carry forward and set off of business loss.</h3></div><p class=\"prov-cite\">Section 112  ·  Chapter VII  ·  page 147 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where for any tax year, loss computed under the head \"Profits and gains of business or profession\" (not being a loss sustained in a speculation business) cannot be wholly set off against the income under any other head as per section 109, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and—</p><p class=\"lvl\">(i) be set off against the profits and gains, if any, of any business or profession carried on by him for that tax year; and</p><p class=\"lvl\">(ii) if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following tax year and so on.</p><p class=\"lvl\">(2) No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.</p><p class=\"lvl\">(3) Where any allowance of part thereof under section 33(11) or 45(7) is to be carried forward, effect shall first be given to the provision of this section.</p></div>"
+  }
+}

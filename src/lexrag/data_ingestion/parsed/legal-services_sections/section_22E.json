@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "legal-services",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": null,
+    "source_file": "legal-services_sections/section-22e.html",
+    "source_order": 31,
+    "article_order": 1,
+    "order": 31,
+    "stem": "section_22E",
+    "heading_number": "Chapter VIA",
+    "heading_title": "Pre-litigation Conciliation and Settlement",
+    "heading_range": "ss. 22A–22E",
+    "heading_source": "manifest",
+    "article_number": "22E",
+    "article_title": "Award of Permanent Lok Adalat to be final.",
+    "id": "legal-services_section_22E"
+  },
+  "id": "legal-services_section_22E",
+  "heading": {
+    "number": "Chapter VIA",
+    "title": "Pre-litigation Conciliation and Settlement",
+    "range": "ss. 22A–22E"
+  },
+  "article": {
+    "number": "22E",
+    "title": "Award of Permanent Lok Adalat to be final.",
+    "content": "(1) Every award of the Permanent Lok Adalat under this Act made either on merit or in terms of a settlement agreement shall be final and binding on all the parties thereto and on persons claiming under them.\n(2) Every award of the Permanent Lok Adalat under this Act shall be deemed to be a decree of a civil court.\n(3) The award made by the Permanent Lok Adalat under this Act shall be by a majority of the persons constituting the Permanent Lok Adalat.\n(4) Every award made by the Permanent Lok Adalat under this Act shall be final and shall not be called in question in any original suit, application or execution proceeding.\n(5) The Permanent Lok Adalat may transmit any award made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.]\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22E</span>Award of Permanent Lok Adalat to be final.</h3></div><p class=\"prov-cite\">Section 22E  ·  Chapter VIA  ·  page 15 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every award of the Permanent Lok Adalat under this Act made either on merit or in terms of a settlement agreement shall be final and binding on all the parties thereto and on persons claiming under them.</p><p class=\"lvl\">(2) Every award of the Permanent Lok Adalat under this Act shall be deemed to be a decree of a civil court.</p><p class=\"lvl\">(3) The award made by the Permanent Lok Adalat under this Act shall be by a majority of the persons constituting the Permanent Lok Adalat.</p><p class=\"lvl\">(4) Every award made by the Permanent Lok Adalat under this Act shall be final and shall not be called in question in any original suit, application or execution proceeding.</p><p class=\"lvl\">(5) The Permanent Lok Adalat may transmit any award made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.]</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22E</span>Award of Permanent Lok Adalat to be final.</h3></div><p class=\"prov-cite\">Section 22E  ·  Chapter VIA  ·  page 15 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every award of the Permanent Lok Adalat under this Act made either on merit or in terms of a settlement agreement shall be final and binding on all the parties thereto and on persons claiming under them.</p><p class=\"lvl\">(2) Every award of the Permanent Lok Adalat under this Act shall be deemed to be a decree of a civil court.</p><p class=\"lvl\">(3) The award made by the Permanent Lok Adalat under this Act shall be by a majority of the persons constituting the Permanent Lok Adalat.</p><p class=\"lvl\">(4) Every award made by the Permanent Lok Adalat under this Act shall be final and shall not be called in question in any original suit, application or execution proceeding.</p><p class=\"lvl\">(5) The Permanent Lok Adalat may transmit any award made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.]</p></div>"
+  }
+}

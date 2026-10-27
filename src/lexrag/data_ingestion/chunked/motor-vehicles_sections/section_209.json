@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_209_chunk_0",
+    "section_id": "motor-vehicles_section_209",
+    "token_count": 251,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 209::Restriction on conviction.\n]\n\n\nNo person prosecuted for an offence punishable under section 183 or section 184 shall be convicted unless—\n(a) he was warned at the time the offence was committed that the question of prosecuting him would be taken into consideration, or\n(b) within fourteen days from the commission of the offence, a notice specifying the nature of the offence and the time and place where it is alleged to have been committed was served on or sent by registered post to him or the person registered as the owner of the vehicle at the time of the commission of the offence, or\n(c) within twenty-eight days of the commission of the offence, a summons for the offence was served on him:\nProvided that nothing, in this section shall apply where the Court is satisfied that—\n(a) the failure to serve the notice or summons referred to in this sub-section was due to the fact that neither the name and address of the accused nor the name and address of the registered owner of the vehicle could with reasonable diligence have been ascertained in time, or\n(b) such failure was brought about by the conduct of the accused.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_209_chunk_0",
+      "section_id": "motor-vehicles_section_209",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "209",
+      "section_title": "Restriction on conviction."
+    }
+  }
+]

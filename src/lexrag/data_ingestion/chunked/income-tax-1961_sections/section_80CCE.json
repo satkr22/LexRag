@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80CCE_chunk_0",
+    "section_id": "income-tax-1961_section_80CCE",
+    "token_count": 90,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80CCE::Limit on deductions under sections 80C, 80CCC and 80CCD.\n]\n\n\nThe aggregate amount of deductions under section 80C, section 80CCC and sub-section (1) of section 80CCD shall not, in any case, exceed one hundred and fifty thousand rupees.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80CCE_chunk_0",
+      "section_id": "income-tax-1961_section_80CCE",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80CCE",
+      "section_title": "Limit on deductions under sections 80C, 80CCC and 80CCD."
+    }
+  }
+]

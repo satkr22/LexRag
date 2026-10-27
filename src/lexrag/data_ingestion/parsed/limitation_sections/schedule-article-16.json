@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-16.html",
+    "source_order": 16,
+    "article_order": 1,
+    "order": 16,
+    "stem": "schedule-article-16",
+    "heading_number": null,
+    "heading_title": "First Division · Part II · Suits Relating to Contracts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "16",
+    "article_title": "Three years.",
+    "id": "limitation_schedule-article-16"
+  },
+  "id": "limitation_schedule-article-16",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part II · Suits Relating to Contracts",
+    "range": null
+  },
+  "article": {
+    "number": "16",
+    "title": "Three years.",
+    "content": "For the price of goods sold and delivered to be paid for by a bill of exchange, no such bill being given.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the period of the proposed bill elapses.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>16<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For the price of goods sold and delivered to be paid for by a bill of exchange, no such bill being given.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the period of the proposed bill elapses.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>16<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For the price of goods sold and delivered to be paid for by a bill of exchange, no such bill being given.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the period of the proposed bill elapses.</p></div></div></div></div>"
+  }
+}

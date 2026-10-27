@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_188_chunk_0",
+    "section_id": "income-tax-1961_section_188",
+    "token_count": 85,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Applicable to Firms\n Section: 188::Succession of one firm by another firm.\n]\n\n\nWhere a firm carrying on a business or profession is succeeded by another firm, and the case is not one covered by section 187, separate assessments shall be made on the predecessor firm and the successor firm in accordance with the provisions of section 170.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_188_chunk_0",
+      "section_id": "income-tax-1961_section_188",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVI",
+      "chapter_title": "Special Provisions Applicable to Firms",
+      "section_number": "188",
+      "section_title": "Succession of one firm by another firm."
+    }
+  }
+]

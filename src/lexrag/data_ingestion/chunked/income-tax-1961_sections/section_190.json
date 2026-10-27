@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_190_chunk_0",
+    "section_id": "income-tax-1961_section_190",
+    "token_count": 134,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 190::Deduction at source and advance payment.\n]\n\n\n(1) Notwithstanding that the regular assessment in respect of any income is to be made in a later assessment year, the tax on such income shall be payable by deduction or collection at source or by advance payment or by payment under sub-section (1A) of section 192, as the case may be, in accordance with the provisions of this Chapter.\n(2) Nothing in this section shall prejudice the charge of tax on such income under the provisions of sub-section (1) of section 4.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_190_chunk_0",
+      "section_id": "income-tax-1961_section_190",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "190",
+      "section_title": "Deduction at source and advance payment."
+    }
+  }
+]

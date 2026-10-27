@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 88,
+    "order": 258,
+    "stem": "section_235",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "235",
+    "article_title": "Control over subordinate courts",
+    "id": "constitution_section_235"
+  },
+  "id": "constitution_section_235",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "235",
+    "title": "Control over subordinate courts",
+    "content": "The control over district courts and courts subordinate thereto including the posting and promotion of, and the grant of leave to, persons belonging to the judicial service of a State and holding any post inferior to the post of district judge shall be vested in the High Court, but nothing in this article shall be construed as taking away from any such person any right of appeal which he may have under the law regulating the conditions of his service or as authorising the High Court to deal with him otherwise than in accordance with the conditions of his service prescribed under such law.\n",
+    "html": "<article class=\"provision\" data-n=\"235\" data-report=\"Article 235 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">235</span>Control over subordinate courts</h3></div><p class=\"prov-cite\">Article 235 · Part VI</p><div class=\"prov-body\"><p>The control over district courts and courts subordinate thereto including the posting and promotion of, and the grant of leave to, persons belonging to the judicial service of a State and holding any post inferior to the post of district judge shall be vested in the High Court, but nothing in this article shall be construed as taking away from any such person any right of appeal which he may have under the law regulating the conditions of his service or as authorising the High Court to deal with him otherwise than in accordance with the conditions of his service prescribed under such law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">235</span>Control over subordinate courts</h3></div><p class=\"prov-cite\">Article 235 · Part VI</p><div class=\"prov-body\"><p>The control over district courts and courts subordinate thereto including the posting and promotion of, and the grant of leave to, persons belonging to the judicial service of a State and holding any post inferior to the post of district judge shall be vested in the High Court, but nothing in this article shall be construed as taking away from any such person any right of appeal which he may have under the law regulating the conditions of his service or as authorising the High Court to deal with him otherwise than in accordance with the conditions of his service prescribed under such law.</p></div>"
+  }
+}

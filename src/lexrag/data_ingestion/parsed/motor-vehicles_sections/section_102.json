@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-06.html",
+    "source_order": 6,
+    "article_order": 6,
+    "order": 110,
+    "stem": "section_102",
+    "heading_number": "Chapter VI",
+    "heading_title": "Special Provisions Relating to State Transport Undertakings",
+    "heading_range": "ss. 97–108",
+    "heading_source": "group-head",
+    "article_number": "102",
+    "article_title": "Cancellation or modification of scheme.",
+    "id": "motor-vehicles_section_102"
+  },
+  "id": "motor-vehicles_section_102",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Special Provisions Relating to State Transport Undertakings",
+    "range": "ss. 97–108"
+  },
+  "article": {
+    "number": "102",
+    "title": "Cancellation or modification of scheme.",
+    "content": "(1) The State Government may, at any time, if it considers necessary, in the public interest so to do, modify any approved scheme after giving—\n(i) the State transport undertaking; and\n(ii) any other person who, in the opinion of the State Government, is likely to be affected by the proposed modification,\nan opportunity of being heard in respect of the proposed modification.\n(2) The State Government shall publish any modification proposed under sub-section (1) in the Official Gazette and in one of the newspapers in the regional languages circulating in the area in which it is proposed to be covered by such modification, together with the date, not being less than thirty days from such publication in the Official Gazette, and the time and place at which any representation received in this behalf will be heard by the State Government.\n",
+    "html": "<article class=\"provision\" data-n=\"102\" data-report=\"Section 102 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">102</span>Cancellation or modification of scheme.</h3></div><p class=\"prov-cite\">Section 102  ·  Chapter VI  ·  page 70 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government may, at any time, if it considers necessary, in the public interest so to do, modify any approved scheme after giving—</p><p class=\"lvl\">(i) the State transport undertaking; and</p><p class=\"lvl\">(ii) any other person who, in the opinion of the State Government, is likely to be affected by the proposed modification,</p><p>an opportunity of being heard in respect of the proposed modification.</p><p class=\"lvl\">(2) The State Government shall publish any modification proposed under sub-section (1) in the Official Gazette and in one of the newspapers in the regional languages circulating in the area in which it is proposed to be covered by such modification, together with the date, not being less than thirty days from such publication in the Official Gazette, and the time and place at which any representation received in this behalf will be heard by the State Government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">102</span>Cancellation or modification of scheme.</h3></div><p class=\"prov-cite\">Section 102  ·  Chapter VI  ·  page 70 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The State Government may, at any time, if it considers necessary, in the public interest so to do, modify any approved scheme after giving—</p><p class=\"lvl\">(i) the State transport undertaking; and</p><p class=\"lvl\">(ii) any other person who, in the opinion of the State Government, is likely to be affected by the proposed modification,</p><p>an opportunity of being heard in respect of the proposed modification.</p><p class=\"lvl\">(2) The State Government shall publish any modification proposed under sub-section (1) in the Official Gazette and in one of the newspapers in the regional languages circulating in the area in which it is proposed to be covered by such modification, together with the date, not being less than thirty days from such publication in the Official Gazette, and the time and place at which any representation received in this behalf will be heard by the State Government.</p></div>"
+  }
+}

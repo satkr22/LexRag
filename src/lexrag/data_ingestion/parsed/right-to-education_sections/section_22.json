@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "right-to-education",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "right-to-education_sections/section-22.html",
+    "source_order": 22,
+    "article_order": 1,
+    "order": 22,
+    "stem": "section_22",
+    "heading_number": "Chapter IV",
+    "heading_title": "Responsibilities of Schools and Teachers",
+    "heading_range": "ss. 12–28",
+    "heading_source": "manifest",
+    "article_number": "22",
+    "article_title": "School Development Plan.",
+    "id": "right-to-education_section_22"
+  },
+  "id": "right-to-education_section_22",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Responsibilities of Schools and Teachers",
+    "range": "ss. 12–28"
+  },
+  "article": {
+    "number": "22",
+    "title": "School Development Plan.",
+    "content": "(1) Every 2[School Management Committee, except the School Management Committee in respect of a school established and administered by minority, whether based on religion or language and an aided school as defined in sub-clause (ii) of clause (n) of section 2, constituted] under sub-section (1) of section 21, shall prepare a School Development Plan, in such manner as may be prescribed.\n(2) The School Development Plan so prepared under sub-section (1) shall be the basis for the plans and grants to be made by the appropriate Government or local authority, as the case may be.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>School Development Plan.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter IV  ·  pages 10–11 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every <sup>2</sup>[School Management Committee, except the School Management Committee in respect of a school established and administered by minority, whether based on religion or language and an aided school as defined in sub-clause (ii) of clause (n) of section 2, constituted] under sub-section (1) of section 21, shall prepare a School Development Plan, in such manner as may be prescribed.</p><p class=\"lvl\">(2) The School Development Plan so prepared under sub-section (1) shall be the basis for the plans and grants to be made by the appropriate Government or local authority, as the case may be.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Subs. by Act 30 of 2012, s. 6, for “School Management Committee, constituted” (w.e.f. 1-8-2012).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>School Development Plan.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter IV  ·  pages 10–11 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every <sup>2</sup>[School Management Committee, except the School Management Committee in respect of a school established and administered by minority, whether based on religion or language and an aided school as defined in sub-clause (ii) of clause (n) of section 2, constituted] under sub-section (1) of section 21, shall prepare a School Development Plan, in such manner as may be prescribed.</p><p class=\"lvl\">(2) The School Development Plan so prepared under sub-section (1) shall be the basis for the plans and grants to be made by the appropriate Government or local authority, as the case may be.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Subs. by Act 30 of 2012, s. 6, for “School Management Committee, constituted” (w.e.f. 1-8-2012).</p></div></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_165_chunk_0",
+    "section_id": "income-tax-1961_section_165",
+    "token_count": 87,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 165::Case where part of trust income is chargeable.\n]\n\n\nWhere part only of the income of a trust is chargeable under this Act, that proportion only of the income receivable by a beneficiary from the trust which the part so chargeable bears to the whole income of the trust shall be deemed to have been derived from that part.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_165_chunk_0",
+      "section_id": "income-tax-1961_section_165",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "165",
+      "section_title": "Case where part of trust income is chargeable."
+    }
+  }
+]

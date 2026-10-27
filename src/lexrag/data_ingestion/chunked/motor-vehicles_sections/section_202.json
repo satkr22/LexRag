@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_202_chunk_0",
+    "section_id": "motor-vehicles_section_202",
+    "token_count": 197,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 202::Power to arrest without warrant.\n]\n\n\n(1) A police officer in uniform may arrest without warrant any person who in his presence commits an offence punishable under section 184 or section 185 or section 197:\nProvided that any person so arrested in connection with an offence punishable under section 185 shall, within two hours of his arrest, be subjected to a medical examination referred to in sections 203 and 204 by a registered medical practitioner failing which he shall be released from custody.\n4[(2) A police officer in uniform may arrest without warrant any person, who has committed an offence under this Act, if such person refuses to give his name and address.]\n(3) A police officer arresting without warrant the driver of a motor vehicle shall if the circumstances so require take or cause to be taken any steps he may consider proper for the temporary disposal of the vehicle.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_202_chunk_0",
+      "section_id": "motor-vehicles_section_202",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "202",
+      "section_title": "Power to arrest without warrant."
+    }
+  }
+]

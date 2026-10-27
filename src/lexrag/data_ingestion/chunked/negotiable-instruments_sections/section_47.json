@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_47_chunk_0",
+    "section_id": "negotiable-instruments_section_47",
+    "token_count": 229,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Negotiation\n Section: 47::Negotiation by delivery.\n]\n\n\nSubject to the provisions of section 58, a promissory note, bill of exchange or cheque payable to bearer is negotiable by delivery thereof.\nException.—A promissory note, bill of exchange or cheque delivered on condition that it is not to take effect except in a certain event is not negotiable (except in the hands of a holder for value without notice of the condition) unless such event happens.\nIllustrations\n(a) A, the holder of a negotiable instrument payable to bearer, delivers it to B's agent to keep for B. The instrument has been negotiated.\n(b) A, the holder of a negotiable instrument payable to bearer, which is in the hands of A's banker, who is at the time the banker of B, directs the banker to transfer the instrument to B's credit in the banker's account with B. The banker does so, and accordingly now possesses the instrument as B's agent. The instrument has been negotiated, and B has become the holder of it.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_47_chunk_0",
+      "section_id": "negotiable-instruments_section_47",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Of Negotiation",
+      "section_number": "47",
+      "section_title": "Negotiation by delivery."
+    }
+  }
+]

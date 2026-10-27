@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "juvenile-justice_section_21_chunk_0",
+    "section_id": "juvenile-justice_section_21",
+    "token_count": 99,
+    "text": "[Act: juvenile-justice\n Chapter: Procedure in Relation to Children in Conflict with Law\n Section: 21::Order that may not be passed against a child in conflict with law.\n]\n\n\nNo child in conflict with law shall be sentenced to death or for life imprisonment without the possibility of release, for any such offence, either under the provisions of this Act or under the provisions of the Indian Penal Code (45 of 1860) or any other law for the time being in force.",
+    "metadata": {
+      "chunk_id": "juvenile-justice_section_21_chunk_0",
+      "section_id": "juvenile-justice_section_21",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "juvenile-justice",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Procedure in Relation to Children in Conflict with Law",
+      "section_number": "21",
+      "section_title": "Order that may not be passed against a child in conflict with law."
+    }
+  }
+]

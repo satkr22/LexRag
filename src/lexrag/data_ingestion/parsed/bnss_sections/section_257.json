@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-19.html",
+    "source_order": 19,
+    "article_order": 10,
+    "order": 257,
+    "stem": "section_257",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Trial before a Court of Session",
+    "heading_range": "248 – 260",
+    "heading_source": "group-head",
+    "article_number": "257",
+    "article_title": "Arguments",
+    "id": "bnss_section_257"
+  },
+  "id": "bnss_section_257",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Trial before a Court of Session",
+    "range": "248 – 260"
+  },
+  "article": {
+    "number": "257",
+    "title": "Arguments",
+    "content": "When the examination of the witnesses (if any) for the defence is complete, the prosecutor shall sum up his case and the accused or his advocate shall be entitled to reply:\nProvisoProvided that where any point of law is raised by the accused or his advocate, the prosecution may, with the permission of the Judge, make his submissions with regard to such point of law.\n",
+    "html": "<article class=\"provision\" data-n=\"257\" data-report=\"Section 257 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">257</span>Arguments</h3></div><p class=\"prov-cite\">Section 257 · Chapter XIX</p><div class=\"prov-body\"><p>When the examination of the witnesses (if any) for the defence is complete, the prosecutor shall sum up his case and the accused or his advocate shall be entitled to reply:</p><p><span class=\"named\">Proviso</span>Provided that where any point of law is raised by the accused or his advocate, the prosecution may, with the permission of the Judge, make his submissions with regard to such point of law.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">257</span>Arguments</h3></div><p class=\"prov-cite\">Section 257 · Chapter XIX</p><div class=\"prov-body\"><p>When the examination of the witnesses (if any) for the defence is complete, the prosecutor shall sum up his case and the accused or his advocate shall be entitled to reply:</p><p><span class=\"named\">Proviso</span>Provided that where any point of law is raised by the accused or his advocate, the prosecution may, with the permission of the Judge, make his submissions with regard to such point of law.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_41_chunk_0",
+    "section_id": "negotiable-instruments_section_41",
+    "token_count": 84,
+    "text": "[Act: negotiable-instruments\n Chapter: Parties to Notes, Bills and Cheques.\n Section: 41::Acceptor bound, although, indorsement forged.\n]\n\n\nAn acceptor of a bill of exchange already indorsed is not relieved from liability by reason that such indorsement is forged, if he knew or had reason to believe the indorsement to be forged when he accepted the bill.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_41_chunk_0",
+      "section_id": "negotiable-instruments_section_41",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Parties to Notes, Bills and Cheques.",
+      "section_number": "41",
+      "section_title": "Acceptor bound, although, indorsement forged."
+    }
+  }
+]

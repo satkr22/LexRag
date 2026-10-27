@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_131_chunk_0",
+    "section_id": "motor-vehicles_section_131",
+    "token_count": 159,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 131::Duty of the driver to take certain precautions at unguarded railway level crossings.\n]\n\n\nEvery driver of a motor vehicle at the approach of any unguarded railway level crossing shall cause the vehicle to stop and the driver of the vehicle shall cause the conductor or cleaner or attendant or any other person in the vehicle to walk up to the level crossing and ensure that no train or trolley is approaching from either side and then pilot the motor vehicle across such level crossing, and where no conductor or cleaner or attendant or any other person is available in the vehicle, the driver of the vehicle shall get down from the vehicle himself to ensure that no train or trolley is approaching from either side before the railway track is crossed.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_131_chunk_0",
+      "section_id": "motor-vehicles_section_131",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "131",
+      "section_title": "Duty of the driver to take certain precautions at unguarded railway level crossings."
+    }
+  }
+]

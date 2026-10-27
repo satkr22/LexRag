@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-4.html",
+    "source_order": 4,
+    "article_order": 1,
+    "order": 4,
+    "stem": "section_4",
+    "heading_number": "Chapter II",
+    "heading_title": "Relevancy of Facts",
+    "heading_range": "3 – 50",
+    "heading_source": "manifest",
+    "article_number": "4",
+    "article_title": "Relevancy of facts forming part of same transaction",
+    "id": "bsa_section_4"
+  },
+  "id": "bsa_section_4",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Relevancy of Facts",
+    "range": "3 – 50"
+  },
+  "article": {
+    "number": "4",
+    "title": "Relevancy of facts forming part of same transaction",
+    "content": "Facts which, though not in issue, are so connected with a fact in issue or a relevant fact as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places.\nIllustrations\n(a)A is accused of the murder of B by beating him. Whatever was said or done by A or B or the bystanders at the beating, or so shortly before or after it as to form part of the transaction, is a relevant fact.\n(b)A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked and jails are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them.\n(c)A sues B for a libel contained in a letter forming part of a correspondence. Letters between the parties relating to the subject out of which the libel arose, and forming part of the correspondence in which it is contained, are relevant facts, though they do not contain the libel itself.\n(d)The question is, whether certain goods ordered from B were delivered to A. The goods were delivered to several intermediate persons successively. Each delivery is a relevant fact.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Relevancy of facts forming part of same transaction</h3></div><p class=\"prov-cite\">Section 4 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>Facts which, though not in issue, are so connected with a fact in issue or a relevant fact as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A is accused of the murder of B by beating him. Whatever was said or done by A or B or the bystanders at the beating, or so shortly before or after it as to form part of the transaction, is a relevant fact.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked and jails are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them.</p><p class=\"lvl illus\"><span class=\"lbl\">(c)</span>A sues B for a libel contained in a letter forming part of a correspondence. Letters between the parties relating to the subject out of which the libel arose, and forming part of the correspondence in which it is contained, are relevant facts, though they do not contain the libel itself.</p><p class=\"lvl illus\"><span class=\"lbl\">(d)</span>The question is, whether certain goods ordered from B were delivered to A. The goods were delivered to several intermediate persons successively. Each delivery is a relevant fact.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Relevancy of facts forming part of same transaction</h3></div><p class=\"prov-cite\">Section 4 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>Facts which, though not in issue, are so connected with a fact in issue or a relevant fact as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A is accused of the murder of B by beating him. Whatever was said or done by A or B or the bystanders at the beating, or so shortly before or after it as to form part of the transaction, is a relevant fact.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked and jails are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them.</p><p class=\"lvl illus\"><span class=\"lbl\">(c)</span>A sues B for a libel contained in a letter forming part of a correspondence. Letters between the parties relating to the subject out of which the libel arose, and forming part of the correspondence in which it is contained, are relevant facts, though they do not contain the libel itself.</p><p class=\"lvl illus\"><span class=\"lbl\">(d)</span>The question is, whether certain goods ordered from B were delivered to A. The goods were delivered to several intermediate persons successively. Each delivery is a relevant fact.</p></div>"
+  }
+}

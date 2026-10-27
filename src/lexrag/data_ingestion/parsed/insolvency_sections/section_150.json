@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-13.html",
+    "source_order": 13,
+    "article_order": 2,
+    "order": 173,
+    "stem": "section_150",
+    "heading_number": "Part III · Chapter V",
+    "heading_title": "Administration and Distribution of the Estate of the Bankrupt",
+    "heading_range": "ss. 149–178",
+    "heading_source": "group-head",
+    "article_number": "150",
+    "article_title": "Duties of bankrupt towards bankruptcy trustee.",
+    "id": "insolvency_section_150"
+  },
+  "id": "insolvency_section_150",
+  "heading": {
+    "number": "Part III · Chapter V",
+    "title": "Administration and Distribution of the Estate of the Bankrupt",
+    "range": "ss. 149–178"
+  },
+  "article": {
+    "number": "150",
+    "title": "Duties of bankrupt towards bankruptcy trustee.",
+    "content": "(1) The bankrupt shall assist the bankruptcy trustee in carrying out his functions under this Chapter by—\n(a) giving to the bankruptcy trustee the information of his affairs;\n(b) attending on the bankruptcy trustee at such times as may be required;\n(c) giving notice to the bankruptcy trustee of any of the following events which have occurred after the bankruptcy commencement date,—\n(i) acquisition of any property by the bankrupt;\n(ii) devolution of any property upon the bankrupt;\n(iii) increase in the income of the bankrupt;\n(d) doing all other things as may be prescribed.\n(2) The bankrupt shall give notice of the increase in income or acquisition or devolution of property under clause (c) of sub-section (1) within seven days of such increase, acquisition or devolution.\n(3) The bankrupt shall continue to discharge the duties under sub-section (1) other than the duties under clause (c) even after the discharge under section 138.\n",
+    "html": "<article class=\"provision\" data-n=\"150\" data-report=\"Section 150 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">150</span>Duties of bankrupt towards bankruptcy trustee.</h3></div><p class=\"prov-cite\">Section 150  ·  Part III · Chapter V  ·  pages 113–114 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankrupt shall assist the bankruptcy trustee in carrying out his functions under this Chapter by—</p><p class=\"lvl\">(a) giving to the bankruptcy trustee the information of his affairs;</p><p class=\"lvl\">(b) attending on the bankruptcy trustee at such times as may be required;</p><p class=\"lvl\">(c) giving notice to the bankruptcy trustee of any of the following events which have occurred after the bankruptcy commencement date,—</p><p class=\"lvl\">(i) acquisition of any property by the bankrupt;</p><p class=\"lvl\">(ii) devolution of any property upon the bankrupt;</p><p class=\"lvl\">(iii) increase in the income of the bankrupt;</p><p class=\"lvl\">(d) doing all other things as may be prescribed.</p><p class=\"lvl\">(2) The bankrupt shall give notice of the increase in income or acquisition or devolution of property under clause (c) of sub-section (1) within seven days of such increase, acquisition or devolution.</p><p class=\"lvl\">(3) The bankrupt shall continue to discharge the duties under sub-section (1) other than the duties under clause (c) even after the discharge under section 138.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">150</span>Duties of bankrupt towards bankruptcy trustee.</h3></div><p class=\"prov-cite\">Section 150  ·  Part III · Chapter V  ·  pages 113–114 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The bankrupt shall assist the bankruptcy trustee in carrying out his functions under this Chapter by—</p><p class=\"lvl\">(a) giving to the bankruptcy trustee the information of his affairs;</p><p class=\"lvl\">(b) attending on the bankruptcy trustee at such times as may be required;</p><p class=\"lvl\">(c) giving notice to the bankruptcy trustee of any of the following events which have occurred after the bankruptcy commencement date,—</p><p class=\"lvl\">(i) acquisition of any property by the bankrupt;</p><p class=\"lvl\">(ii) devolution of any property upon the bankrupt;</p><p class=\"lvl\">(iii) increase in the income of the bankrupt;</p><p class=\"lvl\">(d) doing all other things as may be prescribed.</p><p class=\"lvl\">(2) The bankrupt shall give notice of the increase in income or acquisition or devolution of property under clause (c) of sub-section (1) within seven days of such increase, acquisition or devolution.</p><p class=\"lvl\">(3) The bankrupt shall continue to discharge the duties under sub-section (1) other than the duties under clause (c) even after the discharge under section 138.</p></div>"
+  }
+}

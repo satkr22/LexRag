@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-14.html",
+    "source_order": 14,
+    "article_order": 12,
+    "order": 330,
+    "stem": "section_255",
+    "heading_number": "Part XI",
+    "heading_title": "Relations between the Union and the States",
+    "heading_range": "245 – 263",
+    "heading_source": "group-head",
+    "article_number": "255",
+    "article_title": "Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only",
+    "id": "constitution_section_255"
+  },
+  "id": "constitution_section_255",
+  "heading": {
+    "number": "Part XI",
+    "title": "Relations between the Union and the States",
+    "range": "245 – 263"
+  },
+  "article": {
+    "number": "255",
+    "title": "Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only",
+    "content": "No Act of Parliament or of the Legislature of a State 1***, and no provision in any such Act, shall be invalid by reason only that some recommendation or previous sanction required by this Constitution was not given, if assent to that Act was given—\n(a)where the recommendation required was that of the Governor, either by the Governor or by the President;\n(b)where the recommendation required was that of the Rajpramukh, either by the Rajpramukh or by the President;\n(c)where the recommendation or previous sanction required was that of the President, by the President.\n",
+    "html": "<article class=\"provision\" data-n=\"255\" data-report=\"Article 255 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">255</span>Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only</h3></div><p class=\"prov-cite\">Article 255 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p>No Act of Parliament or of the Legislature of a State <sup>1</sup>***, and no provision in any such Act, shall be invalid by reason only that some recommendation or previous sanction required by this Constitution was not given, if assent to that Act was given—</p><p><span class=\"lbl\">(a)</span>where the recommendation required was that of the Governor, either by the Governor or by the President;</p><p><span class=\"lbl\">(b)</span>where the recommendation required was that of the Rajpramukh, either by the Rajpramukh or by the President;</p><p><span class=\"lbl\">(c)</span>where the recommendation or previous sanction required was that of the President, by the President.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">255</span>Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only</h3></div><p class=\"prov-cite\">Article 255 · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p>No Act of Parliament or of the Legislature of a State <sup>1</sup>***, and no provision in any such Act, shall be invalid by reason only that some recommendation or previous sanction required by this Constitution was not given, if assent to that Act was given—</p><p><span class=\"lbl\">(a)</span>where the recommendation required was that of the Governor, either by the Governor or by the President;</p><p><span class=\"lbl\">(b)</span>where the recommendation required was that of the Rajpramukh, either by the Rajpramukh or by the President;</p><p><span class=\"lbl\">(c)</span>where the recommendation or previous sanction required was that of the President, by the President.</p></div>"
+  }
+}

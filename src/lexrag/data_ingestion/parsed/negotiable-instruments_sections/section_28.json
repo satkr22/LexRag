@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-28.html",
+    "source_order": 29,
+    "article_order": 1,
+    "order": 29,
+    "stem": "section_28",
+    "heading_number": "Chapter III",
+    "heading_title": "Parties to Notes, Bills and Cheques.",
+    "heading_range": "ss. 26–45A",
+    "heading_source": "manifest",
+    "article_number": "28",
+    "article_title": "Liability of agent signing.",
+    "id": "negotiable-instruments_section_28"
+  },
+  "id": "negotiable-instruments_section_28",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Parties to Notes, Bills and Cheques.",
+    "range": "ss. 26–45A"
+  },
+  "article": {
+    "number": "28",
+    "title": "Liability of agent signing.",
+    "content": "An agent who signs his name to a promissory note, bill of exchange or cheque without indicating thereon that he signs as agent, or that he does not intend thereby to incur personal responsibility, is liable personally on the instrument, except to those who induced him to sign upon the belief that the principal only would be held liable.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Liability of agent signing.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>An agent who signs his name to a promissory note, bill of exchange or cheque without indicating thereon that he signs as agent, or that he does not intend thereby to incur personal responsibility, is liable personally on the instrument, except to those who induced him to sign upon the belief that the principal only would be held liable.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">28</span>Liability of agent signing.</h3></div><p class=\"prov-cite\">Section 28  ·  Chapter III  ·  page 12 of the Act</p><div class=\"prov-body\"><p>An agent who signs his name to a promissory note, bill of exchange or cheque without indicating thereon that he signs as agent, or that he does not intend thereby to incur personal responsibility, is liable personally on the instrument, except to those who induced him to sign upon the belief that the principal only would be held liable.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-41.html",
+    "source_order": 41,
+    "article_order": 4,
+    "order": 336,
+    "stem": "section_335",
+    "heading_number": "Part IX · Chapter VIII",
+    "heading_title": "Of assent to a legacy by Executor or Administrator",
+    "heading_range": "ss. 332–337",
+    "heading_source": "group-head",
+    "article_number": "335",
+    "article_title": "Assent of executor to his own legacy.",
+    "id": "succession_section_335"
+  },
+  "id": "succession_section_335",
+  "heading": {
+    "number": "Part IX · Chapter VIII",
+    "title": "Of assent to a legacy by Executor or Administrator",
+    "range": "ss. 332–337"
+  },
+  "article": {
+    "number": "335",
+    "title": "Assent of executor to his own legacy.",
+    "content": "(1) When the executor or administrator is a legatee, his assent to his own legacy is necessary to complete his title to it, in the same way as it is required when the bequest is to another person, and his assent may, in like manner, be expressed or implied.\n(2) Assent shall be implied if in his manner of administering the property he does any act which is referable to his character of legatee and is not referable to his character of executor or administrator.\nIllustration\nAn executor takes the rent of a house or the interest of Government securities bequeathed to him, and applied it to his own use. This is assent.\n",
+    "html": "<article class=\"provision\" data-n=\"335\" data-report=\"Section 335 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">335</span>Assent of executor to his own legacy.</h3></div><p class=\"prov-cite\">Section 335  ·  Part IX · Chapter VIII  ·  page 87 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When the executor or administrator is a legatee, his assent to his own legacy is necessary to complete his title to it, in the same way as it is required when the bequest is to another person, and his assent may, in like manner, be expressed or implied.</p><p class=\"lvl\">(2) Assent shall be implied if in his manner of administering the property he does any act which is referable to his character of legatee and is not referable to his character of executor or administrator.</p><p>Illustration</p><p>An executor takes the rent of a house or the interest of Government securities bequeathed to him, and applied it to his own use. This is assent.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">335</span>Assent of executor to his own legacy.</h3></div><p class=\"prov-cite\">Section 335  ·  Part IX · Chapter VIII  ·  page 87 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When the executor or administrator is a legatee, his assent to his own legacy is necessary to complete his title to it, in the same way as it is required when the bequest is to another person, and his assent may, in like manner, be expressed or implied.</p><p class=\"lvl\">(2) Assent shall be implied if in his manner of administering the property he does any act which is referable to his character of legatee and is not referable to his character of executor or administrator.</p><p>Illustration</p><p>An executor takes the rent of a house or the interest of Government securities bequeathed to him, and applied it to his own use. This is assent.</p></div>"
+  }
+}

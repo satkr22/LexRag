@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "transfer-of-property_section_121_chunk_0",
+    "section_id": "transfer-of-property_section_121",
+    "token_count": 44,
+    "text": "[Act: transfer-of-property\n Chapter: Of Exchanges\n Section: 121::Exchange of money.\n]\n\n\nOn an exchange of money, each party thereby warrants the genuineness of the money given by him.",
+    "metadata": {
+      "chunk_id": "transfer-of-property_section_121_chunk_0",
+      "section_id": "transfer-of-property_section_121",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "transfer-of-property",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Of Exchanges",
+      "section_number": "121",
+      "section_title": "Exchange of money."
+    }
+  }
+]

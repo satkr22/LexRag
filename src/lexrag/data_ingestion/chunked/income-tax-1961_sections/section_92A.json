@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_92A_chunk_0",
+    "section_id": "income-tax-1961_section_92A",
+    "token_count": 438,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Avoidance of Tax\n Section: 92A::Meaning of associated enterprise.\n]\n\n\n(1) For the purposes of this section and sections 92, 92B, 92C, 92D, 92E and 92F, \"associated enterprise\", in relation to another enterprise, means an enterprise—\n  (a) which participates, directly or indirectly, or through one or more intermediaries, in the management or control or capital of the other enterprise; or\n  (b) in respect of which one or more persons who participate, directly or indirectly, or through one or more intermediaries, in its management or control or capital, are the same persons who participate, directly or indirectly, or through one or more intermediaries, in the management or control or capital of the other enterprise.\n  (2) For the purposes of sub-section (1), two enterprises shall be deemed to be associated enterprises if, at any time during the previous year,—\n  (a) one enterprise holds, directly or indirectly, shares carrying not less than twenty-six per cent of the voting power in the other enterprise; or\n  (b) any person or enterprise holds, directly or indirectly, shares carrying not less than twenty-six per cent of the voting power in each of such enterprises; or\n  (c) a loan advanced by one enterprise to the other enterprise constitutes not less than fifty-one per cent of the book value of the total assets of the other enterprise; or\n  (d) one enterprise guarantees not less than ten per cent of the total borrowings of the other enterprise; or\n  (e) more than half of the board of directors or members of the governing board, or one or more executive directors or executive members of the governing board of one enterprise, are appointed by the other enterprise; or\n  (f) more than half of the directors or members of the governing board, or one or more of the executive directors or members of the governing board, of each of the two enterprises are appointed by the same person or persons; or",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_92A_chunk_0",
+      "section_id": "income-tax-1961_section_92A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Special Provisions Relating to Avoidance of Tax",
+      "section_number": "92A",
+      "section_title": "Meaning of associated enterprise."
+    }
+  },
+  {
+    "chunk_id": "income-tax-1961_section_92A_chunk_1",
+    "section_id": "income-tax-1961_section_92A",
+    "token_count": 458,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Avoidance of Tax\n Section: 92A::Meaning of associated enterprise.\n]\n\n\n(1) For the purposes of this section and sections 92, 92B, 92C, 92D, 92E and 92F, \"associated enterprise\", in relation to another enterprise, means an enterprise—\n  (g) the manufacture or processing of goods or articles or business carried out by one enterprise is wholly dependent on the use of know-how, patents, copyrights, trade-marks, licences, franchises or any other business or commercial rights of similar nature, or any data, documentation, drawing or specification relating to any patent, invention, model, design, secret formula or process, of which the other enterprise is the owner or in respect of which the other enterprise has exclusive rights; or\n  (h) ninety per cent or more of the raw materials and consumables required for the manufacture or processing of goods or articles carried out by one enterprise, are supplied by the other enterprise, or by persons specified by the other enterprise, and the prices and other conditions relating to the supply are influenced by such other enterprise; or\n  (i) the goods or articles manufactured or processed by one enterprise, are sold to the other enterprise or to persons specified by the other enterprise, and the prices and other conditions relating thereto are influenced by such other enterprise; or\n  (j) where one enterprise is controlled by an individual, the other enterprise is also controlled by such individual or his relative or jointly by such individual and relative of such individual; or\n  (k) where one enterprise is controlled by a Hindu undivided family, the other enterprise is controlled by a member of such Hindu undivided family or by a relative of a member of such Hindu undivided family or jointly by such member and his relative; or\n  (l) where one enterprise is a firm, association of persons or body of individuals, the other enterprise holds not less than ten per cent interest in such firm, association of persons or body of individuals; or\n  (m) there exists between the two enterprises, any relationship of mutual interest, as may be prescribed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_92A_chunk_1",
+      "section_id": "income-tax-1961_section_92A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Special Provisions Relating to Avoidance of Tax",
+      "section_number": "92A",
+      "section_title": "Meaning of associated enterprise."
+    }
+  }
+]

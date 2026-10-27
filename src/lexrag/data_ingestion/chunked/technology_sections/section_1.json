@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_1_chunk_0",
+    "section_id": "technology_section_1",
+    "token_count": 213,
+    "text": "[Act: technology\n Chapter: Preliminary\n Section: 1::Short title, extent, commencement and application.\n]\n\n\n(1) This Act may be called the Information Technology Act, 2000.\n(2) It shall extend to the whole of India and, save as otherwise provided in this Act, it applies also to any offence or contravention thereunder committed outside India by any person.\n(3) It shall come into force on such date1 as the Central Government may, by notification, appoint and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the commencement of that provision.\n2[(4) Nothing in this Act shall apply to documents or transactions specified in the First Schedule:\nProvided that the Central Government may, by notification in the Official Gazette, amend the First Schedule by way of addition or deletion of entries thereto.\n(5) Every notification issued under sub-section (4) shall be laid before each House of Parliament.]",
+    "metadata": {
+      "chunk_id": "technology_section_1_chunk_0",
+      "section_id": "technology_section_1",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "1",
+      "section_title": "Short title, extent, commencement and application."
+    }
+  }
+]

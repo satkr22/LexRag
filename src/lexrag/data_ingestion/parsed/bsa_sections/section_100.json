@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-100.html",
+    "source_order": 100,
+    "article_order": 1,
+    "order": 100,
+    "stem": "section_100",
+    "heading_number": "Chapter VI",
+    "heading_title": "Of the Exclusion of Oral Evidence by Documentary Evidence",
+    "heading_range": "94 – 103",
+    "heading_source": "manifest",
+    "article_number": "100",
+    "article_title": "Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies",
+    "id": "bsa_section_100"
+  },
+  "id": "bsa_section_100",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Of the Exclusion of Oral Evidence by Documentary Evidence",
+    "range": "94 – 103"
+  },
+  "article": {
+    "number": "100",
+    "title": "Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies",
+    "content": "When the language used applies partly to one set of existing facts, and partly to another set of existing facts, but the whole of it does not apply correctly to either, evidence may be given to show to which of the two it was meant to apply.\nIllustrations\nA agrees to sell to B “my land at X in the occupation of Y”. A has land at X, but not in the occupation of Y, and he has land in the occupation of Y but it is not at X. Evidence may be given of facts showing which he meant to sell.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">100</span>Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies</h3></div><p class=\"prov-cite\">Section 100 · Part III · Chapter VI</p><div class=\"prov-body\"><p>When the language used applies partly to one set of existing facts, and partly to another set of existing facts, but the whole of it does not apply correctly to either, evidence may be given to show to which of the two it was meant to apply.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A agrees to sell to B “my land at X in the occupation of Y”. A has land at X, but not in the occupation of Y, and he has land in the occupation of Y but it is not at X. Evidence may be given of facts showing which he meant to sell.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">100</span>Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies</h3></div><p class=\"prov-cite\">Section 100 · Part III · Chapter VI</p><div class=\"prov-body\"><p>When the language used applies partly to one set of existing facts, and partly to another set of existing facts, but the whole of it does not apply correctly to either, evidence may be given to show to which of the two it was meant to apply.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\">A agrees to sell to B “my land at X in the occupation of Y”. A has land at X, but not in the occupation of Y, and he has land in the occupation of Y but it is not at X. Evidence may be given of facts showing which he meant to sell.</p></div>"
+  }
+}

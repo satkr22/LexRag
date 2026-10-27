@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_229_chunk_0",
+    "section_id": "income-tax-1961_section_229",
+    "token_count": 80,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 229::Recovery of penalties, fine, interest and other sums.\n]\n\n\nAny sum imposed by way of interest, fine, penalty, or any other sum payable under the provisions of this Act, shall be recoverable in the manner provided in this Chapter for the recovery of arrears of tax.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_229_chunk_0",
+      "section_id": "income-tax-1961_section_229",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "229",
+      "section_title": "Recovery of penalties, fine, interest and other sums."
+    }
+  }
+]

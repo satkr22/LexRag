@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "family-courts_section_17_chunk_0",
+    "section_id": "family-courts_section_17",
+    "token_count": 52,
+    "text": "[Act: family-courts\n Chapter: Procedure\n Section: 17::Judgment.\n]\n\n\nJudgment of a Family Court shall contain a concise statement of the case, the point for determination, the decision thereon and the reasons for such decision.",
+    "metadata": {
+      "chunk_id": "family-courts_section_17_chunk_0",
+      "section_id": "family-courts_section_17",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "family-courts",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Procedure",
+      "section_number": "17",
+      "section_title": "Judgment."
+    }
+  }
+]

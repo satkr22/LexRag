@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-17.html",
+    "source_order": 17,
+    "article_order": 1,
+    "order": 124,
+    "stem": "section_124",
+    "heading_number": "Part VI · Chapter X",
+    "heading_title": "Of Contingent Bequests",
+    "heading_range": "ss. 124–125",
+    "heading_source": "group-head",
+    "article_number": "124",
+    "article_title": "Bequest contingent upon specified uncertain event, no time being mentioned for its occurrence.",
+    "id": "succession_section_124"
+  },
+  "id": "succession_section_124",
+  "heading": {
+    "number": "Part VI · Chapter X",
+    "title": "Of Contingent Bequests",
+    "range": "ss. 124–125"
+  },
+  "article": {
+    "number": "124",
+    "title": "Bequest contingent upon specified uncertain event, no time being mentioned for its occurrence.",
+    "content": "Where a legacy is given if a specified uncertain event shall happen and no time is mentioned in the will for the occurrence of that event, the legacy cannot take effect, unless such event happens before the period when the fund bequeathed is payable or distributable.\nIllustrations\n(i) A legacy is bequeathed to A, and, in case of his death, to B. If A survives the testator, the legacy to B does not take effect.\n(ii) A legacy is bequeathed to A, and, in case of his death without children, to B. If A survives the testator or dies in his lifetime leaving a child, the legacy to B does not take effect.\n(iii) A legacy is bequeathed to A when and if he attains the age of 18, and, in case of his death, to B. A attains the age of 18. The Legacy to B does not take effect.\n(iv) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death without children,” to C. The words “in case of B’s death without children” are to be understood as meaning in case B dies without children during the lifetime of A.\n(v) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death,” to C. The words “in case of B’s death” are to be considered as meaning “in case B dies in the lifetime of A”.\n",
+    "html": "<article class=\"provision\" data-n=\"124\" data-report=\"Section 124 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124</span>Bequest contingent upon specified uncertain event, no time being mentioned for its occurrence.</h3></div><p class=\"prov-cite\">Section 124  ·  Part VI · Chapter X  ·  page 47 of the Act</p><div class=\"prov-body\"><p>Where a legacy is given if a specified uncertain event shall happen and no time is mentioned in the will for the occurrence of that event, the legacy cannot take effect, unless such event happens before the period when the fund bequeathed is payable or distributable.</p><p>Illustrations</p><p class=\"lvl\">(i) A legacy is bequeathed to A, and, in case of his death, to B. If A survives the testator, the legacy to B does not take effect.</p><p class=\"lvl\">(ii) A legacy is bequeathed to A, and, in case of his death without children, to B. If A survives the testator or dies in his lifetime leaving a child, the legacy to B does not take effect.</p><p class=\"lvl\">(iii) A legacy is bequeathed to A when and if he attains the age of 18, and, in case of his death, to B. A attains the age of 18. The Legacy to B does not take effect.</p><p class=\"lvl\">(iv) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death without children,” to C. The words “in case of B’s death without children” are to be understood as meaning in case B dies without children during the lifetime of A.</p><p class=\"lvl\">(v) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death,” to C. The words “in case of B’s death” are to be considered as meaning “in case B dies in the lifetime of A”.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">124</span>Bequest contingent upon specified uncertain event, no time being mentioned for its occurrence.</h3></div><p class=\"prov-cite\">Section 124  ·  Part VI · Chapter X  ·  page 47 of the Act</p><div class=\"prov-body\"><p>Where a legacy is given if a specified uncertain event shall happen and no time is mentioned in the will for the occurrence of that event, the legacy cannot take effect, unless such event happens before the period when the fund bequeathed is payable or distributable.</p><p>Illustrations</p><p class=\"lvl\">(i) A legacy is bequeathed to A, and, in case of his death, to B. If A survives the testator, the legacy to B does not take effect.</p><p class=\"lvl\">(ii) A legacy is bequeathed to A, and, in case of his death without children, to B. If A survives the testator or dies in his lifetime leaving a child, the legacy to B does not take effect.</p><p class=\"lvl\">(iii) A legacy is bequeathed to A when and if he attains the age of 18, and, in case of his death, to B. A attains the age of 18. The Legacy to B does not take effect.</p><p class=\"lvl\">(iv) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death without children,” to C. The words “in case of B’s death without children” are to be understood as meaning in case B dies without children during the lifetime of A.</p><p class=\"lvl\">(v) A legacy is bequeathed to A for life, and, after his death to B, and, “in case of B’s death,” to C. The words “in case of B’s death” are to be considered as meaning “in case B dies in the lifetime of A”.</p></div>"
+  }
+}

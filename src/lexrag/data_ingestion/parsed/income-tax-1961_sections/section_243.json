@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-40.html",
+    "source_order": 45,
+    "article_order": 9,
+    "order": 680,
+    "stem": "section_243",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Refunds",
+    "heading_range": "ss. 237–245",
+    "heading_source": "group-head",
+    "article_number": "243",
+    "article_title": "Interest on delayed refunds.",
+    "id": "income-tax-1961_section_243"
+  },
+  "id": "income-tax-1961_section_243",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Refunds",
+    "range": "ss. 237–245"
+  },
+  "article": {
+    "number": "243",
+    "title": "Interest on delayed refunds.",
+    "content": "(1) If the Assessing Officer does not grant the refund,—\n(a) in any case where the total income of the assessee does not consist solely of income from interest on securities or dividends, within three months from the end of the month in which the total income is determined under this Act, and\n(b) in any other case, within three months from the end of the month in which the claim for refund is made under this Chapter, the Central Government shall pay the assessee simple interest at fifteen per cent per annum on the amount directed to be refunded from the date immediately following the expiry of the period of three months aforesaid to the date of the order grant-ing the refund.\nExplanation.—If the delay in granting the refund within the period of three months aforesaid is attributable to the assessee, whether wholly or in part, the period of the delay attributable to him shall be excluded from the period for which interest is payable.\n(2) Where any question arises as to the period to be excluded for the purposes of calculation of interest under the provisions of this section, such question shall be determined by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner whose decision shall be final.\n(3) The provisions of this section shall not apply in respect of any assessment for the assessment year commencing on the 1st day of April, 1989 or any subsequent assessment years.\n",
+    "html": "<article class=\"provision\" data-n=\"243\" data-report=\"Section 243 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243</span>Interest on delayed refunds.</h3></div><p class=\"prov-cite\">Section 243  ·  Chapter XIX  ·  page 837 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If the Assessing Officer does not grant the refund,—</p><p class=\"lvl\">(a) in any case where the total income of the assessee does not consist solely of income from interest on securities or dividends, within three months from the end of the month in which the total income is determined under this Act, and</p><p class=\"lvl\">(b) in any other case, within three months from the end of the month in which the claim for refund is made under this Chapter, the Central Government shall pay the assessee simple interest at fifteen per cent per annum on the amount directed to be refunded from the date immediately following the expiry of the period of three months aforesaid to the date of the order grant-ing the refund.</p><p class=\"prvso\">Explanation.—If the delay in granting the refund within the period of three months aforesaid is attributable to the assessee, whether wholly or in part, the period of the delay attributable to him shall be excluded from the period for which interest is payable.</p><p class=\"lvl\">(2) Where any question arises as to the period to be excluded for the purposes of calculation of interest under the provisions of this section, such question shall be determined by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner whose decision shall be final.</p><p class=\"lvl\">(3) The provisions of this section shall not apply in respect of any assessment for the assessment year commencing on the 1st day of April, 1989 or any subsequent assessment years.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243</span>Interest on delayed refunds.</h3></div><p class=\"prov-cite\">Section 243  ·  Chapter XIX  ·  page 837 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If the Assessing Officer does not grant the refund,—</p><p class=\"lvl\">(a) in any case where the total income of the assessee does not consist solely of income from interest on securities or dividends, within three months from the end of the month in which the total income is determined under this Act, and</p><p class=\"lvl\">(b) in any other case, within three months from the end of the month in which the claim for refund is made under this Chapter, the Central Government shall pay the assessee simple interest at fifteen per cent per annum on the amount directed to be refunded from the date immediately following the expiry of the period of three months aforesaid to the date of the order grant-ing the refund.</p><p class=\"prvso\">Explanation.—If the delay in granting the refund within the period of three months aforesaid is attributable to the assessee, whether wholly or in part, the period of the delay attributable to him shall be excluded from the period for which interest is payable.</p><p class=\"lvl\">(2) Where any question arises as to the period to be excluded for the purposes of calculation of interest under the provisions of this section, such question shall be determined by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner whose decision shall be final.</p><p class=\"lvl\">(3) The provisions of this section shall not apply in respect of any assessment for the assessment year commencing on the 1st day of April, 1989 or any subsequent assessment years.</p></div>"
+  }
+}

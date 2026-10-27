@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-21.html",
+    "source_order": 22,
+    "article_order": 5,
+    "order": 444,
+    "stem": "section_443",
+    "heading_number": "Chapter XXI",
+    "heading_title": "Penalties",
+    "heading_range": "ss. 439–472",
+    "heading_source": "group-head",
+    "article_number": "443",
+    "article_title": "Penalty in respect of certain income.",
+    "id": "income-tax-2025_section_443"
+  },
+  "id": "income-tax-2025_section_443",
+  "heading": {
+    "number": "Chapter XXI",
+    "title": "Penalties",
+    "range": "ss. 439–472"
+  },
+  "article": {
+    "number": "443",
+    "title": "Penalty in respect of certain income.",
+    "content": "9[***]\n",
+    "html": "<article class=\"provision\" data-n=\"443\" data-report=\"Section 443 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">443</span>Penalty in respect of certain income.</h3></div><p class=\"prov-cite\">Section 443  ·  Chapter XXI  ·  page 529 of the Act</p><div class=\"prov-body\"><p><sup>9</sup>[***]</p><div class=\"fnotes\"><p class=\"fn\"><sup>9</sup> Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, section 443 read as under : \"443. Penalty in respect of certain income.—(1) The Assessing Officer or the Joint Commissioner (Appeals) or Commissioner (Appeals) may impose a penalty of 10% of the tax payable under section 195(1)(i), on an assessee if the income determined in his case for any tax year includes any income referred to in section 102, 103, 104, 105 or 106. (2) The penalty under sub-section (1) shall be payable in addition to the tax payable under section 195. (3) No penalty shall be levied on income referred to in section 102, 103, 104, 105 or 106 to the extent such income has been included by the assessee in the return of income furnished under section 263 and the tax as per section 195(1)(i) has been paid on or before the end of the relevant tax year. (4) No penalty under section 439 shall be imposed upon the assessee in respect of income referred to in sub-section (1).\"</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">443</span>Penalty in respect of certain income.</h3></div><p class=\"prov-cite\">Section 443  ·  Chapter XXI  ·  page 529 of the Act</p><div class=\"prov-body\"><p><sup>9</sup>[***]</p><div class=\"fnotes\"><p class=\"fn\"><sup>9</sup> Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, section 443 read as under : \"443. Penalty in respect of certain income.—(1) The Assessing Officer or the Joint Commissioner (Appeals) or Commissioner (Appeals) may impose a penalty of 10% of the tax payable under section 195(1)(i), on an assessee if the income determined in his case for any tax year includes any income referred to in section 102, 103, 104, 105 or 106. (2) The penalty under sub-section (1) shall be payable in addition to the tax payable under section 195. (3) No penalty shall be levied on income referred to in section 102, 103, 104, 105 or 106 to the extent such income has been included by the assessee in the return of income furnished under section 263 and the tax as per section 195(1)(i) has been paid on or before the end of the relevant tax year. (4) No penalty under section 439 shall be imposed upon the assessee in respect of income referred to in sub-section (1).\"</p></div></div>"
+  }
+}

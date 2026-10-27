@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-60.html",
+    "source_order": 60,
+    "article_order": 30,
+    "order": 832,
+    "stem": "section_O41R26A",
+    "heading_number": "Order XLI",
+    "heading_title": "Appeals from Original Decrees",
+    "heading_range": "41 rules",
+    "heading_source": "group-head",
+    "article_number": "O41R26A",
+    "article_title": "Order of remand to mention date of next hearing.",
+    "id": "cpc_section_O41R26A"
+  },
+  "id": "cpc_section_O41R26A",
+  "heading": {
+    "number": "Order XLI",
+    "title": "Appeals from Original Decrees",
+    "range": "41 rules"
+  },
+  "article": {
+    "number": "O41R26A",
+    "title": "Order of remand to mention date of next hearing.",
+    "content": "Where the Appellate Court remands a case under rule 23 or rule 23A, or frames issues and refers them for trial under rule 25, it shall fix a date for the appearance of the parties before the Court from whose decree the appeal was preferred for the purpose of receiving the directions of that Court as to further proceedings in the suit.]\n",
+    "html": "<article class=\"provision\" data-n=\"O41R26A\" data-report=\"Order 41, Rule 26A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">26A</span>Order of remand to mention date of next hearing.</h3></div><p class=\"prov-cite\">Order 41, Rule 26A</p><div class=\"prov-body\"><p>Where the Appellate Court remands a case under rule 23 or rule 23A, or frames issues and refers them for trial under rule 25, it shall fix a date for the appearance of the parties before the Court from whose decree the appeal was preferred for the purpose of receiving the directions of that Court as to further proceedings in the suit.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 87 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">26A</span>Order of remand to mention date of next hearing.</h3></div><p class=\"prov-cite\">Order 41, Rule 26A</p><div class=\"prov-body\"><p>Where the Appellate Court remands a case under rule 23 or rule 23A, or frames issues and refers them for trial under rule 25, it shall fix a date for the appearance of the parties before the Court from whose decree the appeal was preferred for the purpose of receiving the directions of that Court as to further proceedings in the suit.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 87 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

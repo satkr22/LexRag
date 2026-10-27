@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_265_chunk_0",
+    "section_id": "income-tax-1961_section_265",
+    "token_count": 71,
+    "text": "[Act: income-tax-1961\n Chapter: Appeals and Revision\n Section: 265::Tax to be paid notwithstanding reference, etc.\n]\n\n\nNotwithstanding that a reference has been made to the High Court or the Supreme Court or an appeal has been preferred to the Supreme Court, tax shall be payable in accordance with the assessment made in the case.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_265_chunk_0",
+      "section_id": "income-tax-1961_section_265",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX",
+      "chapter_title": "Appeals and Revision",
+      "section_number": "265",
+      "section_title": "Tax to be paid notwithstanding reference, etc."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 66,
+    "order": 543,
+    "stem": "section_O21R54",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R54",
+    "article_title": "Attachment of immovable property.",
+    "id": "cpc_section_O21R54"
+  },
+  "id": "cpc_section_O21R54",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R54",
+    "title": "Attachment of immovable property.",
+    "content": "(1) Where the property is immovable, the attachment shall be made by an order prohibiting the judgment-debtor from transferring or charging the property in any way, and all persons from taking any benefit from such transfer of charge.\n2[(1A) The order shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.]\n(2) The order shall be proclaimed at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order shall be affixed on a conspicuous part of the property and then upon, a conspicuous part of the Court-house, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate 2[and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.]\n",
+    "html": "<article class=\"provision\" data-n=\"O21R54\" data-report=\"Order 21, Rule 54 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54</span>Attachment of immovable property.</h3></div><p class=\"prov-cite\">Order 21, Rule 54</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the property is immovable, the attachment shall be made by an order prohibiting the judgment-debtor from transferring or charging the property in any way, and all persons from taking any benefit from such transfer of charge.</p><p class=\"lvl\"><sup>2</sup>[(1A) The order shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.]</p><p class=\"lvl\">(2) The order shall be proclaimed at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order shall be affixed on a conspicuous part of the property and then upon, a conspicuous part of the Court-house, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate <sup>2</sup>[and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Ins. by s. 72, ibid. (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54</span>Attachment of immovable property.</h3></div><p class=\"prov-cite\">Order 21, Rule 54</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the property is immovable, the attachment shall be made by an order prohibiting the judgment-debtor from transferring or charging the property in any way, and all persons from taking any benefit from such transfer of charge.</p><p class=\"lvl\"><sup>2</sup>[(1A) The order shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.]</p><p class=\"lvl\">(2) The order shall be proclaimed at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order shall be affixed on a conspicuous part of the property and then upon, a conspicuous part of the Court-house, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate <sup>2</sup>[and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Ins. by s. 72, ibid. (w.e.f. 1-2-1977).</p></div>"
+  }
+}

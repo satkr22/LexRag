@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-23.html",
+    "source_order": 23,
+    "article_order": 23,
+    "order": 338,
+    "stem": "section_O11R23",
+    "heading_number": "Order XI",
+    "heading_title": "Discovery and Inspection",
+    "heading_range": "23 rules",
+    "heading_source": "group-head",
+    "article_number": "O11R23",
+    "article_title": "Order to apply to minors.",
+    "id": "cpc_section_O11R23"
+  },
+  "id": "cpc_section_O11R23",
+  "heading": {
+    "number": "Order XI",
+    "title": "Discovery and Inspection",
+    "range": "23 rules"
+  },
+  "article": {
+    "number": "O11R23",
+    "title": "Order to apply to minors.",
+    "content": "This Order shall apply to minor plaintiffs and defendants, and to the next friends and guardians for the suit of persons under disability.\n",
+    "html": "<article class=\"provision\" data-n=\"O11R23\" data-report=\"Order 11, Rule 23 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Order to apply to minors.</h3></div><p class=\"prov-cite\">Order 11, Rule 23</p><div class=\"prov-body\"><p>This Order shall apply to minor plaintiffs and defendants, and to the next friends and guardians for the suit of persons under disability.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Order to apply to minors.</h3></div><p class=\"prov-cite\">Order 11, Rule 23</p><div class=\"prov-body\"><p>This Order shall apply to minor plaintiffs and defendants, and to the next friends and guardians for the suit of persons under disability.</p></div>"
+  }
+}

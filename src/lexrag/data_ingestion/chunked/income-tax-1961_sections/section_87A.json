@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_87A_chunk_0",
+    "section_id": "income-tax-1961_section_87A",
+    "token_count": 409,
+    "text": "[Act: income-tax-1961\n Chapter: Rebates and Reliefs]\n Section: 87A::Rebate of income-tax in case of certain individuals.\n]\n\n\nAn assessee, being an individual resident in India, whose total income does not exceed five hundred thousand rupees, shall be entitled to a deduction, from the amount of income-tax (as computed before allowing the deductions under this Chapter) on his total income with which he is chargeable for any assessment year, of an amount equal to hundred per cent of such income-tax or an amount of twelve thousand and five hundred rupees, whichever is less:\nProvided that where the total income of the assessee is chargeable to tax under sub-section (1A) of section 115BAC, and the total income—\n(a) does not exceed 2[twelve] hundred thousand rupees, the assessee shall be entitled to a deduction from the amount of income-tax (as computed before allowing for the deductions under this Chapter) on his total income with which he is chargeable for any assessment year, of an amount equal to one hundred per cent of such income-tax or an amount of 3[sixty] thousand rupees, whichever is less;\n(b) exceeds 2[twelve] hundred thousand rupees and the income-tax payable on such total income exceeds the amount by which the total income is in excess of 2[twelve] hundred thousand rupees, the assessee shall be entitled to a deduction from the amount of income-tax (as computed before allowing the deductions under this Chapter) on his total income, of an amount equal to the amount by which the income-tax payable on such total income is in excess of the amount by which the total income exceeds 4[twelve] hundred thousand rupees:\n5[Provided further that the deduction under the first proviso, shall not exceed the amount of income-tax payable as per the rates provided in sub-section\n(1A) of section 115BAC.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_87A_chunk_0",
+      "section_id": "income-tax-1961_section_87A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Rebates and Reliefs]",
+      "section_number": "87A",
+      "section_title": "Rebate of income-tax in case of certain individuals."
+    }
+  }
+]

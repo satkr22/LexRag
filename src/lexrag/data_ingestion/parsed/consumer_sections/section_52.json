@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-52.html",
+    "source_order": 52,
+    "article_order": 1,
+    "order": 52,
+    "stem": "section_52",
+    "heading_number": "Chapter IV",
+    "heading_title": "Consumer Disputer Redressal Commission",
+    "heading_range": "ss. 28–73",
+    "heading_source": "manifest",
+    "article_number": "52",
+    "article_title": "Hearing of appeal.",
+    "id": "consumer_section_52"
+  },
+  "id": "consumer_section_52",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Consumer Disputer Redressal Commission",
+    "range": "ss. 28–73"
+  },
+  "article": {
+    "number": "52",
+    "title": "Hearing of appeal.",
+    "content": "An appeal filed before the State Commission or the National Commission, as the case may be, shall be heard as expeditiously as possible and every endeavour shall be made to dispose of the appeal within a period of ninety days from the date of its admission:\nProvided that no adjournment shall ordinarily be granted by the State Commission or the National Commission, as the case may be, unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by such Commission:\nProvided further that the State Commission or the National Commission, as the case may be, shall make such orders as to the costs occasioned by the adjournment, as may be specified by regulations:\nProvided also that in the event of an appeal being disposed of after the period so specified, the State Commission or the National Commission, as the case may be, shall record in writing the reasons for the same at the time of disposing of the said appeal.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Hearing of appeal.</h3></div><p class=\"prov-cite\">Section 52  ·  Chapter IV  ·  page 25 of the Act</p><div class=\"prov-body\"><p>An appeal filed before the State Commission or the National Commission, as the case may be, shall be heard as expeditiously as possible and every endeavour shall be made to dispose of the appeal within a period of ninety days from the date of its admission:</p><p class=\"prvso\">Provided that no adjournment shall ordinarily be granted by the State Commission or the National Commission, as the case may be, unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by such Commission:</p><p class=\"prvso\">Provided further that the State Commission or the National Commission, as the case may be, shall make such orders as to the costs occasioned by the adjournment, as may be specified by regulations:</p><p class=\"prvso\">Provided also that in the event of an appeal being disposed of after the period so specified, the State Commission or the National Commission, as the case may be, shall record in writing the reasons for the same at the time of disposing of the said appeal.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">52</span>Hearing of appeal.</h3></div><p class=\"prov-cite\">Section 52  ·  Chapter IV  ·  page 25 of the Act</p><div class=\"prov-body\"><p>An appeal filed before the State Commission or the National Commission, as the case may be, shall be heard as expeditiously as possible and every endeavour shall be made to dispose of the appeal within a period of ninety days from the date of its admission:</p><p class=\"prvso\">Provided that no adjournment shall ordinarily be granted by the State Commission or the National Commission, as the case may be, unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by such Commission:</p><p class=\"prvso\">Provided further that the State Commission or the National Commission, as the case may be, shall make such orders as to the costs occasioned by the adjournment, as may be specified by regulations:</p><p class=\"prvso\">Provided also that in the event of an appeal being disposed of after the period so specified, the State Commission or the National Commission, as the case may be, shall record in writing the reasons for the same at the time of disposing of the said appeal.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-63.html",
+    "source_order": 65,
+    "article_order": 1,
+    "order": 65,
+    "stem": "section_63",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Presentment",
+    "heading_range": "ss. 61–77",
+    "heading_source": "manifest",
+    "article_number": "63",
+    "article_title": "Drawee’s time for deliberation.",
+    "id": "negotiable-instruments_section_63"
+  },
+  "id": "negotiable-instruments_section_63",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Presentment",
+    "range": "ss. 61–77"
+  },
+  "article": {
+    "number": "63",
+    "title": "Drawee’s time for deliberation.",
+    "content": "The holder must, if so required by the drawee of a bill of exchange presented to him for acceptance, allow the drawee 2[forty-eight] hours (exclusive of public holidays) to consider whether he will accept it.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">63</span>Drawee’s time for deliberation.</h3></div><p class=\"prov-cite\">Section 63  ·  Chapter V  ·  page 17 of the Act</p><div class=\"prov-body\"><p>The holder must, if so required by the drawee of a bill of exchange presented to him for acceptance, allow the drawee <sup>2</sup>[forty-eight] hours (exclusive of public holidays) to consider whether he will accept it.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Subs. by Act 12 of 1921, s. 2, for “twenty-four”.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">63</span>Drawee’s time for deliberation.</h3></div><p class=\"prov-cite\">Section 63  ·  Chapter V  ·  page 17 of the Act</p><div class=\"prov-body\"><p>The holder must, if so required by the drawee of a bill of exchange presented to him for acceptance, allow the drawee <sup>2</sup>[forty-eight] hours (exclusive of public holidays) to consider whether he will accept it.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>2</sup> Subs. by Act 12 of 1921, s. 2, for “twenty-four”.</p></div></div>"
+  }
+}

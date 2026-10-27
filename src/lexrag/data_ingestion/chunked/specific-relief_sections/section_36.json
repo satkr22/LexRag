@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "specific-relief_section_36_chunk_0",
+    "section_id": "specific-relief_section_36",
+    "token_count": 46,
+    "text": "[Act: specific-relief\n Chapter: Injunctions Generally\n Section: 36::Preventive relief how granted.\n]\n\n\nPreventive relief is granted at the discretion of the court by injunction, temporary or perpetual.",
+    "metadata": {
+      "chunk_id": "specific-relief_section_36_chunk_0",
+      "section_id": "specific-relief_section_36",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "specific-relief",
+      "document_title": null,
+      "chapter_number": "Part III · Chapter VII",
+      "chapter_title": "Injunctions Generally",
+      "section_number": "36",
+      "section_title": "Preventive relief how granted."
+    }
+  }
+]

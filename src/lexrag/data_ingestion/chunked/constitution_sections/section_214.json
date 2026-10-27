@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_214_chunk_0",
+    "section_id": "constitution_section_214",
+    "token_count": 49,
+    "text": "[Act: constitution\n Chapter: The States\n Section: 214::High Courts for States\n]\n\n\n1*** There shall be a High Court for each State.\n(2)2* * * *\n(3)2* * * *",
+    "metadata": {
+      "chunk_id": "constitution_section_214_chunk_0",
+      "section_id": "constitution_section_214",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part VI",
+      "chapter_title": "The States",
+      "section_number": "214",
+      "section_title": "High Courts for States"
+    }
+  }
+]

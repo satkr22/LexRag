@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-18.html",
+    "source_order": 19,
+    "article_order": 27,
+    "order": 383,
+    "stem": "section_382",
+    "heading_number": "Chapter XVIII",
+    "heading_title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "heading_range": "ss. 356–389",
+    "heading_source": "group-head",
+    "article_number": "382",
+    "article_title": "Vacancies, etc., not to invalidate proceedings.",
+    "id": "income-tax-2025_section_382"
+  },
+  "id": "income-tax-2025_section_382",
+  "heading": {
+    "number": "Chapter XVIII",
+    "title": "Appeals, Revisions and Alternate Dispute Resolutions",
+    "range": "ss. 356–389"
+  },
+  "article": {
+    "number": "382",
+    "title": "Vacancies, etc., not to invalidate proceedings.",
+    "content": "No proceeding before, or pronouncement of advance ruling by, the Board for Advance Rulings, shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Board for Advance Rulings.\n",
+    "html": "<article class=\"provision\" data-n=\"382\" data-report=\"Section 382 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">382</span>Vacancies, etc., not to invalidate proceedings.</h3></div><p class=\"prov-cite\">Section 382  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 449 of the Act</p><div class=\"prov-body\"><p>No proceeding before, or pronouncement of advance ruling by, the Board for Advance Rulings, shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Board for Advance Rulings.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">382</span>Vacancies, etc., not to invalidate proceedings.</h3></div><p class=\"prov-cite\">Section 382  ·  Chapter XVIII  ·  D.—Alternate Dispute Resolutions — 2.—Advance rulings  ·  page 449 of the Act</p><div class=\"prov-body\"><p>No proceeding before, or pronouncement of advance ruling by, the Board for Advance Rulings, shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Board for Advance Rulings.</p></div>"
+  }
+}

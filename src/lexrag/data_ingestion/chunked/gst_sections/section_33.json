@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_33_chunk_0",
+    "section_id": "gst_section_33",
+    "token_count": 108,
+    "text": "[Act: gst\n Chapter: Tax Invoice, Credit and Debit Notes\n Section: 33::Amount of tax to be indicated in tax invoice and other documents.\n]\n\n\nNotwithstanding anything contained in this Act or any other law for the time being in force, where any supply is made for a consideration, every person who is liable to pay tax for such supply shall prominently indicate in all documents relating to assessment, tax invoice and other like documents, the amount of tax which shall form part of the price at which such supply is made.",
+    "metadata": {
+      "chunk_id": "gst_section_33_chunk_0",
+      "section_id": "gst_section_33",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Tax Invoice, Credit and Debit Notes",
+      "section_number": "33",
+      "section_title": "Amount of tax to be indicated in tax invoice and other documents."
+    }
+  }
+]

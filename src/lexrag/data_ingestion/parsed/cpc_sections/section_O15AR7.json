@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-30.html",
+    "source_order": 30,
+    "article_order": 7,
+    "order": 393,
+    "stem": "section_O15AR7",
+    "heading_number": "Order XVA",
+    "heading_title": "Case Management Hearing",
+    "heading_range": "8 rules",
+    "heading_source": "group-head",
+    "article_number": "O15AR7",
+    "article_title": "Adjournment of Case Management Hearing.",
+    "id": "cpc_section_O15AR7"
+  },
+  "id": "cpc_section_O15AR7",
+  "heading": {
+    "number": "Order XVA",
+    "title": "Case Management Hearing",
+    "range": "8 rules"
+  },
+  "article": {
+    "number": "O15AR7",
+    "title": "Adjournment of Case Management Hearing.",
+    "content": "(1) The Court shall not adjourn the Case Management Hearing for the sole reason that the advocate appearing on behalf of a party is not present:\nProvided that an adjournment of the hearing is sought in advance by moving an application, the Court may adjourn the hearing to another date upon the payment of such costs as the Court deems fit, by the party moving such application.\n(2) Notwithstanding anything contained in this Rule, if the Court is satisfied that there is a justified reason for the absence of the advocate, it may adjourn the hearing to another date upon such terms and conditions it deems fit.\n",
+    "html": "<article class=\"provision\" data-n=\"O15AR7\" data-report=\"Order 15A, Rule 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Adjournment of Case Management Hearing.</h3></div><p class=\"prov-cite\">Order 15A, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Court shall not adjourn the Case Management Hearing for the sole reason that the advocate appearing on behalf of a party is not present:</p><p class=\"prvso\">Provided that an adjournment of the hearing is sought in advance by moving an application, the Court may adjourn the hearing to another date upon the payment of such costs as the Court deems fit, by the party moving such application.</p><p class=\"lvl\">(2) Notwithstanding anything contained in this Rule, if the Court is satisfied that there is a justified reason for the absence of the advocate, it may adjourn the hearing to another date upon such terms and conditions it deems fit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Adjournment of Case Management Hearing.</h3></div><p class=\"prov-cite\">Order 15A, Rule 7</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Court shall not adjourn the Case Management Hearing for the sole reason that the advocate appearing on behalf of a party is not present:</p><p class=\"prvso\">Provided that an adjournment of the hearing is sought in advance by moving an application, the Court may adjourn the hearing to another date upon the payment of such costs as the Court deems fit, by the party moving such application.</p><p class=\"lvl\">(2) Notwithstanding anything contained in this Rule, if the Court is satisfied that there is a justified reason for the absence of the advocate, it may adjourn the hearing to another date upon such terms and conditions it deems fit.</p></div>"
+  }
+}

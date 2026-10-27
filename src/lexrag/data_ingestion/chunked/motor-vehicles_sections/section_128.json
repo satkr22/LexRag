@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_128_chunk_0",
+    "section_id": "motor-vehicles_section_128",
+    "token_count": 123,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 128::Safety measures for drivers and pillion riders.\n]\n\n\n(1) No driver of a two-wheeled motorcycle shall carry more than one person in addition to himself on the motorcycle and no such person shall be carried otherwise than sitting on a proper seat securely fixed to the motorcycle behind the driver’s seat with appropriate safety measures.\n(2) In addition to the safety measures mentioned in sub-section (1), the Central Government may, prescribe other safety measures for the drivers of two-wheeled motorcycles and pillion riders thereon.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_128_chunk_0",
+      "section_id": "motor-vehicles_section_128",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "128",
+      "section_title": "Safety measures for drivers and pillion riders."
+    }
+  }
+]

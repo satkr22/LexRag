@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_36_chunk_0",
+    "section_id": "motor-vehicles_section_36",
+    "token_count": 99,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Conductors of Stage Carriages\n Section: 36::Certain provisions of Chapter II to apply to conductor’s licence.\n]\n\n\nThe provisions of sub-section (2) of section 6, sections 14, 15 and 23, sub-section (1) of section 24 and section 25 shall, so far as may be, apply in relation to a conductor’s licence, as they apply in relation to a driving licence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_36_chunk_0",
+      "section_id": "motor-vehicles_section_36",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter III",
+      "chapter_title": "Licensing of Conductors of Stage Carriages",
+      "section_number": "36",
+      "section_title": "Certain provisions of Chapter II to apply to conductor’s licence."
+    }
+  }
+]

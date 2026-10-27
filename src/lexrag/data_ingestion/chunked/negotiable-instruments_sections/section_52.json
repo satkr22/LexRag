@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_52_chunk_0",
+    "section_id": "negotiable-instruments_section_52",
+    "token_count": 236,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Negotiation\n Section: 52::Indorser who excludes his own liability or makes it conditional.\n]\n\n\nThe indorser of a negotiable instrument may, by express words in the indorsement, exclude his own liability thereon, or make such liability or the right of the indorsee to receive the amount due thereon depend upon the happening of a specified event, although such event may never happen.\nWhere an indorser so excludes his liability and afterwards becomes the holder of the instrument, all intermediate indorsers are liable to him.\nIllustrations\n(a) The indorser of a negotiable instrument sign; his name adding the words— “Without recourse”.\nUpon this indorsement he incurs no liability.\n(b) A is the payee and holder of a negotiable instrument. Excluding personal liability by an indorsement “without recourse” he transfers the instrument to B, and B indorses it to C, who indorses it to A. A is not only reinstated in his former rights, but has the rights of an indorsee against B and C.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_52_chunk_0",
+      "section_id": "negotiable-instruments_section_52",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Of Negotiation",
+      "section_number": "52",
+      "section_title": "Indorser who excludes his own liability or makes it conditional."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_69D_chunk_0",
+    "section_id": "income-tax-1961_section_69D",
+    "token_count": 208,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 69D::Amount borrowed or repaid on hundi.\n]\n\n\nWhere any amount is borrowed on a hundi from, or any amount due thereon is repaid to, any person otherwise than through an account payee cheque drawn on a bank, the amount so borrowed or repaid shall be deemed to be the income of the person borrowing or repaying the amount aforesaid for the previous year in which the amount was borrowed or repaid, as the case may be :\nProvided that, if in any case any amount borrowed on a hundi has been deemed under the provisions of this section to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under the provisions of this section on repayment of such amount.\nExplanation.—For the purposes of this section, the amount repaid shall include the amount of interest paid on the amount borrowed.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_69D_chunk_0",
+      "section_id": "income-tax-1961_section_69D",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "69D",
+      "section_title": "Amount borrowed or repaid on hundi."
+    }
+  }
+]

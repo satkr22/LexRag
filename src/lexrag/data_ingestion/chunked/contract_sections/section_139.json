@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_139_chunk_0",
+    "section_id": "contract_section_139",
+    "token_count": 343,
+    "text": "[Act: contract\n Chapter: Of Indemnity and Guarantee\n Section: 139::Discharge of surety by creditor’s act or omission impairing surety’s eventual remedy.\n]\n\n\nIf the creditor does any act which is inconsistent with the rights of the surety, or omits to do any act which his duty to the surety requires him to do, and the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged.\nIllustrations\n(a)B contracts to build a ship for C for a given sum, to be paid by instalments as the work reaches certain stages. A becomes surety to C for B’s due performance of the contract. C, without the knowledge of A, prepays to B the last two instalments. A is discharged by this prepayment.\n(b)C lends money to B on the security of a joint and several promissory note made in C’s favour by B, and by A as surety for B, together with a bill of sale of B’s furniture, which gives power to C to sell the furniture, and apply the proceeds in discharge of the note. Subsequently, C sells the furniture, but, owing to his misconduct and wilful negligence, only a small price is realized. A is discharged from liability on the note.\n(c)A puts M as apprentice to B, and gives a guarantee to B for M’s fidelity. B promises on his part that he will, at least once a month, see M make up the cash. B omits to see this done as promised, and M embezzles. A is not liable to B on his guarantee.",
+    "metadata": {
+      "chunk_id": "contract_section_139_chunk_0",
+      "section_id": "contract_section_139",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Of Indemnity and Guarantee",
+      "section_number": "139",
+      "section_title": "Discharge of surety by creditor’s act or omission impairing surety’s eventual remedy."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bsa",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": null,
+    "source_file": "bsa_sections/section-10.html",
+    "source_order": 10,
+    "article_order": 1,
+    "order": 10,
+    "stem": "section_10",
+    "heading_number": "Chapter II",
+    "heading_title": "Relevancy of Facts",
+    "heading_range": "3 – 50",
+    "heading_source": "manifest",
+    "article_number": "10",
+    "article_title": "Facts tending to enable Court to determine amount are relevant in suits for damages",
+    "id": "bsa_section_10"
+  },
+  "id": "bsa_section_10",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Relevancy of Facts",
+    "range": "3 – 50"
+  },
+  "article": {
+    "number": "10",
+    "title": "Facts tending to enable Court to determine amount are relevant in suits for damages",
+    "content": "In suits in which damages are claimed, any fact which will enable the Court to determine the amount of damages which ought to be awarded, is relevant.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Facts tending to enable Court to determine amount are relevant in suits for damages</h3></div><p class=\"prov-cite\">Section 10 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>In suits in which damages are claimed, any fact which will enable the Court to determine the amount of damages which ought to be awarded, is relevant.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Facts tending to enable Court to determine amount are relevant in suits for damages</h3></div><p class=\"prov-cite\">Section 10 · Part II · Chapter II · Closely connected facts</p><div class=\"prov-body\"><p>In suits in which damages are claimed, any fact which will enable the Court to determine the amount of damages which ought to be awarded, is relevant.</p></div>"
+  }
+}

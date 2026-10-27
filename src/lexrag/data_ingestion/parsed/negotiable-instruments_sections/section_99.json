@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-99.html",
+    "source_order": 103,
+    "article_order": 1,
+    "order": 103,
+    "stem": "section_99",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Noting and Protest",
+    "heading_range": "ss. 99–104A",
+    "heading_source": "manifest",
+    "article_number": "99",
+    "article_title": "Noting.",
+    "id": "negotiable-instruments_section_99"
+  },
+  "id": "negotiable-instruments_section_99",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Noting and Protest",
+    "range": "ss. 99–104A"
+  },
+  "article": {
+    "number": "99",
+    "title": "Noting.",
+    "content": "When a promissory note or bill of exchange has been dishonoured by non-acceptance or non-payment, the holder may cause such dishonour to be noted by a notary public upon the instrument, or upon a paper attached thereto, or partly upon each.\nSuch note must be made within a reasonable time after dishonour, and must specify the date of dishonour, the reason, if any, assigned for such dishonour, or, if the instrument has not been expressly dishonoured, the reason why the holder treats it as dishonoured, and the notary's charges.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Noting.</h3></div><p class=\"prov-cite\">Section 99  ·  Chapter IX  ·  page 22 of the Act</p><div class=\"prov-body\"><p>When a promissory note or bill of exchange has been dishonoured by non-acceptance or non-payment, the holder may cause such dishonour to be noted by a notary public upon the instrument, or upon a paper attached thereto, or partly upon each.</p><p>Such note must be made within a reasonable time after dishonour, and must specify the date of dishonour, the reason, if any, assigned for such dishonour, or, if the instrument has not been expressly dishonoured, the reason why the holder treats it as dishonoured, and the notary's charges.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">99</span>Noting.</h3></div><p class=\"prov-cite\">Section 99  ·  Chapter IX  ·  page 22 of the Act</p><div class=\"prov-body\"><p>When a promissory note or bill of exchange has been dishonoured by non-acceptance or non-payment, the holder may cause such dishonour to be noted by a notary public upon the instrument, or upon a paper attached thereto, or partly upon each.</p><p>Such note must be made within a reasonable time after dishonour, and must specify the date of dishonour, the reason, if any, assigned for such dishonour, or, if the instrument has not been expressly dishonoured, the reason why the holder treats it as dishonoured, and the notary's charges.</p></div>"
+  }
+}

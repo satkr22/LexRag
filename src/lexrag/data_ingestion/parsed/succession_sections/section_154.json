@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-23.html",
+    "source_order": 23,
+    "article_order": 3,
+    "order": 154,
+    "stem": "section_154",
+    "heading_number": "Part VI · Chapter XVI",
+    "heading_title": "Of Ademption of Legacies",
+    "heading_range": "ss. 152–166",
+    "heading_source": "group-head",
+    "article_number": "154",
+    "article_title": "Ademption of specific bequest of right to receive something from third party.",
+    "id": "succession_section_154"
+  },
+  "id": "succession_section_154",
+  "heading": {
+    "number": "Part VI · Chapter XVI",
+    "title": "Of Ademption of Legacies",
+    "range": "ss. 152–166"
+  },
+  "article": {
+    "number": "154",
+    "title": "Ademption of specific bequest of right to receive something from third party.",
+    "content": "Where the thing specifically bequeathed is the right to receive something of value from a third party, and the testator himself receives it, the bequest is adeemed.\nIllustrations\n(i) A bequeaths to B—\n“the debt which C owes me”:\n“2,000 rupees which I have in the hands of D”:\n“the money due to me on the bond of E”:\n“my mortgage on the Rampur factory.”\nAll these debts are extinguished in A’s lifetime, some with and some without his consent. All the legacies are adeemed.\n(ii) A bequeaths to B his interest in certain policies of life assurance. A in his lifetime receives the amount of the policies. The legacy is adeemed.\n",
+    "html": "<article class=\"provision\" data-n=\"154\" data-report=\"Section 154 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">154</span>Ademption of specific bequest of right to receive something from third party.</h3></div><p class=\"prov-cite\">Section 154  ·  Part VI · Chapter XVI  ·  page 56 of the Act</p><div class=\"prov-body\"><p>Where the thing specifically bequeathed is the right to receive something of value from a third party, and the testator himself receives it, the bequest is adeemed.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths to B—</p><p>“the debt which C owes me”:</p><p>“2,000 rupees which I have in the hands of D”:</p><p>“the money due to me on the bond of E”:</p><p>“my mortgage on the Rampur factory.”</p><p>All these debts are extinguished in A’s lifetime, some with and some without his consent. All the legacies are adeemed.</p><p class=\"lvl\">(ii) A bequeaths to B his interest in certain policies of life assurance. A in his lifetime receives the amount of the policies. The legacy is adeemed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">154</span>Ademption of specific bequest of right to receive something from third party.</h3></div><p class=\"prov-cite\">Section 154  ·  Part VI · Chapter XVI  ·  page 56 of the Act</p><div class=\"prov-body\"><p>Where the thing specifically bequeathed is the right to receive something of value from a third party, and the testator himself receives it, the bequest is adeemed.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths to B—</p><p>“the debt which C owes me”:</p><p>“2,000 rupees which I have in the hands of D”:</p><p>“the money due to me on the bond of E”:</p><p>“my mortgage on the Rampur factory.”</p><p>All these debts are extinguished in A’s lifetime, some with and some without his consent. All the legacies are adeemed.</p><p class=\"lvl\">(ii) A bequeaths to B his interest in certain policies of life assurance. A in his lifetime receives the amount of the policies. The legacy is adeemed.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-21.html",
+    "source_order": 22,
+    "article_order": 29,
+    "order": 468,
+    "stem": "section_467",
+    "heading_number": "Chapter XXI",
+    "heading_title": "Penalties",
+    "heading_range": "ss. 439–472",
+    "heading_source": "group-head",
+    "article_number": "467",
+    "article_title": "Penalty for failure to comply with the provisions of sections 262 and 397.",
+    "id": "income-tax-2025_section_467"
+  },
+  "id": "income-tax-2025_section_467",
+  "heading": {
+    "number": "Chapter XXI",
+    "title": "Penalties",
+    "range": "ss. 439–472"
+  },
+  "article": {
+    "number": "467",
+    "title": "Penalty for failure to comply with the provisions of sections 262 and 397.",
+    "content": "(1) If a person fails to comply with the provisions of section 262, the Assessing Officer may impose a penalty of Rs. 10000 on him.\n(2) If a person, required to quote or intimate his Permanent Account Number or Aadhaar number in any document as referred to in section 262(9)(a), provides or quotes or intimates a number which is false, knowing or believing it to be false, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.\n(3) If a person fails to quote or authenticate his Permanent Account Number or Aadhaar number in any document referred to in section 262(9)(a), the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.\n(4) If a person referred to in section 262(9)(b) responsible for ensuring the correct quoting or authentication of Permanent Account Number or Aadhaar number, in documents relating to transactions prescribed under section 262(9)(a) fails to do so, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.\n",
+    "html": "<article class=\"provision\" data-n=\"467\" data-report=\"Section 467 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">467</span>Penalty for failure to comply with the provisions of <sup>14</sup>[sections 262 and 397].</h3></div><p class=\"prov-cite\">Section 467  ·  Chapter XXI  ·  page 553 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If a person fails to comply with the provisions of section 262, the Assessing Officer may impose a penalty of Rs. 10000 on him.</p><p class=\"lvl\">(2) If a person, required to quote or intimate his Permanent Account Number or Aadhaar number in any document as referred to in section 262(9)(a), provides or quotes or intimates a number which is false, knowing or believing it to be false, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.</p><p class=\"lvl\">(3) If a person fails to quote or authenticate his Permanent Account Number or Aadhaar number in any document referred to in section 262(9)(a), the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.</p><p class=\"lvl\">(4) If a person referred to in section 262(9)(b) responsible for ensuring the correct quoting or authentication of Permanent Account Number or Aadhaar number, in documents relating to transactions prescribed under section 262(9)(a) fails to do so, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.</p><div class=\"fnotes\"><p class=\"fn\"><sup>14</sup> Sub. for \"section 262\" by Act No. 4 of 2026, w.e.f. 1-4-2026.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">467</span>Penalty for failure to comply with the provisions of <sup>14</sup>[sections 262 and 397].</h3></div><p class=\"prov-cite\">Section 467  ·  Chapter XXI  ·  page 553 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) If a person fails to comply with the provisions of section 262, the Assessing Officer may impose a penalty of Rs. 10000 on him.</p><p class=\"lvl\">(2) If a person, required to quote or intimate his Permanent Account Number or Aadhaar number in any document as referred to in section 262(9)(a), provides or quotes or intimates a number which is false, knowing or believing it to be false, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.</p><p class=\"lvl\">(3) If a person fails to quote or authenticate his Permanent Account Number or Aadhaar number in any document referred to in section 262(9)(a), the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.</p><p class=\"lvl\">(4) If a person referred to in section 262(9)(b) responsible for ensuring the correct quoting or authentication of Permanent Account Number or Aadhaar number, in documents relating to transactions prescribed under section 262(9)(a) fails to do so, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.</p><div class=\"fnotes\"><p class=\"fn\"><sup>14</sup> Sub. for \"section 262\" by Act No. 4 of 2026, w.e.f. 1-4-2026.</p></div></div>"
+  }
+}

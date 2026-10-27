@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-07.html",
+    "source_order": 8,
+    "article_order": 4,
+    "order": 111,
+    "stem": "section_111",
+    "heading_number": "Chapter VII",
+    "heading_title": "Set Off, or Carry Forward and Set Off of Losses",
+    "heading_range": "ss. 108–121",
+    "heading_source": "group-head",
+    "article_number": "111",
+    "article_title": "Carry forward and set off of loss from Capital gains.",
+    "id": "income-tax-2025_section_111"
+  },
+  "id": "income-tax-2025_section_111",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Set Off, or Carry Forward and Set Off of Losses",
+    "range": "ss. 108–121"
+  },
+  "article": {
+    "number": "111",
+    "title": "Carry forward and set off of loss from Capital gains.",
+    "content": "(1)(a) Where for any tax year, loss computed under the head \"Capital gains\" cannot be wholly set off against the income under the head \"Capital gains\" as per section 108, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and shall be set off in the following manner—\n(i) if such loss relates to a short-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other capital asset;\n(ii) if such loss relates to a long-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other long-term capital asset; and\n(b) if the loss cannot be wholly so set off under clause (a), the amount of loss not so set off shall be carried forward to the following tax year and so on.\n(2) No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.\n",
+    "html": "<article class=\"provision\" data-n=\"111\" data-report=\"Section 111 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">111</span>Carry forward and set off of loss from Capital gains.</h3></div><p class=\"prov-cite\">Section 111  ·  Chapter VII  ·  page 146 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1)(a) Where for any tax year, loss computed under the head \"Capital gains\" cannot be wholly set off against the income under the head \"Capital gains\" as per section 108, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and shall be set off in the following manner—</p><p class=\"lvl\">(i) if such loss relates to a short-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other capital asset;</p><p class=\"lvl\">(ii) if such loss relates to a long-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other long-term capital asset; and</p><p class=\"lvl\">(b) if the loss cannot be wholly so set off under clause (a), the amount of loss not so set off shall be carried forward to the following tax year and so on.</p><p class=\"lvl\">(2) No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">111</span>Carry forward and set off of loss from Capital gains.</h3></div><p class=\"prov-cite\">Section 111  ·  Chapter VII  ·  page 146 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1)(a) Where for any tax year, loss computed under the head \"Capital gains\" cannot be wholly set off against the income under the head \"Capital gains\" as per section 108, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and shall be set off in the following manner—</p><p class=\"lvl\">(i) if such loss relates to a short-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other capital asset;</p><p class=\"lvl\">(ii) if such loss relates to a long-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other long-term capital asset; and</p><p class=\"lvl\">(b) if the loss cannot be wholly so set off under clause (a), the amount of loss not so set off shall be carried forward to the following tax year and so on.</p><p class=\"lvl\">(2) No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.</p></div>"
+  }
+}

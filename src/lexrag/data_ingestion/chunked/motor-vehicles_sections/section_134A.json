@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_134A_chunk_0",
+    "section_id": "motor-vehicles_section_134A",
+    "token_count": 189,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 134A::Protection of Good Samaritans.\n]\n\n\n(1) A Good Samaritan shall not be liable for any civil or criminal action for any injury to or death of the victim of an accident involving a motor vehicle, where such injury or death resulted from the Good Samaritan’s negligence in acting or failing to act while rendering emergency medical or non-medical care or assistance.\n(2) The Central Government may by rules provide for the procedure for questioning or examination of the Good Samaritan, disclosure of personal information of the Good Samaritan and such other related matters.\nExplanation.—For the purposes of this section, “Good Samaritan” means a person, who in good faith, voluntarily and without expectation of any reward or compensation renders emergency medical or non-medical care or assistance at the scene of an accident to the victim or transports such victim to the hospital.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_134A_chunk_0",
+      "section_id": "motor-vehicles_section_134A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "134A",
+      "section_title": "Protection of Good Samaritans."
+    }
+  }
+]

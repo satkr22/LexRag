@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "hindu-succession_section_schedule_chunk_0",
+    "section_id": "hindu-succession_section_schedule",
+    "token_count": 359,
+    "text": "[Act: hindu-succession\n Chapter: Schedules · The Schedule\n Section: schedule::The Schedule\n]\n\n\nClass I Son; daughter; widow; mother; son of a pre-deceased son; daughter of a pre-deceased son; son of a pre-deceased daughter; daughter of a pre-deceased daughter; widow of a pre-deceased son; son of a pre-deceased son of a pre-deceased son; daughter of a pre-deceased son of a pre-deceased son; widow of a pre-deceased son of a pre-deceased son 1[son of a predeceased daughter of a pre-deceased daughter; daughter of a pre-deceased daughter of a pre-deceased daughter; daughter of a pre-deceased son of a pre-deceased daughter; daughter of a pre-deceased daughter of a pre-deceased son].\nClass II\nI. Father.\nII. (1) Son’s daughter’s son, (2) son’s daughter’s daughter, (3) brother, (4) sister.\nIII. (1) Daughter’s son’s son, (2) daughter’s son’s daughter, (3) daughter’s daughter’s son, (4) daughter’s daughter’s daughter.\nIV. (1) Brother’s son, (2) sister’s son, (3) brother’s daughter, (4) sister’s daughter.\nV. Father’s father; father’s mother.\nVI. Father’s widow; brother’s widow.\nVII. Father’s brother; father’s sister.\nVIII. Mother’s father; mother’s mother.\nIX. Mother’s brother; mother’s sister.\nExplanation.―In this Schedule, references to a brother or sister do not include references to a brother or sister by uterine blood.",
+    "metadata": {
+      "chunk_id": "hindu-succession_section_schedule_chunk_0",
+      "section_id": "hindu-succession_section_schedule",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "hindu-succession",
+      "document_title": null,
+      "chapter_number": null,
+      "chapter_title": "Schedules · The Schedule",
+      "section_number": "schedule",
+      "section_title": "The Schedule"
+    }
+  }
+]

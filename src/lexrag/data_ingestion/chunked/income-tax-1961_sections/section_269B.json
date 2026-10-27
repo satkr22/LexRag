@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_269B_chunk_0",
+    "section_id": "income-tax-1961_section_269B",
+    "token_count": 433,
+    "text": "[Act: income-tax-1961\n Chapter: None\n Section: 269B::Competent authority.\n]\n\n\n(1) The Central Government may, by general or special order published in the Official Gazette,—\n(a) authorise as many Joint Commissioners, as it thinks fit, to perform the functions of a competent authority under this Chapter ; and\n(b) define the local limits within which the competent authorities shall perform their functions under this Chapter.\n(2) In respect of any function to be performed by a competent authority under any provision of this Chapter in relation to any immovable property referred to in section 269C, the competent authority referred to therein shall,—\n(a) in a case where such property is situate within the local limits of the jurisdiction of only one competent authority, be such competent authority ;\n(b) in a case where such property is situate within the local limits of the jurisdiction of two or more competent authorities, be the competent authority empowered to perform such functions in relation to such property in accordance with rules made in this behalf by the Board under section 295.\nExplanation.—For the purposes of this sub-section, immovable property, being rights of the nature referred to in clause (b) of sub-section (1) of section 269AB in, or with respect to, any building or part of a building which has been constructed or which is to be constructed shall be deemed to be situate at the place where the building has been constructed or is to be constructed.\n(3) No person shall be entitled to call in question the jurisdiction of a competent authority in respect of any immovable property after the expiry of thirty days from the date on which such competent authority initiates proceedings under section 269D for the acquisition of such property.\n(4) Subject to the provisions of sub-section (3), where the jurisdiction of a competent authority is questioned, the competent authority shall, if satisfied with the correctness of the claim, by order in writing, determine the question accordingly and if he is not so satisfied, he shall refer the question to the Board and the Board shall, by order in writing, determine the question.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_269B_chunk_0",
+      "section_id": "income-tax-1961_section_269B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XX-A",
+      "chapter_title": null,
+      "section_number": "269B",
+      "section_title": "Competent authority."
+    }
+  }
+]

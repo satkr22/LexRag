@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "partnership",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "partnership_sections/section-24.html",
+    "source_order": 26,
+    "article_order": 1,
+    "order": 26,
+    "stem": "section_24",
+    "heading_number": "Chapter IV",
+    "heading_title": "Relations of Partners to Third Parties",
+    "heading_range": "ss. 18–30",
+    "heading_source": "manifest",
+    "article_number": "24",
+    "article_title": "Effect of notice to acting partner.",
+    "id": "partnership_section_24"
+  },
+  "id": "partnership_section_24",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Relations of Partners to Third Parties",
+    "range": "ss. 18–30"
+  },
+  "article": {
+    "number": "24",
+    "title": "Effect of notice to acting partner.",
+    "content": "Notice to a partner who habitually acts in the business of the firm of any matter relating to the affairs of the firm operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Effect of notice to acting partner.</h3></div><p class=\"prov-cite\">Section 24  ·  Chapter IV  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Notice to a partner who habitually acts in the business of the firm of any matter relating to the affairs of the firm operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Effect of notice to acting partner.</h3></div><p class=\"prov-cite\">Section 24  ·  Chapter IV  ·  page 7 of the Act</p><div class=\"prov-body\"><p>Notice to a partner who habitually acts in the business of the firm of any matter relating to the affairs of the firm operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner.</p></div>"
+  }
+}

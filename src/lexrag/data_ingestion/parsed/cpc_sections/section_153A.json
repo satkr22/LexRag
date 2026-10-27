@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-12.html",
+    "source_order": 12,
+    "article_order": 25,
+    "order": 165,
+    "stem": "section_153A",
+    "heading_number": "Part Xi",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 132–158",
+    "heading_source": "group-head",
+    "article_number": "153A",
+    "article_title": "Power to amend decree or order where appeal is summarily dismissed.",
+    "id": "cpc_section_153A"
+  },
+  "id": "cpc_section_153A",
+  "heading": {
+    "number": "Part Xi",
+    "title": "Miscellaneous",
+    "range": "ss. 132–158"
+  },
+  "article": {
+    "number": "153A",
+    "title": "Power to amend decree or order where appeal is summarily dismissed.",
+    "content": "Where an Appellate Court dismisses an appeal under rule 11 of Order XLI, the power of the Court to amend, under section 152, the decree or order appealed against may be exercised by the Court which had passed the decree or order in the first instance, notwithstanding that the dismissal of the appeal has the effect of confirming the decree or order, as the case may be, passed by the Court of first instance.\n",
+    "html": "<article class=\"provision\" data-n=\"153A\" data-report=\"Section 153A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153A</span>Power to amend decree or order where appeal is summarily dismissed.</h3></div><p class=\"prov-cite\">Section 153A</p><div class=\"prov-body\"><p>Where an Appellate Court dismisses an appeal under rule 11 of Order XLI, the power of the Court to amend, under section 152, the decree or order appealed against may be exercised by the Court which had passed the decree or order in the first instance, notwithstanding that the dismissal of the appeal has the effect of confirming the decree or order, as the case may be, passed by the Court of first instance.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 51 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">153A</span>Power to amend decree or order where appeal is summarily dismissed.</h3></div><p class=\"prov-cite\">Section 153A</p><div class=\"prov-body\"><p>Where an Appellate Court dismisses an appeal under rule 11 of Order XLI, the power of the Court to amend, under section 152, the decree or order appealed against may be exercised by the Court which had passed the decree or order in the first instance, notwithstanding that the dismissal of the appeal has the effect of confirming the decree or order, as the case may be, passed by the Court of first instance.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 51 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

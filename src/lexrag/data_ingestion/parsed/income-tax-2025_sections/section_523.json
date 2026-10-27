@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-23.html",
+    "source_order": 24,
+    "article_order": 25,
+    "order": 524,
+    "stem": "section_523",
+    "heading_number": "Chapter XXIII",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 499–536",
+    "heading_source": "group-head",
+    "article_number": "523",
+    "article_title": "Notice deemed to be valid in certain circumstances.",
+    "id": "income-tax-2025_section_523"
+  },
+  "id": "income-tax-2025_section_523",
+  "heading": {
+    "number": "Chapter XXIII",
+    "title": "Miscellaneous",
+    "range": "ss. 499–536"
+  },
+  "article": {
+    "number": "523",
+    "title": "Notice deemed to be valid in certain circumstances.",
+    "content": "(1) Where an assessee has appeared in any proceeding or co-operated in any inquiry relating to an assessment or reassessment, it shall be deemed that any notice under this Act, which is required to be served upon him, has been duly served upon him in time as per the provisions of this Act and such assessee shall be precluded from taking any objection in any proceeding or inquiry under this Act that the notice was—\n(a) not served upon him; or\n(b) not served upon him in time; or\n(c) served upon him in an improper manner.\n(2) The provisions of sub-section (1) shall not apply where the assessee has raised such objection before the completion of such assessment or reassessment.\n",
+    "html": "<article class=\"provision\" data-n=\"523\" data-report=\"Section 523 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">523</span>Notice deemed to be valid in certain circumstances.</h3></div><p class=\"prov-cite\">Section 523  ·  Chapter XXIII  ·  page 611 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where an assessee has appeared in any proceeding or co-operated in any inquiry relating to an assessment or reassessment, it shall be deemed that any notice under this Act, which is required to be served upon him, has been duly served upon him in time as per the provisions of this Act and such assessee shall be precluded from taking any objection in any proceeding or inquiry under this Act that the notice was—</p><p class=\"lvl\">(a) not served upon him; or</p><p class=\"lvl\">(b) not served upon him in time; or</p><p class=\"lvl\">(c) served upon him in an improper manner.</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply where the assessee has raised such objection before the completion of such assessment or reassessment.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">523</span>Notice deemed to be valid in certain circumstances.</h3></div><p class=\"prov-cite\">Section 523  ·  Chapter XXIII  ·  page 611 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where an assessee has appeared in any proceeding or co-operated in any inquiry relating to an assessment or reassessment, it shall be deemed that any notice under this Act, which is required to be served upon him, has been duly served upon him in time as per the provisions of this Act and such assessee shall be precluded from taking any objection in any proceeding or inquiry under this Act that the notice was—</p><p class=\"lvl\">(a) not served upon him; or</p><p class=\"lvl\">(b) not served upon him in time; or</p><p class=\"lvl\">(c) served upon him in an improper manner.</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply where the assessee has raised such objection before the completion of such assessment or reassessment.</p></div>"
+  }
+}

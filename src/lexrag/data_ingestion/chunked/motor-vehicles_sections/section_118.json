@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_118_chunk_0",
+    "section_id": "motor-vehicles_section_118",
+    "token_count": 43,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 118::Driving regulations.\n]\n\n\nThe Central Government may, by notification in the Official Gazette, make regulations for the driving of motor vehicles.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_118_chunk_0",
+      "section_id": "motor-vehicles_section_118",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "118",
+      "section_title": "Driving regulations."
+    }
+  }
+]

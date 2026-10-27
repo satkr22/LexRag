@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-07.html",
+    "source_order": 7,
+    "article_order": 54,
+    "order": 224,
+    "stem": "section_205",
+    "heading_number": "Part VI",
+    "heading_title": "The States",
+    "heading_range": "152 – 237",
+    "heading_source": "group-head",
+    "article_number": "205",
+    "article_title": "Supplementary, additional or excess grants",
+    "id": "constitution_section_205"
+  },
+  "id": "constitution_section_205",
+  "heading": {
+    "number": "Part VI",
+    "title": "The States",
+    "range": "152 – 237"
+  },
+  "article": {
+    "number": "205",
+    "title": "Supplementary, additional or excess grants",
+    "content": "(1)The Governor shall—\n(a)if the amount authorised by any law made in accordance with the provisions of article 204 to be expended for a particular service for the current financial year is found to be insufficient for the purposes of that year or when a need has arisen during the current financial year for supplementary or additional expenditure upon some new service not contemplated in the annual financial statement for that year; or\n(b)if any money has been spent on any service during a financial year in excess of the amount granted for that service and for that year,\ncause to be laid before the House or the Houses of the Legislature of the State another statement showing the estimated amount of that expenditure or cause to be presented to the Legislative Assembly of the State a demand for such excess, as the case may be.\n(2)The provisions of articles 202, 203 and 204 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or grant.\n",
+    "html": "<article class=\"provision\" data-n=\"205\" data-report=\"Article 205 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">205</span>Supplementary, additional or excess grants</h3></div><p class=\"prov-cite\">Article 205 · Part VI · Procedure in Financial Matters</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Governor shall—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>if the amount authorised by any law made in accordance with the provisions of article 204 to be expended for a particular service for the current financial year is found to be insufficient for the purposes of that year or when a need has arisen during the current financial year for supplementary or additional expenditure upon some new service not contemplated in the annual financial statement for that year; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>if any money has been spent on any service during a financial year in excess of the amount granted for that service and for that year,</p><p>cause to be laid before the House or the Houses of the Legislature of the State another statement showing the estimated amount of that expenditure or cause to be presented to the Legislative Assembly of the State a demand for such excess, as the case may be.</p><p><span class=\"lbl\">(2)</span>The provisions of articles 202, 203 and 204 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or grant.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">205</span>Supplementary, additional or excess grants</h3></div><p class=\"prov-cite\">Article 205 · Part VI · Procedure in Financial Matters</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>The Governor shall—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>if the amount authorised by any law made in accordance with the provisions of article 204 to be expended for a particular service for the current financial year is found to be insufficient for the purposes of that year or when a need has arisen during the current financial year for supplementary or additional expenditure upon some new service not contemplated in the annual financial statement for that year; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>if any money has been spent on any service during a financial year in excess of the amount granted for that service and for that year,</p><p>cause to be laid before the House or the Houses of the Legislature of the State another statement showing the estimated amount of that expenditure or cause to be presented to the Legislative Assembly of the State a demand for such excess, as the case may be.</p><p><span class=\"lbl\">(2)</span>The provisions of articles 202, 203 and 204 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or grant.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-21.html",
+    "source_order": 21,
+    "article_order": 10,
+    "order": 444,
+    "stem": "section_350B",
+    "heading_number": "Part XVII",
+    "heading_title": "Official Language",
+    "heading_range": "343 – 351",
+    "heading_source": "group-head",
+    "article_number": "350B",
+    "article_title": "Special Officer for linguistic minorities",
+    "id": "constitution_section_350B"
+  },
+  "id": "constitution_section_350B",
+  "heading": {
+    "number": "Part XVII",
+    "title": "Official Language",
+    "range": "343 – 351"
+  },
+  "article": {
+    "number": "350B",
+    "title": "Special Officer for linguistic minorities",
+    "content": "(1)There shall be a Special Officer for linguistic minorities to be appointed by the President.\n(2)It shall be the duty of the Special Officer to investigate all matters relating to the safeguards provided for linguistic minorities under this Constitution and report to the President upon those matters at such intervals as the President may direct, and the President shall cause all such reports to be laid before each House of Parliament, and sent to the Governments of the States concerned.]\n",
+    "html": "<article class=\"provision\" data-n=\"350B\" data-report=\"Article 350B · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">350B</span>Special Officer for linguistic minorities</h3></div><p class=\"prov-cite\">Article 350B · Part XVII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be a Special Officer for linguistic minorities to be appointed by the President.</p><p><span class=\"lbl\">(2)</span>It shall be the duty of the Special Officer to investigate all matters relating to the safeguards provided for linguistic minorities under this Constitution and report to the President upon those matters at such intervals as the President may direct, and the President shall cause all such reports to be laid before each House of Parliament, and sent to the Governments of the States concerned.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Arts. 350A and 350B ins. by s.21., ibid. (w.e.f. 1-11-1956).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">350B</span>Special Officer for linguistic minorities</h3></div><p class=\"prov-cite\">Article 350B · Part XVII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>There shall be a Special Officer for linguistic minorities to be appointed by the President.</p><p><span class=\"lbl\">(2)</span>It shall be the duty of the Special Officer to investigate all matters relating to the safeguards provided for linguistic minorities under this Constitution and report to the President upon those matters at such intervals as the President may direct, and the President shall cause all such reports to be laid before each House of Parliament, and sent to the Governments of the States concerned.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Arts. 350A and 350B ins. by s.21., ibid. (w.e.f. 1-11-1956).</p></div>"
+  }
+}

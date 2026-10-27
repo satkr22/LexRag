@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-35.html",
+    "source_order": 35,
+    "article_order": 2,
+    "order": 239,
+    "stem": "section_238",
+    "heading_number": "Part IX · Chapter II",
+    "heading_title": "Of Limited Grants",
+    "heading_range": "ss. 237–260",
+    "heading_source": "group-head",
+    "article_number": "238",
+    "article_title": "Probate of contents or lost of destroyed will.",
+    "id": "succession_section_238"
+  },
+  "id": "succession_section_238",
+  "heading": {
+    "number": "Part IX · Chapter II",
+    "title": "Of Limited Grants",
+    "range": "ss. 237–260"
+  },
+  "article": {
+    "number": "238",
+    "title": "Probate of contents or lost of destroyed will.",
+    "content": "When a will has been lost or destroyed and no copy has been made nor the draft preserved, probate may be granted of its contents if they can be established by evidence.\n",
+    "html": "<article class=\"provision\" data-n=\"238\" data-report=\"Section 238 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">238</span>Probate of contents or lost of destroyed will.</h3></div><p class=\"prov-cite\">Section 238  ·  Part IX · Chapter II  ·  page 72 of the Act</p><div class=\"prov-body\"><p>When a will has been lost or destroyed and no copy has been made nor the draft preserved, probate may be granted of its contents if they can be established by evidence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">238</span>Probate of contents or lost of destroyed will.</h3></div><p class=\"prov-cite\">Section 238  ·  Part IX · Chapter II  ·  page 72 of the Act</p><div class=\"prov-body\"><p>When a will has been lost or destroyed and no copy has been made nor the draft preserved, probate may be granted of its contents if they can be established by evidence.</p></div>"
+  }
+}

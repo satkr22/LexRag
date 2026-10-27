@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "sale-of-goods",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "sale-of-goods_sections/section-11.html",
+    "source_order": 11,
+    "article_order": 1,
+    "order": 11,
+    "stem": "section_11",
+    "heading_number": "Chapter II",
+    "heading_title": "Formation of the Contract",
+    "heading_range": "ss. 4–17",
+    "heading_source": "manifest",
+    "article_number": "11",
+    "article_title": "Stipulations as to time.",
+    "id": "sale-of-goods_section_11"
+  },
+  "id": "sale-of-goods_section_11",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Formation of the Contract",
+    "range": "ss. 4–17"
+  },
+  "article": {
+    "number": "11",
+    "title": "Stipulations as to time.",
+    "content": "Conditions and waranties\nUnless a different intention appears from the terms of the contract, stipulations as to time of payment arc not deemed to be of the essence of a contract of sale. Whether any other Stipulation as to time is of the essence of the contract or not depends on the terms of the contract.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Stipulations as to time.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter II  ·  Conditions and warranties  ·  page 6 of the Act</p><div class=\"prov-body\"><p>Conditions and waranties</p><p>Unless a different intention appears from the terms of the contract, stipulations as to time of payment arc not deemed to be of the essence of a contract of sale. Whether any other Stipulation as to time is of the essence of the contract or not depends on the terms of the contract.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Stipulations as to time.</h3></div><p class=\"prov-cite\">Section 11  ·  Chapter II  ·  Conditions and warranties  ·  page 6 of the Act</p><div class=\"prov-body\"><p>Conditions and waranties</p><p>Unless a different intention appears from the terms of the contract, stipulations as to time of payment arc not deemed to be of the essence of a contract of sale. Whether any other Stipulation as to time is of the essence of the contract or not depends on the terms of the contract.</p></div>"
+  }
+}

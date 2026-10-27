@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-19.html",
+    "source_order": 19,
+    "article_order": 1,
+    "order": 248,
+    "stem": "section_248",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Trial before a Court of Session",
+    "heading_range": "248 – 260",
+    "heading_source": "group-head",
+    "article_number": "248",
+    "article_title": "Trial to be conducted by Public Prosecutor",
+    "id": "bnss_section_248"
+  },
+  "id": "bnss_section_248",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Trial before a Court of Session",
+    "range": "248 – 260"
+  },
+  "article": {
+    "number": "248",
+    "title": "Trial to be conducted by Public Prosecutor",
+    "content": "In every trial before a Court of Session, the prosecution shall be conducted by a Public Prosecutor.\n",
+    "html": "<article class=\"provision\" data-n=\"248\" data-report=\"Section 248 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">248</span>Trial to be conducted by Public Prosecutor</h3></div><p class=\"prov-cite\">Section 248 · Chapter XIX</p><div class=\"prov-body\"><p>In every trial before a Court of Session, the prosecution shall be conducted by a Public Prosecutor.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">248</span>Trial to be conducted by Public Prosecutor</h3></div><p class=\"prov-cite\">Section 248 · Chapter XIX</p><div class=\"prov-body\"><p>In every trial before a Court of Session, the prosecution shall be conducted by a Public Prosecutor.</p></div>"
+  }
+}

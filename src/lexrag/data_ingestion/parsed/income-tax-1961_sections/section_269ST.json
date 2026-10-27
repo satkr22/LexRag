@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-46.html",
+    "source_order": 51,
+    "article_order": 2,
+    "order": 772,
+    "stem": "section_269ST",
+    "heading_number": "Chapter XX-B",
+    "heading_title": null,
+    "heading_range": "ss. 269SS–269TT",
+    "heading_source": "group-head",
+    "article_number": "269ST",
+    "article_title": "Mode of undertaking transactions.",
+    "id": "income-tax-1961_section_269ST"
+  },
+  "id": "income-tax-1961_section_269ST",
+  "heading": {
+    "number": "Chapter XX-B",
+    "title": null,
+    "range": "ss. 269SS–269TT"
+  },
+  "article": {
+    "number": "269ST",
+    "title": "Mode of undertaking transactions.",
+    "content": "No person shall receive an amount of two lakh rupees or more—\n(a) in aggregate from a person in a day; or\n(b) in respect of a single transaction; or\n(c) in respect of transactions relating to one event or occasion from a person, otherwise than by an account payee cheque or an account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as may be prescribed:\nProvided that the provisions of this section shall not apply to—\n(i) any receipt by—\n(a) Government;\n(b) any banking company, post office savings bank or co-operative bank;\n(ii) transactions of the nature referred to in section 269SS;\n(iii) such other persons or class of persons or receipts, which the Central Government may, by notification in the Official Gazette, specify.\nExplanation.—For the purposes of this section,—\n(a) \"banking company\" shall have the same meaning as assigned to it in clause (i) of the Explanation to section 269SS;\n(b) \"co-operative bank\" shall have the same meaning as assigned to it in clause (ii) of the Explanation to section 269SS.\n",
+    "html": "<article class=\"provision\" data-n=\"269ST\" data-report=\"Section 269ST · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">269ST</span>Mode of undertaking transactions.</h3></div><p class=\"prov-cite\">Section 269ST  ·  Chapter XX-B  ·  TAX  ·  page 934 of the Act</p><div class=\"prov-body\"><p>No person shall receive an amount of two lakh rupees or more—</p><p class=\"lvl\">(a) in aggregate from a person in a day; or</p><p class=\"lvl\">(b) in respect of a single transaction; or</p><p class=\"lvl\">(c) in respect of transactions relating to one event or occasion from a person, otherwise than by an account payee cheque or an account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as may be prescribed:</p><p class=\"prvso\">Provided that the provisions of this section shall not apply to—</p><p class=\"lvl\">(i) any receipt by—</p><p class=\"lvl\">(a) Government;</p><p class=\"lvl\">(b) any banking company, post office savings bank or co-operative bank;</p><p class=\"lvl\">(ii) transactions of the nature referred to in section 269SS;</p><p class=\"lvl\">(iii) such other persons or class of persons or receipts, which the Central Government may, by notification in the Official Gazette, specify.</p><p class=\"prvso\">Explanation.—For the purposes of this section,—</p><p class=\"lvl\">(a) \"banking company\" shall have the same meaning as assigned to it in clause (i) of the Explanation to section 269SS;</p><p class=\"lvl\">(b) \"co-operative bank\" shall have the same meaning as assigned to it in clause (ii) of the Explanation to section 269SS.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">269ST</span>Mode of undertaking transactions.</h3></div><p class=\"prov-cite\">Section 269ST  ·  Chapter XX-B  ·  TAX  ·  page 934 of the Act</p><div class=\"prov-body\"><p>No person shall receive an amount of two lakh rupees or more—</p><p class=\"lvl\">(a) in aggregate from a person in a day; or</p><p class=\"lvl\">(b) in respect of a single transaction; or</p><p class=\"lvl\">(c) in respect of transactions relating to one event or occasion from a person, otherwise than by an account payee cheque or an account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as may be prescribed:</p><p class=\"prvso\">Provided that the provisions of this section shall not apply to—</p><p class=\"lvl\">(i) any receipt by—</p><p class=\"lvl\">(a) Government;</p><p class=\"lvl\">(b) any banking company, post office savings bank or co-operative bank;</p><p class=\"lvl\">(ii) transactions of the nature referred to in section 269SS;</p><p class=\"lvl\">(iii) such other persons or class of persons or receipts, which the Central Government may, by notification in the Official Gazette, specify.</p><p class=\"prvso\">Explanation.—For the purposes of this section,—</p><p class=\"lvl\">(a) \"banking company\" shall have the same meaning as assigned to it in clause (i) of the Explanation to section 269SS;</p><p class=\"lvl\">(b) \"co-operative bank\" shall have the same meaning as assigned to it in clause (ii) of the Explanation to section 269SS.</p></div>"
+  }
+}

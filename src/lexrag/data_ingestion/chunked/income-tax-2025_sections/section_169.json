@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_169_chunk_0",
+    "section_id": "income-tax-2025_section_169",
+    "token_count": 512,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Avoidance of Tax\n Section: 169::Effect to advance pricing agreement.\n]\n\n\n23 [(1) Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,—\n  (a) furnish a return or a modified return in accordance with and limited to the agreement; and\n  (b) the time period for furnishing such return or modified return shall be three months from the end of the month in which the agreement was entered into, where the tax years relevant for such return or modified return shall be the years covered by such agreement.]\n  (2) Except as provided in this section, all other provisions of this Act shall apply accordingly as if the modified return is a return furnished under section 263.\n  (3) Where a modified return is furnished under sub-section (1), and assessment or reassessment proceedings, in respect of a tax year to which the agreement applies, were initiated before the filing of such return then,—\n  (a) if such proceedings have been completed before the filing of such return, the Assessing Officer shall pass an order modifying the total income of the relevant tax year; or\n  (b) if such proceedings are pending on the date of filing of modified return, the Assessing Officer shall proceed to complete them, as per the agreement after taking into consideration the modified return so furnished.\n  (4) Irrespective of anything contained in section 275 or 286 or 296,—\n  (a) the order in respect of a case falling under sub-section (3)(a) shall be passed within one year from the end of the financial year in which the modified return under sub-section (1) is furnished;\n  (b) in respect of a case falling under sub-section (3)(b), the period of limitation as provided in section 275 or 286 or section 296 for completion of pending assessment or reassessment proceedings shall be extended by twelve months.\n  (5) For the purposes of this section,—\n  (a) \"agreement\" means an agreement referred to in section 168(1);\n  (b) the assessment or reassessment proceedings for a tax year shall be deemed to have been completed where—\n  (i) an assessment or reassessment order has been passed; or",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_169_chunk_0",
+      "section_id": "income-tax-2025_section_169",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Special Provisions Relating to Avoidance of Tax",
+      "section_number": "169",
+      "section_title": "Effect to advance pricing agreement."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_169_chunk_1",
+    "section_id": "income-tax-2025_section_169",
+    "token_count": 115,
+    "text": "[Act: income-tax-2025\n Chapter: Special Provisions Relating to Avoidance of Tax\n Section: 169::Effect to advance pricing agreement.\n]\n\n\n23 [(1) Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,—\n  (ii) no notice has been issued under section 270(8) till the expiry of the limitation period provided under the said section.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_169_chunk_1",
+      "section_id": "income-tax-2025_section_169",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Special Provisions Relating to Avoidance of Tax",
+      "section_number": "169",
+      "section_title": "Effect to advance pricing agreement."
+    }
+  }
+]

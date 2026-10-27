@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-12.html",
+    "source_order": 12,
+    "article_order": 2,
+    "order": 145,
+    "stem": "section_122",
+    "heading_number": "Part III · Chapter IV",
+    "heading_title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "heading_range": "ss. 121–148",
+    "heading_source": "group-head",
+    "article_number": "122",
+    "article_title": "Application by debtor.",
+    "id": "insolvency_section_122"
+  },
+  "id": "insolvency_section_122",
+  "heading": {
+    "number": "Part III · Chapter IV",
+    "title": "Bankruptcy Order for Individuals and Partnership Firm",
+    "range": "ss. 121–148"
+  },
+  "article": {
+    "number": "122",
+    "title": "Application by debtor.",
+    "content": "(1) The application for bankruptcy by the debtor shall be accompanied by—\n(a) the records of insolvency resolution process undertaken under Chapter III of Part III;\n(b) the statement of affairs of the debtor in such form and manner as may be prescribed, on the date of the application for bankruptcy; and\n(c) a copy of the order passed by the Adjudicating Authority under Chapter III of Part III permitting the debtor to apply for bankruptcy.\n(2) The debtor may propose an insolvency professional as the bankruptcy trustee in the application for bankruptcy.\n(3) The application referred to in sub-section (1) shall be in such form and manner and accompanied by such fee as may be prescribed.\n(4) An application for bankruptcy by the debtor shall not be withdrawn without the leave of the Adjudicating Authority.\n",
+    "html": "<article class=\"provision\" data-n=\"122\" data-report=\"Section 122 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">122</span>Application by debtor.</h3></div><p class=\"prov-cite\">Section 122  ·  Part III · Chapter IV  ·  page 105 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The application for bankruptcy by the debtor shall be accompanied by—</p><p class=\"lvl\">(a) the records of insolvency resolution process undertaken under Chapter III of Part III;</p><p class=\"lvl\">(b) the statement of affairs of the debtor in such form and manner as may be prescribed, on the date of the application for bankruptcy; and</p><p class=\"lvl\">(c) a copy of the order passed by the Adjudicating Authority under Chapter III of Part III permitting the debtor to apply for bankruptcy.</p><p class=\"lvl\">(2) The debtor may propose an insolvency professional as the bankruptcy trustee in the application for bankruptcy.</p><p class=\"lvl\">(3) The application referred to in sub-section (1) shall be in such form and manner and accompanied by such fee as may be prescribed.</p><p class=\"lvl\">(4) An application for bankruptcy by the debtor shall not be withdrawn without the leave of the Adjudicating Authority.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">122</span>Application by debtor.</h3></div><p class=\"prov-cite\">Section 122  ·  Part III · Chapter IV  ·  page 105 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The application for bankruptcy by the debtor shall be accompanied by—</p><p class=\"lvl\">(a) the records of insolvency resolution process undertaken under Chapter III of Part III;</p><p class=\"lvl\">(b) the statement of affairs of the debtor in such form and manner as may be prescribed, on the date of the application for bankruptcy; and</p><p class=\"lvl\">(c) a copy of the order passed by the Adjudicating Authority under Chapter III of Part III permitting the debtor to apply for bankruptcy.</p><p class=\"lvl\">(2) The debtor may propose an insolvency professional as the bankruptcy trustee in the application for bankruptcy.</p><p class=\"lvl\">(3) The application referred to in sub-section (1) shall be in such form and manner and accompanied by such fee as may be prescribed.</p><p class=\"lvl\">(4) An application for bankruptcy by the debtor shall not be withdrawn without the leave of the Adjudicating Authority.</p></div>"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_292CC_chunk_0",
+    "section_id": "income-tax-1961_section_292CC",
+    "token_count": 220,
+    "text": "[Act: income-tax-1961\n Chapter: Miscellaneous\n Section: 292CC::Authorisation and assessment in case of search or requisition.\n]\n\n\n(1) Notwithstanding anything contained in this Act,—\n(i) it shall not be necessary to issue an authorisation under section 132 or make a requisition under section 132A separately in the name of each person;\n(ii) where an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the mention of such names of more than one person on such authorisation or requisition shall not be deemed to construe that it was issued in the name of an association of persons or body of individuals consisting of such persons.\n(2) Notwithstanding that an authorisation under section 132 has been issued or requisition under section 132A has been made mentioning therein the name of more than one person, the assessment or reassessment shall be made separately in the name of each of the persons mentioned in such authorisation or requisition.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_292CC_chunk_0",
+      "section_id": "income-tax-1961_section_292CC",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "292CC",
+      "section_title": "Authorisation and assessment in case of search or requisition."
+    }
+  }
+]

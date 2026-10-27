@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-44.html",
+    "source_order": 45,
+    "article_order": 1,
+    "order": 45,
+    "stem": "section_44",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of the Performance of Contracts",
+    "heading_range": "ss. 37–67",
+    "heading_source": "manifest",
+    "article_number": "44",
+    "article_title": "Effect of release of one joint promisor.",
+    "id": "contract_section_44"
+  },
+  "id": "contract_section_44",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of the Performance of Contracts",
+    "range": "ss. 37–67"
+  },
+  "article": {
+    "number": "44",
+    "title": "Effect of release of one joint promisor.",
+    "content": "Where two or more persons have made a joint promise, a release of one of such joint promisors by the promisee does not discharge the other joint promisor or joint promisors; neither does it free the joint promisors so released from responsibility to the other joint promisor or joint promisors.1\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">44</span>Effect of release of one joint promisor.</h3></div><p class=\"prov-cite\">Section 44  ·  Chapter IV  ·  By whom contracts must be performed  ·  page 23 of the Act</p><div class=\"prov-body\"><p>Where two or more persons have made a joint promise, a release of one of such joint promisors by the promisee does not discharge the other joint promisor or joint promisors; neither does it free the joint promisors so released from responsibility to the other joint promisor or joint promisors.<sup>1</sup></p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> See s. 138, infra.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">44</span>Effect of release of one joint promisor.</h3></div><p class=\"prov-cite\">Section 44  ·  Chapter IV  ·  By whom contracts must be performed  ·  page 23 of the Act</p><div class=\"prov-body\"><p>Where two or more persons have made a joint promise, a release of one of such joint promisors by the promisee does not discharge the other joint promisor or joint promisors; neither does it free the joint promisors so released from responsibility to the other joint promisor or joint promisors.<sup>1</sup></p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> See s. 138, infra.</p></div></div>"
+  }
+}

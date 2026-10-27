@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_4_chunk_0",
+    "section_id": "technology_section_4",
+    "token_count": 98,
+    "text": "[Act: technology\n Chapter: Electronic Governance\n Section: 4::Legal recognition of electronic records.\n]\n\n\nWhere any law provides that information or any other matter shall be in writing or in the typewritten or printed form, then, notwithstanding anything contained in such law, such requirement shall be deemed to have been satisfied if such information or matter is–\n(a) rendered or made available in an electronic form; and\n(b) accessible so as to be usable for a subsequent reference.",
+    "metadata": {
+      "chunk_id": "technology_section_4_chunk_0",
+      "section_id": "technology_section_4",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Electronic Governance",
+      "section_number": "4",
+      "section_title": "Legal recognition of electronic records."
+    }
+  }
+]

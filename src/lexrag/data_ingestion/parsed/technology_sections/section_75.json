@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "technology",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "technology_sections/section-75.html",
+    "source_order": 102,
+    "article_order": 1,
+    "order": 102,
+    "stem": "section_75",
+    "heading_number": "Chapter XI",
+    "heading_title": "Offences",
+    "heading_range": "ss. 65–78",
+    "heading_source": "manifest",
+    "article_number": "75",
+    "article_title": "Act to apply for offence or contravention committed outside India.",
+    "id": "technology_section_75"
+  },
+  "id": "technology_section_75",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Offences",
+    "range": "ss. 65–78"
+  },
+  "article": {
+    "number": "75",
+    "title": "Act to apply for offence or contravention committed outside India.",
+    "content": "(1) Subject to the provisions of sub-section (2), the provisions of this Act shall apply also to any offence or contravention committed outside India by any person irrespective of his nationality.\n(2) For the purposes of sub-section (1), this Act shall apply to an offence or contravention committed outside India by any person if the act or conduct constituting the offence or contravention involves a computer, computer system or computer network located in India.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Act to apply for offence or contravention committed outside India.</h3></div><p class=\"prov-cite\">Section 75  ·  Chapter XI  ·  page 29 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of sub-section (2), the provisions of this Act shall apply also to any offence or contravention committed outside India by any person irrespective of his nationality.</p><p class=\"lvl\">(2) For the purposes of sub-section (1), this Act shall apply to an offence or contravention committed outside India by any person if the act or conduct constituting the offence or contravention involves a computer, computer system or computer network located in India.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">75</span>Act to apply for offence or contravention committed outside India.</h3></div><p class=\"prov-cite\">Section 75  ·  Chapter XI  ·  page 29 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions of sub-section (2), the provisions of this Act shall apply also to any offence or contravention committed outside India by any person irrespective of his nationality.</p><p class=\"lvl\">(2) For the purposes of sub-section (1), this Act shall apply to an offence or contravention committed outside India by any person if the act or conduct constituting the offence or contravention involves a computer, computer system or computer network located in India.</p></div>"
+  }
+}

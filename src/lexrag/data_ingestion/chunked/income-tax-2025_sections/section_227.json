@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_227_chunk_0",
+    "section_id": "income-tax-2025_section_227",
+    "token_count": 498,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 227::Computation of tonnage income.\n]\n\n\n(1) The tonnage income of a tonnage tax company for a tax year shall be the aggregate of the tonnage income of each qualifying ship computed as per sub-sections (2) and (3).\n  (2) For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N where,— TI = the tonnage income of each qualifying ship; DTI = the daily tonnage income of each qualifying ship; N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.\n  (3) For the purposes of sub-section (2), the daily tonnage income of a qualifying ship having tonnage referred to in column B of the Table below shall be the amount specified in the corresponding entity in column C thereof:\n  (4) For the purposes of this Part of the Chapter, the tonnage shall—\n  (a) mean the tonnage of a ship or inland vessel, as the case may be, indicated in the 37 [valid certificate] referred to in sub-section (9); and\n  (b) include the deemed tonnage, being the tonnage in respect of an arrangement of purchase of slots, slot charter and an arrangement of sharing of break-bulk vessel, computed in the manner, as may be prescribed.\n  (5) The tonnage shall be rounded off to the nearest multiple of hundred tons and for this purpose any tonnage consisting of kilograms shall be ignored and if the tonnage so rounded off is not a multiple of hundred, then, if the last figure in that amount is,—\n  (a) fifty tons or more, the tonnage shall be increased to the next higher tonnage;\n  (b) less than fifty tons, the tonnage shall be reduced to the next lower tonnage, which is a multiple of hundred and the tonnage so rounded off shall be the tonnage of the ship for the purposes of this section.\n  (6) No deduction or set off shall be allowed in computing the tonnage income under this Part of the Chapter, irrespective of anything contained in any other provision of this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_227_chunk_0",
+      "section_id": "income-tax-2025_section_227",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "227",
+      "section_title": "Computation of tonnage income."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_227_chunk_1",
+    "section_id": "income-tax-2025_section_227",
+    "token_count": 480,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 227::Computation of tonnage income.\n]\n\n\n(1) The tonnage income of a tonnage tax company for a tax year shall be the aggregate of the tonnage income of each qualifying ship computed as per sub-sections (2) and (3).\n  (7) Where a qualifying ship is operated by two or more companies by way of—\n  (a) joint interest in the ship; or\n  (b) an agreement for the use of the ship, and their respective shares are definite and ascertainable, the tonnage income of each such company shall be an amount equal to a share of income proportionate to its share of that interest.\n  (8) Subject to the provisions of sub-section (7), where two or more companies are operators of a qualifying ship, the tonnage income of each company shall be computed as if each had been the only operator.\n  (9) For the purposes of this Part,—\n  (a) the tonnage of a ship or inland vessel, as the case may be, shall be determined as per the valid certificate indicating its tonnage;\n  (b) \"valid certificate\" means,—\n  (i) in case of ships registered in India,—\n  (A) having a length of less than twenty-four metres, a certificate issued under the Merchant Shipping (Tonnage Measurement of Ship) Rules, 1987 made under the Merchant Shipping Act, 1958 (44 of 1958);\n  (B) having a length of twenty-four metres or more, an international tonnage certificate issued under the provisions of the Convention on Tonnage Measurement of Ships, 1969, as specified in the Merchant Shipping (Tonnage Measurement of Ship) Rules, 1987 made under the said Act;\n  (ii) in case of ships registered outside India, a licence issued by the Director-General of Shipping under section 406 or 407 of the Merchant Shipping Act, 1958 (44 of 1958) specifying the net tonnage on the basis of Tonnage Certificate issued by the Flag State Administration, where the ship is registered or any other evidence acceptable to the Director-General of Shipping produced by the ship owner while seeking permission for chartering in the ship;",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_227_chunk_1",
+      "section_id": "income-tax-2025_section_227",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "227",
+      "section_title": "Computation of tonnage income."
+    }
+  },
+  {
+    "chunk_id": "income-tax-2025_section_227_chunk_2",
+    "section_id": "income-tax-2025_section_227",
+    "token_count": 116,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 227::Computation of tonnage income.\n]\n\n\n(1) The tonnage income of a tonnage tax company for a tax year shall be the aggregate of the tonnage income of each qualifying ship computed as per sub-sections (2) and (3).\n  (iii) in case of inland vessel registered in India, a 38 [certificate of registration] issued under the Inland Vessels Act, 2021 (24 of 2021).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_227_chunk_2",
+      "section_id": "income-tax-2025_section_227",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 2,
+      "is_intact_section": false,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "227",
+      "section_title": "Computation of tonnage income."
+    }
+  }
+]

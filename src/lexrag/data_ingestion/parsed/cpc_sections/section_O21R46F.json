@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-38.html",
+    "source_order": 38,
+    "article_order": 55,
+    "order": 532,
+    "stem": "section_O21R46F",
+    "heading_number": "Order XXI",
+    "heading_title": "Execution of Decrees and Orders",
+    "heading_range": "119 rules",
+    "heading_source": "group-head",
+    "article_number": "O21R46F",
+    "article_title": "Payment by garnishee to be valid discharge.",
+    "id": "cpc_section_O21R46F"
+  },
+  "id": "cpc_section_O21R46F",
+  "heading": {
+    "number": "Order XXI",
+    "title": "Execution of Decrees and Orders",
+    "range": "119 rules"
+  },
+  "article": {
+    "number": "O21R46F",
+    "title": "Payment by garnishee to be valid discharge.",
+    "content": "Payment made by the garnishee on notice under rule 46A or under any such order as aforesaid shall be a valid discharge to him as against the judgment-debtor and any other person ordered to appear as aforesaid for the amount paid or levied, although the decree in execution of which the application under rule 46A was made, or the order passed in the proceedings on such application may be set aside or reversed.\n",
+    "html": "<article class=\"provision\" data-n=\"O21R46F\" data-report=\"Order 21, Rule 46F · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46F</span>Payment by garnishee to be valid discharge.</h3></div><p class=\"prov-cite\">Order 21, Rule 46F</p><div class=\"prov-body\"><p>Payment made by the garnishee on notice under rule 46A or under any such order as aforesaid shall be a valid discharge to him as against the judgment-debtor and any other person ordered to appear as aforesaid for the amount paid or levied, although the decree in execution of which the application under rule 46A was made, or the order passed in the proceedings on such application may be set aside or reversed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">46F</span>Payment by garnishee to be valid discharge.</h3></div><p class=\"prov-cite\">Order 21, Rule 46F</p><div class=\"prov-body\"><p>Payment made by the garnishee on notice under rule 46A or under any such order as aforesaid shall be a valid discharge to him as against the judgment-debtor and any other person ordered to appear as aforesaid for the amount paid or levied, although the decree in execution of which the application under rule 46A was made, or the order passed in the proceedings on such application may be set aside or reversed.</p></div>"
+  }
+}

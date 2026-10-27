@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-36.html",
+    "source_order": 36,
+    "article_order": 6,
+    "order": 502,
+    "stem": "section_502",
+    "heading_number": "Chapter XXXVI",
+    "heading_title": "Disposal of Property",
+    "heading_range": "497 – 505",
+    "heading_source": "group-head",
+    "article_number": "502",
+    "article_title": "Power to restore possession of immovable property",
+    "id": "bnss_section_502"
+  },
+  "id": "bnss_section_502",
+  "heading": {
+    "number": "Chapter XXXVI",
+    "title": "Disposal of Property",
+    "range": "497 – 505"
+  },
+  "article": {
+    "number": "502",
+    "title": "Power to restore possession of immovable property",
+    "content": "(1)When a person is convicted of an offence by use of criminal force or show of force or by criminal intimidation, and it appears to the Court that, by such use of force or show of force or intimidation, any person has been dispossessed of any immovable property, the Court may, if it thinks fit, order that possession of the same be restored to that person after evicting by force, if necessary, any other person who may be in possession of the property:\nProvisoProvided that no such order shall be made by the Court more than one month after the date of the conviction.\n(2)Where the Court trying the offence has not made an order under sub-section (1), the Court of appeal, confirmation or revision may, if it thinks fit, make such order while disposing of the appeal, reference or revision, as the case may be.\n(3)Where an order has been made under sub-section (1), the provisions of section 500 shall apply in relation thereto as they apply in relation to an order under section 499.\n(4)No order made under this section shall prejudice any right or interest to or in such immovable property which any person may be able to establish in a civil suit.\n",
+    "html": "<article class=\"provision\" data-n=\"502\" data-report=\"Section 502 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">502</span>Power to restore possession of immovable property</h3></div><p class=\"prov-cite\">Section 502 · Chapter XXXVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a person is convicted of an offence by use of criminal force or show of force or by criminal intimidation, and it appears to the Court that, by such use of force or show of force or intimidation, any person has been dispossessed of any immovable property, the Court may, if it thinks fit, order that possession of the same be restored to that person after evicting by force, if necessary, any other person who may be in possession of the property:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no such order shall be made by the Court more than one month after the date of the conviction.</p><p><span class=\"lbl\">(2)</span>Where the Court trying the offence has not made an order under sub-section (1), the Court of appeal, confirmation or revision may, if it thinks fit, make such order while disposing of the appeal, reference or revision, as the case may be.</p><p><span class=\"lbl\">(3)</span>Where an order has been made under sub-section (1), the provisions of section 500 shall apply in relation thereto as they apply in relation to an order under section 499.</p><p><span class=\"lbl\">(4)</span>No order made under this section shall prejudice any right or interest to or in such immovable property which any person may be able to establish in a civil suit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">502</span>Power to restore possession of immovable property</h3></div><p class=\"prov-cite\">Section 502 · Chapter XXXVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When a person is convicted of an offence by use of criminal force or show of force or by criminal intimidation, and it appears to the Court that, by such use of force or show of force or intimidation, any person has been dispossessed of any immovable property, the Court may, if it thinks fit, order that possession of the same be restored to that person after evicting by force, if necessary, any other person who may be in possession of the property:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no such order shall be made by the Court more than one month after the date of the conviction.</p><p><span class=\"lbl\">(2)</span>Where the Court trying the offence has not made an order under sub-section (1), the Court of appeal, confirmation or revision may, if it thinks fit, make such order while disposing of the appeal, reference or revision, as the case may be.</p><p><span class=\"lbl\">(3)</span>Where an order has been made under sub-section (1), the provisions of section 500 shall apply in relation thereto as they apply in relation to an order under section 499.</p><p><span class=\"lbl\">(4)</span>No order made under this section shall prejudice any right or interest to or in such immovable property which any person may be able to establish in a civil suit.</p></div>"
+  }
+}

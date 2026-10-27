@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_195_chunk_0",
+    "section_id": "income-tax-2025_section_195",
+    "token_count": 264,
+    "text": "[Act: income-tax-2025\n Chapter: Determination of Tax in Special Cases\n Section: 195::Tax on income referred to in sections 102 to 106.\n]\n\n\n(1) Where the total income of an assessee—\n(a) includes any income referred to in section 102 or 103 or 104 or 105 or 106 and reflected in the return of income furnished under section 263; or\n(b) determined by the Assessing Officer includes any income referred to in any of the said section 102 or 103 or 104 or 105 or 106, if such income is not covered under clause (a), the income-tax payable shall be the aggregate of—\n(i) income-tax calculated on the income referred to in clauses (a) and (b), at the rate of 24[30%]; and\n(ii) income-tax with which the assessee would have been chargeable had his total income been reduced by income referred to in clause (i).\n(2) Irrespective of anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing his income referred to in sub-section (1)(a) and (b).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_195_chunk_0",
+      "section_id": "income-tax-2025_section_195",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Determination of Tax in Special Cases",
+      "section_number": "195",
+      "section_title": "Tax on income referred to in sections 102 to 106."
+    }
+  }
+]

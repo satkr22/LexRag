@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_10_chunk_0",
+    "section_id": "motor-vehicles_section_10",
+    "token_count": 167,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 10::Form and contents of licences to drive.\n]\n\n\n(1) Every learner’s licence and driving licence, except a driving licence issued under section 18, shall be in such form and shall contain such information as may be prescribed by the Central Government.\n(2) A learner’s licence or, as the case may be, driving licence shall also be expressed as entitling the holder to drive a motor vehicle of one or more of the following classes, namely:—\n(a) motor cycle without gear;\n(b) motor cycle with gear;\n(c) 4[adapted vehicle];\n(d) light motor vehicle;\n5[(e) transport vehicle;]\n(i) road-roller;\n(j) motor vehicle of a specified description.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_10_chunk_0",
+      "section_id": "motor-vehicles_section_10",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "10",
+      "section_title": "Form and contents of licences to drive."
+    }
+  }
+]

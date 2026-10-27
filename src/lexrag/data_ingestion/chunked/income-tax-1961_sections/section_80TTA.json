@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80TTA_chunk_0",
+    "section_id": "income-tax-1961_section_80TTA",
+    "token_count": 389,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80TTA::Deduction in respect of interest on deposits in savings account.\n]\n\n\n(1) Where the gross total income of an assessee (other than the assessee referred to in section 80TTB)], being an individual or a Hindu undivided family, includes any income by way of interest on deposits (not being time deposits) in a savings account with—\n(a) a banking company to which the Banking Regulation Act, 1949 (10 of 1949), applies (including any bank or banking institution referred to in section 51 of that Act);\n(b) a co-operative society engaged in carrying on the business of banking (including a co-operative land mortgage bank or a co-operative land development bank); or\n(c) a Post Office as defined in clause (k) of section 2 of the Indian Post Office Act, 1898 (6 of 1898), there shall, in accordance with and subject to the provisions of this section, be allowed, in computing the total income of the assessee a deduction as specified hereunder, namely:—\n(i) in a case where the amount of such income does not exceed in the aggregate ten thousand rupees, the whole of such amount; and\n(ii) in any other case, ten thousand rupees.\n(2) Where the income referred to in this section is derived from any deposit in a savings account held by, or on behalf of, a firm, an association of persons or a body of individuals, no deduction shall be allowed under this section in respect of such income in computing the total income of any partner of the firm or any member of the association or any individual of the body.\nExplanation.—For the purposes of this section, \"time deposits\" means the deposits repayable on expiry of fixed periods.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80TTA_chunk_0",
+      "section_id": "income-tax-1961_section_80TTA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80TTA",
+      "section_title": "Deduction in respect of interest on deposits in savings account."
+    }
+  }
+]

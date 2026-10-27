@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-06.html",
+    "source_order": 6,
+    "article_order": 6,
+    "order": 68,
+    "stem": "section_68",
+    "heading_number": "Chapter VI",
+    "heading_title": "Processes to Compel Appearance",
+    "heading_range": "63 – 93",
+    "heading_source": "group-head",
+    "article_number": "68",
+    "article_title": "Service on Government servant",
+    "id": "bnss_section_68"
+  },
+  "id": "bnss_section_68",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Processes to Compel Appearance",
+    "range": "63 – 93"
+  },
+  "article": {
+    "number": "68",
+    "title": "Service on Government servant",
+    "content": "(1)Where the person summoned is in the active service of the Government, the Court issuing the summons shall ordinarily send it in duplicate to the head of the office in which such person is employed; and such head shall thereupon cause the summons to be served in the manner provided by section 64, and shall return it to the Court under his signature with the endorsement required by that section.\n(2)Such signature shall be evidence of due service.\n",
+    "html": "<article class=\"provision\" data-n=\"68\" data-report=\"Section 68 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">68</span>Service on Government servant</h3></div><p class=\"prov-cite\">Section 68 · Chapter VI · Summons</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Where the person summoned is in the active service of the Government, the Court issuing the summons shall ordinarily send it in duplicate to the head of the office in which such person is employed; and such head shall thereupon cause the summons to be served in the manner provided by section 64, and shall return it to the Court under his signature with the endorsement required by that section.</p><p><span class=\"lbl\">(2)</span>Such signature shall be evidence of due service.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">68</span>Service on Government servant</h3></div><p class=\"prov-cite\">Section 68 · Chapter VI · Summons</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Where the person summoned is in the active service of the Government, the Court issuing the summons shall ordinarily send it in duplicate to the head of the office in which such person is employed; and such head shall thereupon cause the summons to be served in the manner provided by section 64, and shall return it to the Court under his signature with the endorsement required by that section.</p><p><span class=\"lbl\">(2)</span>Such signature shall be evidence of due service.</p></div>"
+  }
+}

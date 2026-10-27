@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_15_chunk_0",
+    "section_id": "sale-of-goods_section_15",
+    "token_count": 91,
+    "text": "[Act: sale-of-goods\n Chapter: Formation of the Contract\n Section: 15::Sale by description.\n]\n\n\nWhere there is a contract for the sale of goods by description, there is an implied condition that the goods shall correspond with the description; and, if the sale is by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_15_chunk_0",
+      "section_id": "sale-of-goods_section_15",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Formation of the Contract",
+      "section_number": "15",
+      "section_title": "Sale by description."
+    }
+  }
+]

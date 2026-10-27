@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 19,
+    "order": 82,
+    "stem": "section_70",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "70",
+    "article_title": "Discharge of President's functions in other contingencies",
+    "id": "constitution_section_70"
+  },
+  "id": "constitution_section_70",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "70",
+    "title": "Discharge of President's functions in other contingencies",
+    "content": "Parliament may make such provision as it thinks fit for the discharge of the functions of the President in any contingency not provided for in this Chapter.\n",
+    "html": "<article class=\"provision\" data-n=\"70\" data-report=\"Article 70 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Discharge of President's functions in other contingencies</h3></div><p class=\"prov-cite\">Article 70 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p>Parliament may make such provision as it thinks fit for the discharge of the functions of the President in any contingency not provided for in this Chapter.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">70</span>Discharge of President's functions in other contingencies</h3></div><p class=\"prov-cite\">Article 70 · Part V · The President and Vice-President</p><div class=\"prov-body\"><p>Parliament may make such provision as it thinks fit for the discharge of the functions of the President in any contingency not provided for in this Chapter.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "specific-relief",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "specific-relief_sections/section-38.html",
+    "source_order": 42,
+    "article_order": 1,
+    "order": 42,
+    "stem": "section_38",
+    "heading_number": "Part III · Chapter VIII",
+    "heading_title": "Perpetual Injunctions",
+    "heading_range": "ss. 38–44",
+    "heading_source": "manifest",
+    "article_number": "38",
+    "article_title": "Perpetual injunction when granted.",
+    "id": "specific-relief_section_38"
+  },
+  "id": "specific-relief_section_38",
+  "heading": {
+    "number": "Part III · Chapter VIII",
+    "title": "Perpetual Injunctions",
+    "range": "ss. 38–44"
+  },
+  "article": {
+    "number": "38",
+    "title": "Perpetual injunction when granted.",
+    "content": "(1) Subject to the other provisions contained in or referred to by this Chapter, a perpetual injunction may be granted to the plaintiff to prevent the breach of an obligation existing in his favour, whether expressly or by implication.\n(2) When any such obligation arises from contract, the court shall be guided by the rules and provisions contained in Chapter II.\n(3) When the defendant invades or threatens to invade the plaintiff’s right to, or enjoyment of, property, the court may grant a perpetual injunction in the following cases, namely:—\n(a) where the defendant is trustee of the property for the plaintiff;\n(b) where there exists no standard for ascertaining the actual damage caused, or likely to be caused, by the invasion;\n(c) where the invasion is such that compensation in money would not afford adequate relief;\n(d) where the injunction is necessary to prevent a multiplicity of judicial proceedings.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>Perpetual injunction when granted.</h3></div><p class=\"prov-cite\">Section 38  ·  Part III · Chapter VIII  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the other provisions contained in or referred to by this Chapter, a perpetual injunction may be granted to the plaintiff to prevent the breach of an obligation existing in his favour, whether expressly or by implication.</p><p class=\"lvl\">(2) When any such obligation arises from contract, the court shall be guided by the rules and provisions contained in Chapter II.</p><p class=\"lvl\">(3) When the defendant invades or threatens to invade the plaintiff’s right to, or enjoyment of, property, the court may grant a perpetual injunction in the following cases, namely:—</p><p class=\"lvl\">(a) where the defendant is trustee of the property for the plaintiff;</p><p class=\"lvl\">(b) where there exists no standard for ascertaining the actual damage caused, or likely to be caused, by the invasion;</p><p class=\"lvl\">(c) where the invasion is such that compensation in money would not afford adequate relief;</p><p class=\"lvl\">(d) where the injunction is necessary to prevent a multiplicity of judicial proceedings.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">38</span>Perpetual injunction when granted.</h3></div><p class=\"prov-cite\">Section 38  ·  Part III · Chapter VIII  ·  page 14 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the other provisions contained in or referred to by this Chapter, a perpetual injunction may be granted to the plaintiff to prevent the breach of an obligation existing in his favour, whether expressly or by implication.</p><p class=\"lvl\">(2) When any such obligation arises from contract, the court shall be guided by the rules and provisions contained in Chapter II.</p><p class=\"lvl\">(3) When the defendant invades or threatens to invade the plaintiff’s right to, or enjoyment of, property, the court may grant a perpetual injunction in the following cases, namely:—</p><p class=\"lvl\">(a) where the defendant is trustee of the property for the plaintiff;</p><p class=\"lvl\">(b) where there exists no standard for ascertaining the actual damage caused, or likely to be caused, by the invasion;</p><p class=\"lvl\">(c) where the invasion is such that compensation in money would not afford adequate relief;</p><p class=\"lvl\">(d) where the injunction is necessary to prevent a multiplicity of judicial proceedings.</p></div>"
+  }
+}

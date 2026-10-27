@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-10.html",
+    "source_order": 10,
+    "article_order": 4,
+    "order": 155,
+    "stem": "section_143",
+    "heading_number": "Chapter X",
+    "heading_title": "Liability Without Fault in Certain Cases",
+    "heading_range": "ss. 140–144",
+    "heading_source": "group-head",
+    "article_number": "143",
+    "article_title": "Applicability of Chapter to certain claims under Act 8 of 1923",
+    "id": "motor-vehicles_section_143"
+  },
+  "id": "motor-vehicles_section_143",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Liability Without Fault in Certain Cases",
+    "range": "ss. 140–144"
+  },
+  "article": {
+    "number": "143",
+    "title": "Applicability of Chapter to certain claims under Act 8 of 1923",
+    "content": "",
+    "html": "<article class=\"provision dead\" data-n=\"143\" data-report=\"Section 143 · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">143</span>Applicability of Chapter to certain claims under Act 8 of 1923</h3></div><p class=\"repnote\">Omitted by Act 32 of 2019, s. 50 (w.e.f. 1-4-2022).</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">143</span>Applicability of Chapter to certain claims under Act 8 of 1923</h3></div><p class=\"repnote\">Omitted by Act 32 of 2019, s. 50 (w.e.f. 1-4-2022).</p>"
+  }
+}

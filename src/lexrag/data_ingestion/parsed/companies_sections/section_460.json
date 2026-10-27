@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-30.html",
+    "source_order": 30,
+    "article_order": 15,
+    "order": 515,
+    "stem": "section_460",
+    "heading_number": "Chapter XXIX",
+    "heading_title": "Miscellaneous",
+    "heading_range": "ss. 447–470",
+    "heading_source": "group-head",
+    "article_number": "460",
+    "article_title": "Condonation of delay in certain cases.",
+    "id": "companies_section_460"
+  },
+  "id": "companies_section_460",
+  "heading": {
+    "number": "Chapter XXIX",
+    "title": "Miscellaneous",
+    "range": "ss. 447–470"
+  },
+  "article": {
+    "number": "460",
+    "title": "Condonation of delay in certain cases.",
+    "content": "Notwithstanding anything contained in this Act,—\n(a) where any application required to be made to the Central Government under any provision of this Act in respect of any matter is not made within the time specified therein, that Government may, for reasons to be recorded in writing, condone the delay; and\n(b) where any document required to be filed with the Registrar under any provision of this Act is not filed within the time specified therein, the Central Government may, for reasons to be recorded in writing, condone the delay.\n",
+    "html": "<article class=\"provision\" data-n=\"460\" data-report=\"Section 460 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">460</span>Condonation of delay in certain cases.</h3></div><p class=\"prov-cite\">Section 460  ·  Chapter XXIX  ·  page 248 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in this Act,—</p><p class=\"lvl\">(a) where any application required to be made to the Central Government under any provision of this Act in respect of any matter is not made within the time specified therein, that Government may, for reasons to be recorded in writing, condone the delay; and</p><p class=\"lvl\">(b) where any document required to be filed with the Registrar under any provision of this Act is not filed within the time specified therein, the Central Government may, for reasons to be recorded in writing, condone the delay.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">460</span>Condonation of delay in certain cases.</h3></div><p class=\"prov-cite\">Section 460  ·  Chapter XXIX  ·  page 248 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in this Act,—</p><p class=\"lvl\">(a) where any application required to be made to the Central Government under any provision of this Act in respect of any matter is not made within the time specified therein, that Government may, for reasons to be recorded in writing, condone the delay; and</p><p class=\"lvl\">(b) where any document required to be filed with the Registrar under any provision of this Act is not filed within the time specified therein, the Central Government may, for reasons to be recorded in writing, condone the delay.</p></div>"
+  }
+}

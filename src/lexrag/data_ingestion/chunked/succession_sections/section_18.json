@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_18_chunk_0",
+    "section_id": "succession_section_18",
+    "token_count": 50,
+    "text": "[Act: succession\n Chapter: Of Domicile\n Section: 18::Lunatic’s acquisition of new domicile.\n]\n\n\nAn insane person cannot acquire a new domicile in any other way than by his domicile following the domicile of another person.",
+    "metadata": {
+      "chunk_id": "succession_section_18_chunk_0",
+      "section_id": "succession_section_18",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part II",
+      "chapter_title": "Of Domicile",
+      "section_number": "18",
+      "section_title": "Lunatic’s acquisition of new domicile."
+    }
+  }
+]

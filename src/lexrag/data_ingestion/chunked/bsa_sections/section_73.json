@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_73_chunk_0",
+    "section_id": "bsa_section_73",
+    "token_count": 106,
+    "text": "[Act: bsa\n Chapter: Of Documentary Evidence\n Section: 73::Proof as to verification of digital signature\n]\n\n\nIn order to ascertain whether a digital signature is that of the person by whom it purports to have been affixed, the Court may direct—\n(a)that person or the Controller or the Certifying Authority to produce the Digital Signature Certificate;\n(b)any other person to apply the public key listed in the Digital Signature Certificate and verify the digital signature purported to have been affixed by that person.",
+    "metadata": {
+      "chunk_id": "bsa_section_73_chunk_0",
+      "section_id": "bsa_section_73",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Documentary Evidence",
+      "section_number": "73",
+      "section_title": "Proof as to verification of digital signature"
+    }
+  }
+]

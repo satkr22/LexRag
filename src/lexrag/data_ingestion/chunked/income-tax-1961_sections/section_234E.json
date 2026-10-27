@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_234E_chunk_0",
+    "section_id": "income-tax-1961_section_234E",
+    "token_count": 285,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 234E::Fee for default in furnishing statements.\n]\n\n\n(1) Without prejudice to the provisions of the Act, where a person fails to deliver or cause to be delivered a statement within the time prescribed in sub-section (3) of section 200 or the proviso to sub-section (3) of section 206C, he shall be liable to pay, by way of fee, a sum of two hundred rupees for every day during which the failure continues.\n(2) The amount of fee referred to in sub-section (1) shall not exceed the amount of tax deductible or collectible, as the case may be.\n(3) The amount of fee referred to in sub-section (1) shall be paid before delivering or causing to be delivered a statement in accordance with sub-section (3) of section 200 or the proviso to sub-section (3) of section 206C.\n(4) The provisions of this section shall apply to a statement referred to in sub-section (3) of section 200 or the proviso to sub-section (3) of section 206C which is to be delivered or caused to be delivered for tax deducted at source or tax collected at source, as the case may be, on or after the 1st day of July, 2012.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_234E_chunk_0",
+      "section_id": "income-tax-1961_section_234E",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "234E",
+      "section_title": "Fee for default in furnishing statements."
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "If a married woman dies under unnatural circumstances within seven years of marriage following continuous harassment for dowry, what penal offence is committed under the substantive criminal law, and what statutory presumption regarding its causation arises under evidence law?",
+    "referenced_sections": [
+      "bns_section_80",
+      "bsa_section_118"
+    ],
+    "answer": "Under the Bharatiya Nyaya Sanhita, causing the death of a woman by burns, bodily injury, or unnatural circumstances within seven years of marriage after subjecting her to cruelty or harassment for dowry constitutes the offence of 'Dowry death'. Under the Bharatiya Sakshya Adhiniyam, when a person is prosecuted for dowry death and it is shown that soon before her death the woman was subjected to cruelty or harassment for dowry, the Court shall presume that such person caused the dowry death."
+  },
+  {
+    "question": "When a married woman commits suicide within seven years from the date of her marriage after being subjected to cruelty by her husband, what substantive offence applies to those who abetted her, and what evidentiary presumption can the court draw regarding their role?",
+    "referenced_sections": [
+      "bns_section_108",
+      "bsa_section_117"
+    ],
+    "answer": "The substantive penal code penalizes this as 'Abetment of suicide' under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, if a woman commits suicide within seven years of marriage and was subjected to cruelty by her husband or his relative, the Court may presume that such suicide had been abetted by her husband or relative."
+  },
+  {
+    "question": "In a prosecution for rape where sexual intercourse by the accused is proved and the victim states in her testimony that she did not consent, how does substantive law penalize the act, and what presumption does evidence law mandate regarding her consent?",
+    "referenced_sections": [
+      "bns_section_63",
+      "bsa_section_120"
+    ],
+    "answer": "Under the Bharatiya Nyaya Sanhita, non-consensual sexual acts under specified circumstances constitute the offence of Rape. Under the Bharatiya Sakshya Adhiniyam, if sexual intercourse by the accused is proved and the victim states in her evidence before the Court that she did not consent, the Court shall presume that she did not consent."
+  },
+  {
+    "question": "In a trial for gang rape, what section of the substantive penal law defines the punishment for the crime, and how does the evidence law restrict the defence from introducing evidence regarding the victim's past sexual experience or general character?",
+    "referenced_sections": [
+      "bns_section_70",
+      "bsa_section_48"
+    ],
+    "answer": "The Bharatiya Nyaya Sanhita defines and sets punishment for 'Gang rape'. Under the Bharatiya Sakshya Adhiniyam, in prosecutions for sexual offences including gang rape, evidence of the character of the victim or of such person's previous sexual experience with any person is not relevant on the issue of consent or the quality of consent."
+  },
+  {
+    "question": "How is an agreement between two or more persons to commit an illegal act penalized under criminal law, and what rule under evidence law allows statements or acts made by one co-conspirator to be used against the others?",
+    "referenced_sections": [
+      "bns_section_61",
+      "bsa_section_8"
+    ],
+    "answer": "Under the Bharatiya Nyaya Sanhita, an agreement to perform or cause an illegal act constitutes 'Criminal conspiracy'. Under the Bharatiya Sakshya Adhiniyam, where there is reasonable ground to believe two or more persons conspired together to commit an offence, anything said, done, or written by any one of them in reference to their common intention is a relevant fact against each co-conspirator."
+  },
+  {
+    "question": "What offence is committed when a witness gives false evidence in a judicial proceeding, and how does the law of evidence compel witnesses to answer potentially incriminatory questions while protecting them from self-incrimination?",
+    "referenced_sections": [
+      "bns_section_229",
+      "bsa_section_137"
+    ],
+    "answer": "Giving or fabricating false evidence in a judicial proceeding is punishable as 'Punishment for false evidence' under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, a witness is not excused from answering questions on the ground that an answer will criminate them; however, no such answer can subject the witness to arrest or prosecution, nor can it be proved against them in any criminal proceeding except a prosecution for giving false evidence by such answer."
+  },
+  {
+    "question": "If an individual fraudulently uses a forged electronic record as genuine, what offence is committed under the penal code, and what statutory conditions must be satisfied under evidence law for electronic records to be admissible as evidence?",
+    "referenced_sections": [
+      "bns_section_340",
+      "bsa_section_63"
+    ],
+    "answer": "Under the Bharatiya Nyaya Sanhita, using a forged electronic record as genuine knowing it to be forged constitutes an offence under the provision for 'Forged document or electronic record and using it as genuine'. Under the Bharatiya Sakshya Adhiniyam, electronic records are admissible in court subject to fulfilling specific conditions and certification requirements governing electronic records."
+  },
+  {
+    "question": "When a person publishes false imputations intended to harm another's reputation, what criminal offence is committed, and how does evidence law address the relevance of the injured party's character in civil proceedings for damages arising from that harm?",
+    "referenced_sections": [
+      "bns_section_356",
+      "bsa_section_50"
+    ],
+    "answer": "Making or publishing defamatory statements intending to harm reputation constitutes 'Defamation' under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, in civil cases, the fact that the character of any person is such as to affect the amount of damages which he ought to receive is a relevant fact."
+  },
+  {
+    "question": "If an accused claims immunity from criminal liability on the ground that the act was committed while involuntarily intoxicated, which section of the penal code grants this exception, and who bears the burden of proving this defense under evidence law?",
+    "referenced_sections": [
+      "bns_section_23",
+      "bsa_section_108"
+    ],
+    "answer": "Under the Bharatiya Nyaya Sanhita, acts done by a person incapable of judgment by reason of intoxication caused against his will fall under General Exceptions. Under the Bharatiya Sakshya Adhiniyam, the burden of proving that the case of the accused comes within any General Exception lies on the accused, and the Court shall presume the absence of such circumstances."
+  },
+  {
+    "question": "What offence is committed when a person falsely institutes criminal proceedings against another to cause injury, and how does evidence law protect police officers and magistrates from being forced to reveal their sources of information regarding crimes?",
+    "referenced_sections": [
+      "bns_section_248",
+      "bsa_section_131"
+    ],
+    "answer": "Instituting false criminal charges with intent to injure is punishable as 'False charge of offence made with intent to injure' under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, no Magistrate or police officer shall be compelled to disclose where they obtained information as to the commission of any offence."
+  },
+  {
+    "question": "When an individual entrusted with property dishonestly misappropriates it for their own use, what offence is committed, and how does evidence law assign the burden of proof for facts especially within the knowledge of that individual?",
+    "referenced_sections": [
+      "bns_section_316",
+      "bsa_section_109"
+    ],
+    "answer": "Dishonest misappropriation or conversion of entrusted property constitutes 'Criminal breach of trust' under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, when any fact (such as the private handling or disposition of entrusted property) is especially within the knowledge of any person, the burden of proving that fact is upon them."
+  },
+  {
+    "question": "Which penal provision defines the crime of waging war against the Government of India, and how can official state documents relevant to national security be withheld from evidence during a trial under evidence law?",
+    "referenced_sections": [
+      "bns_section_147",
+      "bsa_section_129"
+    ],
+    "answer": "Waging or attempting to wage war against the Government of India is an offence under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, no person shall be permitted to give evidence derived from unpublished official records relating to affairs of State without the permission of the officer at the head of the department concerned."
+  },
+  {
+    "question": "If a person is found in possession of property recently stolen from a dwelling house, what substantive offence governs stolen property, and what natural presumption may the court draw regarding the possessor under evidence law?",
+    "referenced_sections": [
+      "bns_section_317",
+      "bsa_section_119"
+    ],
+    "answer": "Dishonestly receiving or retaining stolen property is punishable under the Bharatiya Nyaya Sanhita under 'Stolen property'. Under the Bharatiya Sakshya Adhiniyam, the Court may presume that a person in possession of stolen goods shortly after the theft is either the thief or has received the goods knowing them to be stolen, unless they can account for their possession."
+  },
+  {
+    "question": "What offence is committed when a person fraudulently deceives someone to deliver property, and how does evidence law permit the court to evaluate disputed handwriting or signatures through non-expert acquaintance testimony?",
+    "referenced_sections": [
+      "bns_section_318",
+      "bsa_section_41"
+    ],
+    "answer": "Fraudulently deceiving a person into delivering property constitutes 'Cheating' under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, when the Court has to form an opinion as to the person by whom any document was written or signed, the opinion of any person acquainted with the handwriting of that person is a relevant fact."
+  },
+  {
+    "question": "When a person causes the death of another with the intention of causing death, what offence is committed under penal law, and under what evidence rule are statements made by the victim regarding the cause of their death admissible in court?",
+    "referenced_sections": [
+      "bns_section_103",
+      "bsa_section_26"
+    ],
+    "answer": "Intentionally causing the death of a human being constitutes 'Punishment for murder' under the Bharatiya Nyaya Sanhita. Under the Bharatiya Sakshya Adhiniyam, statements made by a person as to the cause of their death or any circumstances resulting in their death (dying declarations) are relevant facts when the cause of that person's death comes into question."
+  }
+]

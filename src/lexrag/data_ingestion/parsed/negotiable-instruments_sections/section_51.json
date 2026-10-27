@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-51.html",
+    "source_order": 53,
+    "article_order": 1,
+    "order": 53,
+    "stem": "section_51",
+    "heading_number": "Chapter IV",
+    "heading_title": "Of Negotiation",
+    "heading_range": "ss. 46–60",
+    "heading_source": "manifest",
+    "article_number": "51",
+    "article_title": "Who may negotiate.",
+    "id": "negotiable-instruments_section_51"
+  },
+  "id": "negotiable-instruments_section_51",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Of Negotiation",
+    "range": "ss. 46–60"
+  },
+  "article": {
+    "number": "51",
+    "title": "Who may negotiate.",
+    "content": "Every sole maker, drawer, payee or indorsee, or all of several joint makers, drawers, payees or indorsees, of a negotiable instrument may, if the negotiability of such instrument has not been restricted or excluded as mentioned in section 50, indorse and negotiate the same.\nExplanation.—Nothing in this section enables a maker or drawer to indorse or negotiate an instrument, unless he is in lawful possession or is holder thereof; or enables a payee or indorsee to indorse or negotiate an instrument, unless he is holder thereof.\nIllustration\nA bill is drawn payable to A or order. A indorses it to B, the indorsement not containing the words “or order” or any equivalent words. B may negotiate the instrument.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Who may negotiate.</h3></div><p class=\"prov-cite\">Section 51  ·  Chapter IV  ·  page 15 of the Act</p><div class=\"prov-body\"><p>Every sole maker, drawer, payee or indorsee, or all of several joint makers, drawers, payees or indorsees, of a negotiable instrument may, if the negotiability of such instrument has not been restricted or excluded as mentioned in section 50, indorse and negotiate the same.</p><p class=\"prvso\">Explanation.—Nothing in this section enables a maker or drawer to indorse or negotiate an instrument, unless he is in lawful possession or is holder thereof; or enables a payee or indorsee to indorse or negotiate an instrument, unless he is holder thereof.</p><p>Illustration</p><p>A bill is drawn payable to A or order. A indorses it to B, the indorsement not containing the words “or order” or any equivalent words. B may negotiate the instrument.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">51</span>Who may negotiate.</h3></div><p class=\"prov-cite\">Section 51  ·  Chapter IV  ·  page 15 of the Act</p><div class=\"prov-body\"><p>Every sole maker, drawer, payee or indorsee, or all of several joint makers, drawers, payees or indorsees, of a negotiable instrument may, if the negotiability of such instrument has not been restricted or excluded as mentioned in section 50, indorse and negotiate the same.</p><p class=\"prvso\">Explanation.—Nothing in this section enables a maker or drawer to indorse or negotiate an instrument, unless he is in lawful possession or is holder thereof; or enables a payee or indorsee to indorse or negotiate an instrument, unless he is holder thereof.</p><p>Illustration</p><p>A bill is drawn payable to A or order. A indorses it to B, the indorsement not containing the words “or order” or any equivalent words. B may negotiate the instrument.</p></div>"
+  }
+}

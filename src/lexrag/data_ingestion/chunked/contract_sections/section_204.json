@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_204_chunk_0",
+    "section_id": "contract_section_204",
+    "token_count": 222,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 204::Revocation where authority has been partly exercised.\n]\n\n\nThe principal cannot revoke the authority given to his agent after the authority has been partly exercised, so far as regards such acts and obligations as arise from acts already done in the agency.\nIllustrations\n(a)A authorizes B to buy 1,000 bales of cotton on account of A, and to pay for it out of A’s moneys remaining in B’s hands. B buys 1,000 bales of cotton in his own name, so as to make himself personally liable for the price. A cannot revoke B’s authority so far as regards payment for the cotton.\n(b)A authorizes B to buy 1,000 bales of cotton on account of A, and to pay for it out of A’s moneys remaining in B’s hands. B buys 1,000 bales of cotton in A’s name, and so as not to render himself personally liable for the price. A can revoke B’s authority to pay for the cotton.",
+    "metadata": {
+      "chunk_id": "contract_section_204_chunk_0",
+      "section_id": "contract_section_204",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "204",
+      "section_title": "Revocation where authority has been partly exercised."
+    }
+  }
+]

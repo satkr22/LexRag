@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_42_chunk_0",
+    "section_id": "constitution_section_42",
+    "token_count": 50,
+    "text": "[Act: constitution\n Chapter: Directive Principles of State Policy\n Section: 42::Provision for just and humane conditions of work and maternity relief\n]\n\n\nThe State shall make provision for securing just and humane conditions of work and for maternity relief.",
+    "metadata": {
+      "chunk_id": "constitution_section_42_chunk_0",
+      "section_id": "constitution_section_42",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part IV",
+      "chapter_title": "Directive Principles of State Policy",
+      "section_number": "42",
+      "section_title": "Provision for just and humane conditions of work and maternity relief"
+    }
+  }
+]

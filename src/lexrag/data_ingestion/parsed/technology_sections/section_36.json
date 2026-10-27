@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "technology",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "technology_sections/section-36.html",
+    "source_order": 43,
+    "article_order": 1,
+    "order": 43,
+    "stem": "section_36",
+    "heading_number": "Chapter VII",
+    "heading_title": "Electronic Signature Certificates2",
+    "heading_range": "ss. 35–39",
+    "heading_source": "manifest",
+    "article_number": "36",
+    "article_title": "Representations upon issuance of Digital Signature Certificate.",
+    "id": "technology_section_36"
+  },
+  "id": "technology_section_36",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Electronic Signature Certificates2",
+    "range": "ss. 35–39"
+  },
+  "article": {
+    "number": "36",
+    "title": "Representations upon issuance of Digital Signature Certificate.",
+    "content": "A Certifying Authority while issuing a Digital Signature Certificate shall certify that–\n(a) it has complied with the provisions of this Act and the rules and regulations made thereunder;\n(b) it has published the Digital Signature Certificate or otherwise made it available to such person relying on it and the subscriber has accepted it;\n(c) the subscriber holds the private key corresponding to the public key, listed in the Digital Signature Certificate;\n1[(ca) the subscriber holds a private key which is capable of creating a digital signature;\n(cb) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the subscriber;]\n(d) the subscriber's public key and private key constitute a functioning key pair;\n(e) the information contained in the Digital Signature Certificate is accurate; and\n(f) it has no knowledge of any material fact, which if it had been included in the Digital Signature Certificate would adversely affect the reliability of the representations in clauses (a) to (d).\nNote: the ARRANGEMENT OF SECTIONS prints “Digital signature Certificate”; the body prints “Digital Signature Certificate”.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Representations upon issuance of Digital Signature Certificate.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter VII  ·  pages 16–17 of the Act</p><div class=\"prov-body\"><p>A Certifying Authority while issuing a Digital Signature Certificate shall certify that–</p><p class=\"lvl\">(a) it has complied with the provisions of this Act and the rules and regulations made thereunder;</p><p class=\"lvl\">(b) it has published the Digital Signature Certificate or otherwise made it available to such person relying on it and the subscriber has accepted it;</p><p class=\"lvl\">(c) the subscriber holds the private key corresponding to the public key, listed in the Digital Signature Certificate;</p><p class=\"lvl\"><sup>1</sup>[(ca) the subscriber holds a private key which is capable of creating a digital signature;</p><p class=\"lvl\">(cb) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the subscriber;]</p><p class=\"lvl\">(d) the subscriber's public key and private key constitute a functioning key pair;</p><p class=\"lvl\">(e) the information contained in the Digital Signature Certificate is accurate; and</p><p class=\"lvl\">(f) it has no knowledge of any material fact, which if it had been included in the Digital Signature Certificate would adversely affect the reliability of the representations in clauses (a) to (d).</p><p class=\"snote\">Note: the ARRANGEMENT OF SECTIONS prints “Digital signature Certificate”; the body prints “Digital Signature Certificate”.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Ins. by Act 10 of 2009, s. 18 (w.e.f. 27-10-2009).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">36</span>Representations upon issuance of Digital Signature Certificate.</h3></div><p class=\"prov-cite\">Section 36  ·  Chapter VII  ·  pages 16–17 of the Act</p><div class=\"prov-body\"><p>A Certifying Authority while issuing a Digital Signature Certificate shall certify that–</p><p class=\"lvl\">(a) it has complied with the provisions of this Act and the rules and regulations made thereunder;</p><p class=\"lvl\">(b) it has published the Digital Signature Certificate or otherwise made it available to such person relying on it and the subscriber has accepted it;</p><p class=\"lvl\">(c) the subscriber holds the private key corresponding to the public key, listed in the Digital Signature Certificate;</p><p class=\"lvl\"><sup>1</sup>[(ca) the subscriber holds a private key which is capable of creating a digital signature;</p><p class=\"lvl\">(cb) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the subscriber;]</p><p class=\"lvl\">(d) the subscriber's public key and private key constitute a functioning key pair;</p><p class=\"lvl\">(e) the information contained in the Digital Signature Certificate is accurate; and</p><p class=\"lvl\">(f) it has no knowledge of any material fact, which if it had been included in the Digital Signature Certificate would adversely affect the reliability of the representations in clauses (a) to (d).</p><p class=\"snote\">Note: the ARRANGEMENT OF SECTIONS prints “Digital signature Certificate”; the body prints “Digital Signature Certificate”.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> Ins. by Act 10 of 2009, s. 18 (w.e.f. 27-10-2009).</p></div></div>"
+  }
+}

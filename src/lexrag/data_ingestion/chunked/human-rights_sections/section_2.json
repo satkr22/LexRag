@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "human-rights_section_2_chunk_0",
+    "section_id": "human-rights_section_2",
+    "token_count": 499,
+    "text": "[Act: human-rights\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\n\n(1) In this Act, unless the context otherwise requires,—\n  (a) “armed forces” means the naval, military and air forces and includes any other armed forces of the Union;\n  (b) “Chairperson” means the Chairperson of the Commission or of the State Commission, as the case may be;\n  2 [(ba) “Chief Commissioner” means the Chief Commissioner for Persons with Disabilities referred to in sub-section (1) of section 74 of the Rights of Persons with Disabilities Act, 2016 (49 of 2016);]\n  (c) “Commission” means the National Human Rights Commission constituted under section 3;\n  (d) “Human Rights” means the rights relating to life, liberty, equality and dignity of the individual guaranteed by the Constitution or embodied in the International Covenants and enforceable by courts in India;\n  (e) “Human Rights Court” means the Human Rights Court specified under section 30;\n  3 [(f) “International Covenants” means the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights adopted by the General Assembly of the United Nations on the 16th December, 1966 and such other Covenant or Convention adopted by the General Assembly of the United Nations as the Central Government may, by notification, specify;]\n  4 [(g) “Member” means a Member of the Commission or of the State Commission, as the case may be;]\n  2 [(ga) “National Commission for Backward Classes” means the National Commission for Backward Classes constituted under section 3 of the National Commission for Backward Classes Act, 1993 (27 of 1993);]\n  (h) “National Commission for Minorities” means the National Commission for Minorities constituted under section 3 of the National Commission for Minorities Act, 1992 (19 of 1992);\n  1 [(ha) “National Commission for Protection of Child Rights” means the National Commission for Protection of Child Rights constituted under section 3 of the Commissions for Protection of Child Rights Act, 2005 (4 of 2006);]\n  2 [(i) “National Commission for the Scheduled Castes” means the National Commission for the Scheduled Castes referred to in article 338 of the Constitution;",
+    "metadata": {
+      "chunk_id": "human-rights_section_2_chunk_0",
+      "section_id": "human-rights_section_2",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "human-rights",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "human-rights_section_2_chunk_1",
+    "section_id": "human-rights_section_2",
+    "token_count": 244,
+    "text": "[Act: human-rights\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\n\n(1) In this Act, unless the context otherwise requires,—\n  (ia) “National Commission for the Scheduled Tribes” means the National Commission for the Scheduled Tribes referred to in article 338A of the Constitution;]\n  (j) “National Commission for Women” means the National Commission for Women constituted under section 3 of the National Commission for Women Act, 1990 (20 of 1990);\n  (k) “notification” means a notification published in the Official Gazette;\n  (l) “prescribed” means prescribed by rules made under this Act;\n  (m) “public servant” shall have the meaning assigned to it in section 21 of the Indian Penal Code (45 of 1860);\n  (n) “State Commission” means a State Human Rights Commission constituted under section 21.\n  (2) Any reference in this Act to a law, which is not in force in the State of Jammu and Kashmir, shall, in relation to that State, be construed as a reference to a corresponding law, if any, in force in that State.",
+    "metadata": {
+      "chunk_id": "human-rights_section_2_chunk_1",
+      "section_id": "human-rights_section_2",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "human-rights",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  }
+]

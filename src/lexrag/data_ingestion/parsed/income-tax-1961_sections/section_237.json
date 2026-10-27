@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-40.html",
+    "source_order": 45,
+    "article_order": 1,
+    "order": 672,
+    "stem": "section_237",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Refunds",
+    "heading_range": "ss. 237–245",
+    "heading_source": "group-head",
+    "article_number": "237",
+    "article_title": "Refunds.",
+    "id": "income-tax-1961_section_237"
+  },
+  "id": "income-tax-1961_section_237",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Refunds",
+    "range": "ss. 237–245"
+  },
+  "article": {
+    "number": "237",
+    "title": "Refunds.",
+    "content": "If any person satisfies the Assessing Officer that the amount of tax paid by him or on his behalf or treated as paid by him or on his behalf for any assessment year exceeds the amount with which he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.\n",
+    "html": "<article class=\"provision\" data-n=\"237\" data-report=\"Section 237 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">237</span>Refunds.</h3></div><p class=\"prov-cite\">Section 237  ·  Chapter XIX  ·  page 829 of the Act</p><div class=\"prov-body\"><p>If any person satisfies the Assessing Officer that the amount of tax paid by him or on his behalf or treated as paid by him or on his behalf for any assessment year exceeds the amount with which he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">237</span>Refunds.</h3></div><p class=\"prov-cite\">Section 237  ·  Chapter XIX  ·  page 829 of the Act</p><div class=\"prov-body\"><p>If any person satisfies the Assessing Officer that the amount of tax paid by him or on his behalf or treated as paid by him or on his behalf for any assessment year exceeds the amount with which he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.</p></div>"
+  }
+}

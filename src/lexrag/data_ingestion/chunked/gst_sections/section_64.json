@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_64_chunk_0",
+    "section_id": "gst_section_64",
+    "token_count": 234,
+    "text": "[Act: gst\n Chapter: Assessment\n Section: 64::Summary assessment in certain special cases.\n]\n\n\n(1) The proper officer may, on any evidence showing a tax liability of a person coming to his notice, with the previous permission of Additional Commissioner or Joint Commissioner, proceed to assess the tax liability of such person to protect the interest of revenue and issue an assessment order, if he has sufficient grounds to believe that any delay in doing so may adversely affect the interest of revenue:\nProvided that where the taxable person to whom the liability pertains is not ascertainable and such liability pertains to supply of goods, the person in charge of such goods shall be deemed to be the taxable person liable to be assessed and liable to pay tax and any other amount due under this section.\n(2) On an application made by the taxable person within thirty days from the date of receipt of order passed under sub-section (1) or on his own motion, if the Additional Commissioner or Joint Commissioner considers that such order is erroneous, he may withdraw such order and follow the procedure laid down in section 73 or section 74 1[or section 74A].",
+    "metadata": {
+      "chunk_id": "gst_section_64_chunk_0",
+      "section_id": "gst_section_64",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Assessment",
+      "section_number": "64",
+      "section_title": "Summary assessment in certain special cases."
+    }
+  }
+]

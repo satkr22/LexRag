@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-25.html",
+    "source_order": 31,
+    "article_order": 1,
+    "order": 31,
+    "stem": "section_25",
+    "heading_number": "Part I · Chapter V",
+    "heading_title": "Conduct of arbitral proceedings",
+    "heading_range": "ss. 18–27",
+    "heading_source": "manifest",
+    "article_number": "25",
+    "article_title": "Default of a party.",
+    "id": "arbitration_section_25"
+  },
+  "id": "arbitration_section_25",
+  "heading": {
+    "number": "Part I · Chapter V",
+    "title": "Conduct of arbitral proceedings",
+    "range": "ss. 18–27"
+  },
+  "article": {
+    "number": "25",
+    "title": "Default of a party.",
+    "content": "Unless otherwise agreed by the parties, where, without showing sufficient cause,—\n(a) the claimant fails to communicate his statement of claim in accordance with sub-section (1) of section 23, the arbitral tribunal shall terminate the proceedings;\n(b) the respondent fails to communicate his statement of defence in accordance with sub-section (1) of section 23, the arbitral tribunal shall continue the proceedings without treating that failure in itself as an admission of the allegations by the claimant 3[and shall have the discretion to treat the right of the respondent to file such statement of defence as having been forfeited].\n(c) a party fails to appear at an oral hearing or to produce documentary evidence, the arbitral tribunal may continue the proceedings and make the arbitral award on the evidence before it.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25</span>Default of a party.</h3></div><p class=\"prov-cite\">Section 25  ·  Part I · Chapter V  ·  page 18 of the Act</p><div class=\"prov-body\"><p>Unless otherwise agreed by the parties, where, without showing sufficient cause,—</p><p class=\"lvl\">(a) the claimant fails to communicate his statement of claim in accordance with sub-section (1) of section 23, the arbitral tribunal shall terminate the proceedings;</p><p class=\"lvl\">(b) the respondent fails to communicate his statement of defence in accordance with sub-section (1) of section 23, the arbitral tribunal shall continue the proceedings without treating that failure in itself as an admission of the allegations by the claimant <sup>3</sup>[and shall have the discretion to treat the right of the respondent to file such statement of defence as having been forfeited].</p><p class=\"lvl\">(c) a party fails to appear at an oral hearing or to produce documentary evidence, the arbitral tribunal may continue the proceedings and make the arbitral award on the evidence before it.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>3</sup> Ins. by Act 3 of 2016, s. 13 (w.e.f. 23-10-2015).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">25</span>Default of a party.</h3></div><p class=\"prov-cite\">Section 25  ·  Part I · Chapter V  ·  page 18 of the Act</p><div class=\"prov-body\"><p>Unless otherwise agreed by the parties, where, without showing sufficient cause,—</p><p class=\"lvl\">(a) the claimant fails to communicate his statement of claim in accordance with sub-section (1) of section 23, the arbitral tribunal shall terminate the proceedings;</p><p class=\"lvl\">(b) the respondent fails to communicate his statement of defence in accordance with sub-section (1) of section 23, the arbitral tribunal shall continue the proceedings without treating that failure in itself as an admission of the allegations by the claimant <sup>3</sup>[and shall have the discretion to treat the right of the respondent to file such statement of defence as having been forfeited].</p><p class=\"lvl\">(c) a party fails to appear at an oral hearing or to produce documentary evidence, the arbitral tribunal may continue the proceedings and make the arbitral award on the evidence before it.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>3</sup> Ins. by Act 3 of 2016, s. 13 (w.e.f. 23-10-2015).</p></div></div>"
+  }
+}

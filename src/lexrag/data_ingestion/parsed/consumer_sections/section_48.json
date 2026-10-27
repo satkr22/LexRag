@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "consumer",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "consumer_sections/section-48.html",
+    "source_order": 48,
+    "article_order": 1,
+    "order": 48,
+    "stem": "section_48",
+    "heading_number": "Chapter IV",
+    "heading_title": "Consumer Disputer Redressal Commission",
+    "heading_range": "ss. 28–73",
+    "heading_source": "manifest",
+    "article_number": "48",
+    "article_title": "Transfer of cases.",
+    "id": "consumer_section_48"
+  },
+  "id": "consumer_section_48",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Consumer Disputer Redressal Commission",
+    "range": "ss. 28–73"
+  },
+  "article": {
+    "number": "48",
+    "title": "Transfer of cases.",
+    "content": "On the application of the complainant or of its own motion, the State Commission may, at any stage of the proceeding, transfer any complaint pending before a District Commission to another District Commission within the State if the interest of justice so requires.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">48</span>Transfer of cases.</h3></div><p class=\"prov-cite\">Section 48  ·  Chapter IV  ·  page 24 of the Act</p><div class=\"prov-body\"><p>On the application of the complainant or of its own motion, the State Commission may, at any stage of the proceeding, transfer any complaint pending before a District Commission to another District Commission within the State if the interest of justice so requires.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">48</span>Transfer of cases.</h3></div><p class=\"prov-cite\">Section 48  ·  Chapter IV  ·  page 24 of the Act</p><div class=\"prov-body\"><p>On the application of the complainant or of its own motion, the State Commission may, at any stage of the proceeding, transfer any complaint pending before a District Commission to another District Commission within the State if the interest of justice so requires.</p></div>"
+  }
+}

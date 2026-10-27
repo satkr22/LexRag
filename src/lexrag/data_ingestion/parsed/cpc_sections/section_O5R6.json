@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-17.html",
+    "source_order": 17,
+    "article_order": 6,
+    "order": 208,
+    "stem": "section_O5R6",
+    "heading_number": "Order V",
+    "heading_title": "Issue and service of summons",
+    "heading_range": "34 rules",
+    "heading_source": "group-head",
+    "article_number": "O5R6",
+    "article_title": "Fixing day for appearance of defendant.",
+    "id": "cpc_section_O5R6"
+  },
+  "id": "cpc_section_O5R6",
+  "heading": {
+    "number": "Order V",
+    "title": "Issue and service of summons",
+    "range": "34 rules"
+  },
+  "article": {
+    "number": "O5R6",
+    "title": "Fixing day for appearance of defendant.",
+    "content": "The day 2[under sub-rule (1) of rule 1] shall be fixed with reference to the current business of the Court, the place of residence of the defendant and the time necessary for the service of the summons; and the day shall be so fixed as to allow the defendant sufficient time to enable him to appear and answer on such day.\n",
+    "html": "<article class=\"provision\" data-n=\"O5R6\" data-report=\"Order 5, Rule 6 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Fixing day for appearance of defendant.</h3></div><p class=\"prov-cite\">Order 5, Rule 6</p><div class=\"prov-body\"><p>The day <sup>2</sup>[under sub-rule (1) of rule 1] shall be fixed with reference to the current business of the Court, the place of residence of the defendant and the time necessary for the service of the summons; and the day shall be so fixed as to allow the defendant sufficient time to enable him to appear and answer on such day.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by s. 15, ibid., for the “appearance of the defendant” (w.e.f. 1-7-2002).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">6</span>Fixing day for appearance of defendant.</h3></div><p class=\"prov-cite\">Order 5, Rule 6</p><div class=\"prov-body\"><p>The day <sup>2</sup>[under sub-rule (1) of rule 1] shall be fixed with reference to the current business of the Court, the place of residence of the defendant and the time necessary for the service of the summons; and the day shall be so fixed as to allow the defendant sufficient time to enable him to appear and answer on such day.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by s. 15, ibid., for the “appearance of the defendant” (w.e.f. 1-7-2002).</p></div>"
+  }
+}

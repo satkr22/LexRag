@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "hindu-marriage",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": null,
+    "source_file": "hindu-marriage_sections/section-30.html",
+    "source_order": 37,
+    "article_order": 1,
+    "order": 37,
+    "stem": "section_30",
+    "heading_number": "Savings and repeals",
+    "heading_title": "Savings and Repeals",
+    "heading_range": "ss. 29–30",
+    "heading_source": "manifest",
+    "article_number": "30",
+    "article_title": "[Repeals]",
+    "id": "hindu-marriage_section_30"
+  },
+  "id": "hindu-marriage_section_30",
+  "heading": {
+    "number": "Savings and repeals",
+    "title": "Savings and Repeals",
+    "range": "ss. 29–30"
+  },
+  "article": {
+    "number": "30",
+    "title": "[Repeals]",
+    "content": "",
+    "html": "<article class=\"provision dead\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>[Repeals]</h3></div><p class=\"repnote\">Rep. by the Repealing and Amending Act, 1960 (58 of 1960), s. 2 and the First Schedule (w.e.f. 26-12-1960).</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>[Repeals]</h3></div><p class=\"repnote\">Rep. by the Repealing and Amending Act, 1960 (58 of 1960), s. 2 and the First Schedule (w.e.f. 26-12-1960).</p>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "negotiable-instruments",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "negotiable-instruments_sections/section-43.html",
+    "source_order": 44,
+    "article_order": 1,
+    "order": 44,
+    "stem": "section_43",
+    "heading_number": "Chapter III",
+    "heading_title": "Parties to Notes, Bills and Cheques.",
+    "heading_range": "ss. 26–45A",
+    "heading_source": "manifest",
+    "article_number": "43",
+    "article_title": "Negotiable instrument made, etc., without consideration.",
+    "id": "negotiable-instruments_section_43"
+  },
+  "id": "negotiable-instruments_section_43",
+  "heading": {
+    "number": "Chapter III",
+    "title": "Parties to Notes, Bills and Cheques.",
+    "range": "ss. 26–45A"
+  },
+  "article": {
+    "number": "43",
+    "title": "Negotiable instrument made, etc., without consideration.",
+    "content": "A negotiable instrument made, drawn, accepted, indorsed or transferred without consideration, or for a consideration which fails, creates no obligation of payment between the parties to the transaction. But if any such party has transferred the instrument with or without indorsement to a holder for consideration, such holder, and every subsequent holder deriving title from him, may recover the amount due on such instrument from the transferor for consideration or any prior party thereto.\nException I.—No party for whose accommodation a negotiable instrument has been made, drawn, accepted or indorsed can, if he have paid the amount thereof, recover thereon such amount from any person who became a party to such instrument for his accommodation.\nException II.—No party to the instrument who has induced any other party to make, draw, accept, indorse or transfer the same to him for a consideration which he has failed to pay or perform in full shall recover thereon an amount exceeding the value of the consideration (if any) which he has actually paid or performed.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Negotiable instrument made, etc., without consideration.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter III  ·  page 14 of the Act</p><div class=\"prov-body\"><p>A negotiable instrument made, drawn, accepted, indorsed or transferred without consideration, or for a consideration which fails, creates no obligation of payment between the parties to the transaction. But if any such party has transferred the instrument with or without indorsement to a holder for consideration, such holder, and every subsequent holder deriving title from him, may recover the amount due on such instrument from the transferor for consideration or any prior party thereto.</p><p>Exception I.—No party for whose accommodation a negotiable instrument has been made, drawn, accepted or indorsed can, if he have paid the amount thereof, recover thereon such amount from any person who became a party to such instrument for his accommodation.</p><p>Exception II.—No party to the instrument who has induced any other party to make, draw, accept, indorse or transfer the same to him for a consideration which he has failed to pay or perform in full shall recover thereon an amount exceeding the value of the consideration (if any) which he has actually paid or performed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Negotiable instrument made, etc., without consideration.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter III  ·  page 14 of the Act</p><div class=\"prov-body\"><p>A negotiable instrument made, drawn, accepted, indorsed or transferred without consideration, or for a consideration which fails, creates no obligation of payment between the parties to the transaction. But if any such party has transferred the instrument with or without indorsement to a holder for consideration, such holder, and every subsequent holder deriving title from him, may recover the amount due on such instrument from the transferor for consideration or any prior party thereto.</p><p>Exception I.—No party for whose accommodation a negotiable instrument has been made, drawn, accepted or indorsed can, if he have paid the amount thereof, recover thereon such amount from any person who became a party to such instrument for his accommodation.</p><p>Exception II.—No party to the instrument who has induced any other party to make, draw, accept, indorse or transfer the same to him for a consideration which he has failed to pay or perform in full shall recover thereon an amount exceeding the value of the consideration (if any) which he has actually paid or performed.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "technology",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "technology_sections/section-1.html",
+    "source_order": 4,
+    "article_order": 1,
+    "order": 4,
+    "stem": "section_1",
+    "heading_number": "Chapter I",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–2",
+    "heading_source": "manifest",
+    "article_number": "1",
+    "article_title": "Short title, extent, commencement and application.",
+    "id": "technology_section_1"
+  },
+  "id": "technology_section_1",
+  "heading": {
+    "number": "Chapter I",
+    "title": "Preliminary",
+    "range": "ss. 1–2"
+  },
+  "article": {
+    "number": "1",
+    "title": "Short title, extent, commencement and application.",
+    "content": "(1) This Act may be called the Information Technology Act, 2000.\n(2) It shall extend to the whole of India and, save as otherwise provided in this Act, it applies also to any offence or contravention thereunder committed outside India by any person.\n(3) It shall come into force on such date1 as the Central Government may, by notification, appoint and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the commencement of that provision.\n2[(4) Nothing in this Act shall apply to documents or transactions specified in the First Schedule:\nProvided that the Central Government may, by notification in the Official Gazette, amend the First Schedule by way of addition or deletion of entries thereto.\n(5) Every notification issued under sub-section (4) shall be laid before each House of Parliament.]\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title, extent, commencement and application.</h3></div><p class=\"prov-cite\">Section 1  ·  Chapter I  ·  page 5 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) This Act may be called the Information Technology Act, 2000.</p><p class=\"lvl\">(2) It shall extend to the whole of India and, save as otherwise provided in this Act, it applies also to any offence or contravention thereunder committed outside India by any person.</p><p class=\"lvl\">(3) It shall come into force on such date<sup>1</sup> as the Central Government may, by notification, appoint and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the commencement of that provision.</p><p class=\"lvl\"><sup>2</sup>[(4) Nothing in this Act shall apply to documents or transactions specified in the First Schedule:</p><p class=\"prvso\">Provided that the Central Government may, by notification in the Official Gazette, amend the First Schedule by way of addition or deletion of entries thereto.</p><p class=\"lvl\">(5) Every notification issued under sub-section (4) shall be laid before each House of Parliament.]</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> 17th October, 2000, vide notification No. G.S.R. 788 (E), dated 17th October, 2000, see Gazette of India, Extraordinary, Part II, sec. 3(ii).</p><p class=\"fn\"><sup>2</sup> Subs. by Act 10 of 2009, s. 3, for sub-section (4) (w.e.f. 27-10-2009).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">1</span>Short title, extent, commencement and application.</h3></div><p class=\"prov-cite\">Section 1  ·  Chapter I  ·  page 5 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) This Act may be called the Information Technology Act, 2000.</p><p class=\"lvl\">(2) It shall extend to the whole of India and, save as otherwise provided in this Act, it applies also to any offence or contravention thereunder committed outside India by any person.</p><p class=\"lvl\">(3) It shall come into force on such date<sup>1</sup> as the Central Government may, by notification, appoint and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the commencement of that provision.</p><p class=\"lvl\"><sup>2</sup>[(4) Nothing in this Act shall apply to documents or transactions specified in the First Schedule:</p><p class=\"prvso\">Provided that the Central Government may, by notification in the Official Gazette, amend the First Schedule by way of addition or deletion of entries thereto.</p><p class=\"lvl\">(5) Every notification issued under sub-section (4) shall be laid before each House of Parliament.]</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> 17th October, 2000, vide notification No. G.S.R. 788 (E), dated 17th October, 2000, see Gazette of India, Extraordinary, Part II, sec. 3(ii).</p><p class=\"fn\"><sup>2</sup> Subs. by Act 10 of 2009, s. 3, for sub-section (4) (w.e.f. 27-10-2009).</p></div></div>"
+  }
+}

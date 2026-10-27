@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-04.html",
+    "source_order": 4,
+    "article_order": 15,
+    "order": 59,
+    "stem": "section_57",
+    "heading_number": "Chapter IV",
+    "heading_title": "Share Capital and Debentures",
+    "heading_range": "ss. 43–72",
+    "heading_source": "group-head",
+    "article_number": "57",
+    "article_title": "Punishment for personation of shareholder.",
+    "id": "companies_section_57"
+  },
+  "id": "companies_section_57",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Share Capital and Debentures",
+    "range": "ss. 43–72"
+  },
+  "article": {
+    "number": "57",
+    "title": "Punishment for personation of shareholder.",
+    "content": "If any person deceitfully personates as an owner of any security or interest in a company, or of any share warrant or coupon issued in pursuance of this Act, and thereby obtains or attempts to obtain any such security or interest or any such share warrant or coupon, or receives or attempts to receive any money due to any such owner, he shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to three years and with fine which shall not be less than one lakh rupees but which may extend to five lakh rupees.\n",
+    "html": "<article class=\"provision\" data-n=\"57\" data-report=\"Section 57 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">57</span>Punishment for personation of shareholder.</h3></div><p class=\"prov-cite\">Section 57  ·  Chapter IV  ·  page 52 of the Act</p><div class=\"prov-body\"><p>If any person deceitfully personates as an owner of any security or interest in a company, or of any share warrant or coupon issued in pursuance of this Act, and thereby obtains or attempts to obtain any such security or interest or any such share warrant or coupon, or receives or attempts to receive any money due to any such owner, he shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to three years and with fine which shall not be less than one lakh rupees but which may extend to five lakh rupees.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">57</span>Punishment for personation of shareholder.</h3></div><p class=\"prov-cite\">Section 57  ·  Chapter IV  ·  page 52 of the Act</p><div class=\"prov-body\"><p>If any person deceitfully personates as an owner of any security or interest in a company, or of any share warrant or coupon issued in pursuance of this Act, and thereby obtains or attempts to obtain any such security or interest or any such share warrant or coupon, or receives or attempts to receive any money due to any such owner, he shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to three years and with fine which shall not be less than one lakh rupees but which may extend to five lakh rupees.</p></div>"
+  }
+}

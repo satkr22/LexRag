@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_192A_chunk_0",
+    "section_id": "income-tax-1961_section_192A",
+    "token_count": 217,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 192A::Payment of accumulated balance due to an employee.\n]\n\n\nNotwithstanding anything contained in this Act, the trustees of theEmployees' Provident Funds Scheme, 1952, framed under section 5 of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952) or any person authorised under the scheme to make payment of accumulated balance due to employees, shall, in a case where the accumulated balance due to an employee participating in a recognised provident fund is includible in his total income owing to the provisions of rule 8 of Part A of the Fourth Schedule not being applicable, at the time of payment of the accumulated balance due to the employee, deduct income-tax thereon at the rate of ten per cent :\nProvided that no deduction under this section shall be made where the amount of such payment or, as the case may be, the aggregate amount of such payment to the payee is less than fifty thousand rupees.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_192A_chunk_0",
+      "section_id": "income-tax-1961_section_192A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "192A",
+      "section_title": "Payment of accumulated balance due to an employee."
+    }
+  }
+]

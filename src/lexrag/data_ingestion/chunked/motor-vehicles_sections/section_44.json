@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_44_chunk_0",
+    "section_id": "motor-vehicles_section_44",
+    "token_count": 122,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 44::Production of vehicle at the time of registration.\n]\n\n\n(1) Subject to such terms and conditions as may be prescribed by the Central Government in this behalf, a motor vehicle sold by an authorised dealer shall not require production before a registering authority for the purposes of registration for the first time.\n(2) Subject to such terms and conditions as may be prescribed by the State Government, a person in whose name a certificate of registration has been issued shall not be required to produce the vehicle registered or transferred before a registering authority.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_44_chunk_0",
+      "section_id": "motor-vehicles_section_44",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "44",
+      "section_title": "Production of vehicle at the time of registration."
+    }
+  }
+]

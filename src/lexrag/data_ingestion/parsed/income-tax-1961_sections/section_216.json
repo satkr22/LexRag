@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-38a.html",
+    "source_order": 42,
+    "article_order": 82,
+    "order": 639,
+    "stem": "section_216",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 190–234-I",
+    "heading_source": "group-head",
+    "article_number": "216",
+    "article_title": "Interest payable by assessee in case of under-estimate, etc.",
+    "id": "income-tax-1961_section_216"
+  },
+  "id": "income-tax-1961_section_216",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 190–234-I"
+  },
+  "article": {
+    "number": "216",
+    "title": "Interest payable by assessee in case of under-estimate, etc.",
+    "content": "Where, on making the regular assessment, the Assessing Officer finds that any assessee has—\n(a) under section 209A or section 212 under-estimated the advance tax payable by him and thereby reduced the amount payable in either of the first two instalments; or\n(b) under section 213 wrongly deferred the payment of advance tax on a part of his income ; he may direct that the assessee shall pay simple interest at fifteen per cent per annum—\n(i) in the case referred to in clause (a), for the period during which the payment was deficient, on the difference between the amount paid in each such instalment and the amount which should have been paid, having regard to the aggregate advance tax actually paid during the year; and\n(ii) in the case referred to in clause (b), for the period during which the payment of advance tax was so deferred.\nExplanation.—For the purposes of this section, any instalment due before the expiry of six months from the commencement of the previous year in respect of which it is to be paid shall be deemed to have become due fifteen days after the expiry of the said six months.\n",
+    "html": "<article class=\"provision\" data-n=\"216\" data-report=\"Section 216 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">216</span>Interest payable by assessee in case of under-estimate, etc.</h3></div><p class=\"prov-cite\">Section 216  ·  Chapter XVII  ·  C.—Advance payment of tax  ·  page 795 of the Act</p><div class=\"prov-body\"><p>Where, on making the regular assessment, the Assessing Officer finds that any assessee has—</p><p class=\"lvl\">(a) under section 209A or section 212 under-estimated the advance tax payable by him and thereby reduced the amount payable in either of the first two instalments; or</p><p class=\"lvl\">(b) under section 213 wrongly deferred the payment of advance tax on a part of his income ; he may direct that the assessee shall pay simple interest at fifteen per cent per annum—</p><p class=\"lvl\">(i) in the case referred to in clause (a), for the period during which the payment was deficient, on the difference between the amount paid in each such instalment and the amount which should have been paid, having regard to the aggregate advance tax actually paid during the year; and</p><p class=\"lvl\">(ii) in the case referred to in clause (b), for the period during which the payment of advance tax was so deferred.</p><p class=\"prvso\">Explanation.—For the purposes of this section, any instalment due before the expiry of six months from the commencement of the previous year in respect of which it is to be paid shall be deemed to have become due fifteen days after the expiry of the said six months.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">216</span>Interest payable by assessee in case of under-estimate, etc.</h3></div><p class=\"prov-cite\">Section 216  ·  Chapter XVII  ·  C.—Advance payment of tax  ·  page 795 of the Act</p><div class=\"prov-body\"><p>Where, on making the regular assessment, the Assessing Officer finds that any assessee has—</p><p class=\"lvl\">(a) under section 209A or section 212 under-estimated the advance tax payable by him and thereby reduced the amount payable in either of the first two instalments; or</p><p class=\"lvl\">(b) under section 213 wrongly deferred the payment of advance tax on a part of his income ; he may direct that the assessee shall pay simple interest at fifteen per cent per annum—</p><p class=\"lvl\">(i) in the case referred to in clause (a), for the period during which the payment was deficient, on the difference between the amount paid in each such instalment and the amount which should have been paid, having regard to the aggregate advance tax actually paid during the year; and</p><p class=\"lvl\">(ii) in the case referred to in clause (b), for the period during which the payment of advance tax was so deferred.</p><p class=\"prvso\">Explanation.—For the purposes of this section, any instalment due before the expiry of six months from the commencement of the previous year in respect of which it is to be paid shall be deemed to have become due fifteen days after the expiry of the said six months.</p></div>"
+  }
+}

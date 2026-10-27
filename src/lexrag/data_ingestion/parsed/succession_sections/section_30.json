@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-05.html",
+    "source_order": 5,
+    "article_order": 2,
+    "order": 30,
+    "stem": "section_30",
+    "heading_number": "Part V · Chapter I",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 29–30",
+    "heading_source": "group-head",
+    "article_number": "30",
+    "article_title": "As to what property deceased considered to have died intestate.",
+    "id": "succession_section_30"
+  },
+  "id": "succession_section_30",
+  "heading": {
+    "number": "Part V · Chapter I",
+    "title": "Preliminary",
+    "range": "ss. 29–30"
+  },
+  "article": {
+    "number": "30",
+    "title": "As to what property deceased considered to have died intestate.",
+    "content": "A person is deemed to die intestate in respect of all property of which he has not made a testamentary disposition which is capable of taking effect.\nIllustrations\n(i) A has left no will. He has died intestate in respect of the whole of his property.\n(ii) A has left a will, whereby he has appointed B his executor; but the will contains no other provision. A has died intestate in respect of the distribution of his property.\n(iii) A has bequeathed his whole property for an illegal purpose. A has died intestate in respect of the distribution of his property.\n(iv) A has bequeathed 1,000 rupees to B and 1,000 rupees to the eldest son of C, and has made no other bequest; and has died leaving the sum of 2,000 rupees and no other property. C died before A without having ever had a son. A has died intestate in respect of the distribution of 1,000 rupees.\n",
+    "html": "<article class=\"provision\" data-n=\"30\" data-report=\"Section 30 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>As to what property deceased considered to have died intestate.</h3></div><p class=\"prov-cite\">Section 30  ·  Part V · Chapter I  ·  pages 21–22 of the Act</p><div class=\"prov-body\"><p>A person is deemed to die intestate in respect of all property of which he has not made a testamentary disposition which is capable of taking effect.</p><p>Illustrations</p><p class=\"lvl\">(i) A has left no will. He has died intestate in respect of the whole of his property.</p><p class=\"lvl\">(ii) A has left a will, whereby he has appointed B his executor; but the will contains no other provision. A has died intestate in respect of the distribution of his property.</p><p class=\"lvl\">(iii) A has bequeathed his whole property for an illegal purpose. A has died intestate in respect of the distribution of his property.</p><p class=\"lvl\">(iv) A has bequeathed 1,000 rupees to B and 1,000 rupees to the eldest son of C, and has made no other bequest; and has died leaving the sum of 2,000 rupees and no other property. C died before A without having ever had a son. A has died intestate in respect of the distribution of 1,000 rupees.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">30</span>As to what property deceased considered to have died intestate.</h3></div><p class=\"prov-cite\">Section 30  ·  Part V · Chapter I  ·  pages 21–22 of the Act</p><div class=\"prov-body\"><p>A person is deemed to die intestate in respect of all property of which he has not made a testamentary disposition which is capable of taking effect.</p><p>Illustrations</p><p class=\"lvl\">(i) A has left no will. He has died intestate in respect of the whole of his property.</p><p class=\"lvl\">(ii) A has left a will, whereby he has appointed B his executor; but the will contains no other provision. A has died intestate in respect of the distribution of his property.</p><p class=\"lvl\">(iii) A has bequeathed his whole property for an illegal purpose. A has died intestate in respect of the distribution of his property.</p><p class=\"lvl\">(iv) A has bequeathed 1,000 rupees to B and 1,000 rupees to the eldest son of C, and has made no other bequest; and has died leaving the sum of 2,000 rupees and no other property. C died before A without having ever had a son. A has died intestate in respect of the distribution of 1,000 rupees.</p></div>"
+  }
+}

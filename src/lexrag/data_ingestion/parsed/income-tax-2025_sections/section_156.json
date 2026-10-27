@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-09.html",
+    "source_order": 10,
+    "article_order": 2,
+    "order": 156,
+    "stem": "section_156",
+    "heading_number": "Chapter IX",
+    "heading_title": "Rebates and Reliefs",
+    "heading_range": "ss. 155–160",
+    "heading_source": "group-head",
+    "article_number": "156",
+    "article_title": "Rebate of income-tax in case of certain individuals.",
+    "id": "income-tax-2025_section_156"
+  },
+  "id": "income-tax-2025_section_156",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Rebates and Reliefs",
+    "range": "ss. 155–160"
+  },
+  "article": {
+    "number": "156",
+    "title": "Rebate of income-tax in case of certain individuals.",
+    "content": "(1) An assessee, being an individual resident in India, shall be entitled to a deduction of 100% of income-tax payable or Rs. 12500, whichever is less, from the income-tax (computed before allowing the deduction under this section) chargeable on the total income for any tax year if such total income does not exceed Rs. 500000.\n(2) Where the total income of a resident individual assessee for any tax year is chargeable to tax under section 202(1), then from income-tax (computed before allowing the deduction under this section) following deductions shall be allowed, if—\n(a) the income does not exceed twelve lakh rupees, 100% of the income-tax payable or Rs. 60000, whichever is less;\n(b) the total income exceeds twelve lakh rupees and the income-tax payable on such total income exceeds the amount by which the total income is in excess of twelve lakh rupees, an amount equal to the amount by which the income-tax payable on such total income is in excess of the amount by which the total income exceeds twelve lakh rupees.\n(3) The deduction under sub-section (2), shall not exceed income-tax payable as per the rates provided in section 202(1).\n",
+    "html": "<article class=\"provision\" data-n=\"156\" data-report=\"Section 156 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">156</span>Rebate of income-tax in case of certain individuals.</h3></div><p class=\"prov-cite\">Section 156  ·  Chapter IX  ·  A.—Rebates and reliefs  ·  page 195 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An assessee, being an individual resident in India, shall be entitled to a deduction of 100% of income-tax payable or Rs. 12500, whichever is less, from the income-tax (computed before allowing the deduction under this section) chargeable on the total income for any tax year if such total income does not exceed Rs. 500000.</p><p class=\"lvl\">(2) Where the total income of a resident individual assessee for any tax year is chargeable to tax under section 202(1), then from income-tax (computed before allowing the deduction under this section) following deductions shall be allowed, if—</p><p class=\"lvl\">(a) the income does not exceed twelve lakh rupees, 100% of the income-tax payable or Rs. 60000, whichever is less;</p><p class=\"lvl\">(b) the total income exceeds twelve lakh rupees and the income-tax payable on such total income exceeds the amount by which the total income is in excess of twelve lakh rupees, an amount equal to the amount by which the income-tax payable on such total income is in excess of the amount by which the total income exceeds twelve lakh rupees.</p><p class=\"lvl\">(3) The deduction under sub-section (2), shall not exceed income-tax payable as per the rates provided in section 202(1).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">156</span>Rebate of income-tax in case of certain individuals.</h3></div><p class=\"prov-cite\">Section 156  ·  Chapter IX  ·  A.—Rebates and reliefs  ·  page 195 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) An assessee, being an individual resident in India, shall be entitled to a deduction of 100% of income-tax payable or Rs. 12500, whichever is less, from the income-tax (computed before allowing the deduction under this section) chargeable on the total income for any tax year if such total income does not exceed Rs. 500000.</p><p class=\"lvl\">(2) Where the total income of a resident individual assessee for any tax year is chargeable to tax under section 202(1), then from income-tax (computed before allowing the deduction under this section) following deductions shall be allowed, if—</p><p class=\"lvl\">(a) the income does not exceed twelve lakh rupees, 100% of the income-tax payable or Rs. 60000, whichever is less;</p><p class=\"lvl\">(b) the total income exceeds twelve lakh rupees and the income-tax payable on such total income exceeds the amount by which the total income is in excess of twelve lakh rupees, an amount equal to the amount by which the income-tax payable on such total income is in excess of the amount by which the total income exceeds twelve lakh rupees.</p><p class=\"lvl\">(3) The deduction under sub-section (2), shall not exceed income-tax payable as per the rates provided in section 202(1).</p></div>"
+  }
+}

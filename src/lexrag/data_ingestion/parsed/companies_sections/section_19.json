@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-02.html",
+    "source_order": 2,
+    "article_order": 19,
+    "order": 21,
+    "stem": "section_19",
+    "heading_number": "Chapter II",
+    "heading_title": "Incorporation of Company and Matters Incidental Thereto",
+    "heading_range": "ss. 3–22",
+    "heading_source": "group-head",
+    "article_number": "19",
+    "article_title": "Subsidiary company not to hold shares in its holding company.",
+    "id": "companies_section_19"
+  },
+  "id": "companies_section_19",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Incorporation of Company and Matters Incidental Thereto",
+    "range": "ss. 3–22"
+  },
+  "article": {
+    "number": "19",
+    "title": "Subsidiary company not to hold shares in its holding company.",
+    "content": "(1) No company shall, either by itself or through its nominees, hold any shares in its holding company and no holding company shall allot or transfer its shares to any of its subsidiary companies and any such allotment or transfer of shares of a company to its subsidiary company shall be void:\nProvided that nothing in this sub-section shall apply to a case—\n(a) where the subsidiary company holds such shares as the legal representative of a deceased member of the holding company; or\n(b) where the subsidiary company holds such shares as a trustee; or\n(c) where the subsidiary company is a shareholder even before it became a subsidiary company of the holding company:\nProvided further that the subsidiary company referred to in the preceding proviso shall have a right to vote at a meeting of the holding company only in respect of the shares held by it as a legal representative or as a trustee, as referred to in clause (a) or clause (b) of the said proviso.\n(2) The reference in this section to the shares of a holding company which is a company limited by guarantee or an unlimited company, not having a share capital, shall be construed as a reference to the interest of its members, whatever be the form of interest.\n",
+    "html": "<article class=\"provision\" data-n=\"19\" data-report=\"Section 19 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Subsidiary company not to hold shares in its holding company.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter II  ·  page 37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No company shall, either by itself or through its nominees, hold any shares in its holding company and no holding company shall allot or transfer its shares to any of its subsidiary companies and any such allotment or transfer of shares of a company to its subsidiary company shall be void:</p><p class=\"prvso\">Provided that nothing in this sub-section shall apply to a case—</p><p class=\"lvl\">(a) where the subsidiary company holds such shares as the legal representative of a deceased member of the holding company; or</p><p class=\"lvl\">(b) where the subsidiary company holds such shares as a trustee; or</p><p class=\"lvl\">(c) where the subsidiary company is a shareholder even before it became a subsidiary company of the holding company:</p><p class=\"prvso\">Provided further that the subsidiary company referred to in the preceding proviso shall have a right to vote at a meeting of the holding company only in respect of the shares held by it as a legal representative or as a trustee, as referred to in clause (a) or clause (b) of the said proviso.</p><p class=\"lvl\">(2) The reference in this section to the shares of a holding company which is a company limited by guarantee or an unlimited company, not having a share capital, shall be construed as a reference to the interest of its members, whatever be the form of interest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">19</span>Subsidiary company not to hold shares in its holding company.</h3></div><p class=\"prov-cite\">Section 19  ·  Chapter II  ·  page 37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) No company shall, either by itself or through its nominees, hold any shares in its holding company and no holding company shall allot or transfer its shares to any of its subsidiary companies and any such allotment or transfer of shares of a company to its subsidiary company shall be void:</p><p class=\"prvso\">Provided that nothing in this sub-section shall apply to a case—</p><p class=\"lvl\">(a) where the subsidiary company holds such shares as the legal representative of a deceased member of the holding company; or</p><p class=\"lvl\">(b) where the subsidiary company holds such shares as a trustee; or</p><p class=\"lvl\">(c) where the subsidiary company is a shareholder even before it became a subsidiary company of the holding company:</p><p class=\"prvso\">Provided further that the subsidiary company referred to in the preceding proviso shall have a right to vote at a meeting of the holding company only in respect of the shares held by it as a legal representative or as a trustee, as referred to in clause (a) or clause (b) of the said proviso.</p><p class=\"lvl\">(2) The reference in this section to the shares of a holding company which is a company limited by guarantee or an unlimited company, not having a share capital, shall be construed as a reference to the interest of its members, whatever be the form of interest.</p></div>"
+  }
+}

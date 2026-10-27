@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "special-marriage_section_first-schedule_chunk_0",
+    "section_id": "special-marriage_section_first-schedule",
+    "token_count": 504,
+    "text": "[Act: special-marriage\n Chapter: Schedules · The Schedules\n Section: first-schedule::The First Schedule\n]\n\nPART I\n\n1. Mother.\n\n2. Father’s widow (step-mother).\n\n3. Mother’s mother.\n\n4. Mother’s father’s widow (step grand-mother).\n\n5. Mother’s mother’s mother.\n\n6. Mother’s mother’s father’s widow (step great grand-mother).\n\n7. Mother’s father’s mother.\n\n8. Mother’s father’s father’s widow (step great grand-mother).\n\n9. Father’s mother.\n\n10. Father’s father’s widow (step-grand mother).\n\n11. Father’s mother’s mother.\n\n12. Father’s mother’s father’s widow (step great grand-mother).\n\n13. Father’s father’s mother.\n\n14. Father’s father’s father’s widow (step great grand-mother).\n\n15. Daughter.\n\n16. Son’s widow.\n\n17. Daughter’s daughter.\n\n18. Daughter’s son’s widow.\n\n19. Son’s daughter.\n\n20. Son’s son’s widow.\n\n21. Daughter’s daughter’s daughter.\n\n22. Daughter’s daughter’s son’s widow.\n\n23. Daughter’s son’s daughter.\n\n24. Daughter’s son’s son’s widow.\n\n25. Son’s daughter’s daughter.\n\n26. Son’s daughter’s son’s widow.\n\n27. Son’s son’s daughter.\n\n28. Son’s son’s son’s widow.\n\n29. Sister.\n\n30. Sister’s daughter.\n\n31. Brother’s daughter.\n\n32. Mother’s sister.\n\n33. Father’s sister.\n\n34. Father’s brother’s daughter.\n\n35. Father’s sister’s daughter.\n\n36. Mother’s sister’s daughter.\n\n37. Mother’s brother’s daughter.\n  Explanation.―For the purposes of this Part, the expression “widow” includes a divorced wife.\n\nPART II\n\n1. Father.\n\n2. Mother’s husband (step-father).\n\n3. Father’s father.\n\n4. Father’s mother’s husband (step grand-father).\n\n5. Father’s father’s father.\n\n6. Father’s father’s mother’s husband (step great grand-father).\n\n7. Father’s mother’s father.\n\n8. Father’s mother’s mother’s husband (step great grand-father).\n\n9. Mother’s father.\n\n10. Mother’s mother’s husband (step grand-father).\n\n11. Mother’s father’s father.\n\n12. Mother’s father’s mother’s husband (step great grand-father).\n\n13. Mother’s mother’s father.",
+    "metadata": {
+      "chunk_id": "special-marriage_section_first-schedule_chunk_0",
+      "section_id": "special-marriage_section_first-schedule",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "special-marriage",
+      "document_title": null,
+      "chapter_number": null,
+      "chapter_title": "Schedules · The Schedules",
+      "section_number": "first-schedule",
+      "section_title": "The First Schedule"
+    }
+  },
+  {
+    "chunk_id": "special-marriage_section_first-schedule_chunk_1",
+    "section_id": "special-marriage_section_first-schedule",
+    "token_count": 313,
+    "text": "[Act: special-marriage\n Chapter: Schedules · The Schedules\n Section: first-schedule::The First Schedule\n]\n\nPART I\n\n7. Father’s mother’s father.\n\n8. Father’s mother’s mother’s husband (step great grand-father).\n\n9. Mother’s father.\n\n10. Mother’s mother’s husband (step grand-father).\n\n11. Mother’s father’s father.\n\n12. Mother’s father’s mother’s husband (step great grand-father).\n\n13. Mother’s mother’s father.\n\n14. Mother’s mother’s mother’s husband (step great grand-father).\n\n15. Son.\n\n16. Daughter’s husband.\n\n17. Son’s son.\n\n18. Son’s daughter’s husband.\n\n19. Daughter’s son.\n\n20. Daughter’s daughter’s husband.\n\n21. Son’s son’s son.\n\n22. Son’s son’s daughter’s husband.\n\n23. Son’s daughter’s son.\n\n24. Son’s daughter’s daughter’s husband.\n\n25. Daughter’s son’s son.\n\n26. Daughter’s son’s daughter’s husband.\n\n27. Daughter’s daughter’s son.\n\n28. Daughter’s daughter’s daughter’s husband.\n\n29. Brother.\n\n30. Brother’s son.\n\n31. Sister’s son.\n\n32. Mother’s brother.\n\n33. Father’s brother.\n\n34. Father’s brother’s son.\n\n35. Father’s sister’s son.\n\n36. Mother’s sister’s son.\n\n37. Mother’s brother’s son.\n  Explanation.―For the purposes of this Part, the expression “husband” includes a divorced husband.",
+    "metadata": {
+      "chunk_id": "special-marriage_section_first-schedule_chunk_1",
+      "section_id": "special-marriage_section_first-schedule",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "special-marriage",
+      "document_title": null,
+      "chapter_number": null,
+      "chapter_title": "Schedules · The Schedules",
+      "section_number": "first-schedule",
+      "section_title": "The First Schedule"
+    }
+  }
+]

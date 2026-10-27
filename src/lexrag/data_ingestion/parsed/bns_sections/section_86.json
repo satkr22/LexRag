@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-05.html",
+    "source_order": 5,
+    "article_order": 24,
+    "order": 86,
+    "stem": "section_86",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Offences Against Woman and Child",
+    "heading_range": "63 – 99",
+    "heading_source": "group-head",
+    "article_number": "86",
+    "article_title": "Cruelty defined",
+    "id": "bns_section_86"
+  },
+  "id": "bns_section_86",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Offences Against Woman and Child",
+    "range": "63 – 99"
+  },
+  "article": {
+    "number": "86",
+    "title": "Cruelty defined",
+    "content": "For the purposes of section 85, “cruelty” means—\n(a)any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or\n(b)harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.\n",
+    "html": "<article class=\"provision\" data-n=\"86\" data-report=\"Section 86 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Cruelty defined</h3></div><p class=\"prov-cite\">Section 86 · Chapter V · Of offences relating to marriage</p><div class=\"prov-body\"><p>For the purposes of section 85, “cruelty” means—</p><p><span class=\"lbl\">(a)</span>any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or</p><p><span class=\"lbl\">(b)</span>harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">86</span>Cruelty defined</h3></div><p class=\"prov-cite\">Section 86 · Chapter V · Of offences relating to marriage</p><div class=\"prov-body\"><p>For the purposes of section 85, “cruelty” means—</p><p><span class=\"lbl\">(a)</span>any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or</p><p><span class=\"lbl\">(b)</span>harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-31.html",
+    "source_order": 31,
+    "article_order": 19,
+    "order": 210,
+    "stem": "section_210",
+    "heading_number": "Part VII",
+    "heading_title": "Protection of Property of Deceased",
+    "heading_range": "ss. 192–210",
+    "heading_source": "group-head",
+    "article_number": "210",
+    "article_title": "Appointment of public curators.",
+    "id": "succession_section_210"
+  },
+  "id": "succession_section_210",
+  "heading": {
+    "number": "Part VII",
+    "title": "Protection of Property of Deceased",
+    "range": "ss. 192–210"
+  },
+  "article": {
+    "number": "210",
+    "title": "Appointment of public curators.",
+    "content": "The State Government may appoint public curators for any district or number of districts; and the District Judge having jurisdiction shall nominate such public curators in all cases where the choice of a curator is left discretionary with him under this Part.\n",
+    "html": "<article class=\"provision\" data-n=\"210\" data-report=\"Section 210 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">210</span>Appointment of public curators.</h3></div><p class=\"prov-cite\">Section 210  ·  Part VII  ·  page 67 of the Act</p><div class=\"prov-body\"><p>The State Government may appoint public curators for any district or number of districts; and the District Judge having jurisdiction shall nominate such public curators in all cases where the choice of a curator is left discretionary with him under this Part.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">210</span>Appointment of public curators.</h3></div><p class=\"prov-cite\">Section 210  ·  Part VII  ·  page 67 of the Act</p><div class=\"prov-body\"><p>The State Government may appoint public curators for any district or number of districts; and the District Judge having jurisdiction shall nominate such public curators in all cases where the choice of a curator is left discretionary with him under this Part.</p></div>"
+  }
+}

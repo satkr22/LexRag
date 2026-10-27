@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80EE_chunk_0",
+    "section_id": "income-tax-1961_section_80EE",
+    "token_count": 426,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80EE::Deduction in respect of interest on loan taken for residential house property.\n]\n\n\n(1) In computing the total income of an assessee, being an individual, there shall be deducted, in accordance with and subject to the provisions of this section, interest payable on loan taken by him from any financial institution for the purpose of acquisition of a residential property.\n(2) The deduction under sub-section (1) shall not exceed fifty thousand rupees and shall be allowed in computing the total income of the individual for the assessment year beginning on the 1st day of April, 2017 and subsequent assessment years.\n(3) The deduction under sub-section (1) shall be subject to the following conditions, namely:—\n(i) the loan has been sanctioned by the financial institution during the period beginning on the 1st day of April, 2016 and ending on the 31st day of March, 2017;\n(ii) the amount of loan sanctioned for acquisition of the residential house property does not exceed thirty-five lakh rupees;\n(iii) the value of residential house property does not exceed fifty lakh rupees;\n(iv) the assessee does not own any residential house property on the date of sanction of loan.\n(4) Where a deduction under this section is allowed for any interest referred to in sub-section (1), deduction shall not be allowed in respect of such interest under any other provision of this Act for the same or any other assessment year.\n(5) For the purposes of this section,—\n(a) \"financial institution\" means a banking company to which the Banking Regulation Act, 1949 (10 of 1949) applies, or any bank or banking institution referred to in section 51 of that Act or a housing finance company;\n(b) \"housing finance company\" means a public company formed or registered in India with the main object of carrying on the business of providing long-term finance for construction or purchase of houses in India for residential purposes.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80EE_chunk_0",
+      "section_id": "income-tax-1961_section_80EE",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80EE",
+      "section_title": "Deduction in respect of interest on loan taken for residential house property."
+    }
+  }
+]

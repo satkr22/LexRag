@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_115S_chunk_0",
+    "section_id": "income-tax-1961_section_115S",
+    "token_count": 215,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Relating to Tax on Distributed Income\n Section: 115S::Interest payable for non-payment of tax.\n]\n\n\nWhere the person responsible for making payment of the income distributed by the specified company as referred to in clause (h) of section 2 of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002) or a Mutual Fund and the specified company or the Mutual Fund, as the case may be, fails to pay the whole or any part of the tax referred to in sub-section (1) or sub-section (2) of section 115R, within the time allowed under sub-section (3) of that section, he or it shall be liable to pay simple interest at the rate of one per cent every month or part thereof on the amount of such tax for the period beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_115S_chunk_0",
+      "section_id": "income-tax-1961_section_115S",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XII-E",
+      "chapter_title": "Special Provisions Relating to Tax on Distributed Income",
+      "section_number": "115S",
+      "section_title": "Interest payable for non-payment of tax."
+    }
+  }
+]

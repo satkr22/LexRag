@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "cpc_section_O21R18_chunk_0",
+    "section_id": "cpc_section_O21R18",
+    "token_count": 464,
+    "text": "[Act: cpc\n Chapter: Execution of Decrees and Orders\n Section: O21R18::Execution in case of cross-decrees.\n]\n\n\n(1) Where applications are made to a Court for the execution of cross-decrees in separate suits for the payment of two sums of money passed between the same parties and capable of execution at the same time by such Court, then—\n  (a) if the two sums are, equal, satisfaction shall be entered upon both decrees; and\n  (b) if the two sums are unequal execution may be taken out only by the holder of the decree for the larger sum and for so much only as remains after deducting the smaller sum, and satisfaction for the smaller sum shall be entered on the decree for the larger sum as well as satisfaction on the decree for the smaller sum.\n  (2) This rule shall be deemed to apply where either party is an assignee of one of the decrees and as well in respect of judgment-debts due by the original assignor as in respect of judgment-debts due by the assignee himself.\n  (3) This rule shall not be deemed to apply unless—\n  (a) the decree-holder in one of the suits in which the decrees have been made is the judgment-debtor in the other and each party files the same character in both suits; and\n  (b) the sums due under the decrees are definite.\n  (4) The holder of a decree passed against several persons jointly and severally may treat it as a cross-decree in relation to a decree passed against him singly in favour of one or more of such persons.\n\nIllustrations\n  (a) A holds a decree against B for Rs. 1,000. B holds a decree against A for payment of Rs. 1,000 in case A fails to deliver certain goods at a future day. B cannot treat his decree as a cross-decree under this rule.\n  (b) A and B, co-plaintiffs, obtain a decree for Rs. 1,000. against C, and C obtains a decree for Rs. 1,000 against B. C cannot treat his decree as a cross-decree under this rule.",
+    "metadata": {
+      "chunk_id": "cpc_section_O21R18_chunk_0",
+      "section_id": "cpc_section_O21R18",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "cpc",
+      "document_title": "The Code of Civil Procedure, 1908",
+      "chapter_number": "Order XXI",
+      "chapter_title": "Execution of Decrees and Orders",
+      "section_number": "O21R18",
+      "section_title": "Execution in case of cross-decrees."
+    }
+  },
+  {
+    "chunk_id": "cpc_section_O21R18_chunk_1",
+    "section_id": "cpc_section_O21R18",
+    "token_count": 166,
+    "text": "[Act: cpc\n Chapter: Execution of Decrees and Orders\n Section: O21R18::Execution in case of cross-decrees.\n]\n\n\nA obtains a decree against B for Rs. 1,000. C, who is a trustee for B, obtains a decree on behalf of B against A for Rs. 1,000. B cannot treat C's decree as a cross-decree under this rule.\n\nA, B, C, D and E are jointly and severally liable for Rs. 1,000 under a decree obtained by F. A obtains a decree for Rs. 1,000 against F singly and applies for execution to the Court in which the joint-decree is being executed. F may treat his joint-decree as cross-decree under this rule.",
+    "metadata": {
+      "chunk_id": "cpc_section_O21R18_chunk_1",
+      "section_id": "cpc_section_O21R18",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "cpc",
+      "document_title": "The Code of Civil Procedure, 1908",
+      "chapter_number": "Order XXI",
+      "chapter_title": "Execution of Decrees and Orders",
+      "section_number": "O21R18",
+      "section_title": "Execution in case of cross-decrees."
+    }
+  }
+]

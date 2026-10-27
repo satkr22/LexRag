@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_10_chunk_0",
+    "section_id": "easements_section_10",
+    "token_count": 198,
+    "text": "[Act: easements\n Chapter: The Imposition, Acquisition and Transfer of Easements\n Section: 10::Lessor and mortgagor.\n]\n\n\nSubject to the provisions of section 8, a lessor may impose, on the property leased, any easement that does not derogate from the rights of the lessee as such, and a mortgagor may impose, on the property mortgaged, any easement that does not render the security insufficient. But a lessor or mortgagor cannot, without the consent of the lessee or mortgagee, impose any other easement on such property, unless it be to take effect on the termination of the lease or the redemption of the mortgage.\nExplanation.—A security is insufficient within the meaning of this section unless the value of the mortgaged property exceeds by one-third, or, if consisting of buildings, exceeds by one-half, the amount for the time being due on the mortgage.",
+    "metadata": {
+      "chunk_id": "easements_section_10_chunk_0",
+      "section_id": "easements_section_10",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "The Imposition, Acquisition and Transfer of Easements",
+      "section_number": "10",
+      "section_title": "Lessor and mortgagor."
+    }
+  }
+]

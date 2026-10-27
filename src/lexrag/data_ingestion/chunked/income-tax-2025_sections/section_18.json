@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_18_chunk_0",
+    "section_id": "income-tax-2025_section_18",
+    "token_count": 327,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 18::Profits in lieu of salary.\n]\n\n\n(1) For the purposes of this Part, \"profits in lieu of salary\" includes,—\n(a) the amount of any compensation due to, or received by, an assessee from his employer or former employer at or in connection with the—\n(i) termination of his employment; or\n(ii) modification of the terms and conditions relating thereto;\n(b) any amount due to, or received, whether in lump sum or otherwise, by any assessee from any person—\n(i) before his joining any employment with that person; or\n(ii) after cessation of his employment with that person;\n(c) any payment due to or received by an assessee—\n(i) from an employer or a former employer; or\n(ii) from a provident or other fund, to the extent to which it does not consist of contributions by the assessee or interest on such contributions; or\n(iii) any sum received under a Keyman insurance policy as defined in Schedule II (Note 1), including the sum allocated by way of bonus on such policy.\n(2) The payment referred in sub-section (1)(c) shall not include any payment referred to in—\n(a) Schedule II (Table: Sl. No. 3);\n(b) Schedule II (Table: Sl. No. 4);\n(c) Schedule II (Table: Sl. No. 8); and\n(d) Schedule III (Table: Sl. No. 11).",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_18_chunk_0",
+      "section_id": "income-tax-2025_section_18",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "18",
+      "section_title": "Profits in lieu of salary."
+    }
+  }
+]

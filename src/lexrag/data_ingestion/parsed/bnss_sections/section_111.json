@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-08.html",
+    "source_order": 8,
+    "article_order": 1,
+    "order": 111,
+    "stem": "section_111",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "heading_range": "111 – 124",
+    "heading_source": "group-head",
+    "article_number": "111",
+    "article_title": "Definitions",
+    "id": "bnss_section_111"
+  },
+  "id": "bnss_section_111",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Reciprocal Arrangements for Assistance in Certain Matters and Procedure for Attachment and Forfeiture of Property",
+    "range": "111 – 124"
+  },
+  "article": {
+    "number": "111",
+    "title": "Definitions",
+    "content": "In this Chapter, unless the context otherwise requires,—\n(a)“contracting State” means any country or place outside India in respect of which arrangements have been made by the Central Government with the Government of such country through a treaty or otherwise;\n(b)“identifying” includes establishment of a proof that the property was derived from, or used in, the commission of an offence;\n(c)“proceeds of crime” means any property derived or obtained directly or indirectly, by any person as a result of criminal activity (including crime involving currency transfers) or the value of any such property;\n(d)“property” means property and assets of every description whether corporeal or incorporeal, movable or immovable, tangible or intangible and deeds and instruments evidencing title to, or interest in, such property or assets derived or used in the commission of an offence and includes property obtained through proceeds of crime;\n(e)“tracing” means determining the nature, source, disposition, movement, title or ownership of property.\n",
+    "html": "<article class=\"provision\" data-n=\"111\" data-report=\"Section 111 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">111</span>Definitions</h3></div><p class=\"prov-cite\">Section 111 · Chapter VIII</p><div class=\"prov-body\"><p>In this Chapter, unless the context otherwise requires,—</p><p><span class=\"lbl\">(a)</span>“contracting State” means any country or place outside India in respect of which arrangements have been made by the Central Government with the Government of such country through a treaty or otherwise;</p><p><span class=\"lbl\">(b)</span>“identifying” includes establishment of a proof that the property was derived from, or used in, the commission of an offence;</p><p><span class=\"lbl\">(c)</span>“proceeds of crime” means any property derived or obtained directly or indirectly, by any person as a result of criminal activity (including crime involving currency transfers) or the value of any such property;</p><p><span class=\"lbl\">(d)</span>“property” means property and assets of every description whether corporeal or incorporeal, movable or immovable, tangible or intangible and deeds and instruments evidencing title to, or interest in, such property or assets derived or used in the commission of an offence and includes property obtained through proceeds of crime;</p><p><span class=\"lbl\">(e)</span>“tracing” means determining the nature, source, disposition, movement, title or ownership of property.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">111</span>Definitions</h3></div><p class=\"prov-cite\">Section 111 · Chapter VIII</p><div class=\"prov-body\"><p>In this Chapter, unless the context otherwise requires,—</p><p><span class=\"lbl\">(a)</span>“contracting State” means any country or place outside India in respect of which arrangements have been made by the Central Government with the Government of such country through a treaty or otherwise;</p><p><span class=\"lbl\">(b)</span>“identifying” includes establishment of a proof that the property was derived from, or used in, the commission of an offence;</p><p><span class=\"lbl\">(c)</span>“proceeds of crime” means any property derived or obtained directly or indirectly, by any person as a result of criminal activity (including crime involving currency transfers) or the value of any such property;</p><p><span class=\"lbl\">(d)</span>“property” means property and assets of every description whether corporeal or incorporeal, movable or immovable, tangible or intangible and deeds and instruments evidencing title to, or interest in, such property or assets derived or used in the commission of an offence and includes property obtained through proceeds of crime;</p><p><span class=\"lbl\">(e)</span>“tracing” means determining the nature, source, disposition, movement, title or ownership of property.</p></div>"
+  }
+}

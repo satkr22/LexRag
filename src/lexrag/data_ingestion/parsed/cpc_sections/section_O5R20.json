@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-17.html",
+    "source_order": 17,
+    "article_order": 22,
+    "order": 224,
+    "stem": "section_O5R20",
+    "heading_number": "Order V",
+    "heading_title": "Issue and service of summons",
+    "heading_range": "34 rules",
+    "heading_source": "group-head",
+    "article_number": "O5R20",
+    "article_title": "Substituted service.",
+    "id": "cpc_section_O5R20"
+  },
+  "id": "cpc_section_O5R20",
+  "heading": {
+    "number": "Order V",
+    "title": "Issue and service of summons",
+    "range": "34 rules"
+  },
+  "article": {
+    "number": "O5R20",
+    "title": "Substituted service.",
+    "content": "(1) Where the Court is satisfied that there is reason to believe that the defendant is keeping out of the way for the purpose of avoiding service, or that for any other reason the summons cannot be served in the ordinary way, the Court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the Court-house, and also upon some conspicuous part of the house (if any) in which the defendant is known to have last resided or carried on business or personally worked for gain, or in such other manner as the Court thinks fit.\n3[(1A) Where the Court acting under sub-rule (1) orders service by an advertisement in a newspaper, the newspaper shall be a daily newspaper circulating in the locality in which the defendant is last known to have actually and voluntarily resided, carried on business or personally worked for gain.]\n(2) Effect of substituted service.—Service substituted by order of the Court shall be as effectual as if it had been made on the defendant personally.\n(3) Where service substituted, time for appearance to be fixed.—Where service is substituted by order of the Court, the Court shall fix such time for the appearance of the defendant as the case may require.\n",
+    "html": "<article class=\"provision\" data-n=\"O5R20\" data-report=\"Order 5, Rule 20 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Substituted service.</h3></div><p class=\"prov-cite\">Order 5, Rule 20</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the Court is satisfied that there is reason to believe that the defendant is keeping out of the way for the purpose of avoiding service, or that for any other reason the summons cannot be served in the ordinary way, the Court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the Court-house, and also upon some conspicuous part of the house (if any) in which the defendant is known to have last resided or carried on business or personally worked for gain, or in such other manner as the Court thinks fit.</p><p class=\"lvl\"><sup>3</sup>[(1A) Where the Court acting under sub-rule (1) orders service by an advertisement in a newspaper, the newspaper shall be a daily newspaper circulating in the locality in which the defendant is last known to have actually and voluntarily resided, carried on business or personally worked for gain.]</p><p class=\"lvl\">(2) Effect of substituted service.—Service substituted by order of the Court shall be as effectual as if it had been made on the defendant personally.</p><p class=\"lvl\">(3) Where service substituted, time for appearance to be fixed.—Where service is substituted by order of the Court, the Court shall fix such time for the appearance of the defendant as the case may require.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Ins. by Act 104 of 1976, s. 55 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Substituted service.</h3></div><p class=\"prov-cite\">Order 5, Rule 20</p><div class=\"prov-body\"><p class=\"lvl\">(1) Where the Court is satisfied that there is reason to believe that the defendant is keeping out of the way for the purpose of avoiding service, or that for any other reason the summons cannot be served in the ordinary way, the Court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the Court-house, and also upon some conspicuous part of the house (if any) in which the defendant is known to have last resided or carried on business or personally worked for gain, or in such other manner as the Court thinks fit.</p><p class=\"lvl\"><sup>3</sup>[(1A) Where the Court acting under sub-rule (1) orders service by an advertisement in a newspaper, the newspaper shall be a daily newspaper circulating in the locality in which the defendant is last known to have actually and voluntarily resided, carried on business or personally worked for gain.]</p><p class=\"lvl\">(2) Effect of substituted service.—Service substituted by order of the Court shall be as effectual as if it had been made on the defendant personally.</p><p class=\"lvl\">(3) Where service substituted, time for appearance to be fixed.—Where service is substituted by order of the Court, the Court shall fix such time for the appearance of the defendant as the case may require.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Ins. by Act 104 of 1976, s. 55 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

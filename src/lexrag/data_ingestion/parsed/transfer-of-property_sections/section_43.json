@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "transfer-of-property",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "transfer-of-property_sections/section-43.html",
+    "source_order": 43,
+    "article_order": 1,
+    "order": 43,
+    "stem": "section_43",
+    "heading_number": "Chapter II",
+    "heading_title": "Of Transfers of Property by Act of Parties1",
+    "heading_range": "ss. 5–53A",
+    "heading_source": "manifest",
+    "article_number": "43",
+    "article_title": "Transfer by unauthorised person who subsequently acquires interest in property transferred.",
+    "id": "transfer-of-property_section_43"
+  },
+  "id": "transfer-of-property_section_43",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Of Transfers of Property by Act of Parties1",
+    "range": "ss. 5–53A"
+  },
+  "article": {
+    "number": "43",
+    "title": "Transfer by unauthorised person who subsequently acquires interest in property transferred.",
+    "content": "Where a person 3[fraudulently or] erroneously represents that he is authorised to transfer certain immovable property and professes to transfer such property for consideration, such transfer shall, at the option of the transferee, operate on any interest which the transferor may acquire in such property at any time during which the contract of transfer subsists. Nothing in this section shall impair the right of transferees in good faith for consideration without notice of the existence of the said option.\nIllustration\nA, a Hindu who has separated from his father B, sells to C three fields, X, Y and Z, representing that A is authorised to transfer the same. Of these fields Z does not belong to A, it having been retained by B on the partition; but on B's dying A as heir obtains Z.C, not having rescinded the contract of sale, may require A to deliver Z to him .\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Transfer by unauthorised person who subsequently acquires interest in property transferred.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter II  ·  (B) Transfer of Immovable property  ·  page 17 of the Act</p><div class=\"prov-body\"><p>Where a person <sup>3</sup>[fraudulently or] erroneously represents that he is authorised to transfer certain immovable property and professes to transfer such property for consideration, such transfer shall, at the option of the transferee, operate on any interest which the transferor may acquire in such property at any time during which the contract of transfer subsists. Nothing in this section shall impair the right of transferees in good faith for consideration without notice of the existence of the said option.</p><p>Illustration</p><p>A, a Hindu who has separated from his father B, sells to C three fields, X, Y and Z, representing that A is authorised to transfer the same. Of these fields Z does not belong to A, it having been retained by B on the partition; but on B's dying A as heir obtains Z.C, not having rescinded the contract of sale, may require A to deliver Z to him .</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>3</sup> Ins. by Act 20 of 1929, s. 13</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">43</span>Transfer by unauthorised person who subsequently acquires interest in property transferred.</h3></div><p class=\"prov-cite\">Section 43  ·  Chapter II  ·  (B) Transfer of Immovable property  ·  page 17 of the Act</p><div class=\"prov-body\"><p>Where a person <sup>3</sup>[fraudulently or] erroneously represents that he is authorised to transfer certain immovable property and professes to transfer such property for consideration, such transfer shall, at the option of the transferee, operate on any interest which the transferor may acquire in such property at any time during which the contract of transfer subsists. Nothing in this section shall impair the right of transferees in good faith for consideration without notice of the existence of the said option.</p><p>Illustration</p><p>A, a Hindu who has separated from his father B, sells to C three fields, X, Y and Z, representing that A is authorised to transfer the same. Of these fields Z does not belong to A, it having been retained by B on the partition; but on B's dying A as heir obtains Z.C, not having rescinded the contract of sale, may require A to deliver Z to him .</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>3</sup> Ins. by Act 20 of 1929, s. 13</p></div></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-26.html",
+    "source_order": 26,
+    "article_order": 3,
+    "order": 339,
+    "stem": "section_339",
+    "heading_number": "Chapter XXVI",
+    "heading_title": "General Provisions as to Inquiries and Trials",
+    "heading_range": "337 – 366",
+    "heading_source": "group-head",
+    "article_number": "339",
+    "article_title": "Permission to conduct prosecution",
+    "id": "bnss_section_339"
+  },
+  "id": "bnss_section_339",
+  "heading": {
+    "number": "Chapter XXVI",
+    "title": "General Provisions as to Inquiries and Trials",
+    "range": "337 – 366"
+  },
+  "article": {
+    "number": "339",
+    "title": "Permission to conduct prosecution",
+    "content": "(1)Any Magistrate inquiring into or trying a case may permit the prosecution to be conducted by any person other than a police officer below the rank of inspector; but no person, other than the Advocate-General or Government Advocate or a Public Prosecutor or Assistant Public Prosecutor, shall be entitled to do so without such permission:\nProvisoProvided that no police officer shall be permitted to conduct the prosecution if he has taken part in the investigation into the offence with respect to which the accused is being prosecuted.\n(2)Any person conducting the prosecution may do so personally or by an advocate.\n",
+    "html": "<article class=\"provision\" data-n=\"339\" data-report=\"Section 339 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">339</span>Permission to conduct prosecution</h3></div><p class=\"prov-cite\">Section 339 · Chapter XXVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any Magistrate inquiring into or trying a case may permit the prosecution to be conducted by any person other than a police officer below the rank of inspector; but no person, other than the Advocate-General or Government Advocate or a Public Prosecutor or Assistant Public Prosecutor, shall be entitled to do so without such permission:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no police officer shall be permitted to conduct the prosecution if he has taken part in the investigation into the offence with respect to which the accused is being prosecuted.</p><p><span class=\"lbl\">(2)</span>Any person conducting the prosecution may do so personally or by an advocate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">339</span>Permission to conduct prosecution</h3></div><p class=\"prov-cite\">Section 339 · Chapter XXVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Any Magistrate inquiring into or trying a case may permit the prosecution to be conducted by any person other than a police officer below the rank of inspector; but no person, other than the Advocate-General or Government Advocate or a Public Prosecutor or Assistant Public Prosecutor, shall be entitled to do so without such permission:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that no police officer shall be permitted to conduct the prosecution if he has taken part in the investigation into the offence with respect to which the accused is being prosecuted.</p><p><span class=\"lbl\">(2)</span>Any person conducting the prosecution may do so personally or by an advocate.</p></div>"
+  }
+}

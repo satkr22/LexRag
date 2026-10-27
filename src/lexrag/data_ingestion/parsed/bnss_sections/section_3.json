@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-01.html",
+    "source_order": 1,
+    "article_order": 3,
+    "order": 3,
+    "stem": "section_3",
+    "heading_number": "Chapter I",
+    "heading_title": "Preliminary",
+    "heading_range": "1 – 5",
+    "heading_source": "group-head",
+    "article_number": "3",
+    "article_title": "Construction of references",
+    "id": "bnss_section_3"
+  },
+  "id": "bnss_section_3",
+  "heading": {
+    "number": "Chapter I",
+    "title": "Preliminary",
+    "range": "1 – 5"
+  },
+  "article": {
+    "number": "3",
+    "title": "Construction of references",
+    "content": "(1)Unless the context otherwise requires, any reference in any law, to a Magistrate without any qualifying words, Magistrate of the first class or a Magistrate of the second class shall, in relation to any area, be construed as a reference to a Judicial Magistrate of the first class or Judicial Magistrate of the second class, as the case may be, exercising jurisdiction in such area.\n(2)Where, under any law, other than this Sanhita, the functions exercisable by a Magistrate relate to matters,—\n(a)which involve the appreciation or shifting of evidence or the formulation of any decision which exposes any person to any punishment or penalty or detention in custody pending investigation, inquiry or trial or would have the effect of sending him for trial before any Court, they shall, subject to the provisions of this Sanhita, be exercisable by a Judicial Magistrate; or\n(b)which are administrative or executive in nature, such as, the granting of a licence, the suspension or cancellation of a licence, sanctioning a prosecution or withdrawing from a prosecution, they shall, subject to the provisions of clause (a) be exercisable by an Executive Magistrate.\n",
+    "html": "<article class=\"provision\" data-n=\"3\" data-report=\"Section 3 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Construction of references</h3></div><p class=\"prov-cite\">Section 3 · Chapter I</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Unless the context otherwise requires, any reference in any law, to a Magistrate without any qualifying words, Magistrate of the first class or a Magistrate of the second class shall, in relation to any area, be construed as a reference to a Judicial Magistrate of the first class or Judicial Magistrate of the second class, as the case may be, exercising jurisdiction in such area.</p><p><span class=\"lbl\">(2)</span>Where, under any law, other than this Sanhita, the functions exercisable by a Magistrate relate to matters,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>which involve the appreciation or shifting of evidence or the formulation of any decision which exposes any person to any punishment or penalty or detention in custody pending investigation, inquiry or trial or would have the effect of sending him for trial before any Court, they shall, subject to the provisions of this Sanhita, be exercisable by a Judicial Magistrate; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>which are administrative or executive in nature, such as, the granting of a licence, the suspension or cancellation of a licence, sanctioning a prosecution or withdrawing from a prosecution, they shall, subject to the provisions of clause (a) be exercisable by an Executive Magistrate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Construction of references</h3></div><p class=\"prov-cite\">Section 3 · Chapter I</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Unless the context otherwise requires, any reference in any law, to a Magistrate without any qualifying words, Magistrate of the first class or a Magistrate of the second class shall, in relation to any area, be construed as a reference to a Judicial Magistrate of the first class or Judicial Magistrate of the second class, as the case may be, exercising jurisdiction in such area.</p><p><span class=\"lbl\">(2)</span>Where, under any law, other than this Sanhita, the functions exercisable by a Magistrate relate to matters,—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>which involve the appreciation or shifting of evidence or the formulation of any decision which exposes any person to any punishment or penalty or detention in custody pending investigation, inquiry or trial or would have the effect of sending him for trial before any Court, they shall, subject to the provisions of this Sanhita, be exercisable by a Judicial Magistrate; or</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>which are administrative or executive in nature, such as, the granting of a licence, the suspension or cancellation of a licence, sanctioning a prosecution or withdrawing from a prosecution, they shall, subject to the provisions of clause (a) be exercisable by an Executive Magistrate.</p></div>"
+  }
+}

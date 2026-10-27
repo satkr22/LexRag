@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-19.html",
+    "source_order": 20,
+    "article_order": 2,
+    "order": 392,
+    "stem": "section_391",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Collection and Recovery of Tax",
+    "heading_range": "ss. 390–430",
+    "heading_source": "group-head",
+    "article_number": "391",
+    "article_title": "Direct payment.",
+    "id": "income-tax-2025_section_391"
+  },
+  "id": "income-tax-2025_section_391",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Collection and Recovery of Tax",
+    "range": "ss. 390–430"
+  },
+  "article": {
+    "number": "391",
+    "title": "Direct payment.",
+    "content": "(1) The income-tax on any income shall be payable directly by the assessee if—\n(a) there is no provision under this Chapter to deduct income-tax on such income at the time of payment; or\n(b) income-tax has not been deducted as per the provisions of this Chapter.\n(2) If an assessee has any income of the nature as specified in section 17(1)(d) and such specified security or sweat equity shares are allotted or transferred directly or indirectly by the current employer which is an eligible start-up referred to in section 140, then direct payment of tax for the purposes of sub-section\n(1) shall be made in accordance with in section 289(3).\n(3) Where any person, including the principal officer of the company,—\n(a) who is required to deduct any sum as per the provisions of this Act; or\n(b) referred to in section 392(2)(a), being an employer, does not deduct, or after so deducting fails to pay, or does not pay, the whole or any part of the tax, as required under this Act, and where the assessee has also failed to pay such tax directly, then, such person shall, apart from any other consequences that he may incur, be deemed to be an assessee in default within the meaning of section 398(1), in respect of such tax.\n",
+    "html": "<article class=\"provision\" data-n=\"391\" data-report=\"Section 391 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">391</span>Direct payment.</h3></div><p class=\"prov-cite\">Section 391  ·  Chapter XIX  ·  A.—General  ·  page 458 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The income-tax on any income shall be payable directly by the assessee if—</p><p class=\"lvl\">(a) there is no provision under this Chapter to deduct income-tax on such income at the time of payment; or</p><p class=\"lvl\">(b) income-tax has not been deducted as per the provisions of this Chapter.</p><p class=\"lvl\">(2) If an assessee has any income of the nature as specified in section 17(1)(d) and such specified security or sweat equity shares are allotted or transferred directly or indirectly by the current employer which is an eligible start-up referred to in section 140, then direct payment of tax for the purposes of sub-section</p><p class=\"lvl\">(1) shall be made in accordance with in section 289(3).</p><p class=\"lvl\">(3) Where any person, including the principal officer of the company,—</p><p class=\"lvl\">(a) who is required to deduct any sum as per the provisions of this Act; or</p><p class=\"lvl\">(b) referred to in section 392(2)(a), being an employer, does not deduct, or after so deducting fails to pay, or does not pay, the whole or any part of the tax, as required under this Act, and where the assessee has also failed to pay such tax directly, then, such person shall, apart from any other consequences that he may incur, be deemed to be an assessee in default within the meaning of section 398(1), in respect of such tax.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">391</span>Direct payment.</h3></div><p class=\"prov-cite\">Section 391  ·  Chapter XIX  ·  A.—General  ·  page 458 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The income-tax on any income shall be payable directly by the assessee if—</p><p class=\"lvl\">(a) there is no provision under this Chapter to deduct income-tax on such income at the time of payment; or</p><p class=\"lvl\">(b) income-tax has not been deducted as per the provisions of this Chapter.</p><p class=\"lvl\">(2) If an assessee has any income of the nature as specified in section 17(1)(d) and such specified security or sweat equity shares are allotted or transferred directly or indirectly by the current employer which is an eligible start-up referred to in section 140, then direct payment of tax for the purposes of sub-section</p><p class=\"lvl\">(1) shall be made in accordance with in section 289(3).</p><p class=\"lvl\">(3) Where any person, including the principal officer of the company,—</p><p class=\"lvl\">(a) who is required to deduct any sum as per the provisions of this Act; or</p><p class=\"lvl\">(b) referred to in section 392(2)(a), being an employer, does not deduct, or after so deducting fails to pay, or does not pay, the whole or any part of the tax, as required under this Act, and where the assessee has also failed to pay such tax directly, then, such person shall, apart from any other consequences that he may incur, be deemed to be an assessee in default within the meaning of section 398(1), in respect of such tax.</p></div>"
+  }
+}

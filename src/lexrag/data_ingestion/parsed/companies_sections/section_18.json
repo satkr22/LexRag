@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-02.html",
+    "source_order": 2,
+    "article_order": 18,
+    "order": 20,
+    "stem": "section_18",
+    "heading_number": "Chapter II",
+    "heading_title": "Incorporation of Company and Matters Incidental Thereto",
+    "heading_range": "ss. 3–22",
+    "heading_source": "group-head",
+    "article_number": "18",
+    "article_title": "Conversion of companies already registered.",
+    "id": "companies_section_18"
+  },
+  "id": "companies_section_18",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Incorporation of Company and Matters Incidental Thereto",
+    "range": "ss. 3–22"
+  },
+  "article": {
+    "number": "18",
+    "title": "Conversion of companies already registered.",
+    "content": "(1) A company of any class registered under this Act may convert itself as a company of other class under this Act by alteration of memorandum and articles of the company in accordance with the provisions of this Chapter.\n(2) Where the conversion is required to be done under this section, the Registrar shall on an application made by the company, after satisfying himself that the provisions of this Chapter applicable for registration of companies have been complied with, close the former registration of the company and after registering the documents referred to in sub-section (1), issue a certificate of incorporation in the same manner as its first registration.\n(3) The registration of a company under this section shall not affect any debts, liabilities, obligations or contracts incurred or entered into, by or on behalf of the company before conversion and such debts, liabilities, obligations and contracts may be enforced in the manner as if such registration had not been done.\n",
+    "html": "<article class=\"provision\" data-n=\"18\" data-report=\"Section 18 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18</span>Conversion of companies already registered.</h3></div><p class=\"prov-cite\">Section 18  ·  Chapter II  ·  page 37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A company of any class registered under this Act may convert itself as a company of other class under this Act by alteration of memorandum and articles of the company in accordance with the provisions of this Chapter.</p><p class=\"lvl\">(2) Where the conversion is required to be done under this section, the Registrar shall on an application made by the company, after satisfying himself that the provisions of this Chapter applicable for registration of companies have been complied with, close the former registration of the company and after registering the documents referred to in sub-section (1), issue a certificate of incorporation in the same manner as its first registration.</p><p class=\"lvl\">(3) The registration of a company under this section shall not affect any debts, liabilities, obligations or contracts incurred or entered into, by or on behalf of the company before conversion and such debts, liabilities, obligations and contracts may be enforced in the manner as if such registration had not been done.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">18</span>Conversion of companies already registered.</h3></div><p class=\"prov-cite\">Section 18  ·  Chapter II  ·  page 37 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A company of any class registered under this Act may convert itself as a company of other class under this Act by alteration of memorandum and articles of the company in accordance with the provisions of this Chapter.</p><p class=\"lvl\">(2) Where the conversion is required to be done under this section, the Registrar shall on an application made by the company, after satisfying himself that the provisions of this Chapter applicable for registration of companies have been complied with, close the former registration of the company and after registering the documents referred to in sub-section (1), issue a certificate of incorporation in the same manner as its first registration.</p><p class=\"lvl\">(3) The registration of a company under this section shall not affect any debts, liabilities, obligations or contracts incurred or entered into, by or on behalf of the company before conversion and such debts, liabilities, obligations and contracts may be enforced in the manner as if such registration had not been done.</p></div>"
+  }
+}

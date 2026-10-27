@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "gst",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Central Goods and Services Tax Act, 2017",
+    "source_file": "gst_sections/gst-19.html",
+    "source_order": 19,
+    "article_order": 13,
+    "order": 144,
+    "stem": "section_131",
+    "heading_number": "Chapter XIX",
+    "heading_title": "Offences and Penalties",
+    "heading_range": "ss. 122–138",
+    "heading_source": "group-head",
+    "article_number": "131",
+    "article_title": "Confiscation or penalty not to interfere with other punishments.",
+    "id": "gst_section_131"
+  },
+  "id": "gst_section_131",
+  "heading": {
+    "number": "Chapter XIX",
+    "title": "Offences and Penalties",
+    "range": "ss. 122–138"
+  },
+  "article": {
+    "number": "131",
+    "title": "Confiscation or penalty not to interfere with other punishments.",
+    "content": "Without prejudice to the provisions contained in the Code of Criminal Procedure, 1973 (2 of 1974), no confiscation made or penalty imposed under the provisions of this Act or the rules made thereunder shall prevent the infliction of any other punishment to which the person affected thereby is liable under the provisions of this Act or under any other law for the time being in force.\n",
+    "html": "<article class=\"provision\" data-n=\"131\" data-report=\"Section 131 · The Central Goods and Services Tax Act, 2017\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Confiscation or penalty not to interfere with other punishments.</h3></div><p class=\"prov-cite\">Section 131  ·  Chapter XIX  ·  page 103 of the Act</p><div class=\"prov-body\"><p>Without prejudice to the provisions contained in the Code of Criminal Procedure, 1973 (2 of 1974), no confiscation made or penalty imposed under the provisions of this Act or the rules made thereunder shall prevent the infliction of any other punishment to which the person affected thereby is liable under the provisions of this Act or under any other law for the time being in force.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">131</span>Confiscation or penalty not to interfere with other punishments.</h3></div><p class=\"prov-cite\">Section 131  ·  Chapter XIX  ·  page 103 of the Act</p><div class=\"prov-body\"><p>Without prejudice to the provisions contained in the Code of Criminal Procedure, 1973 (2 of 1974), no confiscation made or penalty imposed under the provisions of this Act or the rules made thereunder shall prevent the infliction of any other punishment to which the person affected thereby is liable under the provisions of this Act or under any other law for the time being in force.</p></div>"
+  }
+}

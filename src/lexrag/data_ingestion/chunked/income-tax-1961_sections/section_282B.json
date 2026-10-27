@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_282B_chunk_0",
+    "section_id": "income-tax-1961_section_282B",
+    "token_count": 31,
+    "text": "[Act: income-tax-1961\n Chapter: Miscellaneous\n Section: 282B::Allotment of Document Identification Number.\n]\n\n\n[***]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_282B_chunk_0",
+      "section_id": "income-tax-1961_section_282B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXIII",
+      "chapter_title": "Miscellaneous",
+      "section_number": "282B",
+      "section_title": "Allotment of Document Identification Number."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-40.html",
+    "source_order": 40,
+    "article_order": 7,
+    "order": 617,
+    "stem": "section_O23R4",
+    "heading_number": "Order XXIII",
+    "heading_title": "Withdrawal and Adjustment of Suits",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O23R4",
+    "article_title": "Proceedings in execution of decrees not affected.",
+    "id": "cpc_section_O23R4"
+  },
+  "id": "cpc_section_O23R4",
+  "heading": {
+    "number": "Order XXIII",
+    "title": "Withdrawal and Adjustment of Suits",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O23R4",
+    "title": "Proceedings in execution of decrees not affected.",
+    "content": "Nothing in this Order shall apply to any proceedings in execution of a decree or order.\n",
+    "html": "<article class=\"provision\" data-n=\"O23R4\" data-report=\"Order 23, Rule 4 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Proceedings in execution of decrees not affected.</h3></div><p class=\"prov-cite\">Order 23, Rule 4</p><div class=\"prov-body\"><p>Nothing in this Order shall apply to any proceedings in execution of a decree or order.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">4</span>Proceedings in execution of decrees not affected.</h3></div><p class=\"prov-cite\">Order 23, Rule 4</p><div class=\"prov-body\"><p>Nothing in this Order shall apply to any proceedings in execution of a decree or order.</p></div>"
+  }
+}

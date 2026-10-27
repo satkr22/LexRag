@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_14_chunk_0",
+    "section_id": "constitution_section_14",
+    "token_count": 45,
+    "text": "[Act: constitution\n Chapter: Fundamental Rights\n Section: 14::Equality before law\n]\n\n\nThe State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+    "metadata": {
+      "chunk_id": "constitution_section_14_chunk_0",
+      "section_id": "constitution_section_14",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part III",
+      "chapter_title": "Fundamental Rights",
+      "section_number": "14",
+      "section_title": "Equality before law"
+    }
+  }
+]

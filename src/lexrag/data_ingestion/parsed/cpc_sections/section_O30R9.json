@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-48.html",
+    "source_order": 48,
+    "article_order": 9,
+    "order": 685,
+    "stem": "section_O30R9",
+    "heading_number": "Order XXX",
+    "heading_title": "Suits by or against firms and persons carrying on business in names other than their own",
+    "heading_range": "10 rules",
+    "heading_source": "group-head",
+    "article_number": "O30R9",
+    "article_title": "Suits between co-partners.",
+    "id": "cpc_section_O30R9"
+  },
+  "id": "cpc_section_O30R9",
+  "heading": {
+    "number": "Order XXX",
+    "title": "Suits by or against firms and persons carrying on business in names other than their own",
+    "range": "10 rules"
+  },
+  "article": {
+    "number": "O30R9",
+    "title": "Suits between co-partners.",
+    "content": "This Order shall apply to suits between a firm and one or more of the partners therein and to suits between firms having one or more partners in common; but no execution shall be issued in such suits except by leave of the Court, and, on an application for leave to issue such execution, all such accounts and inquiries may be directed to be taken and made and directions given as may be just.\n",
+    "html": "<article class=\"provision\" data-n=\"O30R9\" data-report=\"Order 30, Rule 9 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Suits between co-partners.</h3></div><p class=\"prov-cite\">Order 30, Rule 9</p><div class=\"prov-body\"><p>This Order shall apply to suits between a firm and one or more of the partners therein and to suits between firms having one or more partners in common; but no execution shall be issued in such suits except by leave of the Court, and, on an application for leave to issue such execution, all such accounts and inquiries may be directed to be taken and made and directions given as may be just.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">9</span>Suits between co-partners.</h3></div><p class=\"prov-cite\">Order 30, Rule 9</p><div class=\"prov-body\"><p>This Order shall apply to suits between a firm and one or more of the partners therein and to suits between firms having one or more partners in common; but no execution shall be issued in such suits except by leave of the Court, and, on an application for leave to issue such execution, all such accounts and inquiries may be directed to be taken and made and directions given as may be just.</p></div>"
+  }
+}

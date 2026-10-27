@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_271AA_chunk_0",
+    "section_id": "income-tax-1961_section_271AA",
+    "token_count": 252,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 271AA::Penalty for failure to keep and maintain information and document, etc., in respect of certain transactions.\n]\n\n\n(1) Without prejudice to the provisions of section 270A or section 271 or section 271BA, if any person in respect of an international transaction or specified domestic transaction,—\n(i) fails to keep and maintain any such information and document as required by sub-section (1) or sub-section (2) of section 92D;\n(ii) fails to report such transaction which he is required to do so; or\n(iii) maintains or furnishes an incorrect information or document, the Assessing Officer or Commissioner (Appeals) may direct that such person shall pay, by way of penalty, a sum equal to two per cent of the value of each international transaction or specified domestic transaction entered into by such person.\n(2) If any person fails to furnish the information and the document as required under sub-section (4) of section 92D, the prescribed income-tax authority referred to in the said sub-section may direct that such person shall pay, by way of penalty, a sum of five hundred thousand rupees.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_271AA_chunk_0",
+      "section_id": "income-tax-1961_section_271AA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "271AA",
+      "section_title": "Penalty for failure to keep and maintain information and document, etc., in respect of certain transactions."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_12_chunk_0",
+    "section_id": "income-tax-2025_section_12",
+    "token_count": 155,
+    "text": "[Act: income-tax-2025\n Chapter: Incomes Which Do not Form Part of Total Income\n Section: 12::Incomes not included in total income of political parties and electoral trusts.\n]\n\n\n(1) In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein.\n(2) Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year.\n(3) The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_12_chunk_0",
+      "section_id": "income-tax-2025_section_12",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter III",
+      "chapter_title": "Incomes Which Do not Form Part of Total Income",
+      "section_number": "12",
+      "section_title": "Incomes not included in total income of political parties and electoral trusts."
+    }
+  }
+]

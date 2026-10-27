@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_40_chunk_0",
+    "section_id": "gst_section_40",
+    "token_count": 64,
+    "text": "[Act: gst\n Chapter: Returns\n Section: 40::First return.\n]\n\n\nEvery registered person who has made outward supplies in the period between the date on which he became liable to registration till the date on which registration has been granted shall declare the same in the first return furnished by him after grant of registration.",
+    "metadata": {
+      "chunk_id": "gst_section_40_chunk_0",
+      "section_id": "gst_section_40",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Returns",
+      "section_number": "40",
+      "section_title": "First return."
+    }
+  }
+]

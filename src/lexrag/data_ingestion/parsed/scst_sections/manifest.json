@@ -1,0 +1,170 @@
+{
+  "act": "scst",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/scst_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/scst_sections",
+  "count": 27,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Punishments for offences atrocities.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "1 [Punishment for neglect of duties.",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Enhanced punishment subsequent conviction.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Application of certain provisions of the Indian Penal Code.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Forfeiture of property of certain persons.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Presumption as to offences.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Conferment of powers.",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Removal of person likely to commit offence.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Procedure on failure of person to remove himself from area and enter thereon after removal.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Taking measurements and photographs, etc., of persons against whom order under section 10 is made.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Penalty for non-compliance of order under section 10.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "1 [Special Court and Exclusive Special Court.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "14A",
+      "article_title": "1 [Appeals.",
+      "file": "section_14A.json"
+    },
+    {
+      "order": 16,
+      "article_number": "15",
+      "article_title": "2 [Special Public Prosecutor and Exclusive Public Prosecutor.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 17,
+      "article_number": "15A",
+      "article_title": "Rights of victims and witnesses.",
+      "file": "section_15A.json"
+    },
+    {
+      "order": 18,
+      "article_number": "16",
+      "article_title": "Power of State Government to impose collective fine.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 19,
+      "article_number": "17",
+      "article_title": "Preventive action to be taken by the law and order machinery.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 20,
+      "article_number": "18",
+      "article_title": "Section 438 of the Code not to apply to persons committing an offence under the Act.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 21,
+      "article_number": "18A",
+      "article_title": "1 [No enquiry or approval required.",
+      "file": "section_18A.json"
+    },
+    {
+      "order": 22,
+      "article_number": "19",
+      "article_title": "Section 360 of the Code or the provisions of the Probation of Offenders Act not to apply to persons guilty of an offence under the Act.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 23,
+      "article_number": "20",
+      "article_title": "Act to override other laws.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 24,
+      "article_number": "21",
+      "article_title": "Duty of Government to ensure effective implementation of the Act.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 25,
+      "article_number": "22",
+      "article_title": "Protection of action taken in good faith.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 26,
+      "article_number": "23",
+      "article_title": "Power to make rules.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 27,
+      "article_number": "schedule",
+      "article_title": "The Schedule 1",
+      "file": "section_schedule.json"
+    }
+  ]
+}

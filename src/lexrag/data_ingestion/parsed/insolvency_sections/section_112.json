@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-11.html",
+    "source_order": 11,
+    "article_order": 19,
+    "order": 135,
+    "stem": "section_112",
+    "heading_number": "Part III · Chapter III",
+    "heading_title": "Insolvency Resolution Process",
+    "heading_range": "ss. 94–120",
+    "heading_source": "group-head",
+    "article_number": "112",
+    "article_title": "Report of meeting of creditors on repayment plan.",
+    "id": "insolvency_section_112"
+  },
+  "id": "insolvency_section_112",
+  "heading": {
+    "number": "Part III · Chapter III",
+    "title": "Insolvency Resolution Process",
+    "range": "ss. 94–120"
+  },
+  "article": {
+    "number": "112",
+    "title": "Report of meeting of creditors on repayment plan.",
+    "content": "(1) The resolution professional shall prepare a report of the meeting of the creditors on repayment plan.\n(2) The report under sub-section (1) shall contain—\n(a) whether the repayment plan was approved or rejected and if approved, the list the modifications, if any;\n(b) the resolutions which were proposed at the meeting and the decision on such resolutions;\n(c) list of the creditors who were present or represented at the meeting, and the voting records of each creditor for all meetings of the creditors; and\n(d) such other information as the resolution professional thinks appropriate to make known to the Adjudicating Authority.\n",
+    "html": "<article class=\"provision\" data-n=\"112\" data-report=\"Section 112 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">112</span>Report of meeting of creditors on repayment plan.</h3></div><p class=\"prov-cite\">Section 112  ·  Part III · Chapter III  ·  pages 102–103 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The resolution professional shall prepare a report of the meeting of the creditors on repayment plan.</p><p class=\"lvl\">(2) The report under sub-section (1) shall contain—</p><p class=\"lvl\">(a) whether the repayment plan was approved or rejected and if approved, the list the modifications, if any;</p><p class=\"lvl\">(b) the resolutions which were proposed at the meeting and the decision on such resolutions;</p><p class=\"lvl\">(c) list of the creditors who were present or represented at the meeting, and the voting records of each creditor for all meetings of the creditors; and</p><p class=\"lvl\">(d) such other information as the resolution professional thinks appropriate to make known to the Adjudicating Authority.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">112</span>Report of meeting of creditors on repayment plan.</h3></div><p class=\"prov-cite\">Section 112  ·  Part III · Chapter III  ·  pages 102–103 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The resolution professional shall prepare a report of the meeting of the creditors on repayment plan.</p><p class=\"lvl\">(2) The report under sub-section (1) shall contain—</p><p class=\"lvl\">(a) whether the repayment plan was approved or rejected and if approved, the list the modifications, if any;</p><p class=\"lvl\">(b) the resolutions which were proposed at the meeting and the decision on such resolutions;</p><p class=\"lvl\">(c) list of the creditors who were present or represented at the meeting, and the voting records of each creditor for all meetings of the creditors; and</p><p class=\"lvl\">(d) such other information as the resolution professional thinks appropriate to make known to the Adjudicating Authority.</p></div>"
+  }
+}

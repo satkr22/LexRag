@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "arbitration_section_42A_chunk_0",
+    "section_id": "arbitration_section_42A",
+    "token_count": 80,
+    "text": "[Act: arbitration\n Chapter: Miscellaneous\n Section: 42A::1 [Confidentiality of information.\n]\n\n\nNotwithstanding anything contained by any other law for the time being in force, the arbitrator, the arbitral institution and the parties to the arbitration agreement shall maintain confidentially of all arbitral proceedings except award where its disclosure is necessary for the purpose of implementation and enforcement of award.",
+    "metadata": {
+      "chunk_id": "arbitration_section_42A_chunk_0",
+      "section_id": "arbitration_section_42A",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "arbitration",
+      "document_title": null,
+      "chapter_number": "Part I · Chapter X",
+      "chapter_title": "Miscellaneous",
+      "section_number": "42A",
+      "section_title": "1 [Confidentiality of information."
+    }
+  }
+]

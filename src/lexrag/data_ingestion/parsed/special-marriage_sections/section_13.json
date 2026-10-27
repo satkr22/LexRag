@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "special-marriage",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": null,
+    "source_file": "special-marriage_sections/section-13.html",
+    "source_order": 17,
+    "article_order": 1,
+    "order": 17,
+    "stem": "section_13",
+    "heading_number": "Chapter II",
+    "heading_title": "Solemnization of Special Marriages",
+    "heading_range": "ss. 4–14",
+    "heading_source": "manifest",
+    "article_number": "13",
+    "article_title": "Certificate of marriage.",
+    "id": "special-marriage_section_13"
+  },
+  "id": "special-marriage_section_13",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Solemnization of Special Marriages",
+    "range": "ss. 4–14"
+  },
+  "article": {
+    "number": "13",
+    "title": "Certificate of marriage.",
+    "content": "(1) When the marriage has been solemnized, the Marriage Officer shall enter a certificate thereof in the form specified in the Fourth Schedule in a book to be kept by him for that purpose and to be called the Marriage Certificate Book and such certificate shall be signed by the parties to the marriage and the three witnesses.\n(2) On a certificate being entered in the Marriage Certificate Book by the Marriage Officer, the Certificate shall be deemed to be conclusive evidence of the fact that a marriage under this Act has been solemnized and that all formalities respecting the signatures of witnesses have been complied with.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Certificate of marriage.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When the marriage has been solemnized, the Marriage Officer shall enter a certificate thereof in the form specified in the Fourth Schedule in a book to be kept by him for that purpose and to be called the Marriage Certificate Book and such certificate shall be signed by the parties to the marriage and the three witnesses.</p><p class=\"lvl\">(2) On a certificate being entered in the Marriage Certificate Book by the Marriage Officer, the Certificate shall be deemed to be conclusive evidence of the fact that a marriage under this Act has been solemnized and that all formalities respecting the signatures of witnesses have been complied with.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Certificate of marriage.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) When the marriage has been solemnized, the Marriage Officer shall enter a certificate thereof in the form specified in the Fourth Schedule in a book to be kept by him for that purpose and to be called the Marriage Certificate Book and such certificate shall be signed by the parties to the marriage and the three witnesses.</p><p class=\"lvl\">(2) On a certificate being entered in the Marriage Certificate Book by the Marriage Officer, the Certificate shall be deemed to be conclusive evidence of the fact that a marriage under this Act has been solemnized and that all formalities respecting the signatures of witnesses have been complied with.</p></div>"
+  }
+}

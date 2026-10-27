@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-20.html",
+    "source_order": 20,
+    "article_order": 60,
+    "order": 333,
+    "stem": "section_329",
+    "heading_number": "Chapter XX",
+    "heading_title": "Winding Up",
+    "heading_range": "ss. 270–365",
+    "heading_source": "group-head",
+    "article_number": "329",
+    "article_title": "Transfers not in good faith to be void.",
+    "id": "companies_section_329"
+  },
+  "id": "companies_section_329",
+  "heading": {
+    "number": "Chapter XX",
+    "title": "Winding Up",
+    "range": "ss. 270–365"
+  },
+  "article": {
+    "number": "329",
+    "title": "Transfers not in good faith to be void.",
+    "content": "Any transfer of property, movable or immovable, or any delivery of goods, made by a company, not being a transfer or delivery made in the ordinary course of its business or in favour of a purchaser or encumbrancer in good faith and for valuable consideration, if made within a period of one year before the presentation of a petition for winding up by the Tribunal under this Act shall be void against the Company Liquidator.]\n",
+    "html": "<article class=\"provision\" data-n=\"329\" data-report=\"Section 329 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">329</span><sup>3</sup>[Transfers not in good faith to be void.</h3></div><p class=\"prov-cite\">Section 329  ·  Chapter XX  ·  Part III  ·  page 185 of the Act</p><div class=\"prov-body\"><p>Any transfer of property, movable or immovable, or any delivery of goods, made by a company, not being a transfer or delivery made in the ordinary course of its business or in favour of a purchaser or encumbrancer in good faith and for valuable consideration, if made within a period of one year before the presentation of a petition for winding up by the Tribunal under this Act shall be void against the Company Liquidator.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by Act 31 of 2016, s. 255 and the Eleventh Schedule, for section 329 (w.e.f. 15-11-2016).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">329</span><sup>3</sup>[Transfers not in good faith to be void.</h3></div><p class=\"prov-cite\">Section 329  ·  Chapter XX  ·  Part III  ·  page 185 of the Act</p><div class=\"prov-body\"><p>Any transfer of property, movable or immovable, or any delivery of goods, made by a company, not being a transfer or delivery made in the ordinary course of its business or in favour of a purchaser or encumbrancer in good faith and for valuable consideration, if made within a period of one year before the presentation of a petition for winding up by the Tribunal under this Act shall be void against the Company Liquidator.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> Subs. by Act 31 of 2016, s. 255 and the Eleventh Schedule, for section 329 (w.e.f. 15-11-2016).</p></div></div>"
+  }
+}

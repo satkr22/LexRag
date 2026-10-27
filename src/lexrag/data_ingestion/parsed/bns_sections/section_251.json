@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-14.html",
+    "source_order": 14,
+    "article_order": 25,
+    "order": 251,
+    "stem": "section_251",
+    "heading_number": "Chapter XIV",
+    "heading_title": "Of False Evidence and Offences Against Public Justice",
+    "heading_range": "227 – 269",
+    "heading_source": "group-head",
+    "article_number": "251",
+    "article_title": "Offering gift or restoration of property in consideration of screening offender",
+    "id": "bns_section_251"
+  },
+  "id": "bns_section_251",
+  "heading": {
+    "number": "Chapter XIV",
+    "title": "Of False Evidence and Offences Against Public Justice",
+    "range": "227 – 269"
+  },
+  "article": {
+    "number": "251",
+    "title": "Offering gift or restoration of property in consideration of screening offender",
+    "content": "Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,—\n(a)if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;\n(b)if the offence is punishable with imprisonment for life or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;\n(c)if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.\nExceptionThe provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.\n",
+    "html": "<article class=\"provision\" data-n=\"251\" data-report=\"Section 251 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">251</span>Offering gift or restoration of property in consideration of screening offender</h3></div><p class=\"prov-cite\">Section 251 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,—</p><p><span class=\"lbl\">(a)</span>if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;</p><p><span class=\"lbl\">(b)</span>if the offence is punishable with imprisonment for life or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;</p><p><span class=\"lbl\">(c)</span>if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.</p><p><span class=\"named\">Exception</span>The provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">251</span>Offering gift or restoration of property in consideration of screening offender</h3></div><p class=\"prov-cite\">Section 251 · Chapter XIV</p><div class=\"prov-body\"><p>Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,—</p><p><span class=\"lbl\">(a)</span>if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;</p><p><span class=\"lbl\">(b)</span>if the offence is punishable with imprisonment for life or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;</p><p><span class=\"lbl\">(c)</span>if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.</p><p><span class=\"named\">Exception</span>The provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.</p></div>"
+  }
+}

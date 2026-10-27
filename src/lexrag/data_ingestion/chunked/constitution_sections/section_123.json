@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_123_chunk_0",
+    "section_id": "constitution_section_123",
+    "token_count": 269,
+    "text": "[Act: constitution\n Chapter: The Union\n Section: 123::Power of President to promulgate Ordinances during recess of Parliament\n]\n\n\n(1)If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.\n(2)An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance—\n(a)shall be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or, if before the expiration of that period resolutions disapproving it are passed by both Houses, upon the passing of the second of those resolutions; and\n(b)may be withdrawn at any time by the President.\nExplanationWhere the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.\n(3)If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.\n(4)1* * * * *",
+    "metadata": {
+      "chunk_id": "constitution_section_123_chunk_0",
+      "section_id": "constitution_section_123",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part V",
+      "chapter_title": "The Union",
+      "section_number": "123",
+      "section_title": "Power of President to promulgate Ordinances during recess of Parliament"
+    }
+  }
+]

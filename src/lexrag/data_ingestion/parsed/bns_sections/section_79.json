@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-05.html",
+    "source_order": 5,
+    "article_order": 17,
+    "order": 79,
+    "stem": "section_79",
+    "heading_number": "Chapter V",
+    "heading_title": "Of Offences Against Woman and Child",
+    "heading_range": "63 – 99",
+    "heading_source": "group-head",
+    "article_number": "79",
+    "article_title": "Word, gesture or act intended to insult modesty of a woman",
+    "id": "bns_section_79"
+  },
+  "id": "bns_section_79",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Of Offences Against Woman and Child",
+    "range": "63 – 99"
+  },
+  "article": {
+    "number": "79",
+    "title": "Word, gesture or act intended to insult modesty of a woman",
+    "content": "Whoever, intending to insult the modesty of any woman, utters any words, makes any sound or gesture, or exhibits any object in any form, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.\n",
+    "html": "<article class=\"provision\" data-n=\"79\" data-report=\"Section 79 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>Word, gesture or act intended to insult modesty of a woman</h3></div><p class=\"prov-cite\">Section 79 · Chapter V · Of criminal force and assault against woman</p><div class=\"prov-body\"><p>Whoever, intending to insult the modesty of any woman, utters any words, makes any sound or gesture, or exhibits any object in any form, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>Word, gesture or act intended to insult modesty of a woman</h3></div><p class=\"prov-cite\">Section 79 · Chapter V · Of criminal force and assault against woman</p><div class=\"prov-body\"><p>Whoever, intending to insult the modesty of any woman, utters any words, makes any sound or gesture, or exhibits any object in any form, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.</p></div>"
+  }
+}

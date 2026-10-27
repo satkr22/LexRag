@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "arbitration",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "arbitration_sections/section-21.html",
+    "source_order": 27,
+    "article_order": 1,
+    "order": 27,
+    "stem": "section_21",
+    "heading_number": "Part I · Chapter V",
+    "heading_title": "Conduct of arbitral proceedings",
+    "heading_range": "ss. 18–27",
+    "heading_source": "manifest",
+    "article_number": "21",
+    "article_title": "Commencement of arbitral proceedings.",
+    "id": "arbitration_section_21"
+  },
+  "id": "arbitration_section_21",
+  "heading": {
+    "number": "Part I · Chapter V",
+    "title": "Conduct of arbitral proceedings",
+    "range": "ss. 18–27"
+  },
+  "article": {
+    "number": "21",
+    "title": "Commencement of arbitral proceedings.",
+    "content": "Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">21</span>Commencement of arbitral proceedings.</h3></div><p class=\"prov-cite\">Section 21  ·  Part I · Chapter V  ·  page 17 of the Act</p><div class=\"prov-body\"><p>Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">21</span>Commencement of arbitral proceedings.</h3></div><p class=\"prov-cite\">Section 21  ·  Part I · Chapter V  ·  page 17 of the Act</p><div class=\"prov-body\"><p>Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent.</p></div>"
+  }
+}

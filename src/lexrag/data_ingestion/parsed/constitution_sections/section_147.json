@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 103,
+    "order": 166,
+    "stem": "section_147",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "147",
+    "article_title": "Interpretation",
+    "id": "constitution_section_147"
+  },
+  "id": "constitution_section_147",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "147",
+    "title": "Interpretation",
+    "content": "In this Chapter and in Chapter V of Part VI, references to any substantial question of law as to the interpretation of this Constitution shall be construed as including references to any substantial question of law as to the interpretation of the Government of India Act, 1935 (including any enactment amending or supplementing that Act), or of any Order in Council or order made thereunder, or of the Indian Independence Act, 1947, or of any order made thereunder.\n",
+    "html": "<article class=\"provision\" data-n=\"147\" data-report=\"Article 147 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">147</span>Interpretation</h3></div><p class=\"prov-cite\">Article 147 · Part V</p><div class=\"prov-body\"><p>In this Chapter and in Chapter V of Part VI, references to any substantial question of law as to the interpretation of this Constitution shall be construed as including references to any substantial question of law as to the interpretation of the Government of India Act, 1935 (including any enactment amending or supplementing that Act), or of any Order in Council or order made thereunder, or of the Indian Independence Act, 1947, or of any order made thereunder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">147</span>Interpretation</h3></div><p class=\"prov-cite\">Article 147 · Part V</p><div class=\"prov-body\"><p>In this Chapter and in Chapter V of Part VI, references to any substantial question of law as to the interpretation of this Constitution shall be construed as including references to any substantial question of law as to the interpretation of the Government of India Act, 1935 (including any enactment amending or supplementing that Act), or of any Order in Council or order made thereunder, or of the Indian Independence Act, 1947, or of any order made thereunder.</p></div>"
+  }
+}

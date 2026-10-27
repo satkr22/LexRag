@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-41.html",
+    "source_order": 46,
+    "article_order": 20,
+    "order": 703,
+    "stem": "section_245L",
+    "heading_number": "Chapter XIX-A",
+    "heading_title": "Settlement of cases",
+    "heading_range": "ss. 245A–245M",
+    "heading_source": "group-head",
+    "article_number": "245L",
+    "article_title": "Proceedings before Settlement Commission to be judicial proceedings.",
+    "id": "income-tax-1961_section_245L"
+  },
+  "id": "income-tax-1961_section_245L",
+  "heading": {
+    "number": "Chapter XIX-A",
+    "title": "Settlement of cases",
+    "range": "ss. 245A–245M"
+  },
+  "article": {
+    "number": "245L",
+    "title": "Proceedings before Settlement Commission to be judicial proceedings.",
+    "content": "Any proceeding under this Chapter before the Settlement Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196, of the Indian Penal Code (45 of 1860).\n",
+    "html": "<article class=\"provision\" data-n=\"245L\" data-report=\"Section 245L · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245L</span>Proceedings before Settlement Commission to be judicial proceedings.</h3></div><p class=\"prov-cite\">Section 245L  ·  Chapter XIX-A  ·  page 862 of the Act</p><div class=\"prov-body\"><p>Any proceeding under this Chapter before the Settlement Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196, of the Indian Penal Code (45 of 1860).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">245L</span>Proceedings before Settlement Commission to be judicial proceedings.</h3></div><p class=\"prov-cite\">Section 245L  ·  Chapter XIX-A  ·  page 862 of the Act</p><div class=\"prov-body\"><p>Any proceeding under this Chapter before the Settlement Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196, of the Indian Penal Code (45 of 1860).</p></div>"
+  }
+}

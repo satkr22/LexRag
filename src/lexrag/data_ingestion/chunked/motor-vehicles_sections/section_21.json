@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_21_chunk_0",
+    "section_id": "motor-vehicles_section_21",
+    "token_count": 390,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 21::Suspension of driving licence in certain cases.\n]\n\n\n(1) Where, in relation to a person who had been previously convicted of an offence punishable under section 184, a case is registered by a police officer on the allegation that such person has, by such dangerous driving as is referred to in the said section 184, of any class or description of motor vehicle caused the death of, or grievous hurt to, one or more persons, the driving licence held by such person shall in relation to such class or description of motor vehicle become suspended—\n(a) for a period of six months from the date on which the case is registered, or\n(b) if such person is discharged or acquitted before the expiry of the period aforesaid, until such discharge or acquittal, as the case may be.\n(2) Where by virtue of the provisions of sub-section (1), the driving licence held by a person becomes suspended, the police officer, by whom the case referred to in sub-section (1) is registered, shall bring such suspension to the notice of the Court competent to take cognizance of such offence, and thereupon, such Court shall take possession of the driving licence, endorse the suspension thereon and intimate the fact of such endorsement to the licensing authority by which the licence was granted or last renewed.\n(3) Where the person referred to in sub-section (1) is acquitted or discharged, the Court shall cancel the endorsement on such driving licence with regard to the suspension thereof.\n(4) If a driving licence in relation to a particular class or description of motor vehicles is suspended under sub-section (1), the person holding such licence shall be debarred from holding or obtaining any licence to drive such particular class or description of motor vehicles so long as the suspension of the driving licence remains in force.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_21_chunk_0",
+      "section_id": "motor-vehicles_section_21",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "21",
+      "section_title": "Suspension of driving licence in certain cases."
+    }
+  }
+]

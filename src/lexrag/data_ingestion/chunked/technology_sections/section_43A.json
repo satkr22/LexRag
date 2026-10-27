@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_43A_chunk_0",
+    "section_id": "technology_section_43A",
+    "token_count": 362,
+    "text": "[Act: technology\n Chapter: Penalties, Compensation and Adjudication5\n Section: 43A::Compensation for failure to protect data.\n]\n\n\n3[43A. Compensation for failure to protect data.–Where a body corporate, possessing, dealing or handling any sensitive personal data or information in a computer resource which it owns, controls or operates, is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate shall be liable to pay damages by way of compensation to the person so affected.\nExplanation.–For the purposes of this section,–\n(i) “body corporate” means any company and includes a firm, sole proprietorship or other association of individuals engaged in commercial or professional activities;\n(ii) “reasonable security practices and procedures” means security practices and procedures designed to protect such information from unauthorised access, damage, use, modification, disclosure or impairment, as may be specified in an agreement between the parties or as may be specified in any law for the time being in force and in the absence of such agreement or any law, such reasonable security practices and procedures, as may be prescribed by the Central Government in consultation with such professional bodies or associations as it may deem fit;\n(iii) “sensitive personal data or information” means such personal information as may be prescribed by the Central Government in consultation with such professional bodies or associations as it may deem fit.]\nInserted by Act 10 of 2009, s. 22 (w.e.f. 27-10-2009).\nPending: to be omitted by the Digital Personal Data Protection Act, 2023 (22 of 2023), s. 44(2)(a), w.e.f. 13-05-2027.",
+    "metadata": {
+      "chunk_id": "technology_section_43A_chunk_0",
+      "section_id": "technology_section_43A",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Penalties, Compensation and Adjudication5",
+      "section_number": "43A",
+      "section_title": "Compensation for failure to protect data."
+    }
+  }
+]

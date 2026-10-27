@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_391_chunk_0",
+    "section_id": "income-tax-2025_section_391",
+    "token_count": 310,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 391::Direct payment.\n]\n\n\n(1) The income-tax on any income shall be payable directly by the assessee if—\n(a) there is no provision under this Chapter to deduct income-tax on such income at the time of payment; or\n(b) income-tax has not been deducted as per the provisions of this Chapter.\n(2) If an assessee has any income of the nature as specified in section 17(1)(d) and such specified security or sweat equity shares are allotted or transferred directly or indirectly by the current employer which is an eligible start-up referred to in section 140, then direct payment of tax for the purposes of sub-section\n(1) shall be made in accordance with in section 289(3).\n(3) Where any person, including the principal officer of the company,—\n(a) who is required to deduct any sum as per the provisions of this Act; or\n(b) referred to in section 392(2)(a), being an employer, does not deduct, or after so deducting fails to pay, or does not pay, the whole or any part of the tax, as required under this Act, and where the assessee has also failed to pay such tax directly, then, such person shall, apart from any other consequences that he may incur, be deemed to be an assessee in default within the meaning of section 398(1), in respect of such tax.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_391_chunk_0",
+      "section_id": "income-tax-2025_section_391",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "391",
+      "section_title": "Direct payment."
+    }
+  }
+]

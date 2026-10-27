@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_167A_chunk_0",
+    "section_id": "income-tax-1961_section_167A",
+    "token_count": 69,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 167A::Charge of tax in the case of a firm.\n]\n\n\nIn the case of a firm which is assessable as a firm, tax shall be charged on its total income at the rate as specified in the Finance Act of the relevant year.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_167A_chunk_0",
+      "section_id": "income-tax-1961_section_167A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "167A",
+      "section_title": "Charge of tax in the case of a firm."
+    }
+  }
+]

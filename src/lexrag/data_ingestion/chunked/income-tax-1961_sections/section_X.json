@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_X_chunk_0",
+    "section_id": "income-tax-1961_section_X",
+    "token_count": 51,
+    "text": "[Act: income-tax-1961\n Chapter: The Schedules\n Section: X::THE TENTH SCHEDULE\n]\n\n\n[Omitted by the Finance Act, 1999, w.e.f. 1-4-2000.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_X_chunk_0",
+      "section_id": "income-tax-1961_section_X",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Schedules",
+      "chapter_title": "The Schedules",
+      "section_number": "X",
+      "section_title": "THE TENTH SCHEDULE"
+    }
+  }
+]

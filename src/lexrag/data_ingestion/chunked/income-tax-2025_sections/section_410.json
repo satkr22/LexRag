@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_410_chunk_0",
+    "section_id": "income-tax-2025_section_410",
+    "token_count": 95,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 410::Credit for advance tax.\n]\n\n\nAny sum, other than a penalty or interest, paid by or recovered from an assessee as advance tax in pursuance of this Part shall be treated as a payment of tax in respect of the income of the tax year in which it was payable, and credit therefor shall be given to such assessee in the regular assessment.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_410_chunk_0",
+      "section_id": "income-tax-2025_section_410",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "410",
+      "section_title": "Credit for advance tax."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-11.html",
+    "source_order": 11,
+    "article_order": 23,
+    "order": 175,
+    "stem": "section_171",
+    "heading_number": "Chapter XI",
+    "heading_title": "Appointment and Qualifications of Directors",
+    "heading_range": "ss. 149–172",
+    "heading_source": "group-head",
+    "article_number": "171",
+    "article_title": "Members’ right to inspect.",
+    "id": "companies_section_171"
+  },
+  "id": "companies_section_171",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Appointment and Qualifications of Directors",
+    "range": "ss. 149–172"
+  },
+  "article": {
+    "number": "171",
+    "title": "Members’ right to inspect.",
+    "content": "(1) The register kept under sub-section (1) of section 170,—\n(a) shall be open for inspection during business hours and the members shall have a right to take extracts therefrom and copies thereof, on a request by the members, be provided to them free of cost within thirty days; and\n(b) shall also be kept open for inspection at every annual general meeting of the company and shall be made accessible to any person attending the meeting.\n(2) If any inspection as provided in clause (a) of sub-section (1) is refused, or if any copy required under that clause is not sent within thirty days from the date of receipt of such request, the Registrar shall on an application made to him order immediate inspection and supply of copies required thereunder.\n",
+    "html": "<article class=\"provision\" data-n=\"171\" data-report=\"Section 171 · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">171</span>Members’ right to inspect.</h3></div><p class=\"prov-cite\">Section 171  ·  Chapter XI  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The register kept under sub-section (1) of section 170,—</p><p class=\"lvl\">(a) shall be open for inspection during business hours and the members shall have a right to take extracts therefrom and copies thereof, on a request by the members, be provided to them free of cost within thirty days; and</p><p class=\"lvl\">(b) shall also be kept open for inspection at every annual general meeting of the company and shall be made accessible to any person attending the meeting.</p><p class=\"lvl\">(2) If any inspection as provided in clause (a) of sub-section (1) is refused, or if any copy required under that clause is not sent within thirty days from the date of receipt of such request, the Registrar shall on an application made to him order immediate inspection and supply of copies required thereunder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">171</span>Members’ right to inspect.</h3></div><p class=\"prov-cite\">Section 171  ·  Chapter XI  ·  page 116 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The register kept under sub-section (1) of section 170,—</p><p class=\"lvl\">(a) shall be open for inspection during business hours and the members shall have a right to take extracts therefrom and copies thereof, on a request by the members, be provided to them free of cost within thirty days; and</p><p class=\"lvl\">(b) shall also be kept open for inspection at every annual general meeting of the company and shall be made accessible to any person attending the meeting.</p><p class=\"lvl\">(2) If any inspection as provided in clause (a) of sub-section (1) is refused, or if any copy required under that clause is not sent within thirty days from the date of receipt of such request, the Registrar shall on an application made to him order immediate inspection and supply of copies required thereunder.</p></div>"
+  }
+}

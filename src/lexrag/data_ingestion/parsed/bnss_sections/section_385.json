@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-28.html",
+    "source_order": 28,
+    "article_order": 7,
+    "order": 385,
+    "stem": "section_385",
+    "heading_number": "Chapter XXVIII",
+    "heading_title": "Provisions as to Offences Affecting the Administration of Justice",
+    "heading_range": "379 – 391",
+    "heading_source": "group-head",
+    "article_number": "385",
+    "article_title": "Procedure where Court considers that case should not be dealt with under section 384",
+    "id": "bnss_section_385"
+  },
+  "id": "bnss_section_385",
+  "heading": {
+    "number": "Chapter XXVIII",
+    "title": "Provisions as to Offences Affecting the Administration of Justice",
+    "range": "379 – 391"
+  },
+  "article": {
+    "number": "385",
+    "title": "Procedure where Court considers that case should not be dealt with under section 384",
+    "content": "(1)If the Court in any case considers that a person accused of any of the offences referred to in section 384 and committed in its view or presence should be imprisoned otherwise than in default of payment of fine, or that a fine exceeding two hundred rupees should be imposed upon him, or such Court is for any other reason of opinion that the case should not be disposed of under section 384, such Court, after recording the facts constituting the offence and the statement of the accused as hereinbefore provided, may forward the case to a Magistrate having jurisdiction to try the same, and may require security to be given for the appearance of such person before such Magistrate, or if sufficient security is not given, shall forward such person in custody to such Magistrate.\n(2)The Magistrate to whom any case is forwarded under this section shall proceed to deal with, as far as may be, as if it were instituted on a police report.\n",
+    "html": "<article class=\"provision\" data-n=\"385\" data-report=\"Section 385 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">385</span>Procedure where Court considers that case should not be dealt with under section 384</h3></div><p class=\"prov-cite\">Section 385 · Chapter XXVIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If the Court in any case considers that a person accused of any of the offences referred to in section 384 and committed in its view or presence should be imprisoned otherwise than in default of payment of fine, or that a fine exceeding two hundred rupees should be imposed upon him, or such Court is for any other reason of opinion that the case should not be disposed of under section 384, such Court, after recording the facts constituting the offence and the statement of the accused as hereinbefore provided, may forward the case to a Magistrate having jurisdiction to try the same, and may require security to be given for the appearance of such person before such Magistrate, or if sufficient security is not given, shall forward such person in custody to such Magistrate.</p><p><span class=\"lbl\">(2)</span>The Magistrate to whom any case is forwarded under this section shall proceed to deal with, as far as may be, as if it were instituted on a police report.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">385</span>Procedure where Court considers that case should not be dealt with under section 384</h3></div><p class=\"prov-cite\">Section 385 · Chapter XXVIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>If the Court in any case considers that a person accused of any of the offences referred to in section 384 and committed in its view or presence should be imprisoned otherwise than in default of payment of fine, or that a fine exceeding two hundred rupees should be imposed upon him, or such Court is for any other reason of opinion that the case should not be disposed of under section 384, such Court, after recording the facts constituting the offence and the statement of the accused as hereinbefore provided, may forward the case to a Magistrate having jurisdiction to try the same, and may require security to be given for the appearance of such person before such Magistrate, or if sufficient security is not given, shall forward such person in custody to such Magistrate.</p><p><span class=\"lbl\">(2)</span>The Magistrate to whom any case is forwarded under this section shall proceed to deal with, as far as may be, as if it were instituted on a police report.</p></div>"
+  }
+}

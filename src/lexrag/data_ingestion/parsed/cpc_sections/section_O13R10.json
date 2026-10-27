@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-26.html",
+    "source_order": 26,
+    "article_order": 10,
+    "order": 366,
+    "stem": "section_O13R10",
+    "heading_number": "Order XIII",
+    "heading_title": "Production, Impounding and Return of Documents",
+    "heading_range": "11 rules",
+    "heading_source": "group-head",
+    "article_number": "O13R10",
+    "article_title": "Court may send for papers from its own records or from other Courts.",
+    "id": "cpc_section_O13R10"
+  },
+  "id": "cpc_section_O13R10",
+  "heading": {
+    "number": "Order XIII",
+    "title": "Production, Impounding and Return of Documents",
+    "range": "11 rules"
+  },
+  "article": {
+    "number": "O13R10",
+    "title": "Court may send for papers from its own records or from other Courts.",
+    "content": "(1) The Court may of its own motion, and may in its discretion upon the application of any of the parties to a suit, send for, either from its own records or from any other Court, the record of any other suit or proceeding, and inspect the same.\n(2) Every application made under this rule shall (unless the Court otherwise directs) be supported by an affidavit showing how the record is material to the suit in which the application is made, and that the applicant cannot without unreasonable delay or expense obtain a duly authenticated copy of the record or of such portion thereof as the applicant requires, or that the production of the original is necessary for the purposes of justice.\n(3) Nothing contained in this rule shall be deemed to enable the Court to use in evidence any document which under the law of evidence would be inadmissible in the suit.\n",
+    "html": "<article class=\"provision\" data-n=\"O13R10\" data-report=\"Order 13, Rule 10 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Court may send for papers from its own records or from other Courts.</h3></div><p class=\"prov-cite\">Order 13, Rule 10</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Court may of its own motion, and may in its discretion upon the application of any of the parties to a suit, send for, either from its own records or from any other Court, the record of any other suit or proceeding, and inspect the same.</p><p class=\"lvl\">(2) Every application made under this rule shall (unless the Court otherwise directs) be supported by an affidavit showing how the record is material to the suit in which the application is made, and that the applicant cannot without unreasonable delay or expense obtain a duly authenticated copy of the record or of such portion thereof as the applicant requires, or that the production of the original is necessary for the purposes of justice.</p><p class=\"lvl\">(3) Nothing contained in this rule shall be deemed to enable the Court to use in evidence any document which under the law of evidence would be inadmissible in the suit.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Court may send for papers from its own records or from other Courts.</h3></div><p class=\"prov-cite\">Order 13, Rule 10</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Court may of its own motion, and may in its discretion upon the application of any of the parties to a suit, send for, either from its own records or from any other Court, the record of any other suit or proceeding, and inspect the same.</p><p class=\"lvl\">(2) Every application made under this rule shall (unless the Court otherwise directs) be supported by an affidavit showing how the record is material to the suit in which the application is made, and that the applicant cannot without unreasonable delay or expense obtain a duly authenticated copy of the record or of such portion thereof as the applicant requires, or that the production of the original is necessary for the purposes of justice.</p><p class=\"lvl\">(3) Nothing contained in this rule shall be deemed to enable the Court to use in evidence any document which under the law of evidence would be inadmissible in the suit.</p></div>"
+  }
+}

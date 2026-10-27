@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-04b.html",
+    "source_order": 6,
+    "article_order": 40,
+    "order": 120,
+    "stem": "section_50A",
+    "heading_number": "Chapter IV",
+    "heading_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "heading_range": "ss. 14–59",
+    "heading_source": "group-head",
+    "article_number": "50A",
+    "article_title": "Special provision for cost of acquisition in case of depreciable asset.",
+    "id": "income-tax-1961_section_50A"
+  },
+  "id": "income-tax-1961_section_50A",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "range": "ss. 14–59"
+  },
+  "article": {
+    "number": "50A",
+    "title": "Special provision for cost of acquisition in case of depreciable asset.",
+    "content": "Where the capital asset is an asset in respect of which a deduction on account of depreciation under clause (i) of sub-section (1) of section 32 has been obtained by the assessee in any previous year, the provisions of sections 48 and 49 shall apply subject to the modification that the written down value, as defined in clause (6) of section 43, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.\n",
+    "html": "<article class=\"provision\" data-n=\"50A\" data-report=\"Section 50A · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">50A</span>Special provision for cost of acquisition in case of depreciable asset.</h3></div><p class=\"prov-cite\">Section 50A  ·  Chapter IV  ·  E.—Capital gains  ·  page 205 of the Act</p><div class=\"prov-body\"><p>Where the capital asset is an asset in respect of which a deduction on account of depreciation under clause (i) of sub-section (1) of section 32 has been obtained by the assessee in any previous year, the provisions of sections 48 and 49 shall apply subject to the modification that the written down value, as defined in clause (6) of section 43, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">50A</span>Special provision for cost of acquisition in case of depreciable asset.</h3></div><p class=\"prov-cite\">Section 50A  ·  Chapter IV  ·  E.—Capital gains  ·  page 205 of the Act</p><div class=\"prov-body\"><p>Where the capital asset is an asset in respect of which a deduction on account of depreciation under clause (i) of sub-section (1) of section 32 has been obtained by the assessee in any previous year, the provisions of sections 48 and 49 shall apply subject to the modification that the written down value, as defined in clause (6) of section 43, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.</p></div>"
+  }
+}

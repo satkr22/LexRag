@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_14_chunk_0",
+    "section_id": "income-tax-2025_section_14",
+    "token_count": 258,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 14::Income not forming part of total income and expenditure in relation to such income.\n]\n\n\n(1) Irrespective of anything to the contrary contained in this Act, for the purposes of computing the total income under this Chapter, no deduction shall be allowed in respect of expenditure incurred by the assessee in relation to income which does not form part of the total income.\n(2) Where the Assessing Officer, having regard to the accounts of the assessee, is not satisfied with—\n(a) the correctness of the claim of expenditure incurred by the assessee; or\n(b) the claim made by the assessee that no expenditure has been incurred, in relation to income which does not form part of the total income under this Act, he shall determine such amount of expenditure in accordance with any method, as may be prescribed.\n(3) Irrespective of anything to the contrary contained in this Act, the provisions of this section shall apply in a case where any expenditure has been incurred during any tax year in relation to income which does not form part of the total income under this Act, but such income has not accrued or arisen or has not been received during that tax year.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_14_chunk_0",
+      "section_id": "income-tax-2025_section_14",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "14",
+      "section_title": "Income not forming part of total income and expenditure in relation to such income."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "easements",
+    "category_id": "CAT_006",
+    "category_label": "Property, Registration & Easements",
+    "category_code": "property_registration_easements",
+    "document_title": null,
+    "source_file": "easements_sections/section-22.html",
+    "source_order": 22,
+    "article_order": 1,
+    "order": 22,
+    "stem": "section_22",
+    "heading_number": "Chapter III",
+    "heading_title": "The Incidents of Easements",
+    "heading_range": "ss. 20–31",
+    "heading_source": "manifest",
+    "article_number": "22",
+    "article_title": "Exercise of easement Confinement of exercise of easement.",
+    "id": "easements_section_22"
+  },
+  "id": "easements_section_22",
+  "heading": {
+    "number": "Chapter III",
+    "title": "The Incidents of Easements",
+    "range": "ss. 20–31"
+  },
+  "article": {
+    "number": "22",
+    "title": "Exercise of easement Confinement of exercise of easement.",
+    "content": "The dominant owner must exercise his right in the mode which is least onerous to the servient owner; and, when the exercise of an easement can without detriment to the dominant owner be confined to a determinate part of the servient heritage, such exercise shall, at the request of the servient owner, be so confined.\nIllustrations\n(a) A has a right of way over B’s field. A must enter the way at either end and not at any intermediate point.\n(b) A has a right annexed to his house to cut thatching-grass in B’s swamp. A, when exercising his easement, must cut the grass so that the plants may not be destroyed.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Exercise of easement Confinement of exercise of easement.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter III  ·  page 11 of the Act</p><div class=\"prov-body\"><p>The dominant owner must exercise his right in the mode which is least onerous to the servient owner; and, when the exercise of an easement can without detriment to the dominant owner be confined to a determinate part of the servient heritage, such exercise shall, at the request of the servient owner, be so confined.</p><p>Illustrations</p><p class=\"lvl\">(a) A has a right of way over B’s field. A must enter the way at either end and not at any intermediate point.</p><p class=\"lvl\">(b) A has a right annexed to his house to cut thatching-grass in B’s swamp. A, when exercising his easement, must cut the grass so that the plants may not be destroyed.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">22</span>Exercise of easement Confinement of exercise of easement.</h3></div><p class=\"prov-cite\">Section 22  ·  Chapter III  ·  page 11 of the Act</p><div class=\"prov-body\"><p>The dominant owner must exercise his right in the mode which is least onerous to the servient owner; and, when the exercise of an easement can without detriment to the dominant owner be confined to a determinate part of the servient heritage, such exercise shall, at the request of the servient owner, be so confined.</p><p>Illustrations</p><p class=\"lvl\">(a) A has a right of way over B’s field. A must enter the way at either end and not at any intermediate point.</p><p class=\"lvl\">(b) A has a right annexed to his house to cut thatching-grass in B’s swamp. A, when exercising his easement, must cut the grass so that the plants may not be destroyed.</p></div>"
+  }
+}

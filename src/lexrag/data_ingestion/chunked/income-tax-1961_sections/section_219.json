@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_219_chunk_0",
+    "section_id": "income-tax-1961_section_219",
+    "token_count": 112,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 219::Credit for advance tax.\n]\n\n\nAny sum, other than a penalty or interest, paid by or recovered from an assessee as advance tax in pursuance of this Chapter shall be treated as a payment of tax in respect of the income of the period which would be the previous year for an assessment for the assessment year next following the financial year in which it was payable, and credit therefor shall be given to the assessee in the regular assessment.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_219_chunk_0",
+      "section_id": "income-tax-1961_section_219",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "219",
+      "section_title": "Credit for advance tax."
+    }
+  }
+]

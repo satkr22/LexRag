@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-35.html",
+    "source_order": 35,
+    "article_order": 24,
+    "order": 261,
+    "stem": "section_260",
+    "heading_number": "Part IX · Chapter II",
+    "heading_title": "Of Limited Grants",
+    "heading_range": "ss. 237–260",
+    "heading_source": "group-head",
+    "article_number": "260",
+    "article_title": "Administration when limited grant expired and still some part of estate unadministered.",
+    "id": "succession_section_260"
+  },
+  "id": "succession_section_260",
+  "heading": {
+    "number": "Part IX · Chapter II",
+    "title": "Of Limited Grants",
+    "range": "ss. 237–260"
+  },
+  "article": {
+    "number": "260",
+    "title": "Administration when limited grant expired and still some part of estate unadministered.",
+    "content": "When a limited grant has expired, by efflux of time, or the happening of the event or contingency on which it was limited, and there is still some part of the deceased’s estate unadministered, letters of administration shall be granted to those persons to whom original grants might have been made.\n",
+    "html": "<article class=\"provision\" data-n=\"260\" data-report=\"Section 260 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">260</span>Administration when limited grant expired and still some part of estate unadministered.</h3></div><p class=\"prov-cite\">Section 260  ·  Part IX · Chapter II  ·  page 74 of the Act</p><div class=\"prov-body\"><p>When a limited grant has expired, by efflux of time, or the happening of the event or contingency on which it was limited, and there is still some part of the deceased’s estate unadministered, letters of administration shall be granted to those persons to whom original grants might have been made.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">260</span>Administration when limited grant expired and still some part of estate unadministered.</h3></div><p class=\"prov-cite\">Section 260  ·  Part IX · Chapter II  ·  page 74 of the Act</p><div class=\"prov-body\"><p>When a limited grant has expired, by efflux of time, or the happening of the event or contingency on which it was limited, and there is still some part of the deceased’s estate unadministered, letters of administration shall be granted to those persons to whom original grants might have been made.</p></div>"
+  }
+}

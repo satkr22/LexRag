@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_182_chunk_0",
+    "section_id": "income-tax-1961_section_182",
+    "token_count": 32,
+    "text": "[Act: income-tax-1961\n Chapter: Special Provisions Applicable to Firms\n Section: 182::Assessment of registered firms.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_182_chunk_0",
+      "section_id": "income-tax-1961_section_182",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVI",
+      "chapter_title": "Special Provisions Applicable to Firms",
+      "section_number": "182",
+      "section_title": "Assessment of registered firms."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-04b.html",
+    "source_order": 6,
+    "article_order": 48,
+    "order": 128,
+    "stem": "section_53",
+    "heading_number": "Chapter IV",
+    "heading_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "heading_range": "ss. 14–59",
+    "heading_source": "group-head",
+    "article_number": "53",
+    "article_title": "Exemption of capital gains from a residential house.",
+    "id": "income-tax-1961_section_53"
+  },
+  "id": "income-tax-1961_section_53",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "range": "ss. 14–59"
+  },
+  "article": {
+    "number": "53",
+    "title": "Exemption of capital gains from a residential house.",
+    "content": "",
+    "html": "<article class=\"provision dead\" data-n=\"53\" data-report=\"Section 53 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Exemption of capital gains from a residential house.</h3></div><p class=\"repnote\">[Omitted by the Finance Act, 1992, w.e.f. 1-4-1993.]</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">53</span>Exemption of capital gains from a residential house.</h3></div><p class=\"repnote\">[Omitted by the Finance Act, 1992, w.e.f. 1-4-1993.]</p>"
+  }
+}

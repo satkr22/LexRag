@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_280ZA_chunk_0",
+    "section_id": "income-tax-1961_section_280ZA",
+    "token_count": 35,
+    "text": "[Act: income-tax-1961\n Chapter: Tax Credit Certificates\n Section: 280ZA::Tax credit certificates for shifting of industrial undertaking from urban area.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_280ZA_chunk_0",
+      "section_id": "income-tax-1961_section_280ZA",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXII-B",
+      "chapter_title": "Tax Credit Certificates",
+      "section_number": "280ZA",
+      "section_title": "Tax credit certificates for shifting of industrial undertaking from urban area."
+    }
+  }
+]

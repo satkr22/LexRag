@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-04a.html",
+    "source_order": 4,
+    "article_order": 8,
+    "order": 20,
+    "stem": "section_20",
+    "heading_number": "Chapter IV",
+    "heading_title": "Computation of Total Income",
+    "heading_range": "ss. 13–95",
+    "heading_source": "group-head",
+    "article_number": "20",
+    "article_title": "Income from house property.",
+    "id": "income-tax-2025_section_20"
+  },
+  "id": "income-tax-2025_section_20",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Computation of Total Income",
+    "range": "ss. 13–95"
+  },
+  "article": {
+    "number": "20",
+    "title": "Income from house property.",
+    "content": "(1) The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\".\n(2) The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.\n",
+    "html": "<article class=\"provision\" data-n=\"20\" data-report=\"Section 20 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Income from house property.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter IV  ·  C.—Income from house property  ·  page 35 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\".</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">20</span>Income from house property.</h3></div><p class=\"prov-cite\">Section 20  ·  Chapter IV  ·  C.—Income from house property  ·  page 35 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\".</p><p class=\"lvl\">(2) The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.</p></div>"
+  }
+}

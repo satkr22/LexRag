@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-02.html",
+    "source_order": 2,
+    "article_order": 25,
+    "order": 33,
+    "stem": "section_32",
+    "heading_number": "Part I",
+    "heading_title": "Suits in General",
+    "heading_range": "ss. 9–35B",
+    "heading_source": "group-head",
+    "article_number": "32",
+    "article_title": "Penalty for default.",
+    "id": "cpc_section_32"
+  },
+  "id": "cpc_section_32",
+  "heading": {
+    "number": "Part I",
+    "title": "Suits in General",
+    "range": "ss. 9–35B"
+  },
+  "article": {
+    "number": "32",
+    "title": "Penalty for default.",
+    "content": "Summons and discovery\nThe Court may compel the attendance of any person to whom a summons has been issued under section 30 and for that purpose may—\n(a) issue a warrant for his arrest;\n(b) attach and sell his property;\n(c) impose a fine upon him 1[not exceeding five thousand rupees];\n(d) order him to furnish security for his appearance and in default commit him to the civil prison.\n",
+    "html": "<article class=\"provision\" data-n=\"32\" data-report=\"Section 32 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Penalty for default.</h3></div><p class=\"prov-cite\">Section 32</p><div class=\"prov-body\"><p class=\"sched-title\">Summons and discovery</p><p>The Court may compel the attendance of any person to whom a summons has been issued under section 30 and for that purpose may—</p><p class=\"lvl\">(a) issue a warrant for his arrest;</p><p class=\"lvl\">(b) attach and sell his property;</p><p class=\"lvl\">(c) impose a fine upon him <sup>1</sup>[not exceeding five thousand rupees];</p><p class=\"lvl\">(d) order him to furnish security for his appearance and in default commit him to the civil prison.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 46 of 1999, s. 4, for “not exceeding five hundred rupees” (w.e.f. 1-7-2002).`</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Penalty for default.</h3></div><p class=\"prov-cite\">Section 32</p><div class=\"prov-body\"><p class=\"sched-title\">Summons and discovery</p><p>The Court may compel the attendance of any person to whom a summons has been issued under section 30 and for that purpose may—</p><p class=\"lvl\">(a) issue a warrant for his arrest;</p><p class=\"lvl\">(b) attach and sell his property;</p><p class=\"lvl\">(c) impose a fine upon him <sup>1</sup>[not exceeding five thousand rupees];</p><p class=\"lvl\">(d) order him to furnish security for his appearance and in default commit him to the civil prison.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Subs. by Act 46 of 1999, s. 4, for “not exceeding five hundred rupees” (w.e.f. 1-7-2002).`</p></div>"
+  }
+}

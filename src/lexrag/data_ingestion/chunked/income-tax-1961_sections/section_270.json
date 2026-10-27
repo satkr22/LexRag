@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_270_chunk_0",
+    "section_id": "income-tax-1961_section_270",
+    "token_count": 31,
+    "text": "[Act: income-tax-1961\n Chapter: Penalties Imposable\n Section: 270::Failure to furnish information regarding securities, etc.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_270_chunk_0",
+      "section_id": "income-tax-1961_section_270",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties Imposable",
+      "section_number": "270",
+      "section_title": "Failure to furnish information regarding securities, etc."
+    }
+  }
+]

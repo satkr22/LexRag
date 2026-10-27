@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_235_chunk_0",
+    "section_id": "income-tax-1961_section_235",
+    "token_count": 40,
+    "text": "[Act: income-tax-1961\n Chapter: Relief respecting tax on dividends in certain cases\n Section: 235::Relief to shareholders in respect of agricultural income-tax attributable to dividends.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_235_chunk_0",
+      "section_id": "income-tax-1961_section_235",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVIII",
+      "chapter_title": "Relief respecting tax on dividends in certain cases",
+      "section_number": "235",
+      "section_title": "Relief to shareholders in respect of agricultural income-tax attributable to dividends."
+    }
+  }
+]

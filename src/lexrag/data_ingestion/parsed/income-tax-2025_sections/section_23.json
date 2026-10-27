@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-04a.html",
+    "source_order": 4,
+    "article_order": 11,
+    "order": 23,
+    "stem": "section_23",
+    "heading_number": "Chapter IV",
+    "heading_title": "Computation of Total Income",
+    "heading_range": "ss. 13–95",
+    "heading_source": "group-head",
+    "article_number": "23",
+    "article_title": "Arrears of rent and unrealised rent received subsequently.",
+    "id": "income-tax-2025_section_23"
+  },
+  "id": "income-tax-2025_section_23",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Computation of Total Income",
+    "range": "ss. 13–95"
+  },
+  "article": {
+    "number": "23",
+    "title": "Arrears of rent and unrealised rent received subsequently.",
+    "content": "(1) The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised.\n(2) The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year.\n(3) A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.\n",
+    "html": "<article class=\"provision\" data-n=\"23\" data-report=\"Section 23 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Arrears of rent and unrealised rent received subsequently.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter IV  ·  C.—Income from house property  ·  page 38 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised.</p><p class=\"lvl\">(2) The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year.</p><p class=\"lvl\">(3) A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">23</span>Arrears of rent and unrealised rent received subsequently.</h3></div><p class=\"prov-cite\">Section 23  ·  Chapter IV  ·  C.—Income from house property  ·  page 38 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised.</p><p class=\"lvl\">(2) The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year.</p><p class=\"lvl\">(3) A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.</p></div>"
+  }
+}

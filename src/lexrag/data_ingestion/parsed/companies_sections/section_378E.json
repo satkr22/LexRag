@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "companies",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Companies Act, 2013",
+    "source_file": "companies_sections/companies-22.html",
+    "source_order": 22,
+    "article_order": 5,
+    "order": 387,
+    "stem": "section_378E",
+    "heading_number": "Chapter XXIA",
+    "heading_title": "Producer Companies 1",
+    "heading_range": "ss. 378A–378ZU",
+    "heading_source": "group-head",
+    "article_number": "378E",
+    "article_title": "Benefits to Members.",
+    "id": "companies_section_378E"
+  },
+  "id": "companies_section_378E",
+  "heading": {
+    "number": "Chapter XXIA",
+    "title": "Producer Companies 1",
+    "range": "ss. 378A–378ZU"
+  },
+  "article": {
+    "number": "378E",
+    "title": "Benefits to Members.",
+    "content": "(1) Subject to the provisions made in articles, every Member shall initially receive only such value for the produce or products pooled and supplied as the Board of Producer Company may determine, and the withheld price may be disbursed later in cash or in kind or by allotment of equity shares, in proportion to the produce supplied to the Producer Company during the financial year to such extent and in such manner and subject to such conditions as may be decided by the Board.\n(2) Every Member shall, on the share capital contributed, receive only a limited return:\nProvided that every such Member may be allotted bonus shares in accordance with the provisions contained in section 378ZJ.\n(3) The surplus if any, remaining after making provision for payment of limited return and reserves referred to in section 378ZI, may be disbursed as patronage bonus, amongst the Members, in proportion to their participation in the business of the Producer Company, either in cash or by way of allotment of equity shares, or both, as may be decided by the Members at the general meeting.\n",
+    "html": "<article class=\"provision\" data-n=\"378E\" data-report=\"Section 378E · The Companies Act, 2013\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">378E</span>Benefits to Members.</h3></div><p class=\"prov-cite\">Section 378E  ·  Chapter XXIA  ·  Part II  ·  page 204 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions made in articles, every Member shall initially receive only such value for the produce or products pooled and supplied as the Board of Producer Company may determine, and the withheld price may be disbursed later in cash or in kind or by allotment of equity shares, in proportion to the produce supplied to the Producer Company during the financial year to such extent and in such manner and subject to such conditions as may be decided by the Board.</p><p class=\"lvl\">(2) Every Member shall, on the share capital contributed, receive only a limited return:</p><p class=\"prvso\">Provided that every such Member may be allotted bonus shares in accordance with the provisions contained in section 378ZJ.</p><p class=\"lvl\">(3) The surplus if any, remaining after making provision for payment of limited return and reserves referred to in section 378ZI, may be disbursed as patronage bonus, amongst the Members, in proportion to their participation in the business of the Producer Company, either in cash or by way of allotment of equity shares, or both, as may be decided by the Members at the general meeting.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">378E</span>Benefits to Members.</h3></div><p class=\"prov-cite\">Section 378E  ·  Chapter XXIA  ·  Part II  ·  page 204 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Subject to the provisions made in articles, every Member shall initially receive only such value for the produce or products pooled and supplied as the Board of Producer Company may determine, and the withheld price may be disbursed later in cash or in kind or by allotment of equity shares, in proportion to the produce supplied to the Producer Company during the financial year to such extent and in such manner and subject to such conditions as may be decided by the Board.</p><p class=\"lvl\">(2) Every Member shall, on the share capital contributed, receive only a limited return:</p><p class=\"prvso\">Provided that every such Member may be allotted bonus shares in accordance with the provisions contained in section 378ZJ.</p><p class=\"lvl\">(3) The surplus if any, remaining after making provision for payment of limited return and reserves referred to in section 378ZI, may be disbursed as patronage bonus, amongst the Members, in proportion to their participation in the business of the Producer Company, either in cash or by way of allotment of equity shares, or both, as may be decided by the Members at the general meeting.</p></div>"
+  }
+}

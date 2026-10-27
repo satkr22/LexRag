@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-03.html",
+    "source_order": 3,
+    "article_order": 1,
+    "order": 14,
+    "stem": "section_14",
+    "heading_number": "Chapter III",
+    "heading_title": "General Exceptions",
+    "heading_range": "14 – 44",
+    "heading_source": "group-head",
+    "article_number": "14",
+    "article_title": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+    "id": "bns_section_14"
+  },
+  "id": "bns_section_14",
+  "heading": {
+    "number": "Chapter III",
+    "title": "General Exceptions",
+    "range": "14 – 44"
+  },
+  "article": {
+    "number": "14",
+    "title": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+    "content": "Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.\nIllustrations\n(a)A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.\n(b)A, an officer of a Court, being ordered by that Court to arrest Y, and, after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.\n",
+    "html": "<article class=\"provision\" data-n=\"14\" data-report=\"Section 14 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Act done by a person bound, or by mistake of fact believing himself bound, by law</h3></div><p class=\"prov-cite\">Section 14 · Chapter III</p><div class=\"prov-body\"><p>Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A, an officer of a Court, being ordered by that Court to arrest Y, and, after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">14</span>Act done by a person bound, or by mistake of fact believing himself bound, by law</h3></div><p class=\"prov-cite\">Section 14 · Chapter III</p><div class=\"prov-body\"><p>Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.</p><p class=\"illus-head\">Illustrations</p><p class=\"lvl illus\"><span class=\"lbl\">(a)</span>A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.</p><p class=\"lvl illus\"><span class=\"lbl\">(b)</span>A, an officer of a Court, being ordered by that Court to arrest Y, and, after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.</p></div>"
+  }
+}

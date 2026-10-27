@@ -1,0 +1,102 @@
+[
+  {
+    "question": "For a suspect accused of belonging to a gang of robbers, what offence provision applies and what police power permits arrest without warrant?",
+    "referenced_sections": ["bns_section_313", "bnss_section_35"],
+    "answer": "The BNS provision punishes belonging to a gang of robbers; the BNSS provision permits police to arrest without warrant in cases where that power is authorized, subject to its conditions."
+  },
+  {
+    "question": "When a robbery or dacoity is committed with an attempt to cause death or grievous hurt, what offence is involved and what is the police duty on receiving information of a cognizable case?",
+    "referenced_sections": ["bns_section_311", "bnss_section_173"],
+    "answer": "BNS treats it as aggravated robbery or dacoity; BNSS requires information in cognizable cases to be recorded and investigated."
+  },
+  {
+    "question": "If a complaint alleges that words were uttered with deliberate intent to wound religious feelings, what offence is alleged and what step does the Magistrate take regarding the complainant?",
+    "referenced_sections": ["bns_section_302", "bnss_section_223"],
+    "answer": "The offence is uttering words with deliberate intent to wound religious feelings; the Magistrate examines the complainant before proceeding."
+  },
+  {
+    "question": "How is a public servant proceeded against when accused of corruptly making a report in a judicial proceeding contrary to law?",
+    "referenced_sections": ["bns_section_257", "bnss_section_218"],
+    "answer": "The BNS provision makes corruptly making a contrary report an offence; the BNSS provision governs prosecution of judges and public servants with procedural safeguards."
+  },
+  {
+    "question": "If a person abets a cognizable offence, what is the abettor's liability and may police arrest without warrant?",
+    "referenced_sections": ["bns_section_46", "bnss_section_35"],
+    "answer": "The BNS defines an abettor and imposes liability for abetment; the BNSS arrest power may apply where the abetted offence is one for which arrest without warrant is permitted."
+  },
+  {
+    "question": "When someone fraudulently suffers a decree for a sum not due, what offence is committed and how may a Magistrate take cognizance?",
+    "referenced_sections": ["bns_section_245", "bnss_section_210"],
+    "answer": "The BNS makes fraudulently suffering such a decree an offence; the BNSS provision governs cognizance of offences by a Magistrate."
+  },
+  {
+    "question": "If negligent conduct with a poisonous substance causes harm, what offence applies and what investigation procedure may police follow?",
+    "referenced_sections": ["bns_section_286", "bnss_section_176"],
+    "answer": "The BNS punishes negligent conduct with respect to a poisonous substance; the BNSS sets out the procedure for investigation."
+  },
+  {
+    "question": "If a vessel is intentionally run aground or ashore with intent to commit theft on a voyage, what offence is involved and where may trial take place?",
+    "referenced_sections": ["bns_section_328", "bnss_section_203"],
+    "answer": "The BNS punishes intentionally running a vessel aground or ashore with intent to commit theft; the BNSS provides the place of trial for offences committed on a journey or voyage."
+  },
+  {
+    "question": "What offence is committed by giving false information intended to make a public servant use lawful power to injure another, and what procedural provision addresses furnishing false information?",
+    "referenced_sections": ["bns_section_217", "bnss_section_212"],
+    "answer": "The BNS makes such false information an offence; the BNSS contains the procedural provision on furnishing false information."
+  },
+  {
+    "question": "When someone makes the atmosphere noxious to health, what offence applies and what order can a Magistrate make to remove the nuisance?",
+    "referenced_sections": ["bns_section_280", "bnss_section_152"],
+    "answer": "The BNS makes making the atmosphere noxious to health an offence; the BNSS allows a Magistrate to pass a conditional order for removal of nuisance."
+  },
+  {
+    "question": "For petty organised crime, what offence provision applies and what police arrest power may be relevant?",
+    "referenced_sections": ["bns_section_112", "bnss_section_35"],
+    "answer": "The BNS creates the offence of petty organised crime; the BNSS arrest power may apply if the offence falls within a category permitting arrest without warrant."
+  },
+  {
+    "question": "If a woman alleges assault or criminal force with intent to outrage her modesty, what offence is alleged and what medical examination procedure may apply to an arrested person?",
+    "referenced_sections": ["bns_section_74", "bnss_section_53"],
+    "answer": "The BNS offence is assault or criminal force to a woman with intent to outrage her modesty; the BNSS provides for examination of an arrested person by a medical officer."
+  },
+  {
+    "question": "What general punishments are prescribed by the penal statute, and what sentences may a Magistrate impose?",
+    "referenced_sections": ["bns_section_4", "bnss_section_23"],
+    "answer": "The BNS lists the general punishments; the BNSS specifies the sentences which Magistrates may pass."
+  },
+  {
+    "question": "What offence is committed by fouling water of a public spring or reservoir, and what nuisance-removal procedure may a Magistrate use?",
+    "referenced_sections": ["bns_section_279", "bnss_section_152"],
+    "answer": "The BNS makes fouling such water an offence; the BNSS permits a Magistrate to make a conditional order for removal of nuisance."
+  },
+  {
+    "question": "How is a public servant dealt with who unlawfully engages in trade, including the offence and the procedural safeguard for prosecuting public servants?",
+    "referenced_sections": ["bns_section_202", "bnss_section_218"],
+    "answer": "The BNS makes unlawful engagement in trade by a public servant an offence; the BNSS governs prosecution of judges and public servants with procedural safeguards."
+  },
+  {
+    "question": "If an accused claims a right of private defence extending to causing harm other than death, what legal right is asserted and what power does the court have to examine the accused?",
+    "referenced_sections": ["bns_section_39", "bnss_section_351"],
+    "answer": "The BNS defines when the right of private defence extends to causing harm other than death; the BNSS gives the court power to examine the accused."
+  },
+  {
+    "question": "In a case of buying a child for prostitution, what offence is involved and how are confessions and statements recorded?",
+    "referenced_sections": ["bns_section_99", "bnss_section_183"],
+    "answer": "The BNS makes buying a child for prostitution an offence; the BNSS provides for recording of confessions and statements."
+  },
+  {
+    "question": "When promoting enmity between different groups is reported, what offence is alleged and what is the police duty on information of a cognizable case?",
+    "referenced_sections": ["bns_section_196", "bnss_section_173"],
+    "answer": "The BNS makes promoting enmity between groups an offence; the BNSS requires information in cognizable cases to be recorded and investigated."
+  },
+  {
+    "question": "If a person makes a false charge of an offence with intent to injure another, what offence is committed and what complaint procedure follows?",
+    "referenced_sections": ["bns_section_248", "bnss_section_223"],
+    "answer": "The BNS makes a false charge with intent to injure an offence; the BNSS provides for examination of the complainant."
+  },
+  {
+    "question": "What offence is committed by abetting insubordination by a soldier, sailor or airman, and how may such a person be delivered to commanding officers for court-martial?",
+    "referenced_sections": ["bns_section_166", "bnss_section_521"],
+    "answer": "The BNS makes abetment of insubordination by a soldier, sailor or airman an offence; the BNSS provides for delivery of persons liable to be tried by court-martial to commanding officers."
+  }
+]

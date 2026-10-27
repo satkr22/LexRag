@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-09.html",
+    "source_order": 9,
+    "article_order": 2,
+    "order": 126,
+    "stem": "section_126",
+    "heading_number": "Chapter IX",
+    "heading_title": "Security for Keeping the Peace and for Good Behaviour",
+    "heading_range": "125 – 143",
+    "heading_source": "group-head",
+    "article_number": "126",
+    "article_title": "Security for keeping peace in other cases",
+    "id": "bnss_section_126"
+  },
+  "id": "bnss_section_126",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Security for Keeping the Peace and for Good Behaviour",
+    "range": "125 – 143"
+  },
+  "article": {
+    "number": "126",
+    "title": "Security for keeping peace in other cases",
+    "content": "(1)When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tranquillity and is of opinion that there is sufficient ground for proceeding, he may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond or bail bond for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit.\n(2)Proceedings under this section may be taken before any Executive Magistrate when either the place where the breach of the peace or disturbance is apprehended is within his local jurisdiction or there is within such jurisdiction a person who is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act as aforesaid beyond such jurisdiction.\n",
+    "html": "<article class=\"provision\" data-n=\"126\" data-report=\"Section 126 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>Security for keeping peace in other cases</h3></div><p class=\"prov-cite\">Section 126 · Chapter IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tranquillity and is of opinion that there is sufficient ground for proceeding, he may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond or bail bond for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit.</p><p><span class=\"lbl\">(2)</span>Proceedings under this section may be taken before any Executive Magistrate when either the place where the breach of the peace or disturbance is apprehended is within his local jurisdiction or there is within such jurisdiction a person who is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act as aforesaid beyond such jurisdiction.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">126</span>Security for keeping peace in other cases</h3></div><p class=\"prov-cite\">Section 126 · Chapter IX</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tranquillity and is of opinion that there is sufficient ground for proceeding, he may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond or bail bond for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit.</p><p><span class=\"lbl\">(2)</span>Proceedings under this section may be taken before any Executive Magistrate when either the place where the breach of the peace or disturbance is apprehended is within his local jurisdiction or there is within such jurisdiction a person who is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act as aforesaid beyond such jurisdiction.</p></div>"
+  }
+}

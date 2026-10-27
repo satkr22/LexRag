@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "easements_section_47_chunk_0",
+    "section_id": "easements_section_47",
+    "token_count": 496,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 47::Extinction by non-enjoyment.\n]\n\nA continuous easement is extinguished when it totally ceases to be enjoyed as such for an unbroken period of twenty years.\n\nA discontinuous easement is extinguished when, for a like period, it has not been enjoyed as such.\n\nSuch period shall be reckoned, in the case of a continuous easement, from the day on which its enjoyment was obstructed by the servient owner, or rendered impossible by the dominant owner; and, in the case of a discontinuous easement, from the day on which it was last enjoyed by any person as dominant owner:\n  Provided that if, in the case of a discontinuous easement, the dominant owner, within such period, registers, under the Indian Registration Act 1 , 1877 (3 of 1877), a declaration of his intention to retain such easement, it shall not be extinguished until a period of twenty years has elapsed from the date of the registration.\n\nWhere an easement can be legally enjoyed only at a certain place, or at certain times, or between certain hours, or for a particular purpose, its enjoyment during the said period at another place, or at other times, or between other hours, or for another purpose, does not prevent its extinction under this section.\n\nThe circumstance that, during the said period, no one was in possession of the servient heritage, or that the easement could not be enjoyed, or that a right accessory thereto was enjoyed, or that the dominant owner was not aware of its existence, or that he enjoyed it in ignorance of his right to do so, does not prevent its extinction under this section.\n\nAn easement is not extinguished under this section—\n  (a) where the cessation is in pursuance of a contract between the dominant and servient owners;\n  (b) where the dominant heritage is held in co-ownership, and one of the co-owners enjoys the easement within the said period, or\n  (c) where the easement is a necessary easement. Where several heritages are respectively subject to rights of way for the benefit of a single heritage, and the ways are continuous, such rights shall, for the purposes of this section, be deemed to be a single easement.\n\nIllustration",
+    "metadata": {
+      "chunk_id": "easements_section_47_chunk_0",
+      "section_id": "easements_section_47",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "47",
+      "section_title": "Extinction by non-enjoyment."
+    }
+  },
+  {
+    "chunk_id": "easements_section_47_chunk_1",
+    "section_id": "easements_section_47",
+    "token_count": 125,
+    "text": "[Act: easements\n Chapter: The Extinction, Suspension and Revival of Easements\n Section: 47::Extinction by non-enjoyment.\n]\n\nA continuous easement is extinguished when it totally ceases to be enjoyed as such for an unbroken period of twenty years.\n\nIllustration\n\nA has, as annexed to his house, rights of way from the high road thither over the heritages X and Z and the intervening heritage Y. Before the twenty years expire, A exercises his right of way over X. His rights of way over Y and Z are not extinguished.",
+    "metadata": {
+      "chunk_id": "easements_section_47_chunk_1",
+      "section_id": "easements_section_47",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "The Extinction, Suspension and Revival of Easements",
+      "section_number": "47",
+      "section_title": "Extinction by non-enjoyment."
+    }
+  }
+]

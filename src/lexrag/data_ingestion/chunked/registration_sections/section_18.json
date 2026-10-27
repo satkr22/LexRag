@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "registration_section_18_chunk_0",
+    "section_id": "registration_section_18",
+    "token_count": 312,
+    "text": "[Act: registration\n Chapter: Of Registrable Documents\n Section: 18::Documents of which registration is optional.\n]\n\nAny of the following documents may be registered under this Act, namely:—\n\n(a) Instruments (other than instruments of gift and wills) which purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of a value less then one hundred rupees, to or in immovable property;\n  (b) instruments acknowledging the receipt or payment of any consideration on account of the creation, declaration, assignment, limitation or extinction of any such right, title or interest;\n  (c) leases of immovable property for any term not exceeding one year, and leases exempted under section 17;\n  1 [(cc) instruments transferring or assigning any decree or order of a Court or any award when such decree or order or award purports or operates to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of a value less than one hundred rupees, to or in immovable property;]\n  (d) instruments (other than wills) which purport or operate to create, declare, assign, limit or extinguish any right, title or interest to or in movable property;\n  (e) wills; and\n  (f) all other documents not required by section 17 to be registered.",
+    "metadata": {
+      "chunk_id": "registration_section_18_chunk_0",
+      "section_id": "registration_section_18",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "registration",
+      "document_title": null,
+      "chapter_number": "Part III",
+      "chapter_title": "Of Registrable Documents",
+      "section_number": "18",
+      "section_title": "Documents of which registration is optional."
+    }
+  }
+]

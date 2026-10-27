@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "right-to-education_section_15_chunk_0",
+    "section_id": "right-to-education_section_15",
+    "token_count": 99,
+    "text": "[Act: right-to-education\n Chapter: Responsibilities of Schools and Teachers\n Section: 15::No denial of admission.\n]\n\n\nA child shall be admitted in a school at the commencement of the academic year or within such extended period as may be prescribed:\nProvided that no child shall be denied admission if such admission is sought subsequent to the extended period:\nProvided further that any child admitted after the extended period shall complete his studies in such manner as may be prescribed by the appropriate Government.",
+    "metadata": {
+      "chunk_id": "right-to-education_section_15_chunk_0",
+      "section_id": "right-to-education_section_15",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "right-to-education",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Responsibilities of Schools and Teachers",
+      "section_number": "15",
+      "section_title": "No denial of admission."
+    }
+  }
+]

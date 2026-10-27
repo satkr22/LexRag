@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-15.html",
+    "source_order": 15,
+    "article_order": 12,
+    "order": 221,
+    "stem": "section_221",
+    "heading_number": "Chapter XV",
+    "heading_title": "Conditions Requisite for Initiation of Proceedings",
+    "heading_range": "210 – 222",
+    "heading_source": "group-head",
+    "article_number": "221",
+    "article_title": "Cognizance of offence",
+    "id": "bnss_section_221"
+  },
+  "id": "bnss_section_221",
+  "heading": {
+    "number": "Chapter XV",
+    "title": "Conditions Requisite for Initiation of Proceedings",
+    "range": "210 – 222"
+  },
+  "article": {
+    "number": "221",
+    "title": "Cognizance of offence",
+    "content": "No Court shall take cognizance of an offence punishable under section 67 of the Bharatiya Nyaya Sanhita, 2023 where the persons are in a marital relationship, except upon prima facie satisfaction of the facts which constitute the offence upon a complaint having been filed or made by the wife against the husband.\n",
+    "html": "<article class=\"provision\" data-n=\"221\" data-report=\"Section 221 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">221</span>Cognizance of offence</h3></div><p class=\"prov-cite\">Section 221 · Chapter XV</p><div class=\"prov-body\"><p>No Court shall take cognizance of an offence punishable under section 67 of the Bharatiya Nyaya Sanhita, 2023 where the persons are in a marital relationship, except upon prima facie satisfaction of the facts which constitute the offence upon a complaint having been filed or made by the wife against the husband.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">221</span>Cognizance of offence</h3></div><p class=\"prov-cite\">Section 221 · Chapter XV</p><div class=\"prov-body\"><p>No Court shall take cognizance of an offence punishable under section 67 of the Bharatiya Nyaya Sanhita, 2023 where the persons are in a marital relationship, except upon prima facie satisfaction of the facts which constitute the offence upon a complaint having been filed or made by the wife against the husband.</p></div>"
+  }
+}

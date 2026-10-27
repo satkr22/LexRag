@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-04.html",
+    "source_order": 4,
+    "article_order": 10,
+    "order": 49,
+    "stem": "section_41",
+    "heading_number": "Part II · Chapter III",
+    "heading_title": "Liquidation Process",
+    "heading_range": "ss. 33–54",
+    "heading_source": "group-head",
+    "article_number": "41",
+    "article_title": "Determination of valuation of claims.",
+    "id": "insolvency_section_41"
+  },
+  "id": "insolvency_section_41",
+  "heading": {
+    "number": "Part II · Chapter III",
+    "title": "Liquidation Process",
+    "range": "ss. 33–54"
+  },
+  "article": {
+    "number": "41",
+    "title": "Determination of valuation of claims.",
+    "content": "",
+    "html": "<article class=\"provision dead\" data-n=\"41\" data-report=\"Section 41 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Determination of valuation of claims.</h3></div><p class=\"repnote\">41. [Determination of valuation of claims.] Omitted by the Insolvency and Bankruptcy Code (Amendment) Act, 2026 (6 of 2026), s. 25 (w.e.f. 26-05-2026).</p></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">41</span>Determination of valuation of claims.</h3></div><p class=\"repnote\">41. [Determination of valuation of claims.] Omitted by the Insolvency and Bankruptcy Code (Amendment) Act, 2026 (6 of 2026), s. 25 (w.e.f. 26-05-2026).</p>"
+  }
+}

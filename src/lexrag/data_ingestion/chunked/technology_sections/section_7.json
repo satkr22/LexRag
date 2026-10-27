@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_7_chunk_0",
+    "section_id": "technology_section_7",
+    "token_count": 225,
+    "text": "[Act: technology\n Chapter: Electronic Governance\n Section: 7::Retention of electronic records.\n]\n\n\n(1) Where any law provides that documents, records or information shall be retained for any specific period, then, that requirement shall be deemed to have been satisfied if such documents, records or information are retained in the electronic form, if–\n(a) the information contained therein remains accessible so as to be usable for a subsequent reference;\n(b) the electronic record is retained in the format in which it was originally generated, sent or received or in a format which can be demonstrated to represent accurately the information originally generated, sent or received;\n(c) the details which will facilitate the identification of the origin, destination, date and time of despatch or receipt of such electronic record are available in the electronic record:\nProvided that this clause does not apply to any information which is automatically generated solely for the purpose of enabling an electronic record to be despatched or received.\n(2) Nothing in this section shall apply to any law that expressly provides for the retention of documents, records or information in the form of electronic records.",
+    "metadata": {
+      "chunk_id": "technology_section_7_chunk_0",
+      "section_id": "technology_section_7",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Electronic Governance",
+      "section_number": "7",
+      "section_title": "Retention of electronic records."
+    }
+  }
+]

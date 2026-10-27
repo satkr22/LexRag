@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_156_chunk_0",
+    "section_id": "motor-vehicles_section_156",
+    "token_count": 223,
+    "text": "[Act: motor-vehicles\n Chapter: Insurance of Motor Vehicles Against Third Party Risks 1\n Section: 156::Effect of certificate of insurance.\n]\n\n\nWhen an insurer has issued a certificate of insurance in respect of a contract of insurance between the insurer and the insured person, then—\n(a) if and so long as the policy described in the certificate has not been issued by the insurer to the insured, the insurer shall, as between himself and any other person except the insured, be deemed to have issued to the insured person a policy of insurance conforming in all respects with the description and particulars stated in such certificate; and\n(b) if the insurer has issued to the insured the policy described in the certificate, but the actual terms of the policy are less favourable to persons claiming under or by virtue of the policy against the insurer either directly or through the insured than the particulars of the policy as stated in the certificate, the policy shall, as between the insurer and any other person except the insured, be deemed to be in terms conforming in all respects with the particulars stated in the said certificate.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_156_chunk_0",
+      "section_id": "motor-vehicles_section_156",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+      "section_number": "156",
+      "section_title": "Effect of certificate of insurance."
+    }
+  }
+]

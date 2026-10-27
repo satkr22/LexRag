@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_184_chunk_0",
+    "section_id": "motor-vehicles_section_184",
+    "token_count": 341,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 184::Driving dangerously.\n]\n\n\nWhoever, drives a motor vehicle at a speed or in a manner which is dangerous to the public 8[or which causes a sense of alarm or distress to the occupants of the vehicle, other road users, and persons near roads,] having regard to all the circumstances of case including the nature, condition and use of the place where the vehicle is driven and the amount of traffic which actually is at the time or which might reasonably be expected to be in the place, shall be punishable for the first offence with imprisonment for a term 9[which may extend to one year but shall not be less than six months or with fine which shall not be less than one thousand rupees but may extend to five thousand rupees, or with both], and for any second or subsequent offence if committed within three years of the commission of a previous similar offence with imprisonment for a term which may extend to two years, or with fine 10[of ten thousand rupees], or with both.\n1[Explanation.—For the purpose of this section,—\n(a) jumping a red light;\n(b) violating a stop sign;\n(c) use of handheld communications devices while driving;\n(d) passing or overtaking other vehicles in a manner contrary to law;\n(e) driving against the authorised flow of traffic; or\n(f) driving in any manner that falls far below what would be expected of a competent and careful driver and where it would be obvious to a competent and careful driver that driving in that manner would be dangerous,\nshall amount to driving in such manner which is dangerous to the public.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_184_chunk_0",
+      "section_id": "motor-vehicles_section_184",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "184",
+      "section_title": "Driving dangerously."
+    }
+  }
+]

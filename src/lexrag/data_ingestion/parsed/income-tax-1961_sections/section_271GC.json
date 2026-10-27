@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-48.html",
+    "source_order": 53,
+    "article_order": 29,
+    "order": 821,
+    "stem": "section_271GC",
+    "heading_number": "Chapter XXI",
+    "heading_title": "Penalties Imposable",
+    "heading_range": "ss. 270–275",
+    "heading_source": "group-head",
+    "article_number": "271GC",
+    "article_title": "Penalty for failure to submit statement under section 285.",
+    "id": "income-tax-1961_section_271GC"
+  },
+  "id": "income-tax-1961_section_271GC",
+  "heading": {
+    "number": "Chapter XXI",
+    "title": "Penalties Imposable",
+    "range": "ss. 270–275"
+  },
+  "article": {
+    "number": "271GC",
+    "title": "Penalty for failure to submit statement under section 285.",
+    "content": "If any person who is required to furnish statement under section 285, fails to do so within the period prescribed under that section, the Assessing Officer may direct that such person shall pay, by way of penalty, a sum of––\n(a) one thousand rupees for every day for which the failure continues, if the period of failure does not exceed three months; or\n(b) one lakh rupees in any other case.]\n",
+    "html": "<article class=\"provision\" data-n=\"271GC\" data-report=\"Section 271GC · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">271GC</span><sup>16</sup>[Penalty for failure to submit statement under section 285.</h3></div><p class=\"prov-cite\">Section 271GC  ·  Chapter XXI  ·  page 986 of the Act</p><div class=\"prov-body\"><p>If any person who is required to furnish statement under section 285, fails to do so within the period prescribed under that section, the Assessing Officer may direct that such person shall pay, by way of penalty, a sum of––</p><p class=\"lvl\">(a) one thousand rupees for every day for which the failure continues, if the period of failure does not exceed three months; or</p><p class=\"lvl\">(b) one lakh rupees in any other case.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>16</sup> Ins. by Act No. 15 of 2024, w.e.f. 1-4-2025.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">271GC</span><sup>16</sup>[Penalty for failure to submit statement under section 285.</h3></div><p class=\"prov-cite\">Section 271GC  ·  Chapter XXI  ·  page 986 of the Act</p><div class=\"prov-body\"><p>If any person who is required to furnish statement under section 285, fails to do so within the period prescribed under that section, the Assessing Officer may direct that such person shall pay, by way of penalty, a sum of––</p><p class=\"lvl\">(a) one thousand rupees for every day for which the failure continues, if the period of failure does not exceed three months; or</p><p class=\"lvl\">(b) one lakh rupees in any other case.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>16</sup> Ins. by Act No. 15 of 2024, w.e.f. 1-4-2025.</p></div></div>"
+  }
+}

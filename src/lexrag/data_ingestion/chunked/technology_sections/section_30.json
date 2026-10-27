@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_30_chunk_0",
+    "section_id": "technology_section_30",
+    "token_count": 155,
+    "text": "[Act: technology\n Chapter: Regulation of Certifying Authorities\n Section: 30::Certifying Authority to follow certain procedures.\n]\n\n\nEvery Certifying Authority shall,–\n(a) make use of hardware, software and procedures that are secure from intrusion and misuse;\n(b) provide a reasonable level of reliability in its services which are reasonably suited to the performance of intended functions;\n(c) adhere to security procedures to ensure that the secrecy and privacy of the 1[electronic signatures] are assured; 3***\n4[(ca) be the repository of all electronic signature Certificates issued under this Act;\n(cb) publish information regarding its practices, electronic signature Certificates and current status of such certificates; and ]\n(d) observe such other standards as may be specified by regulations.",
+    "metadata": {
+      "chunk_id": "technology_section_30_chunk_0",
+      "section_id": "technology_section_30",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Regulation of Certifying Authorities",
+      "section_number": "30",
+      "section_title": "Certifying Authority to follow certain procedures."
+    }
+  }
+]

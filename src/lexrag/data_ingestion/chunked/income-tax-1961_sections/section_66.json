@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_66_chunk_0",
+    "section_id": "income-tax-1961_section_66",
+    "token_count": 60,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 66::Total income.\n]\n\n\nIn computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter VII.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_66_chunk_0",
+      "section_id": "income-tax-1961_section_66",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "66",
+      "section_title": "Total income."
+    }
+  }
+]

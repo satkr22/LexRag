@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "gst",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Central Goods and Services Tax Act, 2017",
+    "source_file": "gst_sections/gst-07.html",
+    "source_order": 7,
+    "article_order": 3,
+    "order": 34,
+    "stem": "section_32",
+    "heading_number": "Chapter VII",
+    "heading_title": "Tax Invoice, Credit and Debit Notes",
+    "heading_range": "ss. 31–34",
+    "heading_source": "group-head",
+    "article_number": "32",
+    "article_title": "Prohibition of unauthorised collection of tax.",
+    "id": "gst_section_32"
+  },
+  "id": "gst_section_32",
+  "heading": {
+    "number": "Chapter VII",
+    "title": "Tax Invoice, Credit and Debit Notes",
+    "range": "ss. 31–34"
+  },
+  "article": {
+    "number": "32",
+    "title": "Prohibition of unauthorised collection of tax.",
+    "content": "(1) A person who is not a registered person shall not collect in respect of any supply of goods or services or both any amount by way of tax under this Act.\n(2) No registered person shall collect tax except in accordance with the provisions of this Act or the rules made thereunder.\n",
+    "html": "<article class=\"provision\" data-n=\"32\" data-report=\"Section 32 · The Central Goods and Services Tax Act, 2017\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Prohibition of unauthorised collection of tax.</h3></div><p class=\"prov-cite\">Section 32  ·  Chapter VII  ·  page 44 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A person who is not a registered person shall not collect in respect of any supply of goods or services or both any amount by way of tax under this Act.</p><p class=\"lvl\">(2) No registered person shall collect tax except in accordance with the provisions of this Act or the rules made thereunder.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">32</span>Prohibition of unauthorised collection of tax.</h3></div><p class=\"prov-cite\">Section 32  ·  Chapter VII  ·  page 44 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A person who is not a registered person shall not collect in respect of any supply of goods or services or both any amount by way of tax under this Act.</p><p class=\"lvl\">(2) No registered person shall collect tax except in accordance with the provisions of this Act or the rules made thereunder.</p></div>"
+  }
+}

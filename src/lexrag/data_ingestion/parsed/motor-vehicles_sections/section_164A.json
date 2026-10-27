@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "motor-vehicles",
+    "category_id": "CAT_010",
+    "category_label": "Transport & Road Safety",
+    "category_code": "transport_road_safety",
+    "document_title": "The Motor Vehicles Act, 1988",
+    "source_file": "motor-vehicles_sections/motor-vehicles-11.html",
+    "source_order": 11,
+    "article_order": 21,
+    "order": 177,
+    "stem": "section_164A",
+    "heading_number": "Chapter XI",
+    "heading_title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+    "heading_range": "ss. 145–164D",
+    "heading_source": "group-head",
+    "article_number": "164A",
+    "article_title": "Scheme for interim relief for claimants.",
+    "id": "motor-vehicles_section_164A"
+  },
+  "id": "motor-vehicles_section_164A",
+  "heading": {
+    "number": "Chapter XI",
+    "title": "Insurance of Motor Vehicles Against Third Party Risks 1",
+    "range": "ss. 145–164D"
+  },
+  "article": {
+    "number": "164A",
+    "title": "Scheme for interim relief for claimants.",
+    "content": "(1) The Central Government, may make schemes for the provision of interim relief to claimants praying for compensation under this Chapter.\n(2) A scheme made under sub-section (1) shall also provide for procedure to recover funds disbursed under such scheme from the owner of the motor vehicle, where the claim arises out of the use of such motor vehicle or other sources as may be prescribed by the Central Government.\n",
+    "html": "<article class=\"provision\" data-n=\"164A\" data-report=\"Section 164A · The Motor Vehicles Act, 1988\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">164A</span>Scheme for interim relief for claimants.</h3></div><p class=\"prov-cite\">Section 164A  ·  Chapter XI  ·  page 93 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government, may make schemes for the provision of interim relief to claimants praying for compensation under this Chapter.</p><p class=\"lvl\">(2) A scheme made under sub-section (1) shall also provide for procedure to recover funds disbursed under such scheme from the owner of the motor vehicle, where the claim arises out of the use of such motor vehicle or other sources as may be prescribed by the Central Government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">164A</span>Scheme for interim relief for claimants.</h3></div><p class=\"prov-cite\">Section 164A  ·  Chapter XI  ·  page 93 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The Central Government, may make schemes for the provision of interim relief to claimants praying for compensation under this Chapter.</p><p class=\"lvl\">(2) A scheme made under sub-section (1) shall also provide for procedure to recover funds disbursed under such scheme from the owner of the motor vehicle, where the claim arises out of the use of such motor vehicle or other sources as may be prescribed by the Central Government.</p></div>"
+  }
+}

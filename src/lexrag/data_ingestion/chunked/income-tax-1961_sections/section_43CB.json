@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_43CB_chunk_0",
+    "section_id": "income-tax-1961_section_43CB",
+    "token_count": 211,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 43CB::Computation of income from construction and service contracts.\n]\n\n\n(1) The profits and gains arising from a construction contract or a contract for providing services shall be determined on the basis of percentage of completion method in accordance with the income computation and disclosure standards notified under sub-section (2) of section 145:\nProvided that profits and gains arising from a contract for providing services,—\n(i) with duration of not more than ninety days shall be determined on the basis of project completion method;\n(ii) involving indeterminate number of acts over a specific period of time shall be determined on the basis of straight line method.\n(2) For the purposes of percentage of completion method, project completion method or straight line method referred to in sub-section (1)—\n(i) the contract revenue shall include retention money;\n(ii) the contract costs shall not be reduced by any incidental income in the nature of interest, dividends or capital gains.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_43CB_chunk_0",
+      "section_id": "income-tax-1961_section_43CB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "43CB",
+      "section_title": "Computation of income from construction and service contracts."
+    }
+  }
+]

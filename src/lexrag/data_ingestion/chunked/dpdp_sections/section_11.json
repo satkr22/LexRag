@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "dpdp_section_11_chunk_0",
+    "section_id": "dpdp_section_11",
+    "token_count": 311,
+    "text": "[Act: dpdp\n Chapter: Rights and Duties of Data Principal\n Section: 11::Right to access information about personal data.\n]\n\n\n(1) The Data Principal shall have the right to obtain from the Data Fiduciary to whom she has previously given consent, including consent as referred to in clause (a) of section 7 (hereinafter referred to as the said Data Fiduciary), for processing of personal data, upon making to it a request in such manner as may be prescribed,—\n(a) a summary of personal data which is being processed by such Data Fiduciary and the processing activities undertaken by that Data Fiduciary with respect to such personal data;\n(b) the identities of all other Data Fiduciaries and Data Processors with whom the personal data has been shared by such Data Fiduciary, along with a description of the personal data so shared; and\n(c) any other information related to the personal data of such Data Principal and its processing, as may be prescribed.\n(2) Nothing contained in clause (b) or clause (c) of sub-section (1) shall apply in respect of the sharing of any personal data by the said Data Fiduciary with any other Data Fiduciary authorised by law to obtain such personal data, where such sharing is pursuant to a request made in writing by such other Data Fiduciary for the purpose of prevention or detection or investigation of offences or cyber incidents, or for prosecution or punishment of offences.",
+    "metadata": {
+      "chunk_id": "dpdp_section_11_chunk_0",
+      "section_id": "dpdp_section_11",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "dpdp",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Rights and Duties of Data Principal",
+      "section_number": "11",
+      "section_title": "Right to access information about personal data."
+    }
+  }
+]

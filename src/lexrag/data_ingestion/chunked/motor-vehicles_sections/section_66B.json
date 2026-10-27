@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_66B_chunk_0",
+    "section_id": "motor-vehicles_section_66B",
+    "token_count": 112,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Transport Vehicles\n Section: 66B::No bar against permit holders to apply and hold licences under schemes.\n]\n\n\nNo person who holds the permit issued under this Act shall—\n(a) be disqualified from applying for a licence under the scheme made under sub-section (3) of section 67 or sub-section (1) of section 88A by reason of holding such permit; and\n(b) be required to get such permit cancelled on being issued a licence under any scheme made under this Act.]",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_66B_chunk_0",
+      "section_id": "motor-vehicles_section_66B",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Control of Transport Vehicles",
+      "section_number": "66B",
+      "section_title": "No bar against permit holders to apply and hold licences under schemes."
+    }
+  }
+]

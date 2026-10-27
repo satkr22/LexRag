@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "cpc_section_O35R5_chunk_0",
+    "section_id": "cpc_section_O35R5",
+    "token_count": 202,
+    "text": "[Act: cpc\n Chapter: Interpleader\n Section: O35R5::Agents and tenants may not institute interpleader suits.\n]\n\n\nNothing in this Order shall be deemed to enable agents to sue their principals, or tenants to sue their landlords, for the purpose of compelling them to interplead with any persons other than persons making claim through such principals or landlords.\nIllustrations\n(a) A deposits a box of jewels with B as his agent. C alleges that the jewels were wrongfully obtained from him by A, and claims them from B. B cannot institute an interpleader-suit against A and C.\n(b) A deposits a box of jewels with B as his agent. He then writes to C for the purpose of making the jewels a security for a debt due from himself to C. A afterwards alleges that C’s debt is satisfied, and C alleges the contrary. Both claim the jewels from B. B may institute in interpleader-suit against A and C.",
+    "metadata": {
+      "chunk_id": "cpc_section_O35R5_chunk_0",
+      "section_id": "cpc_section_O35R5",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "cpc",
+      "document_title": "The Code of Civil Procedure, 1908",
+      "chapter_number": "Order XXXV",
+      "chapter_title": "Interpleader",
+      "section_number": "O35R5",
+      "section_title": "Agents and tenants may not institute interpleader suits."
+    }
+  }
+]

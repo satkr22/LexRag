@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_5_chunk_0",
+    "section_id": "succession_section_5",
+    "token_count": 279,
+    "text": "[Act: succession\n Chapter: Of Domicile\n Section: 5::Law regulating succession to deceased person’s immoveable and moveable property, respectively.\n]\n\n\n(1) Succession to the immoveable property in 2[India], of a person deceased shall be regulated by the law of 2[India], wherever such person may have had his domicile at the time of his death.\n(2) Succession to the moveable property of a person deceased is regulated by the law of the country in which such person had his domicile at the time of his death.\nIllustrations\n(i) A, having his domicile in 2[India], dies in France, leaving moveable property in France, moveable property in England, and property, both moveable and immoveable, in 2[India]. The succession to the whole is regulated by the law of 2[India].\n(ii) A, an Englishman, having his domicile in France, dies in 2[India], and leaves property, both moveable and immoveable, in 2[India]. The succession to the moveable property is regulated by the rules which govern, in France, the succession to the moveable property of an Englishman dying domiciled in France, and the succession to the immoveable property is regulated by the law of 2[India].",
+    "metadata": {
+      "chunk_id": "succession_section_5_chunk_0",
+      "section_id": "succession_section_5",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part II",
+      "chapter_title": "Of Domicile",
+      "section_number": "5",
+      "section_title": "Law regulating succession to deceased person’s immoveable and moveable property, respectively."
+    }
+  }
+]

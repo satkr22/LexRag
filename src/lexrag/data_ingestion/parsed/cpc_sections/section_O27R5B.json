@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-44.html",
+    "source_order": 44,
+    "article_order": 7,
+    "order": 659,
+    "stem": "section_O27R5B",
+    "heading_number": "Order XXVII",
+    "heading_title": "Suits by or against the government or public officers in their official capacity",
+    "heading_range": "12 rules",
+    "heading_source": "group-head",
+    "article_number": "O27R5B",
+    "article_title": "Duty of Court in suits against the Government or a public officer to assist in arriving at a settlement.",
+    "id": "cpc_section_O27R5B"
+  },
+  "id": "cpc_section_O27R5B",
+  "heading": {
+    "number": "Order XXVII",
+    "title": "Suits by or against the government or public officers in their official capacity",
+    "range": "12 rules"
+  },
+  "article": {
+    "number": "O27R5B",
+    "title": "Duty of Court in suits against the Government or a public officer to assist in arriving at a settlement.",
+    "content": "(1) In every suit or proceeding to which the Government, or a public officer acting in his official capacity, is a party, it shall be the duty of the Court to make, in the first instance, every endeavour, where it is possible to do so consistently with the nature and circumstances of the case, to assist the parties in arriving at a settlement in respect of the subject-matter of the suit.\n(2) If, in any such suit or proceeding, at any stage, it appears to the court that there is a reasonable possibility of a settlement between the parties, the Court may adjourn the proceeding for such period as it thinks fit, to enable attempts to be made to effect such a settlement.\n(3) The power conferred under sub-rule (2) is in addition to any other power of the Court to adjourn proceedings.]\n",
+    "html": "<article class=\"provision\" data-n=\"O27R5B\" data-report=\"Order 27, Rule 5B · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5B</span>Duty of Court in suits against the Government or a public officer to assist in arriving at a settlement.</h3></div><p class=\"prov-cite\">Order 27, Rule 5B</p><div class=\"prov-body\"><p class=\"lvl\">(1) In every suit or proceeding to which the Government, or a public officer acting in his official capacity, is a party, it shall be the duty of the Court to make, in the first instance, every endeavour, where it is possible to do so consistently with the nature and circumstances of the case, to assist the parties in arriving at a settlement in respect of the subject-matter of the suit.</p><p class=\"lvl\">(2) If, in any such suit or proceeding, at any stage, it appears to the court that there is a reasonable possibility of a settlement between the parties, the Court may adjourn the proceeding for such period as it thinks fit, to enable attempts to be made to effect such a settlement.</p><p class=\"lvl\">(3) The power conferred under sub-rule (2) is in addition to any other power of the Court to adjourn proceedings.]</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">5B</span>Duty of Court in suits against the Government or a public officer to assist in arriving at a settlement.</h3></div><p class=\"prov-cite\">Order 27, Rule 5B</p><div class=\"prov-body\"><p class=\"lvl\">(1) In every suit or proceeding to which the Government, or a public officer acting in his official capacity, is a party, it shall be the duty of the Court to make, in the first instance, every endeavour, where it is possible to do so consistently with the nature and circumstances of the case, to assist the parties in arriving at a settlement in respect of the subject-matter of the suit.</p><p class=\"lvl\">(2) If, in any such suit or proceeding, at any stage, it appears to the court that there is a reasonable possibility of a settlement between the parties, the Court may adjourn the proceeding for such period as it thinks fit, to enable attempts to be made to effect such a settlement.</p><p class=\"lvl\">(3) The power conferred under sub-rule (2) is in addition to any other power of the Court to adjourn proceedings.]</p></div>"
+  }
+}

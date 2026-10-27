@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_446_chunk_0",
+    "section_id": "income-tax-2025_section_446",
+    "token_count": 189,
+    "text": "[Act: income-tax-2025\n Chapter: Penalties\n Section: 446::Penalty for failure to furnish information or for furnishing inaccurate information on transaction of crypto-asset.\n]\n\n\n(1) If any person who is required to furnish a statement in respect of a transaction of a crypto-asset under section 509(1), fails to furnish such statement within the time prescribed under the said section, the prescribed income-tax authority under that section may impose on him, a penalty of Rs. 200 for every day for which such failure continues.\n(2) The prescribed income-tax authority may impose a penalty of Rs. 50000 on a person referred in sub-section (1), if such person—\n(a) provides inaccurate information in the statement and fails to remove such inaccuracy as per section 509(4); or\n(b) fails to comply with due diligence the requirement under section 509(5).]",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_446_chunk_0",
+      "section_id": "income-tax-2025_section_446",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XXI",
+      "chapter_title": "Penalties",
+      "section_number": "446",
+      "section_title": "Penalty for failure to furnish information or for furnishing inaccurate information on transaction of crypto-asset."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_409_chunk_0",
+    "section_id": "income-tax-2025_section_409",
+    "token_count": 178,
+    "text": "[Act: income-tax-2025\n Chapter: Collection and Recovery of Tax\n Section: 409::When assessee is deemed to be in default.\n]\n\n\nA person shall be deemed to be an assessee in default, if such person—\n(a) does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or\n(b) does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or\n(c) does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9), in respect of such instalment or instalments.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_409_chunk_0",
+      "section_id": "income-tax-2025_section_409",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "409",
+      "section_title": "When assessee is deemed to be in default."
+    }
+  }
+]

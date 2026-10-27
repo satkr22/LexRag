@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "insolvency",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": "The Insolvency and Bankruptcy Code, 2016",
+    "source_file": "insolvency_sections/insolvency-03.html",
+    "source_order": 3,
+    "article_order": 7,
+    "order": 12,
+    "stem": "section_11",
+    "heading_number": "Part II · Chapter II",
+    "heading_title": "Corporate Insolvency Resolution Process",
+    "heading_range": "ss. 6–32A",
+    "heading_source": "group-head",
+    "article_number": "11",
+    "article_title": "Persons not entitled to make application.",
+    "id": "insolvency_section_11"
+  },
+  "id": "insolvency_section_11",
+  "heading": {
+    "number": "Part II · Chapter II",
+    "title": "Corporate Insolvency Resolution Process",
+    "range": "ss. 6–32A"
+  },
+  "article": {
+    "number": "11",
+    "title": "Persons not entitled to make application.",
+    "content": "The following persons shall not be entitled to make an application to initiate corporate insolvency resolution process under this Chapter, namely:—\n(a) a corporate debtor undergoing a corporate insolvency resolution process 4[or a pre-packaged insolvency resolution process]; or\n4[(aa) a financial creditor or an operational creditor of a corporate debtor undergoing a pre-packaged insolvency resolution process; or]\n(b) a corporate debtor having completed corporate insolvency resolution process twelve months preceding the date of making of the application; or\n4[(ba) a corporate debtor in respect of whom a resolution plan has been approved under Chapter III-A, twelve months preceding the date of making of the application; or]\n(c) a corporate debtor or a financial creditor who has violated any of the terms of resolution plan which was approved twelve months before the date of making of an application under this Chapter; or\n(d) a corporate debtor in respect of whom a liquidation order has been made.\n5[Explanation I].—For the purposes of this section, a corporate debtor includes a corporate applicant in respect of such corporate debtor.\n4[Explanation II.—For the purposes of this section, it is hereby clarified that nothing in this section shall prevent a corporate debtor referred to in clauses (a) to (d) from initiating corporate insolvency resolution process against another corporate debtor.]\n",
+    "html": "<article class=\"provision\" data-n=\"11\" data-report=\"Section 11 · The Insolvency and Bankruptcy Code, 2016\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Persons not entitled to make application.</h3></div><p class=\"prov-cite\">Section 11  ·  Part II · Chapter II  ·  page 30 of the Act</p><div class=\"prov-body\"><p>The following persons shall not be entitled to make an application to initiate corporate insolvency resolution process under this Chapter, namely:—</p><p class=\"lvl\">(a) a corporate debtor undergoing a corporate insolvency resolution process <sup>4</sup>[or a pre-packaged insolvency resolution process]; or</p><p class=\"lvl\"><sup>4</sup>[(aa) a financial creditor or an operational creditor of a corporate debtor undergoing a pre-packaged insolvency resolution process; or]</p><p class=\"lvl\">(b) a corporate debtor having completed corporate insolvency resolution process twelve months preceding the date of making of the application; or</p><p class=\"lvl\"><sup>4</sup>[(ba) a corporate debtor in respect of whom a resolution plan has been approved under Chapter III-A, twelve months preceding the date of making of the application; or]</p><p class=\"lvl\">(c) a corporate debtor or a financial creditor who has violated any of the terms of resolution plan which was approved twelve months before the date of making of an application under this Chapter; or</p><p class=\"lvl\">(d) a corporate debtor in respect of whom a liquidation order has been made.</p><p class=\"prvso\"><sup>5</sup>[Explanation I].—For the purposes of this section, a corporate debtor includes a corporate applicant in respect of such corporate debtor.</p><p class=\"prvso\"><sup>4</sup>[Explanation II.—For the purposes of this section, it is hereby clarified that nothing in this section shall prevent a corporate debtor referred to in clauses (a) to (d) from initiating corporate insolvency resolution process against another corporate debtor.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Ins. by Act 26 of 2021, s. 4 (w.e.f. 04-04-2021).</p><p class=\"fn\"><sup>5</sup> The existing Explanation shall be numbered as Explanation I by Act 26 of 2021, s. 4 (w.e.f. 28-12-2019).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">11</span>Persons not entitled to make application.</h3></div><p class=\"prov-cite\">Section 11  ·  Part II · Chapter II  ·  page 30 of the Act</p><div class=\"prov-body\"><p>The following persons shall not be entitled to make an application to initiate corporate insolvency resolution process under this Chapter, namely:—</p><p class=\"lvl\">(a) a corporate debtor undergoing a corporate insolvency resolution process <sup>4</sup>[or a pre-packaged insolvency resolution process]; or</p><p class=\"lvl\"><sup>4</sup>[(aa) a financial creditor or an operational creditor of a corporate debtor undergoing a pre-packaged insolvency resolution process; or]</p><p class=\"lvl\">(b) a corporate debtor having completed corporate insolvency resolution process twelve months preceding the date of making of the application; or</p><p class=\"lvl\"><sup>4</sup>[(ba) a corporate debtor in respect of whom a resolution plan has been approved under Chapter III-A, twelve months preceding the date of making of the application; or]</p><p class=\"lvl\">(c) a corporate debtor or a financial creditor who has violated any of the terms of resolution plan which was approved twelve months before the date of making of an application under this Chapter; or</p><p class=\"lvl\">(d) a corporate debtor in respect of whom a liquidation order has been made.</p><p class=\"prvso\"><sup>5</sup>[Explanation I].—For the purposes of this section, a corporate debtor includes a corporate applicant in respect of such corporate debtor.</p><p class=\"prvso\"><sup>4</sup>[Explanation II.—For the purposes of this section, it is hereby clarified that nothing in this section shall prevent a corporate debtor referred to in clauses (a) to (d) from initiating corporate insolvency resolution process against another corporate debtor.]</p><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Ins. by Act 26 of 2021, s. 4 (w.e.f. 04-04-2021).</p><p class=\"fn\"><sup>5</sup> The existing Explanation shall be numbered as Explanation I by Act 26 of 2021, s. 4 (w.e.f. 28-12-2019).</p></div></div>"
+  }
+}

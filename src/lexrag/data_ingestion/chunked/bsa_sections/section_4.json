@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_4_chunk_0",
+    "section_id": "bsa_section_4",
+    "token_count": 296,
+    "text": "[Act: bsa\n Chapter: Relevancy of Facts\n Section: 4::Relevancy of facts forming part of same transaction\n]\n\n\nFacts which, though not in issue, are so connected with a fact in issue or a relevant fact as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places.\nIllustrations\n(a)A is accused of the murder of B by beating him. Whatever was said or done by A or B or the bystanders at the beating, or so shortly before or after it as to form part of the transaction, is a relevant fact.\n(b)A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked and jails are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them.\n(c)A sues B for a libel contained in a letter forming part of a correspondence. Letters between the parties relating to the subject out of which the libel arose, and forming part of the correspondence in which it is contained, are relevant facts, though they do not contain the libel itself.\n(d)The question is, whether certain goods ordered from B were delivered to A. The goods were delivered to several intermediate persons successively. Each delivery is a relevant fact.",
+    "metadata": {
+      "chunk_id": "bsa_section_4_chunk_0",
+      "section_id": "bsa_section_4",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Relevancy of Facts",
+      "section_number": "4",
+      "section_title": "Relevancy of facts forming part of same transaction"
+    }
+  }
+]

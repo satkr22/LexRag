@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_80B_chunk_0",
+    "section_id": "income-tax-1961_section_80B",
+    "token_count": 113,
+    "text": "[Act: income-tax-1961\n Chapter: Deductions to Be Made in Computing Total Income\n Section: 80B::Definitions.\n]\n\n\nIn this Chapter—\n(1) [***]\n(2) [***]\n(3) [***]\n(4) [***]\n(5) \"gross total income\" means the total income computed in accordance with the provisions of this Act, before making any deduction under this Chapter ;\n(6) [***]\n(7) [***]\n(8) [***]\n(9) [***].",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_80B_chunk_0",
+      "section_id": "income-tax-1961_section_80B",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIA",
+      "chapter_title": "Deductions to Be Made in Computing Total Income",
+      "section_number": "80B",
+      "section_title": "Definitions."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_75_chunk_0",
+    "section_id": "income-tax-2025_section_75",
+    "token_count": 105,
+    "text": "[Act: income-tax-2025\n Chapter: Computation of Total Income\n Section: 75::Special provision for cost of acquisition in case of depreciable asset.\n]\n\n\nIf depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_75_chunk_0",
+      "section_id": "income-tax-2025_section_75",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Computation of Total Income",
+      "section_number": "75",
+      "section_title": "Special provision for cost of acquisition in case of depreciable asset."
+    }
+  }
+]

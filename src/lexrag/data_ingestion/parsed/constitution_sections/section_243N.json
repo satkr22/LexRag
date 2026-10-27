@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-10.html",
+    "source_order": 10,
+    "article_order": 15,
+    "order": 284,
+    "stem": "section_243N",
+    "heading_number": "Part IX",
+    "heading_title": "The Panchayats",
+    "heading_range": "243 – 243O",
+    "heading_source": "group-head",
+    "article_number": "243N",
+    "article_title": "Continuance of existing laws and Panchayats",
+    "id": "constitution_section_243N"
+  },
+  "id": "constitution_section_243N",
+  "heading": {
+    "number": "Part IX",
+    "title": "The Panchayats",
+    "range": "243 – 243O"
+  },
+  "article": {
+    "number": "243N",
+    "title": "Continuance of existing laws and Panchayats",
+    "content": "Notwithstanding anything in this Part, any provision of any law relating to Panchayats in force in a State immediately before the commencement of the Constitution (Seventy-third Amendment) Act, 1992, which is inconsistent with the provisions of this Part, shall continue to be in force until amended or repealed by a competent Legislature or other competent authority or until the expiration of one year from such commencement, whichever is earlier:\nProvisoProvided that all the Panchayats existing immediately before such commencement shall continue till the expiration of their duration, unless sooner dissolved by a resolution passed to that effect by the Legislative Assembly of that State or, in the case of a State having a Legislative Council, by each House of the Legislature of that State.\n",
+    "html": "<article class=\"provision\" data-n=\"243N\" data-report=\"Article 243N · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243N</span>Continuance of existing laws and Panchayats</h3></div><p class=\"prov-cite\">Article 243N · Part IX</p><div class=\"prov-body\"><p>Notwithstanding anything in this Part, any provision of any law relating to Panchayats in force in a State immediately before the commencement of the Constitution (Seventy-third Amendment) Act, 1992, which is inconsistent with the provisions of this Part, shall continue to be in force until amended or repealed by a competent Legislature or other competent authority or until the expiration of one year from such commencement, whichever is earlier:</p><p><span class=\"named\">Proviso</span>Provided that all the Panchayats existing immediately before such commencement shall continue till the expiration of their duration, unless sooner dissolved by a resolution passed to that effect by the Legislative Assembly of that State or, in the case of a State having a Legislative Council, by each House of the Legislature of that State.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">243N</span>Continuance of existing laws and Panchayats</h3></div><p class=\"prov-cite\">Article 243N · Part IX</p><div class=\"prov-body\"><p>Notwithstanding anything in this Part, any provision of any law relating to Panchayats in force in a State immediately before the commencement of the Constitution (Seventy-third Amendment) Act, 1992, which is inconsistent with the provisions of this Part, shall continue to be in force until amended or repealed by a competent Legislature or other competent authority or until the expiration of one year from such commencement, whichever is earlier:</p><p><span class=\"named\">Proviso</span>Provided that all the Panchayats existing immediately before such commencement shall continue till the expiration of their duration, unless sooner dissolved by a resolution passed to that effect by the Legislative Assembly of that State or, in the case of a State having a Legislative Council, by each House of the Legislature of that State.</p></div>"
+  }
+}

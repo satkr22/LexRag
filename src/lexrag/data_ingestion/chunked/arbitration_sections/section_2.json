@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "arbitration_section_2_chunk_0",
+    "section_id": "arbitration_section_2",
+    "token_count": 505,
+    "text": "[Act: arbitration\n Chapter: General provisions\n Section: 2::Definitions.\n]\n\n\n(1) In this Part, unless the context otherwise requires,—\n  (a) “arbitration” means any arbitration whether or not administered by permanent arbitral institution;\n  (b) “arbitration agreement” means an agreement referred to in section 7;\n  (c) “arbitral award” includes an interim award;\n  (d) “arbitral tribunal” means a sole arbitrator or a panel of arbitrators;\n  1 [(e) “Court” means—\n  (i) in the case of an arbitration other than international commercial arbitration, the principal Civil Court of original jurisdiction in a district, and includes the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject-matter of a suit, but does not include any Civil Court of a grade inferior to such principal Civil Court, or any Court of Small Causes;\n  (ii) in the case of international commercial arbitration, the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject-matter of a suit, and in other cases, a High Court having jurisdiction to hear appeals from decrees of courts subordinate to that High Court;]\n  (f) “international commercial arbitration” means an arbitration relating to disputes arising out of legal relationships, whether contractual or not, considered as commercial under the law in force in India and where at least one of the parties is—\n  (i) an individual who is a national of, or habitually resident in, any country other than India; or\n  (ii) a body corporate which is incorporated in any country other than India; or\n  (iii) 2 *** an association or a body of individuals whose central management and control is exercised in any country other than India; or\n  (iv) the Government of a foreign country;\n  (g) “legal representative” means a person who in law represents the estate of a deceased person, and includes any person who intermeddles with the estate of the deceased, and, where a party acts in a representative character, the person on whom the estate devolves on the death of the party so acting;\n  (h) “party” means a party to an arbitration agreement.",
+    "metadata": {
+      "chunk_id": "arbitration_section_2_chunk_0",
+      "section_id": "arbitration_section_2",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "arbitration",
+      "document_title": null,
+      "chapter_number": "Part I · Chapter I",
+      "chapter_title": "General provisions",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "arbitration_section_2_chunk_1",
+    "section_id": "arbitration_section_2",
+    "token_count": 512,
+    "text": "[Act: arbitration\n Chapter: General provisions\n Section: 2::Definitions.\n]\n\n\n(1) In this Part, unless the context otherwise requires,—\n  (2) This Part shall apply where the place of arbitration is in India:\n  3 [Provided that subject to an agreement to the contrary, the provisions of sections 9, 27 and clause (a) of sub-section (1) and sub-section (3) of section 37 shall also apply to international commercial arbitration, even if the place of arbitration is outside India, and an arbitral award made or to be made in such place is enforceable and recognised under the provisions of Part II of this Act.]\n  (3) This Part shall not affect any other law for the time being in force by virtue of which certain disputes may not be submitted to arbitration.\n  (4) This Part except sub-section (1) of section 40, sections 41 and 43 shall apply to every arbitration under any other enactment for the time being in force, as if the arbitration were pursuant to an arbitration agreement and as if that other enactment were an arbitration agreement, except in so far as the provisions of this Part are inconsistent with that other enactment or with any rules made thereunder.\n  (5) Subject to the provisions of sub-section (4), and save in so far as is otherwise provided by any law for the time being in force or in any agreement in force between India and any other country or countries, this Part shall apply to all arbitrations and to all proceedings relating thereto.\n  (6) Where this Part, except section 28, leaves the parties free to determine a certain issue, that freedom shall include the right of the parties to authorise any person including an institution, to determine that issue.\n  (7) An arbitral award made under this Part shall be considered as a domestic award.\n  (8) Where this Part—\n  (a) refers to the fact that the parties have agreed or that they may agree, or\n  (b) in any other way refers to an agreement of the parties, that agreement shall include any arbitration rules referred to in that agreement.\n  (9) Where this Part, other than clause (a) of section 25 or clause (a) of sub-section (2) of section 32, refers to a claim, it shall also apply to a counterclaim, and where it refers to a defence, it shall also apply to a defence to that counterclaim.",
+    "metadata": {
+      "chunk_id": "arbitration_section_2_chunk_1",
+      "section_id": "arbitration_section_2",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "arbitration",
+      "document_title": null,
+      "chapter_number": "Part I · Chapter I",
+      "chapter_title": "General provisions",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  }
+]

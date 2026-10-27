@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_120_chunk_0",
+    "section_id": "motor-vehicles_section_120",
+    "token_count": 70,
+    "text": "[Act: motor-vehicles\n Chapter: Control of Traffic\n Section: 120::Vehicles with left hand control.\n]\n\n\nNo person shall drive or cause or allow to be driven in any public place any motor vehicle with a left-hand steering control unless it is equipped with a mechanical or electrical signalling device of a prescribed nature and in working order.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_120_chunk_0",
+      "section_id": "motor-vehicles_section_120",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Control of Traffic",
+      "section_number": "120",
+      "section_title": "Vehicles with left hand control."
+    }
+  }
+]

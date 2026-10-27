@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-26.html",
+    "source_order": 26,
+    "article_order": 1,
+    "order": 26,
+    "stem": "schedule-article-26",
+    "heading_number": null,
+    "heading_title": "First Division · Part II · Suits Relating to Contracts",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "26",
+    "article_title": "Three years.",
+    "id": "limitation_schedule-article-26"
+  },
+  "id": "limitation_schedule-article-26",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part II · Suits Relating to Contracts",
+    "range": null
+  },
+  "article": {
+    "number": "26",
+    "title": "Three years.",
+    "content": "For money payable to the plaintiff for money found to be due from the defendant to the plaintiff on accounts stated between them.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the accounts are stated in writing signed by the defendant or his agent duly authorised in this behalf, unless where the debt is, by a simultaneous agreement in writing signed as aforesaid, made payable at a future time, and then when that time arrives.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>26<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For money payable to the plaintiff for money found to be due from the defendant to the plaintiff on accounts stated between them.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the accounts are stated in writing signed by the defendant or his agent duly authorised in this behalf, unless where the debt is, by a simultaneous agreement in writing signed as aforesaid, made payable at a future time, and then when that time arrives.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>26<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part II—Suits Relating to Contracts</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For money payable to the plaintiff for money found to be due from the defendant to the plaintiff on accounts stated between them.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the accounts are stated in writing signed by the defendant or his agent duly authorised in this behalf, unless where the debt is, by a simultaneous agreement in writing signed as aforesaid, made payable at a future time, and then when that time arrives.</p></div></div></div></div>"
+  }
+}

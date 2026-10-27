@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_49A_chunk_0",
+    "section_id": "gst_section_49A",
+    "token_count": 102,
+    "text": "[Act: gst\n Chapter: Payment of Tax\n Section: 49A::Utilisation of input tax credit subject to certain conditions.\n]\n\n\nNotwithstanding anything contained in section 49, the input tax credit on account of central tax, State tax or Union territory tax shall be utilised towards payment of integrated tax, central tax, State tax or Union territory tax, as the case may be, only after the input tax credit available on account of integrated tax has first been utilised fully towards such payment.",
+    "metadata": {
+      "chunk_id": "gst_section_49A_chunk_0",
+      "section_id": "gst_section_49A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter X",
+      "chapter_title": "Payment of Tax",
+      "section_number": "49A",
+      "section_title": "Utilisation of input tax credit subject to certain conditions."
+    }
+  }
+]

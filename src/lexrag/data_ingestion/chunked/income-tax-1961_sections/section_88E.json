@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_88E_chunk_0",
+    "section_id": "income-tax-1961_section_88E",
+    "token_count": 347,
+    "text": "[Act: income-tax-1961\n Chapter: Rebates and Reliefs]\n Section: 88E::Rebate in respect of securities transaction tax.\n]\n\n\n(1) Where the total income of an assessee in a previous year includes any income, chargeable under the head \"Profits and gains of business or profession\", arising from taxable securities transactions, he shall be entitled to a deduction, from the amount of income-tax on such income arising from such transactions, computed in the manner provided in sub-section (2), of an amount equal to the securities transaction tax paid by him in respect of the taxable securities transactions entered into in the course of his business during that previous year:\nProvided that no deduction under this sub-section shall be allowed unless the assessee furnishes along with the return of income, evidence of payment of securities transaction tax in the prescribed form:\nProvided further that the amount of deduction under this sub-section shall not exceed the amount of income-tax on such income computed in the manner provided in sub-section (2).\n(2) For the purposes of sub-section (1), the amount of income-tax on the income arising from the taxable securities transactions, referred to in that sub-section, shall be equal to the amount calculated by applying the average rate of income-tax on such income.\n(3) No deduction under this section shall be allowed in, or after, the assessment year beginning on the 1st day of April, 2009.\nExplanation.—For the purposes of this section, the expressions, \"taxable securities transaction\" and \"securities transaction tax\" shall have the same meanings respectively assigned to them under Chapter VII of the Finance (No. 2) Act, 2004.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_88E_chunk_0",
+      "section_id": "income-tax-1961_section_88E",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Rebates and Reliefs]",
+      "section_number": "88E",
+      "section_title": "Rebate in respect of securities transaction tax."
+    }
+  }
+]

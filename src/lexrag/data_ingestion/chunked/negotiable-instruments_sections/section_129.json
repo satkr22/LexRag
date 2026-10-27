@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_129_chunk_0",
+    "section_id": "negotiable-instruments_section_129",
+    "token_count": 96,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Crossed Cheques\n Section: 129::Payment of crossed cheque out of due course.\n]\n\n\nAny banker paying a cheque crossed generally otherwise than to a banker, or a cheque crossed specially otherwise than to the banker to whom the same is crossed, or his agent for collection, being a banker, shall be liable to the true owner of the cheque for any loss he may sustain owing to the cheque having been so paid.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_129_chunk_0",
+      "section_id": "negotiable-instruments_section_129",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter XIV",
+      "chapter_title": "Of Crossed Cheques",
+      "section_number": "129",
+      "section_title": "Payment of crossed cheque out of due course."
+    }
+  }
+]

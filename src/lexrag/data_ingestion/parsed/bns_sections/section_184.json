@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-10.html",
+    "source_order": 10,
+    "article_order": 7,
+    "order": 184,
+    "stem": "section_184",
+    "heading_number": "Chapter X",
+    "heading_title": "Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps",
+    "heading_range": "178 – 188",
+    "heading_source": "group-head",
+    "article_number": "184",
+    "article_title": "Using Government stamp known to have been before used",
+    "id": "bns_section_184"
+  },
+  "id": "bns_section_184",
+  "heading": {
+    "number": "Chapter X",
+    "title": "Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps",
+    "range": "178 – 188"
+  },
+  "article": {
+    "number": "184",
+    "title": "Using Government stamp known to have been before used",
+    "content": "Whoever, fraudulently or with intent to cause loss to the Government, uses for any purpose a stamp issued by Government for the purpose of revenue, which he knows to have been before used, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n",
+    "html": "<article class=\"provision\" data-n=\"184\" data-report=\"Section 184 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">184</span>Using Government stamp known to have been before used</h3></div><p class=\"prov-cite\">Section 184 · Chapter X</p><div class=\"prov-body\"><p>Whoever, fraudulently or with intent to cause loss to the Government, uses for any purpose a stamp issued by Government for the purpose of revenue, which he knows to have been before used, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">184</span>Using Government stamp known to have been before used</h3></div><p class=\"prov-cite\">Section 184 · Chapter X</p><div class=\"prov-body\"><p>Whoever, fraudulently or with intent to cause loss to the Government, uses for any purpose a stamp issued by Government for the purpose of revenue, which he knows to have been before used, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.</p></div>"
+  }
+}

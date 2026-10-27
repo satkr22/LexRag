@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "contract",
+    "category_id": "CAT_004",
+    "category_label": "Contracts, Commerce & Corporate Law",
+    "category_code": "contracts_commerce_corporate_law",
+    "document_title": null,
+    "source_file": "contract_sections/section-171.html",
+    "source_order": 172,
+    "article_order": 1,
+    "order": 172,
+    "stem": "section_171",
+    "heading_number": "Chapter IX",
+    "heading_title": "Of Bailment",
+    "heading_range": "ss. 148–181",
+    "heading_source": "manifest",
+    "article_number": "171",
+    "article_title": "General lien of bankers, factors, wharfingers, attorneys and policy-brokers.",
+    "id": "contract_section_171"
+  },
+  "id": "contract_section_171",
+  "heading": {
+    "number": "Chapter IX",
+    "title": "Of Bailment",
+    "range": "ss. 148–181"
+  },
+  "article": {
+    "number": "171",
+    "title": "General lien of bankers, factors, wharfingers, attorneys and policy-brokers.",
+    "content": "Bankers, factors, wharfingers, attorneys of a High Court and policy-brokers may, in the absence of a contract to the contrary, retain as a security for a general balance of account, any goods bailed to them; but no other persons have a right to retain, as a security for such balance, goods bailed to them, unless there is an express contract to that effect1.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">171</span>General lien of bankers, factors, wharfingers, attorneys and policy-brokers.</h3></div><p class=\"prov-cite\">Section 171  ·  Chapter IX  ·  page 42 of the Act</p><div class=\"prov-body\"><p>Bankers, factors, wharfingers, attorneys of a High Court and policy-brokers may, in the absence of a contract to the contrary, retain as a security for a general balance of account, any goods bailed to them; but no other persons have a right to retain, as a security for such balance, goods bailed to them, unless there is an express contract to that effect<sup>1</sup>.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> As to lien of an agent, see s. 221, infra. As to lien of a Railway Administration, see the Indian Railways Act, 1890 (9 of 1890), s. 55.</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">171</span>General lien of bankers, factors, wharfingers, attorneys and policy-brokers.</h3></div><p class=\"prov-cite\">Section 171  ·  Chapter IX  ·  page 42 of the Act</p><div class=\"prov-body\"><p>Bankers, factors, wharfingers, attorneys of a High Court and policy-brokers may, in the absence of a contract to the contrary, retain as a security for a general balance of account, any goods bailed to them; but no other persons have a right to retain, as a security for such balance, goods bailed to them, unless there is an express contract to that effect<sup>1</sup>.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>1</sup> As to lien of an agent, see s. 221, infra. As to lien of a Railway Administration, see the Indian Railways Act, 1890 (9 of 1890), s. 55.</p></div></div>"
+  }
+}

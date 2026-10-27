@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_35_chunk_0",
+    "section_id": "negotiable-instruments_section_35",
+    "token_count": 157,
+    "text": "[Act: negotiable-instruments\n Chapter: Parties to Notes, Bills and Cheques.\n Section: 35::Liability of indorser.\n]\n\n\nIn the absence of a contract to the contrary, whoever indorses and delivers a negotiable instrument before maturity without, in such it indorsement, expressly excluding or making conditional his own liability, is bound thereby to every subsequent holder, in case of dishonour by the drawee, acceptor or maker, to compensate such holder for any loss or damage caused to him by such dishonour, provided due notice of dishonour has been given to, or received by, such indorser as hereinafter provided.\nEvery indorser after dishonour is liable as upon an instrument payable on demand.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_35_chunk_0",
+      "section_id": "negotiable-instruments_section_35",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter III",
+      "chapter_title": "Parties to Notes, Bills and Cheques.",
+      "section_number": "35",
+      "section_title": "Liability of indorser."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-06.html",
+    "source_order": 7,
+    "article_order": 3,
+    "order": 103,
+    "stem": "section_103",
+    "heading_number": "Chapter VI",
+    "heading_title": "Aggregation of Income",
+    "heading_range": "ss. 101–107",
+    "heading_source": "group-head",
+    "article_number": "103",
+    "article_title": "Unexplained investment.",
+    "id": "income-tax-2025_section_103"
+  },
+  "id": "income-tax-2025_section_103",
+  "heading": {
+    "number": "Chapter VI",
+    "title": "Aggregation of Income",
+    "range": "ss. 101–107"
+  },
+  "article": {
+    "number": "103",
+    "title": "Unexplained investment.",
+    "content": "Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and—\n(a) the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or\n(b) the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer, then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.\n",
+    "html": "<article class=\"provision\" data-n=\"103\" data-report=\"Section 103 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">103</span>Unexplained investment.</h3></div><p class=\"prov-cite\">Section 103  ·  Chapter VI  ·  page 138 of the Act</p><div class=\"prov-body\"><p>Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and—</p><p class=\"lvl\">(a) the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or</p><p class=\"lvl\">(b) the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer, then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">103</span>Unexplained investment.</h3></div><p class=\"prov-cite\">Section 103  ·  Chapter VI  ·  page 138 of the Act</p><div class=\"prov-body\"><p>Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and—</p><p class=\"lvl\">(a) the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or</p><p class=\"lvl\">(b) the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer, then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.</p></div>"
+  }
+}

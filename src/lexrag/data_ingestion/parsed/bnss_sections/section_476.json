@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-34.html",
+    "source_order": 34,
+    "article_order": 24,
+    "order": 476,
+    "stem": "section_476",
+    "heading_number": "Chapter XXXIV",
+    "heading_title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "heading_range": "453 – 477",
+    "heading_source": "group-head",
+    "article_number": "476",
+    "article_title": "Concurrent power of Central Government in case of death sentences",
+    "id": "bnss_section_476"
+  },
+  "id": "bnss_section_476",
+  "heading": {
+    "number": "Chapter XXXIV",
+    "title": "Execution, Suspension, Remission and Commutation of Sentences",
+    "range": "453 – 477"
+  },
+  "article": {
+    "number": "476",
+    "title": "Concurrent power of Central Government in case of death sentences",
+    "content": "The powers conferred by sections 473 and 474 upon the State Government may, in the case of sentences of death, also be exercised by the Central Government.\n",
+    "html": "<article class=\"provision\" data-n=\"476\" data-report=\"Section 476 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">476</span>Concurrent power of Central Government in case of death sentences</h3></div><p class=\"prov-cite\">Section 476 · Chapter XXXIV · Suspension, remission and commutation of sentences</p><div class=\"prov-body\"><p>The powers conferred by sections 473 and 474 upon the State Government may, in the case of sentences of death, also be exercised by the Central Government.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">476</span>Concurrent power of Central Government in case of death sentences</h3></div><p class=\"prov-cite\">Section 476 · Chapter XXXIV · Suspension, remission and commutation of sentences</p><div class=\"prov-body\"><p>The powers conferred by sections 473 and 474 upon the State Government may, in the case of sentences of death, also be exercised by the Central Government.</p></div>"
+  }
+}

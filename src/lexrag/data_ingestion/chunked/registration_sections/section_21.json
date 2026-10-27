@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "registration_section_21_chunk_0",
+    "section_id": "registration_section_21",
+    "token_count": 264,
+    "text": "[Act: registration\n Chapter: Of Registrable Documents\n Section: 21::Description of property and maps or plans.\n]\n\n\n(1) No non-testamentary document relating to immovable property shall be accepted for registration unless it contains a description of such property sufficient to identify the same.\n  (2) Houses in towns shall be described as situate on the north or other side of the street or road (which should be specified) to which they front, and by their existing and former occupancies, and by their numbers if the houses in such street or road are numbered.\n  (3) Other houses and lands shall be described by their name, if any, and as being in the territorial division in which they are situate, and by their superficial contents, the roads and other properties on which they abut, and their existing occupancies, and also, whenever it is practicable, by reference to a Government map or survey.\n  (4) No non-testamentary document containing a map or plan of any property comprised therein shall be accepted for registration unless it is accompanied by a true copy of the map or plan, or, in case such property is situate in several districts, by such number of true copies of the map or plan as are equal to the number of such districts.",
+    "metadata": {
+      "chunk_id": "registration_section_21_chunk_0",
+      "section_id": "registration_section_21",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "registration",
+      "document_title": null,
+      "chapter_number": "Part III",
+      "chapter_title": "Of Registrable Documents",
+      "section_number": "21",
+      "section_title": "Description of property and maps or plans."
+    }
+  }
+]

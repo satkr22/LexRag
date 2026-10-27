@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-36.html",
+    "source_order": 36,
+    "article_order": 16,
+    "order": 467,
+    "stem": "section_O20R12A",
+    "heading_number": "Order XX",
+    "heading_title": "Judgment and decree",
+    "heading_range": "24 rules",
+    "heading_source": "group-head",
+    "article_number": "O20R12A",
+    "article_title": "Decree for specific performance of contract for the sale or lease of immovable property.",
+    "id": "cpc_section_O20R12A"
+  },
+  "id": "cpc_section_O20R12A",
+  "heading": {
+    "number": "Order XX",
+    "title": "Judgment and decree",
+    "range": "24 rules"
+  },
+  "article": {
+    "number": "O20R12A",
+    "title": "Decree for specific performance of contract for the sale or lease of immovable property.",
+    "content": "Where a decree for the specific performance of a contract for the sale or lease of immovable property orders that the purchase-money or other sum be paid by the purchaser or lessee, it shall specify the period within which the payment shall be made.]\n",
+    "html": "<article class=\"provision\" data-n=\"O20R12A\" data-report=\"Order 20, Rule 12A · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12A</span>Decree for specific performance of contract for the sale or lease of immovable property.</h3></div><p class=\"prov-cite\">Order 20, Rule 12A</p><div class=\"prov-body\"><p>Where a decree for the specific performance of a contract for the sale or lease of immovable property orders that the purchase-money or other sum be paid by the purchaser or lessee, it shall specify the period within which the payment shall be made.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Ins. by s. 70, ibid. (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">12A</span>Decree for specific performance of contract for the sale or lease of immovable property.</h3></div><p class=\"prov-cite\">Order 20, Rule 12A</p><div class=\"prov-body\"><p>Where a decree for the specific performance of a contract for the sale or lease of immovable property orders that the purchase-money or other sum be paid by the purchaser or lessee, it shall specify the period within which the payment shall be made.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Ins. by s. 70, ibid. (w.e.f. 1-2-1977).</p></div>"
+  }
+}

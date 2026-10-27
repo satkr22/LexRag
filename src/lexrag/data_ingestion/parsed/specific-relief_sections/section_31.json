@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "specific-relief",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "specific-relief_sections/section-31.html",
+    "source_order": 35,
+    "article_order": 1,
+    "order": 35,
+    "stem": "section_31",
+    "heading_number": "Part II · Chapter V",
+    "heading_title": "Cancellation of Instruments",
+    "heading_range": "ss. 31–33",
+    "heading_source": "manifest",
+    "article_number": "31",
+    "article_title": "When cancellation may be ordered.",
+    "id": "specific-relief_section_31"
+  },
+  "id": "specific-relief_section_31",
+  "heading": {
+    "number": "Part II · Chapter V",
+    "title": "Cancellation of Instruments",
+    "range": "ss. 31–33"
+  },
+  "article": {
+    "number": "31",
+    "title": "When cancellation may be ordered.",
+    "content": "(1) Any person against whom a written instrument is void or voidable, and who has reasonable apprehension that such instrument, if left outstanding may cause him serious injury, may sue to have it adjudged void or voidable; and the court may, in its discretion, so adjudge it and order it to be delivered up and cancelled.\n(2) If the instrument has been registered under the Indian Registration Act, 1908 (16 of 1908), the court shall also send a copy of its decree to the officer in whose office the instrument has been so registered; and such officer shall note on the copy of the instrument contained in his books the fact of its cancellation.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>When cancellation may be ordered.</h3></div><p class=\"prov-cite\">Section 31  ·  Part II · Chapter V  ·  page 13 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Any person against whom a written instrument is void or voidable, and who has reasonable apprehension that such instrument, if left outstanding may cause him serious injury, may sue to have it adjudged void or voidable; and the court may, in its discretion, so adjudge it and order it to be delivered up and cancelled.</p><p class=\"lvl\">(2) If the instrument has been registered under the Indian Registration Act, 1908 (16 of 1908), the court shall also send a copy of its decree to the officer in whose office the instrument has been so registered; and such officer shall note on the copy of the instrument contained in his books the fact of its cancellation.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">31</span>When cancellation may be ordered.</h3></div><p class=\"prov-cite\">Section 31  ·  Part II · Chapter V  ·  page 13 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Any person against whom a written instrument is void or voidable, and who has reasonable apprehension that such instrument, if left outstanding may cause him serious injury, may sue to have it adjudged void or voidable; and the court may, in its discretion, so adjudge it and order it to be delivered up and cancelled.</p><p class=\"lvl\">(2) If the instrument has been registered under the Indian Registration Act, 1908 (16 of 1908), the court shall also send a copy of its decree to the officer in whose office the instrument has been so registered; and such officer shall note on the copy of the instrument contained in his books the fact of its cancellation.</p></div>"
+  }
+}

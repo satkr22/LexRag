@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-25.html",
+    "source_order": 25,
+    "article_order": 9,
+    "order": 315,
+    "stem": "section_315",
+    "heading_number": "Chapter XXV",
+    "heading_title": "Evidence in Inquiries and Trials",
+    "heading_range": "307 – 336",
+    "heading_source": "group-head",
+    "article_number": "315",
+    "article_title": "Remarks respecting demeanour of witness",
+    "id": "bnss_section_315"
+  },
+  "id": "bnss_section_315",
+  "heading": {
+    "number": "Chapter XXV",
+    "title": "Evidence in Inquiries and Trials",
+    "range": "307 – 336"
+  },
+  "article": {
+    "number": "315",
+    "title": "Remarks respecting demeanour of witness",
+    "content": "When a presiding Judge or Magistrate has recorded the evidence of a witness, he shall also record such remarks (if any) as he thinks material respecting the demeanour of such witness whilst under examination.\n",
+    "html": "<article class=\"provision\" data-n=\"315\" data-report=\"Section 315 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">315</span>Remarks respecting demeanour of witness</h3></div><p class=\"prov-cite\">Section 315 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p>When a presiding Judge or Magistrate has recorded the evidence of a witness, he shall also record such remarks (if any) as he thinks material respecting the demeanour of such witness whilst under examination.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">315</span>Remarks respecting demeanour of witness</h3></div><p class=\"prov-cite\">Section 315 · Chapter XXV · Mode of taking and recording evidence</p><div class=\"prov-body\"><p>When a presiding Judge or Magistrate has recorded the evidence of a witness, he shall also record such remarks (if any) as he thinks material respecting the demeanour of such witness whilst under examination.</p></div>"
+  }
+}

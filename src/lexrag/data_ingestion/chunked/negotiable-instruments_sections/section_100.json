@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_100_chunk_0",
+    "section_id": "negotiable-instruments_section_100",
+    "token_count": 176,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Noting and Protest\n Section: 100::Protest.\n]\n\n\nWhen a promissory note or bill of exchange has been dishonoured by non-acceptance or non-payment, the holder may, within a reasonable time, cause such dishonour to be noted and certified by a notary public. Such certificate is called a protest.\nProtest for better security.—When the acceptor of a bill of exchange has become insolvent, or his credit has been publicly impeached, before the maturity of the bill, the holder may, within a reasonable time, cause a notary public to demand better security of the acceptor, and on its being refused may, within a reasonable time, cause such facts to be noted and certified as aforesaid. Such certificate is called a protest for better security.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_100_chunk_0",
+      "section_id": "negotiable-instruments_section_100",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter IX",
+      "chapter_title": "Of Noting and Protest",
+      "section_number": "100",
+      "section_title": "Protest."
+    }
+  }
+]

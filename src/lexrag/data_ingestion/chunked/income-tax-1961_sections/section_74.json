@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_74_chunk_0",
+    "section_id": "income-tax-1961_section_74",
+    "token_count": 291,
+    "text": "[Act: income-tax-1961\n Chapter: Aggregation of Income and Set Off or Carry Forward of Loss\n Section: 74::Losses under the head \"Capital gains\".\n]\n\n\n(1) Where in respect of any assessment year, the net result of the computation under the head \"Capital gains\" is a loss to the assessee, the whole loss shall, subject to the other provisions of this Chapter, be carried forward to the following assessment year, and—\n(a) in so far as such loss relates to a short-term capital asset, it shall be set off against income, if any, under the head \"Capital gains\" assessable for that assessment year in respect of any other capital asset;\n(b) in so far as such loss relates to a long-term capital asset, it shall be set off against income, if any, under the head \"Capital gains\" assessable for that assessment year in respect of any other capital asset not being a short-term capital asset;\n(c) if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following assessment year and so on.\n(2) No loss shall be carried forward under this section for more than eight assessment years immediately succeeding the assessment year for which the loss was first computed.\n(3) [Omitted by the Finance Act, 2002, w.e.f. 1-4-2003.]",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_74_chunk_0",
+      "section_id": "income-tax-1961_section_74",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Aggregation of Income and Set Off or Carry Forward of Loss",
+      "section_number": "74",
+      "section_title": "Losses under the head \"Capital gains\"."
+    }
+  }
+]

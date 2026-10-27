@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_29_chunk_0",
+    "section_id": "technology_section_29",
+    "token_count": 192,
+    "text": "[Act: technology\n Chapter: Regulation of Certifying Authorities\n Section: 29::Access to computers and data.\n]\n\n\n(1) Without prejudice to the provisions of sub-section (1) of section 69, the Controller or any person authorised by him shall, if he has reasonable cause to suspect that 2[any contravention of the provisions of this Chapter] has been committed, have access to any computer system, any apparatus, data or any other material connected with such system, for the purpose of searching or causing a search to be made for obtaining any information or data contained in or available to such computer system.\n(2) For the purposes of sub-section (1), the Controller or any person authorised by him may, by order, direct any person in charge of, or otherwise concerned with the operation of, the computer system, data apparatus or material, to provide him with such reasonable technical and other assistance as he may consider necessary.",
+    "metadata": {
+      "chunk_id": "technology_section_29_chunk_0",
+      "section_id": "technology_section_29",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VI",
+      "chapter_title": "Regulation of Certifying Authorities",
+      "section_number": "29",
+      "section_title": "Access to computers and data."
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_182A_chunk_0",
+    "section_id": "motor-vehicles_section_182A",
+    "token_count": 416,
+    "text": "[Act: motor-vehicles\n Chapter: Offences, Penalties and Procedure\n Section: 182A::Punishment for offences relating to construction, maintenance, sale and alteration of motor vehicles and components.\n]\n\n\n(1) Whoever, being a manufacturer, importer or dealer of motor vehicles, sells or delivers or alters or offers to sell or deliver or alter, a motor vehicle that is in contravention of the provisions of Chapter VII or the rules and regulations made thereunder, shall be punishable with imprisonment for a term which may extend to one year, or with fine of one lakh rupees per such motor vehicle or with both:\nProvided that no person shall be convicted under this section if he proves that, at the time of sale or delivery or alteration or offer of sale or delivery or alteration of such motor vehicle, he had disclosed to the other party the manner in which such motor vehicle was in contravention of the provisions of Chapter VII or the rules and regulations made thereunder.\n(2) Whoever, being a manufacturer of motor vehicles, fails to comply with the provisions of Chapter VII or the rules and regulations made thereunder, shall be punishable with imprisonment for a term which may extend to one year or with fine which may extend to one hundred crore rupees or with both.\n(3) Whoever, sells or offers to sell, or permits the sale of any component of a motor vehicle which has been notified as a critical safety component by the Central Government and which does not comply with Chapter VII or the rules and regulations made thereunder shall be punishable with imprisonment for a term which may extend to one year or with fine of one lakh rupees per such component or with both.\n(4) Whoever, being the owner of a motor vehicle, alters a motor vehicle, including by way of retrofitting of motor vehicle parts, in a manner not permitted under the Act or the rules and regulations made thereunder shall be punishable with imprisonment for a term which may extend to six months, or with fine of five thousand rupees per such alteration or with both.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_182A_chunk_0",
+      "section_id": "motor-vehicles_section_182A",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Offences, Penalties and Procedure",
+      "section_number": "182A",
+      "section_title": "Punishment for offences relating to construction, maintenance, sale and alteration of motor vehicles and components."
+    }
+  }
+]

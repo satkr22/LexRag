@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_35DD_chunk_0",
+    "section_id": "income-tax-1961_section_35DD",
+    "token_count": 165,
+    "text": "[Act: income-tax-1961\n Chapter: COMPUTATION OF TOTAL INCOME Heads of income\n Section: 35DD::Amortisation of expenditure in case of amalgamation or demerger.\n]\n\n\n(1) Where an assessee, being an Indian company, incurs any expenditure, on or after the 1st day of April, 1999, wholly and exclusively for the purposes of amalgamation or demerger of an undertaking, the assessee shall be allowed a deduction of an amount equal to one-fifth of such expenditure for each of the five successive previous years beginning with the previous year in which the amalgamation or demerger takes place.\n(2) No deduction shall be allowed in respect of the expenditure mentioned in sub-section (1) under any other provision of this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_35DD_chunk_0",
+      "section_id": "income-tax-1961_section_35DD",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+      "section_number": "35DD",
+      "section_title": "Amortisation of expenditure in case of amalgamation or demerger."
+    }
+  }
+]

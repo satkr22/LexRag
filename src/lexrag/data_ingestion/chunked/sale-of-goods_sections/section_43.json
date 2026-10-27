@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_43_chunk_0",
+    "section_id": "sale-of-goods_section_43",
+    "token_count": 84,
+    "text": "[Act: sale-of-goods\n Chapter: Performance of the Contract\n Section: 43::Buyer not bound to return rejected goods.\n]\n\n\nUnless otherwise agreed, where goods are delivered to the buyer and he refuses to accept them, having the right so to do, he is not bound to return them to the seller, but it is sufficient if he intimates to the seller that he refuses to accept them.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_43_chunk_0",
+      "section_id": "sale-of-goods_section_43",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Performance of the Contract",
+      "section_number": "43",
+      "section_title": "Buyer not bound to return rejected goods."
+    }
+  }
+]

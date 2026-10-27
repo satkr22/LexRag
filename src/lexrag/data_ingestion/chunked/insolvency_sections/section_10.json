@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "insolvency_section_10_chunk_0",
+    "section_id": "insolvency_section_10",
+    "token_count": 394,
+    "text": "[Act: insolvency\n Chapter: Corporate Insolvency Resolution Process\n Section: 10::Initiation of corporate insolvency resolution process by corporate applicant.\n]\n\n\n(1) Where a corporate debtor has committed a default, a corporate applicant thereof may file an application for initiating corporate insolvency resolution process with the Adjudicating Authority.\n(2) The application under sub-section (1) shall be filed in such form, containing such particulars and in such manner and accompanied with such fee as may be prescribed.\n3[(3) The corporate applicant shall, along with the application, furnish—\n(a) the information relating to its books of account and such other documents 4[and any other information, as may be specified; and] 5 * * * *\n(c) the special resolution passed by shareholders of the corporate debtor or the resolution passed by at least three-fourth of the total number of partners of the corporate debtor, as the case may be, approving filing of the application.]\n(4) The Adjudicating Authority shall, within a period of fourteen days of the receipt of the application, by an order—\n(a) admit the application, if it is complete; 1[***] or\n(b) reject the application, if it is incomplete: 1[***].\nProvided that Adjudicating Authority shall, before rejecting an application, give a notice to the applicant to rectify the defects in his application within seven days from the date of receipt of such notice from the Adjudicating Authority.\n2[Provided further that if the Adjudicating Authority has not passed an order under this sub-section within a period of fourteen days from the date of receipt of the application under sub-section (2), it shall record the reasons for such delay in writing.]\n(5) The corporate insolvency resolution process shall commence from the date of admission of the application under sub-section (4) of this section.",
+    "metadata": {
+      "chunk_id": "insolvency_section_10_chunk_0",
+      "section_id": "insolvency_section_10",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter II",
+      "chapter_title": "Corporate Insolvency Resolution Process",
+      "section_number": "10",
+      "section_title": "Initiation of corporate insolvency resolution process by corporate applicant."
+    }
+  }
+]

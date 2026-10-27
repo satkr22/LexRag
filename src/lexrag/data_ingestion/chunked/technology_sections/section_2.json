@@ -1,0 +1,107 @@
+[
+  {
+    "chunk_id": "technology_section_2_chunk_0",
+    "section_id": "technology_section_2",
+    "token_count": 280,
+    "text": "[Act: technology\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\n\n(1) In this Act, unless the context otherwise requires,–\n  (a) “access” with its grammatical variations and cognate expressions means gaining entry into, instructing or communicating with the logical, arithmetical, or memory function resources of a computer, computer system or computer network;\n  (b) “addressee” means a person who is intended by the originator to receive the electronic record but does not include any intermediary;\n  (c) “adjudicating officer” means an adjudicating officer appointed under sub-section (1) of section 46;\n  (d) “affixing 1 [electronic signature]” with its grammatical variations and cognate expressions means adoption of any methodology or procedure by a person for the purpose of authenticating an electronic record by means of 1 [electronic signature];\n  2 [(da) “Appellate Tribunal” means the Appellate Tribunal referred to in sub-section (1) of section 48;]\n  (e) “appropriate Government” means as respects any matter,–\n  (i) enumerated in List II of the Seventh Schedule to the Constitution;\n  (ii) relating to any State law enacted under List III of the Seventh Schedule to the Constitution,",
+    "metadata": {
+      "chunk_id": "technology_section_2_chunk_0",
+      "section_id": "technology_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "technology_section_2_chunk_1",
+    "section_id": "technology_section_2",
+    "token_count": 468,
+    "text": "[Act: technology\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\n\nthe State Government and in any other case, the Central Government;\n  (f) “asymmetric crypto system” means a system of a secure key pair consisting of a private key for creating a digital signature and a public key to verify the digital signature;\n  (g) “Certifying Authority” means a person who has been granted a licence to issue a 1 [electronic signature] Certificate under section 24;\n  (h) “certification practice statement” means a statement issued by a Certifying Authority to specify the practices that the Certifying Authority employs in issuing 1 [electronic signature] Certificates;\n  3 [(ha) “communication device” means cell phones, personal digital assistance or combination of both or any other device used to communicate, send or transmit any text, video, audio or image;]\n  (i) “computer” means any electronic, magnetic, optical or other high-speed data processing device or system which performs logical, arithmetic, and memory functions by manipulations of electronic, magnetic or optical impulses, and includes all input, output, processing, storage, computer software or communication facilities which are connected or related to the computer in a computer system or computer network;\n  4 [(j) “computer network” means the inter-connection of one or more computers or computer systems or communication device through–\n  (i) the use of satellite, microwave, terrestrial line, wire, wireless or other communication media; and\n  (ii) terminals or a complex consisting of two or more interconnected computers or communication device whether or not the inter-connection is continuously maintained;]\n  (k) “computer resource” means computer, computer system, computer network, data, computer data base or software;\n  (l) “computer system” means a device or collection of devices, including input and output support devices and excluding calculators which are not programmable and capable of being used in conjunction with external files, which contain computer programmes, electronic instructions, input data and output data, that performs logic, arithmetic, data storage and retrieval, communication control and other functions;\n  (m) “Controller” means the Controller of Certifying Authorities appointed under sub-section (1) of section 17;",
+    "metadata": {
+      "chunk_id": "technology_section_2_chunk_1",
+      "section_id": "technology_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "technology_section_2_chunk_2",
+    "section_id": "technology_section_2",
+    "token_count": 492,
+    "text": "[Act: technology\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\n\n5 * * * * *\n  3 [(na) “cyber cafe” means any facility from where access to the internet is offered by any person in the ordinary course of business to the members of the public;\n  (nb) “cyber security” means protecting information, equipment, devices, computer, computer resource, communication device and information stored therein from unauthorised access, use, disclosure, disruption, modification or destruction;]\n  (o) “data” means a representation of information, knowledge, facts, concepts or instructions which are being prepared or have been prepared in a formalised manner, and is intended to be processed, is being processed or has been processed in a computer system or computer network, and may be in any form (including computer printouts magnetic or optical storage media, punched cards, punched tapes) or stored internally in the memory of the computer;\n  (p) “digital signature” means authentication of any electronic record by a subscriber by means of an electronic method or procedure in accordance with the provisions of section 3;\n  (q) “Digital Signature Certificate” means a Digital Signature Certificate issued under sub-section (4) of section 35;\n  (r) “electronic form” with reference to information, means any information generated, sent, received or stored in media, magnetic, optical, computer memory, micro film, computer generated micro fiche or similar device;\n  (s) “Electronic Gazette” means the Official Gazette published in the electronic form;\n  (t) “electronic record” means data, record or data generated, image or sound stored, received or sent in an electronic form or micro film or computer generated micro fiche;\n  1 [(ta) “electronic signature” means authentication of any electronic record by a subscriber by means of the electronic technique specified in the Second Schedule and includes digital signature;\n  (tb) “Electronic Signature Certificate” means an Electronic Signature Certificate issued under section 35 and includes Digital Signature Certificate;]\n  (u) “function”, in relation to a computer, includes logic, control, arithmetical process, deletion, storage and retrieval and communication or telecommunication from or within a computer;\n  1 [(ua) “Indian Computer Emergency Response Team” means an agency established under sub-section (1) of section 70B;]",
+    "metadata": {
+      "chunk_id": "technology_section_2_chunk_2",
+      "section_id": "technology_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 2,
+      "is_intact_section": false,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "technology_section_2_chunk_3",
+    "section_id": "technology_section_2",
+    "token_count": 498,
+    "text": "[Act: technology\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\n\n5 * * * * *\n  (v) “information” includes 2 [data, message, text,] images, sound, voice, codes, computer programmes, software and data bases or micro film or computer generated micro fiche;\n  3 [(w) “intermediary”, with respect to any particular electronic records, means any person who on behalf of another person receives, stores or transmits that record or provides any service with respect to that record and includes telecom service providers, network service providers, internet service providers, web-hosting service providers, search engines, online payment sites, online-auction sites, online-market places and cyber cafes;]\n  (x) “key pair”, in an asymmetric crypto system, means a private key and its mathematically related public key, which are so related that the public key can verify a digital signature created by the private key;\n  (y) “law” includes any Act of Parliament or of a State Legislature, Ordinances promulgated by the President or a Governor, as the case may be, Regulations made by the President under article 240, Bills enacted as President's Act under sub-clause (a) of clause (1) of article 357 of the Constitution and includes rules, regulations, bye-laws and orders issued or made thereunder;\n  (z) “licence” means a licence granted to a Certifying Authority under section 24;\n  (za) “originator” means a person who sends, generates, stores or transmits any electronic message or causes any electronic message to be sent, generated, stored or transmitted to any other person but does not include an intermediary;\n  (zb) “prescribed” means prescribed by rules made under this Act;\n  (zc) “private key” means the key of a key pair used to create a digital signature;\n  (zd) “public key” means the key of a key pair used to verify a digital signature and listed in the Digital Signature Certificate;\n  (ze) “secure system” means computer hardware, software, and procedure that–\n  (a) are reasonably secure from unauthorised access and misuse;\n  (b) provide a reasonable level of reliability and correct operation;\n  (c) are reasonably suited to performing the intended functions; and\n  (d) adhere to generally accepted security procedures;",
+    "metadata": {
+      "chunk_id": "technology_section_2_chunk_3",
+      "section_id": "technology_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 3,
+      "is_intact_section": false,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "technology_section_2_chunk_4",
+    "section_id": "technology_section_2",
+    "token_count": 228,
+    "text": "[Act: technology\n Chapter: Preliminary\n Section: 2::Definitions.\n]\n\n\n5 * * * * *\n  (zf) “security procedure” means the security procedure prescribed under section 16 by the Central Government;\n  (zg) “subscriber” means a person in whose name the 1 [electronic signature] Certificate is issued;\n  (zh) “verify”, in relation to a digital signature, electronic record or public key, with its grammatical variations and cognate expressions, means to determine whether–\n  (a) the initial electronic record was affixed with the digital signature by the use of private key corresponding to the public key of the subscriber;\n  (b) the initial electronic record is retained intact or has been altered since such electronic record was so affixed with the digital signature.\n  (2) Any reference in this Act to any enactment or any provision thereof shall, in relation to an area in which such enactment or such provision is not in force, be construed as a reference to the corresponding law or the relevant provision of the corresponding law, if any, in force in that area.",
+    "metadata": {
+      "chunk_id": "technology_section_2_chunk_4",
+      "section_id": "technology_section_2",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 4,
+      "is_intact_section": false,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Preliminary",
+      "section_number": "2",
+      "section_title": "Definitions."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-04c.html",
+    "source_order": 7,
+    "article_order": 5,
+    "order": 144,
+    "stem": "section_54H",
+    "heading_number": "Chapter IV",
+    "heading_title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "heading_range": "ss. 14–59",
+    "heading_source": "group-head",
+    "article_number": "54H",
+    "article_title": "Extension of time for acquiring new asset or depositing or investing amount of capital gain.",
+    "id": "income-tax-1961_section_54H"
+  },
+  "id": "income-tax-1961_section_54H",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "COMPUTATION OF TOTAL INCOME Heads of income",
+    "range": "ss. 14–59"
+  },
+  "article": {
+    "number": "54H",
+    "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gain.",
+    "content": "Notwithstanding anything contained in sections 54, 54B, 54D , 54EC and 54F, where the transfer of the original asset is by way of compulsory acquisition under any law and the amount of compensation awarded for such acquisition is not received by the assessee on the date of such transfer, the period for acquiring the new asset by the assessee referred to in those sections or, as the case may be, the period available to the assessee under those sections for depositing or investing the amount of capital gain in relation to such compensation as is not received on the date of the transfer, shall be reckoned from the date of receipt of such compensation :\nProvided that where the compensation in respect of transfer of the original asset by way of compulsory acquisition under any law is received before the 1st day of April, 1991, the aforesaid period or periods, if expired, shall extend up to the 31st day of December, 1991.\n",
+    "html": "<article class=\"provision\" data-n=\"54H\" data-report=\"Section 54H · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54H</span>Extension of time for acquiring new asset or depositing or investing amount of capital gain.</h3></div><p class=\"prov-cite\">Section 54H  ·  Chapter IV  ·  E.—Capital gains  ·  page 231 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in sections 54, 54B, 54D , 54EC and 54F, where the transfer of the original asset is by way of compulsory acquisition under any law and the amount of compensation awarded for such acquisition is not received by the assessee on the date of such transfer, the period for acquiring the new asset by the assessee referred to in those sections or, as the case may be, the period available to the assessee under those sections for depositing or investing the amount of capital gain in relation to such compensation as is not received on the date of the transfer, shall be reckoned from the date of receipt of such compensation :</p><p class=\"prvso\">Provided that where the compensation in respect of transfer of the original asset by way of compulsory acquisition under any law is received before the 1st day of April, 1991, the aforesaid period or periods, if expired, shall extend up to the 31st day of December, 1991.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">54H</span>Extension of time for acquiring new asset or depositing or investing amount of capital gain.</h3></div><p class=\"prov-cite\">Section 54H  ·  Chapter IV  ·  E.—Capital gains  ·  page 231 of the Act</p><div class=\"prov-body\"><p>Notwithstanding anything contained in sections 54, 54B, 54D , 54EC and 54F, where the transfer of the original asset is by way of compulsory acquisition under any law and the amount of compensation awarded for such acquisition is not received by the assessee on the date of such transfer, the period for acquiring the new asset by the assessee referred to in those sections or, as the case may be, the period available to the assessee under those sections for depositing or investing the amount of capital gain in relation to such compensation as is not received on the date of the transfer, shall be reckoned from the date of receipt of such compensation :</p><p class=\"prvso\">Provided that where the compensation in respect of transfer of the original asset by way of compulsory acquisition under any law is received before the 1st day of April, 1991, the aforesaid period or periods, if expired, shall extend up to the 31st day of December, 1991.</p></div>"
+  }
+}

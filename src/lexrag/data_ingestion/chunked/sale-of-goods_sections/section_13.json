@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "sale-of-goods_section_13_chunk_0",
+    "section_id": "sale-of-goods_section_13",
+    "token_count": 198,
+    "text": "[Act: sale-of-goods\n Chapter: Formation of the Contract\n Section: 13::When condition to be treated as warranty.\n]\n\n\n(1) Where a contract of sale is subject to any condition to be fulfilled by the seller, the buyer may waive the condition or elect to treat the breach of the condition as a breach of warranty and not as a ground for treating the contract as repudiated.\n(2) Where a contract of sale is not severable and the buyer has accepted the goods or part thereof, 1*** the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty and not as a ground for rejecting the goods and treating the contract as .repudiated, unless there is a term of the contract, express or implied, to that effect.\n(3) Nothing in this section shall affect the case of any condition or warranty fulfilment of which is excused by law by reason of impossibility or otherwise.",
+    "metadata": {
+      "chunk_id": "sale-of-goods_section_13_chunk_0",
+      "section_id": "sale-of-goods_section_13",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "sale-of-goods",
+      "document_title": null,
+      "chapter_number": "Chapter II",
+      "chapter_title": "Formation of the Contract",
+      "section_number": "13",
+      "section_title": "When condition to be treated as warranty."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "technology",
+    "category_id": "CAT_008",
+    "category_label": "Digital, Cyber & Data Protection",
+    "category_code": "digital_cyber_data_protection",
+    "document_title": null,
+    "source_file": "technology_sections/section-42.html",
+    "source_order": 50,
+    "article_order": 1,
+    "order": 50,
+    "stem": "section_42",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Duties of Subscribers",
+    "heading_range": "ss. 40–42",
+    "heading_source": "manifest",
+    "article_number": "42",
+    "article_title": "Control of private key.",
+    "id": "technology_section_42"
+  },
+  "id": "technology_section_42",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Duties of Subscribers",
+    "range": "ss. 40–42"
+  },
+  "article": {
+    "number": "42",
+    "title": "Control of private key.",
+    "content": "(1) Every subscriber shall exercise reasonable care to retain control of the private key corresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent its disclosure 4***.\n(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, then, the subscriber shall communicate the same without any delay to the Certifying Authority in such manner as may be specified by the regulations.\nExplanation.–For the removal of doubts, it is hereby declared that the subscriber shall be liable till he has informed the Certifying Authority that the private key has been compromised.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Control of private key.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter VIII  ·  page 18 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every subscriber shall exercise reasonable care to retain control of the private key corresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent its disclosure <sup>4</sup>***.</p><p class=\"lvl\">(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, then, the subscriber shall communicate the same without any delay to the Certifying Authority in such manner as may be specified by the regulations.</p><p class=\"prvso\">Explanation.–For the removal of doubts, it is hereby declared that the subscriber shall be liable till he has informed the Certifying Authority that the private key has been compromised.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>4</sup> The words “to a person not authorised to affix the digital signature of the subscriber” omitted by notification No. S.O.1015(E) (w.e.f. 19-9-2002).</p></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">42</span>Control of private key.</h3></div><p class=\"prov-cite\">Section 42  ·  Chapter VIII  ·  page 18 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Every subscriber shall exercise reasonable care to retain control of the private key corresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent its disclosure <sup>4</sup>***.</p><p class=\"lvl\">(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, then, the subscriber shall communicate the same without any delay to the Certifying Authority in such manner as may be specified by the regulations.</p><p class=\"prvso\">Explanation.–For the removal of doubts, it is hereby declared that the subscriber shall be liable till he has informed the Certifying Authority that the private key has been compromised.</p><div class=\"fnotes shown\"><p class=\"fn\"><sup>4</sup> The words “to a person not authorised to affix the digital signature of the subscriber” omitted by notification No. S.O.1015(E) (w.e.f. 19-9-2002).</p></div></div>"
+  }
+}

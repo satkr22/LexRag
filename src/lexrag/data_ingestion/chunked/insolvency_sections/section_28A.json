@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "insolvency_section_28A_chunk_0",
+    "section_id": "insolvency_section_28A",
+    "token_count": 459,
+    "text": "[Act: insolvency\n Chapter: Corporate Insolvency Resolution Process\n Section: 28A::Transfer of assets of guarantor of corporate debtor during process.\n]\n\n\n(1) Notwithstanding anything contained in this Code or any other law for the time being in force, where a creditor of the corporate debtor has taken possession of an asset of a personal guarantor or corporate guarantor of the corporate debtor by enforcing its security interest over such asset under any law for the time being in force which empowers the creditor to transfer the asset, the creditor may, during the corporate insolvency resolution process of the corporate debtor, permit the transfer of such an asset as part of its insolvency resolution with prior approval of the committee of creditors in such manner and subject to such condition to may be specified:\n  Provided that where the corporate guarantor is undergoing a corporate insolvency resolution process or the liquidation process, transfer of the asset under this sub-section shall take place upon approval of the committee of creditors of the corporate guarantor, by a vote of not less than sixty-six per cent. of the voting share, and the amount received pursuant to the transfer shall form part of the corporate insolvency resolution process or the liquidation estate of the corporate guarantor, as the case may be:\n  Provided further that during the liquidation process of the corporate guarantor, the approval of the committee of creditors under the first proviso is required only where the creditor has relinquished such asset to the liquidation estate under section 52:\n  Provided also that where the personal guarantor is undergoing an insolvency resolution process or the bankruptcy process and the creditor has forfeited or surrendered his right in relation to an asset, the transfer of such asset under this sub-section shall take place upon approval by a majority of more than three-fourths in value of the creditors of the personal guarantor, and the amount received pursuant to the transfer shall form part of the insolvency resolution process or the bankruptcy process of the personal guarantor, as the case may be.\n  (2) The transfer of an asset referred to in sub-section (1) under a resolution plan shall vest in the transferee all rights in, or in relation to the asset, as if the transfer had been made by the owner of such asset.",
+    "metadata": {
+      "chunk_id": "insolvency_section_28A_chunk_0",
+      "section_id": "insolvency_section_28A",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter II",
+      "chapter_title": "Corporate Insolvency Resolution Process",
+      "section_number": "28A",
+      "section_title": "Transfer of assets of guarantor of corporate debtor during process."
+    }
+  },
+  {
+    "chunk_id": "insolvency_section_28A_chunk_1",
+    "section_id": "insolvency_section_28A",
+    "token_count": 236,
+    "text": "[Act: insolvency\n Chapter: Corporate Insolvency Resolution Process\n Section: 28A::Transfer of assets of guarantor of corporate debtor during process.\n]\n\n\n(1) Notwithstanding anything contained in this Code or any other law for the time being in force, where a creditor of the corporate debtor has taken possession of an asset of a personal guarantor or corporate guarantor of the corporate debtor by enforcing its security interest over such asset under any law for the time being in force which empowers the creditor to transfer the asset, the creditor may, during the corporate insolvency resolution process of the corporate debtor, permit the transfer of such an asset as part of its insolvency resolution with prior approval of the committee of creditors in such manner and subject to such condition to may be specified:\n  (3) The amount received pursuant to the transfer of the asset shall be adjusted towards the amount of debt owed by the guarantor in accordance with the applicable law, subject to any costs, charges and expenses incurred in respect of the preservation and protection of the asset before its transfer, and where such amount is more than the debt owed, the surplus shall be paid to the guarantor.]",
+    "metadata": {
+      "chunk_id": "insolvency_section_28A_chunk_1",
+      "section_id": "insolvency_section_28A",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "insolvency",
+      "document_title": "The Insolvency and Bankruptcy Code, 2016",
+      "chapter_number": "Part II · Chapter II",
+      "chapter_title": "Corporate Insolvency Resolution Process",
+      "section_number": "28A",
+      "section_title": "Transfer of assets of guarantor of corporate debtor during process."
+    }
+  }
+]

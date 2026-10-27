@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "constitution_section_130_chunk_0",
+    "section_id": "constitution_section_130",
+    "token_count": 58,
+    "text": "[Act: constitution\n Chapter: The Union\n Section: 130::Seat of Supreme Court\n]\n\n\nThe Supreme Court shall sit in Delhi or in such other place or places, as the Chief Justice of India may, with the approval of the President, from time to time, appoint.",
+    "metadata": {
+      "chunk_id": "constitution_section_130_chunk_0",
+      "section_id": "constitution_section_130",
+      "category_id": "CAT_001",
+      "category_code": "constitutional_governance_access_to_justice",
+      "category_label": "Constitutional, Governance & Access to Justice",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "constitution",
+      "document_title": "The Constitution of India",
+      "chapter_number": "Part V",
+      "chapter_title": "The Union",
+      "section_number": "130",
+      "section_title": "Seat of Supreme Court"
+    }
+  }
+]

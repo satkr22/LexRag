@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_89A_chunk_0",
+    "section_id": "income-tax-1961_section_89A",
+    "token_count": 193,
+    "text": "[Act: income-tax-1961\n Chapter: Rebates and Reliefs]\n Section: 89A::Relief from taxation in income from retirement benefit account maintained in a notified country.\n]\n\n\nWhere a specified person has income accrued in a specified account, such income shall be taxed in such manner and in such year as may be prescribed.\nExplanation.—For the purposes of this section,—\n(a) \"notified country\" means a country as may be notified by the Central Government in the Official Gazette for the purposes of this section;\n(b) \"specified account\" means an account maintained in a notified country by the specified person in respect of his retirement benefits and the income from such account is not taxable on accrual basis but is taxed by such country at the time of withdrawal or redemption;\n(c) \"specified person\" means a person resident in India who opened a specified account in a notified country while being non-resident in India and resident in that country.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_89A_chunk_0",
+      "section_id": "income-tax-1961_section_89A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter VIII",
+      "chapter_title": "Rebates and Reliefs]",
+      "section_number": "89A",
+      "section_title": "Relief from taxation in income from retirement benefit account maintained in a notified country."
+    }
+  }
+]

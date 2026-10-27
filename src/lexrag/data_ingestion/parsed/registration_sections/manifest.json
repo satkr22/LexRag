@@ -1,0 +1,590 @@
+{
+  "act": "registration",
+  "source_directory": "src/lexrag/data_ingestion/scrapped/registration_sections",
+  "output_directory": "src/lexrag/data_ingestion/parsed/registration_sections",
+  "count": 97,
+  "files": [
+    {
+      "order": 1,
+      "article_number": "1",
+      "article_title": "Short title, extent and commencement.",
+      "file": "section_1.json"
+    },
+    {
+      "order": 2,
+      "article_number": "2",
+      "article_title": "Definitions.",
+      "file": "section_2.json"
+    },
+    {
+      "order": 3,
+      "article_number": "3",
+      "article_title": "Inspector-General of Registration.",
+      "file": "section_3.json"
+    },
+    {
+      "order": 4,
+      "article_number": "4",
+      "article_title": "Branch Inspector-General of Sindh",
+      "file": "section_4.json"
+    },
+    {
+      "order": 5,
+      "article_number": "5",
+      "article_title": "Districts and sub-districts.",
+      "file": "section_5.json"
+    },
+    {
+      "order": 6,
+      "article_number": "6",
+      "article_title": "Registrars and Sub-Registrars.",
+      "file": "section_6.json"
+    },
+    {
+      "order": 7,
+      "article_number": "7",
+      "article_title": "Offices of Registrar and Sub-Registrar.",
+      "file": "section_7.json"
+    },
+    {
+      "order": 8,
+      "article_number": "8",
+      "article_title": "Inspectors of Registration offices.",
+      "file": "section_8.json"
+    },
+    {
+      "order": 9,
+      "article_number": "9",
+      "article_title": "Military cantonments may be declared sub-districts or districts",
+      "file": "section_9.json"
+    },
+    {
+      "order": 10,
+      "article_number": "10",
+      "article_title": "Absence of Registrar or vacancy in his office.",
+      "file": "section_10.json"
+    },
+    {
+      "order": 11,
+      "article_number": "11",
+      "article_title": "Absence of Registrar on duty in his district.",
+      "file": "section_11.json"
+    },
+    {
+      "order": 12,
+      "article_number": "12",
+      "article_title": "Absence of Sub-Registrar or vacancy in his office.",
+      "file": "section_12.json"
+    },
+    {
+      "order": 13,
+      "article_number": "13",
+      "article_title": "Report to State Government of appointments under sections 10, 11 and 12.",
+      "file": "section_13.json"
+    },
+    {
+      "order": 14,
+      "article_number": "14",
+      "article_title": "Establishments of registering officers.",
+      "file": "section_14.json"
+    },
+    {
+      "order": 15,
+      "article_number": "15",
+      "article_title": "Seal of registering officers.",
+      "file": "section_15.json"
+    },
+    {
+      "order": 16,
+      "article_number": "16",
+      "article_title": "Register-books and fire-proof boxes.",
+      "file": "section_16.json"
+    },
+    {
+      "order": 17,
+      "article_number": "16A",
+      "article_title": "2 [Keeping of books in computer floppies, diskettes, etc.",
+      "file": "section_16A.json"
+    },
+    {
+      "order": 18,
+      "article_number": "17",
+      "article_title": "Documents of which registration is compulsory.",
+      "file": "section_17.json"
+    },
+    {
+      "order": 19,
+      "article_number": "18",
+      "article_title": "Documents of which registration is optional.",
+      "file": "section_18.json"
+    },
+    {
+      "order": 20,
+      "article_number": "19",
+      "article_title": "Documents in language not understood by registering officer.",
+      "file": "section_19.json"
+    },
+    {
+      "order": 21,
+      "article_number": "20",
+      "article_title": "Documents containing interlineations, blanks, erasures or alterations.",
+      "file": "section_20.json"
+    },
+    {
+      "order": 22,
+      "article_number": "21",
+      "article_title": "Description of property and maps or plans.",
+      "file": "section_21.json"
+    },
+    {
+      "order": 23,
+      "article_number": "22",
+      "article_title": "Description of houses and land by reference to Government maps or surveys.",
+      "file": "section_22.json"
+    },
+    {
+      "order": 24,
+      "article_number": "23",
+      "article_title": "Time for presenting documents.",
+      "file": "section_23.json"
+    },
+    {
+      "order": 25,
+      "article_number": "23A",
+      "article_title": "1 [Re-registration of certain documents.",
+      "file": "section_23A.json"
+    },
+    {
+      "order": 26,
+      "article_number": "24",
+      "article_title": "Documents executed by several persons at different times.",
+      "file": "section_24.json"
+    },
+    {
+      "order": 27,
+      "article_number": "25",
+      "article_title": "Provision where delay in presentation is unavoidable.",
+      "file": "section_25.json"
+    },
+    {
+      "order": 28,
+      "article_number": "26",
+      "article_title": "Documents executed out of India.",
+      "file": "section_26.json"
+    },
+    {
+      "order": 29,
+      "article_number": "27",
+      "article_title": "Wills may be presented or deposited at any time.",
+      "file": "section_27.json"
+    },
+    {
+      "order": 30,
+      "article_number": "28",
+      "article_title": "Place for registering documents relating to land.",
+      "file": "section_28.json"
+    },
+    {
+      "order": 31,
+      "article_number": "29",
+      "article_title": "Place for registering other documents.",
+      "file": "section_29.json"
+    },
+    {
+      "order": 32,
+      "article_number": "30",
+      "article_title": "Registration by Registrars in certain cases.",
+      "file": "section_30.json"
+    },
+    {
+      "order": 33,
+      "article_number": "31",
+      "article_title": "Registration or acceptance for deposit at private residence.",
+      "file": "section_31.json"
+    },
+    {
+      "order": 34,
+      "article_number": "32",
+      "article_title": "Persons to present documents for registration.",
+      "file": "section_32.json"
+    },
+    {
+      "order": 35,
+      "article_number": "32A",
+      "article_title": "1 [Compulsory affixing of photograph, etc.",
+      "file": "section_32A.json"
+    },
+    {
+      "order": 36,
+      "article_number": "33",
+      "article_title": "Power-of-attorney recognisable for purposes of section 32.",
+      "file": "section_33.json"
+    },
+    {
+      "order": 37,
+      "article_number": "34",
+      "article_title": "Enquiry before registration by registering officer.",
+      "file": "section_34.json"
+    },
+    {
+      "order": 38,
+      "article_number": "35",
+      "article_title": "Procedure on admission and denial of execution respectively.",
+      "file": "section_35.json"
+    },
+    {
+      "order": 39,
+      "article_number": "36",
+      "article_title": "Procedure where appearance of executant or witness is desired.",
+      "file": "section_36.json"
+    },
+    {
+      "order": 40,
+      "article_number": "37",
+      "article_title": "Officer or Court to issue and cause service of summons.",
+      "file": "section_37.json"
+    },
+    {
+      "order": 41,
+      "article_number": "38",
+      "article_title": "Persons exempt from appearance at registration-office.",
+      "file": "section_38.json"
+    },
+    {
+      "order": 42,
+      "article_number": "39",
+      "article_title": "Law as to summonses, commissions and witnesses.",
+      "file": "section_39.json"
+    },
+    {
+      "order": 43,
+      "article_number": "40",
+      "article_title": "Persons entitled to present wills and authorities to adopt.",
+      "file": "section_40.json"
+    },
+    {
+      "order": 44,
+      "article_number": "41",
+      "article_title": "Registration of wills and authorities to adopt.",
+      "file": "section_41.json"
+    },
+    {
+      "order": 45,
+      "article_number": "42",
+      "article_title": "Deposit of wills.",
+      "file": "section_42.json"
+    },
+    {
+      "order": 46,
+      "article_number": "43",
+      "article_title": "Procedure on deposit of wills.",
+      "file": "section_43.json"
+    },
+    {
+      "order": 47,
+      "article_number": "44",
+      "article_title": "Withdrawal of sealed cover deposited under section 42.",
+      "file": "section_44.json"
+    },
+    {
+      "order": 48,
+      "article_number": "45",
+      "article_title": "Proceedings on death of depositor.",
+      "file": "section_45.json"
+    },
+    {
+      "order": 49,
+      "article_number": "46",
+      "article_title": "Saving of certain enactments and powers of Courts.",
+      "file": "section_46.json"
+    },
+    {
+      "order": 50,
+      "article_number": "47",
+      "article_title": "Time from which registered document operates.",
+      "file": "section_47.json"
+    },
+    {
+      "order": 51,
+      "article_number": "48",
+      "article_title": "Registered documents relating to property when to take effect against oral agreements.",
+      "file": "section_48.json"
+    },
+    {
+      "order": 52,
+      "article_number": "49",
+      "article_title": "Effect of non-registration of documents required to be registered.",
+      "file": "section_49.json"
+    },
+    {
+      "order": 53,
+      "article_number": "50",
+      "article_title": "Certain registered documents relating to land to take effect against unregistered documents.",
+      "file": "section_50.json"
+    },
+    {
+      "order": 54,
+      "article_number": "51",
+      "article_title": "Register-books to be kept in the several offices.",
+      "file": "section_51.json"
+    },
+    {
+      "order": 55,
+      "article_number": "52",
+      "article_title": "Duties of registering officers when document presented.",
+      "file": "section_52.json"
+    },
+    {
+      "order": 56,
+      "article_number": "53",
+      "article_title": "Entries to be numbered consecutively.",
+      "file": "section_53.json"
+    },
+    {
+      "order": 57,
+      "article_number": "54",
+      "article_title": "Current indexes and entries therein.",
+      "file": "section_54.json"
+    },
+    {
+      "order": 58,
+      "article_number": "55",
+      "article_title": "Indexes to be made by registering officers, and their contents.",
+      "file": "section_55.json"
+    },
+    {
+      "order": 59,
+      "article_number": "56",
+      "article_title": "Copy of entries in Indexes Nos. I, II and III to be sent by Sub-Registrar to Registrar and filed",
+      "file": "section_56.json"
+    },
+    {
+      "order": 60,
+      "article_number": "57",
+      "article_title": "Registering officers to allow inspection of certain books and indexes, and to give certified copies of entries.",
+      "file": "section_57.json"
+    },
+    {
+      "order": 61,
+      "article_number": "58",
+      "article_title": "Particulars to be endorsed on documents admitted to registration.",
+      "file": "section_58.json"
+    },
+    {
+      "order": 62,
+      "article_number": "59",
+      "article_title": "Endorsements to be dated and signed by registering officer.",
+      "file": "section_59.json"
+    },
+    {
+      "order": 63,
+      "article_number": "60",
+      "article_title": "Certificate of registration.",
+      "file": "section_60.json"
+    },
+    {
+      "order": 64,
+      "article_number": "61",
+      "article_title": "Endorsements and certificate to be copied and document returned.",
+      "file": "section_61.json"
+    },
+    {
+      "order": 65,
+      "article_number": "62",
+      "article_title": "Procedure on presenting document in language unknown to registering officer.",
+      "file": "section_62.json"
+    },
+    {
+      "order": 66,
+      "article_number": "63",
+      "article_title": "Power to administer oaths and record of substance of statements.",
+      "file": "section_63.json"
+    },
+    {
+      "order": 67,
+      "article_number": "64",
+      "article_title": "Procedure where document relates to land in several sub-districts.",
+      "file": "section_64.json"
+    },
+    {
+      "order": 68,
+      "article_number": "65",
+      "article_title": "Procedure where document relates to land in several districts.",
+      "file": "section_65.json"
+    },
+    {
+      "order": 69,
+      "article_number": "66",
+      "article_title": "Procedure after registration of documents relating to land.",
+      "file": "section_66.json"
+    },
+    {
+      "order": 70,
+      "article_number": "67",
+      "article_title": "Procedure after registration under section 30, sub-section (2)",
+      "file": "section_67.json"
+    },
+    {
+      "order": 71,
+      "article_number": "68",
+      "article_title": "Power of Registrar to superintend and control Sub-Registrars.",
+      "file": "section_68.json"
+    },
+    {
+      "order": 72,
+      "article_number": "69",
+      "article_title": "Power of Inspector-General to superintend registration offices and make rules.",
+      "file": "section_69.json"
+    },
+    {
+      "order": 73,
+      "article_number": "70",
+      "article_title": "Power of Inspector-General to remit fines.",
+      "file": "section_70.json"
+    },
+    {
+      "order": 74,
+      "article_number": "71",
+      "article_title": "Reasons for refusal to register to be recorded.",
+      "file": "section_71.json"
+    },
+    {
+      "order": 75,
+      "article_number": "72",
+      "article_title": "Appeal to Registrar from orders of Sub-Registrar refusing registration on ground other than denial of execution.",
+      "file": "section_72.json"
+    },
+    {
+      "order": 76,
+      "article_number": "73",
+      "article_title": "Application to Registrar where Sub-Registrar refuses to register on ground of denial of execution.",
+      "file": "section_73.json"
+    },
+    {
+      "order": 77,
+      "article_number": "74",
+      "article_title": "Procedure of Registrar on such application.",
+      "file": "section_74.json"
+    },
+    {
+      "order": 78,
+      "article_number": "75",
+      "article_title": "Order by Registrar to register and procedure thereon.",
+      "file": "section_75.json"
+    },
+    {
+      "order": 79,
+      "article_number": "76",
+      "article_title": "Order of refusal by Registrar.",
+      "file": "section_76.json"
+    },
+    {
+      "order": 80,
+      "article_number": "77",
+      "article_title": "Suit in case of order of refusal by Registrar.",
+      "file": "section_77.json"
+    },
+    {
+      "order": 81,
+      "article_number": "78",
+      "article_title": "Fees to be fixed by State Government.",
+      "file": "section_78.json"
+    },
+    {
+      "order": 82,
+      "article_number": "79",
+      "article_title": "Publication of fees.",
+      "file": "section_79.json"
+    },
+    {
+      "order": 83,
+      "article_number": "80",
+      "article_title": "Fees payable on presentation.",
+      "file": "section_80.json"
+    },
+    {
+      "order": 84,
+      "article_number": "81",
+      "article_title": "Penalty for incorrectly endorsing, copying, translating or registering documents with intent to injure.",
+      "file": "section_81.json"
+    },
+    {
+      "order": 85,
+      "article_number": "82",
+      "article_title": "Penalty for making false statements, delivering false copies or translations, false personation, and abetment.",
+      "file": "section_82.json"
+    },
+    {
+      "order": 86,
+      "article_number": "83",
+      "article_title": "Registering officers may commence prosecutions.",
+      "file": "section_83.json"
+    },
+    {
+      "order": 87,
+      "article_number": "84",
+      "article_title": "Registering officers to be deemed public servants.",
+      "file": "section_84.json"
+    },
+    {
+      "order": 88,
+      "article_number": "85",
+      "article_title": "Destruction of unclaimed documents.",
+      "file": "section_85.json"
+    },
+    {
+      "order": 89,
+      "article_number": "86",
+      "article_title": "Registering officer not liable for thing bona fide done or refused in his official capacity.",
+      "file": "section_86.json"
+    },
+    {
+      "order": 90,
+      "article_number": "87",
+      "article_title": "Nothing so done invalidated by defect in appointment or procedure.",
+      "file": "section_87.json"
+    },
+    {
+      "order": 91,
+      "article_number": "88",
+      "article_title": "1 [Registration of documents executed by Government officers or certain public functionaries.",
+      "file": "section_88.json"
+    },
+    {
+      "order": 92,
+      "article_number": "89",
+      "article_title": "Copies of certain orders, certificates and instruments to be sent to registering officers and filed.",
+      "file": "section_89.json"
+    },
+    {
+      "order": 93,
+      "article_number": "90",
+      "article_title": "Exemption of certain documents executed by or in u of Government.",
+      "file": "section_90.json"
+    },
+    {
+      "order": 94,
+      "article_number": "91",
+      "article_title": "Inspection and copies of such documents.",
+      "file": "section_91.json"
+    },
+    {
+      "order": 95,
+      "article_number": "92",
+      "article_title": "Burmese registration-rules confirmed",
+      "file": "section_92.json"
+    },
+    {
+      "order": 96,
+      "article_number": "93",
+      "article_title": "Repeals",
+      "file": "section_93.json"
+    },
+    {
+      "order": 97,
+      "article_number": "schedule",
+      "article_title": "The Schedule",
+      "file": "section_schedule.json"
+    }
+  ]
+}

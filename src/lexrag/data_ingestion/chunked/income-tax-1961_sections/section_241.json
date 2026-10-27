@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_241_chunk_0",
+    "section_id": "income-tax-1961_section_241",
+    "token_count": 28,
+    "text": "[Act: income-tax-1961\n Chapter: Refunds\n Section: 241::Power to withhold refund in certain cases.\n]\n\n\n",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_241_chunk_0",
+      "section_id": "income-tax-1961_section_241",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Refunds",
+      "section_number": "241",
+      "section_title": "Power to withhold refund in certain cases."
+    }
+  }
+]

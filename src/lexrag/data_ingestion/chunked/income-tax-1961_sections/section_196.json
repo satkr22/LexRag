@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_196_chunk_0",
+    "section_id": "income-tax-1961_section_196",
+    "token_count": 180,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 196::Interest or dividend or other sums payable to Government, Reserve Bank or certain corporations.\n]\n\n\nNotwithstanding anything contained in the foregoing provisions of this Chapter, no deduction of tax shall be made by any person from any sums payable to—\n(i) the Government, or\n(ii) the Reserve Bank of India, or\n(iii) a corporation established by or under a Central Act which is, under any law for the time being in force, exempt from income-tax on its income, or\n(iv) a Mutual Fund specified under clause (23D) of section 10, where such sum is payable to it by way of interest or dividend in respect of any securities or shares owned by it or in which it has full beneficial interest, or any other income accruing or arising to it.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_196_chunk_0",
+      "section_id": "income-tax-1961_section_196",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "196",
+      "section_title": "Interest or dividend or other sums payable to Government, Reserve Bank or certain corporations."
+    }
+  }
+]

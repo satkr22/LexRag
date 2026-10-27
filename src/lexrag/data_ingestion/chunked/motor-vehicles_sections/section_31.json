@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_31_chunk_0",
+    "section_id": "motor-vehicles_section_31",
+    "token_count": 127,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Conductors of Stage Carriages\n Section: 31::Disqualifications for the grant of conductor’s licence.\n]\n\n\n(1) No person under the age of eighteen years shall hold, or be granted, a conductor’s licence.\n(2) The licensing authority may refuse to issue a conductor’s licence—\n(a) if the applicant does not possess the minimum educational qualification;\n(b) if the medical certificate produced by the applicant discloses that he is physically unfit to act as a conductor; and\n(c) if any previous conductor’s licence held by the applicant was revoked.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_31_chunk_0",
+      "section_id": "motor-vehicles_section_31",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter III",
+      "chapter_title": "Licensing of Conductors of Stage Carriages",
+      "section_number": "31",
+      "section_title": "Disqualifications for the grant of conductor’s licence."
+    }
+  }
+]

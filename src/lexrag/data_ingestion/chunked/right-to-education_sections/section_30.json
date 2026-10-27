@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "right-to-education_section_30_chunk_0",
+    "section_id": "right-to-education_section_30",
+    "token_count": 76,
+    "text": "[Act: right-to-education\n Chapter: Curriculum and Completion of Elementary Education\n Section: 30::Examination and completion certificate.\n]\n\n\n(1) No child shall be required to pass any Board examination till completion of elementary education.\n(2) Every child completing his elementary education shall be awarded a certificate, in such form and in such manner, as may be prescribed.",
+    "metadata": {
+      "chunk_id": "right-to-education_section_30_chunk_0",
+      "section_id": "right-to-education_section_30",
+      "category_id": "CAT_009",
+      "category_code": "social_protection_child_rights_education",
+      "category_label": "Social Protection, Child Rights & Education",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "right-to-education",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Curriculum and Completion of Elementary Education",
+      "section_number": "30",
+      "section_title": "Examination and completion certificate."
+    }
+  }
+]

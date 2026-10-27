@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "hindu-marriage_section_3_chunk_0",
+    "section_id": "hindu-marriage_section_3",
+    "token_count": 511,
+    "text": "[Act: hindu-marriage\n Chapter: Preliminary\n Section: 3::Definitions.\n]\n\nIn this Act, unless the context otherwise requires,—\n\n(a) the expressions “custom” and “usage” signify any rule which, having been continuously and uniformly observed for a long time, has obtained the force of law among Hindus in any local area, tribe, community, group or family:\n  Provided that the rule is certain and not unreasonable or opposed to public policy; and\n  Provided further that in the case of a rule applicable only to a family it has not been discontinued by the family;\n  (b) “district court” means, in any area for which there is a city civil court, that court, and in any other area the principal civil court of original jurisdiction, and includes any other civil court which may be specified by the State Government, by notification in the Official Gazette, as having jurisdiction in respect of the matters dealt with in this Act;\n  (c) “full blood” and “half blood”—two persons are said to be related to each other by full blood when they are descended from a common ancestor by the same wife and by half blood when they are descended from a common ancestor but by different wives;\n  (d) “uterine blood”—two persons are said to be related to each other by uterine blood when they are descended from a common ancestress but by different husbands.\n  Explanation.—In clauses (c) and (d), “ancestor” includes the father and “ancestress” the mother;\n  (e) “prescribed” means prescribed by rules made under this Act;\n  (f) (i) “sapinda relationship” with reference to any person extends as far as the third generation (inclusive) in the line of ascent through the mother, and the fifth (inclusive) in the line of ascent through the father, the line being traced upwards in each case from the person concerned, who is to be counted as the first generation;\n  (ii) two persons are said to be “sapindas” of each other if one is a lineal ascendant of the other within the limits of sapinda relationship, or if they have a common lineal ascendant who is within the limits of sapinda relationship with reference to each of them;\n  (g) “degrees of prohibited relationship” two persons are said to be within the “degrees of prohibited relationship”—\n  (i) if one is a lineal ascendant of the other; or",
+    "metadata": {
+      "chunk_id": "hindu-marriage_section_3_chunk_0",
+      "section_id": "hindu-marriage_section_3",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": false,
+      "act": "hindu-marriage",
+      "document_title": null,
+      "chapter_number": "Preliminary",
+      "chapter_title": "Preliminary",
+      "section_number": "3",
+      "section_title": "Definitions."
+    }
+  },
+  {
+    "chunk_id": "hindu-marriage_section_3_chunk_1",
+    "section_id": "hindu-marriage_section_3",
+    "token_count": 253,
+    "text": "[Act: hindu-marriage\n Chapter: Preliminary\n Section: 3::Definitions.\n]\n\nIn this Act, unless the context otherwise requires,—\n\n(a) the expressions “custom” and “usage” signify any rule which, having been continuously and uniformly observed for a long time, has obtained the force of law among Hindus in any local area, tribe, community, group or family:\n  (ii) if one was the wife or husband of a lineal ascendant or descendant of the other; or\n  (iii) if one was the wife of the brother or of the father’s or mother’s brother or of the grandfather’s or grandmother’s brother of the other; or\n  (iv) if the two are brother and sister, uncle and niece, aunt and nephew, or children of brother and sister or of two brothers or of two sisters;\n  Explanation.—For the purposes of clauses (f) and (g), relationship includes—\n  (i) relationship by half or uterine blood as well as by full blood;\n  (ii) illegitimate blood relationship as well as legitimate;\n  (iii) relationship by adoption as well as by blood; and all terms of relationship in those clauses shall be construed accordingly.",
+    "metadata": {
+      "chunk_id": "hindu-marriage_section_3_chunk_1",
+      "section_id": "hindu-marriage_section_3",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 1,
+      "is_intact_section": false,
+      "act": "hindu-marriage",
+      "document_title": null,
+      "chapter_number": "Preliminary",
+      "chapter_title": "Preliminary",
+      "section_number": "3",
+      "section_title": "Definitions."
+    }
+  }
+]

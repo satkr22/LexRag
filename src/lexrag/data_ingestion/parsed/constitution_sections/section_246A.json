@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-14.html",
+    "source_order": 14,
+    "article_order": 3,
+    "order": 321,
+    "stem": "section_246A",
+    "heading_number": "Part XI",
+    "heading_title": "Relations between the Union and the States",
+    "heading_range": "245 – 263",
+    "heading_source": "group-head",
+    "article_number": "246A",
+    "article_title": "Special provision with respect to goods and services tax",
+    "id": "constitution_section_246A"
+  },
+  "id": "constitution_section_246A",
+  "heading": {
+    "number": "Part XI",
+    "title": "Relations between the Union and the States",
+    "range": "245 – 263"
+  },
+  "article": {
+    "number": "246A",
+    "title": "Special provision with respect to goods and services tax",
+    "content": "(1)Notwithstanding anything contained in articles 246 and 254, Parliament, and, subject to clause (2), the Legislature of every State, have power to make laws with respect to goods and services tax imposed by the Union or by such State.\n(2)Parliament has exclusive power to make laws with respect to goods and services tax where the supply of goods, or of services, or both takes place in the course of inter-State trade or commerce.\nExplanationThe provisions of this article, shall, in respect of goods and services tax referred to in clause (5) of article 279A, take effect from the date recommended by the Goods and Services Tax Council.\n",
+    "html": "<article class=\"provision\" data-n=\"246A\" data-report=\"Article 246A · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">246A</span>Special provision with respect to goods and services tax</h3></div><p class=\"prov-cite\">Article 246A · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything contained in articles 246 and 254, Parliament, and, subject to clause (2), the Legislature of every State, have power to make laws with respect to goods and services tax imposed by the Union or by such State.</p><p><span class=\"lbl\">(2)</span>Parliament has exclusive power to make laws with respect to goods and services tax where the supply of goods, or of services, or both takes place in the course of inter-State trade or commerce.</p><p><span class=\"named\">Explanation</span>The provisions of this article, shall, in respect of goods and services tax referred to in clause (5) of article 279A, take effect from the date recommended by the Goods and Services Tax Council.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 2 (w.e.f. 16-9-2016).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">246A</span>Special provision with respect to goods and services tax</h3></div><p class=\"prov-cite\">Article 246A · Part XI · Distribution of Legislative Powers</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Notwithstanding anything contained in articles 246 and 254, Parliament, and, subject to clause (2), the Legislature of every State, have power to make laws with respect to goods and services tax imposed by the Union or by such State.</p><p><span class=\"lbl\">(2)</span>Parliament has exclusive power to make laws with respect to goods and services tax where the supply of goods, or of services, or both takes place in the course of inter-State trade or commerce.</p><p><span class=\"named\">Explanation</span>The provisions of this article, shall, in respect of goods and services tax referred to in clause (5) of article 279A, take effect from the date recommended by the Goods and Services Tax Council.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 2 (w.e.f. 16-9-2016).</p></div>"
+  }
+}

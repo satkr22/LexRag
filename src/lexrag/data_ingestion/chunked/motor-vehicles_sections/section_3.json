@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_3_chunk_0",
+    "section_id": "motor-vehicles_section_3",
+    "token_count": 154,
+    "text": "[Act: motor-vehicles\n Chapter: Licensing of Drivers of Motor Vehicles\n Section: 3::Necessity for driving licence.\n]\n\n\n(1) No person shall drive a motor vehicle in any public place unless he holds an effective driving licence issued to him authorising him to drive the vehicle; and no person shall so drive a transport vehicle [other than 4[a motor cab or motor cycle] hired for his own use or rented under any scheme made under sub-section (2) of section 75] unless his driving licence specifically entitles him so to do.\n(2) The conditions subject to which sub-section (1) shall not apply to a person receiving instructions in driving a motor vehicle shall be such as may be prescribed by the Central Government.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_3_chunk_0",
+      "section_id": "motor-vehicles_section_3",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Licensing of Drivers of Motor Vehicles",
+      "section_number": "3",
+      "section_title": "Necessity for driving licence."
+    }
+  }
+]

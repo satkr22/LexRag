@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "limitation",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": null,
+    "source_file": "limitation_sections/schedule-article-102.html",
+    "source_order": 102,
+    "article_order": 1,
+    "order": 102,
+    "stem": "schedule-article-102",
+    "heading_number": null,
+    "heading_title": "First Division · Part IX · Suits Relating to Miscellaneous Matters",
+    "heading_range": null,
+    "heading_source": "page-citation",
+    "article_number": "102",
+    "article_title": "Three years.",
+    "id": "limitation_schedule-article-102"
+  },
+  "id": "limitation_schedule-article-102",
+  "heading": {
+    "number": null,
+    "title": "First Division · Part IX · Suits Relating to Miscellaneous Matters",
+    "range": null
+  },
+  "article": {
+    "number": "102",
+    "title": "Three years.",
+    "content": "For property which the plaintiff has conveyed while insane.\nPeriod of limitationThree years.\n\nTime from which period begins to runWhen the plaintiff is restored to sanity and has knowledge of the conveyance.\n\n\n\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>102<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part IX—Suits Relating to Miscellaneous Matters</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For property which the plaintiff has conveyed while insane.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the plaintiff is restored to sanity and has knowledge of the conveyance.</p></div></div></div></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">Article</span>102<span class=\"badge\">Three years.</span></h3></div><p class=\"prov-cite\">The Schedule  ·  First Division—Suits · Part IX—Suits Relating to Miscellaneous Matters</p><div class=\"prov-body\"><div class=\"art-row\"><p class=\"desc\">For property which the plaintiff has conveyed while insane.</p><div class=\"cols\"><div><span class=\"k\">Period of limitation</span><p>Three years.</p></div><div><span class=\"k\">Time from which period begins to run</span><p>When the plaintiff is restored to sanity and has knowledge of the conveyance.</p></div></div></div></div>"
+  }
+}

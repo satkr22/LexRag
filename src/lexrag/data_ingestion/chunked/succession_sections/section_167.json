@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "succession_section_167_chunk_0",
+    "section_id": "succession_section_167",
+    "token_count": 380,
+    "text": "[Act: succession\n Chapter: Of the payment of liabilities in respect of the subject of a bequest.\n Section: 167::Non-liability of executor to exonerate specific legatees.\n]\n\n\n(1) Where property specifically bequeathed is subject at the death of the testator to any pledge, lien or incumbrance created by the testator himself or by any person under whom he claims, then, unless a contrary intention appears by the will, the legatee, if he accepts the bequest, shall accept it subject to such pledge or incumbrance, and shall (as between himself and the testator’s estate) be liable to make good the amount of such pledge or incumbrance.\n(2) A contrary intention shall not be inferred from any direction which the will may contain for the payment of the testator’s debts generally.\nExplanation.—A periodical payment in the nature of land-revenue or in the nature of rent is not such an incumbrance as is contemplated by this section.\nIllustrations\nA bequeaths to B the diamond ring given him by C. At A’s death the ring is held in pawn by D to whom it has been pledged by A. It is the duty of A’s executors, if the state of the testator’s assets will allow them, to allow B to redeem the ring.\nA bequeaths to B a zamindari which at A’s death is subject to a mortgage for 10,000 rupees; and the whole of the principal sum, together with interest to the amount of 1,000 rupees, is due at A's death. B, if he accepts the bequest, accepts it subject to this charge, and is liable, as between himself and A’s estate, to pay the sum of 11,000 rupees thus due.",
+    "metadata": {
+      "chunk_id": "succession_section_167_chunk_0",
+      "section_id": "succession_section_167",
+      "category_id": "CAT_005",
+      "category_code": "family_marriage_succession",
+      "category_label": "Family, Marriage & Succession",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "succession",
+      "document_title": "The Indian Succession Act, 1925",
+      "chapter_number": "Part VI · Chapter XVII",
+      "chapter_title": "Of the payment of liabilities in respect of the subject of a bequest.",
+      "section_number": "167",
+      "section_title": "Non-liability of executor to exonerate specific legatees."
+    }
+  }
+]

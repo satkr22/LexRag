@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "technology_section_35_chunk_0",
+    "section_id": "technology_section_35",
+    "token_count": 272,
+    "text": "[Act: technology\n Chapter: Electronic Signature Certificates2\n Section: 35::Certifying authority to issue 2 [electronic signature] Certificate.\n]\n\n\n(1) Any person may make an application to the Certifying Authority for the issue of a 2[electronic signature] Certificate in such form as may be prescribed by the Central Government.\n(2) Every such application shall be accompanied by such fee not exceeding twenty-five thousand rupees as may be prescribed by the Central Government, to be paid to the Certifying Authority:\nProvided that while prescribing fees under sub-section (2) different fees may be prescribed for different classes of applicants.\n(3) Every such application shall be accompanied by a certification practice statement or where there is no such statement, a statement containing such particulars, as may be specified by regulations.\n(4) On receipt of an application under sub-section (1), the Certifying Authority may, after consideration of the certification practice statement or the other statement under sub-section (3) and after making such enquiries as it may deem fit, grant the 2[electronic signature] Certificate or for reasons to be recorded in writing, reject the application:\n4* * * * *\n5[Provided] that no application shall be rejected unless the applicant has been given a reasonable opportunity of showing cause against the proposed rejection.",
+    "metadata": {
+      "chunk_id": "technology_section_35_chunk_0",
+      "section_id": "technology_section_35",
+      "category_id": "CAT_008",
+      "category_code": "digital_cyber_data_protection",
+      "category_label": "Digital, Cyber & Data Protection",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "technology",
+      "document_title": null,
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Electronic Signature Certificates2",
+      "section_number": "35",
+      "section_title": "Certifying authority to issue 2 [electronic signature] Certificate."
+    }
+  }
+]

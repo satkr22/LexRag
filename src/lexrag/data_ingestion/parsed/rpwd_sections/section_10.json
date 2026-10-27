@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "rpwd",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "rpwd_sections/section-10.html",
+    "source_order": 10,
+    "article_order": 1,
+    "order": 10,
+    "stem": "section_10",
+    "heading_number": "Chapter II",
+    "heading_title": "Rights and Entitlements",
+    "heading_range": "ss. 3–15",
+    "heading_source": "manifest",
+    "article_number": "10",
+    "article_title": "Reproductive rights.",
+    "id": "rpwd_section_10"
+  },
+  "id": "rpwd_section_10",
+  "heading": {
+    "number": "Chapter II",
+    "title": "Rights and Entitlements",
+    "range": "ss. 3–15"
+  },
+  "article": {
+    "number": "10",
+    "title": "Reproductive rights.",
+    "content": "(1) The appropriate Government shall ensure that persons with disabilities have access to appropriate information regarding reproductive and family planning.\n(2) No person with disability shall be subject to any medical procedure which leads to infertility without his or her free and informed consent.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Reproductive rights.</h3></div><p class=\"prov-cite\">Section 10  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The appropriate Government shall ensure that persons with disabilities have access to appropriate information regarding reproductive and family planning.</p><p class=\"lvl\">(2) No person with disability shall be subject to any medical procedure which leads to infertility without his or her free and informed consent.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">10</span>Reproductive rights.</h3></div><p class=\"prov-cite\">Section 10  ·  Chapter II  ·  page 9 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) The appropriate Government shall ensure that persons with disabilities have access to appropriate information regarding reproductive and family planning.</p><p class=\"lvl\">(2) No person with disability shall be subject to any medical procedure which leads to infertility without his or her free and informed consent.</p></div>"
+  }
+}

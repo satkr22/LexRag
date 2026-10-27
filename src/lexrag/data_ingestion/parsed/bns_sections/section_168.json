@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bns",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nyaya Sanhita, 2023",
+    "source_file": "bns_sections/bns-08.html",
+    "source_order": 8,
+    "article_order": 10,
+    "order": 168,
+    "stem": "section_168",
+    "heading_number": "Chapter VIII",
+    "heading_title": "Of Offences Relating to the Army, Navy and Air Force",
+    "heading_range": "159 – 168",
+    "heading_source": "group-head",
+    "article_number": "168",
+    "article_title": "Wearing garb or carrying token used by soldier, sailor or airman",
+    "id": "bns_section_168"
+  },
+  "id": "bns_section_168",
+  "heading": {
+    "number": "Chapter VIII",
+    "title": "Of Offences Relating to the Army, Navy and Air Force",
+    "range": "159 – 168"
+  },
+  "article": {
+    "number": "168",
+    "title": "Wearing garb or carrying token used by soldier, sailor or airman",
+    "content": "Whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand rupees, or with both.\n",
+    "html": "<article class=\"provision\" data-n=\"168\" data-report=\"Section 168 · The Bharatiya Nyaya Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">168</span>Wearing garb or carrying token used by soldier, sailor or airman</h3></div><p class=\"prov-cite\">Section 168 · Chapter VIII</p><div class=\"prov-body\"><p>Whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand rupees, or with both.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">168</span>Wearing garb or carrying token used by soldier, sailor or airman</h3></div><p class=\"prov-cite\">Section 168 · Chapter VIII</p><div class=\"prov-body\"><p>Whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand rupees, or with both.</p></div>"
+  }
+}

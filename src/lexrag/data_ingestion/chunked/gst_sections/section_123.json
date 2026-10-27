@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "gst_section_123_chunk_0",
+    "section_id": "gst_section_123",
+    "token_count": 116,
+    "text": "[Act: gst\n Chapter: Offences and Penalties\n Section: 123::Penalty for failure to furnish information return.\n]\n\n\nIf a person who is required to furnish an information return under section 150 fails to do so within the period specified in the notice issued under sub-section (3) thereof, the proper officer may direct that such person shall be liable to pay a penalty of one hundred rupees for each day of the period during which the failure to furnish such return continues:\nProvided that the penalty imposed under this section shall not exceed five thousand rupees.",
+    "metadata": {
+      "chunk_id": "gst_section_123_chunk_0",
+      "section_id": "gst_section_123",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "gst",
+      "document_title": "The Central Goods and Services Tax Act, 2017",
+      "chapter_number": "Chapter XIX",
+      "chapter_title": "Offences and Penalties",
+      "section_number": "123",
+      "section_title": "Penalty for failure to furnish information return."
+    }
+  }
+]

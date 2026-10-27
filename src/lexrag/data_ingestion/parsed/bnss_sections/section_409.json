@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-30.html",
+    "source_order": 30,
+    "article_order": 3,
+    "order": 409,
+    "stem": "section_409",
+    "heading_number": "Chapter XXX",
+    "heading_title": "Submission of Death Sentences for Confirmation",
+    "heading_range": "407 – 412",
+    "heading_source": "group-head",
+    "article_number": "409",
+    "article_title": "Power of High Court to confirm sentence or annul conviction",
+    "id": "bnss_section_409"
+  },
+  "id": "bnss_section_409",
+  "heading": {
+    "number": "Chapter XXX",
+    "title": "Submission of Death Sentences for Confirmation",
+    "range": "407 – 412"
+  },
+  "article": {
+    "number": "409",
+    "title": "Power of High Court to confirm sentence or annul conviction",
+    "content": "In any case submitted under section 407, the High Court—\n(a)may confirm the sentence, or pass any other sentence warranted by law; or\n(b)may annul the conviction, and convict the accused of any offence of which the Court of Session might have convicted him, or order a new trial on the same or an amended charge; or\n(c)may acquit the accused person:\nProvisoProvided that no order of confirmation shall be made under this section until the period allowed for preferring an appeal has expired, or, if an appeal is presented within such period, until such appeal is disposed of.\n",
+    "html": "<article class=\"provision\" data-n=\"409\" data-report=\"Section 409 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">409</span>Power of High Court to confirm sentence or annul conviction</h3></div><p class=\"prov-cite\">Section 409 · Chapter XXX</p><div class=\"prov-body\"><p>In any case submitted under section 407, the High Court—</p><p><span class=\"lbl\">(a)</span>may confirm the sentence, or pass any other sentence warranted by law; or</p><p><span class=\"lbl\">(b)</span>may annul the conviction, and convict the accused of any offence of which the Court of Session might have convicted him, or order a new trial on the same or an amended charge; or</p><p><span class=\"lbl\">(c)</span>may acquit the accused person:</p><p><span class=\"named\">Proviso</span>Provided that no order of confirmation shall be made under this section until the period allowed for preferring an appeal has expired, or, if an appeal is presented within such period, until such appeal is disposed of.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">409</span>Power of High Court to confirm sentence or annul conviction</h3></div><p class=\"prov-cite\">Section 409 · Chapter XXX</p><div class=\"prov-body\"><p>In any case submitted under section 407, the High Court—</p><p><span class=\"lbl\">(a)</span>may confirm the sentence, or pass any other sentence warranted by law; or</p><p><span class=\"lbl\">(b)</span>may annul the conviction, and convict the accused of any offence of which the Court of Session might have convicted him, or order a new trial on the same or an amended charge; or</p><p><span class=\"lbl\">(c)</span>may acquit the accused person:</p><p><span class=\"named\">Proviso</span>Provided that no order of confirmation shall be made under this section until the period allowed for preferring an appeal has expired, or, if an appeal is presented within such period, until such appeal is disposed of.</p></div>"
+  }
+}

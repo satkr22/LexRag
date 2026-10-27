@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "arbitration_section_13_chunk_0",
+    "section_id": "arbitration_section_13",
+    "token_count": 287,
+    "text": "[Act: arbitration\n Chapter: Composition of arbitral tribunal\n Section: 13::Challenge procedure.\n]\n\n\n(1) Subject to sub-section (4), the parties are free to agree on a procedure for challenging an arbitrator.\n(2) Failing any agreement referred to in sub-section (1), a party who intends to challenge an arbitrator shall, within fifteen days after becoming aware of the constitution of the arbitral tribunal or after becoming aware of any circumstances referred to in sub-section (3) of section 12, send a written statement of the reasons for the challenge to the arbitral tribunal.\n(3) Unless the arbitrator challenged under sub-section (2) withdraws from his office or the other party agrees to the challenge, the arbitral tribunal shall decide on the challenge.\n(4) If a challenge under any procedure agreed upon by the parties or under the procedure under sub-section (2) is not successful, the arbitral tribunal shall continue the arbitral proceedings and make an arbitral award.\n(5) Where an arbitral award is made under sub-section (4), the party challenging the arbitrator may make an application for setting aside such an arbitral award in accordance with section 34.\n(6) Where an arbitral award is set aside on an application made under sub-section (5), the Court may decide as to whether the arbitrator who is challenged is entitled to any fees.",
+    "metadata": {
+      "chunk_id": "arbitration_section_13_chunk_0",
+      "section_id": "arbitration_section_13",
+      "category_id": "CAT_003",
+      "category_code": "civil_procedure_remedies_dispute_resolution",
+      "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "arbitration",
+      "document_title": null,
+      "chapter_number": "Part I · Chapter III",
+      "chapter_title": "Composition of arbitral tribunal",
+      "section_number": "13",
+      "section_title": "Challenge procedure."
+    }
+  }
+]

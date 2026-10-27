@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-1961",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 1961",
+    "source_file": "income-tax-1961_sections/income-tax-1961-36.html",
+    "source_order": 40,
+    "article_order": 8,
+    "order": 526,
+    "stem": "section_165",
+    "heading_number": "Chapter XV",
+    "heading_title": "Liability in Special Cases",
+    "heading_range": "ss. 159–181",
+    "heading_source": "group-head",
+    "article_number": "165",
+    "article_title": "Case where part of trust income is chargeable.",
+    "id": "income-tax-1961_section_165"
+  },
+  "id": "income-tax-1961_section_165",
+  "heading": {
+    "number": "Chapter XV",
+    "title": "Liability in Special Cases",
+    "range": "ss. 159–181"
+  },
+  "article": {
+    "number": "165",
+    "title": "Case where part of trust income is chargeable.",
+    "content": "Where part only of the income of a trust is chargeable under this Act, that proportion only of the income receivable by a beneficiary from the trust which the part so chargeable bears to the whole income of the trust shall be deemed to have been derived from that part.\n",
+    "html": "<article class=\"provision\" data-n=\"165\" data-report=\"Section 165 · The Income-tax Act, 1961\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">165</span>Case where part of trust income is chargeable.</h3></div><p class=\"prov-cite\">Section 165  ·  Chapter XV  ·  C.—Representative assessees - Special cases  ·  page 675 of the Act</p><div class=\"prov-body\"><p>Where part only of the income of a trust is chargeable under this Act, that proportion only of the income receivable by a beneficiary from the trust which the part so chargeable bears to the whole income of the trust shall be deemed to have been derived from that part.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">165</span>Case where part of trust income is chargeable.</h3></div><p class=\"prov-cite\">Section 165  ·  Chapter XV  ·  C.—Representative assessees - Special cases  ·  page 675 of the Act</p><div class=\"prov-body\"><p>Where part only of the income of a trust is chargeable under this Act, that proportion only of the income receivable by a beneficiary from the trust which the part so chargeable bears to the whole income of the trust shall be deemed to have been derived from that part.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-27.html",
+    "source_order": 27,
+    "article_order": 3,
+    "order": 370,
+    "stem": "section_O13AR3",
+    "heading_number": "Order XIIIA",
+    "heading_title": "Summary Judgment",
+    "heading_range": "8 rules",
+    "heading_source": "group-head",
+    "article_number": "O13AR3",
+    "article_title": "Grounds for summary judgment.",
+    "id": "cpc_section_O13AR3"
+  },
+  "id": "cpc_section_O13AR3",
+  "heading": {
+    "number": "Order XIIIA",
+    "title": "Summary Judgment",
+    "range": "8 rules"
+  },
+  "article": {
+    "number": "O13AR3",
+    "title": "Grounds for summary judgment.",
+    "content": "The Court may give a summary judgment against a plaintiff or defendant on a claim if it considers that––\n(a) the plaintiff has no real prospect of succeeding on the claim or the defendant has no real prospect of successfully defending the claim, as the case may be; and\n(b) there is no other compelling reason why the claim should not be disposed of before recording of oral evidence.\n",
+    "html": "<article class=\"provision\" data-n=\"O13AR3\" data-report=\"Order 13A, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Grounds for summary judgment.</h3></div><p class=\"prov-cite\">Order 13A, Rule 3</p><div class=\"prov-body\"><p>The Court may give a summary judgment against a plaintiff or defendant on a claim if it considers that––</p><p class=\"lvl\">(a) the plaintiff has no real prospect of succeeding on the claim or the defendant has no real prospect of successfully defending the claim, as the case may be; and</p><p class=\"lvl\">(b) there is no other compelling reason why the claim should not be disposed of before recording of oral evidence.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Grounds for summary judgment.</h3></div><p class=\"prov-cite\">Order 13A, Rule 3</p><div class=\"prov-body\"><p>The Court may give a summary judgment against a plaintiff or defendant on a claim if it considers that––</p><p class=\"lvl\">(a) the plaintiff has no real prospect of succeeding on the claim or the defendant has no real prospect of successfully defending the claim, as the case may be; and</p><p class=\"lvl\">(b) there is no other compelling reason why the claim should not be disposed of before recording of oral evidence.</p></div>"
+  }
+}

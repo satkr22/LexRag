@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "easements_section_5_chunk_0",
+    "section_id": "easements_section_5",
+    "token_count": 277,
+    "text": "[Act: easements\n Chapter: Of Easements Generally\n Section: 5::Continuous and discontinuous, apparent and non-apparent, easements.\n]\n\n\nEasements are either continuous or discontinuous, apparent or non-apparent.\nA continuous easement is one whose enjoyment is, or may be, continual without the act of man.\nA discontinuous easement is one that needs the act of man for its enjoyment.\nAn apparent easement is one the existence of which is shown by some permanent sign which, upon careful inspection by a competent person, would be visible to him.\nA non-apparent easement is one that has no such sign.\nIllustrations\n(a) A right annexed to B’s house to receive light by the windows without obstruction by his neighbour A. This is a continuous easement.\n(b) A right of way annexed to A’s house over B’s land. This is a discontinuous easement.\n(c) Rights annexed to A’s land to lead water thither across B’s land by an aqueduct and to draw off water thence by a drain. The drain would be discovered upon careful inspection by a person conversant with such matters. These are apparent easements.\n(d) A right annexed to A’s house to prevent B from building on his own land. This is a non-apparent easement.",
+    "metadata": {
+      "chunk_id": "easements_section_5_chunk_0",
+      "section_id": "easements_section_5",
+      "category_id": "CAT_006",
+      "category_code": "property_registration_easements",
+      "category_label": "Property, Registration & Easements",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "easements",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Of Easements Generally",
+      "section_number": "5",
+      "section_title": "Continuous and discontinuous, apparent and non-apparent, easements."
+    }
+  }
+]

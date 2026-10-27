@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_4_chunk_0",
+    "section_id": "contract_section_4",
+    "token_count": 326,
+    "text": "[Act: contract\n Chapter: Of the Communication, Acceptance and Revocation of Proposals\n Section: 4::Communication when complete.\n]\n\n\nThe communication of a proposal is complete when it comes to the knowledge of the person to whom it is made.\nThe communication of an acceptance is complete,—\nas against the proposer, when it is put in a course of transmission to him, so as to be out of the power of the acceptor;\nas against the acceptor, when it comes to the knowledge of the proposer.\nThe communication of a revocation is complete,—\nas against the person who makes it, when it is put into a course of transmission to the person to whom it is made, so as to be out of the power of the person who makes it;\nas against the person to whom it is made, when it comes to his knowledge.\nIllustrations\n(a)A proposes, by letter, to sell a house to B at a certain price.\nThe communication of the proposal is complete when B receives the letter.\n(b)B accepts A’s proposal by a letter sent by post.\nThe communication of the acceptance is complete,\nas against A when the letter is posted;\nas against B, when the letter is received by A.\n(c)A revokes his proposal by telegram.\nThe revocation is complete as against A when the telegram is despatched. It is complete as against B when B receives it.\nB revokes his acceptance by telegram. B’s revocation is complete as against B when the telegram is despatched, and as against A when it reaches him.",
+    "metadata": {
+      "chunk_id": "contract_section_4_chunk_0",
+      "section_id": "contract_section_4",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter I",
+      "chapter_title": "Of the Communication, Acceptance and Revocation of Proposals",
+      "section_number": "4",
+      "section_title": "Communication when complete."
+    }
+  }
+]

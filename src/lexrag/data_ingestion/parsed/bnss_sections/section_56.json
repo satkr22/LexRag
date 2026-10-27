@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-05.html",
+    "source_order": 5,
+    "article_order": 22,
+    "order": 56,
+    "stem": "section_56",
+    "heading_number": "Chapter V",
+    "heading_title": "Arrest of Persons",
+    "heading_range": "35 – 62",
+    "heading_source": "group-head",
+    "article_number": "56",
+    "article_title": "Health and safety of arrested person",
+    "id": "bnss_section_56"
+  },
+  "id": "bnss_section_56",
+  "heading": {
+    "number": "Chapter V",
+    "title": "Arrest of Persons",
+    "range": "35 – 62"
+  },
+  "article": {
+    "number": "56",
+    "title": "Health and safety of arrested person",
+    "content": "It shall be the duty of the person having the custody of an accused to take reasonable care of the health and safety of the accused.\n",
+    "html": "<article class=\"provision\" data-n=\"56\" data-report=\"Section 56 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">56</span>Health and safety of arrested person</h3></div><p class=\"prov-cite\">Section 56 · Chapter V</p><div class=\"prov-body\"><p>It shall be the duty of the person having the custody of an accused to take reasonable care of the health and safety of the accused.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">56</span>Health and safety of arrested person</h3></div><p class=\"prov-cite\">Section 56 · Chapter V</p><div class=\"prov-body\"><p>It shall be the duty of the person having the custody of an accused to take reasonable care of the health and safety of the accused.</p></div>"
+  }
+}

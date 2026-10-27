@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "bsa_section_57_chunk_0",
+    "section_id": "bsa_section_57",
+    "token_count": 338,
+    "text": "[Act: bsa\n Chapter: Of Documentary Evidence\n Section: 57::Primary evidence\n]\n\n\nPrimary evidence means the document itself produced for the inspection of the Court.\nExplanation 1Where a document is executed in several parts, each part is primary evidence of the document.\nExplanation 2Where a document is executed in counterpart, each counterpart being executed by one or some of the parties only, each counterpart is primary evidence as against the parties executing it.\nExplanation 3Where a number of documents are all made by one uniform process, as in the case of printing, lithography or photography, each is primary evidence of the contents of the rest; but, where they are all copies of a common original, they are not primary evidence of the contents of the original.\nExplanation 4Where an electronic or digital record is created or stored, and such storage occurs simultaneously or sequentially in multiple files, each such file is primary evidence.\nExplanation 5Where an electronic or digital record is produced from proper custody, such electronic and digital record is primary evidence unless it is disputed.\nExplanation 6Where a video recording is simultaneously stored in electronic form and transmitted or broadcast or transferred to another, each of the stored recordings is primary evidence.\nExplanation 7Where an electronic or digital record is stored in multiple storage spaces in a computer resource, each such automated storage, including temporary files, is primary evidence.\nIllustrations\nA person is shown to have been in possession of a number of placards, all printed at one time from one original. Any one of the placards is primary evidence of the contents of any other, but no one of them is primary evidence of the contents of the original.",
+    "metadata": {
+      "chunk_id": "bsa_section_57_chunk_0",
+      "section_id": "bsa_section_57",
+      "category_id": "CAT_002",
+      "category_code": "criminal_law_procedure_evidence",
+      "category_label": "Criminal Law, Procedure & Evidence",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "bsa",
+      "document_title": null,
+      "chapter_number": "Chapter V",
+      "chapter_title": "Of Documentary Evidence",
+      "section_number": "57",
+      "section_title": "Primary evidence"
+    }
+  }
+]

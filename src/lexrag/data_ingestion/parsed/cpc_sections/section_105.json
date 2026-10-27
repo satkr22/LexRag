@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-08.html",
+    "source_order": 8,
+    "article_order": 12,
+    "order": 113,
+    "stem": "section_105",
+    "heading_number": "Part Vii",
+    "heading_title": "Appeals",
+    "heading_range": "ss. 96–112",
+    "heading_source": "group-head",
+    "article_number": "105",
+    "article_title": "Other orders.",
+    "id": "cpc_section_105"
+  },
+  "id": "cpc_section_105",
+  "heading": {
+    "number": "Part Vii",
+    "title": "Appeals",
+    "range": "ss. 96–112"
+  },
+  "article": {
+    "number": "105",
+    "title": "Other orders.",
+    "content": "Appeals from orders\n(1) Save as otherwise expressly provided, no appeal shall lie from any order made by a Court in the exercise of its original or appellate jurisdiction; but where a decree is appealed from, any error, defect or irregularity in any order, affecting the decision of the case, may be set forth as a ground of objection in the memorandum of appeal.\n(2) Notwithstanding anything contained in sub-section (1), where any party aggrieved by an order of remand 3*** from which an appeals lies does not appeal therefrom, he shall thereafter be precluded from disputing its correctness.\n",
+    "html": "<article class=\"provision\" data-n=\"105\" data-report=\"Section 105 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">105</span>Other orders.</h3></div><p class=\"prov-cite\">Section 105</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from orders</p><p class=\"lvl\">(1) Save as otherwise expressly provided, no appeal shall lie from any order made by a Court in the exercise of its original or appellate jurisdiction; but where a decree is appealed from, any error, defect or irregularity in any order, affecting the decision of the case, may be set forth as a ground of objection in the memorandum of appeal.</p><p class=\"lvl\">(2) Notwithstanding anything contained in sub-section (1), where any party aggrieved by an order of remand <sup>3</sup>*** from which an appeals lies does not appeal therefrom, he shall thereafter be precluded from disputing its correctness.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> The Words “made after the commencement of this Code” omitted by Act 104 of 1976, s. 42 (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">105</span>Other orders.</h3></div><p class=\"prov-cite\">Section 105</p><div class=\"prov-body\"><p class=\"sched-title\">Appeals from orders</p><p class=\"lvl\">(1) Save as otherwise expressly provided, no appeal shall lie from any order made by a Court in the exercise of its original or appellate jurisdiction; but where a decree is appealed from, any error, defect or irregularity in any order, affecting the decision of the case, may be set forth as a ground of objection in the memorandum of appeal.</p><p class=\"lvl\">(2) Notwithstanding anything contained in sub-section (1), where any party aggrieved by an order of remand <sup>3</sup>*** from which an appeals lies does not appeal therefrom, he shall thereafter be precluded from disputing its correctness.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>3</sup> The Words “made after the commencement of this Code” omitted by Act 104 of 1976, s. 42 (w.e.f. 1-2-1977).</p></div>"
+  }
+}

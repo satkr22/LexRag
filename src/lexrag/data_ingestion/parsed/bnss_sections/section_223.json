@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-16.html",
+    "source_order": 16,
+    "article_order": 1,
+    "order": 223,
+    "stem": "section_223",
+    "heading_number": "Chapter XVI",
+    "heading_title": "Complaints to Magistrates",
+    "heading_range": "223 – 226",
+    "heading_source": "group-head",
+    "article_number": "223",
+    "article_title": "Examination of complainant",
+    "id": "bnss_section_223"
+  },
+  "id": "bnss_section_223",
+  "heading": {
+    "number": "Chapter XVI",
+    "title": "Complaints to Magistrates",
+    "range": "223 – 226"
+  },
+  "article": {
+    "number": "223",
+    "title": "Examination of complainant",
+    "content": "(1)A Magistrate having jurisdiction while taking cognizance of an offence on complaint shall examine upon oath the complainant and the witnesses present, if any, and the substance of such examination shall be reduced to writing and shall be signed by the complainant and the witnesses, and also by the Magistrate:\nProviso 1Provided that no cognizance of an offence shall be taken by the Magistrate without giving the accused an opportunity of being heard:\nProviso 2Provided further that when the complaint is made in writing, the Magistrate need not examine the complainant and the witnesses—\n(a)if a public servant acting or purporting to act in the discharge of his official duties or a Court has made the complaint; or\n(b)if the Magistrate makes over the case for inquiry or trial to another Magistrate under section 212:\nProviso 3Provided also that if the Magistrate makes over the case to another Magistrate under section 212 after examining the complainant and the witnesses, the latter Magistrate need not re-examine them.\n(2)A Magistrate shall not take cognizance on a complaint against a public servant for any offence alleged to have been committed in course of the discharge of his official functions or duties unless—\n(a)such public servant is given an opportunity to make assertions as to the situation that led to the incident so alleged; and\n(b)a report containing facts and circumstances of the incident from the officer superior to such public servant is received.\n",
+    "html": "<article class=\"provision\" data-n=\"223\" data-report=\"Section 223 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">223</span>Examination of complainant</h3></div><p class=\"prov-cite\">Section 223 · Chapter XVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A Magistrate having jurisdiction while taking cognizance of an offence on complaint shall examine upon oath the complainant and the witnesses present, if any, and the substance of such examination shall be reduced to writing and shall be signed by the complainant and the witnesses, and also by the Magistrate:</p><p class=\"lvl\"><span class=\"named\">Proviso 1</span>Provided that no cognizance of an offence shall be taken by the Magistrate without giving the accused an opportunity of being heard:</p><p class=\"lvl\"><span class=\"named\">Proviso 2</span>Provided further that when the complaint is made in writing, the Magistrate need not examine the complainant and the witnesses—</p><p class=\"lvl2\"><span class=\"lbl\">(a)</span>if a public servant acting or purporting to act in the discharge of his official duties or a Court has made the complaint; or</p><p class=\"lvl2\"><span class=\"lbl\">(b)</span>if the Magistrate makes over the case for inquiry or trial to another Magistrate under section 212:</p><p class=\"lvl\"><span class=\"named\">Proviso 3</span>Provided also that if the Magistrate makes over the case to another Magistrate under section 212 after examining the complainant and the witnesses, the latter Magistrate need not re-examine them.</p><p><span class=\"lbl\">(2)</span>A Magistrate shall not take cognizance on a complaint against a public servant for any offence alleged to have been committed in course of the discharge of his official functions or duties unless—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>such public servant is given an opportunity to make assertions as to the situation that led to the incident so alleged; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>a report containing facts and circumstances of the incident from the officer superior to such public servant is received.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">223</span>Examination of complainant</h3></div><p class=\"prov-cite\">Section 223 · Chapter XVI</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A Magistrate having jurisdiction while taking cognizance of an offence on complaint shall examine upon oath the complainant and the witnesses present, if any, and the substance of such examination shall be reduced to writing and shall be signed by the complainant and the witnesses, and also by the Magistrate:</p><p class=\"lvl\"><span class=\"named\">Proviso 1</span>Provided that no cognizance of an offence shall be taken by the Magistrate without giving the accused an opportunity of being heard:</p><p class=\"lvl\"><span class=\"named\">Proviso 2</span>Provided further that when the complaint is made in writing, the Magistrate need not examine the complainant and the witnesses—</p><p class=\"lvl2\"><span class=\"lbl\">(a)</span>if a public servant acting or purporting to act in the discharge of his official duties or a Court has made the complaint; or</p><p class=\"lvl2\"><span class=\"lbl\">(b)</span>if the Magistrate makes over the case for inquiry or trial to another Magistrate under section 212:</p><p class=\"lvl\"><span class=\"named\">Proviso 3</span>Provided also that if the Magistrate makes over the case to another Magistrate under section 212 after examining the complainant and the witnesses, the latter Magistrate need not re-examine them.</p><p><span class=\"lbl\">(2)</span>A Magistrate shall not take cognizance on a complaint against a public servant for any offence alleged to have been committed in course of the discharge of his official functions or duties unless—</p><p class=\"lvl\"><span class=\"lbl\">(a)</span>such public servant is given an opportunity to make assertions as to the situation that led to the incident so alleged; and</p><p class=\"lvl\"><span class=\"lbl\">(b)</span>a report containing facts and circumstances of the incident from the officer superior to such public servant is received.</p></div>"
+  }
+}

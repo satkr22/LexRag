@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_133C_chunk_0",
+    "section_id": "income-tax-1961_section_133C",
+    "token_count": 273,
+    "text": "[Act: income-tax-1961\n Chapter: Income-tax Authorities\n Section: 133C::Power to call for information by prescribed income-tax authority.\n]\n\n\n(1) The prescribed income-tax authority may, for the purposes of verification of information in its possession relating to any person, issue a notice to such person requiring him, on or before a date to be specified therein, to furnish information or documents verified in the manner specified therein, which may be useful for, or relevant to, any inquiry or proceeding under this Act.\n(2) Where any information or document has been received in response to a notice issued under sub-section (1), the prescribed income-tax authority may process and utilise such information and document in accordance with the scheme notified under sub-section (3) or the provisions of section 135A.\n(3) The Board may make a scheme for centralised issuance of notice and for processing of information or documents and making available the outcome of the processing to the Assessing Officer.\n(4) The scheme made under sub-section (3) shall cease to have effect from the date on which the scheme notified under section 135A in respect of this section comes into effect.\nExplanation.—In this section, the term \"proceeding\" shall have the meaning assigned to it in clause (b) of the Explanation to section 133A.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_133C_chunk_0",
+      "section_id": "income-tax-1961_section_133C",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIII",
+      "chapter_title": "Income-tax Authorities",
+      "section_number": "133C",
+      "section_title": "Power to call for information by prescribed income-tax authority."
+    }
+  }
+]

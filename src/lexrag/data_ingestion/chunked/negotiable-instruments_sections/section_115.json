@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "negotiable-instruments_section_115_chunk_0",
+    "section_id": "negotiable-instruments_section_115",
+    "token_count": 81,
+    "text": "[Act: negotiable-instruments\n Chapter: Of Acceptance and Payment for Honour and Reference in Case of Need\n Section: 115::Drawee in case of need.\n]\n\n\nWhere a drawee in case of need is named in a bill of exchange, or in any indorsement thereon, the bill is not dishonoured until it has been dishonoured by such drawee.",
+    "metadata": {
+      "chunk_id": "negotiable-instruments_section_115_chunk_0",
+      "section_id": "negotiable-instruments_section_115",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "negotiable-instruments",
+      "document_title": null,
+      "chapter_number": "Chapter XI",
+      "chapter_title": "Of Acceptance and Payment for Honour and Reference in Case of Need",
+      "section_number": "115",
+      "section_title": "Drawee in case of need."
+    }
+  }
+]

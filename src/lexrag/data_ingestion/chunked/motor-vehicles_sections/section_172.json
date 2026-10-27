@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_172_chunk_0",
+    "section_id": "motor-vehicles_section_172",
+    "token_count": 306,
+    "text": "[Act: motor-vehicles\n Chapter: Claims Tribunals\n Section: 172::Award of compensatory costs in certain cases.\n]\n\n\n(1) Any Claims Tribunal adjudicating upon any claim for compensation under this Act, may in any case where it is satisfied for reasons to be recorded by it in writing that—\n(a) the policy of insurance is void on the ground that it was obtained by representation of fact which was false in any material particular; or\n(b) any party or insurer has put forward a false or vexatious claim or defence,\nsuch Tribunal may make an order for the payment, by the party who is guilty of mis-representation or by whom such claim or defence has been put forward of special costs by way of compensation to the insurer or, as the case may be, to the party against whom such claim or defence has been put forward.\n(2) No Claims Tribunal shall pass an order for special costs under sub-section (1) for any amount exceeding one thousand rupees.\n(3) No person or insurer against whom an order has been made under this section shall, by reason thereof be exempted from any criminal liability in respect of such mis-representation, claim or defence as is referred to in sub-section (1).\n(4) Any amount awarded by way of compensation under this section in respect of any mis-representation, claim or defence, shall be taken into account in any subsequent suit for damages for compensation in respect of such mis-representation, claim or defence.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_172_chunk_0",
+      "section_id": "motor-vehicles_section_172",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter XII",
+      "chapter_title": "Claims Tribunals",
+      "section_number": "172",
+      "section_title": "Award of compensatory costs in certain cases."
+    }
+  }
+]

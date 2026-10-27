@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "contract_section_200_chunk_0",
+    "section_id": "contract_section_200",
+    "token_count": 202,
+    "text": "[Act: contract\n Chapter: Agency\n Section: 200::Ratification of unauthorized act cannot injure third person.\n]\n\n\nAn act done by one person on behalf of another, without such other person’s authority, which, if done with authority, would have the effect of subjecting a third person to damages, or of terminating any right or interest of a third person, cannot, by ratification, be made to have such effect.\nIllustrations\n(a)A, not being authorized thereto by B, demands, on behalf of B, the delivery of a chattel, the property of B, from C, who is in possession of it. This demand cannot be ratified by B, so as to make C liable for damages for his refusal to deliver.\n(b)A holds a lease from B, terminable on three months’ notice. C, an unauthorized person, gives notice of termination to A. The notice cannot be ratified by B, so as to be binding on A.",
+    "metadata": {
+      "chunk_id": "contract_section_200_chunk_0",
+      "section_id": "contract_section_200",
+      "category_id": "CAT_004",
+      "category_code": "contracts_commerce_corporate_law",
+      "category_label": "Contracts, Commerce & Corporate Law",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "contract",
+      "document_title": null,
+      "chapter_number": "Chapter X",
+      "chapter_title": "Agency",
+      "section_number": "200",
+      "section_title": "Ratification of unauthorized act cannot injure third person."
+    }
+  }
+]

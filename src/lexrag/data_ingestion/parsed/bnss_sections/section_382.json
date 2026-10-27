@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "bnss",
+    "category_id": "CAT_002",
+    "category_label": "Criminal Law, Procedure & Evidence",
+    "category_code": "criminal_law_procedure_evidence",
+    "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "source_file": "bnss_sections/bnss-28.html",
+    "source_order": 28,
+    "article_order": 4,
+    "order": 382,
+    "stem": "section_382",
+    "heading_number": "Chapter XXVIII",
+    "heading_title": "Provisions as to Offences Affecting the Administration of Justice",
+    "heading_range": "379 – 391",
+    "heading_source": "group-head",
+    "article_number": "382",
+    "article_title": "Procedure of Magistrate taking cognizance",
+    "id": "bnss_section_382"
+  },
+  "id": "bnss_section_382",
+  "heading": {
+    "number": "Chapter XXVIII",
+    "title": "Provisions as to Offences Affecting the Administration of Justice",
+    "range": "379 – 391"
+  },
+  "article": {
+    "number": "382",
+    "title": "Procedure of Magistrate taking cognizance",
+    "content": "(1)A Magistrate to whom a complaint is made under section 379 or section 380 shall, notwithstanding anything contained in Chapter XVI, proceed, as far as may be, to deal with the case as if it were instituted on a police report.\n(2)Where it is brought to the notice of such Magistrate, or of any other Magistrate to whom the case may have been transferred, that an appeal is pending against the decision arrived at in the judicial proceeding out of which the matter has arisen, he may, if he thinks fit, at any stage, adjourn the hearing of the case until such appeal is decided.\n",
+    "html": "<article class=\"provision\" data-n=\"382\" data-report=\"Section 382 · The Bharatiya Nagarik Suraksha Sanhita, 2023\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">382</span>Procedure of Magistrate taking cognizance</h3></div><p class=\"prov-cite\">Section 382 · Chapter XXVIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A Magistrate to whom a complaint is made under section 379 or section 380 shall, notwithstanding anything contained in Chapter XVI, proceed, as far as may be, to deal with the case as if it were instituted on a police report.</p><p><span class=\"lbl\">(2)</span>Where it is brought to the notice of such Magistrate, or of any other Magistrate to whom the case may have been transferred, that an appeal is pending against the decision arrived at in the judicial proceeding out of which the matter has arisen, he may, if he thinks fit, at any stage, adjourn the hearing of the case until such appeal is decided.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">382</span>Procedure of Magistrate taking cognizance</h3></div><p class=\"prov-cite\">Section 382 · Chapter XXVIII</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>A Magistrate to whom a complaint is made under section 379 or section 380 shall, notwithstanding anything contained in Chapter XVI, proceed, as far as may be, to deal with the case as if it were instituted on a police report.</p><p><span class=\"lbl\">(2)</span>Where it is brought to the notice of such Magistrate, or of any other Magistrate to whom the case may have been transferred, that an appeal is pending against the decision arrived at in the judicial proceeding out of which the matter has arisen, he may, if he thinks fit, at any stage, adjourn the hearing of the case until such appeal is decided.</p></div>"
+  }
+}

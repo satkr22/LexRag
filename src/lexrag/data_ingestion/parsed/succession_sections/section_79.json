@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-13.html",
+    "source_order": 13,
+    "article_order": 6,
+    "order": 79,
+    "stem": "section_79",
+    "heading_number": "Part VI · Chapter VI",
+    "heading_title": "Of the construction of Wills",
+    "heading_range": "ss. 74–111",
+    "heading_source": "group-head",
+    "article_number": "79",
+    "article_title": "When part of description may not be rejected as erroneous.",
+    "id": "succession_section_79"
+  },
+  "id": "succession_section_79",
+  "heading": {
+    "number": "Part VI · Chapter VI",
+    "title": "Of the construction of Wills",
+    "range": "ss. 74–111"
+  },
+  "article": {
+    "number": "79",
+    "title": "When part of description may not be rejected as erroneous.",
+    "content": "If a will mentions several circumstances as descriptive of the thing which the testator intends to bequeath, and there is any property of his in respect of which all those circumstances exist, the bequest shall be considered as limited to such property, and it shall not be lawful to reject any part of the description as erroneous, because the testator had other property to which such part of the description does not apply.\nExplanation.—In judging whether a case falls within the meaning of this section, any words which would be liable to rejection under section 78 shall be deemed to have been struck out of the will.\nIllustrations\n(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands lying in L, some of which were in the occupation of X, and some not in the occupation of X. The bequest will be considered as limited to such of the testator’s marsh-lands in L as were in the occupation of X.\n(ii) A bequeaths to B “my marsh-lands lying in L and in the occupation of X, comprising 1,000 bighas of lands”. The testator had marsh-lands lying in L some of which were in the occupation of X and some not in the occupation of X. The measurement is wholly inapplicable to the marsh-lands of either class, or to the whole taken together. The measurement will be considered as struck out of the will, and such of the testator’s marsh-lands lying in L as were in the occupation of X shall alone pass by the bequest.\n",
+    "html": "<article class=\"provision\" data-n=\"79\" data-report=\"Section 79 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>When part of description may not be rejected as erroneous.</h3></div><p class=\"prov-cite\">Section 79  ·  Part VI · Chapter VI  ·  page 33 of the Act</p><div class=\"prov-body\"><p>If a will mentions several circumstances as descriptive of the thing which the testator intends to bequeath, and there is any property of his in respect of which all those circumstances exist, the bequest shall be considered as limited to such property, and it shall not be lawful to reject any part of the description as erroneous, because the testator had other property to which such part of the description does not apply.</p><p class=\"prvso\">Explanation.—In judging whether a case falls within the meaning of this section, any words which would be liable to rejection under section 78 shall be deemed to have been struck out of the will.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands lying in L, some of which were in the occupation of X, and some not in the occupation of X. The bequest will be considered as limited to such of the testator’s marsh-lands in L as were in the occupation of X.</p><p class=\"lvl\">(ii) A bequeaths to B “my marsh-lands lying in L and in the occupation of X, comprising 1,000 bighas of lands”. The testator had marsh-lands lying in L some of which were in the occupation of X and some not in the occupation of X. The measurement is wholly inapplicable to the marsh-lands of either class, or to the whole taken together. The measurement will be considered as struck out of the will, and such of the testator’s marsh-lands lying in L as were in the occupation of X shall alone pass by the bequest.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">79</span>When part of description may not be rejected as erroneous.</h3></div><p class=\"prov-cite\">Section 79  ·  Part VI · Chapter VI  ·  page 33 of the Act</p><div class=\"prov-body\"><p>If a will mentions several circumstances as descriptive of the thing which the testator intends to bequeath, and there is any property of his in respect of which all those circumstances exist, the bequest shall be considered as limited to such property, and it shall not be lawful to reject any part of the description as erroneous, because the testator had other property to which such part of the description does not apply.</p><p class=\"prvso\">Explanation.—In judging whether a case falls within the meaning of this section, any words which would be liable to rejection under section 78 shall be deemed to have been struck out of the will.</p><p>Illustrations</p><p class=\"lvl\">(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands lying in L, some of which were in the occupation of X, and some not in the occupation of X. The bequest will be considered as limited to such of the testator’s marsh-lands in L as were in the occupation of X.</p><p class=\"lvl\">(ii) A bequeaths to B “my marsh-lands lying in L and in the occupation of X, comprising 1,000 bighas of lands”. The testator had marsh-lands lying in L some of which were in the occupation of X and some not in the occupation of X. The measurement is wholly inapplicable to the marsh-lands of either class, or to the whole taken together. The measurement will be considered as struck out of the will, and such of the testator’s marsh-lands lying in L as were in the occupation of X shall alone pass by the bequest.</p></div>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-01.html",
+    "source_order": 1,
+    "article_order": 7,
+    "order": 7,
+    "stem": "section_7",
+    "heading_number": "Preliminary",
+    "heading_title": "Preliminary",
+    "heading_range": "ss. 1–8",
+    "heading_source": "group-head",
+    "article_number": "7",
+    "article_title": "Provincial Small Cause Courts.",
+    "id": "cpc_section_7"
+  },
+  "id": "cpc_section_7",
+  "heading": {
+    "number": "Preliminary",
+    "title": "Preliminary",
+    "range": "ss. 1–8"
+  },
+  "article": {
+    "number": "7",
+    "title": "Provincial Small Cause Courts.",
+    "content": "The following provisions shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887 (9 of 1887) 4[or under the Berar Small Cause Courts Law, 1905], or to Courts exercising the jurisdiction of a Court of Small Causes 5[under the said Act or Law], 6[or to Courts in 7[any part of India to which the said Act does not extend] exercising a corresponding jurisdiction] that is to say,—\n(a) so much of the body of the Code as relates to—\n(i) suits excepted from the cognizance of a Court of Small Causes;\n(ii) the execution of decrees in such suits;\n(iii) the execution of decrees against immovable property; and\n(b) the following sections, that is to say,—\nsection 9,\nsections 91 and 92,\nsections 94 and 95 8[so far as they authorize or relate to—\n(i) orders for the attachment of immovable property,\n(ii) injunctions,\n(iii) the appointment of a receiver of immovable property, or\n(iv) the interlocutory orders referred to in clause (e) of section 94], and sections 96 to 112 and 115.\n",
+    "html": "<article class=\"provision\" data-n=\"7\" data-report=\"Section 7 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Provincial Small Cause Courts.</h3></div><p class=\"prov-cite\">Section 7</p><div class=\"prov-body\"><p>The following provisions shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887 (9 of 1887) <sup>4</sup>[or under the Berar Small Cause Courts Law, 1905], or to Courts exercising the jurisdiction of a Court of Small Causes <sup>5</sup>[under the said Act or Law], <sup>6</sup>[or to Courts in <sup>7</sup>[any part of India to which the said Act does not extend] exercising a corresponding jurisdiction] that is to say,—</p><p class=\"lvl\">(a) so much of the body of the Code as relates to—</p><p class=\"lvl\">(i) suits excepted from the cognizance of a Court of Small Causes;</p><p class=\"lvl\">(ii) the execution of decrees in such suits;</p><p class=\"lvl\">(iii) the execution of decrees against immovable property; and</p><p class=\"lvl\">(b) the following sections, that is to say,—</p><p>section 9,</p><p>sections 91 and 92,</p><p>sections 94 and 95 <sup>8</sup>[so far as they authorize or relate to—</p><p class=\"lvl\">(i) orders for the attachment of immovable property,</p><p class=\"lvl\">(ii) injunctions,</p><p class=\"lvl\">(iii) the appointment of a receiver of immovable property, or</p><p class=\"lvl\">(iv) the interlocutory orders referred to in clause (e) of section 94], and sections 96 to 112 and 115.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Ins. by Act 4 of 1941, s. 2 and the Third Sch.</p><p class=\"fn\"><sup>5</sup> Subs. by s. 2 and the Third Sch., ibid., for “under that Act”.</p><p class=\"fn\"><sup>6</sup> Ins. by Act 2 of 1951, s. 5 (w.e.f. 1-4-1951).</p><p class=\"fn\"><sup>7</sup> Subs. by the Adaptation of Laws (No. 2) Order, 1956, for “Part B States”.</p><p class=\"fn\"><sup>8</sup> Subs. by Act 1 of 1926, s. 3, for “so far as they relate to injunctions and interlocutory orders” .</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">7</span>Provincial Small Cause Courts.</h3></div><p class=\"prov-cite\">Section 7</p><div class=\"prov-body\"><p>The following provisions shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887 (9 of 1887) <sup>4</sup>[or under the Berar Small Cause Courts Law, 1905], or to Courts exercising the jurisdiction of a Court of Small Causes <sup>5</sup>[under the said Act or Law], <sup>6</sup>[or to Courts in <sup>7</sup>[any part of India to which the said Act does not extend] exercising a corresponding jurisdiction] that is to say,—</p><p class=\"lvl\">(a) so much of the body of the Code as relates to—</p><p class=\"lvl\">(i) suits excepted from the cognizance of a Court of Small Causes;</p><p class=\"lvl\">(ii) the execution of decrees in such suits;</p><p class=\"lvl\">(iii) the execution of decrees against immovable property; and</p><p class=\"lvl\">(b) the following sections, that is to say,—</p><p>section 9,</p><p>sections 91 and 92,</p><p>sections 94 and 95 <sup>8</sup>[so far as they authorize or relate to—</p><p class=\"lvl\">(i) orders for the attachment of immovable property,</p><p class=\"lvl\">(ii) injunctions,</p><p class=\"lvl\">(iii) the appointment of a receiver of immovable property, or</p><p class=\"lvl\">(iv) the interlocutory orders referred to in clause (e) of section 94], and sections 96 to 112 and 115.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>4</sup> Ins. by Act 4 of 1941, s. 2 and the Third Sch.</p><p class=\"fn\"><sup>5</sup> Subs. by s. 2 and the Third Sch., ibid., for “under that Act”.</p><p class=\"fn\"><sup>6</sup> Ins. by Act 2 of 1951, s. 5 (w.e.f. 1-4-1951).</p><p class=\"fn\"><sup>7</sup> Subs. by the Adaptation of Laws (No. 2) Order, 1956, for “Part B States”.</p><p class=\"fn\"><sup>8</sup> Subs. by Act 1 of 1926, s. 3, for “so far as they relate to injunctions and interlocutory orders” .</p></div>"
+  }
+}

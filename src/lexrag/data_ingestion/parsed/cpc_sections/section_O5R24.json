@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-17.html",
+    "source_order": 17,
+    "article_order": 27,
+    "order": 229,
+    "stem": "section_O5R24",
+    "heading_number": "Order V",
+    "heading_title": "Issue and service of summons",
+    "heading_range": "34 rules",
+    "heading_source": "group-head",
+    "article_number": "O5R24",
+    "article_title": "Service on defendant in prison.",
+    "id": "cpc_section_O5R24"
+  },
+  "id": "cpc_section_O5R24",
+  "heading": {
+    "number": "Order V",
+    "title": "Issue and service of summons",
+    "range": "34 rules"
+  },
+  "article": {
+    "number": "O5R24",
+    "title": "Service on defendant in prison.",
+    "content": "Where the defendant is confined in a prison, the summons shall be delivered or sent 2[or by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court] to the officer in charge of the prison for service on the defendant.\n",
+    "html": "<article class=\"provision\" data-n=\"O5R24\" data-report=\"Order 5, Rule 24 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Service on defendant in prison.</h3></div><p class=\"prov-cite\">Order 5, Rule 24</p><div class=\"prov-body\"><p>Where the defendant is confined in a prison, the summons shall be delivered or sent <sup>2</sup>[or by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court] to the officer in charge of the prison for service on the defendant.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 46 of 1999, s. 15, for certain words (w.e.f. 1-7-2002).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">24</span>Service on defendant in prison.</h3></div><p class=\"prov-cite\">Order 5, Rule 24</p><div class=\"prov-body\"><p>Where the defendant is confined in a prison, the summons shall be delivered or sent <sup>2</sup>[or by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court] to the officer in charge of the prison for service on the defendant.</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>2</sup> Subs. by Act 46 of 1999, s. 15, for certain words (w.e.f. 1-7-2002).</p></div>"
+  }
+}

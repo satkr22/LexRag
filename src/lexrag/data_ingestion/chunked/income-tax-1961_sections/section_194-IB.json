@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_194-IB_chunk_0",
+    "section_id": "income-tax-1961_section_194-IB",
+    "token_count": 351,
+    "text": "[Act: income-tax-1961\n Chapter: Collection and Recovery of Tax\n Section: 194-IB::Payment of rent by certain individuals or Hindu undivided family.\n]\n\n\n(1) Any person, being an individual or a Hindu undivided family (other than those referred to in the second proviso to section 194-I), responsible for paying to a resident any income by way of rent exceeding fifty thousand rupees for a month or part of a month during the previous year, shall deduct an amount equal to 42[two] per cent of such income as income-tax thereon.\n(2) The income-tax referred to in sub-section (1) shall be deducted on such income at the time of credit of rent, for the last month of the previous year or the last month of tenancy, if the property is vacated during the year, as the case may be, to the account of the payee or at the time of payment thereof in cash or by issue of a cheque or draft or by any other mode, whichever is earlier.\n(3) The provisions of section 203A shall not apply to a person required to deduct tax in accordance with the provisions of this section.\n(4) In a case where the tax is required to be deducted as per the provisions of section 206AA, such deduction shall not exceed the amount of rent payable for the last month of the previous year or the last month of the tenancy, as the case may be.\nExplanation.—For the purposes of this section, \"rent\" means any payment, by whatever name called, under any lease, sub-lease, tenancy or any other agreement or arrangement for the use of any land or building or both.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_194-IB_chunk_0",
+      "section_id": "income-tax-1961_section_194-IB",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XVII",
+      "chapter_title": "Collection and Recovery of Tax",
+      "section_number": "194-IB",
+      "section_title": "Payment of rent by certain individuals or Hindu undivided family."
+    }
+  }
+]

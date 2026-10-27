@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-2025_section_4_chunk_0",
+    "section_id": "income-tax-2025_section_4",
+    "token_count": 201,
+    "text": "[Act: income-tax-2025\n Chapter: Basis of Charge\n Section: 4::Charge of Income-tax.\n]\n\n\n(1) Where any Central Act enacts that income-tax shall be charged for any tax year at any rate or rates, income-tax for such tax year shall be charged at that rate or those rates in accordance with and subject to the provisions of this Act.\n(2) The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act.\n(3) Income-tax shall also include any additional income-tax, by whatever name called, levied under this Act.\n(4) If this Act provides that income-tax is to be charged in respect of income of a period other than the tax year, it shall be charged accordingly.\n(5) For the income chargeable under this section, income-tax shall be deducted or collected at source or paid in advance as provided under this Act.",
+    "metadata": {
+      "chunk_id": "income-tax-2025_section_4_chunk_0",
+      "section_id": "income-tax-2025_section_4",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-2025",
+      "document_title": "The Income-tax Act, 2025",
+      "chapter_number": "Chapter II",
+      "chapter_title": "Basis of Charge",
+      "section_number": "4",
+      "section_title": "Charge of Income-tax."
+    }
+  }
+]

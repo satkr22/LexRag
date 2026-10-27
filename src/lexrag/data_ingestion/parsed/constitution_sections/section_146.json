@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "constitution",
+    "category_id": "CAT_001",
+    "category_label": "Constitutional, Governance & Access to Justice",
+    "category_code": "constitutional_governance_access_to_justice",
+    "document_title": "The Constitution of India",
+    "source_file": "constitution_sections/constitution-06.html",
+    "source_order": 6,
+    "article_order": 102,
+    "order": 165,
+    "stem": "section_146",
+    "heading_number": "Part V",
+    "heading_title": "The Union",
+    "heading_range": "52 – 151",
+    "heading_source": "group-head",
+    "article_number": "146",
+    "article_title": "Officers and servants and the expenses of the Supreme Court",
+    "id": "constitution_section_146"
+  },
+  "id": "constitution_section_146",
+  "heading": {
+    "number": "Part V",
+    "title": "The Union",
+    "range": "52 – 151"
+  },
+  "article": {
+    "number": "146",
+    "title": "Officers and servants and the expenses of the Supreme Court",
+    "content": "(1)Appointments of officers and servants of the Supreme Court shall be made by the Chief Justice of India or such other Judge or officer of the Court as he may direct:\nProvisoProvided that the President may by rule require that in such cases as may be specified in the rule, no person not already attached to the Court shall be appointed to any office connected with the Court, save after consultation with the Union Public Service Commission.\n(2)Subject to the provisions of any law made by Parliament, the conditions of service of officers and servants of the Supreme Court shall be such as may be prescribed by rules made by the Chief Justice of India or by some other Judge or officer of the Court authorised by the Chief Justice of India to make rules for the purpose:\nProvisoProvided that the rules made under this clause shall, so far as they relate to salaries, allowances, leave or pensions, require the approval of the President.\n(3)The administrative expenses of the Supreme Court, including all salaries, allowances and pensions payable to or in respect of the officers and servants of the Court, shall be charged upon the Consolidated Fund of India, and any fees or other moneys taken by the Court shall form part of that Fund.\n",
+    "html": "<article class=\"provision\" data-n=\"146\" data-report=\"Article 146 · The Constitution of India\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">146</span>Officers and servants and the expenses of the Supreme Court</h3></div><p class=\"prov-cite\">Article 146 · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Appointments of officers and servants of the Supreme Court shall be made by the Chief Justice of India or such other Judge or officer of the Court as he may direct:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the President may by rule require that in such cases as may be specified in the rule, no person not already attached to the Court shall be appointed to any office connected with the Court, save after consultation with the Union Public Service Commission.</p><p><span class=\"lbl\">(2)</span>Subject to the provisions of any law made by Parliament, the conditions of service of officers and servants of the Supreme Court shall be such as may be prescribed by rules made by the Chief Justice of India or by some other Judge or officer of the Court authorised by the Chief Justice of India to make rules for the purpose:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the rules made under this clause shall, so far as they relate to salaries, allowances, leave or pensions, require the approval of the President.</p><p><span class=\"lbl\">(3)</span>The administrative expenses of the Supreme Court, including all salaries, allowances and pensions payable to or in respect of the officers and servants of the Court, shall be charged upon the Consolidated Fund of India, and any fees or other moneys taken by the Court shall form part of that Fund.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">146</span>Officers and servants and the expenses of the Supreme Court</h3></div><p class=\"prov-cite\">Article 146 · Part V</p><div class=\"prov-body\"><p><span class=\"lbl\">(1)</span>Appointments of officers and servants of the Supreme Court shall be made by the Chief Justice of India or such other Judge or officer of the Court as he may direct:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the President may by rule require that in such cases as may be specified in the rule, no person not already attached to the Court shall be appointed to any office connected with the Court, save after consultation with the Union Public Service Commission.</p><p><span class=\"lbl\">(2)</span>Subject to the provisions of any law made by Parliament, the conditions of service of officers and servants of the Supreme Court shall be such as may be prescribed by rules made by the Chief Justice of India or by some other Judge or officer of the Court authorised by the Chief Justice of India to make rules for the purpose:</p><p class=\"lvl\"><span class=\"named\">Proviso</span>Provided that the rules made under this clause shall, so far as they relate to salaries, allowances, leave or pensions, require the approval of the President.</p><p><span class=\"lbl\">(3)</span>The administrative expenses of the Supreme Court, including all salaries, allowances and pensions payable to or in respect of the officers and servants of the Court, shall be charged upon the Consolidated Fund of India, and any fees or other moneys taken by the Court shall form part of that Fund.</p></div>"
+  }
+}

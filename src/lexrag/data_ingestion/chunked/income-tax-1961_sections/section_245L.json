@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_245L_chunk_0",
+    "section_id": "income-tax-1961_section_245L",
+    "token_count": 81,
+    "text": "[Act: income-tax-1961\n Chapter: Settlement of cases\n Section: 245L::Proceedings before Settlement Commission to be judicial proceedings.\n]\n\n\nAny proceeding under this Chapter before the Settlement Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196, of the Indian Penal Code (45 of 1860).",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_245L_chunk_0",
+      "section_id": "income-tax-1961_section_245L",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XIX-A",
+      "chapter_title": "Settlement of cases",
+      "section_number": "245L",
+      "section_title": "Proceedings before Settlement Commission to be judicial proceedings."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "succession",
+    "category_id": "CAT_005",
+    "category_label": "Family, Marriage & Succession",
+    "category_code": "family_marriage_succession",
+    "document_title": "The Indian Succession Act, 1925",
+    "source_file": "succession_sections/succession-37.html",
+    "source_order": 37,
+    "article_order": 15,
+    "order": 279,
+    "stem": "section_278",
+    "heading_number": "Part IX · Chapter IV",
+    "heading_title": "Of the Practice in granting and revoking Probates and Letters of Administration",
+    "heading_range": "ss. 264–302",
+    "heading_source": "group-head",
+    "article_number": "278",
+    "article_title": "Petition for letters of administration.",
+    "id": "succession_section_278"
+  },
+  "id": "succession_section_278",
+  "heading": {
+    "number": "Part IX · Chapter IV",
+    "title": "Of the Practice in granting and revoking Probates and Letters of Administration",
+    "range": "ss. 264–302"
+  },
+  "article": {
+    "number": "278",
+    "title": "Petition for letters of administration.",
+    "content": "(1) Application for letters of administration shall be made by petition distinctly written as aforesaid and stating—\n(a) the time and place of the deceased’s death;\n(b) the family or other relatives of the deceased, and their respective residences;\n(c) the right in which the petitioner claims;\n(d) the amount of assets which are likely to come to the petitioner’s hands;\n(e) when the application is to the District Judge, that the deceased at the time of his death had a fixed place of abode, or had some property, situate within the jurisdiction of the Judge; and\n(f) when the application is to a District Delegate, that the deceased at the time of his death had a fixed place of abode within the jurisdiction of such Delegate.\n(2) Where the application is to the District Judge and any portion of the assets likely to come to the petitioner’s hands is situate in another State, the petition shall further state the amount of such assets in each State and the District Judges within whose jurisdiction such assets are situate.\n",
+    "html": "<article class=\"provision\" data-n=\"278\" data-report=\"Section 278 · The Indian Succession Act, 1925\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">278</span>Petition for letters of administration.</h3></div><p class=\"prov-cite\">Section 278  ·  Part IX · Chapter IV  ·  page 78 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Application for letters of administration shall be made by petition distinctly written as aforesaid and stating—</p><p class=\"lvl\">(a) the time and place of the deceased’s death;</p><p class=\"lvl\">(b) the family or other relatives of the deceased, and their respective residences;</p><p class=\"lvl\">(c) the right in which the petitioner claims;</p><p class=\"lvl\">(d) the amount of assets which are likely to come to the petitioner’s hands;</p><p class=\"lvl\">(e) when the application is to the District Judge, that the deceased at the time of his death had a fixed place of abode, or had some property, situate within the jurisdiction of the Judge; and</p><p class=\"lvl\">(f) when the application is to a District Delegate, that the deceased at the time of his death had a fixed place of abode within the jurisdiction of such Delegate.</p><p class=\"lvl\">(2) Where the application is to the District Judge and any portion of the assets likely to come to the petitioner’s hands is situate in another State, the petition shall further state the amount of such assets in each State and the District Judges within whose jurisdiction such assets are situate.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">278</span>Petition for letters of administration.</h3></div><p class=\"prov-cite\">Section 278  ·  Part IX · Chapter IV  ·  page 78 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) Application for letters of administration shall be made by petition distinctly written as aforesaid and stating—</p><p class=\"lvl\">(a) the time and place of the deceased’s death;</p><p class=\"lvl\">(b) the family or other relatives of the deceased, and their respective residences;</p><p class=\"lvl\">(c) the right in which the petitioner claims;</p><p class=\"lvl\">(d) the amount of assets which are likely to come to the petitioner’s hands;</p><p class=\"lvl\">(e) when the application is to the District Judge, that the deceased at the time of his death had a fixed place of abode, or had some property, situate within the jurisdiction of the Judge; and</p><p class=\"lvl\">(f) when the application is to a District Delegate, that the deceased at the time of his death had a fixed place of abode within the jurisdiction of such Delegate.</p><p class=\"lvl\">(2) Where the application is to the District Judge and any portion of the assets likely to come to the petitioner’s hands is situate in another State, the petition shall further state the amount of such assets in each State and the District Judges within whose jurisdiction such assets are situate.</p></div>"
+  }
+}

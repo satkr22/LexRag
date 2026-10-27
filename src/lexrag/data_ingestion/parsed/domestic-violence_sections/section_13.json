@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "domestic-violence",
+    "category_id": "CAT_009",
+    "category_label": "Social Protection, Child Rights & Education",
+    "category_code": "social_protection_child_rights_education",
+    "document_title": null,
+    "source_file": "domestic-violence_sections/section-13.html",
+    "source_order": 13,
+    "article_order": 1,
+    "order": 13,
+    "stem": "section_13",
+    "heading_number": "Chapter IV",
+    "heading_title": "Procedure for Obtainingorders of Reliefs",
+    "heading_range": "ss. 12–29",
+    "heading_source": "manifest",
+    "article_number": "13",
+    "article_title": "Service of notice.",
+    "id": "domestic-violence_section_13"
+  },
+  "id": "domestic-violence_section_13",
+  "heading": {
+    "number": "Chapter IV",
+    "title": "Procedure for Obtainingorders of Reliefs",
+    "range": "ss. 12–29"
+  },
+  "article": {
+    "number": "13",
+    "title": "Service of notice.",
+    "content": "(1) A notice of the date of hearing fixed under section 12 shall be given by the Magistrate to the Protection Officer, who shall get it served by such means as may be prescribed on the respondent, and on any other person, as directed by the Magistrate within a maximum period of two days or such further reasonable time as may be allowed by the Magistrate from the date of its receipt.\n(2) A declaration of service of notice made by the Protection Officer in such form as may be prescribed shall be the proof that such notice was served upon the respondent and on any other person as directed by the Magistrate unless the contrary is proved.\n",
+    "html": "<article class=\"provision\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Service of notice.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter IV  ·  page 7 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A notice of the date of hearing fixed under section 12 shall be given by the Magistrate to the Protection Officer, who shall get it served by such means as may be prescribed on the respondent, and on any other person, as directed by the Magistrate within a maximum period of two days or such further reasonable time as may be allowed by the Magistrate from the date of its receipt.</p><p class=\"lvl\">(2) A declaration of service of notice made by the Protection Officer in such form as may be prescribed shall be the proof that such notice was served upon the respondent and on any other person as directed by the Magistrate unless the contrary is proved.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">13</span>Service of notice.</h3></div><p class=\"prov-cite\">Section 13  ·  Chapter IV  ·  page 7 of the Act</p><div class=\"prov-body\"><p class=\"lvl\">(1) A notice of the date of hearing fixed under section 12 shall be given by the Magistrate to the Protection Officer, who shall get it served by such means as may be prescribed on the respondent, and on any other person, as directed by the Magistrate within a maximum period of two days or such further reasonable time as may be allowed by the Magistrate from the date of its receipt.</p><p class=\"lvl\">(2) A declaration of service of notice made by the Protection Officer in such form as may be prescribed shall be the proof that such notice was served upon the respondent and on any other person as directed by the Magistrate unless the contrary is proved.</p></div>"
+  }
+}

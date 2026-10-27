@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "income-tax-2025",
+    "category_id": "CAT_007",
+    "category_label": "Taxation",
+    "category_code": "taxation",
+    "document_title": "The Income-tax Act, 2025",
+    "source_file": "income-tax-2025_sections/income-tax-2025-17.html",
+    "source_order": 18,
+    "article_order": 23,
+    "order": 324,
+    "stem": "section_324",
+    "heading_number": "Chapter XVII",
+    "heading_title": "Special Provisions Relating to Certain Persons",
+    "heading_range": "ss. 302–355",
+    "heading_source": "group-head",
+    "article_number": "324",
+    "article_title": "Charge of tax in case of a firm.",
+    "id": "income-tax-2025_section_324"
+  },
+  "id": "income-tax-2025_section_324",
+  "heading": {
+    "number": "Chapter XVII",
+    "title": "Special Provisions Relating to Certain Persons",
+    "range": "ss. 302–355"
+  },
+  "article": {
+    "number": "324",
+    "title": "Charge of tax in case of a firm.",
+    "content": "In the case of a firm which is assessable as a firm, tax shall be charged on its total income at the rate as specified in any Central Act for relevant tax year.\n",
+    "html": "<article class=\"provision\" data-n=\"324\" data-report=\"Section 324 · The Income-tax Act, 2025\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">324</span>Charge of tax in case of a firm.</h3></div><p class=\"prov-cite\">Section 324  ·  Chapter XVII  ·  A.—Association of persons, firm, Hindu undivided family, etc. — 14.—Assessment of firms  ·  page 388 of the Act</p><div class=\"prov-body\"><p>In the case of a firm which is assessable as a firm, tax shall be charged on its total income at the rate as specified in any Central Act for relevant tax year.</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">324</span>Charge of tax in case of a firm.</h3></div><p class=\"prov-cite\">Section 324  ·  Chapter XVII  ·  A.—Association of persons, firm, Hindu undivided family, etc. — 14.—Assessment of firms  ·  page 388 of the Act</p><div class=\"prov-body\"><p>In the case of a firm which is assessable as a firm, tax shall be charged on its total income at the rate as specified in any Central Act for relevant tax year.</p></div>"
+  }
+}

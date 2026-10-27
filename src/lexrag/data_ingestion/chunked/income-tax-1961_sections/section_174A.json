@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "income-tax-1961_section_174A_chunk_0",
+    "section_id": "income-tax-1961_section_174A",
+    "token_count": 226,
+    "text": "[Act: income-tax-1961\n Chapter: Liability in Special Cases\n Section: 174A::Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose.\n]\n\n\nNotwithstanding anything contained in section 4, where it appears to the Assessing Officer that any association of persons or a body of individuals or an artificial juridical person, formed or established or incorporated for a particular event or purpose is likely to be dissolved in the assessment year in which such association of persons or a body of individuals or an artificial juridical person was formed or established or incorporated or immediately after such assessment year, the total income of such association or body or juridical person for the period from the expiry of the previous year for that assessment year up to the date of its dissolution shall be chargeable to tax in that assessment year, and the provisions of sub-sections (2) to (6) of section 174 shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
+    "metadata": {
+      "chunk_id": "income-tax-1961_section_174A_chunk_0",
+      "section_id": "income-tax-1961_section_174A",
+      "category_id": "CAT_007",
+      "category_code": "taxation",
+      "category_label": "Taxation",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "income-tax-1961",
+      "document_title": "The Income-tax Act, 1961",
+      "chapter_number": "Chapter XV",
+      "chapter_title": "Liability in Special Cases",
+      "section_number": "174A",
+      "section_title": "Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose."
+    }
+  }
+]

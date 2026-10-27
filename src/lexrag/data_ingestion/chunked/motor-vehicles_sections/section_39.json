@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "motor-vehicles_section_39_chunk_0",
+    "section_id": "motor-vehicles_section_39",
+    "token_count": 126,
+    "text": "[Act: motor-vehicles\n Chapter: Registration of Motor Vehicles\n Section: 39::Necessity for registration.\n]\n\n\nNo person shall drive any motor vehicle and no owner of a motor vehicle shall cause or permit the vehicle to be driven in any public place or in any other place unless the vehicle is registered in accordance with this Chapter and the certificate of registration of the vehicle has not been suspended or cancelled and the vehicle carries a registration mark displayed in the prescribed manner:\nProvided that nothing in this section shall apply to a motor vehicle in possession of a dealer subject to such conditions as may be prescribed by the Central Government.",
+    "metadata": {
+      "chunk_id": "motor-vehicles_section_39_chunk_0",
+      "section_id": "motor-vehicles_section_39",
+      "category_id": "CAT_010",
+      "category_code": "transport_road_safety",
+      "category_label": "Transport & Road Safety",
+      "chunk_index": 0,
+      "is_intact_section": true,
+      "act": "motor-vehicles",
+      "document_title": "The Motor Vehicles Act, 1988",
+      "chapter_number": "Chapter IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "section_number": "39",
+      "section_title": "Necessity for registration."
+    }
+  }
+]

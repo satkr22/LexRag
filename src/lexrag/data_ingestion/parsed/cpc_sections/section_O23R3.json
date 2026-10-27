@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "act": "cpc",
+    "category_id": "CAT_003",
+    "category_label": "Civil Procedure, Remedies & Dispute Resolution",
+    "category_code": "civil_procedure_remedies_dispute_resolution",
+    "document_title": "The Code of Civil Procedure, 1908",
+    "source_file": "cpc_sections/cpc-40.html",
+    "source_order": 40,
+    "article_order": 4,
+    "order": 614,
+    "stem": "section_O23R3",
+    "heading_number": "Order XXIII",
+    "heading_title": "Withdrawal and Adjustment of Suits",
+    "heading_range": "7 rules",
+    "heading_source": "group-head",
+    "article_number": "O23R3",
+    "article_title": "Compromise of suit.",
+    "id": "cpc_section_O23R3"
+  },
+  "id": "cpc_section_O23R3",
+  "heading": {
+    "number": "Order XXIII",
+    "title": "Withdrawal and Adjustment of Suits",
+    "range": "7 rules"
+  },
+  "article": {
+    "number": "O23R3",
+    "title": "Compromise of suit.",
+    "content": "Where it is proved to the satisfaction of the Court that a suit has been adjusted wholly or in part by any lawful agreement or compromise 1[in writing and signed by the parties], or where the defendant satisfied the plaintiff in respect to the whole or any part of the subject-matter of the suit, the Court shall order such agreement, compromise or satisfaction to be recorded, and shall pass a decree in accordance therewith 2[so far as it relates to the parties to the suit, whether or not the subject-matter of the agreement, compromise or satisfaction is the same as the subject-matter of the suit:]\n1[Provided that where it is alleged by one party and denied by the other that an adjustment or satisfaction has been arrived at, the Court shall decide the question; but not adjournment shall be granted for the purpose of deciding the question, unless the Court, for reasons to be recorded, thinks fit to grant such adjournment.]\n1[Explanation.— An agreement or compromise which is void or voidable under the Indian Contract Act, 1872 (9 of 1872), shall not he deemed to be lawful within the meaning of this rule.]\n",
+    "html": "<article class=\"provision\" data-n=\"O23R3\" data-report=\"Order 23, Rule 3 · The Code of Civil Procedure, 1908\" hidden=\"\"><div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Compromise of suit.</h3></div><p class=\"prov-cite\">Order 23, Rule 3</p><div class=\"prov-body\"><p>Where it is proved to the satisfaction of the Court that a suit has been adjusted wholly or in part by any lawful agreement or compromise <sup>1</sup>[in writing and signed by the parties], or where the defendant satisfied the plaintiff in respect to the whole or any part of the subject-matter of the suit, the Court shall order such agreement, compromise or satisfaction to be recorded, and shall pass a decree in accordance therewith <sup>2</sup>[so far as it relates to the parties to the suit, whether or not the subject-matter of the agreement, compromise or satisfaction is the same as the subject-matter of the suit:]</p><p class=\"prvso\"><sup>1</sup>[Provided that where it is alleged by one party and denied by the other that an adjustment or satisfaction has been arrived at, the Court shall decide the question; but not adjournment shall be granted for the purpose of deciding the question, unless the Court, for reasons to be recorded, thinks fit to grant such adjournment.]</p><p class=\"prvso\"><sup>1</sup>[Explanation.— An agreement or compromise which is void or voidable under the Indian Contract Act, 1872 (9 of 1872), shall not he deemed to be lawful within the meaning of this rule.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 74 (w.e.f. 1-2-1977).</p><p class=\"fn\"><sup>2</sup> Subs. by s. 74, ibid., for certain words (w.e.f. 1-2-1977).</p></div></article>",
+    "inner_html": "<div class=\"prov-head\"><h3 class=\"prov-title\"><span class=\"n\">3</span>Compromise of suit.</h3></div><p class=\"prov-cite\">Order 23, Rule 3</p><div class=\"prov-body\"><p>Where it is proved to the satisfaction of the Court that a suit has been adjusted wholly or in part by any lawful agreement or compromise <sup>1</sup>[in writing and signed by the parties], or where the defendant satisfied the plaintiff in respect to the whole or any part of the subject-matter of the suit, the Court shall order such agreement, compromise or satisfaction to be recorded, and shall pass a decree in accordance therewith <sup>2</sup>[so far as it relates to the parties to the suit, whether or not the subject-matter of the agreement, compromise or satisfaction is the same as the subject-matter of the suit:]</p><p class=\"prvso\"><sup>1</sup>[Provided that where it is alleged by one party and denied by the other that an adjustment or satisfaction has been arrived at, the Court shall decide the question; but not adjournment shall be granted for the purpose of deciding the question, unless the Court, for reasons to be recorded, thinks fit to grant such adjournment.]</p><p class=\"prvso\"><sup>1</sup>[Explanation.— An agreement or compromise which is void or voidable under the Indian Contract Act, 1872 (9 of 1872), shall not he deemed to be lawful within the meaning of this rule.]</p></div><div class=\"fnotes\"><p class=\"fn\"><sup>1</sup> Ins. by Act 104 of 1976, s. 74 (w.e.f. 1-2-1977).</p><p class=\"fn\"><sup>2</sup> Subs. by s. 74, ibid., for certain words (w.e.f. 1-2-1977).</p></div>"
+  }
+}
