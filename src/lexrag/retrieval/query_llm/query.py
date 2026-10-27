@@ -6,7 +6,7 @@ from openai import OpenAI
 from google import genai
 from google.genai import types
 
-from query_llm_1.data_models import QueryResponse
+from query_llm.data_models import QueryResponse
 
 
 dotenv.load_dotenv()
