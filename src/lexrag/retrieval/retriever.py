@@ -93,6 +93,7 @@ def format_hit(rank: int, point) -> str:
 
 
 def show_expanded(client: QdrantClient, query: EnrichedQuery, category_list: list, top_k: int = TOP_K):
+    print("\n\n")
     print(f"\n=== EnrichedQuery:\n=== Dense_query: {query.dense_query}\n=== Sparse_query: {query.bm25_keywords}")
     print(f"\n=== Category_list: {category_list}")
     
@@ -101,7 +102,8 @@ def show_expanded(client: QdrantClient, query: EnrichedQuery, category_list: lis
     print(f"  ({len(hits)} hits in {elapsed*1000:.1f} ms)")
     for rank, point in enumerate(hits, 1):
         print(format_hit(rank, point))
-        
+    
+    print("\n\n\n")
     return hits
 
 def print_labels(client:QdrantClient):
@@ -123,25 +125,49 @@ def main():
     # user_query = "My landlord is refusing to return my security deposit after I moved out. What legal options do I have?"
     user_query = "What are the grounds for divorce under Hindu marriage law?"
     
+    test_queries = [
+    # Cross-Category Queries (Tests Router Multi-Labeling)
+    "What is the limitation period for filing a suit for a breached commercial contract?",
+    "Is electronic evidence, such as a WhatsApp chat, admissible to prove domestic violence?",
+    "If a minor inherits immovable property, can their guardian sell it without court permission?",
+    "What are the penalties for a company director if a corporate cheque bounces due to insufficient funds?",
+
+    # Dense/Semantic Heavy Queries (Tests Vector Retrieval)
+    "Can I back out of a property purchase if the seller hid the fact that the roof was collapsing?",
+    "My boss promised me a partnership share but only gave it to me verbally, is that legally binding?",
+    "What happens to a person's bank accounts and house if they die without writing a will?",
+    "A police officer refused to register my complaint about a stolen phone. What are my options?",
+
+    # Lexical/Keyword Heavy Queries (Tests BM25 Search)
+    "What are the grounds for eviction under the Transfer of Property Act 1882?",
+    "What is the penalty for cyber terrorism under Section 66F of the Information Technology Act?",
+    "Define 'Data Fiduciary' and 'Data Principal' under the Digital Personal Data Protection Act 2023.",
+    "What constitutes 'organized crime' under the Bharatiya Nyaya Sanhita 2023?",
+
+    # Out-of-Distribution & Edge Cases (Tests System Boundaries)
+    "What is the procedure for registering a trademark for my new clothing brand?",
+    "What are the labor laws regarding maximum working hours in a factory?",
+    "How much security deposit can a landlord legally demand in Delhi?",
+
+    # Procedural vs. Substantive Exceptions (Tests Chunking & Context)
+    "Is an oral agreement to sell real estate valid, or does it strictly require registration?",
+    "Can a consumer court reject a complaint if the product was bought for commercial resale?",
+    "Under what exact conditions can the police arrest someone without a warrant under the BNSS?"
+]
+    
     client = build_client()
 
-    print_labels(client)
-    
-    # try: 
-    #     # result = generate_response_gemini(user_query)
-    #     result = generate_response_qwen(user_query)
-    #     show_expanded(client, result.enriched_query, result.category_ids)
-    # except Exception as e:
-    #     print(f"Some error occured: {e}")
-    # finally:
-    #     client.close()
-        
-     
-    # result = generate_response_gemini(user_query)
-    result = generate_response_qwen(user_query)
-    show_expanded(client, result.enriched_query, result.category_ids)
-    client.close()
 
+    for q in test_queries:
+        print_labels(client)
+        try: 
+            # result = generate_response_gemini(user_query)
+            result = generate_response_qwen(q)
+            show_expanded(client, result.enriched_query, result.category_ids, 5)
+        except Exception as e:
+            print(f"Some error occured: {e}")
+    client.close()
+        
 if __name__ == "__main__":
     main()
 

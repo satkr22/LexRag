@@ -115,6 +115,36 @@ QUERIES = [
     "What are the provisions for anticipatory bail?",
 ]
 
+test_queries = [
+    # Cross-Category Queries (Tests Router Multi-Labeling)
+    "What is the limitation period for filing a suit for a breached commercial contract?",
+    "Is electronic evidence, such as a WhatsApp chat, admissible to prove domestic violence?",
+    "If a minor inherits immovable property, can their guardian sell it without court permission?",
+    "What are the penalties for a company director if a corporate cheque bounces due to insufficient funds?",
+
+    # Dense/Semantic Heavy Queries (Tests Vector Retrieval)
+    "Can I back out of a property purchase if the seller hid the fact that the roof was collapsing?",
+    "My boss promised me a partnership share but only gave it to me verbally, is that legally binding?",
+    "What happens to a person's bank accounts and house if they die without writing a will?",
+    "A police officer refused to register my complaint about a stolen phone. What are my options?",
+
+    # Lexical/Keyword Heavy Queries (Tests BM25 Search)
+    "What are the grounds for eviction under the Transfer of Property Act 1882?",
+    "What is the penalty for cyber terrorism under Section 66F of the Information Technology Act?",
+    "Define 'Data Fiduciary' and 'Data Principal' under the Digital Personal Data Protection Act 2023.",
+    "What constitutes 'organized crime' under the Bharatiya Nyaya Sanhita 2023?",
+
+    # Out-of-Distribution & Edge Cases (Tests System Boundaries)
+    "What is the procedure for registering a trademark for my new clothing brand?",
+    "What are the labor laws regarding maximum working hours in a factory?",
+    "How much security deposit can a landlord legally demand in Delhi?",
+
+    # Procedural vs. Substantive Exceptions (Tests Chunking & Context)
+    "Is an oral agreement to sell real estate valid, or does it strictly require registration?",
+    "Can a consumer court reject a complaint if the product was bought for commercial resale?",
+    "Under what exact conditions can the police arrest someone without a warrant under the BNSS?"
+]
+
 QUERIES_EXPANDED = {
 
     "q1": {
@@ -195,7 +225,7 @@ def main(expanded_flag: Optional[bool]=False):
             show(client, " ".join(sys.argv[1:]))
 
         else:
-            for q in QUERIES:
+            for q in test_queries:
                 show(client, q)
     client.close()
 

@@ -207,10 +207,8 @@ def generate_response_qwen(query: str):
         text_format=QueryResponse,
         temperature=0.1,
     )
-    print("output_text:", response.output_text)
-    result: QueryResponse = response.output_parsed # type: ignore
     
-    print(result)
+    result: QueryResponse = response.output_parsed # type: ignore
     
     return result
 
