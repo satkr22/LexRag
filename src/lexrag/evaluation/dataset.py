@@ -53,7 +53,8 @@ def main() -> None:
     ds = load_dataset(
         "GSMS-B/Indian-Legal-QA-BNS-BNSS-BSA", 
         data_files="bns_bnss_bsa_combined_legal_qa.jsonl",
-        split="train")
+        split="train"
+    )
     
     all_rows = list(ds)
     print(f"  {len(all_rows)} total rows")
