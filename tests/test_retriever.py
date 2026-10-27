@@ -135,7 +135,7 @@ def main(user_query: str):
         
 if __name__ == "__main__":
     
-    user_query: str = ""
+    user_query: str = "how to file an rti"
     main(user_query)
 
     

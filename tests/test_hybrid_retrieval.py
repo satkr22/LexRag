@@ -105,14 +105,15 @@ def show_expanded(client: QdrantClient, query: dict, top_k: int = TOP_K):
     return hits
 
 QUERIES = [
-    "What is the punishment for dowry harassment?",
-    "How is income tax calculated on capital gains?",
-    "What are the grounds for divorce under Hindu marriage law?",
-    "What are the duties of a company director?",
-    "How does the RTI Act define a public authority?",
-    "What is the limitation period for filing a civil suit?",
-    "Can a consumer file a complaint against a service provider?",
-    "What are the provisions for anticipatory bail?",
+    "what if i killed someone in my defence is this a crime ??",
+    # "What is the punishment for dowry harassment?",
+    # "How is income tax calculated on capital gains?",
+    # "What are the grounds for divorce under Hindu marriage law?",
+    # "What are the duties of a company director?",
+    # "How does the RTI Act define a public authority?",
+    # "What is the limitation period for filing a civil suit?",
+    # "Can a consumer file a complaint against a service provider?",
+    # "What are the provisions for anticipatory bail?",
 ]
 
 test_queries = [
@@ -225,8 +226,9 @@ def main(expanded_flag: Optional[bool]=False):
             show(client, " ".join(sys.argv[1:]))
 
         else:
-            for q in test_queries:
-                show(client, q)
+            # for q in test_queries:
+            for q in QUERIES:
+                show(client, q, 5)
     client.close()
 
 if __name__ == "__main__":
