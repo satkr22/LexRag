@@ -1,8 +1,9 @@
 import os
 import json
 import dotenv
+import asyncio
 
-from openai import OpenAI
+from openai import AsyncOpenAI
 from google import genai
 from google.genai import types
 
@@ -130,7 +131,6 @@ CATEGORY = {
 }
 
 
-
 def build_system_prompt() -> str:
     return f"""
 
@@ -148,20 +148,18 @@ You are an expert legal query routing agent. Your objective is to classify a use
 
 ### OUTPUT REQUIREMENTS
 
-Return a JSON object matching this exact structure:
-    (
+Return a JSON object matching this exact json structure:
+    {{
         "category_ids": [..],
-        "enriched_query": (
+        "enriched_query": {{
             "dense_query": "A complete semantic search query.",
             "bm25_keywords": "keyword1 keyword2 keyword3"
-        )
-    )
-
-
+        }}
+    }}
 """
 
 
-def generate_response_gemini(query: str):
+async def generate_response_gemini(query: str):
 
     system_prompt = build_system_prompt()
 
@@ -170,7 +168,7 @@ def generate_response_gemini(query: str):
     client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
     # call with structured output
-    response = client.models.generate_content(
+    response = await client.aio.models.generate_content(
         model="gemini-3.1-flash-lite",
         contents=user_query,
         config=types.GenerateContentConfig(
@@ -186,19 +184,19 @@ def generate_response_gemini(query: str):
     return result
 
 
-def generate_response_qwen(query: str):
+async def generate_response_qwen(query: str):
     
     system_prompt = build_system_prompt()
     
     user_query = query
     
-    client = OpenAI(
+    client = AsyncOpenAI(
         api_key=os.getenv("DASHSCOPE_API_KEY"),
         base_url="https://ws-n7c4pdh4ldno9hkc.ap-southeast-1.maas.aliyuncs.com/compatible-mode/v1",
     )
 
-    response = client.responses.parse(
-        # model="deepseek-v4.1-flash-1017",
+    
+    response = await client.responses.parse(
         # model="qwen3.8-2.4t-a95b",
         model="qwen3.8-max",
         input=[
@@ -214,13 +212,47 @@ def generate_response_qwen(query: str):
     return result
 
 
-
-if __name__ == "__main__":
-
-    user_query = "My landlord is refusing to return my security deposit after I moved out. What legal options do I have?"
-    response = generate_response_gemini(user_query)
-    result: QueryResponse = response.parsed # type: ignore
+async def generate_response_deepseek(query: str):
     
+    system_prompt = build_system_prompt()
+    system_prompt += "\n\nYou must respond with a valid JSON object matching the required schema."
+    
+    user_query = query
+    
+    client = AsyncOpenAI(
+        api_key=os.getenv("DASHSCOPE_API_KEY"),
+        base_url="https://ws-n7c4pdh4ldno9hkc.ap-southeast-1.maas.aliyuncs.com/compatible-mode/v1",
+    )
+    
+    response = await client.chat.completions.create(
+        model="deepseek-v4.1-flash-1017",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_query},
+        ],
+        response_format={"type": "json_object"},
+        temperature=0.1,
+    )
+    
+    raw_json = response.choices[0].message.content
+    result = QueryResponse.model_validate_json(raw_json) # type: ignore
+    
+    return result
+
+async def main():
+    user_query = "My landlord is refusing to return my security deposit after I moved out. What legal options do I have?"
+    
+    # response = await generate_response_gemini(user_query)
+    # response = await generate_response_qwen(user_query)
+    response = await generate_response_deepseek(user_query)
+    
+    result: QueryResponse = response
+        
     print(f"Selected Categories: {result.category_ids}")
     print(f"Dense Query: {result.enriched_query.dense_query}")
     print(f"BM25 Keywords: {result.enriched_query.bm25_keywords}")
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
+    

@@ -2,6 +2,7 @@ import sys
 import time
 from pathlib import Path
 from typing import Optional
+import asyncio
 
 import onnxruntime as ort
 ort.preload_dlls() # CRITICAL: DO NOT REMOVE
@@ -120,7 +121,7 @@ def print_labels(client:QdrantClient):
     print(f"Sparse model: {SPARSE_MODEL}")
 
 
-def main():
+async def main():
     
     # user_query = "My landlord is refusing to return my security deposit after I moved out. What legal options do I have?"
     user_query = "What are the grounds for divorce under Hindu marriage law?"
@@ -161,14 +162,14 @@ def main():
     for q in test_queries:
         print_labels(client)
         try: 
-            # result = generate_response_gemini(user_query)
-            result = generate_response_qwen(q)
+            # result: QueryResponse = await generate_response_gemini(q)
+            result:QueryResponse = await generate_response_qwen(q)
             show_expanded(client, result.enriched_query, result.category_ids, 5)
         except Exception as e:
             print(f"Some error occured: {e}")
     client.close()
         
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
 
 

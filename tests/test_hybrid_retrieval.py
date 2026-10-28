@@ -49,7 +49,7 @@ def hybrid_search(client: QdrantClient, query_text: str, limit: int = 10):
     return results.points, time.perf_counter() - t0
 
 
-def hybrid_search_expanded(client: QdrantClient, query_text: dict, limit: int = 10):
+def hybrid_search_expanded(client: QdrantClient, query_text: dict, limit: int = TOP_K):
     """Executes a hybrid search using both BM25 and Dense embeddings via Reciprocal Rank Fusion."""
     t0 = time.perf_counter()
     results = client.query_points(
@@ -58,12 +58,12 @@ def hybrid_search_expanded(client: QdrantClient, query_text: dict, limit: int = 
             models.Prefetch(
                 query=models.Document(text=query_text["dense_query"], model="BAAI/bge-large-en-v1.5"),
                 using="", 
-                limit=20,
+                limit=limit * 2,
             ),
             models.Prefetch(
                 query=models.Document(text=query_text["bm25_keywords"], model="Qdrant/bm25"),
                 using="bm25",
-                limit=20,
+                limit=limit * 2,
             ),
         ],
         # Combine the results of both prefetch queries 
