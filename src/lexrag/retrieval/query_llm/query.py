@@ -199,7 +199,8 @@ def generate_response_qwen(query: str):
 
     response = client.responses.parse(
         # model="deepseek-v4.1-flash-1017",
-        model="qwen3.8-2.4t-a95b",
+        # model="qwen3.8-2.4t-a95b",
+        model="qwen3.8-max",
         input=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_query},

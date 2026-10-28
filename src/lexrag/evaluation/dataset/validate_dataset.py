@@ -15,7 +15,9 @@ bsa  = load_titles("bsa_sections.json")
 all_valid = [t["id"] for lst in [bns, bnss, bsa] for t in lst]
 print("total_ids:", len(all_valid))
 
-with open("multihop_dataset.json", "r") as f:
+PATH_TO_DATASET = ""
+
+with open(PATH_TO_DATASET, "r") as f:
     out = json.load(f)
 
 unique = set()
@@ -23,7 +25,7 @@ unique = set()
 valid = 0
 invalid = 0
 for o in out:
-    for id in o["referenced_section"]:
+    for id in o["referenced_sections"]:
         if id in all_valid:
             valid += 1
             unique.add(id)

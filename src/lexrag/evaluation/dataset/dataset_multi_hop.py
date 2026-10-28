@@ -10,6 +10,10 @@ from google.genai import types
 
 dotenv.load_dotenv()
 
+
+OUTPUT_PATH = Path(__file__).parent / "questions" / "eval_multi_hop_dataset.json"
+
+
 class DataSet(BaseModel):
     question: str = Field(description="multi-hop question")
     referenced_sections: list[str] = Field(description="list of ids of referenced sections")
@@ -123,7 +127,7 @@ async def main():
     print("valid ids:", valid)
     print("invalid ids:", invalid)
     
-    json.dump(out, open("multihop_dataset.json", "w"), ensure_ascii=False, indent=2)
+    json.dump(out, open(OUTPUT_PATH, "w"), ensure_ascii=False, indent=2)
     
     
     print(f"\nWrote {len(out)} rows")

@@ -1,0 +1,1612 @@
+[
+    {
+        "question": "What is the legal consequence of sub-section (2) stating that a person who \"offers or attempts to procure\" gratification is deemed to give it?",
+        "referenced_sections": [
+            "bns_section_170"
+        ],
+        "referenced_context": "The consequence is that an attempted bribe is treated legally as a completed bribe; prosecutors do not have to prove that money actually changed hands, only that the corrupt offer was made. [Source: Section 170, BNS 2023]"
+    },
+    {
+        "question": "If an attacker throws a strong, burning alkaline substance (like concentrated lye) instead of a traditional acidic liquid, does this section still apply?",
+        "referenced_sections": [
+            "bns_section_124"
+        ],
+        "referenced_context": "Yes, Explanation 1 explicitly expands the definition of \"acid\" to include \"any substance which has acidic or corrosive character or burning nature\" capable of causing scarring, disfigurement, or disability. [Source: Section 124, BNS 2023]"
+    },
+    {
+        "question": "A back-alley practitioner performs a dangerous, consensual, illegal abortion. The procedure goes wrong, and the woman dies. The practitioner claims they never meant to kill her. Are they guilty of causing her death under this section?",
+        "referenced_sections": [
+            "bns_section_90"
+        ],
+        "referenced_context": "Yes, they are guilty and face up to ten years in prison. The Explanation clearly states it is not essential to this offence that the offender should know the act is likely to cause death. [Source: Section 90, BNS 2023]"
+    },
+    {
+        "question": "What is the consequence of holding animal owners criminally liable for negligence?",
+        "referenced_sections": [
+            "bns_section_291"
+        ],
+        "referenced_context": "The consequence is that it places a strict duty of care on owners to properly secure pets and livestock, ensuring that the burden of animal-related injuries falls on the negligent owner rather than the innocent public. [Source: Section 291, BNS 2023]"
+    },
+    {
+        "question": "What is the minimum penalty for using a deadly weapon during a robbery?",
+        "referenced_sections": [
+            "bns_section_311"
+        ],
+        "referenced_context": "If an offender uses a deadly weapon, causes grievous hurt, or attempts to cause death or grievous hurt while committing robbery or dacoity, they must be punished with a minimum of seven years in prison. [Source: Section 311, BNS 2023]"
+    },
+    {
+        "question": "How does Section 104 of BNS 2023 penalize murder committed by a life-convict?",
+        "referenced_sections": [
+            "bns_section_104"
+        ],
+        "referenced_context": "Section 104 of BNS 2023 states that whoever, being under a sentence of life imprisonment, commits murder shall be punished with death or with imprisonment for the remainder of their natural life. [Source: Section 104, BNS 2023]"
+    },
+    {
+        "question": "A man walks into a convenience store holding a machete and demands the cash register be opened. Before anything is handed over, the police burst in and arrest him. What is his minimum penalty?",
+        "referenced_sections": [
+            "bns_section_312"
+        ],
+        "referenced_context": "Because he attempted to commit robbery while armed with a deadly weapon, he is punishable under Section 312 with imprisonment that shall not be less than seven years. [Source: Section 312, BNS 2023]"
+    },
+    {
+        "question": "What happens to your legal status if you plan a crime and then physically show up at the scene while it is being committed?",
+        "referenced_sections": [
+            "bns_section_54"
+        ],
+        "referenced_context": "If you would be punishable as an abettor while absent, but you are actually present when the offence is committed, the law deems that you have committed the offence yourself. [Source: Section 54, BNS 2023]"
+    },
+    {
+        "question": "What happens if a man tricks a woman into believing they are legally married so she will sleep with him?",
+        "referenced_sections": [
+            "bns_section_81"
+        ],
+        "referenced_context": "A man who deceitfully makes a woman believe she is lawfully married to him, causing her to cohabit or have sexual intercourse with him under that false belief, can be imprisoned for up to ten years. [Source: Section 81, BNS 2023]"
+    },
+    {
+        "question": "What is the consequence of having different penalty tiers for forgery in Section 336?",
+        "referenced_sections": [
+            "bns_section_336"
+        ],
+        "referenced_context": "The consequence is that the law scales the punishment based on the specific harm intended: financial fraud (cheating) is punished most severely, reputation harm is moderate, and general or minor forgery receives the baseline penalty. [Source: Section 336, BNS 2023]"
+    },
+    {
+        "question": "Can a doctor forcibly perform an abortion on a conscious, capable woman who refuses the procedure, even if the doctor believes her life is in danger?",
+        "referenced_sections": [
+            "bns_section_89"
+        ],
+        "referenced_context": "Generally no. While Section 88 has a life-saving exception, Section 89 severely punishes acting \"without the consent of the woman.\" Medical ethics and law require consent from capable patients, prioritizing bodily autonomy. [Source: Section 89, BNS 2023]"
+    },
+    {
+        "question": "How does Section 155 of BNS 2023 penalize the fencing of internationally plundered goods?",
+        "referenced_sections": [
+            "bns_section_155"
+        ],
+        "referenced_context": "Section 155 of BNS 2023 imposes up to 7 years imprisonment, fine, and forfeiture of property on anyone who receives property knowing it was acquired via war against a peaceful foreign State (Section 153) or cross-border depredation (Section 154). [Source: Section 155, BNS 2023]"
+    },
+    {
+        "question": "A courier is hired to deliver a locked briefcase to a bank. Curious and greedy, he uses a screwdriver to force open the locks during transit to see if there is cash inside, though he finds only documents. What is his penalty?",
+        "referenced_sections": [
+            "bns_section_334"
+        ],
+        "referenced_context": "Because he was entrusted with a closed receptacle and dishonestly broke it open without authority, he is punishable under Section 334(2) with imprisonment up to three years. [Source: Section 334, BNS 2023]"
+    },
+    {
+        "question": "A couple has been informally living in separate houses for six months due to marital issues. One night, the husband visits and forces himself on her. Can he be charged under this specific section?",
+        "referenced_sections": [
+            "bns_section_67"
+        ],
+        "referenced_context": "Yes, because they are living separately (whether under a decree of separation or otherwise) and the act was without her consent, he is liable to imprisonment of two to seven years under this section. [Source: Section 67, BNS 2023]"
+    },
+    {
+        "question": "A severely depressed teenager attempts suicide at home due to bullying. There is no political or coercive motive. Is this an offence under Section 226?",
+        "referenced_sections": [
+            "bns_section_226"
+        ],
+        "referenced_context": "No, the statute strictly requires the specific intent \"to compel or restrain any public servant from discharging his official duty.\" A standard suicide attempt lacks this coercive intent against the state. [Source: Section 226, BNS 2023]"
+    },
+    {
+        "question": "How does Section 92 of BNS 2023 handle the accidental killing of a fetus during an assault on the mother?",
+        "referenced_sections": [
+            "bns_section_92"
+        ],
+        "referenced_context": "Section 92 of BNS 2023 applies when an offender commits an act against a pregnant woman that would constitute culpable homicide if she died. If she survives but her \"quick unborn child\" dies as a result, the offender is punished with up to ten years imprisonment. [Source: Section 92, BNS 2023]"
+    },
+    {
+        "question": "What is the legal consequence of applying this specific standard to public water?",
+        "referenced_sections": [
+            "bns_section_279"
+        ],
+        "referenced_context": "The consequence is that the state aggressively protects communal water security, ensuring that any deliberate degradation of a shared vital resource is treated as a criminal act against the public welfare. [Source: Section 279, BNS 2023]"
+    },
+    {
+        "question": "A protester shouts at a line of soldiers to drop their shields and refuse their commander's order to advance. One soldier listens and drops his shield. Can the protester be charged?",
+        "referenced_sections": [
+            "bns_section_166"
+        ],
+        "referenced_context": "Yes, because the protester abetted an act of insubordination, and the act was committed in consequence of that abetment, the protester is punishable under Section 166 with imprisonment up to two years. [Source: Section 166, BNS 2023]"
+    },
+    {
+        "question": "How does Section 140 of BNS 2023 grade aggravated forms of kidnapping and abduction?",
+        "referenced_sections": [
+            "bns_section_140"
+        ],
+        "referenced_context": "Section 140 of BNS 2023 penalizes aggravated kidnapping/abduction: for murder (up to life imprisonment, sub-section 1); for ransom/coercion with death threats (death or life imprisonment, sub-section 2); for secret confinement (up to 7 years, sub-section 3); and for grievous hurt, slavery, or unnatural lust (up to 10 years, sub-section 4). [Source: Section 140, BNS 2023]"
+    },
+    {
+        "question": "What is the consequence of Explanation 3 regarding the death of a child during childbirth?",
+        "referenced_sections": [
+            "bns_section_100"
+        ],
+        "referenced_context": "The consequence is that while killing a fetus in the womb is not homicide, it *can* amount to culpable homicide if any part of the child has been brought forth (partially born), even if the child hasn't breathed or been completely born yet. [Source: Section 100, BNS 2023]"
+    },
+    {
+        "question": "What is the legal consequence of criminalizing false personation in court?",
+        "referenced_sections": [
+            "bns_section_242"
+        ],
+        "referenced_context": "The consequence is that it protects the fundamental integrity of the judicial system; courts must be able to trust that judgments, bail bonds, and admissions are binding on the actual parties involved, not imposters. [Source: Section 242, BNS 2023]"
+    },
+    {
+        "question": "A tax officer is legally directed to release a businessman's frozen bank account within 24 hours of a court order. The officer personally hates the businessman and intentionally delays it for a month, causing the business to default on loans. What is the officer's crime?",
+        "referenced_sections": [
+            "bns_section_198"
+        ],
+        "referenced_context": "Because the officer knowingly disobeyed a direction of law regarding his conduct, intending to cause injury to the businessman, he is punishable under Section 198 with simple imprisonment up to one year or a fine. [Source: Section 198, BNS 2023]"
+    },
+    {
+        "question": "Can an actor be arrested under this section for wearing a military uniform in a movie or stage play?",
+        "referenced_sections": [
+            "bns_section_168"
+        ],
+        "referenced_context": "No, because the actor is performing and audiences know it is a play, the actor lacks the \"intention that it may be believed that he is such a soldier,\" so the section does not apply. [Source: Section 168, BNS 2023]"
+    },
+    {
+        "question": "What specific intent is required to make the removal of a stamp or effacement of writing a criminal offence under this section?",
+        "referenced_sections": [
+            "bns_section_183"
+        ],
+        "referenced_context": "The act must be done \"fraudulently or with intent to cause loss to the Government\" in order that the stamp may be \"used for a different writing or document.\" [Source: Section 183, BNS 2023]"
+    },
+    {
+        "question": "A rogue politician bribes an army general to stage a coup. The general agrees and leads a battalion to seize a government building. What is the maximum penalty for the politician who orchestrated it?",
+        "referenced_sections": [
+            "bns_section_160"
+        ],
+        "referenced_context": "Because he abetted the mutiny by an officer, and the mutiny was committed in consequence of that abetment, the politician is punishable under this section with death or life imprisonment. [Source: Section 160, BNS 2023]"
+    },
+    {
+        "question": "What is the penalty for kidnapping a young child specifically to steal the jewelry they are wearing?",
+        "referenced_sections": [
+            "bns_section_97"
+        ],
+        "referenced_context": "Kidnapping or abducting a child under ten years old with the intention of dishonestly taking movable property from their person is punishable by up to seven years in prison and a fine. [Source: Section 97, BNS 2023]"
+    },
+    {
+        "question": "What is the penalty if you are legally required to report something to the police but you intentionally stay silent?",
+        "referenced_sections": [
+            "bns_section_211"
+        ],
+        "referenced_context": "Intentionally failing to give required information to a public servant is punishable by up to one month in prison; if the information was about a crime, the penalty increases to six months. [Source: Section 211, BNS 2023]"
+    },
+    {
+        "question": "What is the legal consequence of including the monitoring of electronic communication in the stalking definition?",
+        "referenced_sections": [
+            "bns_section_78"
+        ],
+        "referenced_context": "The consequence is that the law modernizes the protection of women, recognizing that severe harassment can happen entirely online (cyberstalking) without the perpetrator ever being in the physical presence of the victim. [Source: Section 78, BNS 2023]"
+    },
+    {
+        "question": "How does snatching differ from regular theft under this section?",
+        "referenced_sections": [
+            "bns_section_304"
+        ],
+        "referenced_context": "Snatching requires the specific element that the offender \"suddenly or quickly or forcibly seizes or secures or grabs\" the property from a person or their possession, elevating the physical confrontation compared to stealthy theft. [Source: Section 304, BNS 2023]"
+    },
+    {
+        "question": "A local official learns that a militia is planning to attack a military base. To help the militia, the official deliberately deletes the intelligence reports from the police database. What is the official's crime?",
+        "referenced_sections": [
+            "bns_section_150"
+        ],
+        "referenced_context": "By an act that concealed a design to wage war, intending to facilitate that war, the official is punishable under this section with imprisonment up to ten years. [Source: Section 150, BNS 2023]"
+    },
+    {
+        "question": "What is the penalty for making or owning the tools used to fake property marks?",
+        "referenced_sections": [
+            "bns_section_348"
+        ],
+        "referenced_context": "Making or possessing any die, plate, or instrument intended to counterfeit a property mark, or possessing a fake property mark to falsely claim ownership of goods, is punishable by up to three years in prison or a fine. [Source: Section 348, BNS 2023]"
+    },
+    {
+        "question": "What specific things are people legally allowed to protect using the right of private defence?",
+        "referenced_sections": [
+            "bns_section_35"
+        ],
+        "referenced_context": "Every person has a right to defend their own body, the body of any other person, and the movable or immovable property of themselves or others. [Source: Section 35, BNS 2023]"
+    },
+    {
+        "question": "A shop owner stores several open barrels of gasoline right next to the public entrance of his store, where customers frequently smoke cigarettes. What is his penalty?",
+        "referenced_sections": [
+            "bns_section_287"
+        ],
+        "referenced_context": "Because he negligently omitted to take sufficient order with combustible matter in his possession to guard against probable danger to human life, he is punishable under Section 287 with imprisonment up to six months or a fine. [Source: Section 287, BNS 2023]"
+    },
+    {
+        "question": "How does Section 263 of BNS 2023 penalize resisting the arrest of another?",
+        "referenced_sections": [
+            "bns_section_263"
+        ],
+        "referenced_context": "Section 263 of BNS 2023 imposes tiered punishments for resisting another's apprehension or rescuing them: up to 2 years for minor offences, 3 years for 10-year offences, 7 years for capital/life offences, and up to life imprisonment if rescuing a death-row inmate. [Source: Section 263, BNS 2023]"
+    },
+    {
+        "question": "What is the consequence of requiring the \"intent to use\" the fake money as genuine?",
+        "referenced_sections": [
+            "bns_section_180"
+        ],
+        "referenced_context": "The consequence is that law enforcement officers, bank officials, or innocent victims who discover a fake note in their wallet and keep it as evidence are protected from being criminalized simply for possessing contraband. [Source: Section 180, BNS 2023]"
+    },
+    {
+        "question": "A smuggler pays a 10-year-old boy to carry illegal weapons across a state border. The boy is caught. What is the smuggler's liability under this section?",
+        "referenced_sections": [
+            "bns_section_95"
+        ],
+        "referenced_context": "The smuggler is liable for 3 to 10 years for employing the child, AND because the offence of weapon smuggling was committed, the smuggler is also punished with the penalty for weapon smuggling as if he had carried the weapons himself. [Source: Section 95, BNS 2023]"
+    },
+    {
+        "question": "How does Section 319 of BNS 2023 define and punish cheating by personation?",
+        "referenced_sections": [
+            "bns_section_319"
+        ],
+        "referenced_context": "Section 319 of BNS 2023 defines cheating by personation as cheating by pretending to be someone else, substituting one person for another, or misrepresenting identity. It is punishable by imprisonment up to 5 years and a fine. [Source: Section 319, BNS 2023]"
+    },
+    {
+        "question": "What is the legal consequence for a doctor who performs a necessary surgery on a ten-year-old child with only the parents' consent?",
+        "referenced_sections": [
+            "bns_section_27"
+        ],
+        "referenced_context": "The consequence is that the doctor is shielded from criminal liability for any harm caused by the surgery, because the parents' consent acts as a valid legal shield on behalf of the minor. [Source: Section 27, BNS 2023]"
+    },
+    {
+        "question": "If an assembly starts peacefully to protest a law, but later the crowd decides to start burning police cars, does it become an unlawful assembly?",
+        "referenced_sections": [
+            "bns_section_189"
+        ],
+        "referenced_context": "Yes, under the Explanation to sub-section (1), \"An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly.\" [Source: Section 189, BNS 2023]"
+    },
+    {
+        "question": "A person lies on a standard administrative application for a parking permit. Is this punishable by 7 years in prison under sub-section (1)?",
+        "referenced_sections": [
+            "bns_section_229"
+        ],
+        "referenced_context": "No, because a parking permit application is not a \"judicial proceeding.\" It would fall under sub-section (2) (any other case), punishable by up to three years. [Source: Section 229, BNS 2023]"
+    },
+    {
+        "question": "What is the consequence of prescribing life imprisonment for arson involving human dwellings?",
+        "referenced_sections": [
+            "bns_section_326"
+        ],
+        "referenced_context": "The consequence is that the state treats the intentional burning of homes as a near-capital offence, recognizing that it not only destroys property but poses a catastrophic and uncontrollable risk to human life. [Source: Section 326, BNS 2023]"
+    },
+    {
+        "question": "Can a person be charged under this section if they don't threaten the public servant directly, but instead threaten the public servant's child?",
+        "referenced_sections": [
+            "bns_section_224"
+        ],
+        "referenced_context": "Yes, the statute covers threats to \"any person in whom he believes that public servant to be interested.\" [Source: Section 224, BNS 2023]"
+    },
+    {
+        "question": "Does this section apply if the act abetted outside India is legal there, but would be illegal in India?",
+        "referenced_sections": [
+            "bns_section_47"
+        ],
+        "referenced_context": "The text does not require the act to be an offence in the foreign country; the only stated condition is that the act would constitute an offence if committed in India. Therefore, the abetment is still an offence under Indian law. [Source: Section 47, BNS 2023]"
+    },
+    {
+        "question": "Can a blogger live-tweet or publish the details of a rape trial as it is happening in court?",
+        "referenced_sections": [
+            "bns_section_73"
+        ],
+        "referenced_context": "No, printing or publishing any matter related to court proceedings for sexual offences without the previous permission of the Court is illegal and punishable by up to two years in prison. [Source: Section 73, BNS 2023]"
+    },
+    {
+        "question": "What happens if you threaten a witness to force them to lie under oath?",
+        "referenced_sections": [
+            "bns_section_232"
+        ],
+        "referenced_context": "Threatening a person with injury to force them to give false evidence is punishable by up to seven years in prison or a fine. If an innocent person is convicted and executed or sentenced to over 7 years because of the coerced lie, the person who made the threat receives the same sentence. [Source: Section 232, BNS 2023]"
+    },
+    {
+        "question": "Can a medical professional be held liable if a risky, life-saving procedure results in a patient's death despite their consent?",
+        "referenced_sections": [
+            "bns_section_26"
+        ],
+        "referenced_context": "No, if an act is done in good faith for a person's benefit with their consent, and there is no intention to cause death, it is not an offence even if it was known to be likely to cause death. [Source: Section 26, BNS 2023]"
+    },
+    {
+        "question": "What is the consequence of prescribing life imprisonment for habitual slave dealing?",
+        "referenced_sections": [
+            "bns_section_145"
+        ],
+        "referenced_context": "The consequence is that it allows the state to permanently dismantle slave-trading networks by imposing maximum, life-long sentences on the brokers, auctioneers, and human smugglers who make slavery a sustained commercial enterprise. [Source: Section 145, BNS 2023]"
+    },
+    {
+        "question": "What does Section 110 of BNS 2023 criminalize?",
+        "referenced_sections": [
+            "bns_section_110"
+        ],
+        "referenced_context": "Section 110 of BNS 2023 criminalizes the attempt to commit culpable homicide not amounting to murder. It prescribes a base penalty of up to 3 years imprisonment, which escalates to up to 7 years if the victim suffers hurt during the attempt. [Source: Section 110, BNS 2023]"
+    },
+    {
+        "question": "If a police officer fails to record a complaint about a stolen bicycle (a minor theft), does it trigger the strict penalties of clause (c) in Section 199?",
+        "referenced_sections": [
+            "bns_section_199"
+        ],
+        "referenced_context": "No, clause (c) specifically lists the serious offences (like Sections 64, 65, 70, 124, etc., primarily relating to sexual offences and grievous harm) for which failing to record information is a crime under this section. [Source: Section 199, BNS 2023]"
+    },
+    {
+        "question": "If an attacker commits a minor assault that doesn't threaten your life or cause serious injury, can you still defend yourself?",
+        "referenced_sections": [
+            "bns_section_39"
+        ],
+        "referenced_context": "Yes, if the offence is not one of the severe descriptions that justify lethal force, the right of private defence still exists but only extends to voluntarily causing any harm other than death to the assailant. [Source: Section 39, BNS 2023]"
+    },
+    {
+        "question": "A woman applies to the Sessions Judge to transfer her harassment trial to a different Magistrate. The Sessions Judge finds her application completely fabricated and designed just to harass the defendant. The Judge wants to fine her 50,000 rupees as compensation to the defendant. Can the Judge fine her this much?",
+        "referenced_sections": [
+            "bnss_section_448"
+        ],
+        "referenced_context": "No. Sub-section (3) applies the rules of Section 447, but explicitly modifies the compensation limit: \"except that sub-section (7) of that section shall so apply as if for the word 'sum' occurring therein, the words 'sum not exceeding ten thousand rupees' were substituted.\" The maximum fine is 10,000 rupees. [Source: Section 448, BNSS 2023]"
+    },
+    {
+        "question": "A man and a woman are tried together in Sessions Court. The man is sentenced to 10 years in prison, but the woman is only sentenced to 3 years. Which court should the woman appeal to?",
+        "referenced_sections": [
+            "bnss_section_415"
+        ],
+        "referenced_context": "The High Court. Under sub-section (2), a person may appeal to the High Court if a sentence of more than 7 years has been passed \"against him or against any other person convicted at the same trial\". Because her co-defendant got 10 years, she also appeals to the High Court. [Source: Section 415, BNSS 2023]"
+    },
+    {
+        "question": "A woman reports an attempted rape. The police take her to a private clinic because the government hospital is too far. The private doctor performs the examination with her consent. Is this allowed under the law?",
+        "referenced_sections": [
+            "bnss_section_184"
+        ],
+        "referenced_context": "Yes, sub-section (1) allows the examination to be conducted by \"any other registered medical practitioner\" in the \"absence of such a practitioner\" employed in a government or local authority hospital. [Source: Section 184, BNSS 2023]"
+    },
+    {
+        "question": "What can a Magistrate do if someone illegally blocks a public road, builds a dangerous structure, or keeps a dangerous animal?",
+        "referenced_sections": [
+            "bnss_section_152"
+        ],
+        "referenced_context": "The Magistrate can make a conditional order requiring the person to remove the obstruction, secure the building, or destroy/confine the animal within a fixed time, or appear to show cause why they shouldn't have to. [Source: Section 152, BNSS 2023]"
+    },
+    {
+        "question": "What is the mandatory time limit for the Legal Services Authority to complete its enquiry and award adequate compensation after receiving an application or recommendation?",
+        "referenced_sections": [
+            "bnss_section_396"
+        ],
+        "referenced_context": "\"within two months.\" (sub-section 5). [Source: Section 396, BNSS 2023]"
+    },
+    {
+        "question": "Does the defense lawyer have to pay a fee to get a copy of the judge's inspection notes?",
+        "referenced_sections": [
+            "bnss_section_347"
+        ],
+        "referenced_context": "No, sub-section (2) explicitly states \"a copy of the memorandum shall be furnished to him free of cost.\" [Source: Section 347, BNSS 2023]"
+    },
+    {
+        "question": "How does the court finalize the confiscation of property determined to be proceeds of crime?",
+        "referenced_sections": [
+            "bnss_section_120"
+        ],
+        "referenced_context": "After considering explanations, giving a reasonable opportunity to be heard, and examining evidence, the Court records a finding; if the property is criminal proceeds, it stands forfeited to the Central Government free from all encumbrances. [Source: Section 120, BNSS 2023]"
+    },
+    {
+        "question": "What is the ultimate consequence for the victims once the Court finds the attached properties are indeed proceeds of crime?",
+        "referenced_sections": [
+            "bnss_section_107"
+        ],
+        "referenced_context": "Under sub-section (6), the Court shall order the District Magistrate to \"rateably distribute such proceeds of crime to the persons who are affected by such crime.\" [Source: Section 107, BNSS 2023]"
+    },
+    {
+        "question": "Are there any situations where a Magistrate finds an accused guilty but *doesn't* have to pass a sentence of punishment?",
+        "referenced_sections": [
+            "bnss_section_271"
+        ],
+        "referenced_context": "Yes, sub-section (2) says the Magistrate shall pass sentence \"but does not proceed in accordance with the provisions of section 364 or section 401\" (which relate to submitting the proceedings to a Chief Judicial Magistrate for higher punishment, or releasing the offender on probation). [Source: Section 271, BNSS 2023]"
+    },
+    {
+        "question": "According to sub-section (3), which authorities can give written consent for initiating proceedings for criminal conspiracy (other than conspiracy for very serious crimes)?",
+        "referenced_sections": [
+            "bnss_section_217"
+        ],
+        "referenced_context": "\"the State Government or the District Magistrate\". [Source: Section 217, BNSS 2023]"
+    },
+    {
+        "question": "What is the condition for an electronic summons to be considered legally served?",
+        "referenced_sections": [
+            "bnss_section_64"
+        ],
+        "referenced_context": "Under sub-section (3), it is considered served when it is \"delivered or transmitted to the device of the summoned person and the record of such delivery is available.\" [Source: Section 64, BNSS 2023]"
+    },
+    {
+        "question": "What must a police officer do if they hear a rumor that a major crime is being planned?",
+        "referenced_sections": [
+            "bnss_section_169"
+        ],
+        "referenced_context": "The officer must communicate that information to their subordinate officer and to any other officer whose duty it is to prevent or take cognizance of the offence. [Source: Section 169, BNSS 2023]"
+    },
+    {
+        "question": "What specific administrative power does Section 496 of BNSS 2023 grant to higher courts regarding forfeited bonds?",
+        "referenced_sections": [
+            "bnss_section_496"
+        ],
+        "referenced_context": "Section 496 of BNSS 2023 defines the \"Power to direct levy of amount due on certain recognizances,\" allowing the High Court or Court of Session to direct any Magistrate to levy the amount due on a bond originally executed for appearance or attendance at that higher court. [Source: Section 496, BNSS 2023]"
+    },
+    {
+        "question": "Does this section apply to judgments passed by the High Court when it acts as an appellate court?",
+        "referenced_sections": [
+            "bnss_section_428"
+        ],
+        "referenced_context": "No. The section is specifically titled \"Judgments of subordinate Appellate Court\" and the text explicitly applies it only to \"the judgment in appeal of a Court of Session or Chief Judicial Magistrate\". High Courts follow their own appellate rules. [Source: Section 428, BNSS 2023]"
+    },
+    {
+        "question": "A person signs a bail bond and skips their trial date. Can the judge issue an arrest warrant, or must they only penalize the financial sureties?",
+        "referenced_sections": [
+            "bnss_section_92"
+        ],
+        "referenced_context": "The judge can issue a warrant; the section states the presiding officer \"may issue a warrant directing that such person be arrested.\" [Source: Section 92, BNSS 2023]"
+    },
+    {
+        "question": "If an accused person is out on bail but fails to show up on the day the judgment is scheduled to be announced, is the judge forbidden from announcing the verdict?",
+        "referenced_sections": [
+            "bnss_section_392"
+        ],
+        "referenced_context": "No. Under sub-section (6) proviso, if there are multiple accused and some don't attend, the judge \"may, in order to avoid undue delay in the disposal of the case, pronounce the judgment notwithstanding their absence.\" Furthermore, sub-section (7) states the judgment isn't invalid just because a party was absent. [Source: Section 392, BNSS 2023]"
+    },
+    {
+        "question": "What two specific parameters are dictated by clause (a) regarding the performance of the act?",
+        "referenced_sections": [
+            "bnss_section_154"
+        ],
+        "referenced_context": "The act must be performed \"within the time and in the manner specified in the order.\" [Source: Section 154, BNSS 2023]"
+    },
+    {
+        "question": "What is the procedural consequence once the medical practitioner finishes writing the examination report?",
+        "referenced_sections": [
+            "bnss_section_52"
+        ],
+        "referenced_context": "The consequence, under sub-section (4), is that the practitioner must, without delay, forward the report to the investigating officer, who shall then forward it to the Magistrate. [Source: Section 52, BNSS 2023]"
+    },
+    {
+        "question": "What specific condition must be met for a Magistrate to use an officer to prepare the summary records?",
+        "referenced_sections": [
+            "bnss_section_288"
+        ],
+        "referenced_context": "\"The High Court may authorise\" the Magistrate to do so, using an officer \"appointed in this behalf by the Chief Judicial Magistrate\". [Source: Section 288, BNSS 2023]"
+    },
+    {
+        "question": "Do Magistrates have the direct authority to arrest someone themselves?",
+        "referenced_sections": [
+            "bnss_section_41"
+        ],
+        "referenced_context": "Yes, when any offence is committed in the presence of a Magistrate within his local jurisdiction, he may himself arrest or order any person to arrest the offender. [Source: Section 41, BNSS 2023]"
+    },
+    {
+        "question": "What jurisdictional clarification is provided by Section 296 of BNSS 2023?",
+        "referenced_sections": [
+            "bnss_section_296"
+        ],
+        "referenced_context": "Section 296 of BNSS 2023 clarifies the \"Power of Court in plea bargaining,\" explicitly stating that the Court retains all vested powers regarding bail, trial of offences, and other disposal matters under the Sanhita while handling plea bargains. [Source: Section 296, BNSS 2023]"
+    },
+    {
+        "question": "A Magistrate commits a murder case to the Court of Session. An Additional Sessions Judge in that division decides to take up the file directly and start the trial without asking the principal Sessions Judge. Is this proper?",
+        "referenced_sections": [
+            "bnss_section_214"
+        ],
+        "referenced_context": "No, an Additional Sessions Judge \"shall try such cases as the Sessions Judge of the division may... make over to him.\" They cannot independently pull cases from the general docket without assignment. [Source: Section 214, BNSS 2023]"
+    },
+    {
+        "question": "If an offence consists of planning a fraud in City X, executing it in City Y, and hiding the money in City Z, does the trial have to be held only where the final act occurred?",
+        "referenced_sections": [
+            "bnss_section_198"
+        ],
+        "referenced_context": "No, under clause (d), where an offence \"consists of several acts done in different local areas, it may be inquired into or tried by a Court having jurisdiction over any of such local areas.\" [Source: Section 198, BNSS 2023]"
+    },
+    {
+        "question": "What does Section 9 of BNSS 2023 say?",
+        "referenced_sections": [
+            "bnss_section_9"
+        ],
+        "referenced_context": "Section 9 of BNSS 2023 provides for the establishment of Courts of Judicial Magistrates, the appointment of their presiding officers, and the creation of Special Courts. [Source: Section 9, BNSS 2023]"
+    },
+    {
+        "question": "A bank employee is accused of embezzling money from 50 different accounts over the course of 10 months. Must the charge list every single date and exact amount taken from each account?",
+        "referenced_sections": [
+            "bnss_section_235"
+        ],
+        "referenced_context": "No, under sub-section (2), for criminal breach of trust or misappropriation, \"it shall be sufficient to specify the gross sum... and the dates between which the offence is alleged to have been committed, without specifying particular items or exact dates\". [Source: Section 235, BNSS 2023]"
+    },
+    {
+        "question": "When determining if a \"failure of justice\" has occurred, what specific behavior by the defense must the Court \"have regard to\" under sub-section (2)?",
+        "referenced_sections": [
+            "bnss_section_511"
+        ],
+        "referenced_context": "\"whether the objection could and should have been raised at an earlier stage in the proceedings.\" [Source: Section 511, BNSS 2023]"
+    },
+    {
+        "question": "What is the consequence if the arrested person is willing and able to provide the required bail bond for a bailable offence?",
+        "referenced_sections": [
+            "bnss_section_83"
+        ],
+        "referenced_context": "The consequence is that the local Magistrate \"shall take such bail bond or security... and forward the bond, to the Court which issued the warrant,\" effectively releasing the person from immediate physical transit. [Source: Section 83, BNSS 2023]"
+    },
+    {
+        "question": "According to sub-section (3)(b), what specific information is the officer forbidden from disclosing without special permission from their General Manager?",
+        "referenced_sections": [
+            "bnss_section_328"
+        ],
+        "referenced_context": "\"the nature or particulars of any test applied by him in the course of the examination of the matter or thing.\" [Source: Section 328, BNSS 2023]"
+    },
+    {
+        "question": "What happens if an accused person is very poor and cannot afford to hire their own lawyer?",
+        "referenced_sections": [
+            "bnss_section_341"
+        ],
+        "referenced_context": "If the accused has no lawyer and cannot afford one, the Court is required to assign a lawyer to defend them for free, and the State Government pays the lawyer's fees. [Source: Section 341, BNSS 2023]"
+    },
+    {
+        "question": "What can a Magistrate do if a public nuisance poses an immediate, serious danger before the court hearings are even finished?",
+        "referenced_sections": [
+            "bnss_section_161"
+        ],
+        "referenced_context": "The Magistrate can issue an immediate injunction to prevent the danger pending the determination of the matter, and if disobeyed, use necessary means to prevent the injury themselves. [Source: Section 161, BNSS 2023]"
+    },
+    {
+        "question": "What is the practical result when a Court orders punishments to run consecutively?",
+        "referenced_sections": [
+            "bnss_section_25"
+        ],
+        "referenced_context": "The consequence is that the defendant serves the sentences back-to-back, adding the time together, subject to the maximum limit of twenty years or twice the Court's single-offence limit. [Source: Section 25, BNSS 2023]"
+    },
+    {
+        "question": "Does this rule prevent a retired advocate, who has completely surrendered their legal license and stopped practicing, from becoming a Magistrate?",
+        "referenced_sections": [
+            "bnss_section_526"
+        ],
+        "referenced_context": "No, the text specifically targets a \"Practising advocate\". Once they cease to practice, the prohibition no longer applies. [Source: Section 526, BNSS 2023]"
+    },
+    {
+        "question": "What jurisdictional conflict does Section 206 of BNSS 2023 resolve?",
+        "referenced_sections": [
+            "bnss_section_206"
+        ],
+        "referenced_context": "Section 206 of BNSS 2023 resolves the conflict that arises when multiple courts take cognizance of the same offence, laying down the rule for which High Court acts as the final arbiter. [Source: Section 206, BNSS 2023]"
+    },
+    {
+        "question": "What is the consequence of this protection?",
+        "referenced_sections": [
+            "bnss_section_512"
+        ],
+        "referenced_context": "The consequence is protecting frontline executive officers; police officers executing warrants shouldn't have to act as appellate judges, analyzing the grammatical perfection or exact formatting of every warrant a judge hands them. As long as a court ordered it, they are shielded from personal lawsuits, allowing them to do their jobs without fear of civil liability over clerical errors. [Source: Section 512, BNSS 2023]"
+    },
+    {
+        "question": "How does Section 433 of BNSS 2023 resolve a split decision among appellate judges?",
+        "referenced_sections": [
+            "bnss_section_433"
+        ],
+        "referenced_context": "Section 433 of BNSS 2023 outlines the \"Procedure where Judges of Court of appeal are equally divided,\" mandating that a split decision by a High Court Bench be laid before another Judge of that Court whose opinion will act as the tie-breaker, unless a judge requires a larger Bench to re-hear the appeal. [Source: Section 433, BNSS 2023]"
+    },
+    {
+        "question": "A man with no local friends or family is arrested for a minor crime. The Magistrate demands a bond with two local sureties. The man explains he can't find any sureties, but he has 1 Lakh rupees in his bank account and offers to transfer the cash directly to the court as a deposit to guarantee he will show up. Is the Magistrate allowed to accept this?",
+        "referenced_sections": [
+            "bnss_section_490"
+        ],
+        "referenced_context": "Yes. Section 490 explicitly states the Court \"may... permit him to deposit a sum of money... in lieu of executing such bond.\" [Source: Section 490, BNSS 2023]"
+    },
+    {
+        "question": "Whose provisions prevail if the provisions of a special Act are inconsistent with this Sanhita?",
+        "referenced_sections": [
+            "bnss_section_2"
+        ],
+        "referenced_context": "Under the Explanation in clause (l), where any provisions of a special Act are inconsistent with this Sanhita, the provisions of the special Act shall prevail. [Source: Section 2, BNSS 2023]"
+    },
+    {
+        "question": "Can a police officer force a witness to travel to court with them in the police car?",
+        "referenced_sections": [
+            "bnss_section_191"
+        ],
+        "referenced_context": "No, a complainant or witness on their way to court cannot be required to accompany a police officer or be subjected to unnecessary restraint, unless they refuse to attend court entirely. [Source: Section 191, BNSS 2023]"
+    },
+    {
+        "question": "Does this section allow a state to transfer the power to issue death sentences from Judicial Magistrates to Executive Magistrates?",
+        "referenced_sections": [
+            "bnss_section_524"
+        ],
+        "referenced_context": "No, the power is strictly a one-way transfer for specific sections only: transferring functions in \"sections 127, 128, 129, 164 and 166\" *from* Executive Magistrates *to* Judicial Magistrates. It does not allow the reverse or apply to other sections. [Source: Section 524, BNSS 2023]"
+    },
+    {
+        "question": "What specific standard is applied to *how* the guilty plea must be recorded?",
+        "referenced_sections": [
+            "bnss_section_275"
+        ],
+        "referenced_context": "It must be recorded \"as nearly as possible in the words used by the accused\". [Source: Section 275, BNSS 2023]"
+    },
+    {
+        "question": "Can a magistrate order police to forcibly rescue a kidnapped woman and return her to her family?",
+        "referenced_sections": [
+            "bnss_section_101"
+        ],
+        "referenced_context": "Yes, upon a complaint made on oath, a Magistrate may make an order for the immediate restoration of an abducted woman to her liberty, or a female child to her parent/guardian, using necessary force. [Source: Section 101, BNSS 2023]"
+    },
+    {
+        "question": "How does Section 404 of BNSS 2023 regulate the distribution of judgments?",
+        "referenced_sections": [
+            "bnss_section_404"
+        ],
+        "referenced_context": "Section 404 of BNSS 2023 mandates \"Copy of judgment to be given to accused and other persons,\" requiring free, immediate copies for imprisoned or death-sentenced convicts, providing translated/certified copies for appealable cases, and allowing affected parties or the government to obtain copies upon application. [Source: Section 404, BNSS 2023]"
+    },
+    {
+        "question": "In a Magistrate's trial based on a police report, what happens if the accused refuses to plead guilty to the charges?",
+        "referenced_sections": [
+            "bnss_section_265"
+        ],
+        "referenced_context": "The Magistrate will fix a date to examine witnesses and take evidence from the prosecution to prove the case. The Magistrate must give the accused the police witness statements in advance. [Source: Section 265, BNSS 2023]"
+    },
+    {
+        "question": "What must exist in every State besides the High Courts and Courts constituted under other laws?",
+        "referenced_sections": [
+            "bnss_section_6"
+        ],
+        "referenced_context": "There must be the four specific classes of Criminal Courts enumerated: Courts of Session, Judicial Magistrates of the first class, Judicial Magistrates of the second class, and Executive Magistrates. [Source: Section 6, BNSS 2023]"
+    },
+    {
+        "question": "Can a person be tried for multiple crimes at once if they keep committing the exact same type of crime over and over?",
+        "referenced_sections": [
+            "bnss_section_242"
+        ],
+        "referenced_context": "Yes, if a person commits multiple offences of the \"same kind\" (like multiple thefts) within a 12-month period, they can be charged and tried for up to five of them in a single trial. [Source: Section 242, BNSS 2023]"
+    },
+    {
+        "question": "What is the consequence of allowing sentence suspension pending appeal?",
+        "referenced_sections": [
+            "bnss_section_430"
+        ],
+        "referenced_context": "The consequence is balancing justice with liberty; if everyone had to sit in jail during a 5-year appeals process, an innocent person whose conviction is eventually overturned would have already had their life ruined by serving the full illegal sentence. Bail pending appeal prevents the punishment from outrunning the final legal truth. [Source: Section 430, BNSS 2023]"
+    },
+    {
+        "question": "What does Section 68 of BNSS 2023 dictate?",
+        "referenced_sections": [
+            "bnss_section_68"
+        ],
+        "referenced_context": "Section 68 of BNSS 2023 dictates the specific procedure for serving a summons on an active Government servant by routing it through the head of their office. [Source: Section 68, BNSS 2023]"
+    },
+    {
+        "question": "What two specific conditions must exist for an armed forces officer to act independently under this section?",
+        "referenced_sections": [
+            "bnss_section_150"
+        ],
+        "referenced_context": "\"When the public security is manifestly endangered by any such assembly\" and \"no Executive Magistrate can be communicated with.\" [Source: Section 150, BNSS 2023]"
+    },
+    {
+        "question": "What is the practical application of appointing a Special Public Prosecutor?",
+        "referenced_sections": [
+            "bnss_section_18"
+        ],
+        "referenced_context": "Under sub-section (8), the Central or State Government may appoint an advocate with at least ten years of practice to conduct a specific \"case or class of cases,\" allowing specialized legal expertise for complex prosecutions. [Source: Section 18, BNSS 2023]"
+    },
+    {
+        "question": "A court issues a warrant and directs it simultaneously to three different police officers. Only one of those officers is present when they spot the suspect. Can that single officer execute the warrant?",
+        "referenced_sections": [
+            "bnss_section_74"
+        ],
+        "referenced_context": "Yes, under sub-section (2), when a warrant is directed to more officers or persons than one, \"it may be executed by all, or by any one or more of them.\" [Source: Section 74, BNSS 2023]"
+    },
+    {
+        "question": "Are there any specific crimes listed in this section where a spouse is suddenly deemed incompetent to testify?",
+        "referenced_sections": [
+            "bsa_section_126"
+        ],
+        "referenced_context": "No, the section states broadly that in criminal proceedings against 'any person,' the spouse shall be a competent witness without listing exceptions. [Source: Section 126, BSA 2023]"
+    },
+    {
+        "question": "By defining these two categories, what fundamental rule of evidence does this section establish for documentary proof?",
+        "referenced_sections": [
+            "bsa_section_56"
+        ],
+        "referenced_context": "It establishes that any attempt to prove a document's contents must legally qualify as either primary or secondary evidence to be admissible in court. [Source: Section 56, BSA 2023]"
+    },
+    {
+        "question": "What is the procedural benefit of this section for a party trying to prove an over-formalized document?",
+        "referenced_sections": [
+            "bsa_section_71"
+        ],
+        "referenced_context": "The party is saved the burden and expense of tracking down and calling attesting witnesses (under Section 67) when the law never required them in the first place. [Source: Section 71, BSA 2023]"
+    },
+    {
+        "question": "What rule does Section 144 of BSA 2023 lay down for individuals who only produce documents for the court?",
+        "referenced_sections": [
+            "bsa_section_144"
+        ],
+        "referenced_context": "Section 144 of BSA 2023 lays down the rule that producing a document does not automatically make someone a witness subject to cross-examination. [Source: Section 144, BSA 2023]"
+    },
+    {
+        "question": "What are the two types of legal materials made relevant by this section?",
+        "referenced_sections": [
+            "bsa_section_32"
+        ],
+        "referenced_context": "The two types are statements of law in books published under the authority of the Government, and reports of rulings of the Courts contained in published books. [Source: Section 32, BSA 2023]"
+    },
+    {
+        "question": "If circumstances show a crime must have been committed by A, B, C, or D, what happens if evidence shows B, C, and D did not commit it?",
+        "referenced_sections": [
+            "bsa_section_9"
+        ],
+        "referenced_context": "The illustration shows that every fact which proves the crime could have been committed by no one else, and that B, C, or D did not commit it, is relevant to proving A committed it. [Source: Section 9, BSA 2023]"
+    },
+    {
+        "question": "If a contract uses industry slang or extremely messy handwriting, can a party bring an expert to explain what it says?",
+        "referenced_sections": [
+            "bsa_section_101"
+        ],
+        "referenced_context": "Yes, evidence may be given to show the meaning of illegible characters, technical or local expressions, abbreviations, and words used in a peculiar sense. [Source: Section 101, BSA 2023]"
+    },
+    {
+        "question": "What are the conditions for entries in books of account to be deemed relevant under this section?",
+        "referenced_sections": [
+            "bsa_section_28"
+        ],
+        "referenced_context": "The entries must be in books of account, including those in electronic form, they must be regularly kept in the course of business, and they must refer to a matter the Court has to inquire into. [Source: Section 28, BSA 2023]"
+    },
+    {
+        "question": "If an electronic record is NOT 'secure,' does the court still presume its authenticity and integrity under this section?",
+        "referenced_sections": [
+            "bsa_section_86"
+        ],
+        "referenced_context": "No, clause (2)(b) explicitly states that except in the case of a secure electronic record or signature, nothing in this section shall create any presumption relating to authenticity and integrity. [Source: Section 86, BSA 2023]"
+    },
+    {
+        "question": "Who exactly is granted the right to give this varying evidence under this section?",
+        "referenced_sections": [
+            "bsa_section_102"
+        ],
+        "referenced_context": "'Persons who are not parties to a document, or their representatives in interest.' [Source: Section 102, BSA 2023]"
+    },
+    {
+        "question": "A defendant refuses to produce a contract after receiving a legal notice. They later argue the contract was invalid because it lacked a required stamp. Will the court accept this argument?",
+        "referenced_sections": [
+            "bsa_section_91"
+        ],
+        "referenced_context": "No, because the Court shall presume that the document not produced was legally stamped and executed. [Source: Section 91, BSA 2023]"
+    },
+    {
+        "question": "Can a witness refuse to answer a relevant question in court simply by claiming the answer might get them arrested?",
+        "referenced_sections": [
+            "bsa_section_137"
+        ],
+        "referenced_context": "No, a witness shall not be excused from answering any relevant question upon the ground that the answer will criminate them. [Source: Section 137, BSA 2023]"
+    },
+    {
+        "question": "When a relevant prior judgment is proven under this section, what happens to the second suit?",
+        "referenced_sections": [
+            "bsa_section_34"
+        ],
+        "referenced_context": "The Court uses the prior judgment as evidence to determine that it is legally barred from holding the second trial, leading to the dismissal or rejection of the new suit. [Source: Section 34, BSA 2023]"
+    },
+    {
+        "question": "If an adverse party deliberately keeps a witness out of the way so they cannot testify, can that witness's past testimony be used instead?",
+        "referenced_sections": [
+            "bsa_section_27"
+        ],
+        "referenced_context": "Yes, the section explicitly states that if the witness is kept out of the way by the adverse party, their past evidence is relevant for proving the facts it states. [Source: Section 27, BSA 2023]"
+    },
+    {
+        "question": "What rule does Section 69 of BSA 2023 establish regarding admissions?",
+        "referenced_sections": [
+            "bsa_section_69"
+        ],
+        "referenced_context": "Section 69 of BSA 2023 establishes that a party's own admission of executing an attested document is sufficient proof of its execution against that specific party. [Source: Section 69, BSA 2023]"
+    },
+    {
+        "question": "What specific condition must a mechanical copy meet to be considered secondary evidence under clause (ii)?",
+        "referenced_sections": [
+            "bsa_section_58"
+        ],
+        "referenced_context": "The copy must be made by a mechanical process which in itself ensures the accuracy of the copy. [Source: Section 58, BSA 2023]"
+    },
+    {
+        "question": "What two specific types of weapons must be used against the armed forces from that place to trigger this presumption?",
+        "referenced_sections": [
+            "bsa_section_115"
+        ],
+        "referenced_context": "'Firearms or explosives' must be used. [Source: Section 115, BSA 2023]"
+    },
+    {
+        "question": "How does Section 113 of BSA 2023 link possession to the burden of proof regarding ownership?",
+        "referenced_sections": [
+            "bsa_section_113"
+        ],
+        "referenced_context": "Section 113 of BSA 2023 states that when a person is shown to be in possession of anything, the burden of proving they are not the owner falls on the person asserting they are not. [Source: Section 113, BSA 2023]"
+    },
+    {
+        "question": "A deaf and mute witness testifies using sign language. To ensure accuracy, what two specific procedural safeguards must the Court implement according to the proviso?",
+        "referenced_sections": [
+            "bsa_section_125"
+        ],
+        "referenced_context": "The Court must take the assistance of an interpreter or a special educator in recording the statement, and the statement must be videographed. [Source: Section 125, BSA 2023]"
+    },
+    {
+        "question": "If a character-injuring question asked during cross-examination actually relates to a core, relevant matter of the lawsuit, must the witness answer it?",
+        "referenced_sections": [
+            "bsa_section_150"
+        ],
+        "referenced_context": "Yes, if the question relates to a matter relevant to the suit or proceeding, the witness must answer it as the provisions of section 137 shall apply. [Source: Section 150, BSA 2023]"
+    },
+    {
+        "question": "What balance does the strict proviso regarding sexual assault victims strike against the generally broad rules of cross-examination?",
+        "referenced_sections": [
+            "bsa_section_149"
+        ],
+        "referenced_context": "It prevents the trauma and irrelevancy of 'victim-blaming' based on sexual history, overriding the normal right of defense counsel to shake a witness's credit by injuring their general character in these specific sensitive cases. [Source: Section 149, BSA 2023]"
+    },
+    {
+        "question": "A is charged with murder but claims insanity (unsoundness of mind) prevented him from knowing the nature of his act. Who must prove the insanity?",
+        "referenced_sections": [
+            "bsa_section_108"
+        ],
+        "referenced_context": "The burden of proof is on A, the accused, to prove the unsoundness of mind. [Source: Section 108, BSA 2023]"
+    },
+    {
+        "question": "If an advocate notices a forged entry added to a client's account book *after* the lawyer was hired, is that observation protected?",
+        "referenced_sections": [
+            "bsa_section_132"
+        ],
+        "referenced_context": "No, the proviso exempts any fact observed by an advocate showing that a crime or fraud has been committed 'since the commencement of his service.' [Source: Section 132, BSA 2023]"
+    },
+    {
+        "question": "By making this proof 'conclusive,' what invasive public inquiries does the law generally prevent?",
+        "referenced_sections": [
+            "bsa_section_116"
+        ],
+        "referenced_context": "It prevents invasive inquiries and disputes into the paternity of children born within valid marriages, protecting the child's status unless strict non-access is proven. [Source: Section 116, BSA 2023]"
+    },
+    {
+        "question": "An accomplice testifies about a murder. To prove the accomplice isn't making it all up, the prosecutor asks them to describe a unique car crash they passed on the highway while fleeing the scene. The prosecutor then brings in independent police reports proving the crash happened exactly as described. Is this allowed?",
+        "referenced_sections": [
+            "bsa_section_159"
+        ],
+        "referenced_context": "Yes, independent evidence of unconnected incidents may be given in order to corroborate the witness's evidence as to the relevant fact. [Source: Section 159, BSA 2023]"
+    },
+    {
+        "question": "Are oral admissions regarding the contents of a written document generally admissible in court?",
+        "referenced_sections": [
+            "bsa_section_20"
+        ],
+        "referenced_context": "No, oral admissions as to the contents of a document are not relevant unless the party proposing to prove them shows they are entitled to give secondary evidence of the contents, or unless the genuineness of the produced document is in question. [Source: Section 20, BSA 2023]"
+    },
+    {
+        "question": "Who must purport to have signed the record of evidence or confession for this presumption to apply?",
+        "referenced_sections": [
+            "bsa_section_79"
+        ],
+        "referenced_context": "It must purport to be signed by any Judge or Magistrate, or by any officer authorized by law to take such evidence. [Source: Section 79, BSA 2023]"
+    },
+    {
+        "question": "If a person previously owned a piece of land and made a statement about its boundaries before selling it, is that statement considered an admission against the current owner?",
+        "referenced_sections": [
+            "bsa_section_16"
+        ],
+        "referenced_context": "Yes, statements made by persons from whom the parties to the suit have derived their interest in the subject matter are admissions, provided they were made during the continuance of the interest of the persons making them. [Source: Section 16, BSA 2023]"
+    },
+    {
+        "question": "What fundamental evidentiary rule is established by Section 94 of BSA 2023 regarding written contracts?",
+        "referenced_sections": [
+            "bsa_section_94"
+        ],
+        "referenced_context": "Section 94 of BSA 2023 establishes the rule that when a contract or property disposition is written down, the document itself is the only admissible proof of its terms, excluding oral testimony about those terms. [Source: Section 94, BSA 2023]"
+    },
+    {
+        "question": "Can a lawyer just guess that a witness might be a criminal and ask them about it on the stand to see what they say?",
+        "referenced_sections": [
+            "bsa_section_152"
+        ],
+        "referenced_context": "No, no such character-injuring question ought to be asked unless the person asking it has reasonable grounds for thinking that the imputation it conveys is well-founded. [Source: Section 152, BSA 2023]"
+    },
+    {
+        "question": "What is the key requirement for a fact not directly in issue to be deemed relevant under this rule?",
+        "referenced_sections": [
+            "bsa_section_4"
+        ],
+        "referenced_context": "The requirement is that the fact must be so connected with a fact in issue or a relevant fact that it forms part of the same transaction. [Source: Section 4, BSA 2023]"
+    },
+    {
+        "question": "Can a judge compare a disputed signature against a known, genuine signature to see if they match?",
+        "referenced_sections": [
+            "bsa_section_72"
+        ],
+        "referenced_context": "Yes, to ascertain if a signature is genuine, any signature admitted or proved to the Court's satisfaction to be by that person may be compared with the disputed one. [Source: Section 72, BSA 2023]"
+    },
+    {
+        "question": "By allowing this evidence, what legal doctrine is the court applying to save the contract?",
+        "referenced_sections": [
+            "bsa_section_100"
+        ],
+        "referenced_context": "The court is applying a doctrine of resolving latent ambiguity by striking out the erroneous part of the description (the false demonstration) to give effect to the parties' true intention. [Source: Section 100, BSA 2023]"
+    },
+    {
+        "question": "What protection does Section 134 of BSA 2023 offer directly to the client regarding legal advice?",
+        "referenced_sections": [
+            "bsa_section_134"
+        ],
+        "referenced_context": "Section 134 of BSA 2023 protects the client from being compelled to disclose to the Court any confidential communication between them and their legal adviser. [Source: Section 134, BSA 2023]"
+    },
+    {
+        "question": "How does this rule prevent lawyers from abusing the discovery process?",
+        "referenced_sections": [
+            "bsa_section_166"
+        ],
+        "referenced_context": "It prevents 'fishing expeditions' where a lawyer demands documents just to peek at the opponent's private files; if they demand to inspect it, they take the risk that the opponent will force them to enter it into the official court record. [Source: Section 166, BSA 2023]"
+    },
+    {
+        "question": "What is the fundamental legal maxim enshrined in this section regarding making claims in court?",
+        "referenced_sections": [
+            "bsa_section_104"
+        ],
+        "referenced_context": "It enshrines the maxim that 'he who asserts must prove' (onus probandi), establishing the baseline responsibility for moving a case forward. [Source: Section 104, BSA 2023]"
+    },
+    {
+        "question": "Can a judge arbitrarily decide the order of witnesses if there is already a clear statutory procedure laid out in the criminal procedure code?",
+        "referenced_sections": [
+            "bsa_section_140"
+        ],
+        "referenced_context": "No, the judge's discretion only applies 'in the absence of any such law.' [Source: Section 140, BSA 2023]"
+    },
+    {
+        "question": "Once a written contract is proven in court, can a party introduce evidence of a prior secret verbal agreement that contradicts the written text?",
+        "referenced_sections": [
+            "bsa_section_95"
+        ],
+        "referenced_context": "No, no evidence of any oral agreement or statement shall be admitted between the parties to contradict, vary, add to, or subtract from the terms of the written document. [Source: Section 95, BSA 2023]"
+    },
+    {
+        "question": "Can a piece of evidence be rejected simply because it is in a digital format?",
+        "referenced_sections": [
+            "bsa_section_61"
+        ],
+        "referenced_context": "No, nothing in this Adhiniyam shall apply to deny the admissibility of an electronic or digital record solely on the ground that it is an electronic or digital record. [Source: Section 61, BSA 2023]"
+    },
+    {
+        "question": "If a dispute is being heard before an arbitrator, will the strict rules of evidence under this Act apply to those proceedings?",
+        "referenced_sections": [
+            "bsa_section_1"
+        ],
+        "referenced_context": "No, the Act explicitly does not apply to proceedings before an arbitrator. [Source: Section 1, BSA 2023]"
+    },
+    {
+        "question": "Under Section 146 of BSA 2023, when is a lawyer strictly prohibited from asking leading questions?",
+        "referenced_sections": [
+            "bsa_section_146"
+        ],
+        "referenced_context": "Section 146 of BSA 2023 states leading questions must not, if objected to by the adverse party, be asked in an examination-in-chief or in a re-examination, except with the Court's permission. [Source: Section 146, BSA 2023]"
+    },
+    {
+        "question": "What presumption does Section 87 of BSA 2023 establish for Electronic Signature Certificates?",
+        "referenced_sections": [
+            "bsa_section_87"
+        ],
+        "referenced_context": "Section 87 of BSA 2023 establishes the presumption that information in an accepted Electronic Signature Certificate is correct, excluding any subscriber information specified as unverified. [Source: Section 87, BSA 2023]"
+    },
+    {
+        "question": "If the only evidence proving a murder was an illegally admitted, tortured confession, would this section still prevent a new trial?",
+        "referenced_sections": [
+            "bsa_section_169"
+        ],
+        "referenced_context": "In that case, a new trial (or reversal) would be warranted, because independently of the objected evidence, there would *not* be sufficient evidence to justify the decision. [Source: Section 169, BSA 2023]"
+    },
+    {
+        "question": "What saving clause is provided by Section 103 of BSA 2023?",
+        "referenced_sections": [
+            "bsa_section_103"
+        ],
+        "referenced_context": "Section 103 of BSA 2023 provides a saving clause ensuring that the chapter's rules do not affect the provisions of the Indian Succession Act, 1925 regarding the construction of wills. [Source: Section 103, BSA 2023]"
+    },
+    {
+        "question": "How can a legally required attested document be proven if all the witnesses who signed it have died or disappeared?",
+        "referenced_sections": [
+            "bsa_section_68"
+        ],
+        "referenced_context": "It must be proved that the attestation of at least one attesting witness is in their handwriting, and that the signature of the person executing the document is in that person's handwriting. [Source: Section 68, BSA 2023]"
+    },
+    {
+        "question": "If an imputation against a witness's character is extremely severe, but their actual testimony is just verifying a minor administrative form, is the question proper?",
+        "referenced_sections": [
+            "bsa_section_151"
+        ],
+        "referenced_context": "No, such questions are improper if there is a 'great disproportion between the importance of the imputation made against the witness's character and the importance of his evidence.' [Source: Section 151, BSA 2023]"
+    },
+    {
+        "question": "What procedural right does Section 147 of BSA 2023 give an adverse party regarding testimony about written documents?",
+        "referenced_sections": [
+            "bsa_section_147"
+        ],
+        "referenced_context": "Section 147 of BSA 2023 gives the adverse party the right to object if a witness tries to give oral statements about the contents of a document that ought to be produced. [Source: Section 147, BSA 2023]"
+    },
+    {
+        "question": "Under what circumstance can the party who actually *called* the witness impeach their credit using these methods?",
+        "referenced_sections": [
+            "bsa_section_158"
+        ],
+        "referenced_context": "They can do so 'with the consent of the Court.' [Source: Section 158, BSA 2023]"
+    },
+    {
+        "question": "What rule does Section 10 of BSA 2023 lay down for civil suits involving compensation?",
+        "referenced_sections": [
+            "bsa_section_10"
+        ],
+        "referenced_context": "Section 10 of BSA 2023 lays down that in suits in which damages are claimed, any fact enabling the Court to determine the amount of damages to be awarded is relevant. [Source: Section 10, BSA 2023]"
+    },
+    {
+        "question": "How does Section 142 of BSA 2023 define 'cross-examination'?",
+        "referenced_sections": [
+            "bsa_section_142"
+        ],
+        "referenced_context": "Section 142 of BSA 2023 defines 'cross-examination' as the examination of a witness by the adverse party. [Source: Section 142, BSA 2023]"
+    },
+    {
+        "question": "If a public servant is charged with framing an incorrect document with intent to cause injury, which legal provision governs the place of trial for this offence?",
+        "referenced_section": [
+            "bns_section_201",
+            "bnss_section_201"
+        ],
+        "referneced_context": "The offence of a public servant framing an incorrect document with intent to cause injury is defined under section 201 of the BNS, and the place of trial for such offences is determined by section 201 of the BNSS."
+    },
+    {
+        "question": "What is the procedure for a Magistrate to follow if they find that a case of rioting, which they have begun to inquire into, should be committed to the Court of Session?",
+        "referenced_section": [
+            "bns_section_191",
+            "bnss_section_362"
+        ],
+        "referneced_context": "If a Magistrate finds that a case of rioting (defined under section 191 of the BNS) should be committed to the Court of Session after the inquiry or trial has commenced, they must follow the procedure laid down in section 362 of the BNSS."
+    },
+    {
+        "question": "If a person is accused of committing a terrorist act, what power does the Court have regarding the accused's attendance if they are already in prison?",
+        "referenced_section": [
+            "bns_section_113",
+            "bnss_section_302"
+        ],
+        "referneced_context": "For an accused charged with a terrorist act under section 113 of the BNS, the Court has the power to require the attendance of the prisoner from jail to face trial as per the provisions of section 302 of the BNSS."
+    },
+    {
+        "question": "When a person is charged with kidnapping, how must the Court handle the recording of evidence if the accused is absent from the proceedings?",
+        "referenced_section": [
+            "bns_section_137",
+            "bnss_section_335"
+        ],
+        "referneced_context": "For the offence of kidnapping under section 137 of the BNS, if the accused is absent, the Court must follow the procedure for the record of evidence in the absence of the accused as specified in section 335 of the BNSS."
+    },
+    {
+        "question": "What is the procedure to be followed by a Magistrate when a person is accused of theft and the case is brought before them to determine if it should be committed to the Court of Session?",
+        "referenced_section": [
+            "bns_section_303",
+            "bnss_section_362"
+        ],
+        "referneced_context": "If a Magistrate determines that a theft case under section 303 of the BNS should be committed to the Court of Session after proceedings have started, they must follow the procedure outlined in section 362 of the BNSS."
+    },
+    {
+        "question": "Under what authority can a Court require the attendance of a person accused of criminal conspiracy if they are currently serving a sentence in another case?",
+        "referenced_section": [
+            "bns_section_61",
+            "bnss_section_302"
+        ],
+        "referneced_context": "The Court can require the attendance of a person accused of criminal conspiracy under section 61 of the BNS, who is currently imprisoned, by exercising the power to require attendance of prisoners as provided in section 302 of the BNSS."
+    },
+    {
+        "question": "How should a Magistrate conduct the trial for a person accused of public nuisance, and what is the specific procedure for recording evidence?",
+        "referenced_section": [
+            "bns_section_270",
+            "bnss_section_310"
+        ],
+        "referneced_context": "For the offence of public nuisance under section 270 of the BNS, the Magistrate must conduct the trial following the procedure for recording evidence in warrant-cases as prescribed in section 310 of the BNSS."
+    },
+    {
+        "question": "If an individual is charged with causing hurt, what are the guidelines for the Magistrate regarding the examination of the complainant?",
+        "referenced_section": [
+            "bns_section_114",
+            "bnss_section_223"
+        ],
+        "referneced_context": "For the offence of causing hurt under section 114 of the BNS, the Magistrate must conduct the examination of the complainant in accordance with the procedure set out in section 223 of the BNSS."
+    },
+    {
+        "question": "What is the process for the Court to take cognizance of an offence of defamation, and what specific procedural requirements must be met?",
+        "referenced_section": [
+            "bns_section_356",
+            "bnss_section_222"
+        ],
+        "referneced_context": "The Court takes cognizance of the offence of defamation under section 356 of the BNS by following the specific procedural requirements for the prosecution of defamation as outlined in section 222 of the BNSS."
+    },
+    {
+        "question": "If a person is accused of criminal intimidation, what is the procedure for the Magistrate to follow if they decide to postpone the issuance of a process?",
+        "referenced_section": [
+            "bns_section_351",
+            "bnss_section_225"
+        ],
+        "referneced_context": "For the offence of criminal intimidation under section 351 of the BNS, if the Magistrate decides to postpone the issue of process, they must follow the procedure specified in section 225 of the BNSS."
+    },
+    {
+        "question": "What is the procedure for a Magistrate to follow when a person is charged with cheating and the Magistrate determines that the case should be committed to the Court of Session?",
+        "referenced_section": [
+            "bns_section_318",
+            "bnss_section_362"
+        ],
+        "referneced_context": "If a Magistrate decides to commit a case of cheating under section 318 of the BNS to the Court of Session, they must adhere to the procedure mandated by section 362 of the BNSS."
+    },
+    {
+        "question": "If a person is charged with an offence relating to the sale of adulterated drugs, how should the Magistrate handle the examination of witnesses?",
+        "referenced_section": [
+            "bns_section_277",
+            "bnss_section_322"
+        ],
+        "referneced_context": "For the offence of sale of adulterated drugs under section 277 of the BNS, the Magistrate must ensure that the parties examine witnesses in accordance with the procedure provided in section 322 of the BNSS."
+    },
+    {
+        "question": "What is the procedure for a Magistrate to follow if they need to issue a commission for the examination of a witness in a case of mischief?",
+        "referenced_section": [
+            "bns_section_324",
+            "bnss_section_306"
+        ],
+        "referneced_context": "In a trial for mischief under section 324 of the BNS, if a witness is in prison, the Magistrate may issue a commission for their examination following the procedure in section 306 of the BNSS."
+    },
+    {
+        "question": "What steps must a Magistrate take if they find that the evidence in a case of wrongful confinement is deficient?",
+        "referenced_section": [
+            "bns_section_127",
+            "bnss_section_189"
+        ],
+        "referneced_context": "If the evidence in a case of wrongful confinement under section 127 of the BNS is found to be deficient, the Magistrate must follow the procedure for the release of the accused as described in section 189 of the BNSS."
+    },
+    {
+        "question": "What is the procedure for the Court to follow when a person is charged with robbery and the trial is conducted before a Court of Session?",
+        "referenced_section": [
+            "bns_section_309",
+            "bnss_section_311"
+        ],
+        "referneced_context": "For a trial before a Court of Session regarding the offence of robbery under section 309 of the BNS, the Court must follow the procedure for recording the trial as specified in section 311 of the BNSS."
+    },
+    {
+        "question": "If a person is charged with making a false document, what is the procedure for the Magistrate to follow if the accused is a corporation?",
+        "referenced_section": [
+            "bns_section_335",
+            "bnss_section_342"
+        ],
+        "referneced_context": "When a corporation is accused of the offence of making a false document under section 335 of the BNS, the Magistrate must follow the special procedure for accused corporations as outlined in section 342 of the BNSS."
+    },
+    {
+        "question": "What must the Magistrate do if they decide to alter the charge against a person accused of criminal breach of trust?",
+        "referenced_section": [
+            "bns_section_316",
+            "bnss_section_239"
+        ],
+        "referneced_context": "If a Magistrate decides to alter the charge against an individual for criminal breach of trust under section 316 of the BNS, they must follow the legal process for altering charges as specified in section 239 of the BNSS."
+    },
+    {
+        "question": "How should a Magistrate proceed if they are handling a case of house-trespass and need to recall witnesses after the charge has been altered?",
+        "referenced_section": [
+            "bns_section_329",
+            "bnss_section_240"
+        ],
+        "referneced_context": "In a case of house-trespass under section 329 of the BNS, if the charge is altered, the Magistrate must recall witnesses in accordance with the procedure set forth in section 240 of the BNSS."
+    },
+    {
+        "question": "What is the procedure for a Magistrate to follow if they need to take evidence in the absence of an accused charged with theft?",
+        "referenced_section": [
+            "bns_section_303",
+            "bnss_section_335"
+        ],
+        "referneced_context": "For the offence of theft under section 303 of the BNS, if the accused is absent, the Magistrate must record evidence following the procedure laid down in section 335 of the BNSS."
+    },
+    {
+        "question": "What is the procedure for a Magistrate to follow when a person is charged with causing death by negligence and the Magistrate decides to commit the case to the Court of Session?",
+        "referenced_section": [
+            "bns_section_106",
+            "bnss_section_362"
+        ],
+        "referneced_context": "If a Magistrate decides to commit a case of causing death by negligence under section 106 of the BNS to the Court of Session, they must proceed according to the provisions of section 362 of the BNSS."
+    },
+    {
+        "question": "What procedural rule governs the recording of confessions by a Magistrate during an investigation, and under what evidentiary rule is a confession rendered irrelevant if obtained through threats or promises?",
+        "referenced_section": [
+            "bnss_section_183",
+            "bsa_section_22"
+        ],
+        "referneced_context": "Under the procedural provisions for recording confessions, a Magistrate records confessions made during an investigation with specific warnings and precautions to ensure voluntariness. Under the rules of evidence, a confession made by an accused person is irrelevant in a criminal proceeding if the making of the confession appears to the Court to have been caused by any inducement, threat, coercion, or promise proceeding from a person in authority."
+    },
+    {
+        "question": "When a victim of rape undergoes a medical examination during investigation, is evidence regarding the victim's previous sexual experience or character admissible to establish consent?",
+        "referenced_section": [
+            "bnss_section_184",
+            "bsa_section_48"
+        ],
+        "referneced_context": "While procedural rules mandate the medical examination of a victim of rape by a registered medical practitioner, evidentiary rules explicitly state that in prosecutions for rape or attempt to commit rape, evidence of the character of the victim or of such person's previous sexual experience with any person shall not be relevant on the issue of consent or the quality of consent."
+    },
+    {
+        "question": "How does the procedural framework handle an accomplice who receives a tender of pardon, and what is the evidentiary value of an accomplice's testimony against an accused?",
+        "referenced_section": [
+            "bnss_section_343",
+            "bsa_section_138"
+        ],
+        "referneced_context": "Procedurally, a Court may tender a pardon to an accomplice on the condition of their making a full and true disclosure of all circumstances within their knowledge relative to the offence. Evidentially, an accomplice is a competent witness against an accused person, and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice."
+    },
+    {
+        "question": "Can the deposition of a medical witness taken during a preliminary inquiry be admitted in trial, and how does this align with the relevancy of prior evidence in subsequent proceedings?",
+        "referenced_section": [
+            "bnss_section_326",
+            "bsa_section_27"
+        ],
+        "referneced_context": "Procedurally, the deposition of a medical witness taken and attested by a Magistrate in the presence of the accused may be given in evidence in any inquiry, trial, or other proceeding. This operates alongside the evidentiary principle that testimony given by a witness in a judicial proceeding is relevant in a subsequent proceeding when the witness cannot be called or examined without unreasonable delay or expense."
+    },
+    {
+        "question": "What procedure mandates the recording of search and seizure operations electronically, and what general conditions govern the admissibility of such electronic records in evidence?",
+        "referenced_section": [
+            "bnss_section_105",
+            "bsa_section_63"
+        ],
+        "referneced_context": "Procedurally, police officers are required to record search and seizure operations through audio-video electronic means, preferably a mobile phone or electronic device, and prepare a list of seized items. Evidentially, such electronic records are admissible in court subject to the requirements of electronic record admissibility, including certification regarding the integrity and proper operation of the electronic device."
+    },
+    {
+        "question": "If a Magistrate orders an accused person to provide specimen signatures during an investigation, how may the court analyze those specimens against disputed documents during trial?",
+        "referenced_section": [
+            "bnss_section_349",
+            "bsa_section_72"
+        ],
+        "referneced_context": "Procedurally, a Magistrate may direct any person, including an accused, to give specimen signatures or handwriting for the purpose of investigation. Under the evidence framework, the court is empowered to compare any signature, writing, or seal with those admitted or proved to have been written or made by that person to ascertain their genuine execution."
+    },
+    {
+        "question": "How are official reports from Government scientific experts admitted procedurally, and how does the court treat their opinion evidence?",
+        "referenced_section": [
+            "bnss_section_329",
+            "bsa_section_39"
+        ],
+        "referneced_context": "Procedurally, any document purporting to be a report under the hand of a Government scientific expert upon any matter submitted for examination may be used as evidence in any inquiry, trial, or proceeding without calling the expert as a witness. This falls under the general rule of evidence that opinions of experts upon foreign law, science, art, handwriting, or fingerprints are relevant facts."
+    },
+    {
+        "question": "How are previous statements recorded by the police during investigation used to cross-examine witnesses during a trial?",
+        "referenced_section": [
+            "bnss_section_181",
+            "bsa_section_148"
+        ],
+        "referneced_context": "Procedurally, statements made to police officers during investigation cannot be used for any purpose except to contradict a prosecution witness when reduced into writing. Evidentially, a witness may be cross-examined as to previous statements made by them in writing or reduced into writing on relevant matters without such writing being shown to them initially, but if intended to contradict them, their attention must be called to those parts."
+    },
+    {
+        "question": "How does the procedure permitting formal evidence to be given on affidavit intersect with the general rule governing oral evidence?",
+        "referenced_section": [
+            "bnss_section_332",
+            "bsa_section_54"
+        ],
+        "referneced_context": "While the general rule of evidence dictates that all facts, except the contents of documents or electronic records, shall be proved by oral evidence, procedural rules create an exception by allowing the evidence of any person of a formal character to be given by affidavit, subject to the court recalling the witness for examination."
+    },
+    {
+        "question": "Under what circumstances can an accused's previous conviction be charged or proved procedurally, and how does it relate to evidence of bad character?",
+        "referenced_section": [
+            "bnss_section_259",
+            "bsa_section_49"
+        ],
+        "referneced_context": "Procedurally, where a previous conviction is charged to affect the punishment, it may be proved after a finding of guilt or framed as part of the charge. Evidentially, in criminal proceedings, previous bad character is generally irrelevant unless evidence has been given that the accused has a good character, or where the bad character itself is a fact in issue, in which case a previous conviction is relevant as evidence of bad character."
+    },
+    {
+        "question": "Is an accused person competent to give evidence on oath in their own defence, and how does this align with general competency rules for testifying?",
+        "referenced_section": [
+            "bnss_section_353",
+            "bsa_section_124"
+        ],
+        "referneced_context": "Procedurally, an accused person is a competent witness for the defence and may give evidence on oath in disproof of charges made against them or co-accused, provided they make a request in writing. This aligns with the evidentiary rule that all persons are competent to testify unless the court considers they are prevented from understanding the questions or giving rational answers."
+    },
+    {
+        "question": "Through what procedural methods can a previous conviction or acquittal be proved, and what type of evidence document supports this?",
+        "referenced_section": [
+            "bnss_section_334",
+            "bsa_section_76"
+        ],
+        "referneced_context": "Procedurally, a previous conviction or acquittal may be proved by an extract certified by the officer having custody of the record or by a warrant of commitment. This relies on the evidentiary standard of public documents, where contents of public documents may be proved by producing certified copies issued by the lawful custodian."
+    },
+    {
+        "question": "When police investigate an unnatural death or suicide of a married woman within seven years of marriage, what statutory presumption regarding abetment applies?",
+        "referenced_section": [
+            "bnss_section_194",
+            "bsa_section_117"
+        ],
+        "referneced_context": "Procedurally, police officers must inquire and report on suicides, including forwarding reports to a Magistrate when a woman dies within seven years of marriage. Evidentially, if a married woman commits suicide within seven years from marriage and it is shown that her husband or his relatives subjected her to cruelty, the court may presume that such suicide had been abetted by her husband or relatives."
+    },
+    {
+        "question": "What procedure governs the identification of an arrested person, and under what evidentiary head are facts establishing identity relevant?",
+        "referenced_section": [
+            "bnss_section_54",
+            "bsa_section_7"
+        ],
+        "referneced_context": "Procedurally, where a person is arrested and their identification is considered necessary for investigation, a court may order them to be subjected to identification by other persons. Evidentially, facts necessary to explain or introduce a fact in issue or relevant fact, including facts which establish the identity of any person whose identity is relevant, are considered relevant."
+    },
+    {
+        "question": "Before whom may affidavits be sworn under criminal procedure, and what presumption does the court make regarding powers-of-attorney executed before such authorities?",
+        "referenced_section": [
+            "bnss_section_333",
+            "bsa_section_84"
+        ],
+        "referneced_context": "Procedurally, affidavits to be used before any Court may be sworn before any Judge, Magistrate, Executive Magistrate, Notary, or Commissioner of Oaths. Evidentially, the court shall presume that every document purporting to be a power-of-attorney, and to have been executed before and authenticated by a Notary Public, Judge, or Magistrate, was so executed and authenticated."
+    },
+    {
+        "question": "If a woman dies under unnatural circumstances within seven years of her marriage following cruelty or harassment for dowry, what offence is committed under the penal statute, and how does the evidence law presume the culpability of her husband or his relatives?",
+        "referenced_section": [
+            "bns_section_80",
+            "bsa_section_118"
+        ],
+        "referneced_context": "Under Section 80 of the BNS, such an act constitutes a 'dowry death,' punishable with imprisonment for a term not less than seven years up to life imprisonment. Under Section 118 of the BSA, when it is shown that soon before her death such woman was subjected to cruelty or harassment for or in connection with dowry demands, the Court shall presume that such person had caused the dowry death."
+    },
+    {
+        "question": "What is the penalty for abetting a suicide, and what presumption can the Court draw under evidence law if a married woman commits suicide within seven years of marriage after facing cruelty?",
+        "referenced_section": [
+            "bns_section_108",
+            "bsa_section_117"
+        ],
+        "referneced_context": "Section 108 of the BNS penalizes the abetment of suicide with imprisonment up to ten years and a fine. Section 117 of the BSA provides that if a married woman commits suicide within seven years of marriage and had been subjected to cruelty by her husband or his relative, the Court may presume, having regard to all other circumstances, that such suicide was abetted by her husband or his relative."
+    },
+    {
+        "question": "How is criminal conspiracy defined in the penal code, and how are acts or statements done by one conspirator admitted as evidence against other co-conspirators?",
+        "referenced_section": [
+            "bns_section_61",
+            "bsa_section_8"
+        ],
+        "referneced_context": "Under Section 61 of the BNS, criminal conspiracy is established when two or more persons agree to do, or cause to be done, an illegal act or an act which is not illegal by illegal means. Under Section 8 of the BSA, anything said, done, or written by any one of such persons in reference to their common intention, after the intention was first entertained by any of them, is a relevant fact against each of the persons believed to be conspiring."
+    },
+    {
+        "question": "In a trial for rape where sexual intercourse by the accused is established and the victim states in court that she did not give consent, how does evidence law handle the question of consent alongside the penal definition of rape?",
+        "referenced_section": [
+            "bns_section_63",
+            "bsa_section_120"
+        ],
+        "referneced_context": "Section 63 of the BNS defines rape, which includes sexual acts performed without the woman's consent. Section 120 of the BSA provides that in a prosecution for rape under specified provisions, if the victim states in her evidence before the court that she did not consent, the court shall presume that she did not consent."
+    },
+    {
+        "question": "What punishment is prescribed for rape under the penal code, and is evidence regarding the victim's previous sexual experience admissible to prove consent?",
+        "referenced_section": [
+            "bns_section_64",
+            "bsa_section_48"
+        ],
+        "referneced_context": "Under Section 64 of the BNS, rape is punishable with rigorous imprisonment for not less than ten years, extending to life imprisonment, along with a fine. Under Section 48 of the BSA, evidence of the character of the victim or of such person's previous sexual experience with any person is not relevant on the issue of consent or the quality of consent in prosecutions for rape or attempt to commit rape."
+    },
+    {
+        "question": "How does the penal statute treat acts committed by a person of unsound mind, and who carries the burden of proving this defense in a criminal trial?",
+        "referenced_section": [
+            "bns_section_22",
+            "bsa_section_108"
+        ],
+        "referneced_context": "Section 22 of the BNS provides that an act is not an offence if done by a person who, at the time of doing it, due to unsoundness of mind, was incapable of knowing the nature of the act or that it was wrong or contrary to law. Section 108 of the BSA places the burden of proving that the case falls within this exception on the accused, and the Court shall presume the absence of such circumstances."
+    },
+    {
+        "question": "What constitutes defamation under penal law, and how does the plaintiff's character impact the recovery of damages in civil proceedings related to such acts?",
+        "referenced_section": [
+            "bns_section_356",
+            "bsa_section_50"
+        ],
+        "referneced_context": "Section 356 of the BNS defines defamation as making or publishing an imputation concerning a person intending to harm, or knowing/having reason to believe it will harm, their reputation. Section 50 of the BSA establishes that in civil cases, the fact that a person's character is such as to affect the amount of damages they ought to receive is relevant."
+    },
+    {
+        "question": "What constitutes murder under penal law, and how can a statement made by a deceased victim regarding the cause of their death be admitted as evidence?",
+        "referenced_section": [
+            "bns_section_101",
+            "bsa_section_26"
+        ],
+        "referneced_context": "Section 101 of the BNS defines murder as culpable homicide where the act causing death is done with the intention of causing death or under specific states of knowledge/intent. Section 26 of the BSA makes statements made by a person as to the cause of his death, or any circumstances of the transaction resulting in his death, relevant evidence when the cause of that person's death is in question."
+    },
+    {
+        "question": "How is stolen property defined in the penal code, and what presumption may a court make regarding a person possessing stolen goods shortly after a theft?",
+        "referenced_section": [
+            "bns_section_317",
+            "bsa_section_119"
+        ],
+        "referneced_context": "Section 317 of the BNS defines stolen property as property whose possession has been transferred by theft, extortion, robbery, criminal misappropriation, or criminal breach of trust. Section 119 of the BSA permits the court to presume that a person in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen, unless he can account for his possession."
+    },
+    {
+        "question": "What is the penal definition of forgery, and how can a court receive evidence to determine whether a disputed signature on a document belongs to a specific person?",
+        "referenced_section": [
+            "bns_section_336",
+            "bsa_section_41"
+        ],
+        "referneced_context": "Section 336 of the BNS defines forgery as making any false document or electronic record with intent to cause damage or injury, support any claim or title, or cause any person to part with property. Section 41 of the BSA makes the opinion of any person acquainted with the handwriting of the alleged author a relevant fact when the Court must form an opinion as to who signed or wrote the document."
+    },
+    {
+        "question": "What penal section defines the offence of cheating, and what provisions govern the admissibility of electronic records as evidence during the trial of such offences?",
+        "referenced_section": [
+            "bns_section_318",
+            "bsa_section_63"
+        ],
+        "referneced_context": "Section 318 of the BNS defines cheating as deceiving any person to dishonestly induce them to deliver property or consent to retain property. Section 63 of the BSA details the admissibility conditions and required certification for electronic records to be admitted as evidence in judicial proceedings without further proof of the original."
+    },
+    {
+        "question": "What constitutes giving false evidence in judicial proceedings, and how can the credibility of a witness testifying in court be impeached under evidence law?",
+        "referenced_section": [
+            "bns_section_227",
+            "bsa_section_158"
+        ],
+        "referneced_context": "Section 227 of the BNS defines giving false evidence as making a false statement under oath or express legal provision while knowing or believing it to be false or not believing it to be true. Section 158 of the BSA allows the adverse party (or the party calling the witness with court permission) to impeach a witness's credit by calling witnesses to testify to their unworthiness of credit, proving corruption, or proving former inconsistent statements."
+    },
+    {
+        "question": "At what point does robbery become dacoity under the penal code, and can an accused be legally convicted of dacoity based solely on an accomplice's uncorroborated testimony?",
+        "referenced_section": [
+            "bns_section_310",
+            "bsa_section_138"
+        ],
+        "referneced_context": "Section 310 of the BNS states that robbery is dacoity when five or more persons conjointly commit or attempt to commit a robbery. Section 138 of the BSA specifies that an accomplice is a competent witness against an accused person and that a conviction is not illegal merely because it relies upon the uncorroborated testimony of an accomplice."
+    },
+    {
+        "question": "What penal section deals with the possession of forged or counterfeit bank-notes, and how can expert opinions be utilized to establish authenticity in court?",
+        "referenced_section": [
+            "bns_section_180",
+            "bsa_section_39"
+        ],
+        "referneced_context": "Section 180 of the BNS penalizes possessing forged or counterfeit currency-notes or bank-notes while knowing them to be forged and intending to use them as genuine. Section 39 of the BSA states that when the court has to form an opinion upon points such as foreign law, science, art, handwriting, or finger impressions, the opinions of specially skilled experts are relevant facts."
+    },
+    {
+        "question": "How is voluntarily causing hurt by dangerous weapons penalized under the law, and how can the prior conduct or preparation of the accused be admitted as evidence?",
+        "referenced_section": [
+            "bns_section_118",
+            "bsa_section_6"
+        ],
+        "referneced_context": "Section 118 of the BNS penalizes voluntarily causing hurt or grievous hurt using dangerous weapons, fire, poison, or explosive substances with imprisonment or fine. Section 6 of the BSA makes any fact relevant if it shows or constitutes a motive or preparation for any fact in issue or relevant fact, or if it constitutes the previous or subsequent conduct of any party to the proceeding."
+    },
+    {
+        "question": "What procedure governs the prosecution when a husband or relative of a husband subjects a woman to cruelty?",
+        "referenced_section": [
+            "bns_section_85",
+            "bnss_section_220"
+        ],
+        "referneced_context": "Subjecting a woman to cruelty by her husband or a relative of her husband is an offence defined under Section 85 of the Bharatiya Nyaya Sanhita, 2023. Under Section 220 of the Bharatiya Nagarik Suraksha Sanhita, 2023, no Court shall take cognizance of this offence except upon a police report of facts constituting the offence or upon a complaint made by the aggrieved person or specified relatives (such as father, mother, brother, sister, etc.)."
+    },
+    {
+        "question": "How is the offence of defamation prosecuted, and what are the procedural requirements regarding who can make a complaint?",
+        "referenced_section": [
+            "bns_section_356",
+            "bnss_section_222"
+        ],
+        "referneced_context": "Defamation is defined and punishable under Section 356 of the Bharatiya Nyaya Sanhita, 2023. Under Section 222 of the Bharatiya Nagarik Suraksha Sanhita, 2023, no Court shall take cognizance of the offence except upon a complaint made by a person aggrieved by the offence, subject to specified exceptions such as defamation against high public dignitaries where a Public Prosecutor may initiate proceedings in the Court of Session."
+    },
+    {
+        "question": "What are the procedural steps for proclaiming an absconding person, and what criminal liability arises if the person fails to appear as required by such a proclamation?",
+        "referenced_section": [
+            "bns_section_209",
+            "bnss_section_84"
+        ],
+        "referneced_context": "Under Section 84 of the Bharatiya Nagarik Suraksha Sanhita, 2023, if a Court has reason to believe that a person against whom a warrant has been issued has absconded, it may publish a written proclamation requiring him to appear at a specified place and time. Failure to appear in response to such a proclamation constitutes a punishable offence under Section 209 of the Bharatiya Nyaya Sanhita, 2023."
+    },
+    {
+        "question": "What medical procedure must be followed during the investigation of a victim of rape?",
+        "referenced_section": [
+            "bns_section_64",
+            "bnss_section_184"
+        ],
+        "referneced_context": "Rape is punishable under Section 64 of the Bharatiya Nyaya Sanhita, 2023. When an investigation into rape is conducted, Section 184 of the Bharatiya Nagarik Suraksha Sanhita, 2023 mandates that the victim be examined by a registered medical practitioner employed in a hospital run by the Government or local authority, with her consent, within twenty-four hours from receiving information regarding the offence."
+    },
+    {
+        "question": "When a Court of Session passes a sentence of death for the offence of murder, what procedural step is required before that sentence can be executed?",
+        "referenced_section": [
+            "bns_section_103",
+            "bnss_section_407"
+        ],
+        "referneced_context": "Murder is punishable with death or life imprisonment under Section 103 of the Bharatiya Nyaya Sanhita, 2023. When a Court of Session passes a sentence of death, Section 407 of the Bharatiya Nagarik Suraksha Sanhita, 2023 mandates that the proceedings be submitted to the High Court, and the death sentence cannot be executed unless it is confirmed by the High Court."
+    },
+    {
+        "question": "What rule governs Court cognizance when prosecution is initiated for a criminal conspiracy?",
+        "referenced_section": [
+            "bns_section_61",
+            "bnss_section_217"
+        ],
+        "referneced_context": "Criminal conspiracy is penalized under Section 61 of the Bharatiya Nyaya Sanhita, 2023. Under Section 217 of the Bharatiya Nagarik Suraksha Sanhita, 2023, no Court shall take cognizance of a criminal conspiracy to commit an offence punishable with death, life imprisonment, or rigorous imprisonment for two years or upwards unless the State Government or District Magistrate has given consent in writing to the initiation of proceedings."
+    },
+    {
+        "question": "What sanction is required before a Court can take cognizance of an offence involving the promotion of enmity between different groups on grounds of religion or race?",
+        "referenced_section": [
+            "bns_section_196",
+            "bnss_section_217"
+        ],
+        "referneced_context": "Promoting enmity between different groups on grounds of religion, race, residence, or language is punishable under Section 196 of the Bharatiya Nyaya Sanhita, 2023. Under Section 217 of the Bharatiya Nagarik Suraksha Sanhita, 2023, no Court shall take cognizance of such an offence without the previous sanction of the Central Government or the State Government."
+    },
+    {
+        "question": "How can a Court deal summarily with a witness who intentionally gives false evidence in a judicial proceeding?",
+        "referenced_section": [
+            "bns_section_227",
+            "bnss_section_383"
+        ],
+        "referneced_context": "Giving false evidence in a judicial proceeding is defined as an offence under Section 227 of the Bharatiya Nyaya Sanhita, 2023. Under Section 383 of the Bharatiya Nagarik Suraksha Sanhita, 2023, if a Court of Session or Magistrate of the first class forms an opinion that a witness appearing before it has knowingly or wilfully given false evidence, it may take cognizance of the offence summarily and sentence the offender after giving him reasonable opportunity to show cause."
+    },
+    {
+        "question": "What procedural inquiry is mandatory when a woman dies under suspicious circumstances within seven years of marriage?",
+        "referenced_section": [
+            "bns_section_80",
+            "bnss_section_196"
+        ],
+        "referneced_context": "Where a woman dies under unnatural circumstances within seven years of marriage (constituting dowry death under Section 80 of the Bharatiya Nyaya Sanhita, 2023), Section 196 of the Bharatiya Nagarik Suraksha Sanhita, 2023 requires that the nearest Magistrate empowered to hold inquests shall conduct an inquiry into the cause of death."
+    },
+    {
+        "question": "What requirement must be met for a Court to take cognizance of disobedience to an order issued by a public servant?",
+        "referenced_section": [
+            "bns_section_223",
+            "bnss_section_215"
+        ],
+        "referneced_context": "Disobedience to an order duly promulgated by a public servant is punishable under Section 223 of the Bharatiya Nyaya Sanhita, 2023. Under Section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023, no Court shall take cognizance of this offence except on the written complaint of the public servant concerned or of some other public servant to whom he is administratively subordinate."
+    },
+    {
+        "question": "What procedure applies when a person previously convicted of an offence relating to property, such as theft, is again accused of a similar offence?",
+        "referenced_section": [
+            "bns_section_303",
+            "bnss_section_363"
+        ],
+        "referneced_context": "Theft is punishable under Section 303 of the Bharatiya Nyaya Sanhita, 2023. Under Section 363 of the Bharatiya Nagarik Suraksha Sanhita, 2023, where a person previously convicted of a property offence punishable with imprisonment for three years or more is again charged with a similar offence, the Magistrate shall commit him to the Court of Session if he considers that the accused ought to receive a sentence more severe than the Magistrate is empowered to inflict."
+    },
+    {
+        "question": "How does police custody detention operate when an investigation into an offence like a terrorist act cannot be completed within twenty-four hours?",
+        "referenced_section": [
+            "bns_section_113",
+            "bnss_section_187"
+        ],
+        "referneced_context": "Terrorist acts are defined and penalized under Section 113 of the Bharatiya Nyaya Sanhita, 2023. Under Section 187 of the Bharatiya Nagarik Suraksha Sanhita, 2023, when an investigation cannot be completed within 24 hours, the accused must be produced before a Magistrate, who may authorize detention in custody (police or judicial) for specified periods upon sufficient grounds."
+    },
+    {
+        "question": "Can the offence of causing death by negligence be compounded by the victim's legal representatives under criminal procedure rules?",
+        "referenced_section": [
+            "bns_section_106",
+            "bnss_section_359"
+        ],
+        "referneced_context": "Causing death by negligence is penalized under Section 106 of the Bharatiya Nyaya Sanhita, 2023. Under Section 359 of the Bharatiya Nagarik Suraksha Sanhita, 2023, which exhaustively lists offences that can be compounded with or without the permission of the Court, Section 106 is not included, making it a non-compoundable offence."
+    },
+    {
+        "question": "How does a Civil or Criminal Court handle an act of intentional insult committed in its view or presence during a judicial proceeding?",
+        "referenced_section": [
+            "bns_section_267",
+            "bnss_section_384"
+        ],
+        "referneced_context": "Intentionally insulting or interrupting a public servant during a judicial proceeding is an offence under Section 267 of the Bharatiya Nyaya Sanhita, 2023. Under Section 384 of the Bharatiya Nagarik Suraksha Sanhita, 2023, if such an offence is committed in the presence or view of any Court, the Court may detain the offender and take cognizance of the offence on the same day, sentencing him after affording a reasonable opportunity to show cause."
+    },
+    {
+        "question": "What protection procedure is available to a witness who faces criminal intimidation during a criminal trial?",
+        "referenced_section": [
+            "bns_section_351",
+            "bnss_section_216"
+        ],
+        "referneced_context": "Criminal intimidation is defined under Section 351 of the Bharatiya Nyaya Sanhita, 2023. To safeguard witnesses facing threats or intimidation, Section 216 of the Bharatiya Nagarik Suraksha Sanhita, 2023 provides a procedure for witnesses to apply for appropriate state protection and directives from the Court during trial."
+    },
+    {
+        "question": "What power does an Executive Magistrate or police officer have to disperse an unlawful assembly?",
+        "referenced_section": [
+            "bns_section_189",
+            "bnss_section_148"
+        ],
+        "referneced_context": "Unlawful assembly is defined under Section 189 of the Bharatiya Nyaya Sanhita, 2023. Under Section 148 of the Bharatiya Nagarik Suraksha Sanhita, 2023, an Executive Magistrate or an officer in charge of a police station may command an unlawful assembly to disperse; if it fails to do so, force may be used to disperse the assembly and arrest its members."
+    },
+    {
+        "question": "What search procedures can a Magistrate authorize when a location is suspected of storing stolen property?",
+        "referenced_section": [
+            "bns_section_317",
+            "bnss_section_97"
+        ],
+        "referneced_context": "Stolen property is defined under Section 317 of the Bharatiya Nyaya Sanhita, 2023. Under Section 97 of the Bharatiya Nagarik Suraksha Sanhita, 2023, a Magistrate who receives information that any place is used for the deposit or sale of stolen property may issue a search warrant authorizing a police officer to enter, search, and seize such property."
+    },
+    {
+        "question": "How is it determined which Court has jurisdiction to try offences under criminal law, such as extortion?",
+        "referenced_section": [
+            "bns_section_308",
+            "bnss_section_21"
+        ],
+        "referneced_context": "Extortion is defined and made punishable under Section 308 of the Bharatiya Nyaya Sanhita, 2023. Section 21 of the Bharatiya Nagarik Suraksha Sanhita, 2023 establishes that any offence under the Bharatiya Nyaya Sanhita may be tried by the High Court, the Court of Session, or any other Court indicated in the First Schedule to the Sanhita."
+    },
+    {
+        "question": "How can a Magistrate grant a tender of pardon to an accomplice during the investigation of an offence such as bribery?",
+        "referenced_section": [
+            "bns_section_170",
+            "bnss_section_343"
+        ],
+        "referneced_context": "Bribery is defined as an offence under Section 170 of the Bharatiya Nyaya Sanhita, 2023. Under Section 343 of the Bharatiya Nagarik Suraksha Sanhita, 2023, a Chief Judicial Magistrate or Metropolitan Magistrate may tender a pardon to an accomplice at any stage of investigation or trial on condition of his making a full and true disclosure of all circumstances relating to the offence."
+    },
+    {
+        "question": "Which Court holds territorial jurisdiction to inquire into or try a charge of criminal breach of trust?",
+        "referenced_section": [
+            "bns_section_316",
+            "bnss_section_201"
+        ],
+        "referneced_context": "Criminal breach of trust is defined under Section 316 of the Bharatiya Nyaya Sanhita, 2023. Under Section 201 of the Bharatiya Nagarik Suraksha Sanhita, 2023, the offence may be inquired into or tried by a Court within whose local jurisdiction the offence was committed, or any part of the property was received, retained, or required to be returned or accounted for."
+    }
+]

@@ -10,7 +10,7 @@ N_PER_ACT    = 50
 ACTS         = ["BNS 2023", "BNSS 2023", "BSA 2023"]
 ACT_KEY_MAP  = {"BNS 2023": "bns", "BNSS 2023": "bnss", "BSA 2023": "bsa"}
 
-OUTPUT_PATH = Path(__file__).parent / "dataset" / "eval_dataset.json"
+OUTPUT_PATH = Path(__file__).parent / "questions" /"eval_dataset.json"
 
 
 

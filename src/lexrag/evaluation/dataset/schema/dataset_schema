@@ -1,0 +1,16 @@
+
+EVALUATION DATASET SCHEMA
+
+column_1: user_input   
+column_2: retrieved_context_ids
+column_3: referenced_context_ids    
+column_4: retrieved_contexts
+column_5: referenced_context
+
+COLUMN DESCRIPTIONS:
+
+1. column_1: user_input - user's original query.
+2. column_2: retrieved_context_ids - it will contain act and section number of retrieved chunks in the format(act_section_number).
+3. column_3: referenced_context_ids - it will contain act and section number of ground_turth sections and acts which are actaully needed to answer user's query in the format(act_section_number).
+4. column_4: retrieved_contexts - it will contain the actual retrieved top_k chunks texts.
+5. column_5: referenced_context - it will contain the ground_turth texts from the actual law which are used to truly answer the question.
