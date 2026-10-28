@@ -15,7 +15,7 @@ bsa  = load_titles("bsa_sections.json")
 all_valid = [t["id"] for lst in [bns, bnss, bsa] for t in lst]
 print("total_ids:", len(all_valid))
 
-PATH_TO_DATASET = ""
+PATH_TO_DATASET = Path(__file__).parent / "questions" / "question_dataset.json"
 
 with open(PATH_TO_DATASET, "r") as f:
     out = json.load(f)
