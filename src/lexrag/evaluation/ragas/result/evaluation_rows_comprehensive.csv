@@ -1,0 +1,164 @@
+question,id_based_context_recall,id_based_context_precision,hit_at_5,mrr,context_recall_llm
+"What is the legal consequence under Section 170 of the Bharatiya Nyaya Sanhita (BNS), 2023, when a person offers or attempts to procure gratification?",1.0,1.0,1,1.0,0.5
+"If an attacker throws a strong, burning alkaline substance (like concentrated lye) instead of a traditional acidic liquid, does Section 124 of the BNS 2023 regarding acid attacks still apply?",1.0,1.0,1,1.0,1.0
+"A back-alley practitioner performs a dangerous, consensual, illegal abortion resulting in the woman's death. If the practitioner claims they lacked intent to kill, are they guilty of causing her death under Section 90 of the BNS 2023?",1.0,1.0,1,1.0,1.0
+What is the minimum penalty for using a deadly weapon during a robbery or dacoity under Section 311 of the BNS 2023?,1.0,0.5,1,0.5,1.0
+What is the penalty for murder committed by a person under a sentence of life imprisonment under Section 104 of the BNS 2023?,1.0,1.0,1,1.0,1.0
+A man attempts to commit robbery while armed with a deadly weapon like a machete before being arrested. What is his minimum penalty under Section 312 of the BNS 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 54 of the BNS 2023, what is the legal status of an abettor who is physically present at the scene when the offence is committed?",1.0,1.0,1,1.0,1.0
+What is the legal consequence and penalty under Section 81 of the BNS 2023 if a man deceitfully induces a woman to cohabit or have sexual intercourse under the belief that they are lawfully married?,1.0,1.0,1,1.0,1.0
+How does Section 336 of the BNS 2023 scale penalties for different types of forgery based on the harm intended?,1.0,1.0,1,1.0,1.0
+"Under Section 89 of the BNS 2023, can a doctor legally perform an abortion on a conscious, capable woman without her consent, even if done in good faith to save her life?",1.0,0.3333333333333333,1,0.3333333333333333,0.5
+What are the penalties under Section 155 of the BNS 2023 for receiving property known to be acquired through war or cross-border depredation?,1.0,1.0,1,1.0,1.0
+"If a courier entrusted with a closed receptacle dishonestly breaks it open during transit, what penalty does he face under Section 334 of the BNS 2023?",1.0,1.0,1,1.0,1.0
+"If a husband has sexual intercourse with his wife without her consent while they are living separately, can he be charged under Section 67 of the BNS 2023?",1.0,1.0,1,1.0,1.0
+Is a suicide attempt by a teenager without intent to compel or restrain a public servant considered an offence under Section 226 of the BNS 2023?,1.0,1.0,1,1.0,0.5
+What is the penalty under Section 92 of the BNS 2023 if an act committed against a pregnant woman causes the death of her quick unborn child?,1.0,1.0,1,1.0,1.0
+"If a protester abets insubordination by a soldier and the soldier acts on it, can the protester be charged under Section 166 of the BNS 2023?",1.0,1.0,1,1.0,1.0
+"What are the penalties under Section 140 of the BNS 2023 for aggravated forms of kidnapping and abduction such as for murder, ransom, or secret confinement?",1.0,1.0,1,1.0,1.0
+"Under Section 100 of the BNS 2023, when does causing the death of a child during childbirth amount to culpable homicide?",1.0,0.5,1,0.5,1.0
+Can an actor be penalized under Section 168 of the BNS 2023 for wearing a military uniform during a dramatic performance?,1.0,1.0,1,1.0,0.0
+What specific intent is required under Section 183 of the BNS 2023 to make the removal of a government stamp or effacement of writing a criminal offence?,1.0,1.0,1,1.0,1.0
+What is the penalty under Section 97 of the BNS 2023 for kidnapping or abducting a child under ten years of age to steal movable property from them?,1.0,1.0,1,1.0,1.0
+What is the penalty under Section 211 of the BNS 2023 for intentionally omitting to give information to a public servant when legally bound to do so?,1.0,1.0,1,1.0,1.0
+How is the offence of snatching defined and distinguished from theft under Section 304 of the BNS 2023?,1.0,1.0,1,1.0,0.5
+"If an official conceals a design to wage war against the Government of India by deleting intelligence reports, what offence and penalty apply under Section 150 of the BNS 2023?",1.0,1.0,1,1.0,1.0
+What is the penalty under Section 348 of the BNS 2023 for making or possessing instruments used to counterfeit property marks?,1.0,1.0,1,1.0,1.0
+What specific rights of body and property are protected under the right of private defence in Section 35 of the BNS 2023?,1.0,1.0,1,1.0,1.0
+What penalty applies under Section 287 of the BNS 2023 for negligently storing combustible matter in a way that endangers human life?,1.0,1.0,1,1.0,1.0
+What are the penalties under Section 263 of the BNS 2023 for resisting or obstructing the lawful apprehension of another person?,1.0,0.5,1,0.5,1.0
+What is the smuggler's liability under Section 95 of the BNS 2023 for employing a child to commit an offence?,1.0,1.0,1,1.0,0.5
+How is cheating by personation defined and punished under Section 319 of the BNS 2023?,1.0,1.0,1,1.0,1.0
+What protection is provided under Section 27 of the BNS 2023 to a medical professional performing an act in good faith for a child's benefit with parental consent?,1.0,1.0,1,1.0,1.0
+"Under Section 189 of the BNS 2023, can an assembly that was initially lawful subsequently become an unlawful assembly?",1.0,1.0,1,1.0,1.0
+Is giving false statements in a standard administrative application punishable as false evidence in a judicial proceeding under Section 229 of the BNS 2023?,1.0,1.0,1,1.0,0.5
+Can a person be charged under Section 224 of the BNS 2023 for threatening an injury to a relative or child of a public servant to induce inaction?,1.0,1.0,1,1.0,1.0
+Does Section 47 of the BNS 2023 apply to the abetment in India of an act committed outside India if that act would constitute an offence in India?,1.0,0.5,1,0.5,1.0
+"Under Section 73 of the BNS 2023, is it permissible to print or publish court proceedings related to sexual offences without court authorization?",1.0,1.0,1,1.0,1.0
+What is the penalty under Section 232 of the BNS 2023 for threatening a witness to give false evidence?,1.0,1.0,1,1.0,1.0
+"Under Section 26 of the BNS 2023, is a medical professional liable for an act done in good faith for a person's benefit with consent if death occurs accidentally?",1.0,1.0,1,1.0,1.0
+What constitutes the offence and penalty for attempt to commit culpable homicide under Section 110 of the BNS 2023?,1.0,1.0,1,1.0,1.0
+Does a police officer's failure to record a complaint regarding a minor theft fall under the criminal non-recording provisions of Section 199 of the BNS 2023?,0.0,0.0,0,0.0,0.0
+"What is the maximum compensation amount a Sessions Judge can order for a frivolous or vexatious transfer application under Section 448 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",1.0,1.0,1,1.0,0.75
+"If a co-defendant in a joint trial is sentenced to more than 7 years, to which court can a co-accused appeal under Section 415 of the BNSS 2023?",1.0,1.0,1,1.0,0.6666666666666666
+"Under Section 184 of the BNSS 2023, can a victim of a sexual offence be examined by a registered medical practitioner at a private clinic if a government medical officer is unavailable?",1.0,1.0,1,1.0,1.0
+"What conditional orders can an Executive Magistrate issue regarding public nuisances, dangerous structures, or animals under Section 152 of the BNSS 2023?",1.0,1.0,1,1.0,1.0
+"Under Section 347 of the BNSS 2023, is a party entitled to receive a copy of a judge or Magistrate's local inspection memorandum free of cost?",1.0,1.0,1,1.0,0.5
+What procedure does a court follow to order the forfeiture of property identified as proceeds of crime under Section 120 of the BNSS 2023?,1.0,1.0,1,1.0,1.0
+How are forfeited proceeds of crime distributed to affected victims under Section 107 of the BNSS 2023?,1.0,1.0,1,1.0,1.0
+Which authorities must give written consent to initiate prosecution for criminal conspiracy under Section 217 of the BNSS 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 64 of the BNSS 2023, what conditions must be met for a summons served through electronic communication to be deemed validly served?",1.0,0.3333333333333333,1,0.3333333333333333,0.0
+What is a police officer's duty under Section 169 of the BNSS 2023 upon receiving information regarding a design to commit a cognizable offence?,1.0,1.0,1,1.0,0.5
+How does Section 496 of the BNSS 2023 empower the High Court or Court of Session to direct the levy of amounts due on recognizances?,1.0,1.0,1,1.0,1.0
+Does Section 428 of the BNSS 2023 regarding rules for appellate judgments apply to High Courts or only to subordinate appellate courts?,1.0,1.0,1,1.0,0.75
+Can a court issue an arrest warrant for a person who fails to appear in court in breach of a bail bond under Section 92 of the BNSS 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 392 of the BNSS 2023, can a judge pronounce judgment in the absence of an accused person who fails to attend?",1.0,1.0,1,1.0,0.6666666666666666
+"Under Section 154 of the BNSS 2023, what parameters are specified for performing an act required by a conditional order?",1.0,0.3333333333333333,1,0.3333333333333333,1.0
+"Under Section 52 of the BNSS 2023, what is the procedure for forwarding a medical examination report of an arrested person to the Magistrate?",1.0,1.0,1,1.0,0.0
+"Under Section 288 of the BNSS 2023, what authorization is required for a Magistrate to employ an officer to record evidence or summary records?",1.0,1.0,1,1.0,1.0
+"Under Section 41 of the BNSS 2023, do Magistrates have authority to directly arrest or order the arrest of an offender for crimes committed in their presence?",1.0,1.0,1,1.0,1.0
+What powers does a court retain while handling plea bargaining proceedings under Section 296 of the BNSS 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 214 of the BNSS 2023, can an Additional Sessions Judge try cases without assignment or transfer from the Sessions Judge?",1.0,1.0,1,1.0,1.0
+What provisions does Section 9 of the BNSS 2023 establish regarding Courts of Judicial Magistrates and Special Courts?,1.0,1.0,1,1.0,1.0
+"Under Section 235 of the BNSS 2023, is it necessary to specify exact dates and individual items when framing a charge for criminal breach of trust or dishonest misappropriation of money?",1.0,1.0,1,1.0,1.0
+"Under Section 511 of the BNSS 2023, what factor regarding the defense's timing in raising objections must the court consider when evaluating whether an error caused a failure of justice?",1.0,1.0,1,1.0,1.0
+"Under Section 83 of the BNSS 2023, what action must a Magistrate take when an arrested person executes a required bail bond for a bailable offence?",1.0,1.0,1,1.0,1.0
+"Under Section 328 of the BNSS 2023, what examination details are government scientific experts forbidden from disclosing without permission from their department head?",1.0,0.5,1,0.5,1.0
+What right to free legal aid does an indigent accused person have under Section 341 of the BNSS 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 161 of the BNSS 2023, what power does an Executive Magistrate have to issue an immediate injunction to prevent imminent danger from a public nuisance?",1.0,1.0,1,1.0,1.0
+Does the restriction in Section 526 of the BNSS 2023 against practicing advocates acting as Magistrates apply to a retired advocate who has ceased practice?,1.0,1.0,1,1.0,0.5
+What procedure is followed under Section 433 of the BNSS 2023 when judges of an appellate court bench are equally divided in opinion?,1.0,0.5,1,0.5,1.0
+"Under Section 490 of the BNSS 2023, can a court or officer permit an accused to deposit a sum of money in lieu of executing a personal bond with sureties?",1.0,1.0,1,1.0,1.0
+"Under Section 126 of the Bharatiya Sakshya Adhiniyam (BSA), 2023, are there any specific criminal offences where a spouse is incompetent to testify?",1.0,0.5,1,0.5,1.0
+What fundamental rule of evidence does Section 56 of the BSA 2023 establish regarding primary and secondary evidence for proving documentary contents?,1.0,1.0,1,1.0,1.0
+What procedural relief does Section 71 of the BSA 2023 offer when proving an attested document that was not required by law to be attested?,1.0,1.0,1,1.0,1.0
+"Under Section 144 of the BSA 2023, does a person summoned merely to produce a document become a witness subject to cross-examination?",1.0,1.0,1,1.0,1.0
+What two categories of legal publications are made relevant in court under Section 32 of the BSA 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 9 of the BSA 2023, how does evidence eliminating other suspect possibilities become relevant to establish the liability of the accused?",0.0,0.0,0,0.0,0.0
+"Under Section 101 of the BSA 2023, can oral or expert evidence be given to explain illegible characters or technical terms in a written document?",1.0,1.0,1,1.0,1.0
+What conditions must be met for entries in books of account or electronic records to be relevant evidence under Section 28 of the BSA 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 86 of the BSA 2023, does a court presume the authenticity and integrity of an electronic record if it is not designated as a secure electronic record?",1.0,1.0,1,1.0,1.0
+"Under Section 102 of the BSA 2023, who has the right to give evidence of agreement terms that vary or contradict a written document?",1.0,1.0,1,1.0,1.0
+"Under Section 137 of the BSA 2023, can a witness be excused from answering a relevant question on the ground that the answer will criminate them?",1.0,1.0,1,1.0,1.0
+What is the legal effect under Section 34 of the BSA 2023 when a prior judgment is produced to bar a second suit or trial?,1.0,1.0,1,1.0,0.5
+"Under Section 27 of the BSA 2023, under what conditions is a witness's previous deposition admissible in a subsequent proceeding?",1.0,1.0,1,1.0,1.0
+How does Section 69 of the BSA 2023 treat a party's admission of executing an attested document?,1.0,1.0,1,1.0,1.0
+"Under Section 58 of the BSA 2023, what condition must a mechanical copy satisfy to qualify as admissible secondary evidence?",1.0,1.0,1,1.0,1.0
+"Under Section 115 of the BSA 2023, what weapons must be used against armed forces or police to raise a presumption of committing an offence against public order?",1.0,1.0,1,1.0,1.0
+How does Section 113 of the BSA 2023 assign the burden of proof regarding ownership when a person is shown to be in possession of something?,1.0,1.0,1,1.0,1.0
+"Under Section 125 of the BSA 2023, what specific procedural safeguards must be implemented when recording testimony from a witness unable to speak?",1.0,1.0,1,1.0,1.0
+"Under Section 150 of the BSA 2023, is a witness required to answer a question that injures their character if the question relates to a matter directly relevant to the suit?",1.0,1.0,1,1.0,1.0
+"Under Section 149 of the BSA 2023, what restrictions are imposed on cross-examination regarding the victim's moral character or prior sexual experience in sexual assault cases?",1.0,0.5,1,0.5,1.0
+"Under Section 132 of the BSA 2023, are facts observed by a legal practitioner showing a crime or fraud committed after the commencement of employment protected by professional privilege?",1.0,1.0,1,1.0,1.0
+What rule of conclusive proof regarding legitimacy during marriage is established by Section 116 of the BSA 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 159 of the BSA 2023, can independent evidence of corroborative circumstances be admitted to support the credibility of a witness?",1.0,1.0,1,1.0,1.0
+"Under Section 16 of the BSA 2023, are statements made by persons from whom parties to a suit derive their interest admissible as admissions?",1.0,1.0,1,1.0,1.0
+What rule excluding oral evidence to prove terms of written contracts or property dispositions is established by Section 94 of the BSA 2023?,1.0,0.5,1,0.5,1.0
+"Under Section 4 of the BSA 2023, when are facts not directly in issue considered relevant as part of the same transaction (res gestae)?",1.0,1.0,1,1.0,1.0
+"Under Section 72 of the BSA 2023, can the court compare a disputed signature, writing, or seal with an admitted or proved genuine signature?",1.0,1.0,1,1.0,1.0
+"Under Section 100 of the BSA 2023, when can evidence be given to show that a document's description applies partly to one set of facts and partly to another?",1.0,1.0,1,1.0,0.0
+How does Section 134 of the BSA 2023 protect confidential communications between a client and their legal professional adviser?,1.0,1.0,1,1.0,1.0
+"Under Section 166 of the BSA 2023, what is the consequence when a party calls for and inspects a document produced by the opposing party after notice?",1.0,1.0,1,1.0,0.5
+What rule regarding the initial burden of proof (onus probandi) is established by Section 104 of the BSA 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 95 of the BSA 2023, is oral evidence admissible to contradict, vary, add to, or subtract from the terms of a written contract?",1.0,0.5,1,0.5,1.0
+"Under Section 61 of the BSA 2023, can an electronic or digital record be denied admissibility solely because of its digital format?",1.0,1.0,1,1.0,1.0
+"Does the Bharatiya Sakshya Adhiniyam, 2023 apply to proceedings before an arbitrator under Section 1?",1.0,1.0,1,1.0,1.0
+When are leading questions prohibited in examination-in-chief or re-examination under Section 146 of the BSA 2023?,1.0,1.0,1,1.0,1.0
+What presumption regarding information in Electronic Signature Certificates is established under Section 87 of the BSA 2023?,1.0,1.0,1,1.0,1.0
+"Under Section 169 of the BSA 2023, what is the legal effect of the improper admission or rejection of evidence on a trial or decision?",1.0,1.0,1,1.0,0.0
+"How does Section 103 of the BSA 2023 preserve the provisions of the Indian Succession Act, 1925 regarding the construction of wills?",1.0,1.0,1,1.0,1.0
+"Under Section 68 of the BSA 2023, how can a document required by law to be attested be proved if no attesting witness can be found?",1.0,1.0,1,1.0,1.0
+"Under Section 147 of the BSA 2023, what right does an adverse party have to object when a witness gives oral testimony about the contents of a document?",1.0,1.0,1,1.0,1.0
+"Under Section 158 of the BSA 2023, under what circumstances may the party who calls a witness impeach that witness's credibility?",1.0,1.0,1,1.0,1.0
+"Under Section 10 of the BSA 2023, what facts are relevant in suits where damages or compensation are claimed?",1.0,1.0,1,1.0,1.0
+"How is 'cross-examination' defined under Section 142 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",1.0,0.25,1,0.25,1.0
+"When a registered medical practitioner conducts an examination of a victim of alleged rape, what standard procedure governs the examination and submission of the medical report, and what substantive penal provision defines the offence of rape?",0.5,0.5,1,1.0,0.5
+"What procedural requirements must a court satisfy when issuing a written proclamation for an absconding accused, and what penal liability arises if the person fails to appear without a valid excuse as specified in the proclamation?",0.5,0.5,1,1.0,0.5
+"Under what statutory conditions can a court take cognizance of an offence involving cruelty to a married woman by her husband or his relatives, and how is cruelty defined under the substantive penal code?",0.5,0.5,1,1.0,0.5
+"How does the procedure for taking cognizance of defamation committed against high constitutional functionaries like the President or Vice-President differ from ordinary cases, and what act constitutes defamation under the penal code?",0.5,0.5,1,1.0,0.5
+"If an individual intentionally interrupts or insults a public servant during a judicial proceeding, how can the presiding court summarily deal with the contempt, and what is the substantive penalty for this act?",1.0,0.75,1,1.0,1.0
+"What summary procedure can a Court of Session or Magistrate execute if a witness gives false evidence during a judicial trial, and what substantive punishment does the penal law prescribe for giving false evidence?",1.0,1.0,1,1.0,1.0
+"What process is prescribed when a witness intentionally fails to attend court in obedience to a summons, and what penal liability applies under the substantive law for non-attendance?",1.0,1.0,1,1.0,1.0
+"What procedural precondition restricts court cognizance of disobedience to an order promulgated by a public servant, and what penal consequences are incurred if the disobedience endangers human life or safety?",0.5,0.5,1,1.0,0.5
+"What procedural rule requires trials of sexual offences to be held away from public view, and what substantive offence is committed if someone publishes the victim's identity without authorization?",1.0,1.0,1,1.0,1.0
+"What finding must a court record when acquitting an accused person on grounds of insanity, and how does the penal code define non-liability for acts committed by a person of unsound mind?",0.5,0.5,1,1.0,0.5
+"What procedural duties are imposed on police officers investigating unnatural or suspicious deaths, and how is the substantive offence of causing death by negligence punished under penal law?",1.0,0.75,1,1.0,1.0
+"Which serious property crimes impose a legal obligation on the public to inform authorities, and what is the punishment for harbouring offenders involved in dacoity?",0.5,0.5,1,1.0,0.5
+"What prior sanction is necessary before a court can proceed against a public servant for an official act, and what criminal liability exists under substantive law if a public servant frames a false record to shield someone from punishment?",0.5,0.5,1,1.0,0.5
+"Under what statutory circumstances may civil force be deployed to disperse a crowd, and what elements define an unlawful assembly under the substantive penal code?",1.0,1.0,1,1.0,1.0
+"Which territorial jurisdictions possess venue authority to try the offence of criminal breach of trust, and what constitutes the substantive offence under penal law?",1.0,1.0,1,1.0,1.0
+"What statutory authority enables a magistrate to compel the immediate restoration of an abducted female, and how is abduction defined in contrast to kidnapping?",1.0,0.75,1,1.0,1.0
+"What procedural authorization must be obtained before a court takes cognizance of a criminal conspiracy against the State, and how is criminal conspiracy defined as a substantive offence?",1.0,0.8333333333333333,1,1.0,0.5
+"Who is legally qualified to initiate a court complaint for bigamy, and what punishment does the penal code specify for marrying again during the lifetime of a spouse?",0.5,0.16666666666666666,1,0.3333333333333333,0.5
+"What order can an Executive Magistrate issue to restrain the repetition or continuation of a public nuisance, and how is public nuisance defined under substantive law?",0.5,0.5,1,1.0,0.5
+"Under what conditions can a Magistrate issue a search warrant for a location suspected of holding stolen goods, and what criteria define stolen property under penal law?",0.5,0.5,1,1.0,0.5
+"If a married woman dies under unnatural circumstances within seven years of marriage following continuous harassment for dowry, what penal offence is committed under the substantive criminal law, and what statutory presumption regarding its causation arises under evidence law?",1.0,0.8333333333333333,1,1.0,1.0
+"When a married woman commits suicide within seven years from the date of her marriage after being subjected to cruelty by her husband, what substantive offence applies to those who abetted her, and what evidentiary presumption can the court draw regarding their role?",1.0,0.75,1,1.0,1.0
+"In a prosecution for rape where sexual intercourse by the accused is proved and the victim states in her testimony that she did not consent, how does substantive law penalize the act, and what presumption does evidence law mandate regarding her consent?",1.0,1.0,1,1.0,1.0
+"In a trial for gang rape, what section of the substantive penal law defines the punishment for the crime, and how does the evidence law restrict the defence from introducing evidence regarding the victim's past sexual experience or general character?",1.0,1.0,1,1.0,1.0
+"How is an agreement between two or more persons to commit an illegal act penalized under criminal law, and what rule under evidence law allows statements or acts made by one co-conspirator to be used against the others?",0.5,0.5,1,1.0,0.5
+"What offence is committed when a witness gives false evidence in a judicial proceeding, and how does the law of evidence compel witnesses to referenced_context potentially incriminatory questions while protecting them from self-incrimination?",1.0,0.8333333333333333,1,1.0,1.0
+"If an individual fraudulently uses a forged electronic record as genuine, what offence is committed under the penal code, and what statutory conditions must be satisfied under evidence law for electronic records to be admissible as evidence?",1.0,0.75,1,1.0,0.5
+"When a person publishes false imputations intended to harm another's reputation, what criminal offence is committed, and how does evidence law address the relevance of the injured party's character in civil proceedings for damages arising from that harm?",1.0,0.7,1,1.0,1.0
+"If an accused claims immunity from criminal liability on the ground that the act was committed while involuntarily intoxicated, which section of the penal code grants this exception, and who bears the burden of proving this defense under evidence law?",1.0,0.8333333333333333,1,1.0,1.0
+"What offence is committed when a person falsely institutes criminal proceedings against another to cause injury, and how does evidence law protect police officers and magistrates from being forced to reveal their sources of information regarding crimes?",0.5,0.5,1,1.0,0.5
+"When an individual entrusted with property dishonestly misappropriates it for their own use, what offence is committed, and how does evidence law assign the burden of proof for facts especially within the knowledge of that individual?",1.0,0.5,1,0.5,1.0
+"Which penal provision defines the crime of waging war against the Government of India, and how can official state documents relevant to national security be withheld from evidence during a trial under evidence law?",0.5,0.5,1,1.0,0.5
+"If a person is found in possession of property recently stolen from a dwelling house, what substantive offence governs stolen property, and what natural presumption may the court draw regarding the possessor under evidence law?",0.5,0.5,1,1.0,0.5
+"What offence is committed when a person fraudulently deceives someone to deliver property, and how does evidence law permit the court to evaluate disputed handwriting or signatures through non-expert acquaintance testimony?",1.0,0.8333333333333333,1,1.0,1.0
+"When a person causes the death of another with the intention of causing death, what offence is committed under penal law, and under what evidence rule are statements made by the victim regarding the cause of their death admissible in court?",0.0,0.0,0,0.0,0.0
+"If an accused makes a confession to a police officer during investigation, how does the admissibility of such a confession under evidence rules interact with the procedure prescribed for recording confessions by a Magistrate?",1.0,0.8333333333333333,1,1.0,1.0
+"What is the evidentiary status of an accused person who chooses to give evidence on their own behalf during trial, and can they be compelled to referenced_context questions that might incriminate them?",0.0,0.0,0,0.0,0.3333333333333333
+How does the evidentiary value of an accomplice's testimony function when a tender of pardon has been granted to them during an inquiry or trial?,0.5,0.5,1,1.0,0.3333333333333333
+"In a prosecution for rape where medical examination of the victim is conducted during investigation, what restriction does evidence law place on using the victim's character or previous sexual experience during cross-examination or trial?",1.0,0.75,1,1.0,1.0
+"How can a Magistrate compel a person to provide specimen handwriting during an investigation, and how is that specimen used by the court to prove identity?",0.5,0.5,1,1.0,0.5
+"How does procedural law facilitate the admission of reports from Government scientific experts in court without calling them as witnesses, and what general evidentiary rule governs expert opinions?",0.5,0.5,1,1.0,0.5
+"When police record search and seizure procedures using audio-video electronic means during an investigation, what requirements must be satisfied under evidence law for that recording to be admissible in court?",1.0,0.7,1,1.0,0.5
+"What procedural rule prevents a person from being tried twice for the same offence, and how is the previous judgment proved relevant under evidence rules?",0.5,0.5,1,1.0,0.5
+How does procedural law modify the general rule that facts must be proved by oral evidence when dealing with witnesses whose evidence is of a formal character?,0.0,0.0,0,0.0,0.3333333333333333
+"Under what evidentiary circumstances is an accused's previous bad character relevant, and what procedural methods are used to prove a prior conviction in court?",1.0,0.8333333333333333,1,1.0,0.6
+"If an accused person has absconded with no immediate prospect of arrest, how can a court record witness depositions, and under what evidence rule can those depositions be used in a subsequent trial when the accused is caught?",0.5,0.5,1,1.0,1.0
+"What procedural protection requires prior sanction to prosecute a Magistrate or Judge for acts done in their official capacity, and what privilege protects them from being compelled to referenced_context questions about their judicial conduct?",1.0,1.0,1,1.0,1.0
+"What procedural bar exists for taking cognizance of offences relating to documents given in evidence, and who decides whether such a document is admissible in the proceeding?",0.0,0.0,0,0.0,0.5
+How does a police inquest into an unnatural death of a married woman connect with the legal presumption regarding dowry death during trial?,1.0,0.75,1,1.0,1.0
+"How can a police officer use the police diary maintained during an investigation while testifying in court, and what evidentiary rule governs this use?",0.5,0.5,1,1.0,0.6

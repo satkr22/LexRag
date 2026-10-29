@@ -1,0 +1,6 @@
+{
+  "id_based_context_recall": 0.8742331288343558,
+  "id_based_context_precision": 0.7562883435582821,
+  "hit_at_5": 0.9386503067484663,
+  "mrr": 0.8253578732106338
+}
