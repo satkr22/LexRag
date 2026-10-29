@@ -7,7 +7,7 @@ from openai import AsyncOpenAI
 from google import genai
 from google.genai import types
 
-from src.lexrag.retrieval.query_llm.data_models import QueryResponse
+from retrieval.query_llm.data_models import QueryResponse
 
 
 dotenv.load_dotenv()

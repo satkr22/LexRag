@@ -87,12 +87,12 @@ class LegalChunker:
             if not text:
                 continue
 
-            # Detect introductory section line (e.g., "In this Sanhita, unless...")
+            # Detect introductory section line (ex: "In this Sanhita, unless...")
             if idx == 0 and not classes and not has_lbl:
                 chapeau = text
                 continue
 
-            # Top-level subsection (e.g., (1), (2), (28))
+            # Top-level subsection (ex: (1), (2), (28))
             if not classes:
                 subsections.append({"parent": text, "children": []})
             # Nested clause/explanation/illustration (lvl, lvl2, illus-head)
@@ -199,11 +199,11 @@ class LegalChunker:
         }
 
 
-def process_corpus(input_directory: str, output_dir: str):
+def process_corpus(input_directory: Path, output_dir: Path):
     """Iterates through all JSON files in the directory and saves chunks to a single file."""
     chunker = LegalChunker(max_tokens=512, overlap_tokens=75)
 
-    dirs = [p.name for p in Path(input_directory).iterdir() if p.is_dir()]
+    dirs = [p.name for p in input_directory.iterdir() if p.is_dir()]
 
     
     for dir in dirs:
@@ -211,7 +211,7 @@ def process_corpus(input_directory: str, output_dir: str):
         all_chunks = []
         
         # Point this to the folder containing your 41 documents' JSON files
-        folder_path = Path(input_directory) / dir
+        folder_path = input_directory / dir
         
         if not folder_path.exists() or not folder_path.is_dir():
             print(f"Error: Directory '{input_directory}' not found.")
@@ -226,19 +226,15 @@ def process_corpus(input_directory: str, output_dir: str):
                 with open(file_path, "r", encoding="utf-8") as f:
                     doc = json.load(f)
                     
-                # Handle both single objects and arrays of sections in a JSON file
                 if isinstance(doc, list):
                     for section in doc:
-                        # all_chunks.extend(chunker.chunk_section(section))
                         current_file_chunks.extend(chunker.chunk_section(section))
                 else:
-                    # all_chunks.extend(chunker.chunk_section(doc))
                     current_file_chunks.extend(chunker.chunk_section(doc))
                     
                 print(f"Processed {file_path.name}...")
-                # to get section wise chunks do a file operation here also 
-                
-                outdir = Path(output_dir) / dir
+
+                outdir = output_dir / dir
                 Path(outdir).mkdir(parents=True, exist_ok=True)
                 output_path = outdir / f"{file_path.name}"
                 
@@ -251,8 +247,8 @@ def process_corpus(input_directory: str, output_dir: str):
                 
                 
         # Export all chunks to the final JSON payload for your vector database
-        outdir = Path(output_dir) / "aaalll"
-        Path(outdir).mkdir(parents=True, exist_ok=True)
+        outdir = output_dir / "aaalll"
+        outdir.mkdir(parents=True, exist_ok=True)
         output_path = outdir / f"{dir}.json"
         
         with open(output_path, "w", encoding="utf-8") as out_f:
@@ -264,34 +260,8 @@ def process_corpus(input_directory: str, output_dir: str):
 
 
 if __name__ == "__main__":
-    # Replace './legal_data' with the actual path to your scraped JSON files
-    # TODO: convert these paths to relative path
-    INPUT_FOLDER = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/data_ingestion/parsed"  
-    OUTPUT_FOLDER = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/data_ingestion/chunked"
-    
-    # Run the bulk processing script
+
+    INPUT_FOLDER = Path(__file__).parent / "parsed"  
+    OUTPUT_FOLDER = Path(__file__).parent / "chunked"
+
     process_corpus(INPUT_FOLDER, OUTPUT_FOLDER)
-                    
-                    
-# if __name__ == "__main__":
-#     chunker = LegalChunker(max_tokens=512, overlap_tokens=75)
-
-#     path = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/parsed/contract_sections/section_97.json"
-#     path2 = "/home/usatkr/u_ml/projects/LexRag/src/lexrag/parsed/contract_sections/section_49.json"
-    
-#     for file_path in [path, path2]:
-#         path = Path(file_path)
-#         if not path.exists():
-#             continue
-
-#         with open(path, "r", encoding="utf-8") as f:
-#             section_data = json.load(f)
-
-#         chunks = chunker.chunk_section(section_data)
-#         print(f"=== {file_path} (Section ID: {section_data['id']}) -> {len(chunks)} chunk(s) ===")
-#         for c in chunks:
-#             print(
-#                 f"  • {c['chunk_id']} | Tokens: {c['token_count']} | "
-#                 f"Intact: {c['metadata']['is_intact_section']}"
-#             )
-#             print(f"chunk content:\n{c['text']}\n\n")

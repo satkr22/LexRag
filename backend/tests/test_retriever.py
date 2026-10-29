@@ -1,15 +1,14 @@
 import sys
+import asyncio
 import time
-from pathlib import Path
-from typing import Optional
 
 import onnxruntime as ort
 ort.preload_dlls() # CRITICAL: DO NOT REMOVE
 
 from qdrant_client import QdrantClient, models
 
-from src.lexrag.retrieval.query_llm.query import generate_response_gemini, generate_response_qwen
-from src.lexrag.retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
+from retrieval.query_llm.query import generate_response_gemini, generate_response_qwen
+from retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
 
 
 
@@ -120,14 +119,14 @@ def print_labels(client:QdrantClient):
     print(f"Sparse model: {SPARSE_MODEL}")
 
 
-def main(user_query: str):
+async def main(user_query: str):
     
     client = build_client()
     
     print_labels(client)
     try: 
         # result = generate_response_gemini(user_query)
-        result = generate_response_qwen(user_query)
+        result:QueryResponse = await generate_response_qwen(user_query)
         show_expanded(client, result.enriched_query, result.category_ids, 5)
     except Exception as e:
             print(f"Some error occured: {e}")
@@ -136,7 +135,7 @@ def main(user_query: str):
 if __name__ == "__main__":
     
     user_query: str = "how to file an rti"
-    main(user_query)
+    asyncio.run(main(user_query))
 
     
     test_queries = [

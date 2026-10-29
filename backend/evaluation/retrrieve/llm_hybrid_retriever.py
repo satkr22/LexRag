@@ -10,8 +10,8 @@ ort.preload_dlls()
 
 from qdrant_client import QdrantClient, models
 
-from src.lexrag.retrieval.query_llm.query import generate_response_gemini, generate_response_qwen, generate_response_deepseek
-from src.lexrag.retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
+from retrieval.query_llm.query import generate_response_gemini, generate_response_qwen, generate_response_deepseek
+from retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
 
 
 

@@ -3,7 +3,7 @@ import asyncio
 from pathlib import Path
 
 from dataset import main
-from lexrag.evaluation.dataset.dataset_multi_hop import main as m_h_main
+from evaluation.dataset.dataset_multi_hop import main as m_h_main
 
 
 OUTPUT_PATH = Path(__file__).parent / "questions" / "question_dataset.json"

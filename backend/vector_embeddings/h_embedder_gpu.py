@@ -61,13 +61,11 @@ def index_chunks_with_fastembed(client: QdrantClient, json_file_path: str):
     print(f"Successfully indexed all {len(chunks)} chunks of doc {json_file_path} into Qdrant.")
     
 
-if __name__ == "__main__":
-    INPUT_DIR = Path(__file__).parent.parent / "data_ingestion" / "chunked" / "aaalll"
-    db_path: str = "./qdrant_db3"
+def main(input_dir: Path, db_path: Path):
     
     # CUDA (GPU)
     client = QdrantClient(
-        path=db_path, 
+        path=str(db_path), 
         local_inference_batch_size=16,
         local_inference_providers=["CUDAExecutionProvider"]
     )
@@ -89,10 +87,17 @@ if __name__ == "__main__":
         )
         print(f"Collection '{COLLECTION_NAME}' created successfully.")
     
-    json_files = [p.name for p in INPUT_DIR.iterdir() if p.is_file()]
+    json_files = [p.name for p in input_dir.iterdir() if p.is_file()]
     
     for file in json_files:
-        input_json_path = INPUT_DIR / file
+        input_json_path = input_dir / file
         index_chunks_with_fastembed(client, str(input_json_path))
     
     client.close()
+
+if __name__ == "__main__":
+    
+    INPUT_DIR = Path(__file__).parent.parent / "data_ingestion" / "chunked" / "aaalll"
+    VECTOR_DB_PATH = Path().cwd() / "qdrant_db"
+    
+    main(INPUT_DIR, VECTOR_DB_PATH)

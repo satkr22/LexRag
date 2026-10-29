@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import argparse
 import json
 import re
 from dataclasses import dataclass
@@ -9,15 +8,7 @@ from typing import Any, Iterable
 
 from bs4 import BeautifulSoup, NavigableString, Tag  # type: ignore
 
-from category_labels import ACT_CAT_ID_MAPPING
-
-ACT_DIRECTORIES: dict[str, str] = {
-    "bns": "bns_sections",
-    "bnss": "bnss_sections",
-    "bsa": "bsa_sections",
-    "constitution": "constitution_sections",
-    "motor_vehicle": "motor_vehicle_sections",
-}
+from data_ingestion.parser.category_labels import ACT_CAT_ID_MAPPING
 
 
 @dataclass(frozen=True)
@@ -112,46 +103,8 @@ BLOCK_TAGS = {
 }
 
 
-# def article_content(article: Tag) -> str:
-#     """Extract article text without collapsing its newlines.
-
-#     The source has both pretty-printed and minified pages.  Existing source
-#     newlines are retained, and semantic block boundaries add a newline where
-#     minified markup would otherwise run paragraphs together.  Inline elements
-#     such as ``span`` and ``sup`` do not introduce artificial line breaks.
-#     """
-
-#     parts: list[str] = []
-
-#     def visit(node: Tag) -> None:
-#         for child in node.children:
-#             if isinstance(child, NavigableString):
-#                 parts.append(str(child))
-#             elif isinstance(child, Tag):
-#                 visit(child)
-#                 if child.name in BLOCK_TAGS:
-#                     parts.append("\n")
-
-#     # body = article.find("div", class_="prov-body")
-#     # print(f"\n\n{body}\n\n")
-#     # visit(body)
-#     visit(article)
-#     return "".join(parts)
-
-
 def article_content(article: Tag) -> str:
-    """Extract article text without collapsing its newlines.
-
-    The source has both pretty-printed and minified pages.  Existing source
-    newlines are retained, and semantic block boundaries add a newline where
-    minified markup would otherwise run paragraphs together.  Inline elements
-    such as ``span`` and ``sup`` do not introduce artificial line breaks.
-
-    Any element with ``class="fnotes"`` that appears inside the
-    ``div.prov-body`` is skipped entirely (its text and any trailing block
-    newline are omitted).
-    """
-
+    
     parts: list[str] = []
 
     def is_fnotes(node: Tag) -> bool:
@@ -178,7 +131,7 @@ def article_content(article: Tag) -> str:
 
 
 def _next_text(tag: Tag | None) -> str:
-    """Return the first non-empty text node immediately after ``tag``."""
+    """Return the first non-empty text node immediately after tag"""
 
     if tag is None:
         return ""
@@ -196,13 +149,7 @@ def extract_article_number_and_title(
     fallback: str,
     preferred_title: str | None = None,
 ) -> tuple[str, str]:
-    """Read an article's number and title from ``data-n``/``prov-title``.
-
-    Most pages put the number in ``span.n``.  Schedule pages instead use
-    ``<span class="n">Article</span>1`` where the label is in the span and the
-    actual number is the following text node.
-    """
-
+   
     title_tag = article.find("h3", class_="prov-title")
     number = clean_text(article.get("data-n"))  # type: ignore
     number_tag = title_tag.find("span", class_="n") if title_tag else None
@@ -232,12 +179,7 @@ def extract_article_number_and_title(
 
 
 def extract_chip_title(article: Tag, article_number: str) -> str | None:
-    """Use the clean navigation title when a group page provides one.
-
-    A few Motor Vehicles headings contain amendment markers such as
-    ``<sup>8</sup>[... ]``.  The corresponding chip title is the same legal
-    heading without that editorial notation, so it is a better title value.
-    """
+    """Use the clean navigation title when a group page provides one"""
 
     group = article.find_parent("section", class_="group")
     if not group:
@@ -247,7 +189,7 @@ def extract_chip_title(article: Tag, article_number: str) -> str | None:
 
 
 def extract_group_heading(group: Tag) -> Heading:
-    """Extract ``group-id``, ``h2``, and the optional range from one group."""
+    """Extract group-id, h2, and the optional range from one group."""
 
     group_head = group.find("div", class_="group-head")
     if not group_head:
@@ -324,12 +266,9 @@ def iter_page_articles(
                 continue
             for article in reader.find_all("article", class_="provision"):
                 article_position += 1
-                # print(f"\n\n{article}\n\n")
                 yield article, heading, article_position
         return
 
-    # BSA section pages are standalone, but their manifest still contains the
-    # same chapter/part heading metadata as group pages.
     for article in soup.find_all("article", class_="provision"):
         article_position += 1
         number, _ = extract_article_number_and_title(article, fallback_number)
@@ -341,7 +280,7 @@ def iter_page_articles(
 
 
 def safe_section_stem(number: str, source_path: Path) -> str:
-    """Create a stable output stem for numbers such as ``2A`` and schedules."""
+    """Create a stable output stem for numbers such as 2A and schedules."""
 
     value = clean_text(number)
     if not value:
@@ -364,7 +303,7 @@ def parse_act(
     input_root: Path,
     clean_output: bool = False,
 ) -> list[dict[str, Any]]:
-    """Parse all HTML files for one act and write one JSON file per article."""
+    """Parse all HTML files for one act and write one JSON file per article"""
 
     output_dir.mkdir(parents=True, exist_ok=True)
     if clean_output:
@@ -407,7 +346,7 @@ def parse_act(
 
             # Schedule articles use their filename as the stem so they can
             # never collide with a regular section of the same number
-            # (e.g. Schedule Article 1 vs Section 1).
+            # (ex: Schedule Article 1 vs Section 1).
             if re.match(r"^schedule[-_]article[-_]", source_path.stem, re.IGNORECASE):
                 stem = safe_file_stem(source_path)
             else:
@@ -480,60 +419,32 @@ def parse_act(
     return records
 
 
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument(
-        "--input-root",
-        type=Path,
-        default=Path("src/lexrag/data_ingestion/scrapped"),
-        help="Directory containing *_sections directories.",
-    )
-    parser.add_argument(
-        "--output-root",
-        type=Path,
-        default=Path("src/lexrag/data_ingestion/parsed"),
-        help="Directory in which act output directories are created.",
-    )
-    parser.add_argument(
-        "--clean",
-        action="store_true",
-        help="Remove generated section JSON files before parsing each act.",
-    )
-    return parser.parse_args()
+def main(input_root: Path, output_root: Path) -> None:
 
-
-def main() -> None:
-    args = parse_args()
     total = 0
-    dirs = [p.name for p in Path(args.input_root).iterdir() if p.is_dir()]
+    
+    dirs = [p.name for p in Path(input_root).iterdir() if p.is_dir()]
 
     for act in dirs:
-        source_dir = args.input_root / act
-        output_dir = args.output_root / act
+        source_dir = input_root / act
+        output_dir = output_root / act
         if not source_dir.exists():
             raise FileNotFoundError(f"Input directory does not exist: {source_dir}")
         records = parse_act(
             act,
             source_dir,
             output_dir,
-            args.input_root,
-            clean_output=args.clean,
+            input_root,
         )
         total += len(records)
         print(f"{act}: wrote {len(records)} section files to {output_dir}")
     print(f"Total: wrote {total} section files")
 
 
+
 if __name__ == "__main__":
-    main()
-
-
-# run with: 
-
-# python src/lexrag/parser/parse_html.py --clean
-
-# or
-
-# python src/lexrag/parser/parse_scrapped_html.py \
-#     --input-root src/lexrag/scrapped \
-#     --output-root src/lexrag/parsed
+    
+    INPUT_PATH = Path(__file__).parent / "scrapped"
+    OUTPUT_PATH = Path(__file__).parent / "parsed"
+    
+    main(INPUT_PATH, OUTPUT_PATH)
