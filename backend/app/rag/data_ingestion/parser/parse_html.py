@@ -8,7 +8,7 @@ from typing import Any, Iterable
 
 from bs4 import BeautifulSoup, NavigableString, Tag  # type: ignore
 
-from data_ingestion.parser.category_labels import ACT_CAT_ID_MAPPING
+from backend.app.rag.data_ingestion.parser.category_labels import ACT_CAT_ID_MAPPING
 
 
 @dataclass(frozen=True)

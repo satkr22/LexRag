@@ -9,8 +9,8 @@ ort.preload_dlls() # CRITICAL: DO NOT REMOVE
 
 from qdrant_client import QdrantClient, models
 
-from query_llm.query import generate_response_gemini, generate_response_qwen
-from query_llm.data_models import QueryResponse, EnrichedQuery
+from backend.app.rag.retrieval.query_llm.query import generate_response_gemini, generate_response_qwen
+from backend.app.rag.retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
 
 
 
