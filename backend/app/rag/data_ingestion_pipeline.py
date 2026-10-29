@@ -15,7 +15,7 @@ MERGE_OUTPUT = Path(__file__).parent / "data_ingestion" / "parsed" / "aaalll"
 CHUNKED_OUTPUT = Path(__file__).parent / "data_ingestion" / "chunked"
 
 EMBEDDER_INPUT = Path(__file__).parent / "data_ingestion" / "chunked" / "aaalll"
-VECTOR_DB_PATH = Path(__file__).parent.parent / "qdrant_db"
+VECTOR_DB_PATH = Path(__file__).parents[3] / "qdrant_db"
 
 
 def main():
