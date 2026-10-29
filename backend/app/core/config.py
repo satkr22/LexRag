@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
@@ -6,23 +8,28 @@ class Settings(BaseSettings):
     ENVIRONMENT: str = "development"
     
     # API keys
-    OPENAI_API_KEY: str
+    GEMINI_API_KEY: str
+    DASHSCOPE_API_KEY: str
     
     # Database
     POSTGRES_USER: str
     POSTGRES_PASSWORD: str
-    POSTGRES_DB: str
-    DATABASE_URL: str
+    
+    POSTGRES_DB_CORPUS: str
+    POSTGRES_DB_MAIN: str
+    
+    DATABASE_URL_CORPUS: str
+    DATABASE_URL_MAIN: str
     
     # Qdrant
-    QDRANT_URL: str 
-    QDRANT__SERVICE__API_KEY: str
+    # QDRANT_URL: str 
+    # QDRANT__SERVICE__API_KEY: str
 
     # Storage
-    STORAGE_PATH: str = "storage"
+    # STORAGE_PATH: str = "storage"
     
     # frontend
-    VITE_FRONTEND_API_URL: str
+    # VITE_FRONTEND_API_URL: str
     
     # user and group identifier
     UID : int = 1000
@@ -37,7 +44,7 @@ class Settings(BaseSettings):
     # docker will inject env variables to container's enviornment and pydantic will read from the container's environment too
     
     model_config = SettingsConfigDict(
-        env_file=".env",
+        env_file=Path(__file__).parents[3] / ".env",
         extra="ignore"
     )
 
