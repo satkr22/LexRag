@@ -98,6 +98,6 @@ def main(input_dir: Path, db_path: Path):
 if __name__ == "__main__":
     
     INPUT_DIR = Path(__file__).parent.parent / "data_ingestion" / "chunked" / "aaalll"
-    VECTOR_DB_PATH = Path().cwd() / "qdrant_db"
+    VECTOR_DB_PATH = Path(__file__).parents[4] / "qdrant_db"
     
     main(INPUT_DIR, VECTOR_DB_PATH)
