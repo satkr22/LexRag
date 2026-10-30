@@ -22,6 +22,7 @@ class Settings(BaseSettings):
     DATABASE_URL_MAIN: str
     
     # Qdrant
+    QDRANT_COLLECTION_NAME: str = "legal_docs"
     # QDRANT_URL: str 
     # QDRANT__SERVICE__API_KEY: str
 

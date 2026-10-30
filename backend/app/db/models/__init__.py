@@ -1,4 +1,4 @@
-from app.models_db.section import Section
+from backend.app.db.models.section import Section
 from app.models_db.toc import TOC
 
 __all__ = [

@@ -77,7 +77,21 @@ def hybrid_search_expanded(
         with_payload=True
     )
     
-    return results.points, time.perf_counter() - t0
+    hits = results.points
+    
+    # deduplicate chunks by section_id
+    seen_sections = set()
+    dedup_chunks = []
+
+    for point in hits:
+        p = point.payload or {}
+        section_id = p.get("section_id") or ""
+        if section_id in seen_sections:
+            continue
+        seen_sections.add(section_id)
+        dedup_chunks.append(point)
+    
+    return dedup_chunks, time.perf_counter() - t0
 
 
 def format_hit(rank: int, point) -> str:
@@ -121,7 +135,7 @@ def print_labels(client:QdrantClient):
     print(f"Sparse model: {SPARSE_MODEL}")
 
 
-async def main():
+async def main(pure_rag: bool):
     
     # user_query = "My landlord is refusing to return my security deposit after I moved out. What legal options do I have?"
     user_query = "What are the grounds for divorce under Hindu marriage law?"
@@ -162,14 +176,25 @@ async def main():
     for q in test_queries:
         print_labels(client)
         try: 
-            # result: QueryResponse = await generate_response_gemini(q)
-            result:QueryResponse = await generate_response_qwen(q)
+            
+            if pure_rag:
+                result: QueryResponse = QueryResponse(
+                    category_ids=[],
+                    enriched_query=EnrichedQuery(
+                        dense_query=q,
+                        bm25_keywords=q
+                    )
+                )
+            else:
+                # result: QueryResponse = await generate_response_gemini(q)
+                result:QueryResponse = await generate_response_qwen(q)
             show_expanded(client, result.enriched_query, result.category_ids, 5)
         except Exception as e:
             print(f"Some error occured: {e}")
     client.close()
         
 if __name__ == "__main__":
-    asyncio.run(main())
+    pure_rag = False
+    asyncio.run(main(pure_rag))
 
 

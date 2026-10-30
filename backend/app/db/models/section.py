@@ -3,7 +3,8 @@ from datetime import datetime
 from sqlalchemy import (
     Text,
     String,
-    DateTime
+    DateTime,
+    Index
 )
 from sqlalchemy.orm import Mapped, mapped_column
 
@@ -87,5 +88,9 @@ class Section(Base):
     updated_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True),
         nullable=False
+    )
+    
+    __table_args__ = (
+        Index("idx_sections_act_number", "act", "section_number")
     )
     

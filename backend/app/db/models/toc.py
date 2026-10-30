@@ -1,7 +1,9 @@
 from datetime import datetime
 from sqlalchemy import (
+    Integer,
     String,
-    DateTime
+    DateTime, 
+    Index
 )
 from sqlalchemy.orm import Mapped, mapped_column
 
@@ -25,7 +27,16 @@ class TOC(Base):
     )
     
     chapter_section_range: Mapped[str] = mapped_column(
-        String, 
+        String(200), 
+        nullable=True
+    )
+    
+    chapter_start_section: Mapped[str] = mapped_column(
+        String(100), 
+        nullable=True
+    )
+    chapter_end_section: Mapped[str] = mapped_column(
+        String(100), 
         nullable=True
     )
     
@@ -47,6 +58,11 @@ class TOC(Base):
         primary_key=True
     )
     
+    section_order: Mapped[int] = mapped_column(
+        Integer,
+        nullable=False
+    )
+    
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True),
         nullable=False
@@ -55,5 +71,10 @@ class TOC(Base):
     updated_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True),
         nullable=False
+    )
+    
+    __table_args__ = (
+        Index("idx_tocs_act_chapter_range", "act", "chapter_start_section", "chapter_end_section"),
+        Index("idx_tocs_act_order", "act", "section_order"),
     )
     

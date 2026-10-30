@@ -29,9 +29,12 @@ def generate_toc(json_filepath):
                 "act": sec['metadata']['act'],
                 "heading_title": heading_title,
                 "computed_heading_range": computed_range,
+                "heading_start": first_sec,
+                "heading_end": last_sec,
                 "section_number": sec['metadata']['article_number'],
                 "section_title": sec['metadata']['article_title'],
-                "section_id": sec['metadata']['id']
+                "section_id": sec['metadata']['id'],
+                "order":sec['metadata']['order']
             })
             
     return toc_records
@@ -61,9 +64,12 @@ def push_toc(
                         act=row["act"],
                         chapter_title=row["heading_title"],
                         chapter_section_range=row["computed_heading_range"],
+                        chapter_start_section=row["heading_start"],
+                        chapter_end_section=row["heading_end"],
                         section_number=row["section_number"],
                         section_title=row["section_title"],
                         section_id=row["section_id"],
+                        section_order=row["order"],
                         created_at=datetime.now(timezone.utc),                   
                         updated_at=datetime.now(timezone.utc)                   
                     )

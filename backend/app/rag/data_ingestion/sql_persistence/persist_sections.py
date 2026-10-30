@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 
 from app.db.session import SessionLocal_corpus
 from app.db.init_db import init_db_corpus
-from app.models_db.section import Section
+from backend.app.db.models.section import Section
 
 
 def push_records(
