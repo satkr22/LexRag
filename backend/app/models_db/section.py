@@ -89,9 +89,3 @@ class Section(Base):
         nullable=False
     )
     
-    
-"""
-SELECT section_id AS source_section_id, act AS source_act, section_number AS source_section_number,
-(regexp_matches(lower(raw_content), 'section\s+([0-9]+[a-z]*)|\bsec\.\s+([0-9]+[a-z]*)', 'g'))[1] AS target_section_number FROM sections;
-
-"""

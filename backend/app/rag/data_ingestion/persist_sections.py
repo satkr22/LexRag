@@ -2,10 +2,8 @@ from pathlib import Path
 import json
 from datetime import datetime, timezone
 
-from sqlalchemy import select
-
 from app.db.session import SessionLocal_corpus
-from app.db.init_db import init_db
+from app.db.init_db import init_db_corpus
 from app.models_db.section import Section
 
 
@@ -14,7 +12,7 @@ def push_records(
     batch_size: int = 500,
 ) -> None:
     
-    init_db()
+    init_db_corpus()
     
     session = SessionLocal_corpus()
     total = 0
