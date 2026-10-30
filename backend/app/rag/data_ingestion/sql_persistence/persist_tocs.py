@@ -85,7 +85,7 @@ def push_toc(
 
 if __name__ == "__main__":
     
-    INPUT_PATH = Path(__file__).parent / "parsed" / "aaalll"
+    INPUT_PATH = Path(__file__).parent.parent / "parsed" / "aaalll"
     
     push_toc(
         INPUT_PATH,

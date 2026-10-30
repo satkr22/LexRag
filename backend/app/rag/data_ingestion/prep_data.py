@@ -4,8 +4,8 @@ from backend.app.rag.data_ingestion.web_scrapper.scrap import main as scrapper
 from backend.app.rag.data_ingestion.parser.parse_html import main as parser 
 from backend.app.rag.data_ingestion.parser.merge_sections import merge_section
 from backend.app.rag.data_ingestion.chunker.chunk import process_corpus as chunker
-from backend.app.rag.data_ingestion.persist_sections import push_records
-from backend.app.rag.data_ingestion.persist_tocs import push_toc
+from backend.app.rag.data_ingestion.sql_persistence.persist_sections import push_records
+from backend.app.rag.data_ingestion.sql_persistence.persist_tocs import push_toc
 
 
 SCRAPPED_OUTPUT = Path(__file__).parent / "scrapped"
@@ -29,7 +29,7 @@ def main():
     merge_section(PARSED_OUTPUT, MERGE_OUTPUT)
     print("\nMerging done.")
     
-    print("\nStarted Sections Persistence in SQL DB...")
+    print("\nStarted Persistence in SQL DB...")
     push_records(MERGE_OUTPUT, batch_size=500)
     push_toc(MERGE_OUTPUT, batch_size=500)
     print("\nPersistence done.")

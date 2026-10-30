@@ -82,7 +82,7 @@ def push_records(
 
 if __name__ == "__main__":
     
-    INPUT_PATH = Path(__file__).parent / "parsed" / "aaalll"
+    INPUT_PATH = Path(__file__).parent.parent / "parsed" / "aaalll"
     
     push_records(
         INPUT_PATH,
