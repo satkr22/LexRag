@@ -7,8 +7,6 @@ ort.preload_dlls()
 
 from qdrant_client import QdrantClient, models
 from qdrant_client.models import Distance
-from fastembed import SparseTextEmbedding
-from fastembed import TextEmbedding
 
 COLLECTION_NAME = "legal_docs"
 DENSE_MODEL_NAME = "BAAI/bge-large-en-v1.5"
@@ -98,6 +96,6 @@ def main(input_dir: Path, db_path: Path):
 if __name__ == "__main__":
     
     INPUT_DIR = Path(__file__).parent.parent / "data_ingestion" / "chunked" / "aaalll"
-    VECTOR_DB_PATH = Path(__file__).parents[4] / "qdrant_db"
+    VECTOR_DB_PATH = Path(__file__).parents[4] / "storage" / "qdrant_db"
     
     main(INPUT_DIR, VECTOR_DB_PATH)

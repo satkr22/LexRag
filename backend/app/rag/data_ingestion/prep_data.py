@@ -1,11 +1,12 @@
 from pathlib import Path
 
-from backend.app.rag.data_ingestion.web_scrapper.scrap import main as scrapper 
-from backend.app.rag.data_ingestion.parser.parse_html import main as parser 
-from backend.app.rag.data_ingestion.parser.merge_sections import merge_section
-from backend.app.rag.data_ingestion.chunker.chunk import process_corpus as chunker
-from backend.app.rag.data_ingestion.sql_persistence.persist_sections import push_records
-from backend.app.rag.data_ingestion.sql_persistence.persist_tocs import push_toc
+from app.rag.data_ingestion.web_scrapper.scrap import main as scrapper 
+from app.rag.data_ingestion.parser.parse_html import main as parser 
+from app.rag.data_ingestion.parser.merge_sections import merge_section
+from app.rag.data_ingestion.chunker.chunk import process_corpus as chunker
+from app.rag.data_ingestion.persistence.persist_sections import push_records
+from app.rag.data_ingestion.persistence.persist_tocs import push_toc
+from app.rag.data_ingestion.persistence.persist_acts import main as embed_acts
 
 
 SCRAPPED_OUTPUT = Path(__file__).parent / "scrapped"
@@ -13,7 +14,7 @@ SCRAPPED_OUTPUT = Path(__file__).parent / "scrapped"
 PARSED_OUTPUT = Path(__file__).parent / "parsed"
 MERGE_OUTPUT = Path(__file__).parent / "parsed" / "aaalll"
 CHUNKED_OUTPUT = Path(__file__).parent / "chunked"
-
+VECTOR_DB_PATH = Path(__file__).parents[3] / "storage" / "qdrant_db"
 
 
 def main():
@@ -32,6 +33,7 @@ def main():
     print("\nStarted Persistence in SQL DB...")
     push_records(MERGE_OUTPUT, batch_size=500)
     push_toc(MERGE_OUTPUT, batch_size=500)
+    embed_acts(VECTOR_DB_PATH)
     print("\nPersistence done.")
     
     print("\nStarted Chunking...")

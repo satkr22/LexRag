@@ -1,12 +1,14 @@
 from pathlib import Path
 
-from backend.app.rag.data_ingestion.web_scrapper.scrap import main as scrapper 
-from backend.app.rag.data_ingestion.parser.parse_html import main as parser 
-from backend.app.rag.data_ingestion.parser.merge_sections import merge_section
-from backend.app.rag.data_ingestion.chunker.chunk import process_corpus as chunker
-from backend.app.rag.vector_embeddings.h_embedder_gpu import main as embedder
-from backend.app.rag.data_ingestion.sql_persistence.persist_sections import push_records
-from backend.app.rag.data_ingestion.sql_persistence.persist_tocs import push_toc
+from app.rag.data_ingestion.web_scrapper.scrap import main as scrapper 
+from app.rag.data_ingestion.parser.parse_html import main as parser 
+from app.rag.data_ingestion.parser.merge_sections import merge_section
+from app.rag.data_ingestion.chunker.chunk import process_corpus as chunker
+from app.rag.vector_embeddings.h_embedder_gpu import main as embedder
+from app.rag.data_ingestion.persistence.persist_sections import push_records
+from app.rag.data_ingestion.persistence.persist_tocs import push_toc
+from app.rag.data_ingestion.persistence.persist_acts import main as embed_acts
+
 
 SCRAPPED_OUTPUT = Path(__file__).parent / "data_ingestion" / "scrapped"
 
@@ -16,7 +18,7 @@ MERGE_OUTPUT = Path(__file__).parent / "data_ingestion" / "parsed" / "aaalll"
 CHUNKED_OUTPUT = Path(__file__).parent / "data_ingestion" / "chunked"
 
 EMBEDDER_INPUT = Path(__file__).parent / "data_ingestion" / "chunked" / "aaalll"
-VECTOR_DB_PATH = Path(__file__).parents[3] / "qdrant_db"
+VECTOR_DB_PATH = Path(__file__).parents[3] / "storage" / "qdrant_db"
 
 
 def main():
@@ -35,6 +37,7 @@ def main():
     print("\nStarted Persistence in SQL DB...")
     push_records(MERGE_OUTPUT, batch_size=500)
     push_toc(MERGE_OUTPUT, batch_size=500)
+    embed_acts(VECTOR_DB_PATH)
     print("\nPersistence done.")
     
     print("\nStarted Chunking...")

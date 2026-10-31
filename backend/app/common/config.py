@@ -22,8 +22,11 @@ class Settings(BaseSettings):
     DATABASE_URL_MAIN: str
     
     # Qdrant
-    QDRANT_COLLECTION_NAME: str = "legal_docs"
-    # QDRANT_URL: str 
+    QDRANT_CORPUS_COLLECTION_NAME: str = "legal_docs"
+    QDRANT_ACTS_COLLECTION_NAME: str = "legal_acts"
+    DENSE_MODEL_NAME: str = "BAAI/bge-large-en-v1.5"
+    SPARSE_MODEL_NAME: str = "Qdrant/bm25"
+    QDRANT_URL: str = str(Path(__file__).parents[3] / "storage" / "qdrant_db2")
     # QDRANT__SERVICE__API_KEY: str
 
     # Storage

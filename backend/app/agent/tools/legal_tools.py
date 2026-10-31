@@ -1,22 +1,32 @@
+import onnxruntime as ort
+ort.preload_dlls()  
+
 import re
 from typing import Optional
+from pathlib import Path
 
+from qdrant_client import QdrantClient, models
 from qdrant_client import QdrantClient, models
 
 from sqlalchemy import select, func
 from sqlalchemy.orm import Session
 
-from backend.app.db.models.toc import TOC
-from backend.app.db.models.section import Section
-from backend.app.rag.retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
-from backend.app.common.config import settings
+from app.common.config import settings
+from app.db.models.toc import TOC
+from app.db.models.section import Section
+from app.common.config import settings
+from app.common.act_code_mapping import NAME_ACT_CODE, NAME_ACT_CODE_WITHOUT_YEAR, ACT_CODE_TO_NAME
 
 
-COLLECTION_NAME = settings.QDRANT_COLLECTION_NAME
-DENSE_MODEL = "BAAI/bge-large-en-v1.5"
-SPARSE_MODEL = "Qdrant/bm25"
 
+CORPUS_COLLECTION_NAME = settings.QDRANT_CORPUS_COLLECTION_NAME
+ACTS_COLLECTION_NAME = settings.QDRANT_ACTS_COLLECTION_NAME
+DENSE_MODEL_NAME = settings.DENSE_MODEL_NAME
+SPARSE_MODEL_NAME = settings.SPARSE_MODEL_NAME
+VECTOR_DB_PATH = settings.QDRANT_URL
 MAX_SECTIONS = 300
+
+
 
 
 def _clean_act(act: str) -> str:
@@ -40,7 +50,17 @@ def _clean_act(act: str) -> str:
 
     return act.lower()
 
-
+def _map_act_name_to_code(act: str):
+    if not act:
+        return ""
+    _act = act.lower()
+    if _act in ACT_CODE_TO_NAME:
+        return _act
+    elif _act in NAME_ACT_CODE:
+        return NAME_ACT_CODE[act][0]
+    elif _act in NAME_ACT_CODE_WITHOUT_YEAR:
+        return NAME_ACT_CODE_WITHOUT_YEAR[act][0]
+    return "act_not_present"
 
 def view_toc(
     db: Session,
@@ -56,7 +76,10 @@ def view_toc(
     Always call stage 1 first; echo back one of its `section_range` values.
     """
     _clean_act(act)
-    act = (act or "").strip()
+    act = _map_act_name_to_code(act)
+    if act == "act_not_present":
+        return {"error": "act is not present in corpus or act name is wrong. Try with correct act name or code"}
+    act = (act or "")
     if not act:
         return {"error": "act is required"}
 
@@ -166,7 +189,10 @@ def get_section(
     needed if a previous call returned `ambiguous: true`.
     """
     _clean_act(act)
-    act = (act or "").strip()
+    act = _map_act_name_to_code(act)
+    if act == "act_not_present":
+        return {"error": "act is not present in corpus or act name is wrong. Try with correct act name or code"}
+    act = (act or "")
     section_number = (section_number or "").strip()
     section_id = (section_id or "").strip() or None
 
@@ -188,21 +214,21 @@ def get_section(
     cleaned = _normalize_section_number(section_number)
 
     # primary lookup: exact, indexed
+    section_id = f"{act}_section_{cleaned}"
+    
+    row = db.execute(
+        select(Section).where(Section.section_id == section_id)
+    ).scalar_one_or_none()
+    
+    if row:
+        return _serialize(row)
+    
     rows = db.execute(
         select(Section)
         .where(Section.act == act)
         .where(Section.section_number == cleaned)
         .limit(10)
     ).scalars().all()
-
-    # fallback: case-insensitive on act only
-    if not rows:
-        rows = db.execute(
-            select(Section)
-            .where(func.lower(Section.act) == act.lower())
-            .where(Section.section_number == cleaned)
-            .limit(10)
-        ).scalars().all()
 
     if not rows:
         return {
@@ -253,7 +279,7 @@ def _serialize(r: Section) -> dict:
 def _normalize_section_number(s: str) -> str:
     """Strip prefixes/punctuation the model sometimes adds: 'Section 302.' -> '302'."""
     s = s.strip()
-    for prefix in ("section ", "sec. ", "sec ", "§ "):
+    for prefix in ("Section ", "section ", "Sec. ", "sec. ", "sec ", "§ "):
         if s.lower().startswith(prefix):
             s = s[len(prefix):].strip()
             break
@@ -283,16 +309,16 @@ def search_sections(
         )
 
     results = client.query_points(
-        collection_name=COLLECTION_NAME,
+        collection_name=CORPUS_COLLECTION_NAME,
         prefetch=[
             models.Prefetch(
-                query=models.Document(text=query, model=DENSE_MODEL),
+                query=models.Document(text=query, model=DENSE_MODEL_NAME),
                 using="", # this is blank because i have first created dense vector without its label
                 limit=10,
                 filter=category_filter, # filter to Dense search
             ),
             models.Prefetch(
-                query=models.Document(text=query, model=SPARSE_MODEL),
+                query=models.Document(text=query, model=SPARSE_MODEL_NAME),
                 using="bm25",
                 limit=10,
                 filter=category_filter, # filter to BM25 search
@@ -360,6 +386,61 @@ def search_sections(
     
 
 
+def get_act(
+    client: QdrantClient,
+    act_name_query: str
+) -> dict:
+    """
+    Executes a hybrid search (Dense + BM25) with Reciprocal Rank Fusion (RRF) to get the act code from the act full name.
+    """
+    results = client.query_points(
+        collection_name=ACTS_COLLECTION_NAME,
+        prefetch=[
+            # dense search
+            models.Prefetch(
+                query=models.Document(
+                    text=act_name_query,
+                    model=DENSE_MODEL_NAME,
+                    options={"cuda": True, "lazy_load": True}
+                ),
+                using="dense",
+                limit=10
+            ),
+            # sparse
+            models.Prefetch(
+                query=models.Document(
+                    text=act_name_query,
+                    model=SPARSE_MODEL_NAME
+                ),
+                using="bm25",
+                limit=10
+            )
+        ],
+        query=models.FusionQuery(fusion=models.Fusion.RRF),
+        limit=3
+    )
+
+    if not results.points:
+        return {
+            "error": "act is not present in corpus or act name is wrong. Try with rephrased act name."
+        }
+       
+    res = results.points[0]
+    
+    if res.score < 0.6:
+        return {
+            "error": "low confidence scroe of the retrieved act. Try with rephrased act name."
+        }
+    
+    act = res.payload.get("act_code") # type: ignore
+    if not act:
+        return {
+            "error": "act not found."
+        }
+        
+    return {
+        "act" : act
+    }
 
     
 '''
@@ -394,3 +475,5 @@ ORDER BY section_order
 LIMIT 100;
 
 '''
+
+

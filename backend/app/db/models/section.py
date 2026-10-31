@@ -14,7 +14,6 @@ class Section(Base):
     
     __tablename__ = "sections"
     
-    
     act: Mapped[str] = mapped_column(
         String(200), 
         nullable=False
@@ -91,6 +90,6 @@ class Section(Base):
     )
     
     __table_args__ = (
-        Index("idx_sections_act_number", "act", "section_number")
+        Index("idx_sections_act_number", "act", "section_number"),
     )
     
