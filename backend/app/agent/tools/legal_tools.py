@@ -1,11 +1,7 @@
-import onnxruntime as ort
-ort.preload_dlls()  
-
 import re
 from typing import Optional
 from pathlib import Path
 
-from qdrant_client import QdrantClient, models
 from qdrant_client import QdrantClient, models
 
 from sqlalchemy import select, func
@@ -14,19 +10,20 @@ from sqlalchemy.orm import Session
 from app.common.config import settings
 from app.db.models.toc import TOC
 from app.db.models.section import Section
-from app.common.config import settings
-from app.common.act_code_mapping import NAME_ACT_CODE, NAME_ACT_CODE_WITHOUT_YEAR, ACT_CODE_TO_NAME
-
-
+from app.common.act_code_mapping import (
+    NAME_ACT_CODE,
+    NAME_ACT_CODE_WITHOUT_YEAR,
+    ACT_CODE_TO_NAME,
+)
 
 CORPUS_COLLECTION_NAME = settings.QDRANT_CORPUS_COLLECTION_NAME
 ACTS_COLLECTION_NAME = settings.QDRANT_ACTS_COLLECTION_NAME
 DENSE_MODEL_NAME = settings.DENSE_MODEL_NAME
 SPARSE_MODEL_NAME = settings.SPARSE_MODEL_NAME
-VECTOR_DB_PATH = settings.QDRANT_URL
+INFERENCE_CUDA = settings.QDRANT_INFERENCE_CUDA
+
 MAX_SECTIONS = 300
-
-
+ACT_NOT_PRESENT = "act_not_present"
 
 
 def _clean_act(act: str) -> str:
@@ -36,34 +33,51 @@ def _clean_act(act: str) -> str:
     # strip leading and trailing whitespace
     act = act.strip()
 
-    # attach gaps between words with '-' 
+    # attach gaps between words with '-'
     # This catches single spaces, multiple spaces, tabs, and newlines
-    act = re.sub(r'\s+', '-', act)
+    act = re.sub(r"\s+", "-", act)
 
     # replace en dashes, em dashes, and underscores with '-'
-    act = act.replace('–', '-')  # en dash
-    act = act.replace('—', '-')  # em dash
-    act = act.replace('_', '-')  # underscore
+    act = act.replace("–", "-")  # en dash
+    act = act.replace("—", "-")  # em dash
+    act = act.replace("_", "-")  # underscore
 
     # convert multiple consecutive hyphens into a single hyphen
-    act = re.sub(r'-+', '-', act)
+    act = re.sub(r"-+", "-", act)
 
     return act.lower()
 
-def _map_act_name_to_code(act: str):
+
+def _map_act_name_to_code(act: str) -> str:
     if not act:
-        return ""
-    _act = act.lower()
-    if _act in ACT_CODE_TO_NAME:
-        return _act
-    elif _act in NAME_ACT_CODE:
-        return NAME_ACT_CODE[act][0]
-    elif _act in NAME_ACT_CODE_WITHOUT_YEAR:
-        return NAME_ACT_CODE_WITHOUT_YEAR[act][0]
-    return "act_not_present"
+        return ACT_NOT_PRESENT
+
+    code_form = _clean_act(act)
+
+    name_form = re.sub(r"[\s_–—-]+", " ", act.strip()).strip().lower()
+
+    if code_form in ACT_CODE_TO_NAME:
+        return code_form
+
+    if name_form in NAME_ACT_CODE:
+        return NAME_ACT_CODE[name_form][0]
+    if name_form in NAME_ACT_CODE_WITHOUT_YEAR:
+        return NAME_ACT_CODE_WITHOUT_YEAR[name_form][0]
+
+    return ACT_NOT_PRESENT
+
+
+def _resolve_act(client, act: str) -> Optional[str]:
+    code = _map_act_name_to_code(act)
+    if code != ACT_NOT_PRESENT:
+        return code
+    r = get_act(client, act)
+    return r.get("act") if "error" not in r else None
+
 
 def view_toc(
     db: Session,
+    client: QdrantClient,
     act: str,
     section_range: Optional[tuple[str, str]] = None,
 ) -> dict:
@@ -75,15 +89,14 @@ def view_toc(
 
     Always call stage 1 first; echo back one of its `section_range` values.
     """
-    _clean_act(act)
-    act = _map_act_name_to_code(act)
-    if act == "act_not_present":
-        return {"error": "act is not present in corpus or act name is wrong. Try with correct act name or code"}
-    act = (act or "")
-    if not act:
-        return {"error": "act is required"}
 
-    # stage 1: chapters 
+    act = _resolve_act(client, act)  # type: ignore
+    if act is None:
+        return {
+            "error": "If act name is uncertain, call get_act first or verify against get_act's list."
+        }
+
+    # stage 1: chapters
     if section_range is None:
         stmt = (
             select(
@@ -103,7 +116,13 @@ def view_toc(
         )
         rows = db.execute(stmt).all()
         if not rows:
-            return {"act": act, "stage": "chapters", "found": False, "chapters": []}
+            return {
+                "act": act,
+                "stage": "chapters",
+                "found": False,
+                "chapters": [],
+                "hint": "This act has no chapter metadata. Use search_sections or get_section(act, section_number) directly.",
+            }
 
         return {
             "act": act,
@@ -161,7 +180,7 @@ def view_toc(
         "section_range": [start, end],
         "count": len(rows),
         "truncated": len(rows) >= MAX_SECTIONS,
-        "chapter_title": rows[0].chapter_title, 
+        "chapter_title": rows[0].chapter_title,
         "sections": [
             {
                 "section_id": r.section_id,
@@ -173,11 +192,9 @@ def view_toc(
     }
 
 
-
-
-
 def get_section(
     db: Session,
+    client: QdrantClient,
     act: str,
     section_number: str,
     section_id: Optional[str] = None,
@@ -188,16 +205,6 @@ def get_section(
     Pass act + section_number. `section_id` is an optional escape hatch — only
     needed if a previous call returned `ambiguous: true`.
     """
-    _clean_act(act)
-    act = _map_act_name_to_code(act)
-    if act == "act_not_present":
-        return {"error": "act is not present in corpus or act name is wrong. Try with correct act name or code"}
-    act = (act or "")
-    section_number = (section_number or "").strip()
-    section_id = (section_id or "").strip() or None
-
-    if not act:
-        return {"error": "act is required"}
 
     # by section_id
     if section_id:
@@ -208,27 +215,39 @@ def get_section(
             return {"error": f"section_id {section_id!r} not found"}
         return _serialize(row)
 
+    section_number = (section_number or "").strip()
+
     if not section_number:
         return {"error": "section_number is required"}
+
+    act = _resolve_act(client, act)  # type: ignore
+    if act is None:
+        return {
+            "error": "act is not present in corpus or act name is wrong. Try with correct act name or code"
+        }
 
     cleaned = _normalize_section_number(section_number)
 
     # primary lookup: exact, indexed
-    section_id = f"{act}_section_{cleaned}"
-    
+    lookup_id = f"{act}_section_{cleaned}"
+
     row = db.execute(
-        select(Section).where(Section.section_id == section_id)
+        select(Section).where(Section.section_id == lookup_id)
     ).scalar_one_or_none()
-    
+
     if row:
         return _serialize(row)
-    
-    rows = db.execute(
-        select(Section)
-        .where(Section.act == act)
-        .where(Section.section_number == cleaned)
-        .limit(10)
-    ).scalars().all()
+
+    rows = (
+        db.execute(
+            select(Section)
+            .where(Section.act == act)
+            .where(Section.section_number == cleaned)
+            .limit(10)
+        )
+        .scalars()
+        .all()
+    )
 
     if not rows:
         return {
@@ -281,71 +300,79 @@ def _normalize_section_number(s: str) -> str:
     s = s.strip()
     for prefix in ("Section ", "section ", "Sec. ", "sec. ", "sec ", "§ "):
         if s.lower().startswith(prefix):
-            s = s[len(prefix):].strip()
+            s = s[len(prefix) :].strip()
             break
     return s.rstrip(" .:;,")
 
 
-
-
 def search_sections(
-    client: QdrantClient, 
-    query: str, 
-    acts_filter: Optional[list[str]] = None
+    client: QdrantClient, query: str, acts_filter: Optional[list[str]] = None
 ) -> dict:
     """Executes a hybrid search filtered by acts."""
-    
+
     # payload filter by acts
     category_filter = None
-    
+    filtered_acts = []
+
     if acts_filter is not None and len(acts_filter) > 0:
-        category_filter = models.Filter(
-            must=[
-                models.FieldCondition(
-                    key="act", 
-                    match=models.MatchAny(any=acts_filter) 
-                )
-            ]
-        )
+
+        for a in acts_filter:
+            _a = _resolve_act(client, a)  # type: ignore
+            if _a is None:
+                continue
+            filtered_acts.append(_a)
+
+        if filtered_acts:
+            category_filter = models.Filter(
+                must=[
+                    models.FieldCondition(
+                        key="act", match=models.MatchAny(any=filtered_acts)
+                    )
+                ]
+            )
 
     results = client.query_points(
         collection_name=CORPUS_COLLECTION_NAME,
         prefetch=[
             models.Prefetch(
-                query=models.Document(text=query, model=DENSE_MODEL_NAME),
-                using="", # this is blank because i have first created dense vector without its label
+                query=models.Document(
+                    text=query,
+                    model=DENSE_MODEL_NAME,
+                    options={"cuda": INFERENCE_CUDA, "lazy_load": True},
+                ),
+                using="",  # this is blank because i have first created dense vector without its label
                 limit=10,
-                filter=category_filter, # filter to Dense search
+                filter=category_filter,  # filter to Dense search
             ),
             models.Prefetch(
                 query=models.Document(text=query, model=SPARSE_MODEL_NAME),
                 using="bm25",
                 limit=10,
-                filter=category_filter, # filter to BM25 search
+                filter=category_filter,  # filter to BM25 search
             ),
         ],
-        # Combine the results of both prefetch queries 
+        # Combine the results of both prefetch queries
         query=models.FusionQuery(fusion=models.Fusion.RRF),
         limit=5,
-        with_payload=True
+        with_payload=True,
     )
-    
-    hits =  results.points
-    
+
+    hits = results.points
+
     formatted_results = []
     seen_sections = set()
 
     for hit in hits:
         payload = hit.payload or {}
         metadata = payload.get("metadata", {})
-        
+
         # extract metadata
         act_code = metadata.get("act", "unknown")
         sec_num = metadata.get("section_number", "unknown")
         sec_title = metadata.get("section_title", "")
         sec_id = metadata.get("section_id", "")
         is_intact = metadata.get("is_intact_section", False)
-        
+
         # deduplicate
         unique_key = f"{act_code}_{sec_num}"
         if unique_key in seen_sections:
@@ -354,7 +381,7 @@ def search_sections(
 
         # clean the text: remove "[Act: ... ]" header
         raw_text = payload.get("text", "")
-        clean_text = re.sub(r'^\[.*?\]\s*', '', raw_text, flags=re.DOTALL).strip()
+        clean_text = re.sub(r"^\[.*?\]\s*", "", raw_text, flags=re.DOTALL).strip()
 
         # truncation based on "is_intact_section"
         if is_intact:
@@ -365,31 +392,29 @@ def search_sections(
             # chunk is a fragment. truncate to save tokens.
             snippet = clean_text
             if len(snippet) > 1000:
-                snippet = snippet[:1000].rsplit(' ', 1)[0] + "..."
+                snippet = snippet[:1000].rsplit(" ", 1)[0] + "..."
             is_complete = False
 
-        formatted_results.append({
-            "act": act_code,
-            "section_id": sec_id,
-            "section_number": sec_num,
-            "section_title": sec_title,
-            "is_complete": is_complete,
-            "text": snippet
-        })
+        formatted_results.append(
+            {
+                "act": act_code,
+                "section_id": sec_id,
+                "section_number": sec_num,
+                "section_title": sec_title,
+                "is_complete": is_complete,
+                "text": snippet,
+            }
+        )
 
     return {
         "query": query,
         "count": len(formatted_results),
         "results": formatted_results,
-        "hint": "If 'is_complete' is False, call get_section(act, section_id) to read the full text."
+        "hint": "If 'is_complete' is False, call get_section(act, section_id) to read the full text.",
     }
-    
 
 
-def get_act(
-    client: QdrantClient,
-    act_name_query: str
-) -> dict:
+def get_act(client: QdrantClient, act_name_query: str) -> dict:
     """
     Executes a hybrid search (Dense + BM25) with Reciprocal Rank Fusion (RRF) to get the act code from the act full name.
     """
@@ -401,79 +426,37 @@ def get_act(
                 query=models.Document(
                     text=act_name_query,
                     model=DENSE_MODEL_NAME,
-                    options={"cuda": True, "lazy_load": True}
+                    options={"cuda": INFERENCE_CUDA, "lazy_load": True},
                 ),
                 using="dense",
-                limit=10
+                limit=10,
             ),
             # sparse
             models.Prefetch(
-                query=models.Document(
-                    text=act_name_query,
-                    model=SPARSE_MODEL_NAME
-                ),
+                query=models.Document(text=act_name_query, model=SPARSE_MODEL_NAME),
                 using="bm25",
-                limit=10
-            )
+                limit=10,
+            ),
         ],
         query=models.FusionQuery(fusion=models.Fusion.RRF),
-        limit=3
+        limit=3,
+        with_payload=True,
     )
 
     if not results.points:
         return {
             "error": "act is not present in corpus or act name is wrong. Try with rephrased act name."
         }
-       
+
     res = results.points[0]
-    
+
     if res.score < 0.6:
         return {
             "error": "low confidence scroe of the retrieved act. Try with rephrased act name."
         }
-    
-    act = res.payload.get("act_code") # type: ignore
+
+    act = res.payload.get("act_code")  # type: ignore
     if not act:
-        return {
-            "error": "act not found."
-        }
-        
-    return {
-        "act" : act
-    }
+        return {"error": "act not found."}
 
-    
-'''
-
-
-SELECT
-    chapter_title,
-    chapter_start_section,
-    chapter_end_section,
-    COUNT(section_id) AS section_count
-FROM tocs
-WHERE act = 'bns'
-  AND chapter_start_section IS NOT NULL
-GROUP BY
-    chapter_title,
-    chapter_start_section,
-    chapter_end_section
-ORDER BY MIN(section_order);
-
-
-
-SELECT
-    section_id,
-    section_number,
-    section_title,
-    chapter_title
-FROM tocs
-WHERE act = 'cpc'
-  AND chapter_start_section = 'O13R1'
-  AND chapter_end_section = 'O13R11'
-ORDER BY section_order
-LIMIT 100;
-
-'''
-
-
+    return {"act": act}
