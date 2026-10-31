@@ -72,7 +72,9 @@ def _resolve_act(client, act: str) -> Optional[str]:
     if code != ACT_NOT_PRESENT:
         return code
     r = get_act(client, act)
-    return r.get("act") if "error" not in r else None
+    # if r.get("confident") is False:
+    #     return None
+    return r.get("best") if "error" not in r else None
 
 
 def view_toc(
@@ -93,7 +95,7 @@ def view_toc(
     act = _resolve_act(client, act)  # type: ignore
     if act is None:
         return {
-            "error": "If act name is uncertain, call get_act first or verify against get_act's list."
+             "error": "Unable to resolve the supplied Act name. Verify the official Act name or use get_act to resolve its code."
         }
 
     # stage 1: chapters
@@ -319,7 +321,10 @@ def search_sections(
         for a in acts_filter:
             _a = _resolve_act(client, a)  # type: ignore
             if _a is None:
-                continue
+                return {
+                "error": f"Unable to resolve Act filter: {a}",
+                "hint": "Correct the Act name or remove the invalid filter."
+            }
             filtered_acts.append(_a)
 
         if filtered_acts:
@@ -410,7 +415,7 @@ def search_sections(
         "query": query,
         "count": len(formatted_results),
         "results": formatted_results,
-        "hint": "If 'is_complete' is False, call get_section(act, section_id) to read the full text.",
+        "hint": "If 'is_complete' is False, call get_section using the result's 'act' and 'section_number'. You may also pass its exact 'section_id'.",
     }
 
 
@@ -449,14 +454,22 @@ def get_act(client: QdrantClient, act_name_query: str) -> dict:
         }
 
     res = results.points[0]
-
-    if res.score < 0.6:
-        return {
-            "error": "low confidence scroe of the retrieved act. Try with rephrased act name."
-        }
-
-    act = res.payload.get("act_code")  # type: ignore
-    if not act:
+    
+    matches = [
+        {
+            "act_code": p.payload.get("act_code"), # type: ignore
+            "score": round(float(p.score), 2)
+        } for p in results.points if p.payload.get("act_code") # type: ignore
+    ]
+    
+    if not matches:
         return {"error": "act not found."}
+    
+    gap = matches[0]["score"] - matches[1]["score"] if len(matches) > 1 else 1.0
+    
+    return {
+        "matches": matches,
+        "best": matches[0]["act_code"],
+        # "confident": gap >= 0.15 or matches[0]["score"] >= 0.95,
+}
 
-    return {"act": act}
