@@ -452,8 +452,6 @@ def get_act(client: QdrantClient, act_name_query: str) -> dict:
         return {
             "error": "act is not present in corpus or act name is wrong. Try with rephrased act name."
         }
-
-    res = results.points[0]
     
     matches = [
         {
