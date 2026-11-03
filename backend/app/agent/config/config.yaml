@@ -1,0 +1,43 @@
+llm:
+  active_provider: gemini
+
+  providers:
+
+    gemini:
+      authentication:
+        env_var: GOOGLE_API_KEY
+        constructor_arg: api_key
+
+      init_kwargs:
+        model: "gemini-model-id"
+        temperature: 0.1
+        timeout: 60
+        max_retries: 2
+
+    query-rewriter:
+      authentication:
+        env_var: GOOGLE_API_KEY
+        constructor_arg: api_key
+
+      init_kwargs:
+        model: "gemini-model-id"
+        temperature: 0.1
+        timeout: 60
+        max_retries: 2
+
+
+    openai:
+      authentication:
+        env_var: OPENAI_API_KEY
+        constructor_arg: api_key
+
+      init_kwargs:
+        model: "openai-model-id"
+        temperature: 0.1
+        timeout: 60
+        max_retries: 2
+
+
+agent:
+  system_prompt: app/agent/prompts/system.md
+  recursion_limit: 20
