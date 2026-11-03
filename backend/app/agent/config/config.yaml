@@ -5,7 +5,7 @@ llm:
 
     gemini:
       authentication:
-        env_var: GOOGLE_API_KEY
+        env_var: GEMINI_API_KEY
         constructor_arg: api_key
 
       init_kwargs:
@@ -13,18 +13,7 @@ llm:
         temperature: 0.1
         timeout: 60
         max_retries: 2
-
-    query-rewriter:
-      authentication:
-        env_var: GOOGLE_API_KEY
-        constructor_arg: api_key
-
-      init_kwargs:
-        model: "gemini-model-id"
-        temperature: 0.1
-        timeout: 60
-        max_retries: 2
-
+        streaming: true
 
     openai:
       authentication:
@@ -36,6 +25,31 @@ llm:
         temperature: 0.1
         timeout: 60
         max_retries: 2
+        streaming: true
+
+    query-rewriter:
+      authentication:
+        env_var: GEMINI_API_KEY
+        constructor_arg: api_key
+
+      init_kwargs:
+        model: "gemini-model-id"
+        temperature: 0.1
+        timeout: 60
+        max_retries: 2
+        streaming: false
+
+    default:
+      authentication:
+        env_var: GEMINI_API_KEY
+        constructor_arg: api_key
+
+      init_kwargs:
+        model: "gemini-model-id"
+        temperature: 0.1
+        timeout: 60
+        max_retries: 2
+        streaming: true
 
 
 agent:

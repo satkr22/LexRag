@@ -52,6 +52,9 @@ class Settings(BaseSettings):
         env_file=Path(__file__).parents[3] / ".env",
         extra="ignore"
     )
+    
+    def get_setting_value(self, var_name: str):
+        return getattr(self, var_name, None)
 
 
 # Create a global settings instance

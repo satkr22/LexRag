@@ -19,13 +19,13 @@ class ProviderConfig(StrictConfig):
 
 
 class LLMConfig(StrictConfig):
-    active_provider: Literal["gemini", "openai", "query-rewriter"]
+    active_provider: Literal["gemini", "openai", "query-rewriter", "default"]
     providers: dict[str, ProviderConfig]
 
     @model_validator(mode="after")
     def validate_providers(self):
 
-        supported = {"gemini", "openai", "query-rewriter"}
+        supported = {"gemini", "openai", "query-rewriter", "default"}
 
         unknown = set(self.providers) - supported
 
@@ -39,6 +39,7 @@ class LLMConfig(StrictConfig):
                 f"Configuration missing for active provider: "
                 f"{self.active_provider}"
             )
+
 
         return self
 
