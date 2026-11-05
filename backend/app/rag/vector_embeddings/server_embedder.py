@@ -9,13 +9,14 @@ ort.preload_dlls()
 from qdrant_client import QdrantClient, models
 from qdrant_client.models import Distance
 
+from app.common.config import settings
+
 COLLECTION_NAME = "legal_docs"
 
 DENSE_MODEL_NAME = "BAAI/bge-large-en-v1.5"
 SPARSE_MODEL_NAME = "Qdrant/bm25"
 
-QDRANT_URL = "http://localhost:6333"
-
+QDRANT_URL = settings.QDRANT_URL
 
 def generate_deterministic_uuid(chunk_id: str) -> str:
     return str(uuid.uuid5(uuid.NAMESPACE_DNS, chunk_id))
@@ -78,13 +79,13 @@ def index_chunks_with_fastembed(
     )
 
 
-def main(input_dir: Path):
+def main(input_dir: Path, url):
 
     # Connect to Docker-hosted Qdrant server
     client = QdrantClient(
-        url=QDRANT_URL,
+        url=settings.QDRANT_URL,
         local_inference_batch_size=16,
-        local_inference_providers=["CUDAExecutionProvider"],
+        local_inference_providers=["CUDAExecutionProvider", "CPUExecutionProvider"] if settings.QDRANT_INFERENCE_CUDA else None,
         timeout=120,
     )
 
@@ -138,4 +139,4 @@ if __name__ == "__main__":
         / "aaalll"
     )
 
-    main(INPUT_DIR)
+    main(INPUT_DIR, QDRANT_URL)

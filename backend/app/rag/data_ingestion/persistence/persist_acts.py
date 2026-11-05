@@ -57,13 +57,14 @@ def index_acts_with_fastembed(client: QdrantClient):
     print(f"Successfully indexed all {len(ACT_CODE_TO_NAME)} acts into Qdrant.")
 
 
-def main(db_path: Path):
+def main(url):
     
     # CUDA (GPU)
     client = QdrantClient(
-        path=str(db_path), 
+        url=settings.QDRANT_URL,
         local_inference_batch_size=16,
-        local_inference_providers=["CUDAExecutionProvider"]
+        local_inference_providers=["CUDAExecutionProvider", "CPUExecutionProvider"] if settings.QDRANT_INFERENCE_CUDA else None,
+        timeout=120,
     )
         
     if not client.collection_exists(collection_name=COLLECTION_NAME):
