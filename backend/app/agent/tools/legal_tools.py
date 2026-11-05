@@ -8,8 +8,8 @@ from sqlalchemy import select, func
 from sqlalchemy.orm import Session
 
 from app.common.config import settings
-from app.db.models.toc import TOC
-from app.db.models.section import Section
+from app.db.corpus_models.toc import TOC
+from app.db.corpus_models.section import Section
 from app.common.act_code_mapping import (
     NAME_ACT_CODE,
     NAME_ACT_CODE_WITHOUT_YEAR,

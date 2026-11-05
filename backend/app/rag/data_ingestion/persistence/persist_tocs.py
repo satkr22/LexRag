@@ -8,7 +8,7 @@ from sqlalchemy.dialects.postgresql import insert
 
 from app.db.session import SessionLocal_corpus
 from app.db.init_db import init_db_corpus
-from app.db.models.toc import TOC
+from app.db.corpus_models.toc import TOC
 
 
 def generate_toc(json_filepath):

@@ -7,7 +7,7 @@ from sqlalchemy.dialects.postgresql import insert
 
 from app.db.session import SessionLocal_corpus
 from app.db.init_db import init_db_corpus
-from backend.app.db.models.section import Section
+from backend.app.db.corpus_models.section import Section
 
 
 def push_records(
