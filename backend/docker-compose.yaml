@@ -32,37 +32,6 @@ services:
     volumes:
       - qdrant_data:/qdrant/storage
 
-  ingestion:
-    image: python:3.12-slim
-    container_name: lexrag_ingestion
-    working_dir: /app
-    restart: "no"
-    volumes:
-      - ./:/app
-    env_file:
-      - ../.env
-    environment:
-      QDRANT_URL: http://qdrant:6333
-    depends_on:
-      postgres:
-        condition: service_healthy
-      qdrant:
-        condition: service_started
-    command: >
-      sh -c "pip install --no-cache-dir
-      beautifulsoup4
-      requests
-      lxml
-      pydantic
-      pydantic-settings
-      python-dotenv
-      sqlalchemy
-      psycopg2-binary
-      alembic
-      qdrant-client
-      fastembed-gpu &&
-      python app/rag/data_ingestion_pipeline.py"
-
 
 volumes:
   postgres_data:
