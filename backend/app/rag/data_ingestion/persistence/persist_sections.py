@@ -15,7 +15,6 @@ def push_records(
     batch_size: int = 500,
 ) -> None:
 
-    init_db_corpus()
 
     session = SessionLocal_corpus()
     total = 0

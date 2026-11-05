@@ -9,7 +9,7 @@ from app.common.config import settings
 COLLECTION_NAME = settings.QDRANT_ACTS_COLLECTION_NAME
 DENSE_MODEL_NAME = settings.DENSE_MODEL_NAME
 SPARSE_MODEL_NAME = settings.SPARSE_MODEL_NAME
-VECTOR_DB_PATH = settings.QDRANT_URL
+QDRANT_URL = settings.QDRANT_URL
 
 
 def get_act(client: QdrantClient, query: str) -> str | None:
@@ -54,12 +54,11 @@ def get_act(client: QdrantClient, query: str) -> str | None:
         
     return results.points[0].payload.get("act_code") # type: ignore
 
-def main(db_path: Path):
+def main(url):
 
     client = QdrantClient(
-        path=str(db_path),
-        local_inference_batch_size=16,
-        local_inference_providers=["CUDAExecutionProvider"]
+        url=url,
+        timeout=120
     )
     
     test_queries = [
@@ -77,6 +76,4 @@ def main(db_path: Path):
     client.close()
 
 if __name__ == "__main__":
-    main(
-        Path(VECTOR_DB_PATH).resolve()
-    )
+    main(QDRANT_URL)

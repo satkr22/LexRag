@@ -55,7 +55,6 @@ def push_toc(
     batch_size: int = 500,
 ) -> None:
 
-    init_db_corpus()
 
     session = SessionLocal_corpus()
     total = 0
