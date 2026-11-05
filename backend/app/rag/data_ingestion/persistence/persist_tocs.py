@@ -118,3 +118,10 @@ def push_toc(
     finally:
         session.close()
         print(f"Done. Processed {total} records.")
+
+
+if __name__ == "__main__":
+    
+    INPUT_PATH = Path(__file__).parent.parent / "parsed" / "aaalll"
+    
+    push_toc(INPUT_PATH, batch_size=500)

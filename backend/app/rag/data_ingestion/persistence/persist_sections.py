@@ -6,8 +6,7 @@ from datetime import datetime, timezone
 from sqlalchemy.dialects.postgresql import insert
 
 from app.db.session import SessionLocal_corpus
-from app.db.init_db import init_db_corpus
-from backend.app.db.corpus_models.section import Section
+from app.db.corpus_models.section import Section
 
 
 def push_records(
@@ -90,3 +89,10 @@ def push_records(
     finally:
         session.close()
         print(f"Done. Processed {total} records.")
+
+
+if __name__ == "__main__":
+    
+    INPUT_PATH = Path(__file__).parent.parent / "parsed" / "aaalll"
+    
+    push_records(INPUT_PATH, batch_size=500)
