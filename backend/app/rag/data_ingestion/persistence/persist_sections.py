@@ -31,23 +31,9 @@ def push_records(
             
             for start in range(0, len(raw), batch_size):
                 batch = raw[start : start + batch_size]
-                
-                
-                # existing_ids = set(
-                #     session.scalars(
-                #         select(Section.section_id).where(
-                #             Section.section_id.in_(
-                #                 [row["metadata"]["id"] for row in batch]
-                #             )
-                #         )
-                #     ).all()
-                # )
-                
                 c = 0
                 for row in batch:
-                    # section_id = row["metadata"]["id"]
-                    # if section_id in existing_ids:
-                    #     continue
+
                     section = Section(
                         act=row["metadata"]["act"],
                         section_id=row["metadata"]["id"],

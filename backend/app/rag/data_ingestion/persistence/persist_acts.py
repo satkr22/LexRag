@@ -14,7 +14,7 @@ from app.common.config import settings
 COLLECTION_NAME = settings.QDRANT_ACTS_COLLECTION_NAME
 DENSE_MODEL_NAME = settings.DENSE_MODEL_NAME
 SPARSE_MODEL_NAME = settings.SPARSE_MODEL_NAME
-VECTOR_DB_PATH = settings.QDRANT_URL
+QDRANT_URL = settings.QDRANT_URL
 
 
 def generate_deterministic_uuid(act_code: str, act_name: str) -> str:
@@ -61,7 +61,7 @@ def main(url):
     
     # CUDA (GPU)
     client = QdrantClient(
-        url=settings.QDRANT_URL,
+        url=url,
         local_inference_batch_size=16,
         local_inference_providers=["CUDAExecutionProvider", "CPUExecutionProvider"] if settings.QDRANT_INFERENCE_CUDA else None,
         timeout=120,
@@ -89,84 +89,4 @@ def main(url):
     client.close()
 
 if __name__ == "__main__":
-    main(
-        Path(VECTOR_DB_PATH).resolve()
-    )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# from datetime import datetime, timezone
-
-# from app.db.session import SessionLocal_corpus
-# from app.db.init_db import init_db_corpus
-# from app.db.models.act import Act
-# from app.common.act_code_mapping import ACT_CODE_TO_NAME
-
-
-# def get_acts():
-#     acts: list[dict[str, str]] = []
-#     for act_code, name in ACT_CODE_TO_NAME.items():
-#         acts.append({act_code: name})
-#     return acts
-
-
-# def push_acts(
-#     batch_size: int = 500,
-# ) -> None:
-    
-#     init_db_corpus()
-    
-#     session = SessionLocal_corpus()
-#     total = 0
-    
-#     try:
-#         rows = get_acts()
-                    
-#         for start in range(0, len(rows), batch_size):
-            
-#             batch = rows[start : start + batch_size]
-#             c = 0
-#             # print(batch)
-#             for row in batch:
-#                 act_code, act_name = list(row.items())[0]
-#                 act = Act(
-#                     act_code=act_code.lower(),
-#                     act_name=act_name.lower(),
-#                     created_at=datetime.now(timezone.utc),                   
-#                     updated_at=datetime.now(timezone.utc)                   
-#                 )
-#                 session.add(act)
-#                 c += 1
-        
-#             session.commit()
-
-#             total += c
-#             print(f"  batch {start // batch_size + 1}: pushed {total}/{len(rows)}")
-
-#     except Exception:
-#         session.rollback()
-#         raise
-#     finally:
-#         session.close()
-#         print(f"Done. Processed {total} records.")
-
-
-# if __name__ == "__main__":
-    
-#     push_acts(batch_size=500)
+    main(QDRANT_URL)
