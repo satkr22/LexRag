@@ -2,11 +2,14 @@ from app.agent.tools.legal_tools import *
 from app.agent.tools.tool_schema import *
 from app.agent.tools.tool_description import *
 
+from sqlalchemy.orm import sessionmaker
+from qdrant_client import AsyncQdrantClient
+
 from langchain_core.tools import StructuredTool
 
 
 
-def build_legal_tools(db, client):
+def build_legal_tools(session_factory: sessionmaker, client: AsyncQdrantClient):
 
     def _get_act(act_name_query: str):
         return get_act(client, act_name_query)
@@ -15,25 +18,28 @@ def build_legal_tools(db, client):
         act: str,
         section_range: list[str] | None = None,
     ):
-        return view_toc(
-            db,
-            client,
-            act,
-            tuple(section_range) if section_range is not None else None, # type: ignore
-        )
+        with session_factory() as db: # this is per call or request
+            return view_toc(
+                db,
+                client,
+                act,
+                tuple(section_range) if section_range is not None else None, # type: ignore
+            )
     
     def _get_section(
         act: str,
         section_number: str,
         section_id: str | None = None,
     ):
-        return get_section(
-            db,
-            client,
-            act,
-            section_number,
-            section_id,
-        )
+                
+        with session_factory() as db:
+            return get_section(
+                db,
+                client,
+                act,
+                section_number,
+                section_id,
+            )
 
     def _search_sections(
         query: str,

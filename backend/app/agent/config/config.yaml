@@ -1,13 +1,10 @@
 llm:
-  active_provider: gemini
-
   providers:
 
     gemini:
       authentication:
         env_var: GEMINI_API_KEY
         constructor_arg: api_key
-
       init_kwargs:
         model: "gemini-model-id"
         temperature: 0.1
@@ -19,7 +16,6 @@ llm:
       authentication:
         env_var: OPENAI_API_KEY
         constructor_arg: api_key
-
       init_kwargs:
         model: "openai-model-id"
         temperature: 0.1
@@ -27,11 +23,10 @@ llm:
         max_retries: 2
         streaming: true
 
-    query-rewriter:
+    rag:
       authentication:
         env_var: GEMINI_API_KEY
         constructor_arg: api_key
-
       init_kwargs:
         model: "gemini-model-id"
         temperature: 0.1
@@ -43,7 +38,6 @@ llm:
       authentication:
         env_var: GEMINI_API_KEY
         constructor_arg: api_key
-
       init_kwargs:
         model: "gemini-model-id"
         temperature: 0.1
@@ -51,6 +45,26 @@ llm:
         max_retries: 2
         streaming: true
 
+    default-rag:
+      authentication:
+        env_var: GEMINI_API_KEY
+        constructor_arg: api_key
+      init_kwargs:
+        model: "gemini-model-id"
+        temperature: 0.1
+        timeout: 60
+        max_retries: 2
+        streaming: false
+
+  # route used by the main agent
+  agent:
+    active_provider: gemini
+    fallback_provider: default
+
+  # route used by RAG
+  rag:
+    active_provider: rag
+    fallback_provider: default-rag
 
 agent:
   system_prompt: app/agent/prompts/system.md

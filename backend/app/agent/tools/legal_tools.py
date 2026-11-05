@@ -2,7 +2,7 @@ import re
 from typing import Optional
 from pathlib import Path
 
-from qdrant_client import QdrantClient, models
+from qdrant_client import AsyncQdrantClient, models
 
 from sqlalchemy import select, func
 from sqlalchemy.orm import Session
@@ -67,19 +67,19 @@ def _map_act_name_to_code(act: str) -> str:
     return ACT_NOT_PRESENT
 
 
-def _resolve_act(client, act: str) -> Optional[str]:
+async def _resolve_act(client, act: str) -> Optional[str]:
     code = _map_act_name_to_code(act)
     if code != ACT_NOT_PRESENT:
         return code
-    r = get_act(client, act)
+    r = await get_act(client, act)
     # if r.get("confident") is False:
     #     return None
     return r.get("best") if "error" not in r else None
 
 
-def view_toc(
+async def view_toc(
     db: Session,
-    client: QdrantClient,
+    client: AsyncQdrantClient,
     act: str,
     section_range: Optional[tuple[str, str]] = None,
 ) -> dict:
@@ -92,7 +92,7 @@ def view_toc(
     Always call stage 1 first; echo back one of its `section_range` values.
     """
 
-    act = _resolve_act(client, act)  # type: ignore
+    act = await _resolve_act(client, act)  # type: ignore
     if act is None:
         return {
              "error": "Unable to resolve the supplied Act name. Verify the official Act name or use get_act to resolve its code."
@@ -196,7 +196,7 @@ def view_toc(
 
 def get_section(
     db: Session,
-    client: QdrantClient,
+    client: AsyncQdrantClient,
     act: str,
     section_number: str,
     section_id: Optional[str] = None,
@@ -222,7 +222,7 @@ def get_section(
     if not section_number:
         return {"error": "section_number is required"}
 
-    act = _resolve_act(client, act)  # type: ignore
+    act = await _resolve_act(client, act)  # type: ignore
     if act is None:
         return {
             "error": "act is not present in corpus or act name is wrong. Try with correct act name or code"
@@ -307,8 +307,8 @@ def _normalize_section_number(s: str) -> str:
     return s.rstrip(" .:;,")
 
 
-def search_sections(
-    client: QdrantClient, query: str, acts_filter: Optional[list[str]] = None
+async def search_sections(
+    client: AsyncQdrantClient, query: str, acts_filter: Optional[list[str]] = None
 ) -> dict:
     """Executes a hybrid search filtered by acts."""
 
@@ -319,7 +319,7 @@ def search_sections(
     if acts_filter is not None and len(acts_filter) > 0:
 
         for a in acts_filter:
-            _a = _resolve_act(client, a)  # type: ignore
+            _a = await _resolve_act(client, a)  # type: ignore
             if _a is None:
                 return {
                 "error": f"Unable to resolve Act filter: {a}",
@@ -336,7 +336,7 @@ def search_sections(
                 ]
             )
 
-    results = client.query_points(
+    results = await client.query_points(
         collection_name=CORPUS_COLLECTION_NAME,
         prefetch=[
             models.Prefetch(
@@ -419,11 +419,11 @@ def search_sections(
     }
 
 
-def get_act(client: QdrantClient, act_name_query: str) -> dict:
+async def get_act(client: AsyncQdrantClient, act_name_query: str) -> dict:
     """
     Executes a hybrid search (Dense + BM25) with Reciprocal Rank Fusion (RRF) to get the act code from the act full name.
     """
-    results = client.query_points(
+    results = await client.query_points(
         collection_name=ACTS_COLLECTION_NAME,
         prefetch=[
             # dense search

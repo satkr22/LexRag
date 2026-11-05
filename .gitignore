@@ -10,5 +10,4 @@ node_modules
 # *.html
 # *.htm
 *.txt
-qdrant_db
-qdrant_db2
+qdrant_db*

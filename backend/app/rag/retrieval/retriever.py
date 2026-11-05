@@ -36,6 +36,11 @@ def build_client() -> QdrantClient:
     )
 
 
+
+
+
+
+
 def hybrid_search_expanded(
     client: QdrantClient, 
     query_text: EnrichedQuery, 

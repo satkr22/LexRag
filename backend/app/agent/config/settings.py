@@ -18,35 +18,44 @@ class ProviderConfig(StrictConfig):
     init_kwargs: dict[str, Any] = Field(default_factory=dict)
 
 
+class RouteConfig(StrictConfig):
+    active_provider: str
+    fallback_provider: str | None = None
+
+
 class LLMConfig(StrictConfig):
-    active_provider: Literal["gemini", "openai", "query-rewriter", "default"]
     providers: dict[str, ProviderConfig]
+    agent: RouteConfig
+    rag: RouteConfig
 
     @model_validator(mode="after")
     def validate_providers(self):
-
-        supported = {"gemini", "openai", "query-rewriter", "default"}
-
-        unknown = set(self.providers) - supported
-
-        if unknown:
-            raise ValueError(
-                f"Unsupported providers configured: {unknown}"
-            )
-
-        if self.active_provider not in self.providers:
-            raise ValueError(
-                f"Configuration missing for active provider: "
-                f"{self.active_provider}"
-            )
-
-
+        # 1. every configured provider block must be referenced by a route
+        #    (this also catches typos in provider names)
+        for route_name in ("agent", "rag"):
+            route = getattr(self, route_name)
+            for role in ("active_provider", "fallback_provider"):
+                name = getattr(route, role)
+                if name is None:
+                    continue
+                if name not in self.providers:
+                    raise ValueError(
+                        f"llm.{route_name}.{role}={name!r} is not defined "
+                        f"under llm.providers"
+                    )
         return self
 
 
 class AgentConfig(StrictConfig):
     system_prompt: str
     recursion_limit: int = Field(default=20, ge=1)
+    
+    @model_validator(mode="after")
+    def check_prompt_exists(self):
+        p = Path(self.system_prompt)
+        if not p.exists():
+            raise ValueError(f"system prompt not found: {p}")
+        return self
 
 
 class AppConfig(StrictConfig):
@@ -70,5 +79,7 @@ def load_config(
 
     if not isinstance(raw_config, dict):
         raise ValueError("Invalid YAML configuration.")
+    
+
 
     return AppConfig.model_validate(raw_config)

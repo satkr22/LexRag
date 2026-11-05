@@ -4,7 +4,7 @@ from app.rag.data_ingestion.web_scrapper.scrap import main as scrapper
 from app.rag.data_ingestion.parser.parse_html import main as parser 
 from app.rag.data_ingestion.parser.merge_sections import merge_section
 from app.rag.data_ingestion.chunker.chunk import process_corpus as chunker
-from app.rag.vector_embeddings.h_embedder_gpu import main as embedder
+from app.rag.vector_embeddings.server_embedder import main as embedder
 from app.rag.data_ingestion.persistence.persist_sections import push_records
 from app.rag.data_ingestion.persistence.persist_tocs import push_toc
 from app.rag.data_ingestion.persistence.persist_acts import main as embed_acts
@@ -45,7 +45,7 @@ def main():
     print("\nChunking done.")
     
     print("\nStarted Vector Embedding od chunks...")
-    embedder(EMBEDDER_INPUT, VECTOR_DB_PATH)
+    embedder(EMBEDDER_INPUT)
     print("\nEmbedding done.")
     
     print("\n\nData Ingestion Done.")
