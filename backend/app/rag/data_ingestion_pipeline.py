@@ -18,8 +18,6 @@ from app.rag.data_ingestion.persistence.persist_tocs import push_toc
 from app.rag.data_ingestion.persistence.persist_acts import main as embed_acts
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[3]
-
 SCRAPPED_OUTPUT = Path(__file__).parent / "data_ingestion" / "scrapped"
 PARSED_OUTPUT = Path(__file__).parent / "data_ingestion" / "parsed"
 MERGE_OUTPUT = Path(__file__).parent / "data_ingestion" / "parsed" / "aaalll"
@@ -28,7 +26,7 @@ EMBEDDER_INPUT = Path(__file__).parent / "data_ingestion" / "chunked" / "aaalll"
 
 QDRANT_URL = settings.QDRANT_URL
 
-CORPUS_ALEMBIC_CONFIG = PROJECT_ROOT / "alembic-corpus.ini"
+CORPUS_ALEMBIC_CONFIG = Path(__file__).resolve().parents[2] / "alembic-corpus.ini"
 
 
 def initialize_corpus_database():
