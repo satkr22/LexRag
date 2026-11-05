@@ -1,9 +1,9 @@
 from alembic import context
 from logging.config import fileConfig
 
-from backend.app.db.base import Base
-from backend.app.db.session import engine_corpus
-import backend.app.db.corpus_models
+from app.db.base import Base
+from app.db.session import engine_corpus
+import app.db.corpus_models
 
 config = context.config
 
