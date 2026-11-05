@@ -54,7 +54,7 @@ def initialize_corpus_database():
         raise FileNotFoundError(
             f"Alembic configuration not found: {CORPUS_ALEMBIC_CONFIG}"
         )
-    
+
     alembic_config = Config(str(CORPUS_ALEMBIC_CONFIG))
     command.upgrade(alembic_config, "head")
 
