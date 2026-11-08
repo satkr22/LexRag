@@ -289,7 +289,6 @@ async def retrieve(
     
     try:
         result: QueryResponse = await llm_runnable.ainvoke(messages)
-        print(result)
     except Exception as e:
         # log this error 
         # raise ValueError(f"llm response fail: {e}")
@@ -305,7 +304,10 @@ async def retrieve(
         formatted_result = _format_hits(hits, query)
         return formatted_result
     except Exception as e:
-        return {"query": query}
+        return {
+            "query": query,
+            "retriver_failed": True,
+        }
     
         # add this error to log
         # raise ValueError(f"Qdrant retrieval fail: {e}")

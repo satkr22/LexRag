@@ -6,51 +6,54 @@ llm:
         env_var: GEMINI_API_KEY
         constructor_arg: api_key
       init_kwargs:
-        model: "gemini-3.1-flash-lite"
+        model: gemini-3.1-flash-lite
         temperature: 0.1
         timeout: 60
         max_retries: 2
         streaming: true
+        thinking_level: medium # "minimal", "low", "medium", "high"
 
     openai:
       authentication:
         env_var: OPENAI_API_KEY
         constructor_arg: api_key
       init_kwargs:
-        model: "gpt5.6-luna"
+        model: gpt-5.6-luna
         temperature: 0.1
         timeout: 60
         max_retries: 2
         streaming: true
+        reasoning_effort: medium
+
+    default: # for agent
+      authentication:
+        env_var: GEMINI_API_KEY
+        constructor_arg: api_key
+      init_kwargs:
+        model: gemini-3.1-flash-lite
+        temperature: 0.1
+        timeout: 60
+        max_retries: 2
+        streaming: true
+        thinking_level: medium
 
     rag:
       authentication:
         env_var: GEMINI_API_KEY
         constructor_arg: api_key
       init_kwargs:
-        model: "gemini-3.1-flash-lite"
+        model: gemini-3.1-flash-lite
         temperature: 0.1
         timeout: 60
         max_retries: 2
         streaming: false
-
-    default:
-      authentication:
-        env_var: GEMINI_API_KEY
-        constructor_arg: api_key
-      init_kwargs:
-        model: "gemini-3.1-flash-lite"
-        temperature: 0.1
-        timeout: 60
-        max_retries: 2
-        streaming: true
 
     default-rag:
       authentication:
         env_var: GEMINI_API_KEY
         constructor_arg: api_key
       init_kwargs:
-        model: "gemini-3.1-flash-lite"
+        model: gemini-3.1-flash-lite
         temperature: 0.1
         timeout: 60
         max_retries: 2
@@ -68,4 +71,4 @@ llm:
 
 agent:
   system_prompt: app/agent/prompts/system.md
-  recursion_limit: 20
+  recursion_limit: 200

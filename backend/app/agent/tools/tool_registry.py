@@ -4,18 +4,26 @@ from app.agent.tools.tool_description import *
 
 from sqlalchemy.orm import sessionmaker
 from qdrant_client import AsyncQdrantClient
-
+from fastembed import TextEmbedding, SparseTextEmbedding
 from langchain_core.tools import StructuredTool
 
 
 
-def build_legal_tools(
+async def build_legal_tools(
     session_factory: sessionmaker, 
-    client: AsyncQdrantClient
+    client: AsyncQdrantClient,
+    dense_model: TextEmbedding,
+    sparse_model: SparseTextEmbedding,
+    
 ) -> list[StructuredTool]:
 
     async def _get_act(act_name_query: str):
-        return await get_act(client, act_name_query)
+        return await get_act(
+            client=client, 
+            dense_model=dense_model,
+            sparse_model=sparse_model,
+            act_name_query=act_name_query
+        )
 
     async def _view_toc(
         act: str,
@@ -25,6 +33,8 @@ def build_legal_tools(
             return await view_toc(
                 db,
                 client,
+                dense_model,
+                sparse_model,
                 act,
                 tuple(section_range) if section_range is not None else None, # type: ignore
             )
@@ -39,6 +49,8 @@ def build_legal_tools(
             return await get_section(
                 db,
                 client,
+                dense_model,
+                sparse_model,
                 act,
                 section_number,
                 section_id,
@@ -49,35 +61,37 @@ def build_legal_tools(
         acts_filter: list[str] | None = None,
     ):
         return await search_sections(
-            client,
-            query,
-            acts_filter,
+            client=client,
+            dense_model=dense_model,
+            sparse_model=sparse_model,
+            query=query,
+            acts_filter=acts_filter,
         )
 
     tools = [
         StructuredTool.from_function(
-            func=_get_act,
+            coroutine=_get_act,
             name="get_act",
             description=GET_ACT_DESCRIPTION,
             args_schema=GetActInput,
             handle_valiadtion_error=True
         ),
         StructuredTool.from_function(
-            func=_view_toc,
+            coroutine=_view_toc,
             name="view_toc",
             description=VIEW_TOC_DESCRIPTION,
             args_schema=ViewTocInput,
             handle_valiadtion_error=True
         ),
         StructuredTool.from_function(
-            func=_get_section,
+            coroutine=_get_section,
             name="get_section",
             description=GET_SECTION_DESCRIPTION,
             args_schema=GetSectionInput,
             handle_valiadtion_error=True
         ),
         StructuredTool.from_function(
-            func=_search_sections,
+            coroutine=_search_sections,
             name="search_sections",
             description=SEARCH_SECTIONS_DESCRIPTION,
             args_schema=SearchSectionsInput,

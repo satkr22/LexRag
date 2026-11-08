@@ -3,6 +3,7 @@ from typing import Optional
 from pathlib import Path
 
 from qdrant_client import AsyncQdrantClient, models
+from fastembed import TextEmbedding, SparseTextEmbedding
 
 from sqlalchemy import select, func
 from sqlalchemy.orm import Session
@@ -67,11 +68,16 @@ def _map_act_name_to_code(act: str) -> str:
     return ACT_NOT_PRESENT
 
 
-async def _resolve_act(client, act: str) -> Optional[str]:
+async def _resolve_act(
+    client, 
+    dense_model: TextEmbedding, 
+    sparse_model: SparseTextEmbedding,
+    act: str
+) -> Optional[str]:
     code = _map_act_name_to_code(act)
     if code != ACT_NOT_PRESENT:
         return code
-    r = await get_act(client, act)
+    r = await get_act(client, dense_model, sparse_model, act)
     # if r.get("confident") is False:
     #     return None
     return r.get("best") if "error" not in r else None
@@ -80,6 +86,8 @@ async def _resolve_act(client, act: str) -> Optional[str]:
 async def view_toc(
     db: Session,
     client: AsyncQdrantClient,
+    dense_model: TextEmbedding, 
+    sparse_model: SparseTextEmbedding,
     act: str,
     section_range: Optional[tuple[str, str]] = None,
 ) -> dict:
@@ -92,7 +100,7 @@ async def view_toc(
     Always call stage 1 first; echo back one of its `section_range` values.
     """
 
-    act = await _resolve_act(client, act)  # type: ignore
+    act = await _resolve_act(client, dense_model, sparse_model, act)  # type: ignore
     if act is None:
         return {
              "error": "Unable to resolve the supplied Act name. Verify the official Act name or use get_act to resolve its code."
@@ -197,6 +205,8 @@ async def view_toc(
 async def get_section(
     db: Session,
     client: AsyncQdrantClient,
+    dense_model: TextEmbedding, 
+    sparse_model: SparseTextEmbedding,
     act: str | None = None,
     section_number: str | None = None,
     section_id: Optional[str] = None,
@@ -222,7 +232,7 @@ async def get_section(
     if not section_number:
         return {"error": "section_number is required"}
 
-    act = await _resolve_act(client, act)  # type: ignore
+    act = await _resolve_act(client, dense_model, sparse_model, act)  # type: ignore
     if act is None:
         return {
             "error": "act is not present in corpus or act name is wrong. Try with correct act name or code"
@@ -308,9 +318,22 @@ def _normalize_section_number(s: str) -> str:
 
 
 async def search_sections(
-    client: AsyncQdrantClient, query: str, acts_filter: Optional[list[str]] = None
+    client: AsyncQdrantClient, 
+    dense_model: TextEmbedding, 
+    sparse_model: SparseTextEmbedding,
+    query: str, 
+    acts_filter: Optional[list[str]] = None
 ) -> dict:
     """Executes a hybrid search filtered by acts."""
+    
+    dense_vector = next(dense_model.embed([query])).tolist() # type: ignore
+    
+    raw_sparse = next(sparse_model.embed([query])) # type: ignore
+    
+    sparse_vector = models.SparseVector(
+        indices=raw_sparse.indices.tolist(),
+        values=raw_sparse.values.tolist()
+    )
 
     # payload filter by acts
     category_filter = None
@@ -319,7 +342,7 @@ async def search_sections(
     if acts_filter is not None and len(acts_filter) > 0:
 
         for a in acts_filter:
-            _a = await _resolve_act(client, a)  # type: ignore
+            _a = await _resolve_act(client, dense_model, sparse_model, a)  # type: ignore
             if _a is None:
                 return {
                 "error": f"Unable to resolve Act filter: {a}",
@@ -340,17 +363,13 @@ async def search_sections(
         collection_name=CORPUS_COLLECTION_NAME,
         prefetch=[
             models.Prefetch(
-                query=models.Document(
-                    text=query,
-                    model=DENSE_MODEL_NAME,
-                    options={"cuda": INFERENCE_CUDA, "lazy_load": True},
-                ),
+                query=dense_vector,
                 using="",  # this is blank because i have first created dense vector without its label
                 limit=10,
                 filter=category_filter,  # filter to Dense search
             ),
             models.Prefetch(
-                query=models.Document(text=query, model=SPARSE_MODEL_NAME),
+                query=sparse_vector,
                 using="bm25",
                 limit=10,
                 filter=category_filter,  # filter to BM25 search
@@ -369,14 +388,12 @@ async def search_sections(
 
     for hit in hits:
         payload = hit.payload or {}
-        metadata = payload.get("metadata", {})
-
-        # extract metadata
-        act_code = metadata.get("act", "unknown")
-        sec_num = metadata.get("section_number", "unknown")
-        sec_title = metadata.get("section_title", "")
-        sec_id = metadata.get("section_id", "")
-        is_intact = metadata.get("is_intact_section", False)
+        
+        act_code = payload.get("act", "unknown")
+        sec_num = payload.get("section_number", "unknown")
+        sec_title = payload.get("section_title", "")
+        sec_id = payload.get("section_id", "")
+        is_intact = payload.get("is_intact_section", False)
 
         # deduplicate
         unique_key = f"{act_code}_{sec_num}"
@@ -419,26 +436,37 @@ async def search_sections(
     }
 
 
-async def get_act(client: AsyncQdrantClient, act_name_query: str) -> dict:
+async def get_act(
+    client: AsyncQdrantClient, 
+    dense_model: TextEmbedding, 
+    sparse_model: SparseTextEmbedding,
+    act_name_query: str
+) -> dict:
     """
     Executes a hybrid search (Dense + BM25) with Reciprocal Rank Fusion (RRF) to get the act code from the act full name.
     """
+    
+    dense_vector = next(dense_model.embed([act_name_query])).tolist() # type: ignore
+    
+    raw_sparse = next(sparse_model.embed([act_name_query])) # type: ignore
+    
+    sparse_vector = models.SparseVector(
+        indices=raw_sparse.indices.tolist(),
+        values=raw_sparse.values.tolist()
+    )
+    
     results = await client.query_points(
         collection_name=ACTS_COLLECTION_NAME,
         prefetch=[
             # dense search
             models.Prefetch(
-                query=models.Document(
-                    text=act_name_query,
-                    model=DENSE_MODEL_NAME,
-                    options={"cuda": INFERENCE_CUDA, "lazy_load": True},
-                ),
+                query=dense_vector,
                 using="dense",
                 limit=10,
             ),
             # sparse
             models.Prefetch(
-                query=models.Document(text=act_name_query, model=SPARSE_MODEL_NAME),
+                query=sparse_vector,
                 using="bm25",
                 limit=10,
             ),
