@@ -27,7 +27,7 @@ class Settings(BaseSettings):
     DENSE_MODEL_NAME: str = "BAAI/bge-large-en-v1.5"
     SPARSE_MODEL_NAME: str = "Qdrant/bm25"
     QDRANT_INFERENCE_CUDA: bool = True
-    QDRANT_URL: str = str(Path(__file__).parents[3] / "storage" / "qdrant_db2")
+    QDRANT_URL: str
     # QDRANT__SERVICE__API_KEY: str
 
     # Storage

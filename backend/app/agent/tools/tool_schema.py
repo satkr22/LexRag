@@ -80,6 +80,7 @@ class SearchSectionsInput(LegalToolInput):
     acts_filter: list[str] | None = Field(
         default=None,
         min_length=1,
+        max_length=10,
         description=(
             "Optional non-empty list of statutory Act names or canonical corpus "
             "codes restricting the search. Results may belong to ANY of the "

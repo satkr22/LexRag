@@ -9,31 +9,34 @@ from langchain_core.tools import StructuredTool
 
 
 
-def build_legal_tools(session_factory: sessionmaker, client: AsyncQdrantClient):
+def build_legal_tools(
+    session_factory: sessionmaker, 
+    client: AsyncQdrantClient
+) -> list[StructuredTool]:
 
-    def _get_act(act_name_query: str):
-        return get_act(client, act_name_query)
+    async def _get_act(act_name_query: str):
+        return await get_act(client, act_name_query)
 
-    def _view_toc(
+    async def _view_toc(
         act: str,
         section_range: list[str] | None = None,
     ):
         with session_factory() as db: # this is per call or request
-            return view_toc(
+            return await view_toc(
                 db,
                 client,
                 act,
                 tuple(section_range) if section_range is not None else None, # type: ignore
             )
     
-    def _get_section(
-        act: str,
-        section_number: str,
+    async def _get_section(
+        act: str | None = None,
+        section_number: str | None = None,
         section_id: str | None = None,
     ):
                 
         with session_factory() as db:
-            return get_section(
+            return await get_section(
                 db,
                 client,
                 act,
@@ -41,11 +44,11 @@ def build_legal_tools(session_factory: sessionmaker, client: AsyncQdrantClient):
                 section_id,
             )
 
-    def _search_sections(
+    async def _search_sections(
         query: str,
         acts_filter: list[str] | None = None,
     ):
-        return search_sections(
+        return await search_sections(
             client,
             query,
             acts_filter,
@@ -57,24 +60,28 @@ def build_legal_tools(session_factory: sessionmaker, client: AsyncQdrantClient):
             name="get_act",
             description=GET_ACT_DESCRIPTION,
             args_schema=GetActInput,
+            handle_valiadtion_error=True
         ),
         StructuredTool.from_function(
             func=_view_toc,
             name="view_toc",
             description=VIEW_TOC_DESCRIPTION,
             args_schema=ViewTocInput,
+            handle_valiadtion_error=True
         ),
         StructuredTool.from_function(
             func=_get_section,
             name="get_section",
             description=GET_SECTION_DESCRIPTION,
             args_schema=GetSectionInput,
+            handle_valiadtion_error=True
         ),
         StructuredTool.from_function(
             func=_search_sections,
             name="search_sections",
             description=SEARCH_SECTIONS_DESCRIPTION,
             args_schema=SearchSectionsInput,
+            handle_valiadtion_error=True
         ),
     ]
 

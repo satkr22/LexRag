@@ -194,11 +194,11 @@ async def view_toc(
     }
 
 
-def get_section(
+async def get_section(
     db: Session,
     client: AsyncQdrantClient,
-    act: str,
-    section_number: str,
+    act: str | None = None,
+    section_number: str | None = None,
     section_id: Optional[str] = None,
 ) -> dict:
     """

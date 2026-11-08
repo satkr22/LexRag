@@ -1,4 +1,5 @@
-from typing import Literal, Sequence
+from typing import Literal, Sequence, Type
+from pydantic import BaseModel
 
 from langchain_core.language_models import BaseChatModel
 from langchain_core.runnables import Runnable
@@ -69,6 +70,7 @@ def build_chat_model(
     config: LLMConfig,
     route: Literal["agent", "rag"] = "agent",
     tools: Sequence[BaseTool] | None = None,
+    schema: Type[BaseModel] | None = None,
 ) -> Runnable:
     route_cfg: RouteConfig = getattr(config, route)
 
@@ -82,10 +84,17 @@ def build_chat_model(
         if route_cfg.fallback_provider:
             chain.append(_get_agent_model(route_cfg.fallback_provider, config, tools)) # type: ignore
     else:
-        chain = [_get_model(route_cfg.active_provider, config)]
+        primary_model = _get_model(route_cfg.active_provider, config)
+        if schema:
+            primary_model = primary_model.with_structured_output(schema)
+        chain = [primary_model]
+        
         if route_cfg.fallback_provider:
-            chain.append(_get_model(route_cfg.fallback_provider, config))
+            fallback_model = _get_model(route_cfg.fallback_provider, config)
+            if schema:
+                fallback_model = fallback_model.with_structured_output(schema)
+            chain.append(fallback_model)
 
     if len(chain) == 1:
         return chain[0]
-    return chain[0].with_fallbacks(chain[1:])
+    return chain[0].with_fallbacks(chain[1:])  # type: ignore

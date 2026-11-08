@@ -48,7 +48,7 @@ class LLMConfig(StrictConfig):
 
 class AgentConfig(StrictConfig):
     system_prompt: str
-    recursion_limit: int = Field(default=20, ge=1)
+    recursion_limit: int = Field(default=200, ge=1)
     
     @model_validator(mode="after")
     def check_prompt_exists(self):
@@ -63,11 +63,9 @@ class AppConfig(StrictConfig):
     agent: AgentConfig
 
 
-def load_config(
-    config_path: str | Path = "config.yaml",
-) -> AppConfig:
+def load_config() -> AppConfig:
 
-    path = Path(config_path)
+    path = Path(__file__).parent / "config.yaml"
 
     if not path.exists():
         raise FileNotFoundError(
