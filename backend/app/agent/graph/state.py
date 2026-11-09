@@ -13,3 +13,11 @@ class AgentState(TypedDict):
     task: str
     
     iteration: int
+    
+    context_window: int
+    compression_threshold: int
+    current_context_window: int
+    
+    is_compressed: bool
+    
+    token_usage: dict

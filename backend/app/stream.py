@@ -6,7 +6,6 @@ async def streaming(
     payload: dict,
     config: RunnableConfig,
 ):
-    token_usage = {}
     try:
         async for event in graph.astream_events(payload, config=config, version="v2"):
             
@@ -32,10 +31,20 @@ async def streaming(
                 if output:
                     print(f"\nEvent: {kind}:\n")
                     print(output)
-                    token_usage = output.usage_metadata
-            
-        return token_usage
+                    
+        token_usage = {}
+        is_compressed = False
+        
+        final_state = await graph.aget_state(config)
+        
+        if final_state and hasattr(final_state, "values") and isinstance(final_state.values, dict):
+            is_compressed = final_state.values.get("is_compressed", False)
+            token_usage = final_state.values.get("token_usage", {})
+        return {
+            "token_usage": token_usage,
+            "is_compressed": is_compressed,
+        }
     
     except Exception as e:
-        raise ValueError(f"Problem in astream_events: {e}")  
+        raise ValueError(f"Problem in astream_events: {e}") from e
         # return token_usage

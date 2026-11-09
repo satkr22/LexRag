@@ -16,7 +16,14 @@ class AuthenticationConfig(StrictConfig):
 class ProviderConfig(StrictConfig):
     authentication: AuthenticationConfig
     init_kwargs: dict[str, Any] = Field(default_factory=dict)
+    context_window: int = Field(default=128000)
+    compression_threshold: int | None = None
 
+    @model_validator(mode="after")
+    def set_default_threshold(self) -> "ProviderConfig":
+        if self.compression_threshold is None:
+            self.compression_threshold = int(self.context_window * 0.90)
+        return self
 
 class RouteConfig(StrictConfig):
     active_provider: str

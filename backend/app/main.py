@@ -95,7 +95,9 @@ async def main():
         )
     
         config: RunnableConfig = {
-            "configurable": {"thread_id": "__lexrag_1__"},
+            "configurable": {
+                "thread_id": "__lexrag__"
+            },
             "recursion_limit": 200,
         }
     
@@ -140,6 +142,9 @@ async def main():
                 
                 # if there are no messages in the state, it's a new thread
                 existing_messages = current_state.values.get("executor_messages", [])
+                current_context_window = current_state.values.get("current_context_window", 0)
+                token_usage = current_state.values.get("token_usage", {})
+                
                 is_new_thread = len(existing_messages) == 0
                 
                 if is_new_thread == False:
@@ -155,17 +160,25 @@ async def main():
                 payload = {
                     "executor_messages": messages_to_send,
                     "task": query,
-                    "iteration": 0,
+                    "iteration": 0, # this iteration is per chat
+                    "context_window": cfg.llm.providers[cfg.llm.agent.active_provider].context_window,
+                    "compression_threshold": cfg.llm.providers[cfg.llm.agent.active_provider].compression_threshold,
+                    "current_context_window": current_context_window,
+                    "is_compressed": False,
+                    "token_usage": token_usage,
                 }
                 
-                token_usage = await streaming(
+                dict_retunred = await streaming(
                     graph=graph,
                     payload=payload,
                     config=config,
                 )
                 
-                if token_usage:
-                    _print_token_usage(token_usage)
+                if dict_retunred["token_usage"]:
+                    _print_token_usage(dict_retunred["token_usage"])
+                
+                if dict_retunred["is_compressed"]:
+                    print("Context is compressed. Please ask you question again.")
                 
             except Exception as e:
                 print(f"Error Ocuured : {e}")
