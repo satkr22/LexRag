@@ -8,6 +8,7 @@ from langchain_core.runnables import Runnable
 from langchain_core.messages import SystemMessage, HumanMessage
 
 from app.common.config import settings
+from app.common.act_code_mapping import ACT_CODE_TO_NAME
 from app.rag.retrieval.query_llm.data_models import QueryResponse, EnrichedQuery
 
 
@@ -143,22 +144,27 @@ You are an expert legal query routing agent. Your objective is to classify a use
 </taxonomy>
 
 ### INSTRUCTIONS
-1. Analyze the user's query against the <taxonomy> provided above.
-2. Select relevant category IDs only. You must only use IDs that explicitly exist in the taxonomy. 
-3. Generate the dense_query: Rewrite the user's query into a clear, full-sentence semantic search string. Expand on implied legal context, concepts, or synonyms to improve vector embedding similarity. NOT too verbose.
-4. Generate the bm25_keywords: Extract the core legal terms, entities, and actions. Output as a space-separated string, stripping all stop-words and filler words.
+
+1. Evaluate if the query is a genuine legal question, statutory lookup, or legal problem. If it is gibberish, a basic greeting (e.g., 'hi', 'hello'), or completely unrelated to law, set "requires_retrieval" to false.
+2. If "requires_retrieval" is true, Select relevant category IDs only. You must only use IDs that explicitly exist in the <taxonomy> provided above. 
+3. If "requires_retrieval" is true, Generate the dense_query: Rewrite the user's query into a clear, full-sentence semantic search string. Expand on implied legal context, concepts, or synonyms to improve vector embedding similarity. NOT too verbose.
+4. If "requires_retrieval" is true, Generate the bm25_keywords: Extract the core legal terms, entities, and actions. Output as a space-separated string, stripping all stop-words and filler words.
+5. If "requires_retrieval" is false, leave category_ids as an empty list, and set dense_query and bm25_keywords to empty strings.
+
 
 ### OUTPUT REQUIREMENTS
 
-Return a JSON object matching this exact json structure:
+Return a JSON object matching this exact structure:
     {{
+        "requires_retrieval": true/false,
         "category_ids": [..],
         "enriched_query": {{
-            "dense_query": "A complete semantic search query.",
-            "bm25_keywords": "keyword1 keyword2 keyword3"
+            "dense_query": "Semantic query or empty",
+            "bm25_keywords": "keywords or empty"
         }}
     }}
 """
+
 
 async def _hybrid_search(
     client: AsyncQdrantClient, 
@@ -212,7 +218,6 @@ async def _hybrid_search(
         limit=limit,
         with_payload=True
     )
-    
     return respone.points
 
 
@@ -253,12 +258,17 @@ def _format_hits(hits: list, query: str) -> dict[str, Any]:
                 snippet = snippet[:1000].rsplit(" ", 1)[0] + "..."
             is_complete = False
 
+        if ACT_CODE_TO_NAME.get(act_code):
+            doc_title = ACT_CODE_TO_NAME[act_code]
+        else:
+            doc_title = act_code
         formatted_results.append(
             {
                 "act_code": act_code,
                 "section_id": sec_id,
                 "section_number": sec_num,
                 "section_title": sec_title,
+                "document_title": doc_title,
                 "is_complete": is_complete,
                 "text": snippet,
             }
@@ -268,7 +278,7 @@ def _format_hits(hits: list, query: str) -> dict[str, Any]:
         "query": query,
         "count": len(formatted_results),
         "results": formatted_results,
-        "hint": "If 'is_complete' is False, call get_section using the result's 'act_code' and 'section_number' and 'section_id'.",
+        "hint": "If 'is_complete' is False, call get_section using the result's 'act_code', 'section_number' and 'section_id'.",
     }
 
 
@@ -293,15 +303,27 @@ async def retrieve(
         # log this error 
         # raise ValueError(f"llm response fail: {e}")
         result = QueryResponse(
+            requires_retrieval= True,
             category_ids=[],
             enriched_query=EnrichedQuery(
                 dense_query=query,
                 bm25_keywords=query
             )
         )
+        
+    if not result.requires_retrieval:
+        return {
+            "query": query,
+            "count": 0,
+            "results": [],
+            "requires_retrieval": False,
+            "hint": "Query bypassed RAG retrieval because it was classified as non-legal or conversational."
+        }
+    
     try:
         hits = await _hybrid_search(client, dense_model, sparse_model, result.enriched_query, result.category_ids, TOP_K)
         formatted_result = _format_hits(hits, query)
+        formatted_result["requires_retrieval"] = True
         return formatted_result
     except Exception as e:
         return {

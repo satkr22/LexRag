@@ -141,23 +141,26 @@ You are an expert legal query routing agent. Your objective is to classify a use
 </taxonomy>
 
 ### INSTRUCTIONS
-1. Analyze the user's query against the <taxonomy> provided above.
-2. Select relevant category IDs only. You must only use IDs that explicitly exist in the taxonomy. 
-3. Generate the dense_query: Rewrite the user's query into a clear, full-sentence semantic search string. Expand on implied legal context, concepts, or synonyms to improve vector embedding similarity. NOT too verbose.
-4. Generate the bm25_keywords: Extract the core legal terms, entities, and actions. Output as a space-separated string, stripping all stop-words and filler words.
+
+1. Evaluate if the query is a genuine legal question, statutory lookup, or legal problem. If it is gibberish, a basic greeting (e.g., 'hi', 'hello'), or completely unrelated to law, set "requires_retrieval" to false.
+2. If "requires_retrieval" is true, Select relevant category IDs only. You must only use IDs that explicitly exist in the <taxonomy> provided above. 
+3. If "requires_retrieval" is true, Generate the dense_query: Rewrite the user's query into a clear, full-sentence semantic search string. Expand on implied legal context, concepts, or synonyms to improve vector embedding similarity. NOT too verbose.
+4. If "requires_retrieval" is true, Generate the bm25_keywords: Extract the core legal terms, entities, and actions. Output as a space-separated string, stripping all stop-words and filler words.
+5. If "requires_retrieval" is false, leave category_ids as an empty list, and set dense_query and bm25_keywords to empty strings.
+
 
 ### OUTPUT REQUIREMENTS
 
-Return a JSON object matching this exact json structure:
+Return a JSON object matching this exact structure:
     {{
+        "requires_retrieval": true/false,
         "category_ids": [..],
         "enriched_query": {{
-            "dense_query": "A complete semantic search query.",
-            "bm25_keywords": "keyword1 keyword2 keyword3"
+            "dense_query": "Semantic query or empty",
+            "bm25_keywords": "keywords or empty"
         }}
     }}
 """
-
 
 async def generate_response_gemini(query: str):
 

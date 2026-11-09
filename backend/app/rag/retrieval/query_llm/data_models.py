@@ -11,6 +11,10 @@ class EnrichedQuery(BaseModel):
     )
 
 class QueryResponse(BaseModel):
+    requires_retrieval: bool = Field(
+        description="Set to True ONLY if the user query is a legal question or problem requiring reference law lookups. Set to False for generic greetings, garbage, out-of-scope text, or simple conversation."
+    )
+    
     category_ids: List[str] = Field(
         description="List of category IDs (e.g., CAT_001, CAT_002) that best match the user's query. Select ALL relevant categories from the given category dictionary."
     )

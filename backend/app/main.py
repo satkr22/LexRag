@@ -9,6 +9,7 @@ from fastembed import TextEmbedding, SparseTextEmbedding
 
 from langchain_core.runnables import RunnableConfig
 from langchain_core.messages import SystemMessage, HumanMessage
+from langgraph.checkpoint.postgres.aio import AsyncPostgresSaver
 
 from app.common.config import settings
 from app.db.session import SessionLocal_corpus, SessionLocal_main
@@ -48,12 +49,25 @@ def _warmup_embedding_models():
     return dense_model, sparse_model
 
 
+def _print_token_usage(token_usage: dict):
+    
+    print("\n\nToken Usage:\n")
+    print("Input:", token_usage.get("input_tokens", 0))
+    print("Output:", token_usage.get("output_tokens", 0))
+    print("Total:", token_usage.get("total_tokens", 0))
+    
+    print("Cache read:", token_usage.get("input_token_details", {}).get("cache_read", 0))
+    
+    print("Cache read Charge:", token_usage.get("input_token_details", {}).get("cache_read", 0))
+    
+    print("Input Token Charge:", token_usage.get("input_tokens", 0) - token_usage.get("input_token_details", {}).get("cache_read", 0))
+    
+    print("Output Token Charge:", token_usage.get("output_tokens", 0))
+
 async def main():
     
     client_q = _build_qdrant_client()
-    
     dense_model, sparse_model = _warmup_embedding_models()
-    
     cfg = load_config()
     
     tools = await build_legal_tools(
@@ -65,78 +79,100 @@ async def main():
     
     llm_rag = build_chat_model(config=cfg.llm, route="rag", schema=QueryResponse)
     llm_agent = build_chat_model(config=cfg.llm, route="agent", tools=tools)
-    
     agent_system_prompt = Path(cfg.agent.system_prompt).resolve().read_text()
-            
-    graph = create_graph(
-        executor_model=llm_agent,
-        structured_tools=tools,
-    )
     
-    config: RunnableConfig = {
-        "configurable": {"thread_id": "__lexrag__"},
-        "recursion_limit": 200,
-    }
+    DB_URI = settings.DATABASE_URL_MAIN
     
-    while True:
-        try:
-            # user query by input 
-            query = input("\nYou: ")
-            if query == "/exit":
-                break
-            
-            rag_result = await retrieve(
-                query=query,
-                client=client_q,
-                dense_model=dense_model,
-                sparse_model=sparse_model,
-                llm_runnable=llm_rag
-            )
-            
-            retrieved = False
-            if rag_result.get("retriver_failed"):
-                seed_message = f"User Query: {query}"
-            else:
-                seed_message: str = f"""
-                User Query: {query}\n\n
-                Below is the initial result obtained from RAG Hybrid retrieval for the above given user query:\n\n
-                {json.dumps(rag_result, indent=2)}\n\n
-                """
-                retrieved = True
-            
-            print("\nseed:", retrieved, "\n")
-            
-            payload = {
-                "executor_messages": [
-                    SystemMessage(agent_system_prompt),
-                    HumanMessage(seed_message),
-                ],
-                "task": query,
-                "iteration": 0,
-            }
-            
-            token_usage = await streaming(
-                graph=graph,
-                payload=payload,
-                config=config,
-            )
-            
-            if token_usage:
-                print("\n\nToken Usage:\n")
-                print("Input:", token_usage.get("input_tokens", 0))
-                print("Output:", token_usage.get("output_tokens", 0))
-                print("Total:", token_usage.get("total_tokens", 0))
-                print("Cache read:", token_usage.get("input_token_details", {}).get("cache_read", 0))
-                print("New Charged Token Input:", token_usage.get("input_tokens", 0) - token_usage.get("input_token_details", {}).get("cache_read", 0))
-                print("New Charged Token Output:", token_usage.get("output_tokens", 0))
-
-            
-        except Exception as e:
-            print(f"Error Ocuured : {e}")
-            continue
-
+    async with AsyncPostgresSaver.from_conn_string(DB_URI) as checkpointer:
         
+        # create checkpoints tables if they dont exist
+        await checkpointer.setup()
+        
+        graph = create_graph(
+            executor_model=llm_agent,
+            structured_tools=tools,
+            checkpointer=checkpointer
+        )
     
+        config: RunnableConfig = {
+            "configurable": {"thread_id": "__lexrag_1__"},
+            "recursion_limit": 200,
+        }
+    
+        while True:
+            try:
+                # user query by input 
+                query = input("\nYou: ")
+                if query == "/exit":
+                    break
+                
+                rag_result = await retrieve(
+                    query=query,
+                    client=client_q,
+                    dense_model=dense_model,
+                    sparse_model=sparse_model,
+                    llm_runnable=llm_rag
+                )
+                
+                retrieved = False
+                if rag_result.get("retriver_failed"):
+                    seed_message = f"User Query: {query}"
+                else:
+                    seed_message: str = f"""
+                    User Query: {query}\n\n
+                    Below is the initial routing result from RAG Hybrid retrieval:
+                    - Requires Retrieval: {rag_result.get("requires_retrieval")}
+                    - Initial Results Count: {rag_result.get("count")}
+                    
+                    Data Payload:
+                    {json.dumps(rag_result.get("results"), indent=2)}
+                    
+                    - Hint: {rag_result.get("hint")}
+                    """
+                    retrieved = True
+                
+                print("\nseed:", retrieved, "\n\n\n")
+                print(seed_message)
+            
+                
+                # check the current state of this thread from PostgreSQL checkpointer
+                current_state = await graph.aget_state(config)
+                
+                # if there are no messages in the state, it's a new thread
+                existing_messages = current_state.values.get("executor_messages", [])
+                is_new_thread = len(existing_messages) == 0
+                
+                if is_new_thread == False:
+                    print("\nGot the old context\n")
+                
+                messages_to_send = []
+                
+                if is_new_thread:
+                    messages_to_send.append(SystemMessage(agent_system_prompt))
+                
+                messages_to_send.append(HumanMessage(seed_message))
+                
+                payload = {
+                    "executor_messages": messages_to_send,
+                    "task": query,
+                    "iteration": 0,
+                }
+                
+                token_usage = await streaming(
+                    graph=graph,
+                    payload=payload,
+                    config=config,
+                )
+                
+                if token_usage:
+                    _print_token_usage(token_usage)
+                
+            except Exception as e:
+                print(f"Error Ocuured : {e}")
+                continue
+
+            
+        
     
 if __name__ == "__main__":
     asyncio.run(main())
