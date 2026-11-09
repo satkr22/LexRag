@@ -12,7 +12,7 @@ llm:
         max_retries: 2
         streaming: true
         thinking_level: medium # "minimal", "low", "medium", "high"
-      context_window: 10000
+      context_window: 128000
 
     openai:
       authentication:

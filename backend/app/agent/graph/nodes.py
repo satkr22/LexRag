@@ -40,7 +40,7 @@ def create_compression_node(model: Runnable):
         
         messages = state["executor_messages"]
             
-        summary_prompt = f"Condense the following conversation into a dense summary. Retain all specific legal facts, user constraints, and Indian statutory references.placeholder\n\n{messages}"
+        summary_prompt = f"Condense the following conversation into a dense summary. Retain all specific legal facts, user constraints, and Indian statutory references. Messages are:\n\n{messages}"
         
         messages_to_send = [HumanMessage(content=summary_prompt)]
         

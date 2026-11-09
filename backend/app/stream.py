@@ -5,8 +5,10 @@ async def streaming(
     graph,
     payload: dict,
     config: RunnableConfig,
+    evaluation_dict: dict,
 ):
     try:
+        tool_results = []
         async for event in graph.astream_events(payload, config=config, version="v2"):
             
             kind = event["event"]
@@ -25,6 +27,7 @@ async def streaming(
             
             elif kind == "on_tool_end":
                 tool_output = event["data"]["output"]
+                tool_results.append(tool_output)
                     
             elif kind == "on_chat_model_end":
                 output = event["data"].get("output")
@@ -32,6 +35,8 @@ async def streaming(
                     print(f"\nEvent: {kind}:\n")
                     print(output)
                     
+        evaluation_dict["tool_output"] = tool_results
+        
         token_usage = {}
         is_compressed = False
         
@@ -40,9 +45,12 @@ async def streaming(
         if final_state and hasattr(final_state, "values") and isinstance(final_state.values, dict):
             is_compressed = final_state.values.get("is_compressed", False)
             token_usage = final_state.values.get("token_usage", {})
+            evaluation_dict["final_output"] = final_state.values.get("executor_messages", [])[-1].content
+            
         return {
             "token_usage": token_usage,
             "is_compressed": is_compressed,
+            "evaluation_dict": evaluation_dict
         }
     
     except Exception as e:

@@ -83,6 +83,8 @@ async def main():
     
     DB_URI = settings.DATABASE_URL_MAIN
     
+    evaluation_dict = {}
+    
     async with AsyncPostgresSaver.from_conn_string(DB_URI) as checkpointer:
         
         # create checkpoints tables if they dont exist
@@ -115,6 +117,9 @@ async def main():
                     sparse_model=sparse_model,
                     llm_runnable=llm_rag
                 )
+                
+                # for evaluation dataset
+                evaluation_dict["seed_rag_result"] = rag_result
                 
                 retrieved = False
                 if rag_result.get("retriver_failed"):
@@ -172,6 +177,7 @@ async def main():
                     graph=graph,
                     payload=payload,
                     config=config,
+                    evaluation_dict=evaluation_dict
                 )
                 
                 if dict_retunred["token_usage"]:
@@ -179,6 +185,14 @@ async def main():
                 
                 if dict_retunred["is_compressed"]:
                     print("Context is compressed. Please ask you question again.")
+                    
+                if dict_retunred["evaluation_dict"]:
+                    eval_dir =  Path("app/agent").resolve() / "evaluation"
+                    eval_dir.mkdir(parents=True, exist_ok=True)
+                    eval_json = eval_dir / "eval_dataset_agent.jsonl" 
+                    
+                    with eval_json.open("a", encoding="utf-8") as f:
+                        f.write(f"{json.dumps(evaluation_dict, ensure_ascii=False, indent= 2)}\n")
                 
             except Exception as e:
                 print(f"Error Ocuured : {e}")
