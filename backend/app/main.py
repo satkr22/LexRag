@@ -93,15 +93,18 @@ async def main():
                 llm_runnable=llm_rag
             )
             
+            retrieved = False
             if rag_result.get("retriver_failed"):
                 seed_message = f"User Query: {query}"
-                
             else:
                 seed_message: str = f"""
                 User Query: {query}\n\n
                 Below is the initial result obtained from RAG Hybrid retrieval for the above given user query:\n\n
                 {json.dumps(rag_result, indent=2)}\n\n
                 """
+                retrieved = True
+            
+            print("\nseed:", retrieved, "\n")
             
             payload = {
                 "executor_messages": [
@@ -124,8 +127,8 @@ async def main():
                 print("Output:", token_usage.get("output_tokens", 0))
                 print("Total:", token_usage.get("total_tokens", 0))
                 print("Cache read:", token_usage.get("input_token_details", {}).get("cache_read", 0))
-                print("New Charged Token Input", token_usage.get("input_tokens", 0) - token_usage.get("input_token_details", {}).get("cache_read", 0))
-                print("New Charged Token Output", token_usage.get("output_tokens", 0))
+                print("New Charged Token Input:", token_usage.get("input_tokens", 0) - token_usage.get("input_token_details", {}).get("cache_read", 0))
+                print("New Charged Token Output:", token_usage.get("output_tokens", 0))
 
             
         except Exception as e:
@@ -141,13 +144,46 @@ if __name__ == "__main__":
     
     
 """
-docker startup commands in sequence:
+startup commands in sequence:
 
-docker compose -f backend/docker-compose.yaml --env-file .env up -d postgres qdrant
+cd backend
 docker compose -f docker-compose.yaml --env-file ../.env up -d postgres qdrant
-
+python -m app.main
 
 """
 
 
 # a thief snatched my purse and ran away what should i do next ??
+
+"""
+test_queries = [
+    # Cross-Category Queries (Tests Router Multi-Labeling)
+    "What is the limitation period for filing a suit for a breached commercial contract?",
+    "Is electronic evidence, such as a WhatsApp chat, admissible to prove domestic violence?",
+    "If a minor inherits immovable property, can their guardian sell it without court permission?",
+    "What are the penalties for a company director if a corporate cheque bounces due to insufficient funds?",
+
+    # Dense/Semantic Heavy Queries (Tests Vector Retrieval)
+    "Can I back out of a property purchase if the seller hid the fact that the roof was collapsing?",
+    "My boss promised me a partnership share but only gave it to me verbally, is that legally binding?",
+    "What happens to a person's bank accounts and house if they die without writing a will?",
+    "A police officer refused to register my complaint about a stolen phone. What are my options?",
+
+    # Lexical/Keyword Heavy Queries (Tests BM25 Search)
+    "What are the grounds for eviction under the Transfer of Property Act 1882?",
+    "What is the penalty for cyber terrorism under Section 66F of the Information Technology Act?",
+    "Define 'Data Fiduciary' and 'Data Principal' under the Digital Personal Data Protection Act 2023.",
+    "What constitutes 'organized crime' under the Bharatiya Nyaya Sanhita 2023?",
+
+    # Out-of-Distribution & Edge Cases (Tests System Boundaries)
+    "What is the procedure for registering a trademark for my new clothing brand?",
+    "What are the labor laws regarding maximum working hours in a factory?",
+    "How much security deposit can a landlord legally demand in Delhi?",
+
+    # Procedural vs. Substantive Exceptions (Tests Chunking & Context)
+    "Is an oral agreement to sell real estate valid, or does it strictly require registration?",
+    "Can a consumer court reject a complaint if the product was bought for commercial resale?",
+    "Under what exact conditions can the police arrest someone without a warrant under the BNSS?"
+]
+
+"""
