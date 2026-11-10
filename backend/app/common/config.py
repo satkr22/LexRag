@@ -16,9 +16,11 @@ class Settings(BaseSettings):
     POSTGRES_PASSWORD: str
     
     POSTGRES_DB_CORPUS: str
+    POSTGRES_DB_USERS: str
     POSTGRES_DB_MAIN: str
     
     DATABASE_URL_CORPUS: str
+    DATABASE_URL_USERS: str
     DATABASE_URL_MAIN: str
     
     # Qdrant
@@ -29,9 +31,7 @@ class Settings(BaseSettings):
     QDRANT_INFERENCE_CUDA: bool = True
     QDRANT_URL: str
     # QDRANT__SERVICE__API_KEY: str
-
-    # Storage
-    # STORAGE_PATH: str = "storage"
+    
     
     # frontend
     # VITE_FRONTEND_API_URL: str

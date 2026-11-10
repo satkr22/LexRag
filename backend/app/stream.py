@@ -27,6 +27,7 @@ async def streaming(
             
             elif kind == "on_tool_end":
                 tool_output = event["data"]["output"]
+                tool_output["tool_name"] = event["name"]
                 tool_results.append(tool_output)
                     
             elif kind == "on_chat_model_end":

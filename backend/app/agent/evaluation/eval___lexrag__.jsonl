@@ -1,0 +1,70 @@
+{
+  "seed_rag_result": {
+    "query": "Can I back out of a property purchase if the seller hid the fact that the roof was collapsing?\"",
+    "count": 4,
+    "results": [
+      {
+        "act_code": "transfer-of-property",
+        "section_id": "transfer-of-property_section_55",
+        "section_number": "55",
+        "section_title": "Rights and liabilities of buyer and seller.",
+        "document_title": "Transfer of Property Act, 1882",
+        "is_complete": false,
+        "text": "In the absence of a contract to the contrary, the buyer and the seller of immoveable property respectively are subject to the liabilities, and have the rights, mentioned in the rules next following, or such of them as are applicable to the property sold:\n\n(1) The seller is bound—\n  (b) unless he has improperly declined to accept delivery of the property, to a charge on the property, as against the seller and all persons claiming under him 1 *** to the extent of the seller's interest in the property, for the amount of any purchase-money properly paid by the buyer in anticipation of the delivery and for interest on such amount; and, when he properly declines to accept the delivery, also for the earnest (if any) and for the costs (if any) awarded to him of a suit to compel specific performance of the contract or to obtain a decree for its rescission. An omission to make such disclosures as are mentioned in this section, paragraph (1), clause (a), and paragraph (5), clause (a), is..."
+      },
+      {
+        "act_code": "contract",
+        "section_id": "contract_section_116",
+        "section_number": "116",
+        "section_title": "Seller when not responsible for latent defects.",
+        "document_title": "Indian Contract Act, 1872",
+        "is_complete": true,
+        "text": ""
+      },
+      {
+        "act_code": "sale-of-goods",
+        "section_id": "sale-of-goods_section_13",
+        "section_number": "13",
+        "section_title": "When condition to be treated as warranty.",
+        "document_title": "Sale of Goods Act, 1930",
+        "is_complete": true,
+        "text": "(1) Where a contract of sale is subject to any condition to be fulfilled by the seller, the buyer may waive the condition or elect to treat the breach of the condition as a breach of warranty and not as a ground for treating the contract as repudiated.\n(2) Where a contract of sale is not severable and the buyer has accepted the goods or part thereof, 1*** the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty and not as a ground for rejecting the goods and treating the contract as .repudiated, unless there is a term of the contract, express or implied, to that effect.\n(3) Nothing in this section shall affect the case of any condition or warranty fulfilment of which is excused by law by reason of impossibility or otherwise."
+      },
+      {
+        "act_code": "contract",
+        "section_id": "contract_section_215",
+        "section_number": "215",
+        "section_title": "Right of principal when agent deals, on his own account, in business of agency without principal’s consent.",
+        "document_title": "Indian Contract Act, 1872",
+        "is_complete": true,
+        "text": "If an agent deals on his own account in the business of the agency, without first obtaining the consent of his principal and acquainting him with all material circumstances which have come to his own knowledge on the subject, the principal may repudiate the transaction, if the case shows, either that any material fact has been dishonestly concealed from him by the agent, or that the dealings of the agent have been disadvantageous to him.\nIllustrations\n(a)A directs B to sell A’s estate. B buys the estate for himself in the name of C. A, on discovering that B has bought the estate for himself, may repudiate the sale, if he can show that B has dishonestly concealed any material fact, or that the sale has been disadvantageous to him.\n(b)A directs B to sell A’s estate B, on looking over the estate before selling it, finds a mine on the estate which is unknown to A. B informs A that he wishes to buy the estate for himself, but conceals the discovery of the mine. A allows B to buy, in ignorance of the existence of the mine. A, on discovering that B knew of the mine at the time he bought the estate, may either repudiate or adopt the sale at his option."
+      }
+    ],
+    "hint": "If 'is_complete' is False, call get_section using the result's 'act_code', 'section_number' and 'section_id'.",
+    "requires_retrieval": true
+  },
+  "tool_output": [
+    {
+      "act": "contract",
+      "section_id": "contract_section_116",
+      "section_number": "116",
+      "section_title": "Seller when not responsible for latent defects.",
+      "chapter_number": "Chapter VII",
+      "chapter_title": "Sales of Goods",
+      "document_title": null,
+      "content": "",
+      "content_chars": 0,
+      "tool_name": "get_section"
+    }
+  ],
+  "final_output": [
+    {
+      "type": "text",
+      "text": "The Indian Contract Act, 1872, does not contain a section 116 regarding latent defects in property; the previous search result appears to be an empty or misidentified reference. The governing law for the sale of immovable property in India is the **Transfer of Property Act, 1882 (TPA)**.\n\nAs previously established, under the **Transfer of Property Act, 1882**, the seller has a statutory duty to disclose material defects:\n\n*   **Duty to Disclose:** The seller is bound to disclose to the buyer any **material defect** in the property of which the seller is aware, but the buyer is not, and which the buyer could not discover with ordinary care [TPA Section 55(1)(a)].\n*   **Fraudulent Omission:** The law explicitly states that an omission to make such disclosures is **fraudulent** [TPA Section 55(6)].\n*   **Right to Rescind:** If the seller has committed fraud by concealing a material defect (such as a collapsing roof), you may be entitled to rescind (cancel) the contract. If you properly decline to accept delivery of the property due to such a breach, you are entitled to a charge on the property for the amount of any purchase money you have already paid, as well as for any earnest money and costs awarded to you in a suit for rescission [TPA Section 55(6)(b)].\n\n### **Important Clarification**\n*   **Immovable vs. Movable Property:** The *Sale of Goods Act, 1930* (which you may have seen in search results) applies to **movable goods**, not real estate. Therefore, Section 13 of that Act is not applicable to your property purchase.\n*   **\"As-Is\" Clauses:** While some contracts include \"as-is\" clauses, these generally do not protect a seller who has **fraudulently concealed** a known material defect.\n\n### **Recommended Next Steps**\n1.  **Gather Evidence:** Document the condition of the roof with photographs and, if possible, a report from a structural engineer or professional inspector.\n2.  **Review Your Contract:** Examine your sale agreement for any specific clauses regarding property condition.\n3.  **Consult a Lawyer:** Because rescinding a contract for the sale of immovable property involves complex legal procedures, you should consult with a lawyer to issue a formal notice to the seller and, if necessary, initiate legal proceedings to recover your money and rescind the agreement.\n\n***Disclaimer:** I am an AI, not a lawyer. This information is based on the Transfer of Property Act, 1882. Property disputes are highly fact-specific; please consult with a qualified legal professional to evaluate your specific contract and situation.*",
+      "index": 0,
+      "extras": {
+        "signature": "EnMKcQFpFH0T/QMz3DvtWdvc/jv/mleGAYHNZ4wnDkFeDpWjXlg5/zrnA2ALZaw3m8//0HSCI7JSpZC/TcDrHNVyaTI4hROgwXbYZbZ3rrvrlbMBgndoDHBpOzTLrP+HToKA0RdXUO67aeGrsJbYiNjyquFB"
+      }
+    }
+  ]
+}

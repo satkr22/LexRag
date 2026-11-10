@@ -12,7 +12,7 @@ from langchain_core.messages import SystemMessage, HumanMessage
 from langgraph.checkpoint.postgres.aio import AsyncPostgresSaver
 
 from app.common.config import settings
-from app.db.session import SessionLocal_corpus, SessionLocal_main
+from app.db.session import SessionLocal_corpus, SessionLocal_users
 
 from app.agent.llm.router import build_chat_model
 from app.agent.config.settings import load_config
@@ -189,7 +189,7 @@ async def main():
                 if dict_retunred["evaluation_dict"]:
                     eval_dir =  Path("app/agent").resolve() / "evaluation"
                     eval_dir.mkdir(parents=True, exist_ok=True)
-                    eval_json = eval_dir / "eval_dataset_agent.jsonl" 
+                    eval_json = eval_dir / f"eval_{config["configurable"]["thread_id"]}.jsonl" 
                     
                     with eval_json.open("a", encoding="utf-8") as f:
                         f.write(f"{json.dumps(evaluation_dict, ensure_ascii=False, indent= 2)}\n")
@@ -206,17 +206,45 @@ if __name__ == "__main__":
     
     
     
+    
+
 """
 startup commands in sequence:
 
 cd backend
-docker compose -f docker-compose.yaml --env-file ../.env up -d postgres qdrant
+docker compose up -d postgres qdrant
 python -m app.main
 
 """
 
+"""
+# alembic
 
-# a thief snatched my purse and ran away what should i do next ??
+# for initialization:
+$ alembic -c alembic-users.ini init alembic_users
+then edit env.py and .ini file
+
+
+# for running migrations:
+$ alembic -c alembic-users.ini revision --autogenerate -m "message"
+
+
+# for applying migration to db
+NOTE(CRITICAL): always check auto-generated migrations bfore applying it
+$ alembic -c alembic-users.ini upgrade head
+
+
+# for checking current migration head
+$ alembic -c alembic-users.ini current
+
+"""
+
+
+# docker compose -f docker-compose.yaml --env-file ../.env up -d postgres qdrant
+
+
+
+
 
 """
 test_queries = [

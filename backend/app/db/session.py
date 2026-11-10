@@ -3,15 +3,15 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 database_url_corpus = settings.DATABASE_URL_CORPUS
-database_url_main = settings.DATABASE_URL_MAIN
+database_url_users = settings.DATABASE_URL_USERS
 
 engine_corpus = create_engine(
     url=database_url_corpus,
     echo=False
 )
 
-engine_main = create_engine(
-    url=database_url_main,
+engine_users = create_engine(
+    url=database_url_users,
     echo=False
 )
 
@@ -21,8 +21,8 @@ SessionLocal_corpus = sessionmaker(
     autocommit=False
 )
 
-SessionLocal_main = sessionmaker(
-    bind=engine_main,
+SessionLocal_users = sessionmaker(
+    bind=engine_users,
     autoflush=False,
     autocommit=False
 )
@@ -38,7 +38,7 @@ def get_db_corpus():
         db.close()
 
 def get_db_main():
-    db = SessionLocal_main()
+    db = SessionLocal_users()
     try:
         yield db
     finally:
