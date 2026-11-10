@@ -68,3 +68,102 @@
     }
   ]
 }
+{
+  "seed_rag_result": {
+    "query": "hi",
+    "count": 0,
+    "results": [],
+    "requires_retrieval": false,
+    "hint": "Query bypassed RAG retrieval because it was classified as non-legal or conversational."
+  },
+  "tool_output": [],
+  "final_output": [
+    {
+      "type": "text",
+      "text": "Hello! I am your Indian Legal Research and Statutory Reasoning Agent. I can assist you by identifying relevant Indian statutory provisions, retrieving their complete text, and providing explanations based on the available legal corpus.\n\nHow can I assist you with your legal research today?",
+      "index": 0,
+      "extras": {
+        "signature": "EnMKcQFpFH0TUE6CN0zknmZMkMAIjEYPKarwDc4keV8bDDRcvCTBdXWShNnf/XqrVDvYsESQ4MXc0/Qy9++mEHyP2MxjL4URl8nYM8MSbbp6/UUoEItYhLvcFZlS9gUDybUVin7IrXcFWPiwJdI2mP/Mbjj9"
+      }
+    }
+  ]
+}
+{
+  "seed_rag_result": {
+    "query": "Under what exact conditions can the police arrest someone without a warrent",
+    "count": 5,
+    "results": [
+      {
+        "act_code": "bnss",
+        "section_id": "bnss_section_55",
+        "section_number": "55",
+        "section_title": "Procedure when police officer deputes subordinate to arrest without warrant",
+        "document_title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "is_complete": true,
+        "text": "(1)When any officer in charge of a police station or any police officer making an investigation under Chapter XIII requires any officer subordinate to him to arrest without a warrant (otherwise than in his presence) any person who may lawfully be arrested without a warrant, he shall deliver to the officer required to make the arrest an order in writing, specifying the person to be arrested and the offence or other cause for which the arrest is to be made and the officer so required shall, before making the arrest, notify to the person to be arrested the substance of the order and, if so required by such person, shall show him the order.\n(2)Nothing in sub-section (1) shall affect the power of a police officer to arrest a person under section 35."
+      },
+      {
+        "act_code": "prevention-of-corruption",
+        "section_id": "prevention-of-corruption_section_17",
+        "section_number": "17",
+        "section_title": "Persons authorised to investigate.",
+        "document_title": "Prevention of Corruption Act, 1988",
+        "is_complete": true,
+        "text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), no police officer below the rank,—\n(a) in the case of the Delhi Special Police Establishment, of an Inspector of Police;\n(b) in the metropolitan areas of Bombay, Calcutta, Madras and Ahmedabad and in any other metropolitan area notified as such under sub-section (1) of section 8 of the Code of Criminal Procedure, 1973 (2 of 1974), of an Assistant Commissioner of Police;\n(c) elsewhere, of a Deputy Superintendent of Police or a police officer of equivalent rank, shall investigate any offence punishable under this Act without the order of a Metropolitan Magistrate or a Magistrate of the first class, as the case may be, or make any arrest therefor without a warrant:\nProvided that if a police officer not below the rank of an Inspector of Police is authorised by the State Government in this behalf by general or special order, he may also investigate any such offence without the order of a Metropolitan Magistrate or a Magistrate of the first class, as the case may be, or make arrest therefor without a warrant:\nProvided further that an offence referred to in 1[clause (b) of sub-section (1)] of section 13 shall not be investigated without the order of a police officer not below the rank of a Superintendent of Police."
+      },
+      {
+        "act_code": "bnss",
+        "section_id": "bnss_section_49",
+        "section_number": "49",
+        "section_title": "Search of arrested person",
+        "document_title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "is_complete": true,
+        "text": "(1)Whenever,—\n(i)a person is arrested by a police officer under a warrant which does not provide for the taking of bail, or under a warrant which provides for the taking of bail but the person arrested cannot furnish bail; and\n(ii)a person is arrested without warrant, or by a private person under a warrant, and cannot legally be admitted to bail, or is unable to furnish bail,\nthe officer making the arrest or, when the arrest is made by a private person, the police officer to whom he makes over the person arrested, may search such person, and place in safe custody all articles, other than necessary wearing-apparel, found upon him and where any article is seized from the arrested person, a receipt showing the articles taken in possession by the police officer shall be given to such person.\n(2)Whenever it is necessary to cause a female to be searched, the search shall be made by another female with strict regard to decency."
+      },
+      {
+        "act_code": "bnss",
+        "section_id": "bnss_section_35",
+        "section_number": "35",
+        "section_title": "When police may arrest without warrant",
+        "document_title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "is_complete": false,
+        "text": "(1) Any police officer may without an order from a Magistrate and without a warrant, arrest any person—\n  (f) who obstructs a police officer while in the execution of his duty, or who has escaped, or attempts to escape, from lawful custody; or\n  (g) who is reasonably suspected of being a deserter from any of the Armed Forces of the Union; or\n  (h) who has been concerned in, or against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, of his having been concerned in, any act committed at any place out of India which, if committed in India, would have been punishable as an offence, and for which he is, under any law relating to extradition, or otherwise, liable to be apprehended or detained in custody in India; or\n  (i) who, being a released convict, commits a breach of any rule made under sub-section (5) of section 394; or\n  (j) for whose arrest any requisition, whether written or oral, has been received from another..."
+      },
+      {
+        "act_code": "bnss",
+        "section_id": "bnss_section_47",
+        "section_number": "47",
+        "section_title": "Person arrested to be informed of grounds of arrest and of right to bail",
+        "document_title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "is_complete": true,
+        "text": "(1)Every police officer or other person arresting any person without warrant shall forthwith communicate to him full particulars of the offence for which he is arrested or other grounds for such arrest.\n(2)Where a police officer arrests without warrant any person other than a person accused of a non-bailable offence, he shall inform the person arrested that he is entitled to be released on bail and that he may arrange for sureties on his behalf."
+      }
+    ],
+    "hint": "If 'is_complete' is False, call get_section using the result's 'act_code', 'section_number' and 'section_id'.",
+    "requires_retrieval": true
+  },
+  "tool_output": [
+    {
+      "act": "bnss",
+      "section_id": "bnss_section_35",
+      "section_number": "35",
+      "section_title": "When police may arrest without warrant",
+      "chapter_number": "Chapter V",
+      "chapter_title": "Arrest of Persons",
+      "document_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "content": "(1)Any police officer may without an order from a Magistrate and without a warrant, arrest any person—\n(a)who commits, in the presence of a police officer, a cognizable offence; or\n(b)against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years whether with or without fine, if the following conditions are satisfied, namely:—\n(i)the police officer has reason to believe on the basis of such complaint, information, or suspicion that such person has committed the said offence;\n(ii)the police officer is satisfied that such arrest is necessary—\n(a)to prevent such person from committing any further offence; or\n(b)for proper investigation of the offence; or\n(c)to prevent such person from causing the evidence of the offence to disappear or tampering with such evidence in any manner; or\n(d)to prevent such person from making any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to the police officer; or\n(e)as unless such person is arrested, his presence in the Court whenever required cannot be ensured, and the police officer shall record while making such arrest, his reasons in writing:\nProvisoProvided that a police officer shall, in all cases where the arrest of a person is not required under the provisions of this sub-section, record the reasons in writing for not making the arrest; or\n(c)against whom credible information has been received that he has committed a cognizable offence punishable with imprisonment for a term which may extend to more than seven years whether with or without fine or with death sentence and the police officer has reason to believe on the basis of that information that such person has committed the said offence; or\n(d)who has been proclaimed as an offender either under this Sanhita or by order of the State Government; or\n(e)in whose possession anything is found which may reasonably be suspected to be stolen property and who may reasonably be suspected of having committed an offence with reference to such thing; or\n(f)who obstructs a police officer while in the execution of his duty, or who has escaped, or attempts to escape, from lawful custody; or\n(g)who is reasonably suspected of being a deserter from any of the Armed Forces of the Union; or\n(h)who has been concerned in, or against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, of his having been concerned in, any act committed at any place out of India which, if committed in India, would have been punishable as an offence, and for which he is, under any law relating to extradition, or otherwise, liable to be apprehended or detained in custody in India; or\n(i)who, being a released convict, commits a breach of any rule made under sub-section (5) of section 394; or\n(j)for whose arrest any requisition, whether written or oral, has been received from another police officer, provided that the requisition specifies the person to be arrested and the offence or other cause for which the arrest is to be made and it appears therefrom that the person might lawfully be arrested without a warrant by the officer who issued the requisition.\n(2)Subject to the provisions of section 39, no person concerned in a non-cognizable offence or against whom a complaint has been made or credible information has been received or reasonable suspicion exists of his having so concerned, shall be arrested except under a warrant or order of a Magistrate.\n(3)The police officer shall, in all cases where the arrest of a person is not required under sub-section (1) issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence, to appear before him or at such other place as may be specified in the notice.\n(4)Where such a notice is issued to any person, it shall be the duty of that person to comply with the terms of the notice.\n(5)Where such person complies and continues to comply with the notice, he shall not be arrested in respect of the offence referred to in the notice unless, for reasons to be recorded, the police officer is of the opinion that he ought to be arrested.\n(6)Where such person, at any time, fails to comply with the terms of the notice or is unwilling to identify himself, the police officer may, subject to such orders as may have been passed by a competent Court in this behalf, arrest him for the offence mentioned in the notice.\n(7)No arrest shall be made without prior permission of an officer not below the rank of Deputy Superintendent of Police in case of an offence which is punishable for imprisonment of less than three years and such person is infirm or is above sixty years of age.\n",
+      "content_chars": 5050,
+      "tool_name": "get_section"
+    }
+  ],
+  "final_output": [
+    {
+      "type": "text",
+      "text": "Under the **Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)**, the police have the authority to arrest a person without a warrant in specific circumstances. These powers are primarily governed by **Section 35** of the BNSS.\n\n### Conditions for Arrest Without a Warrant\nA police officer may arrest a person without an order from a Magistrate and without a warrant under the following conditions:\n\n1.  **Commission of a Cognizable Offence in Presence:** Any person who commits a cognizable offence in the presence of a police officer [BNSS Section 35(1)(a)].\n2.  **Reasonable Suspicion of Cognizable Offence (Imprisonment up to 7 years):** If there is a reasonable complaint, credible information, or reasonable suspicion that a person has committed a cognizable offence punishable with imprisonment up to seven years, the officer may arrest them if they believe it is necessary to:\n    *   Prevent further offences.\n    *   Ensure proper investigation.\n    *   Prevent the disappearance or tampering of evidence.\n    *   Prevent the intimidation of witnesses.\n    *   Ensure the person's presence in Court when required.\n    *   *Note:* The officer must record their reasons in writing for making such an arrest [BNSS Section 35(1)(b)].\n3.  **Serious Cognizable Offences (Imprisonment > 7 years or Death):** If there is credible information that a person has committed a cognizable offence punishable with more than seven years of imprisonment or death, and the officer has reason to believe the person committed it [BNSS Section 35(1)(c)].\n4.  **Proclaimed Offenders:** Any person who has been proclaimed as an offender by the State Government or under the BNSS [BNSS Section 35(1)(d)].\n5.  **Possession of Stolen Property:** Any person found in possession of property reasonably suspected to be stolen and who is suspected of having committed an offence related to that property [BNSS Section 35(1)(e)].\n6.  **Obstruction or Escape:** Any person who obstructs a police officer in the execution of their duty, or who has escaped or attempts to escape from lawful custody [BNSS Section 35(1)(f)].\n7.  **Deserters:** Any person reasonably suspected of being a deserter from the Armed Forces of the Union [BNSS Section 35(1)(g)].\n8.  **Extradition/Foreign Offences:** Any person suspected of having committed an act outside India which, if committed in India, would be an offence and for which they are liable to be apprehended under extradition laws [BNSS Section 35(1)(h)].\n9.  **Breach of Released Convict Rules:** A released convict who breaches specific rules regarding their conduct [BNSS Section 35(1)(i)].\n10. **Requisition from another Officer:** When a written or oral requisition is received from another police officer, provided the requisition specifies the person and the offence, and the arrest could have been lawfully made without a warrant by the officer issuing the request [BNSS Section 35(1)(j)].\n\n### Important Safeguards\n*   **Notice of Appearance:** In cases where arrest is not required under Section 35(1), the police officer must issue a notice directing the person to appear before them [BNSS Section 35(3)].\n*   **Information of Grounds:** Any person arrested without a warrant must be informed of the full particulars of the offence or the grounds for their arrest [BNSS Section 47(1)].\n*   **Right to Bail:** If the arrest is for an offence other than a non-bailable one, the person must be informed of their right to be released on bail [BNSS Section 47(2)].\n*   **Age/Infirmity Restriction:** No arrest can be made without the prior permission of an officer not below the rank of Deputy Superintendent of Police if the offence is punishable by less than three years imprisonment and the person is infirm or over sixty years of age [BNSS Section 35(7)].\n\n***Disclaimer:** This information is based on the Bharatiya Nagarik Suraksha Sanhita, 2023. Legal procedures can be complex and depend on specific facts. This summary does not constitute legal advice.*",
+      "index": 0,
+      "extras": {
+        "signature": "EnMKcQFpFH0TNHCvRSXSluonk46GDja+Rsq6mhgnL+DR1fpfc7Z/ikcjsL4AEBiYwzlSPk6AVcqnluqy+skRA6+TKRPIF51vAWtbon5epOelkYmA1FI8fWLY+vdm1lbwqj31qswuThhqsPjRwVkd9Bcxc6ak"
+      }
+    }
+  ]
+}
