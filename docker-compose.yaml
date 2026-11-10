@@ -1,0 +1,53 @@
+
+services:
+  # backend:
+  #   build: ./backend
+  #   container_name: python_backend
+  #   user: "${UID}:${GID}"
+  #   environment:
+  #     HOME: /tmp
+  #   env_file:
+  #     - .env
+  #   ports:
+  #     - "9000:9000"
+  #   depends_on:
+  #     postgres:
+  #       condition: service_healthy
+  #     qdrant:
+  #       condition: service_started
+  #   volumes:  
+  #     - ./backend:/app
+  #   command: python -m app.app.main
+
+  postgres:
+    image: postgres:17
+    container_name: postgres
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB_MAIN}
+      POSTGRES_DB_CORPUS: ${POSTGRES_DB_CORPUS}
+      POSTGRES_DB_USERS: ${POSTGRES_DB_USERS}
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
+      - ./backend/postgres/init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:6333:6333"
+      - "127.0.0.1:6334:6334"
+    volumes:
+      - ./data/qdrant:/qdrant/storage
