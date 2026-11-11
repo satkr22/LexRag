@@ -31,8 +31,6 @@ services:
       POSTGRES_DB: ${POSTGRES_DB_MAIN}
       POSTGRES_DB_CORPUS: ${POSTGRES_DB_CORPUS}
       POSTGRES_DB_USERS: ${POSTGRES_DB_USERS}
-    # ports:
-    #   - "127.0.0.1:5432:5432"
     volumes:
       - ./data/postgres:/var/lib/postgresql/data
       - ./backend/postgres/init:/docker-entrypoint-initdb.d:ro
@@ -46,8 +44,5 @@ services:
     image: qdrant/qdrant:latest
     container_name: qdrant
     restart: unless-stopped
-    # ports:
-    #   - "127.0.0.1:6333:6333"
-    #   - "127.0.0.1:6334:6334"
     volumes:
       - ./data/qdrant:/qdrant/storage
