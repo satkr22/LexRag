@@ -1,8 +1,25 @@
 from fastapi import FastAPI
+from contextlib import asynccontextmanager
+
 from app.common.config import settings
+from app.api.routes.agent import router as agent_router
+from app.agent.runtime.runtime_factory import create_agent_runtime
+from app.agent.services.agent_service import AgentService
 
 
-app = FastAPI()
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+
+    async with create_agent_runtime() as runtime:
+        
+        app.state.agent_service = AgentService(runtime)
+
+        yield
+
+
+app = FastAPI(lifespan=lifespan)
+
+app.include_router(agent_router)
 
 
 @app.get("/")

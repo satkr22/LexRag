@@ -1,5 +1,5 @@
-import onnxruntime as ort
-ort.preload_dlls() # CRITICAL: DO NOT REMOVE
+# import onnxruntime as ort
+# ort.preload_dlls() # CRITICAL: DO NOT REMOVE
 
 import json
 import asyncio
@@ -22,7 +22,7 @@ from app.agent.graph.graph import create_graph
 from app.rag.retrieval.retriever_main import retrieve
 from app.rag.retrieval.query_llm.data_models import QueryResponse
 
-from backend.app.agent.stream import streaming
+from app.agent.stream import streaming
 
 
 
@@ -34,13 +34,19 @@ def _build_qdrant_client() -> AsyncQdrantClient:
     )
     
 def _warmup_embedding_models():
+    cache_dir = "/models/fastembed"
+    
     dense_model = TextEmbedding(
         model_name=settings.DENSE_MODEL_NAME,
-        providers=["CUDAExecutionProvider", "CPUExecutionProvider"]
+        providers=["CPUExecutionProvider"],
+        cache_dir=cache_dir,
+        # providers=["CUDAExecutionProvider", "CPUExecutionProvider"]
     )
     sparse_model = SparseTextEmbedding(
         model_name=settings.SPARSE_MODEL_NAME, 
-        providers=["CUDAExecutionProvider", "CPUExecutionProvider"]
+        providers=["CPUExecutionProvider"],
+        cache_dir=cache_dir,
+        # providers=["CUDAExecutionProvider", "CPUExecutionProvider"]
     )
     dummy_text = "warmup"
     list(dense_model.embed([dummy_text]))
@@ -197,9 +203,6 @@ async def main():
             except Exception as e:
                 print(f"Error Ocuured : {e}")
                 continue
-
-            
-        
     
 if __name__ == "__main__":
     asyncio.run(main())
@@ -212,8 +215,8 @@ if __name__ == "__main__":
 startup commands in sequence:
 
 cd backend
-docker compose up -d postgres qdrant
-python -m app.main
+docker compose up -d
+python -m app.agent.main
 
 """
 
