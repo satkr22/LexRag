@@ -39,4 +39,9 @@ class Chat_Session(Base):
         DateTime(timezone=True),
         nullable=False
     )
+
+    __table_args__ = (
+        Index("idx_chat_sessions_user_id", "user_id"),
+    )
+    
     

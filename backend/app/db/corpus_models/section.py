@@ -4,6 +4,7 @@ from sqlalchemy import (
     Text,
     String,
     DateTime,
+    
     Index
 )
 from sqlalchemy.orm import Mapped, mapped_column
@@ -59,9 +60,9 @@ class Section(Base):
     
     # act category details
     category_id: Mapped[str] = mapped_column(
-            String, 
-            nullable=False
-        )
+        String, 
+        nullable=False
+    )
         
     category_code: Mapped[str] = mapped_column(
         String, 

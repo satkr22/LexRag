@@ -4,13 +4,14 @@ import app.db.corpus_models # here all orm models are imported so that da can cr
 
 def init_db():
     Base.metadata.create_all(bind=engine_corpus)
-    Base.metadata.create_all(bind=engine_users)
+    # Base.metadata.create_all(bind=engine_users)
     
 def init_db_corpus():
     Base.metadata.create_all(bind=engine_corpus)
     
 def init_db_main():
-    Base.metadata.create_all(bind=engine_users)
+    # Base.metadata.create_all(bind=engine_users)
+    pass
 
 if __name__ == "__main__":
     init_db()
