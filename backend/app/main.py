@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from contextlib import asynccontextmanager
 
 from app.common.config import settings
-from app.api.routes.agent import router as agent_router
+from backend.app.api.routes.agent_router import router as agent_router
 from app.agent.runtime.runtime_factory import create_agent_runtime
 from app.agent.services.agent_service import AgentService
 
