@@ -21,6 +21,7 @@ RUN groupadd -r appgroup && \
 
 # 4. Copy requirements and install dependencies
 COPY requirements.txt .
+
 RUN pip install -r requirements.txt
 
 # 5. Copy the rest of your application code

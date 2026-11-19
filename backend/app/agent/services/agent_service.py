@@ -24,6 +24,9 @@ class AgentService:
             "recursion_limit": 200
         }
 
+        yield "event: phase\ndata: " + json.dumps({"phase": "intent", "status": "running"}) + "\n\n"
+        yield "event: phase\ndata: " + json.dumps({"phase": "rag", "status": "running"}) + "\n\n"
+
         rag_result = await retrieve(
             query=query,
             client=runtime.qdrant,
@@ -31,6 +34,9 @@ class AgentService:
             sparse_model=runtime.sparse_model,
             llm_runnable=runtime.llm_rag
         )
+
+        yield "event: phase\ndata: " + json.dumps({"phase": "intent", "status": "complete"}) + "\n\n"
+        yield "event: phase\ndata: " + json.dumps({"phase": "rag", "status": "complete"}) + "\n\n"
 
         evaluation_dict = {
             "seed_rag_result": rag_result

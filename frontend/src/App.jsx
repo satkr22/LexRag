@@ -124,21 +124,23 @@ function Thinking({ items, streaming }) {
       <button
         className="thinking-toggle"
         onClick={() => setOpen((value) => !value)}
+        aria-expanded={open}
       >
         <span className={streaming ? "thinking-dot active" : "thinking-dot"} />
         <span>{streaming ? "Thinking…" : "Thought process"}</span>
-        <span className="chevron">{open ? "⌃" : "⌄"}</span>
+        <span className={open ? "chevron open" : "chevron"} aria-hidden="true" />
       </button>
       {open && (
         <div className="thinking-list">
           {items.map((item, index) => (
             <div className="thinking-item" key={`${item.tool}-${index}`}>
-              <span className={item.done ? "step-icon done" : "step-icon"}>
-                {item.done ? "✓" : "·"}
-              </span>
+              <span
+                className={item.done ? "step-icon done" : "step-icon"}
+                aria-label={item.done ? "Completed" : "In progress"}
+              />
               <div>
                 <strong>{item.tool}</strong>
-                <code>{JSON.stringify(item.args)}</code>
+                {item.args && <code>{JSON.stringify(item.args)}</code>}
               </div>
             </div>
           ))}
@@ -146,6 +148,130 @@ function Thinking({ items, streaming }) {
       )}
     </div>
   );
+}
+
+function renderInlineMarkdown(text, keyPrefix) {
+  const tokenPattern = /(`[^`]+`|\*\*[^*]+\*\*|__[^_]+__|~~[^~]+~~|\*[^*]+\*|_[^_]+_|\[[^\]]+\]\([^\s)]+\))/g;
+  const parts = text.split(tokenPattern);
+  return parts.map((part, index) => {
+    const key = `${keyPrefix}-${index}`;
+    if (part.startsWith("`") && part.endsWith("`"))
+      return <code key={key}>{part.slice(1, -1)}</code>;
+    if ((part.startsWith("**") && part.endsWith("**")) ||
+        (part.startsWith("__") && part.endsWith("__")))
+      return <strong key={key}>{part.slice(2, -2)}</strong>;
+    if ((part.startsWith("~~") && part.endsWith("~~")))
+      return <del key={key}>{part.slice(2, -2)}</del>;
+    if ((part.startsWith("*") && part.endsWith("*")) ||
+        (part.startsWith("_") && part.endsWith("_")))
+      return <em key={key}>{part.slice(1, -1)}</em>;
+    const link = part.match(/^\[([^\]]+)\]\(([^\s)]+)\)$/);
+    if (link)
+      return (
+        <a key={key} href={link[2]} target="_blank" rel="noreferrer">
+          {link[1]}
+        </a>
+      );
+    return part;
+  });
+}
+
+function MarkdownContent({ content }) {
+  const lines = content.replace(/\r/g, "").split("\n");
+  const blocks = [];
+  let paragraph = [];
+  let list = null;
+  let code = null;
+
+  const flushParagraph = () => {
+    if (paragraph.length) {
+      blocks.push(
+        <p key={`paragraph-${blocks.length}`}>
+          {paragraph.map((line, index) => (
+            <span key={index}>
+              {index > 0 && <br />}
+              {renderInlineMarkdown(line, `inline-${blocks.length}-${index}`)}
+            </span>
+          ))}
+        </p>,
+      );
+      paragraph = [];
+    }
+  };
+  const flushList = () => {
+    if (!list) return;
+    const Tag = list.ordered ? "ol" : "ul";
+    blocks.push(
+      <Tag key={`list-${blocks.length}`}>
+        {list.items.map((item, index) => (
+          <li key={index}>{renderInlineMarkdown(item, `list-${blocks.length}-${index}`)}</li>
+        ))}
+      </Tag>,
+    );
+    list = null;
+  };
+
+  lines.forEach((line, index) => {
+    const fence = line.match(/^\s*```(.*)$/);
+    if (fence) {
+      if (code) {
+        blocks.push(<pre key={`code-${blocks.length}`}><code>{code.lines.join("\n")}</code></pre>);
+        code = null;
+      } else {
+        flushParagraph();
+        flushList();
+        code = { language: fence[1].trim(), lines: [] };
+      }
+      return;
+    }
+    if (code) {
+      code.lines.push(line);
+      return;
+    }
+    if (!line.trim()) {
+      flushParagraph();
+      flushList();
+      return;
+    }
+    const heading = line.match(/^\s*(#{1,6})\s+(.+?)\s*#*$/);
+    if (heading) {
+      flushParagraph();
+      flushList();
+      const Tag = `h${heading[1].length}`;
+      blocks.push(<Tag key={`heading-${index}`}>{renderInlineMarkdown(heading[2], `heading-${index}`)}</Tag>);
+      return;
+    }
+    const quote = line.match(/^\s*>\s?(.*)$/);
+    if (quote) {
+      flushParagraph();
+      flushList();
+      blocks.push(<blockquote key={`quote-${index}`}>{renderInlineMarkdown(quote[1], `quote-${index}`)}</blockquote>);
+      return;
+    }
+    if (/^\s*([-*_])(?:\s*\1){2,}\s*$/.test(line)) {
+      flushParagraph();
+      flushList();
+      blocks.push(<hr key={`rule-${index}`} />);
+      return;
+    }
+    const listItem = line.match(/^\s*(?:([-+*])|(\d+\.))\s+(.+)$/);
+    if (listItem) {
+      flushParagraph();
+      const ordered = Boolean(listItem[2]);
+      if (!list || list.ordered !== ordered) {
+        flushList();
+        list = { ordered, items: [] };
+      }
+      list.items.push(listItem[3]);
+      return;
+    }
+    flushList();
+    paragraph.push(line);
+  });
+  if (code) blocks.push(<pre key={`code-${blocks.length}`}><code>{code.lines.join("\n")}</code></pre>);
+  flushParagraph();
+  flushList();
+  return <div className="markdown-content">{blocks}</div>;
 }
 
 function App() {
@@ -158,6 +284,7 @@ function App() {
   const [streaming, setStreaming] = useState(false);
   const [error, setError] = useState("");
   const bottomRef = useRef(null);
+  const textareaRef = useRef(null);
   // These effects synchronize the React state with Supabase's external auth session.
   // eslint-disable-next-line react-hooks/set-state-in-effect
   useEffect(() => {
@@ -219,6 +346,12 @@ function App() {
     setPrompt("");
     setError("");
   }
+  function resizeComposer() {
+    const textarea = textareaRef.current;
+    if (!textarea) return;
+    textarea.style.height = "auto";
+    textarea.style.height = `${Math.min(textarea.scrollHeight, 130)}px`;
+  }
   async function sendPrompt(event) {
     event?.preventDefault();
     const query = prompt.trim();
@@ -230,7 +363,14 @@ function App() {
     setMessages((current) => [
       ...current,
       { role: "user", content: query, thinking: [] },
-      { role: "agent", content: "", thinking: [] },
+      {
+        role: "agent",
+        content: "",
+        thinking: [
+          { tool: "Understanding question intent", phase: "intent", done: false },
+          { tool: "Running RAG retrieval", phase: "rag", done: false },
+        ],
+      },
     ]);
     try {
       if (!threadId) {
@@ -272,6 +412,20 @@ function App() {
                 ? { ...message, content: message.content + data.text }
                 : message,
             ),
+          );
+        if (type === "phase")
+          setMessages((current) =>
+            current.map((message, index) => {
+              if (index !== current.length - 1) return message;
+              return {
+                ...message,
+                thinking: message.thinking.map((item) =>
+                  item.phase === data.phase
+                    ? { ...item, done: data.status === "complete" }
+                    : item,
+                ),
+              };
+            }),
           );
         if (type === "thinking_start")
           setMessages((current) =>
@@ -428,7 +582,7 @@ function App() {
                   />
                 )}
                 <div className="message-content">
-                  {message.content ||
+                  {message.content ? <MarkdownContent content={message.content} /> :
                     (streaming && index === messages.length - 1 ? (
                       <span className="typing">
                         <i />
@@ -448,8 +602,12 @@ function App() {
         <form className="composer-wrap" onSubmit={sendPrompt}>
           <div className="composer">
             <textarea
+              ref={textareaRef}
               value={prompt}
-              onChange={(event) => setPrompt(event.target.value)}
+              onChange={(event) => {
+                setPrompt(event.target.value);
+                requestAnimationFrame(resizeComposer);
+              }}
               onKeyDown={(event) => {
                 if (event.key === "Enter" && !event.shiftKey) {
                   event.preventDefault();
