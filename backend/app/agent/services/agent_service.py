@@ -103,12 +103,11 @@ class AgentService:
             "token_usage": token_usage
         }
 
-        # Execute graph
-        result = await streaming(
+        
+        async for chunk in streaming(
             graph=runtime.graph,
             payload=payload,
             config=config,
             evaluation_dict=evaluation_dict
-        )
-
-        return result
+        ):
+            yield chunk

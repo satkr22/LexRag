@@ -1,5 +1,5 @@
+import json
 from langchain_core.runnables import RunnableConfig
-
 
 async def streaming(
     graph,
@@ -7,53 +7,46 @@ async def streaming(
     config: RunnableConfig,
     evaluation_dict: dict,
 ):
+    total_usage = {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+    }
+
     try:
-        tool_results = []
         async for event in graph.astream_events(payload, config=config, version="v2"):
-            
             kind = event["event"]
-            
+
             if kind == "on_chat_model_stream":
                 chunk = event["data"]["chunk"]
                 if chunk.content:
-                    print(f"\nEvent Type: {kind}:\n")
-                    print(chunk.content[0].get("text"))
-            
+                    text = chunk.content[0].get("text", "")
+                    yield f"event: message\ndata: {json.dumps({'text': text})}\n\n"
+
             elif kind == "on_tool_start":
                 tool_args = event["data"]["input"]
                 tool_name = event["name"]
-                print(f"\nEvent Type: {kind}:\n")
-                print(f"\nTool: {tool_name}\nArgs: {tool_args}")
-            
+                yield f"event: thinking_start\ndata: {json.dumps({'tool': tool_name, 'args': tool_args})}\n\n"
+
             elif kind == "on_tool_end":
-                tool_output = event["data"]["output"]
-                tool_output["tool_name"] = event["name"]
-                tool_results.append(tool_output)
-                    
+                yield f"event: thinking_end\ndata: {json.dumps({'tool': event['name']})}\n\n"
+
             elif kind == "on_chat_model_end":
                 output = event["data"].get("output")
-                if output:
-                    print(f"\nEvent: {kind}:\n")
-                    print(output)
-                    
-        evaluation_dict["tool_output"] = tool_results
-        
-        token_usage = {}
-        is_compressed = False
-        
+                usage = getattr(output, "usage_metadata", None)
+                if usage:
+                    total_usage["input_tokens"] += usage.get("input_tokens", 0)
+                    total_usage["output_tokens"] += usage.get("output_tokens", 0)
+                    total_usage["total_tokens"] += usage.get("total_tokens", 0)
+
+        # Preserve your existing state check after the stream finishes
         final_state = await graph.aget_state(config)
-        
-        if final_state and hasattr(final_state, "values") and isinstance(final_state.values, dict):
+        is_compressed = False
+        if final_state and isinstance(final_state.values, dict):
             is_compressed = final_state.values.get("is_compressed", False)
-            token_usage = final_state.values.get("token_usage", {})
-            evaluation_dict["final_output"] = final_state.values.get("executor_messages", [])[-1].content
-            
-        return {
-            "token_usage": token_usage,
-            "is_compressed": is_compressed,
-            "evaluation_dict": evaluation_dict
-        }
-    
+
+        # Yield a event carrying the final usage & state metadata
+        yield f"event: metadata\ndata: {json.dumps({'usage_metadata': total_usage, 'is_compressed': is_compressed})}\n\n"
+
     except Exception as e:
-        raise ValueError(f"Problem in astream_events: {e}") from e
-        # return token_usage
+        yield f"event: error\ndata: {json.dumps({'error': str(e)})}\n\n"

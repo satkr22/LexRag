@@ -10,6 +10,7 @@ from sqlalchemy import (
     Enum as SQLEnum,
 )
 from sqlalchemy.orm import Mapped, mapped_column
+from sqlalchemy.dialects.postgresql import JSONB
 
 from app.db.base import Base
 
@@ -47,6 +48,11 @@ class Chat_Message(Base):
     content: Mapped[str] = mapped_column(
         Text, 
         nullable=False
+    )
+    
+    usage_metadata: Mapped[dict | None] = mapped_column(
+        JSONB, 
+        nullable=True
     )
     
     created_at: Mapped[datetime] = mapped_column(
