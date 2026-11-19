@@ -1,5 +1,5 @@
 
-services:
+services:  
   backend:
     build: ./backend
     container_name: fastapi_backend
@@ -18,7 +18,28 @@ services:
     volumes:  
       - ./backend:/app
       - ./data/model_cache:/models
+    healthcheck:
+      test: ["CMD-SHELL", "python -c 'import urllib.request; urllib.request.urlopen(\"http://localhost:9000/docs\")' || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
     command: uvicorn app.main:app --host 0.0.0.0 --port 9000 --reload
+  
+  frontend:
+    build: ./frontend
+    container_name: lexrag_frontend
+    environment:
+      API_PROXY_TARGET: http://backend:9000
+      VITE_SUPABASE_URL: ${SUPABASE_URL}
+      VITE_SUPABASE_ANON_KEY: ${SUPABASE_PUBLISHABLE_KEY}
+    ports:
+      - "5173:5173"
+    depends_on:
+      backend:
+        condition: service_healthy
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
          
   postgres:
     image: postgres:17
