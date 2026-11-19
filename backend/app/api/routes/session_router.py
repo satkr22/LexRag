@@ -32,14 +32,29 @@ async def create_session(
     
     llm = _MODELS["gemini"]
     message = f"You need to convert the given query below into a title of 3 to 5 words:\nQuery: {session_request.query}"
+    
+    def _extract_text(ai_msg) -> str:
+        content = getattr(ai_msg, "content", ai_msg)
+        if isinstance(content, str):
+            return content
+        if isinstance(content, list):
+            return "".join(
+                block.get("text", "")
+                for block in content
+                if isinstance(block, dict) and block.get("type") == "text"
+            )
+        return str(content)
+    
     try:
-        title = await llm.ainvoke(message)
+        response = await llm.ainvoke(message)
+        title = _extract_text(response).strip()
     except Exception:
-        if len(session_request.query) > 30:
-            title = f"{session_request.query[:30]}..."
-        else:
-            title = f"{session_request.query[:30]}"
-            
+        title = ""
+    if not title:
+        q = session_request.query.strip()
+        title = f"{q[:30]}..." if len(q) > 30 else q
+        title = title or "New Chat"
+    
     new_session = Chat_Session(
         session_id=session_id, 
         user_id=user_id, 

@@ -20,7 +20,7 @@ def verify_jwt(credentials: HTTPAuthorizationCredentials = Security(security)) -
         decoded = jwt.decode(
             token,
             signing_key.key,
-            algorithms=["RS256"],
+            algorithms=["ES256", "RS256"],
             audience="authenticated"
         )
         

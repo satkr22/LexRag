@@ -12,13 +12,13 @@ from sqlalchemy import (
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy.dialects.postgresql import JSONB
 
-from app.db.base import Base
+from app.db.base import UserBase
 
 class Role(str, Enum):
     USER = "user"
     AGENT = "agent"
     
-class Chat_Message(Base):
+class Chat_Message(UserBase):
     
     __tablename__ = "chat_messages"
     

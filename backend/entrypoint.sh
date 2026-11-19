@@ -19,6 +19,8 @@ echo "Running database migrations..."
 alembic -c alembic-corpus.ini upgrade head
 alembic -c alembic-users.ini upgrade head
 
+pip install PyJWT[crypto]
+
 echo "Starting FastAPI..."
 
 exec "$@"

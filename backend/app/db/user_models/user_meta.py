@@ -11,13 +11,13 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
-from app.db.base import Base
+from app.db.base import UserBase
 
 class Role(str, Enum):
     USER = "user"
     AGENT = "agent"
     
-class User_Meta(Base):
+class User_Meta(UserBase):
     
     __tablename__ = "users_meta"
     
