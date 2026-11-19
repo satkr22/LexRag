@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { createClient } from "@supabase/supabase-js";
 import "./App.css";
+import { ACT_CATEGORIES, ACT_COUNT } from "./corpus";
 
 const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
 const supabaseKey =
@@ -150,6 +151,18 @@ function Thinking({ items, streaming }) {
   );
 }
 
+function cleanMarkdown(text) {
+  return text
+    .replace(/^#{1,6}\s+/gm, "")              // Remove headings
+    .replace(/\*\*(.*?)\*\*/g, "$1")          // Remove bold **
+    .replace(/__(.*?)__/g, "$1")              // Remove bold __
+    .replace(/\*(.*?)\*/g, "$1")              // Remove italic *
+    .replace(/_(.*?)_/g, "$1")                // Remove italic _
+    .replace(/~~(.*?)~~/g, "$1")              // Remove strikethrough
+    .replace(/`([^`]+)`/g, "$1")              // Remove inline code
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1"); // Keep link text
+}
+
 function renderInlineMarkdown(text, keyPrefix) {
   const tokenPattern = /(`[^`]+`|\*\*[^*]+\*\*|__[^_]+__|~~[^~]+~~|\*[^*]+\*|_[^_]+_|\[[^\]]+\]\([^\s)]+\))/g;
   const parts = text.split(tokenPattern);
@@ -274,6 +287,49 @@ function MarkdownContent({ content }) {
   return <div className="markdown-content">{blocks}</div>;
 }
 
+function CorpusModal({ onClose }) {
+  const [query, setQuery] = useState("");
+  const normalizedQuery = query.trim().toLowerCase();
+  const visibleCategories = ACT_CATEGORIES.map((category) => ({
+    ...category,
+    acts: category.acts.filter((act) => act.toLowerCase().includes(normalizedQuery)),
+  })).filter((category) => category.acts.length);
+  const visibleActCount = visibleCategories.reduce((count, category) => count + category.acts.length, 0);
+
+  useEffect(() => {
+    const handleKeyDown = (event) => event.key === "Escape" && onClose();
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, [onClose]);
+
+  return (
+    <div className="modal-backdrop" onMouseDown={(event) => event.target === event.currentTarget && onClose()}>
+      <section className="corpus-modal" role="dialog" aria-modal="true" aria-labelledby="corpus-title">
+        <div className="corpus-modal-header">
+          <div>
+            <p className="eyebrow">LEXRAG CORPUS</p>
+            <h2 id="corpus-title">Acts in the library</h2>
+            <p className="corpus-summary">Browse the statutes currently available for legal research.</p>
+          </div>
+          <button className="modal-close" onClick={onClose} aria-label="Close corpus library">×</button>
+        </div>
+        <div className="corpus-toolbar">
+          <label className="corpus-search"><span aria-hidden="true">⌕</span><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search acts…" aria-label="Search acts in corpus" autoFocus /></label>
+          <span className="corpus-count">{normalizedQuery ? `${visibleActCount} matches` : `${ACT_COUNT} acts`}</span>
+        </div>
+        <div className="corpus-list">
+          {visibleCategories.length ? visibleCategories.map((category) => (
+            <section className="corpus-category" key={category.name}>
+              <div className="category-heading"><h3>{category.name}</h3><span>{category.acts.length}</span></div>
+              <div className="act-grid">{category.acts.map((act) => <div className="act-card" key={act}>{act}</div>)}</div>
+            </section>
+          )) : <div className="corpus-empty">No acts match “{query}”.</div>}
+        </div>
+      </section>
+    </div>
+  );
+}
+
 function App() {
   const [user, setUser] = useState(null);
   const [ready, setReady] = useState(false);
@@ -283,6 +339,7 @@ function App() {
   const [prompt, setPrompt] = useState("");
   const [streaming, setStreaming] = useState(false);
   const [error, setError] = useState("");
+  const [corpusOpen, setCorpusOpen] = useState(false);
   const bottomRef = useRef(null);
   const textareaRef = useRef(null);
   // These effects synchronize the React state with Supabase's external auth session.
@@ -505,6 +562,11 @@ function App() {
           <button className="new-chat" onClick={newChat}>
             <span>＋</span> New chat
           </button>
+          <button className="corpus-button" onClick={() => setCorpusOpen(true)}>
+            <span className="corpus-button-icon" aria-hidden="true">▦</span>
+            <span>Acts in corpus</span>
+            <span className="corpus-button-count">{ACT_COUNT}</span>
+          </button>
         </div>
         <div className="session-heading">Your conversations</div>
         <nav className="sessions">
@@ -517,7 +579,7 @@ function App() {
               onClick={() => selectSession(session.session_id)}
             >
               <span className="session-icon">◌</span>
-              <span>{session.title}</span>
+              <span>{cleanMarkdown(session.title)}</span>
             </button>
           ))}
         </nav>
@@ -632,6 +694,7 @@ function App() {
           </p>
         </form>
       </section>
+      {corpusOpen && <CorpusModal onClose={() => setCorpusOpen(false)} />}
     </main>
   );
 }
