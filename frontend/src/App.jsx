@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { createClient } from "@supabase/supabase-js";
 import "./App.css";
 import { ACT_CATEGORIES, ACT_COUNT } from "./corpus";
@@ -44,6 +44,7 @@ function AuthScreen() {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [notice, setNotice] = useState("");
+
   async function submit(event) {
     event.preventDefault();
     setBusy(true);
@@ -58,6 +59,23 @@ function AuthScreen() {
     else if (mode === "signup" && !result.data.session)
       setNotice("Check your email to confirm your account, then log in.");
   }
+
+  async function signInWithGoogle() {
+    setBusy(true);
+    setError("");
+    setNotice("");
+    const { error } = await supabase.auth.signInWithOAuth({
+      provider: "google",
+      options: {
+        redirectTo: window.location.origin,
+      },
+    });
+    if (error) {
+      setError(error.message);
+      setBusy(false);
+    }
+  }
+
   return (
     <main className="auth-shell">
       <section className="auth-card">
@@ -97,6 +115,16 @@ function AuthScreen() {
             {busy ? "Please wait…" : mode === "login" ? "Log in" : "Sign up"}
           </button>
         </form>
+        
+        <button
+          type="button"
+          className="switch-button"
+          onClick={signInWithGoogle}
+          disabled={busy}
+        >
+          Continue with Google
+        </button>
+
         <button
           className="switch-button"
           onClick={() => {
@@ -115,10 +143,12 @@ function AuthScreen() {
 }
 
 function Thinking({ items, streaming }) {
-  const [open, setOpen] = useState(streaming); // eslint-disable-next-line react-hooks/set-state-in-effect
-  useEffect(() => {
+  const [open, setOpen] = useState(streaming);
+  const [previousStreaming, setPreviousStreaming] = useState(streaming);
+  if (streaming !== previousStreaming) {
+    setPreviousStreaming(streaming);
     if (streaming) setOpen(true);
-  }, [streaming]);
+  }
   if (!items.length) return null;
   return (
     <div className="thinking-block">
@@ -332,7 +362,8 @@ function CorpusModal({ onClose }) {
 
 function App() {
   const [user, setUser] = useState(null);
-  const [ready, setReady] = useState(false);
+  const [ready, setReady] = useState(!supabase);
+  const [restoringSession, setRestoringSession] = useState(true);
   const [sessions, setSessions] = useState([]);
   const [activeId, setActiveId] = useState(null);
   const [messages, setMessages] = useState([]);
@@ -342,50 +373,42 @@ function App() {
   const [corpusOpen, setCorpusOpen] = useState(false);
   const bottomRef = useRef(null);
   const textareaRef = useRef(null);
+  const activeSessionStorageKey = user
+    ? `lexrag-active-session:${user.id}`
+    : null;
   // These effects synchronize the React state with Supabase's external auth session.
-  // eslint-disable-next-line react-hooks/set-state-in-effect
   useEffect(() => {
     if (!supabase) {
-      setReady(true);
       return undefined;
     }
     supabase.auth.getSession().then(({ data: { session } }) => {
+      setRestoringSession(Boolean(session?.user));
       setUser(session?.user || null);
       setReady(true);
     });
     const {
       data: { subscription },
-    } = supabase.auth.onAuthStateChange((_event, session) =>
-      setUser(session?.user || null),
-    );
+    } = supabase.auth.onAuthStateChange((_event, session) => {
+      setRestoringSession(Boolean(session?.user));
+      setUser(session?.user || null);
+    });
     return () => subscription.unsubscribe();
   }, []);
-  // eslint-disable-next-line react-hooks/set-state-in-effect
-  useEffect(() => {
-    if (!user) {
-      setSessions([]);
-      setActiveId(null);
-      setMessages([]);
-      return;
-    }
-    loadSessions();
-    apiFetch("/users/sync", {
-      method: "POST",
-      body: JSON.stringify({ username: user.email || user.id }),
-    }).catch(() => {});
-  }, [user]);
-  useEffect(() => {
-    bottomRef.current?.scrollIntoView({ behavior: "smooth" });
-  }, [messages, streaming]);
-  async function loadSessions() {
+  const loadSessions = useCallback(async () => {
     try {
-      setSessions(await (await apiFetch("/sessions")).json());
+      const loadedSessions = await (await apiFetch("/sessions")).json();
+      setSessions(loadedSessions);
+      return loadedSessions;
     } catch (e) {
       setError(e.message);
+      return [];
     }
-  }
-  async function selectSession(id) {
+  }, []);
+  const selectSession = useCallback(async (id) => {
     setActiveId(id);
+    if (activeSessionStorageKey) {
+      window.localStorage.setItem(activeSessionStorageKey, id);
+    }
     setError("");
     try {
       setMessages(
@@ -396,9 +419,59 @@ function App() {
     } catch (e) {
       setError(e.message);
     }
-  }
+  }, [activeSessionStorageKey]);
+  useEffect(() => {
+    let cancelled = false;
+
+    async function restoreSession() {
+      await Promise.resolve();
+      if (cancelled) return;
+
+      if (!user) {
+        setSessions([]);
+        setActiveId(null);
+        setMessages([]);
+        return;
+      }
+
+      setRestoringSession(true);
+      const savedSessionId = window.localStorage.getItem(activeSessionStorageKey);
+      const loadedSessions = await loadSessions();
+      if (cancelled) return;
+
+      if (
+        savedSessionId &&
+        loadedSessions.some((session) => session.session_id === savedSessionId)
+      ) {
+        await selectSession(savedSessionId);
+        if (!cancelled) setRestoringSession(false);
+      } else if (savedSessionId) {
+        // The conversation may have been deleted on another device.
+        window.localStorage.removeItem(activeSessionStorageKey);
+        setRestoringSession(false);
+      } else {
+        setRestoringSession(false);
+      }
+
+      apiFetch("/users/sync", {
+        method: "POST",
+        body: JSON.stringify({ username: user.email || user.id }),
+      }).catch(() => {});
+    }
+
+    void restoreSession();
+    return () => {
+      cancelled = true;
+    };
+  }, [user, activeSessionStorageKey, loadSessions, selectSession]);
+  useEffect(() => {
+    bottomRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages, streaming]);
   function newChat() {
     setActiveId(null);
+    if (activeSessionStorageKey) {
+      window.localStorage.removeItem(activeSessionStorageKey);
+    }
     setMessages([]);
     setPrompt("");
     setError("");
@@ -439,6 +512,9 @@ function App() {
         ).json();
         threadId = created.session_id;
         setActiveId(threadId);
+        if (activeSessionStorageKey) {
+          window.localStorage.setItem(activeSessionStorageKey, threadId);
+        }
         setSessions((current) => [
           { ...created, updated_at: new Date().toISOString() },
           ...current,
@@ -549,6 +625,8 @@ function App() {
     );
   if (!ready) return <div className="loading-screen">Loading LexRAG…</div>;
   if (!user) return <AuthScreen />;
+  if (restoringSession)
+    return <div className="loading-screen">Loading conversation…</div>;
   return (
     <main className="app-shell">
       <aside className="sidebar">
