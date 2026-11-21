@@ -10,12 +10,11 @@ Below is a demonstration of the LexRag interface in action.
 
 <h3>Work Flow<h3>
 
-https://github.com/user-attachments/assets/7718fd61-80e6-4e6b-8fef-0f99132df6c1
-
+https://github.com/user-attachments/assets/d77e78dc-6323-4e43-b6c2-a3af88045380
 
 <h3>Login<h3>
 
-https://github.com/user-attachments/assets/7718fd61-80e6-4e6b-8fef-0f99132df6c1
+https://github.com/user-attachments/assets/686bfbf3-4762-422e-97d6-6ce7ae3986c5
 
 
 ### Interface Screenshots
