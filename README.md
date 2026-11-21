@@ -4,7 +4,29 @@ LexRAG is an AI legal research assistant for Indian legislation. A user asks a l
 
 LexRAG is built for legal research assistance, not as a replacement for a lawyer or an authoritative source of current law.
 
-## Product flow
+## UI Demo
+
+Below is a demonstration of the LexRag interface in action.
+
+<h3>Work Flow<h3>
+
+https://github.com/user-attachments/assets/7718fd61-80e6-4e6b-8fef-0f99132df6c1
+
+
+<h3>Login<h3>
+
+https://github.com/user-attachments/assets/7718fd61-80e6-4e6b-8fef-0f99132df6c1
+
+
+### Interface Screenshots
+
+![LexRag Login Interface Screenshot](./assets/login.png)
+
+![LexRag UI Screenshot](./assets/ui.png)
+
+
+
+## Work Flow
 
 1. The user signs in and submits a question from the React web app.
 2. The FastAPI backend authenticates the request and starts an agent run.
