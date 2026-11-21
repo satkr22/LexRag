@@ -64,40 +64,61 @@ flowchart LR
 
 The architecture diagram is intentionally high level. Component responsibilities, data stores, runtime paths, and ingestion/evaluation flows are documented in [docs/architecture.md](docs/architecture.md).
 
-## Run locally
+## Installation and setup
 
-### Requirements
+### Prerequisites
 
-- Docker and Docker Compose.
-- LLM credentials used by the backend.
-- Supabase project credentials for authentication.
+- Docker Desktop (or Docker Engine with the Compose plugin).
+- A Supabase project for authentication.
+- API credentials for the LLM providers used by the backend.
 - Enough disk space for PostgreSQL, Qdrant, and embedding-model caches.
-- CUDA is supported for embedding inference; CPU alternatives are available in the embedding modules.
 
-### Environment
+CUDA is optional. Set `QDRANT_INFERENCE_CUDA=false` when running embedding inference on the CPU.
 
-Create a root .env file with the values required by backend/app/common/config.py:
+### Clone the repository
+
+~~~bash
+git clone <repository-url>
+cd LexRag
+~~~
+
+### Configure environment variables
+
+Create a `.env` file in the repository root. The database URLs must use the Docker Compose service name `postgres` when the application runs in containers:
 
 ~~~dotenv
 GEMINI_API_KEY=...
 DASHSCOPE_API_KEY=...
 SUPABASE_URL=...
 SUPABASE_PUBLISHABLE_KEY=...
+
 POSTGRES_USER=...
 POSTGRES_PASSWORD=...
 POSTGRES_DB_MAIN=...
 POSTGRES_DB_CORPUS=...
 POSTGRES_DB_USERS=...
+
+DATABASE_URL_MAIN=postgresql+psycopg://<user>:<password>@postgres:5432/<main-database>
+DATABASE_URL_CORPUS=postgresql+psycopg://<user>:<password>@postgres:5432/<corpus-database>
+DATABASE_URL_USERS=postgresql+psycopg://<user>:<password>@postgres:5432/<users-database>
+
 QDRANT_URL=http://qdrant:6333
+QDRANT_INFERENCE_CUDA=false
+
+# Match these to the local user that owns the checked-out files.
+UID=1000
+GID=1000
 ~~~
 
-Keep credentials out of version control.
+Replace the placeholder database names and credentials with matching values. If a password contains characters such as `@`, `:` or `/`, URL-encode it in each `DATABASE_URL_*` value. Keep `.env` out of version control.
 
-### Start the services
+### Install and start the services
 
 ~~~bash
 docker compose up --build
 ~~~
+
+The first build installs the backend and frontend dependencies. On startup, the backend waits for PostgreSQL and runs both Alembic migration sets automatically.
 
 Services:
 
@@ -108,6 +129,18 @@ Services:
 - Chat endpoint: POST http://localhost:9000/agent/chat
 
 The chat endpoint requires a valid Supabase bearer token and accepts a query plus thread_id.
+
+To stop the services, press `Ctrl+C`. To start them again without rebuilding, run:
+
+~~~bash
+docker compose up
+~~~
+
+To remove the containers while keeping the local PostgreSQL and Qdrant data, run:
+
+~~~bash
+docker compose down
+~~~
 
 ## Repository structure
 
